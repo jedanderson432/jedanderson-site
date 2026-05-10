@@ -4,20 +4,20 @@ import { getCollection } from 'astro:content';
 import { TYPE_LABELS } from '../../site-config';
 import { canonicalPath } from '../../lib/canonical';
 
-const entries = await getCollection('papers', ({ data }: any) => data.status === 'published');
+const entries = await getCollection('books', ({ data }: any) => data.status === 'published');
 entries.sort((a, b) => +b.data.date - +a.data.date);
 ---
 
 <BaseLayout
-  title="Papers"
-  description="Formal arguments and concept work — papers from the corpus."
+  title="Books"
+  description="Books from the corpus — long-form work bound between covers."
 >
   <section class="mx-auto max-w-3xl px-4 py-12">
-    <h1 class="font-serif text-4xl text-ink mb-2">Papers</h1>
-    <p class="text-muted mb-10">Formal arguments and concept work, newest first.</p>
+    <h1 class="font-serif text-4xl text-ink mb-2">Books</h1>
+    <p class="text-muted mb-10">Long-form work, newest first.</p>
 
     {entries.length === 0 ? (
-      <p class="text-muted">No published papers yet.</p>
+      <p class="text-muted">No published books yet.</p>
     ) : (
       <ul class="space-y-6">
         {entries.map((e) => (
@@ -33,7 +33,10 @@ entries.sort((a, b) => +b.data.date - +a.data.date);
                 {TYPE_LABELS[e.data.type] ?? e.data.type}
               </span>
             </div>
-            <a href={canonicalPath(e)} class="font-serif text-xl text-ink hover:text-accent no-underline">
+            <a
+              href={e.data.external_url ?? canonicalPath(e)}
+              class="font-serif text-xl text-ink hover:text-accent no-underline"
+            >
               {e.data.title}
             </a>
             <p class="text-sm text-muted mt-1">{e.data.abstract}</p>

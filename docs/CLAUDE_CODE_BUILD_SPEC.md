@@ -54,7 +54,7 @@ Create `src/content/config.ts` defining a single `defineCollection` schema reuse
   title: string,
   slug: string,                    // kebab-case, used in URL
   date: Date,
-  type: 'essay' | 'paper' | 'post' | 'note' | 'letter' | 'speech' | 'book',
+  type: 'essay' | 'post' | 'book',
   status: 'draft' | 'published',
   tags: string[],
   abstract: string,
@@ -68,7 +68,7 @@ Create `src/content/config.ts` defining a single `defineCollection` schema reuse
 }
 ```
 
-Define collections: `essays`, `papers`, `posts`, `notes`, `letters`, `speeches`, `books`, `enviroai` — all using the same schema.
+Define collections: `essays`, `posts`, `books`. The `essays` and `posts` collections share a common schema; `books` extends it with optional `external_url` and `isbn`. (Earlier scaffolding had seven types — papers, notes, letters, speeches were collapsed; see [REPO_STRUCTURE.md](REPO_STRUCTURE.md#content-taxonomy-3-types).)
 
 Schema enforcement: build should fail if a content file is missing required fields. This is the discipline that keeps the corpus clean.
 
@@ -93,7 +93,7 @@ Pause and report.
   - RSS autodiscovery link to `/feed.xml`
   - Pagefind CSS link
 - `<body>`:
-  - Minimal header: site name (links to home), nav (Essays · Papers · Posts · Archive · About), search trigger
+  - Minimal header: site name (links to home), nav (Essays · Posts · Books · Archive · About), search trigger
   - `<slot />` for page content
   - Minimal footer: copyright, license note ("Content licensed CC-BY-4.0 unless otherwise noted"), GitHub link, RSS link
 
@@ -101,9 +101,9 @@ No sidebar. No social buttons. No popups. No newsletter signup. No cookie banner
 
 ### 3.2 Content layout
 
-`src/layouts/ContentLayout.astro` — for individual essay/paper/post pages. Wraps BaseLayout. Renders:
+`src/layouts/ContentLayout.astro` — for individual content pages (essay/post/book). Wraps BaseLayout. Renders:
 
-- Type label (small, top — "Essay" / "Paper" / etc.)
+- Type label (small, top — "Essay" / "Post" / "Book")
 - Title (H1, large)
 - Date + reading time (small, muted)
 - Abstract (italic, set off, before the body)
@@ -115,7 +115,7 @@ No sidebar. No social buttons. No popups. No newsletter signup. No cookie banner
 
 Create:
 
-- `src/pages/index.astro` — Homepage. Hero: name, the line "Bits Protect Its." (subtitle), a 2–3 sentence intro paragraph. Below: 3 sections — "Foundational treatises" (manually curated list), "Recent" (last 5 published, all types), "Browse" (links to /essays, /papers, /posts, /archive, /tags). Keep it spare.
+- `src/pages/index.astro` — Homepage. Hero: name, the line "Bits Protect Its." (subtitle), a 2–3 sentence intro paragraph. Below: 3 sections — "Foundational treatises" (manually curated list), "Recent" (last 5 published, all types), "Browse" (links to /essays, /posts, /books). Keep it spare.
 
 - `src/pages/about.astro` — Static markdown rendered in BaseLayout. Bio, current work (EnviroAI link), how to cite, contact (email link only — no form), license statement.
 
@@ -151,7 +151,10 @@ Create:
   - [{title}]({canonical_url}.md): {abstract}
   ...
 
-  ## Papers
+  ## Posts
+  ...
+
+  ## Books
   ...
   ```
 
@@ -210,11 +213,7 @@ Create one piece in each collection so the site has something to render and so I
   - pdf: "/pdfs/the_universe_is_information.pdf"
   - Also copy the source PDF to `/public/pdfs/the_universe_is_information.pdf`
 
-- `src/content/papers/_placeholder.md` — minimal placeholder, status: draft, so it doesn't render but the collection isn't empty.
-
-- `src/content/posts/_placeholder.md` — same pattern.
-
-- Skip the rest for now. We'll add them as the ingestion project completes.
+- The other surviving collections (`posts`, `books`) start empty. Their `index.astro` pages render an "Empty" message until real content lands. Earlier scaffolding seeded `_placeholder.md` stubs in each empty collection; those were removed when the taxonomy was collapsed — empty is now the explicit empty state.
 
 Pause and report.
 

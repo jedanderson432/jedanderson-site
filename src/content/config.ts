@@ -1,14 +1,22 @@
 import { defineCollection, z } from 'astro:content';
 
-const CONTENT_TYPES = [
-  'essay',
-  'paper',
-  'post',
-  'note',
-  'letter',
-  'speech',
-  'book',
+const CONTENT_TYPES = ['essay', 'post', 'book'] as const;
+
+const SUPPORTING_FILE_TYPES = [
+  'pdf',
+  'deck',
+  'video',
+  'image',
+  'audio',
+  'data',
 ] as const;
+
+const supportingFileSchema = z.object({
+  title: z.string().min(1),
+  file: z.string().min(1),
+  description: z.string().optional(),
+  type: z.enum(SUPPORTING_FILE_TYPES),
+});
 
 const baseSchema = z.object({
   // Required
@@ -37,22 +45,36 @@ const baseSchema = z.object({
   pdf: z.string().optional(),
   hero_image: z.string().optional(),
   hero_image_alt: z.string().optional(),
+
+  // Decks, videos, charts, posters, and other materials that attach
+  // to the writing they serve. The writing is canonical; supporting
+  // files are downloadable companions, never standalone collections.
+  supporting_files: z.array(supportingFileSchema).default([]),
 });
 
-const collection = defineCollection({
+// Books extend the base schema with two book-specific fields.
+const bookSchema = baseSchema.extend({
+  external_url: z.string().url().optional(),
+  isbn: z.string().optional(),
+});
+
+const baseCollection = defineCollection({
   type: 'content',
   schema: baseSchema,
 });
 
+const bookCollection = defineCollection({
+  type: 'content',
+  schema: bookSchema,
+});
+
 export const collections = {
-  essays: collection,
-  papers: collection,
-  posts: collection,
-  notes: collection,
-  letters: collection,
-  speeches: collection,
-  books: collection,
+  essays: baseCollection,
+  posts: baseCollection,
+  books: bookCollection,
 };
 
 export type ContentFrontmatter = z.infer<typeof baseSchema>;
-export { CONTENT_TYPES };
+export type BookFrontmatter = z.infer<typeof bookSchema>;
+export type SupportingFile = z.infer<typeof supportingFileSchema>;
+export { CONTENT_TYPES, SUPPORTING_FILE_TYPES };

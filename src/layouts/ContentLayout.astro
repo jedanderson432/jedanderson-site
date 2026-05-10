@@ -98,6 +98,29 @@ const articleSchema = {
       <slot />
     </div>
 
+    {data.supporting_files && data.supporting_files.length > 0 && (
+      <section class="mt-12 pt-6 border-t border-accent/40">
+        <h2 class="font-serif text-xl text-ink mb-4">Supporting materials</h2>
+        <ul class="space-y-4">
+          {data.supporting_files.map((sf: any) => (
+            <li>
+              <div class="flex items-baseline gap-2 flex-wrap">
+                <a href={sf.file} class="text-ink underline hover:text-accent">
+                  {sf.title}
+                </a>
+                <span class="text-xs uppercase tracking-wide text-muted">
+                  {sf.type}
+                </span>
+              </div>
+              {sf.description && (
+                <p class="text-sm text-muted mt-1">{sf.description}</p>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
     <hr class="border-rule my-10" />
 
     <div class="flex flex-wrap gap-2 mb-6">

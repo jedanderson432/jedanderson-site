@@ -5,11 +5,7 @@ import { canonicalFor } from '../lib/canonical';
 
 const COLLECTION_HEADINGS: Record<string, string> = {
   essays: 'Essays',
-  papers: 'Papers',
   posts: 'Posts',
-  notes: 'Notes',
-  letters: 'Letters',
-  speeches: 'Speeches',
   books: 'Books',
 };
 

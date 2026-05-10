@@ -16,48 +16,31 @@ export const SITE = {
 } as const;
 
 // Collection ↔ type mapping. Frontmatter `type` is singular; URLs and
-// collection names are plural. Type drives URLs via this table.
+// collection names are plural. Type drives URLs via this table. The
+// surviving taxonomy is essays / posts / books — see
+// docs/REPO_STRUCTURE.md for the rationale behind the collapse.
 export const TYPE_TO_COLLECTION = {
   essay: 'essays',
-  paper: 'papers',
   post: 'posts',
-  note: 'notes',
-  letter: 'letters',
-  speech: 'speeches',
   book: 'books',
 } as const;
 
 export const COLLECTION_TO_TYPE = {
   essays: 'essay',
-  papers: 'paper',
   posts: 'post',
-  notes: 'notes',
-  letters: 'letter',
-  speeches: 'speech',
   books: 'book',
 } as const;
 
-export const COLLECTIONS = [
-  'essays',
-  'papers',
-  'posts',
-  'notes',
-  'letters',
-  'speeches',
-  'books',
-] as const;
+export const COLLECTIONS = ['essays', 'posts', 'books'] as const;
 
 export const TYPE_LABELS: Record<string, string> = {
   essay: 'Essay',
-  paper: 'Paper',
   post: 'Post',
-  note: 'Note',
-  letter: 'Letter',
-  speech: 'Speech',
   book: 'Book',
 };
 
-// Order in which collections appear on Browse / nav.
-export const NAV_COLLECTIONS = ['essays', 'papers', 'posts'] as const;
+// Order in which collections appear in the homepage Browse section
+// and the header nav.
+export const NAV_COLLECTIONS = ['essays', 'posts', 'books'] as const;
 
 export type CollectionName = (typeof COLLECTIONS)[number];

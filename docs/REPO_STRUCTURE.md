@@ -19,13 +19,8 @@ jedanderson-site/
 │   ├── content/
 │   │   ├── config.ts                    # Content collection schemas (Zod)
 │   │   ├── essays/
-│   │   ├── papers/
 │   │   ├── posts/
-│   │   ├── notes/
-│   │   ├── letters/
-│   │   ├── speeches/
-│   │   ├── books/
-│   │   └── enviroai/                    # ESI-specific corpus
+│   │   └── books/
 │   ├── layouts/
 │   │   ├── BaseLayout.astro
 │   │   └── ContentLayout.astro
@@ -33,19 +28,22 @@ jedanderson-site/
 │   │   ├── index.astro                  # Homepage
 │   │   ├── about.astro
 │   │   ├── archive.astro                # Chronological + tag-based index
-│   │   ├── essays/[...slug].astro       # Render essay
-│   │   ├── essays/[...slug].md.ts       # Serve raw markdown at /essays/x.md
-│   │   ├── papers/[...slug].astro
-│   │   ├── papers/[...slug].md.ts
-│   │   ├── ... (one pair per content type)
+│   │   ├── essays/index.astro           # Collection index
+│   │   ├── posts/index.astro
+│   │   ├── books/index.astro
+│   │   ├── [type]/[...slug].astro       # Render any piece (essay/post/book)
+│   │   ├── [type]/[...slug].md.ts       # Serve raw markdown at /<type>/x.md
 │   │   ├── tags/[tag].astro             # Per-tag index pages
+│   │   ├── tags/index.astro             # All-tags index
 │   │   └── feed.xml.ts                  # RSS feed
 │   ├── components/
 │   └── styles/
 ├── public/
 │   ├── robots.txt                       # See robots.txt file
 │   ├── llms.txt                         # See llms.txt file
-│   ├── pdfs/                            # Original PDFs preserved
+│   ├── pdfs/                            # Original/companion PDFs
+│   ├── decks/                           # Slide decks (PDF-exported)
+│   ├── downloads/                       # Other supplementary files (data, audio, etc.)
 │   └── images/
 ├── astro.config.mjs                     # Enable sitemap integration
 ├── tailwind.config.mjs
@@ -53,6 +51,10 @@ jedanderson-site/
 ├── README.md
 └── INGESTION_BRIEF.md
 ```
+
+### Content taxonomy (3 types)
+
+The surviving collections are **essays**, **posts**, and **books**. Earlier scaffolding had seven (`essays / papers / posts / notes / letters / speeches / books`); that was collapsed because the extras were aspirational categories that didn't reflect actual output. A piece that's formally a paper, letter, or speech can live in `essays/` with appropriate `paper` / `letter` / `speech` form tags (see [TAG_VOCABULARY.md](TAG_VOCABULARY.md)). Notes (working/unfinished pieces) are not published — drafts stay in drafts (`status: draft`).
 
 ---
 
@@ -63,7 +65,7 @@ jedanderson-site/
 title: "The Universe is Information"
 slug: "universe-is-information"
 date: 2026-04-15
-type: "essay"                     # essay | paper | post | note | letter | speech | book
+type: "essay"                     # essay | post | book
 status: "published"               # draft | published
 tags: ["physics", "information-theory", "deutsch", "wheeler", "causal-sovereignty"]
 abstract: "A first-principles treatise..."
@@ -74,8 +76,17 @@ canonical_url: "https://jedanderson.org/essays/universe-is-information"
 original_source: ""               # for archived pieces: gmail | gdrive | constant-contact | linkedin
 original_date: 2024-04-15         # if different from publication date here
 pdf: "/pdfs/universe-is-information.pdf"   # if a PDF version exists
+hero_image: "/images/universe-is-information-cover.jpg"
+hero_image_alt: "Descriptive alt for screen readers and AI ingestion."
+supporting_files:                 # decks, videos, charts, posters — see "Content patterns" below
+  - title: "Companion slide deck"
+    file: "/decks/universe-is-information.pdf"
+    description: "The argument as I've delivered it as a talk."
+    type: deck
 ---
 ```
+
+Books (the `books` collection only) accept two extra optional fields: `external_url` (for books published externally — e.g. Amazon) and `isbn`.
 
 Enforce this schema in `src/content/config.ts` using Zod. Builds fail if a file is missing required fields. This is the discipline that keeps the corpus clean as it grows.
 
@@ -110,6 +121,25 @@ For pieces you want maximally available — including for training without attri
 - **Per-tag pages** for topic clustering.
 - **Pagefind** for client-side full-text search.
 - **`.md` endpoint for every page** — agents can fetch raw markdown without parsing HTML.
+
+---
+
+## Content patterns
+
+### Supporting materials, not standalone collections
+
+Visual artifacts — decks, videos, charts, posters, datasets, audio — attach to the essays they serve via the `supporting_files` frontmatter array. They are not standalone collections. The writing is canonical; supporting materials are downloadable companions, surfaced at the bottom of the piece they belong to.
+
+Each entry takes a `title`, `file` path, optional `description`, and `type` (one of `pdf`, `deck`, `video`, `image`, `audio`, `data`). Files live under:
+
+- `/public/pdfs/` — companion PDFs of the writing itself
+- `/public/decks/` — slide decks (typically PDF-exported)
+- `/public/downloads/` — other supplementary files (data, audio, etc.)
+- `/public/images/` — images that serve as supporting artifacts
+
+### Subjects via tags, not subcategories
+
+The 3-collection taxonomy (essays / posts / books) intentionally leaves *subject* out of the URL structure. A piece on physics, faith, or ESI is still an essay — its subject lives in tags, not in a directory. See [TAG_VOCABULARY.md](TAG_VOCABULARY.md) for the canonical tag list and conventions.
 
 ---
 
