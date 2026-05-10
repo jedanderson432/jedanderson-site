@@ -1,8 +1,7 @@
 ---
 title: 'The Negentropic Channel: A First-Principles Synthesis of Recent Developments in Direct Neural Communication and Environmental General Intelligence for Universal Communication'
 slug: 'negentropic-channel'
-date: 2026-05-10
-original_date: 2025-08-28
+date: 2025-08-28
 type: essay
 status: published
 tags: ['enviroai', 'thermodynamics', 'whitehead', 'paper']

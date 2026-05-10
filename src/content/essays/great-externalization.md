@@ -1,8 +1,7 @@
 ---
 title: 'The Great Externalization: A First-Principles Analysis of the 2025 AI Compute Boom and Its Thermodynamic Consequences for Planetary Stewardship'
 slug: 'great-externalization'
-date: 2026-05-10
-original_date: 2025-09-24
+date: 2025-09-24
 type: essay
 status: published
 tags: ['enviroai', 'thermodynamics', 'holography', 'whitehead', 'paper']

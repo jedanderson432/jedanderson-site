@@ -1,8 +1,7 @@
 ---
 title: 'The Scaling Imperative: A First-Principles Comparison of Human-Cognitive and Integrated Computational Networks for Planetary-Scale Intelligence'
 slug: 'scaling-imperative-hcn-vs-icn'
-date: 2026-05-10
-original_date: 2025-10-25
+date: 2025-10-25
 type: essay
 status: published
 tags: ['enviroai', 'thermodynamics', 'whitehead', 'paper', 'treatise']

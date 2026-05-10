@@ -1,8 +1,7 @@
 ---
 title: 'Environmental Protection in a Holographic Information Framework'
 slug: 'environmental-protection-holographic-information-framework'
-date: 2026-05-10
-original_date: 2025-03-02
+date: 2025-03-02
 type: essay
 status: published
 tags: ['holography', 'enviroai', 'bekenstein', 'information-theory', 'paper']

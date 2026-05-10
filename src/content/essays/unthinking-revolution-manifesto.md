@@ -1,8 +1,7 @@
 ---
 title: 'The Unthinking Revolution: A Manifesto for the Environmental Profession'
 slug: 'unthinking-revolution-manifesto'
-date: 2026-05-10
-original_date: 2025-08-29
+date: 2025-08-29
 type: essay
 status: published
 tags: ['enviroai', 'whitehead', 'legal-reform', 'paper', 'treatise']

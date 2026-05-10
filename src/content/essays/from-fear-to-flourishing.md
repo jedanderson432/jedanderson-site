@@ -1,8 +1,7 @@
 ---
 title: 'From Fear to Flourishing: An Architecture for Planetary Thriving in the Information Age'
 slug: 'from-fear-to-flourishing'
-date: 2026-05-10
-original_date: 2025-09-10
+date: 2025-09-10
 type: essay
 status: published
 tags: ['enviroai', 'thermodynamics', 'faith', 'paper', 'treatise']

@@ -1,8 +1,7 @@
 ---
 title: 'The Law of Unthinking: A Strategic Analysis of the Next Paradigm in Environmental Management'
 slug: 'law-of-unthinking-strategic-analysis'
-date: 2026-05-10
-original_date: 2025-07-23
+date: 2025-07-23
 type: essay
 status: published
 tags: ['enviroai', 'whitehead', 'legal-reform', 'paper', 'treatise']

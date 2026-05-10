@@ -1,8 +1,7 @@
 ---
 title: 'Law of Unthinking and the Holographic Negentropic Framework: Toward a Paradigm of Proactive Planetary Thriving'
 slug: 'law-of-unthinking-holographic-negentropic-framework'
-date: 2026-05-10
-original_date: 2025-08-08
+date: 2025-08-08
 type: essay
 status: published
 tags: ['foundational', 'holography', 'thermodynamics', 'whitehead', 'enviroai', 'treatise', 'paper']

@@ -1,8 +1,7 @@
 ---
 title: 'The Thermodynamics of Artificial Intelligence: A First-Principles Analysis of the Maxwellian Demon Hypothesis'
 slug: 'thermodynamics-of-ai-maxwell-demon'
-date: 2026-05-10
-original_date: 2025-11-24
+date: 2025-11-24
 type: essay
 status: published
 tags: ['thermodynamics', 'information-theory', 'physics', 'maxwell', 'landauer', 'paper', 'enviroai']

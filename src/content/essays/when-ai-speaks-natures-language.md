@@ -1,8 +1,7 @@
 ---
 title: 'When AI Speaks Nature''s Language: Decoding the Planetary Conversation and Encoding Planetary Thriving'
 slug: 'when-ai-speaks-natures-language'
-date: 2026-05-10
-original_date: 2025-08-22
+date: 2025-08-22
 type: essay
 status: published
 tags: ['enviroai', 'information-theory']

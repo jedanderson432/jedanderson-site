@@ -1,8 +1,7 @@
 ---
 title: 'The Environmental Angel: Information, Entropy, and the Thermodynamic Limits of Ecological Control'
 slug: 'environmental-angel-maxwells-demon-evolved'
-date: 2026-05-10
-original_date: 2025-05-05
+date: 2025-05-05
 type: essay
 status: published
 tags: ['foundational', 'thermodynamics', 'maxwell', 'enviroai', 'paper', 'causal-sovereignty']
