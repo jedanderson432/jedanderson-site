@@ -36,15 +36,42 @@ const personSchema = {
   {foundational.length > 0 && (
     <section class="mx-auto max-w-3xl px-4 py-8 border-t border-rule">
       <h2 class="font-serif text-2xl text-ink mb-4">Foundational treatises</h2>
-      <ul class="space-y-4">
+      {/*
+        Cover-art thumbnail is intentionally scoped to foundational
+        cards only. Other listing surfaces (Recent, Archive, tag
+        pages, /essays|/papers|/posts indexes) stay text-only by
+        design — corpus-scale, not gallery-style.
+      */}
+      <ul class="space-y-6">
         {foundational.map((e) => (
           <li>
-            <a href={canonicalPath(e)} class="block group no-underline">
-              <p class="text-xs uppercase tracking-widest text-muted">
-                {TYPE_LABELS[e.data.type] ?? e.data.type}
-              </p>
-              <p class="font-serif text-xl text-ink group-hover:text-accent">{e.data.title}</p>
-              <p class="text-sm text-muted mt-1">{e.data.abstract}</p>
+            <a
+              href={canonicalPath(e)}
+              class:list={[
+                'group no-underline',
+                e.data.hero_image
+                  ? 'flex flex-col sm:flex-row gap-6 items-start'
+                  : 'block',
+              ]}
+            >
+              {e.data.hero_image && (
+                <img
+                  src={e.data.hero_image}
+                  alt={e.data.hero_image_alt ?? e.data.title}
+                  class="rounded-[2px] object-cover max-h-[150px] sm:max-h-[200px] w-auto shrink-0"
+                  loading="lazy"
+                />
+              )}
+              <div class:list={[e.data.hero_image && 'flex-1 min-w-0']}>
+                <p class="text-xs uppercase tracking-widest text-muted">
+                  {TYPE_LABELS[e.data.type] ?? e.data.type}
+                </p>
+                <p class="font-serif text-xl text-ink group-hover:text-accent">{e.data.title}</p>
+                {e.data.subtitle && (
+                  <p class="font-serif italic text-base text-muted mt-1">{e.data.subtitle}</p>
+                )}
+                <p class="text-sm text-muted mt-1">{e.data.abstract}</p>
+              </div>
             </a>
           </li>
         ))}

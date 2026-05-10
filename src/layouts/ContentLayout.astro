@@ -58,11 +58,23 @@ const articleSchema = {
   jsonLd={articleSchema}
 >
   <article
-    class="mx-auto max-w-3xl px-4 py-12"
+    class:list={[
+      'mx-auto max-w-3xl px-4 pb-12',
+      data.hero_image ? 'pt-8' : 'pt-12',
+    ]}
     data-pagefind-body
     data-pagefind-meta={`title:${data.title}`}
     data-pagefind-filter={`type:${TYPE_LABELS[data.type] ?? data.type}`}
   >
+    {data.hero_image && (
+      <img
+        src={data.hero_image}
+        alt={data.hero_image_alt ?? data.title}
+        class="w-full h-auto rounded-[4px] mb-12"
+        loading="eager"
+      />
+    )}
+
     <p class="text-xs uppercase tracking-widest text-muted mb-2">
       {TYPE_LABELS[data.type] ?? data.type}
     </p>
@@ -77,15 +89,6 @@ const articleSchema = {
       <span aria-hidden="true"> · </span>
       <span>{minutes} min read</span>
     </p>
-
-    {data.hero_image && (
-      <img
-        src={data.hero_image}
-        alt=""
-        class="w-full h-auto rounded mb-8 border border-rule"
-        loading="eager"
-      />
-    )}
 
     <p class="italic text-muted border-l-2 border-rule pl-4 mb-10 text-lg leading-relaxed">
       {data.abstract}

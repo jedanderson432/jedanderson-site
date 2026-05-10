@@ -36,6 +36,7 @@ const baseSchema = z.object({
   original_date: z.coerce.date().optional(),
   pdf: z.string().optional(),
   hero_image: z.string().optional(),
+  hero_image_alt: z.string().optional(),
 });
 
 const collection = defineCollection({
