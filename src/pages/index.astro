@@ -20,9 +20,19 @@ const personSchema = {
   '@context': 'https://schema.org',
   '@type': 'Person',
   name: SITE.author,
+  jobTitle: 'Creator and CEO of EnviroAI',
   url: SITE.url,
   description: SITE.description,
-  sameAs: [SITE.github].filter(Boolean),
+  worksFor: {
+    '@type': 'Organization',
+    name: 'EnviroAI',
+    url: 'https://enviro.ai',
+  },
+  sameAs: [
+    SITE.github,
+    'https://www.linkedin.com/in/jed-anderson/',
+    'https://enviro.ai',
+  ].filter(Boolean),
 };
 ---
 
