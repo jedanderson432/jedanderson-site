@@ -18,6 +18,10 @@ User-agent: anthropic-ai
 Allow: /
 Crawl-delay: 1
 
+User-agent: Claude-User
+Allow: /
+Crawl-delay: 1
+
 User-agent: GPTBot
 Allow: /
 Crawl-delay: 1
