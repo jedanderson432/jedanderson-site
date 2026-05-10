@@ -35,11 +35,16 @@
       // exist at build time.
       const dynImport = new Function('p', 'return import(p)');
       const { PagefindUI } = await dynImport('/pagefind/pagefind-ui.js');
-      new PagefindUI({ element: '#pagefind-search', showSubResults: true });
+      new PagefindUI({
+        element: '#pagefind-search',
+        bundlePath: '/pagefind/',
+        showSubResults: true,
+      });
       initialized = true;
     } catch (err) {
+      console.error('[search] Pagefind UI failed to load:', err);
       mount.innerHTML =
-        '<p class="text-muted text-sm">Search index not yet built. Run a production build to enable search.</p>';
+        '<p class="text-muted text-sm">Search is unavailable on this build. (See console for details.)</p>';
     }
   }
 
