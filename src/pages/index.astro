@@ -30,8 +30,11 @@ const personSchema = {
   {/* Masthead + brief lead. The full intro continues further down,
       after Foundational treatises and Recent — corpus weight first. */}
   <section class="mx-auto max-w-3xl px-4 pt-16 pb-8">
-    <h1 class="font-serif text-5xl leading-tight text-ink mb-2">{SITE.title}</h1>
-    <p class="text-xl text-accent mb-8 italic">{SITE.subtitle}</p>
+    <h1 class="font-serif text-5xl leading-tight text-ink mb-4">{SITE.title}</h1>
+    {/* "Bits Protect Its." is the corpus thesis — sized as a
+        secondary heading rather than a tagline. Slightly tighter
+        tracking, italic, in the warm umber accent. */}
+    <p class="font-serif italic tracking-tight text-accent text-3xl sm:text-4xl leading-tight mb-10">{SITE.subtitle}</p>
     <div class="max-w-2xl text-lg leading-relaxed text-ink space-y-6">
       <p>Writer, founder, builder.</p>
       <p>
