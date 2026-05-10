@@ -1,0 +1,64 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { COLLECTIONS, TYPE_LABELS } from '../../site-config';
+import { canonicalPath } from '../../lib/canonical';
+
+export async function getStaticPaths() {
+  const all: any[] = [];
+  for (const c of COLLECTIONS) {
+    const entries = await getCollection(c, ({ data }: any) => data.status === 'published');
+    for (const e of entries) all.push(e);
+  }
+
+  const byTag = new Map<string, any[]>();
+  for (const e of all) {
+    for (const t of e.data.tags ?? []) {
+      if (!byTag.has(t)) byTag.set(t, []);
+      byTag.get(t)!.push(e);
+    }
+  }
+
+  return [...byTag.entries()].map(([tag, entries]) => ({
+    params: { tag },
+    props: { tag, entries: entries.sort((a, b) => +b.data.date - +a.data.date) },
+  }));
+}
+
+const { tag, entries } = Astro.props as { tag: string; entries: any[] };
+---
+
+<BaseLayout
+  title={`Tagged: ${tag}`}
+  description={`All pieces tagged "${tag}".`}
+>
+  <section class="mx-auto max-w-3xl px-4 py-12">
+    <p class="text-xs uppercase tracking-widest text-muted mb-2">Tag</p>
+    <h1 class="font-serif text-4xl text-ink mb-2">{tag}</h1>
+    <p class="text-muted mb-10">
+      <a href="/tags" class="underline hover:text-ink">All tags</a>
+    </p>
+
+    <ul class="space-y-6">
+      {entries.map((e) => (
+        <li>
+          <div class="flex items-baseline gap-3 mb-1">
+            <time
+              datetime={e.data.date.toISOString()}
+              class="text-xs text-muted tabular-nums w-28 shrink-0"
+            >
+              {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+            </time>
+            <span class="text-xs uppercase tracking-widest text-muted">
+              {TYPE_LABELS[e.data.type] ?? e.data.type}
+            </span>
+          </div>
+          <a href={canonicalPath(e)} class="font-serif text-xl text-ink hover:text-accent no-underline">
+            {e.data.title}
+          </a>
+          <p class="text-sm text-muted mt-1">{e.data.abstract}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

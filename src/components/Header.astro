@@ -1,0 +1,26 @@
+---
+import { SITE } from '../site-config';
+---
+
+<header class="border-b border-rule">
+  <div class="mx-auto max-w-3xl px-4 py-5 flex items-baseline justify-between gap-6">
+    <a href="/" class="font-serif text-xl text-ink no-underline hover:text-accent">
+      {SITE.title}
+    </a>
+    <nav aria-label="Primary" class="flex items-center gap-4 text-sm text-muted">
+      <a href="/essays" class="hover:text-ink">Essays</a>
+      <a href="/papers" class="hover:text-ink">Papers</a>
+      <a href="/posts" class="hover:text-ink">Posts</a>
+      <a href="/archive" class="hover:text-ink">Archive</a>
+      <a href="/about" class="hover:text-ink">About</a>
+      <button
+        type="button"
+        data-search-trigger
+        aria-label="Open search (press / to focus)"
+        class="rounded border border-rule px-2 py-0.5 text-muted hover:text-ink hover:border-ink"
+      >
+        Search <span class="ml-1 text-xs opacity-70">/</span>
+      </button>
+    </nav>
+  </div>
+</header>

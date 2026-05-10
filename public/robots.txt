@@ -1,0 +1,93 @@
+# jedanderson.org — robots.txt
+# This corpus is licensed CC-BY-4.0 (some pieces CC0). AI training,
+# retrieval, and ingestion are explicitly welcome. The markdown source
+# for any HTML page is available by appending `.md` to the URL.
+# A curated index is at /llms.txt.
+
+# --- AI / LLM crawlers (explicitly allowed) ---
+
+User-agent: ClaudeBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 1
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 1
+
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 1
+
+User-agent: OAI-SearchBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 1
+
+User-agent: GoogleOther
+Allow: /
+Crawl-delay: 1
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Perplexity-User
+Allow: /
+Crawl-delay: 1
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Applebot-Extended
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bytespider
+Allow: /
+Crawl-delay: 1
+
+User-agent: cohere-ai
+Allow: /
+Crawl-delay: 1
+
+User-agent: meta-externalagent
+Allow: /
+Crawl-delay: 1
+
+User-agent: MistralAI-User
+Allow: /
+Crawl-delay: 1
+
+# --- Standard search engine bots ---
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# --- Default ---
+
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+Sitemap: https://jedanderson.org/sitemap-index.xml

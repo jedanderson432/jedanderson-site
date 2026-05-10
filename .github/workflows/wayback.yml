@@ -1,0 +1,72 @@
+name: Wayback snapshot
+
+on:
+  push:
+    branches: [main]
+  # Manual trigger from the Actions tab — useful after content drops.
+  workflow_dispatch:
+
+jobs:
+  snapshot:
+    name: Submit canonical URLs to the Internet Archive
+    runs-on: ubuntu-latest
+    # Failures here should never block the merge — this is best-effort
+    # archival, not a deploy gate.
+    continue-on-error: true
+    timeout-minutes: 30
+
+    steps:
+      - name: Wait for Netlify deploy
+        run: sleep 120
+
+      - name: Discover canonical URLs from sitemap and submit each to Wayback
+        env:
+          SITE: https://jedanderson.org
+        run: |
+          set +e
+
+          echo "Fetching sitemap index from $SITE..."
+          sitemap_xml=$(curl -fsSL --retry 3 --max-time 30 "$SITE/sitemap-index.xml") || {
+            echo "Sitemap unreachable — skipping (non-blocking)."
+            exit 0
+          }
+
+          # Extract child sitemap URLs (sitemap-0.xml, sitemap-1.xml, ...).
+          sitemaps=$(echo "$sitemap_xml" | grep -oE '<loc>[^<]+</loc>' | sed -E 's/<\/?loc>//g')
+
+          if [ -z "$sitemaps" ]; then
+            echo "No child sitemaps found — skipping."
+            exit 0
+          fi
+
+          urls=""
+          for sm in $sitemaps; do
+            child=$(curl -fsSL --retry 3 --max-time 30 "$sm") || continue
+            child_urls=$(echo "$child" | grep -oE '<loc>[^<]+</loc>' | sed -E 's/<\/?loc>//g')
+            urls="$urls $child_urls"
+          done
+
+          urls=$(echo "$urls" | tr ' ' '\n' | grep -v '^$' | sort -u)
+
+          count=$(echo "$urls" | wc -l)
+          echo "Discovered $count URLs."
+
+          ok=0
+          fail=0
+          for u in $urls; do
+            echo "→ Saving $u"
+            # --max-time keeps a single hung request from blowing the budget.
+            # Wayback's /save endpoint is occasionally slow or rate-limited;
+            # we eat any failure and move on.
+            if curl -fsSL --max-time 60 -o /dev/null "https://web.archive.org/save/$u"; then
+              ok=$((ok + 1))
+            else
+              fail=$((fail + 1))
+              echo "   (failed — non-blocking)"
+            fi
+            # Be polite — Wayback's documented rate is ~1 req/s.
+            sleep 1
+          done
+
+          echo
+          echo "Wayback summary: $ok saved, $fail failed (out of $count)."

@@ -1,0 +1,82 @@
+---
+import { SITE } from '../site-config';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SearchModal from '../components/SearchModal.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  canonicalUrl?: string;
+  ogImage?: string;
+  jsonLd?: Record<string, any> | Record<string, any>[];
+}
+
+const {
+  title,
+  description = SITE.description,
+  canonicalUrl,
+  ogImage,
+  jsonLd,
+} = Astro.props;
+
+const fullTitle = title ? `${title} — ${SITE.title}` : SITE.title;
+const resolvedCanonical = canonicalUrl ?? new URL(Astro.url.pathname, SITE.url).toString();
+const resolvedOgImage = ogImage
+  ? new URL(ogImage, SITE.url).toString()
+  : new URL('/og-default.png', SITE.url).toString();
+
+const jsonLdNodes = jsonLd
+  ? Array.isArray(jsonLd)
+    ? jsonLd
+    : [jsonLd]
+  : [];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={resolvedCanonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title={`${SITE.title} — RSS`}
+      href="/feed.xml"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={resolvedCanonical} />
+    <meta property="og:site_name" content={SITE.title} />
+    <meta property="og:image" content={resolvedOgImage} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={resolvedOgImage} />
+
+    {import.meta.env.PROD && (
+      <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+    )}
+
+    {
+      jsonLdNodes.map((node) => (
+        <script type="application/ld+json" set:html={JSON.stringify(node)} />
+      ))
+    }
+  </head>
+  <body class="bg-paper text-ink font-serif antialiased min-h-screen flex flex-col">
+    <Header />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+    <SearchModal />
+  </body>
+</html>

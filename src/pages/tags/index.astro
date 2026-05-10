@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { COLLECTIONS } from '../../site-config';
+
+const counts = new Map<string, number>();
+for (const c of COLLECTIONS) {
+  const entries = await getCollection(c, ({ data }: any) => data.status === 'published');
+  for (const e of entries) {
+    for (const t of e.data.tags ?? []) {
+      counts.set(t, (counts.get(t) ?? 0) + 1);
+    }
+  }
+}
+
+const tags = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+const max = Math.max(1, ...tags.map(([, n]) => n));
+
+function fontSize(n: number): string {
+  // Map count → 0.85rem .. 1.6rem
+  const t = n / max;
+  const rem = 0.85 + t * 0.75;
+  return `${rem.toFixed(2)}rem`;
+}
+---
+
+<BaseLayout title="Tags" description="Topic clusters across the corpus.">
+  <section class="mx-auto max-w-3xl px-4 py-12">
+    <h1 class="font-serif text-4xl text-ink mb-2">Tags</h1>
+    <p class="text-muted mb-10">Sized by count.</p>
+
+    {tags.length === 0 && <p class="text-muted">No tags yet.</p>}
+
+    <ul class="flex flex-wrap gap-x-4 gap-y-2 leading-loose">
+      {tags.map(([tag, n]) => (
+        <li>
+          <a
+            href={`/tags/${tag}`}
+            class="text-ink hover:text-accent no-underline"
+            style={`font-size: ${fontSize(n)};`}
+          >
+            {tag}
+            <span class="text-muted text-xs align-super ml-0.5">{n}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

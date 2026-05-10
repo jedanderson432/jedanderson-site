@@ -1,0 +1,67 @@
+---
+import { bibtex, apa, mla } from '../lib/citations';
+
+interface Props {
+  title: string;
+  slug: string;
+  date: Date;
+  canonicalUrl: string;
+  author?: string;
+  coAuthors?: string[];
+}
+
+const { title, slug, date, canonicalUrl, author, coAuthors } = Astro.props;
+
+const input = { title, slug, date, canonicalUrl, author, coAuthors };
+const formats = [
+  { id: 'bibtex', label: 'BibTeX', value: bibtex(input) },
+  { id: 'apa', label: 'APA', value: apa(input) },
+  { id: 'mla', label: 'MLA', value: mla(input) },
+];
+---
+
+<details class="mt-10 border border-rule rounded p-4 not-prose">
+  <summary class="cursor-pointer text-sm font-semibold text-ink">Cite this</summary>
+  <div class="mt-4 space-y-4">
+    {
+      formats.map(({ id, label, value }) => (
+        <div>
+          <div class="flex items-center justify-between mb-1">
+            <span class="text-xs uppercase tracking-wide text-muted">{label}</span>
+            <button
+              type="button"
+              class="text-xs text-muted hover:text-ink underline"
+              data-cite-copy
+              data-cite-target={id}
+            >
+              Copy
+            </button>
+          </div>
+          <pre
+            id={id}
+            class="bg-rule/30 text-ink text-xs p-3 rounded overflow-x-auto whitespace-pre-wrap break-words font-mono"
+          >{value}</pre>
+        </div>
+      ))
+    }
+  </div>
+</details>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('[data-cite-copy]').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const targetId = btn.dataset.citeTarget;
+      if (!targetId) return;
+      const pre = document.getElementById(targetId);
+      if (!pre) return;
+      try {
+        await navigator.clipboard.writeText(pre.textContent ?? '');
+        const original = btn.textContent;
+        btn.textContent = 'Copied';
+        setTimeout(() => (btn.textContent = original), 1200);
+      } catch {
+        // ignore
+      }
+    });
+  });
+</script>

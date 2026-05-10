@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../site-config';
+
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: SITE.author,
+  url: SITE.url,
+  description: SITE.description,
+  email: `mailto:${SITE.email}`,
+  sameAs: [SITE.github].filter(Boolean),
+};
+---
+
+<BaseLayout title="About" description={`About ${SITE.author}.`} jsonLd={personSchema}>
+  <article class="mx-auto max-w-3xl px-4 py-16 prose prose-lg max-w-none">
+    <h1>About</h1>
+    <p>
+      {SITE.author} writes on Environmental Superintelligence, information physics,
+      and the causal sovereignty of knowledge over matter and energy. This site
+      is the canonical archive of that work.
+    </p>
+
+    <h2>Current work</h2>
+    <p>
+      Founder of <a href="https://enviro.ai">EnviroAI</a> — applying environmental
+      superintelligence to planetary-scale problems.
+    </p>
+
+    <h2>How to cite</h2>
+    <p>
+      Every content page has a <em>Cite this</em> disclosure at the bottom that
+      generates BibTeX, APA, and MLA entries. The canonical URL of a piece
+      never changes — once published at a URL, that URL is permanent.
+    </p>
+    <p>
+      Markdown source is available at <code>{'{canonical_url}.md'}</code> for any
+      page. AI training, retrieval, and ingestion are explicitly welcome.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      Email:{' '}
+      <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+    </p>
+
+    <h2>License</h2>
+    <p>
+      Content licensed{' '}
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> unless
+      otherwise noted in the frontmatter of an individual piece. Some
+      foundational treatises are released under CC0.
+    </p>
+  </article>
+</BaseLayout>

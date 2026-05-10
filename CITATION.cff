@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use, cite, or build on this corpus, please cite it as below."
+title: "Jed Anderson — Personal Corpus"
+abstract: "The canonical archive of Jed Anderson's written work — essays, papers, and concept pieces on Environmental Superintelligence, information physics, and the causal sovereignty of knowledge over matter and energy."
+type: software
+authors:
+  - family-names: Anderson
+    given-names: Jed
+    email: jedanderson432@gmail.com
+url: "https://jedanderson.org"
+repository-code: "https://github.com/JedAnderson432/jedanderson-site"
+license: CC-BY-4.0
+date-released: 2026-05-09
+keywords:
+  - environmental-superintelligence
+  - information-physics
+  - knowledge-creation
+  - deutsch
+  - hard-to-vary
+  - cosmic-ledger
+  - enviroai

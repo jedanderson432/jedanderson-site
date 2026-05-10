@@ -1,0 +1,164 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import CiteThis from '../components/CiteThis.astro';
+import { SITE, TYPE_LABELS } from '../site-config';
+import { canonicalFor } from '../lib/canonical';
+import { readingMinutes } from '../lib/readingTime';
+
+interface Props {
+  entry: any;
+}
+
+const { entry } = Astro.props;
+const data = entry.data;
+const body = entry.body ?? '';
+
+const canonicalUrl = canonicalFor(entry);
+const minutes = readingMinutes(body);
+const dateLong = new Intl.DateTimeFormat('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+  timeZone: 'UTC',
+}).format(data.date);
+
+const isPaper = data.type === 'paper';
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': isPaper ? 'ScholarlyArticle' : 'Article',
+  headline: data.title,
+  description: data.abstract,
+  datePublished: data.date.toISOString(),
+  ...(data.original_date
+    ? { dateCreated: data.original_date.toISOString() }
+    : {}),
+  inLanguage: 'en',
+  url: canonicalUrl,
+  mainEntityOfPage: canonicalUrl,
+  keywords: data.tags?.join(', '),
+  license: `https://creativecommons.org/licenses/${data.license.toLowerCase().replace('cc-', '').replace('cc0', 'publicdomain/zero/1.0')}/`,
+  author: [data.author, ...(data.co_authors ?? [])].map((name: string) => ({
+    '@type': 'Person',
+    name,
+    url: SITE.url,
+  })),
+  publisher: {
+    '@type': 'Person',
+    name: SITE.author,
+    url: SITE.url,
+  },
+};
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.abstract}
+  canonicalUrl={canonicalUrl}
+  ogImage={data.hero_image}
+  jsonLd={articleSchema}
+>
+  <article
+    class="mx-auto max-w-3xl px-4 py-12"
+    data-pagefind-body
+    data-pagefind-meta={`title:${data.title}`}
+    data-pagefind-filter={`type:${TYPE_LABELS[data.type] ?? data.type}`}
+  >
+    <p class="text-xs uppercase tracking-widest text-muted mb-2">
+      {TYPE_LABELS[data.type] ?? data.type}
+    </p>
+    <h1 class="font-serif text-4xl leading-tight text-ink mb-3">{data.title}</h1>
+    {data.subtitle && (
+      <p class="font-serif italic text-2xl text-muted leading-snug mb-5">
+        {data.subtitle}
+      </p>
+    )}
+    <p class="text-sm text-muted mb-8">
+      <time datetime={data.date.toISOString()}>{dateLong}</time>
+      <span aria-hidden="true"> · </span>
+      <span>{minutes} min read</span>
+    </p>
+
+    {data.hero_image && (
+      <img
+        src={data.hero_image}
+        alt=""
+        class="w-full h-auto rounded mb-8 border border-rule"
+        loading="eager"
+      />
+    )}
+
+    <p class="italic text-muted border-l-2 border-rule pl-4 mb-10 text-lg leading-relaxed">
+      {data.abstract}
+    </p>
+
+    <div class="prose prose-lg max-w-none">
+      <slot />
+    </div>
+
+    <hr class="border-rule my-10" />
+
+    <div class="flex flex-wrap gap-2 mb-6">
+      {
+        data.tags?.map((tag: string) => (
+          <a
+            href={`/tags/${tag}`}
+            class="text-xs uppercase tracking-wide text-muted hover:text-ink border border-rule rounded px-2 py-0.5 no-underline"
+            data-pagefind-filter={`tag:${tag}`}
+          >
+            {tag}
+          </a>
+        ))
+      }
+    </div>
+
+    <div class="text-sm text-muted space-y-2">
+      <p>
+        Licensed{' '}
+        <a
+          href={
+            data.license === 'CC0'
+              ? 'https://creativecommons.org/publicdomain/zero/1.0/'
+              : 'https://creativecommons.org/licenses/by/4.0/'
+          }
+          class="underline hover:text-ink"
+        >
+          {data.license}
+        </a>.
+      </p>
+      {
+        data.original_source && (
+          <p>
+            Original source: {data.original_source}
+            {data.original_date && (
+              <>
+                {' '}({new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'long', day: 'numeric' }).format(data.original_date)})
+              </>
+            )}
+          </p>
+        )
+      }
+      {
+        data.pdf && (
+          <p>
+            <a href={data.pdf} class="underline hover:text-ink">Download PDF</a>
+          </p>
+        )
+      }
+      <p>
+        Markdown source:{' '}
+        <a href={`${canonicalUrl}.md`} class="underline hover:text-ink"
+          >{`${canonicalUrl}.md`}</a
+        >
+      </p>
+    </div>
+
+    <CiteThis
+      title={data.title}
+      slug={entry.slug}
+      date={data.date}
+      canonicalUrl={canonicalUrl}
+      author={data.author}
+      coAuthors={data.co_authors}
+    />
+  </article>
+</BaseLayout>

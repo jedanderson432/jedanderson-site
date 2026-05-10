@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { COLLECTIONS, TYPE_LABELS } from '../site-config';
+import { canonicalPath } from '../lib/canonical';
+
+const all: any[] = [];
+for (const c of COLLECTIONS) {
+  const entries = await getCollection(c, ({ data }: any) => data.status === 'published');
+  for (const e of entries) all.push(e);
+}
+
+all.sort((a, b) => +b.data.date - +a.data.date);
+
+const grouped = new Map<number, any[]>();
+for (const e of all) {
+  const y = e.data.date.getUTCFullYear();
+  if (!grouped.has(y)) grouped.set(y, []);
+  grouped.get(y)!.push(e);
+}
+const years = [...grouped.keys()].sort((a, b) => b - a);
+---
+
+<BaseLayout title="Archive" description="Full chronological index of every published piece.">
+  <section class="mx-auto max-w-3xl px-4 py-12">
+    <h1 class="font-serif text-4xl text-ink mb-2">Archive</h1>
+    <p class="text-muted mb-10">Every published piece, newest first.</p>
+
+    {all.length === 0 && <p class="text-muted">No published pieces yet.</p>}
+
+    {years.map((year) => (
+      <section class="mb-12">
+        <h2 class="font-serif text-2xl text-muted border-b border-rule pb-1 mb-4">{year}</h2>
+        <ul class="space-y-6">
+          {grouped.get(year)!.map((e) => (
+            <li>
+              <div class="flex items-baseline gap-3 mb-1">
+                <time
+                  datetime={e.data.date.toISOString()}
+                  class="text-xs text-muted tabular-nums w-24 shrink-0"
+                >
+                  {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                </time>
+                <span class="text-xs uppercase tracking-widest text-muted">
+                  {TYPE_LABELS[e.data.type] ?? e.data.type}
+                </span>
+              </div>
+              <a href={canonicalPath(e)} class="font-serif text-xl text-ink hover:text-accent no-underline">
+                {e.data.title}
+              </a>
+              <p class="text-sm text-muted mt-1">{e.data.abstract}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </section>
+</BaseLayout>

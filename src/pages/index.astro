@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { SITE, COLLECTIONS, TYPE_LABELS } from '../site-config';
+import { canonicalPath } from '../lib/canonical';
+
+type Entry = { data: any; body: string };
+
+const all: Entry[] = [];
+for (const c of COLLECTIONS) {
+  const entries = await getCollection(c, ({ data }: any) => data.status === 'published');
+  for (const e of entries) all.push(e);
+}
+
+const sorted = all.sort((a, b) => +b.data.date - +a.data.date);
+const foundational = sorted.filter((e) => e.data.tags?.includes('foundational'));
+const recent = sorted.slice(0, 5);
+
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: SITE.author,
+  url: SITE.url,
+  description: SITE.description,
+  sameAs: [SITE.github].filter(Boolean),
+};
+---
+
+<BaseLayout title={undefined} description={SITE.description} jsonLd={personSchema}>
+  <section class="mx-auto max-w-3xl px-4 py-16">
+    <h1 class="font-serif text-5xl leading-tight text-ink mb-2">{SITE.title}</h1>
+    <p class="text-xl text-accent mb-8 italic">{SITE.subtitle}</p>
+    <p class="text-lg leading-relaxed text-ink max-w-2xl">{SITE.intro}</p>
+  </section>
+
+  {foundational.length > 0 && (
+    <section class="mx-auto max-w-3xl px-4 py-8 border-t border-rule">
+      <h2 class="font-serif text-2xl text-ink mb-4">Foundational treatises</h2>
+      <ul class="space-y-4">
+        {foundational.map((e) => (
+          <li>
+            <a href={canonicalPath(e)} class="block group no-underline">
+              <p class="text-xs uppercase tracking-widest text-muted">
+                {TYPE_LABELS[e.data.type] ?? e.data.type}
+              </p>
+              <p class="font-serif text-xl text-ink group-hover:text-accent">{e.data.title}</p>
+              <p class="text-sm text-muted mt-1">{e.data.abstract}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {recent.length > 0 && (
+    <section class="mx-auto max-w-3xl px-4 py-8 border-t border-rule">
+      <h2 class="font-serif text-2xl text-ink mb-4">Recent</h2>
+      <ul class="space-y-3">
+        {recent.map((e) => (
+          <li class="flex items-baseline gap-3">
+            <time
+              datetime={e.data.date.toISOString()}
+              class="text-xs text-muted tabular-nums w-28 shrink-0"
+            >
+              {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+            </time>
+            <a href={canonicalPath(e)} class="text-ink hover:text-accent">
+              {e.data.title}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  <section class="mx-auto max-w-3xl px-4 py-8 border-t border-rule">
+    <h2 class="font-serif text-2xl text-ink mb-4">Browse</h2>
+    <ul class="flex flex-wrap gap-x-6 gap-y-2 text-ink">
+      <li><a href="/essays" class="underline hover:text-accent">Essays</a></li>
+      <li><a href="/papers" class="underline hover:text-accent">Papers</a></li>
+      <li><a href="/posts" class="underline hover:text-accent">Posts</a></li>
+      <li><a href="/archive" class="underline hover:text-accent">Archive</a></li>
+      <li><a href="/tags" class="underline hover:text-accent">Tags</a></li>
+    </ul>
+  </section>
+</BaseLayout>
