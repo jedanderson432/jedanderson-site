@@ -27,57 +27,24 @@ const personSchema = {
 ---
 
 <BaseLayout title={undefined} description={SITE.description} jsonLd={personSchema}>
-  {/* Masthead + brief lead. The full intro continues further down,
-      after Foundational treatises and Recent — corpus weight first. */}
-  <section class="mx-auto max-w-3xl px-4 pt-16 pb-8">
+  {/* Masthead. Tightened vertical rhythm so the first row of
+      Foundational treatises sits above the fold on a standard
+      1080px desktop viewport. */}
+  <section class="mx-auto max-w-3xl px-4 pt-8 pb-4">
     <h1 class="font-serif text-5xl leading-tight text-ink mb-4">{SITE.title}</h1>
-    {/* "Bits Protect Its." is the corpus thesis — sized as a
-        secondary heading rather than a tagline. Slightly tighter
-        tracking, italic, in the warm umber accent. */}
-    <p class="font-serif italic tracking-tight text-accent text-3xl sm:text-4xl leading-tight mb-10">{SITE.subtitle}</p>
+    {/* "Bits Protect Its." — the corpus thesis. Calibrated size /
+        color / tracking; do not change without rechecking the
+        masthead rhythm. */}
+    <p class="font-serif italic tracking-tight text-accent text-3xl sm:text-4xl leading-tight mb-6">{SITE.subtitle}</p>
     <p class="max-w-2xl text-lg leading-relaxed text-ink">
-      Founder and CEO of EnviroAI. Environmental attorney for twenty-seven
-      years. Building real-time, physics-grounded information infrastructure
-      for the biosphere—and writing here about why information has 10²⁰
-      times the leverage over matter that we currently treat it as having.
+      Writer, founder, builder. Attorney for twenty-seven years. Adjunct
+      professor of law. Environmental futurist working at the intersection
+      of physics and information theory.
     </p>
   </section>
 
-  {/* Thesis block. Sits between the intro and the corpus presentation;
-      no section header — the block itself is the thesis. Subtle umber
-      hairlines top and bottom set it apart without making it a card. */}
-  <section class="border-y border-accent/40">
-    <div class="mx-auto max-w-3xl px-4 py-20 text-center">
-      <p class="font-serif italic text-2xl sm:text-3xl leading-snug text-ink mb-12">
-        Information accumulates causal sovereignty over matter and energy.
-      </p>
-      <div class="font-serif text-2xl sm:text-3xl text-ink mb-12 flex items-center justify-center gap-3">
-        <span class="italic">Λ</span>
-        <span aria-hidden="true">=</span>
-        <span class="inline-flex flex-col items-center text-xl sm:text-2xl">
-          <span class="italic px-3 pb-1">Mc²</span>
-          <span class="border-t border-ink/40 px-3 pt-1">
-            <span class="italic">I</span>
-            <span aria-hidden="true"> · </span>
-            <span class="italic">k</span><sub class="not-italic text-sm">B</sub><span class="italic">T</span>
-            <span aria-hidden="true"> </span>ln 2
-          </span>
-        </span>
-      </div>
-      <p class="text-base sm:text-lg leading-relaxed text-muted max-w-2xl mx-auto mb-8">
-        The energy cost of knowing where atoms are is roughly 10²⁰ times less
-        than the energy cost of moving them once they have scattered.
-      </p>
-      <p class="text-sm text-muted">
-        <a href="/essays/intelligence-leverage-equation" class="hover:text-accent">
-          Read the derivation →
-        </a>
-      </p>
-    </div>
-  </section>
-
   {foundational.length > 0 && (
-    <section class="mx-auto max-w-5xl px-4 py-20">
+    <section class="mx-auto max-w-5xl px-4 pt-10 pb-20">
       <h2 class="font-serif text-2xl text-accent mb-2">Foundational treatises</h2>
       <hr class="border-accent/40 mb-10" />
       {/* Cover thumbnails are intentionally scoped to the foundational
