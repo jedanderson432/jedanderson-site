@@ -14,7 +14,7 @@ for (const c of COLLECTIONS) {
 
 const sorted = all.sort((a, b) => +b.data.date - +a.data.date);
 const foundational = sorted.filter((e) => e.data.tags?.includes('foundational'));
-const recent = sorted.slice(0, 5);
+const recent = sorted.slice(0, 6);
 
 const personSchema = {
   '@context': 'https://schema.org',
@@ -27,7 +27,9 @@ const personSchema = {
 ---
 
 <BaseLayout title={undefined} description={SITE.description} jsonLd={personSchema}>
-  <section class="mx-auto max-w-3xl px-4 py-16">
+  {/* Masthead + brief lead. The full intro continues further down,
+      after Foundational treatises and Recent — corpus weight first. */}
+  <section class="mx-auto max-w-3xl px-4 pt-16 pb-8">
     <h1 class="font-serif text-5xl leading-tight text-ink mb-2">{SITE.title}</h1>
     <p class="text-xl text-accent mb-8 italic">{SITE.subtitle}</p>
     <div class="max-w-2xl text-lg leading-relaxed text-ink space-y-6">
@@ -37,6 +39,98 @@ const personSchema = {
         physics-grounded information infrastructure for the biosphere. I am
         the creator and CEO of EnviroAI.
       </p>
+    </div>
+  </section>
+
+  {foundational.length > 0 && (
+    <section class="mx-auto max-w-5xl px-4 py-20 border-t border-rule">
+      <h2 class="font-serif text-2xl text-accent mb-2">Foundational treatises</h2>
+      <hr class="border-accent/40 mb-10" />
+      {/* Cover thumbnails are intentionally scoped to the foundational
+          grid only. Recent, Archive, tag pages, and the collection
+          indexes stay text-only by design — corpus-scale, not
+          gallery-style. */}
+      <ul class="grid grid-cols-1 md:grid-cols-2 gap-x-10 gap-y-12">
+        {foundational.map((e) => (
+          <li>
+            <a
+              href={canonicalPath(e)}
+              class="group no-underline flex gap-5 items-start"
+            >
+              {e.data.hero_image && (
+                <img
+                  src={e.data.hero_image}
+                  alt={e.data.hero_image_alt ?? e.data.title}
+                  class="w-[140px] shrink-0 rounded-[2px] object-cover"
+                  loading="lazy"
+                />
+              )}
+              <div class="flex-1 min-w-0">
+                <p class="text-xs uppercase tracking-widest text-muted">
+                  {TYPE_LABELS[e.data.type] ?? e.data.type}
+                </p>
+                <p class="font-serif text-lg leading-snug text-ink group-hover:text-accent">
+                  {e.data.title}
+                </p>
+                {e.data.subtitle && (
+                  <p class="font-serif italic text-sm leading-snug text-muted mt-1">
+                    {e.data.subtitle}
+                  </p>
+                )}
+                <p class="text-sm text-muted mt-2 leading-snug line-clamp-4">
+                  {e.data.abstract}
+                </p>
+                <div class="flex items-center gap-2 mt-3 text-xs text-muted">
+                  <time datetime={e.data.date.toISOString()}>
+                    {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                  </time>
+                  {(e.data.tags ?? []).filter((t: string) => t !== 'foundational').slice(0, 3).length > 0 && (
+                    <>
+                      <span aria-hidden="true">·</span>
+                      <span class="truncate">
+                        {(e.data.tags ?? [])
+                          .filter((t: string) => t !== 'foundational')
+                          .slice(0, 3)
+                          .join(' · ')}
+                      </span>
+                    </>
+                  )}
+                </div>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {recent.length > 0 && (
+    <section class="mx-auto max-w-3xl px-4 py-20 border-t border-rule">
+      <h2 class="font-serif text-2xl text-accent mb-2">Recent</h2>
+      <hr class="border-accent/40 mb-10" />
+      <ul class="space-y-3">
+        {recent.map((e) => (
+          <li class="flex items-baseline gap-3">
+            <time
+              datetime={e.data.date.toISOString()}
+              class="text-xs text-muted tabular-nums w-28 shrink-0"
+            >
+              {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+            </time>
+            <a href={canonicalPath(e)} class="text-ink hover:text-accent">
+              {e.data.title}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {/* The remaining intro continues below the corpus presentation —
+      readers who want more of the thesis and the why find it here
+      after they've seen the work itself. */}
+  <section class="mx-auto max-w-3xl px-4 py-20 border-t border-rule">
+    <div class="max-w-2xl text-lg leading-relaxed text-ink space-y-6">
       <p>
         The thesis is short. Environmental damage is an information problem
         before it is anything else. The energy cost of knowing where atoms
@@ -63,75 +157,9 @@ const personSchema = {
     </div>
   </section>
 
-  {foundational.length > 0 && (
-    <section class="mx-auto max-w-3xl px-4 py-8 border-t border-rule">
-      <h2 class="font-serif text-2xl text-ink mb-4">Foundational treatises</h2>
-      {/*
-        Cover-art thumbnail is intentionally scoped to foundational
-        cards only. Other listing surfaces (Recent, Archive, tag
-        pages, /essays|/papers|/posts indexes) stay text-only by
-        design — corpus-scale, not gallery-style.
-      */}
-      <ul class="space-y-6">
-        {foundational.map((e) => (
-          <li>
-            <a
-              href={canonicalPath(e)}
-              class:list={[
-                'group no-underline',
-                e.data.hero_image
-                  ? 'flex flex-col sm:flex-row gap-6 items-start'
-                  : 'block',
-              ]}
-            >
-              {e.data.hero_image && (
-                <img
-                  src={e.data.hero_image}
-                  alt={e.data.hero_image_alt ?? e.data.title}
-                  class="rounded-[2px] object-cover max-h-[150px] sm:max-h-[200px] w-auto shrink-0"
-                  loading="lazy"
-                />
-              )}
-              <div class:list={[e.data.hero_image && 'flex-1 min-w-0']}>
-                <p class="text-xs uppercase tracking-widest text-muted">
-                  {TYPE_LABELS[e.data.type] ?? e.data.type}
-                </p>
-                <p class="font-serif text-xl text-ink group-hover:text-accent">{e.data.title}</p>
-                {e.data.subtitle && (
-                  <p class="font-serif italic text-base text-muted mt-1">{e.data.subtitle}</p>
-                )}
-                <p class="text-sm text-muted mt-1">{e.data.abstract}</p>
-              </div>
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
-  )}
-
-  {recent.length > 0 && (
-    <section class="mx-auto max-w-3xl px-4 py-8 border-t border-rule">
-      <h2 class="font-serif text-2xl text-ink mb-4">Recent</h2>
-      <ul class="space-y-3">
-        {recent.map((e) => (
-          <li class="flex items-baseline gap-3">
-            <time
-              datetime={e.data.date.toISOString()}
-              class="text-xs text-muted tabular-nums w-28 shrink-0"
-            >
-              {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
-            </time>
-            <a href={canonicalPath(e)} class="text-ink hover:text-accent">
-              {e.data.title}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
-  )}
-
-  <section class="mx-auto max-w-3xl px-4 py-8 border-t border-rule">
-    <h2 class="font-serif text-2xl text-ink mb-4">Browse</h2>
+  <section class="mx-auto max-w-3xl px-4 py-16 border-t border-rule">
+    <h2 class="font-serif text-2xl text-accent mb-2">Browse</h2>
+    <hr class="border-accent/40 mb-6" />
     <ul class="flex flex-wrap gap-x-6 gap-y-2 text-ink">
       <li><a href="/essays" class="underline hover:text-accent">Essays</a></li>
       <li><a href="/posts" class="underline hover:text-accent">Posts</a></li>
