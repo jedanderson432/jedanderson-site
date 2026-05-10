@@ -10,6 +10,8 @@ abstract: 'Derives the Intelligence Leverage Equation from first principles by s
 license: CC-BY-4.0
 co_authors: ['Grok-4.1 Deep Research', 'Gemini 3.0 Pro Deep Think', 'ChatGPT 5.2', 'Claude Opus 4.5 Research']
 pdf: '/pdfs/thermodynamic-foundations-of-entropic-shepherding.pdf'
+hero_image: '/images/thermodynamic-foundations-of-entropic-shepherding-hero.png'
+hero_image_alt: 'First page of The Thermodynamic Foundations of Entropic Shepherding'
 ---
 
 ## Abstract

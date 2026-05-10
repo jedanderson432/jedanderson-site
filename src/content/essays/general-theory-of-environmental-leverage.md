@@ -9,6 +9,8 @@ tags: ['enviroai', 'visual', 'thermodynamics', 'information-theory']
 abstract: 'Visual essay framing the move from the Regime of Mass to the Regime of Information as a phase transition in stewardship. Walks through the Intelligence Leverage Equation in graphic form and presents a layer-by-layer cost table—sense / transmit / store / infer / reason / decide / act—showing where the economic crossover has already happened.'
 license: CC-BY-4.0
 pdf: '/pdfs/general-theory-of-environmental-leverage.pdf'
+hero_image: '/images/general-theory-of-environmental-leverage-hero.png'
+hero_image_alt: 'First page of The General Theory of Environmental Leverage'
 ---
 
 ## 1. The Ontological Crisis: Mass vs. Information

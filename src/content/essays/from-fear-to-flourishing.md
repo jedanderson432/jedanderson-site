@@ -9,6 +9,8 @@ abstract: 'Reframes the environmental movement around ''The Environmental Happin
 license: CC-BY-4.0
 co_authors: ['Grok 4 Thinking', 'ChatGPT-5 Thinking', 'Google Gemini Pro 2.5 Deep Research']
 pdf: '/pdfs/from-fear-to-flourishing.pdf'
+hero_image: '/images/from-fear-to-flourishing-hero.png'
+hero_image_alt: 'First page of From Fear to Flourishing: An Architecture for Planetary Thriving in the Information Age'
 ---
 
 Preamble: The Negentropic Mandate For four billion years, life has been a magnificent, unfolding rebellion. In a universe governed by the Second Law of Thermodynamics—a universe whose inexorable arrow points toward decay, disorder, and the uniformity of heat death—life is the counter-current. It is the grand, improbable exception. Living systems are negentropic engines; they are localized pockets of profound order that sustain and propagate themselves by consuming low-entropy energy and information from their environment, creating and maintaining their own intricate complexity at the necessary expense of exporting disorder back into the cosmos. A single cell, a forest ecosystem, the entire biosphere—each is a testament to this relentless, anti-entropic impulse.1 This is life's negentropic mandate: to build, to connect, to complexify, to create order against the universal tide.1

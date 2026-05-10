@@ -9,6 +9,8 @@ abstract: 'Examines whether environmental information could be encoded and manip
 license: CC-BY-4.0
 co_authors: ['ChatGPT 4o1 Deep Reasoning']
 pdf: '/pdfs/environmental-protection-holographic-information-framework.pdf'
+hero_image: '/images/environmental-protection-holographic-information-framework-hero.png'
+hero_image_alt: 'First page of Environmental Protection in a Holographic Information Framework'
 ---
 
 Introduction:

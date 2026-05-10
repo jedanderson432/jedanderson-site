@@ -9,6 +9,8 @@ abstract: 'Quantitative first-principles comparison of two architectures for pla
 license: CC-BY-4.0
 co_authors: ['Grok 4 Deep Research', 'ChatGPT5 Deep Thinking', 'Google Gemini 2.5 Deep Research']
 pdf: '/pdfs/scaling-imperative-hcn-vs-icn.pdf'
+hero_image: '/images/scaling-imperative-hcn-vs-icn-hero.png'
+hero_image_alt: 'First page of The Scaling Imperative: A First-Principles Comparison of Human-Cognitive and Integrated Computational Networks for Planetary-Scale Intelligence'
 ---
 
 ## Abstract

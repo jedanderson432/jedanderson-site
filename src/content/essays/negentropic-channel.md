@@ -9,6 +9,8 @@ abstract: 'Reads Willett et al. (2025)''s imagined-speech BCI breakthrough as th
 license: CC-BY-4.0
 co_authors: ['Grok 4 Thinking', 'ChatGPT-5 Thinking', 'Google Gemini Pro 2.5 Deep Research']
 pdf: '/pdfs/negentropic-channel.pdf'
+hero_image: '/images/negentropic-channel-hero.png'
+hero_image_alt: 'First page of The Negentropic Channel: A First-Principles Synthesis of Recent Developments in Direct Neural Communication and Environmental General Intelligence for Universal Communication'
 ---
 
 ## Abstract

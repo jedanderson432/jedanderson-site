@@ -9,6 +9,8 @@ tags: ['physics', 'godel', 'turing', 'bekenstein', 'holography']
 abstract: 'The accessible companion to ''On the Categorical Unity of Singularities.'' Argues in plain prose that no system can completely describe itself from the inside, and that the wall every self-referential system hits—black hole, unprovable truth, unsolvable problem—is the same wall seen from different angles.'
 license: CC-BY-4.0
 pdf: '/pdfs/there-is-only-one-limit.pdf'
+hero_image: '/images/there-is-only-one-limit-hero.png'
+hero_image_alt: 'First page of There Is Only One Limit'
 ---
 
 THERE IS ONLY ONE LIMIT Why Black Holes, Gödel’s Theorem, and Turing’s Halting Problem

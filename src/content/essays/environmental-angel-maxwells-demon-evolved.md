@@ -9,6 +9,8 @@ abstract: 'Adapts Maxwell''s demon—the 19th-century thought experiment of an i
 license: CC-BY-4.0
 co_authors: ['Google Gemini Pro 2.5 Deep Research']
 pdf: '/pdfs/environmental-angel-maxwells-demon-evolved.pdf'
+hero_image: '/images/environmental-angel-maxwells-demon-evolved-hero.png'
+hero_image_alt: 'First page of The Environmental Angel: Information, Entropy, and the Thermodynamic Limits of Ecological Control'
 ---
 
 ## Preamble

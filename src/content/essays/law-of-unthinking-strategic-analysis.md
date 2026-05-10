@@ -9,6 +9,8 @@ abstract: 'Strategic analysis applying Whitehead''s Law of Unthinking as a predi
 license: CC-BY-4.0
 co_authors: ['Google Gemini Pro 2.5 Deep Research']
 pdf: '/pdfs/law-of-unthinking-strategic-analysis.pdf'
+hero_image: '/images/law-of-unthinking-strategic-analysis-hero.png'
+hero_image_alt: 'First page of The Law of Unthinking: A Strategic Analysis of the Next Paradigm in Environmental Management'
 ---
 
 ## Executive Summary

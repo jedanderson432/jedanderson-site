@@ -9,6 +9,8 @@ tags: ['enviroai', 'information-theory', 'causal-sovereignty', 'landauer']
 abstract: 'Distills the formal argument of ''Observation IS Protection'' into a short, accessible piece: a question is physical (it costs energy by Landauer, its answer extracts work by Sagawa–Ueda, it changes the state of an existing gate), and AI completes the circuit between observation and actuation that humans cannot close at planetary speed. Self-described as a summary of the longer paper.'
 license: CC-BY-4.0
 pdf: '/pdfs/every-question-is-a-physical-act.pdf'
+hero_image: '/images/every-question-is-a-physical-act-hero.png'
+hero_image_alt: 'First page of Every Question Is a Physical Act'
 ---
 
 Summary of Anderson (2026), Observation IS Protection: A First-Principles Derivation from

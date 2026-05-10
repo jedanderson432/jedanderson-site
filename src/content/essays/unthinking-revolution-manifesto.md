@@ -9,6 +9,8 @@ abstract: 'A manifesto addressed to environmental professionals confronting the 
 license: CC-BY-4.0
 co_authors: ['Grok 4 Thinking', 'ChatGPT-5 Thinking', 'Google Gemini Pro 2.5 Deep Research']
 pdf: '/pdfs/unthinking-revolution-manifesto.pdf'
+hero_image: '/images/unthinking-revolution-manifesto-hero.png'
+hero_image_alt: 'First page of The Unthinking Revolution: A Manifesto for the Environmental Profession'
 ---
 
 Preamble: The Crisis of Conscience and Commerce To the environmental professional, the scientist, the engineer, the lawyer, the consultant: this is a message of truth. It is a message for the quiet moments of your day, when the profound implications of a new reality begin to settle in. It is for the professional who, just months ago, meticulously billed 40 hours for a complex environmental legal analysis at

@@ -8,6 +8,8 @@ tags: ['enviroai', 'thermodynamics', 'holography', 'whitehead', 'paper']
 abstract: 'Reads the $1.5T+ 2025 AI-compute build-out through the Holographic Negentropic Framework and the Law of Unthinking, quantifying its entropic costs (10–40 GW power, 130+ Mt CO₂e/yr, 2T+ gallons/yr water, 5 Mt/yr e-waste by 2030) and arguing that the only thermodynamically coherent answer is paradoxical: more and smarter computation aimed at building Environmental General Intelligence.'
 license: CC-BY-4.0
 pdf: '/pdfs/great-externalization.pdf'
+hero_image: '/images/great-externalization-hero.png'
+hero_image_alt: 'First page of The Great Externalization: A First-Principles Analysis of the 2025 AI Compute Boom and Its Thermodynamic Consequences for Planetary Stewardship'
 ---
 
 Abstract: This paper presents a first-principles analysis of the unprecedented global investment in Artificial Intelligence (AI) compute infrastructure, which as of late 2025 exceeds

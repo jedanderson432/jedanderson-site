@@ -10,6 +10,8 @@ abstract: 'Derives—from Landauer''s principle, Sagawa–Ueda mutual-informatio
 license: CC-BY-4.0
 co_authors: ['Claude Opus 4.6']
 pdf: '/pdfs/observation-is-protection.pdf'
+hero_image: '/images/observation-is-protection-hero.png'
+hero_image_alt: 'First page of The Epistemic Boundary: Observation IS Protection'
 ---
 
 The Epistemic Boundary:

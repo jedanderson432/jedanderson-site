@@ -9,6 +9,8 @@ abstract: 'Synthesizes Whitehead''s Law of Unthinking with a Holographic Negentr
 license: CC-BY-4.0
 co_authors: ['ChatGPT-5']
 pdf: '/pdfs/law-of-unthinking-holographic-negentropic-framework.pdf'
+hero_image: '/images/law-of-unthinking-holographic-negentropic-framework-hero.png'
+hero_image_alt: 'First page of Law of Unthinking and the Holographic Negentropic Framework: Toward a Paradigm of Proactive Planetary Thriving'
 ---
 
 ## Abstract

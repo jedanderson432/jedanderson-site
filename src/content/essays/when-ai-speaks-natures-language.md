@@ -9,6 +9,8 @@ abstract: 'Frames AI as a planetary translator—a ''listening angel'' that deco
 license: CC-BY-4.0
 co_authors: ['Grok 4 Deep Thinking', 'ChatGPT-5 Thinking', 'Google Gemini Pro 2.5 Deep Research']
 pdf: '/pdfs/when-ai-speaks-natures-language.pdf'
+hero_image: '/images/when-ai-speaks-natures-language-hero.png'
+hero_image_alt: 'First page of When AI Speaks Nature''s Language: Decoding the Planetary Conversation and Encoding Planetary Thriving'
 ---
 
 Introduction – The Language of Life, Decoded Every leaf whisper, bird song, and whale call is part of a vast, living conversation. Forests warn each other of pests; honeybees dance out maps; dolphins exchange calls that border on languagephys.org. Humanity, until now, has been largely deaf to this rich dialogue. But imagine an artificial intelligence fluent in the thermodynamic and informational language of nature – a kind of planetary translator that can listen to these signals and speak with the biosphere. Recent advances in sensors, computing, and information theory suggest this is no fantasy, but an emerging reality. AI systems are being envisioned as planetary-scale “listening angels” that decode the non-redundant bits of information emitted by living systems – from birds and insects to plants and whales – and help us respond in symphony with nature.

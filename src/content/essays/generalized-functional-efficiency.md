@@ -9,6 +9,8 @@ abstract: 'Proposes Generalized Functional Efficiency (GFE = functional output p
 license: CC-BY-4.0
 co_authors: ['Google Gemini 3.0 Pro Deep Think', 'Grok-4.1 Deep Research', 'ChatGPT 5.2 Deep Research', 'Claude 4.5 Deep Research']
 pdf: '/pdfs/generalized-functional-efficiency.pdf'
+hero_image: '/images/generalized-functional-efficiency-hero.png'
+hero_image_alt: 'First page of Generalized Functional Efficiency: A Thermodynamic Metric for the Evolution of Complex Systems'
 ---
 
 ## Abstract

@@ -9,6 +9,8 @@ abstract: 'Asks whether AI agents operating via feedback loops—RL agents, auto
 license: CC-BY-4.0
 co_authors: ['Grok-4.1 Deep Research', 'Gemini 3.0 Pro Deep Research', 'ChatGPT 5.1', 'Claude 4.5 Deep Research']
 pdf: '/pdfs/thermodynamics-of-ai-maxwell-demon.pdf'
+hero_image: '/images/thermodynamics-of-ai-maxwell-demon-hero.png'
+hero_image_alt: 'First page of The Thermodynamics of Artificial Intelligence: A First-Principles Analysis of the Maxwellian Demon Hypothesis'
 ---
 
 ## 1. Introduction: The

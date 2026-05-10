@@ -10,6 +10,8 @@ abstract: 'Picks up Schrödinger''s 1944 question with eighty years of informati
 license: CC-BY-4.0
 co_authors: ['Grok-4.1 Deep Research', 'Gemini 3.0 Pro Deep Think', 'ChatGPT 5.2', 'Claude Opus 4.5 Research']
 pdf: '/pdfs/what-is-life-and-how-to-protect-it.pdf'
+hero_image: '/images/what-is-life-and-how-to-protect-it-hero.png'
+hero_image_alt: 'First page of What Is Life… and How to Protect It'
 ---
 
 Preface:
