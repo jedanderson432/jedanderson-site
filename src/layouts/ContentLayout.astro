@@ -36,7 +36,9 @@ const articleSchema = {
   url: canonicalUrl,
   mainEntityOfPage: canonicalUrl,
   keywords: data.tags?.join(', '),
-  license: `https://creativecommons.org/licenses/${data.license.toLowerCase().replace('cc-', '').replace('cc0', 'publicdomain/zero/1.0')}/`,
+  license: data.license?.startsWith('CC0')
+    ? 'https://creativecommons.org/publicdomain/zero/1.0/'
+    : 'https://creativecommons.org/licenses/by/4.0/',
   author: [data.author, ...(data.co_authors ?? [])].map((name: string) => ({
     '@type': 'Person',
     name,
@@ -142,7 +144,7 @@ const articleSchema = {
         Licensed{' '}
         <a
           href={
-            data.license === 'CC0'
+            data.license?.startsWith('CC0')
               ? 'https://creativecommons.org/publicdomain/zero/1.0/'
               : 'https://creativecommons.org/licenses/by/4.0/'
           }
