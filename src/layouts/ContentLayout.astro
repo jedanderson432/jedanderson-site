@@ -2,18 +2,23 @@
 import BaseLayout from './BaseLayout.astro';
 import CiteThis from '../components/CiteThis.astro';
 import { SITE, TYPE_LABELS } from '../site-config';
-import { canonicalFor } from '../lib/canonical';
+import { canonicalFor, canonicalPath } from '../lib/canonical';
 import { readingMinutes } from '../lib/readingTime';
 
 interface Props {
   entry: any;
+  headings?: { depth: number; slug: string; text: string }[];
 }
 
-const { entry } = Astro.props;
+const { entry, headings = [] } = Astro.props;
 const data = entry.data;
 const body = entry.body ?? '';
 
 const canonicalUrl = canonicalFor(entry);
+const mdPath = `${canonicalPath(entry)}.md`;
+const githubUrl = `${SITE.github}/blob/main/src/content/${entry.collection}/${entry.slug}.md`;
+const h2s = headings.filter((h) => h.depth === 2);
+const showAbstract = data.status !== 'published' || data.show_abstract_on_page;
 const minutes = readingMinutes(body);
 const dateLong = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
@@ -94,33 +99,60 @@ const articleSchema = {
       <span>{minutes} min read</span>
     </p>
 
-    <p class="italic text-muted border-l-2 border-rule pl-4 mb-10 text-lg leading-relaxed">
-      {data.abstract}
-    </p>
+    {showAbstract && (
+      <p class="italic text-muted border-l-2 border-rule pl-4 mb-10 text-lg leading-relaxed">
+        {data.abstract}
+      </p>
+    )}
 
     {data.pdf && data.pdf_canonical && data.hero_image && (
       <>
-        <div class="my-12 flex justify-center">
+        <div class="my-12">
+          {/* Image is its own link to the PDF; subtle scale + shadow grow
+              on hover signal clickability. */}
           <a
             href={data.pdf}
             target="_blank"
             rel="noopener"
-            class="group inline-block text-center no-underline"
+            class="group block mx-auto max-w-[800px] no-underline"
             aria-label={`Open ${data.title} as PDF in a new tab`}
           >
             <img
               src={data.hero_image}
               alt={data.hero_image_alt ?? `Cover of ${data.title}`}
-              class="w-[400px] max-w-full h-auto rounded-[4px] border border-rule shadow-md group-hover:shadow-lg transition-shadow"
+              class="w-full h-auto rounded-[4px] border border-rule shadow-md transition-all duration-200 group-hover:shadow-xl group-hover:scale-[1.01]"
               loading="eager"
             />
-            <p class="mt-4 text-sm text-muted group-hover:text-accent transition-colors">
-              Read the PDF{data.pdf_pages && ` · ${data.pdf_pages} pages`} →
-            </p>
           </a>
+          {/* Three small affordances: the cover is the canonical artifact,
+              these are the alternate surfaces for AI ingestion / source
+              inspection. */}
+          <div class="mt-6 flex justify-center gap-x-6 gap-y-2 flex-wrap text-sm text-muted">
+            <a href={data.pdf} target="_blank" rel="noopener" class="hover:text-accent">
+              Read PDF{data.pdf_pages && ` · ${data.pdf_pages} pages`}
+            </a>
+            <a href={mdPath} class="hover:text-accent">Raw markdown</a>
+            <a href={githubUrl} target="_blank" rel="noopener" class="hover:text-accent">View on GitHub</a>
+          </div>
         </div>
         <hr class="border-rule mb-10" />
       </>
+    )}
+
+    {data.show_toc && h2s.length > 0 && (
+      <nav class="mb-12 pb-8 border-b border-rule not-prose" aria-label="Sections">
+        <p class="text-xs uppercase tracking-widest text-muted mb-4">Sections</p>
+        <ol class="list-none p-0 grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm">
+          {h2s.map((h, i) => (
+            <li>
+              <a href={`#${h.slug}`} class="text-ink hover:text-accent no-underline flex items-baseline gap-3">
+                <span class="text-muted tabular-nums text-xs shrink-0">{String(i + 1).padStart(2, '0')}</span>
+                <span>{h.text}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </nav>
     )}
 
     <div class="prose prose-lg max-w-none">
@@ -205,6 +237,12 @@ const articleSchema = {
           >{`${canonicalUrl}.md`}</a
         >
       </p>
+      <p>
+        Source on GitHub:{' '}
+        <a href={githubUrl} target="_blank" rel="noopener" class="underline hover:text-ink">
+          {`/src/content/${entry.collection}/${entry.slug}.md`}
+        </a>
+      </p>
     </div>
 
     <CiteThis
@@ -217,3 +255,34 @@ const articleSchema = {
     />
   </article>
 </BaseLayout>
+
+<style is:global>
+  /* Display pull-quote: when the markdown body opens with a blockquote
+     (used as a hero epigraph), promote it from the typography plugin's
+     small italic gray default to a large centered serif statement. */
+  article .prose > blockquote:first-child {
+    font-family: 'Iowan Old Style', Palatino, Georgia, serif;
+    font-size: 2.25rem;
+    line-height: 1.2;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding-left: 0;
+    border-left: 0;
+    text-align: center;
+    font-style: normal;
+    color: #1a1a1a;
+    quotes: none;
+  }
+  article .prose > blockquote:first-child > p {
+    margin: 0;
+  }
+  article .prose > blockquote:first-child > p::before,
+  article .prose > blockquote:first-child > p::after {
+    content: none;
+  }
+  /* Anchor scroll-margin so in-page TOC jumps don't tuck headings under
+     any future sticky header. */
+  article .prose h2 {
+    scroll-margin-top: 6rem;
+  }
+</style>

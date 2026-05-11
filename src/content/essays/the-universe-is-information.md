@@ -13,6 +13,7 @@ hero_image: '/images/universe-is-information-cover.png'
 hero_image_alt: 'Cover of "The Universe is Information." A serif title in cream and gold over deep ink, with six small phase symbols I–VI arranged vertically on the right margin — a scattered field, a hexagonal lattice, a helix, a model-and-action sketch, a cross-braced polyhedron, and a closing spiral.'
 pdf_canonical: true
 pdf_pages: 13
+show_toc: true
 ---
 
 > **Build what entropy cannot undo.**
