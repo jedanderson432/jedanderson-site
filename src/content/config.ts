@@ -45,6 +45,8 @@ const baseSchema = z.object({
   pdf: z.string().optional(),
   hero_image: z.string().optional(),
   hero_image_alt: z.string().optional(),
+  pdf_canonical: z.boolean().optional(),
+  pdf_pages: z.number().int().positive().optional(),
 
   // Decks, videos, charts, posters, and other materials that attach
   // to the writing they serve. The writing is canonical; supporting
