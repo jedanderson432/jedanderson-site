@@ -13,7 +13,10 @@ for (const c of COLLECTIONS) {
 }
 
 const sorted = all.sort((a, b) => +b.data.date - +a.data.date);
-const foundational = sorted.filter((e) => e.data.tags?.includes('foundational'));
+const cornerstone = sorted.filter((e) => e.data.tags?.includes('cornerstone'));
+const foundational = sorted.filter(
+  (e) => e.data.tags?.includes('foundational') && !e.data.tags?.includes('cornerstone'),
+);
 const recent = sorted.slice(0, 6);
 
 const personSchema = {
@@ -44,8 +47,52 @@ const personSchema = {
     </p>
   </section>
 
+  {cornerstone.length > 0 && (
+    <section class="mx-auto max-w-5xl px-4 pt-10 pb-16">
+      <h2 class="font-serif text-2xl text-accent mb-2">Start here</h2>
+      <hr class="border-accent/40 mb-10" />
+      <ul class="space-y-14">
+        {cornerstone.map((e) => (
+          <li>
+            <a
+              href={canonicalPath(e)}
+              class="group no-underline flex gap-6 items-start"
+            >
+              {e.data.hero_image && (
+                <img
+                  src={e.data.hero_image}
+                  alt={e.data.hero_image_alt ?? e.data.title}
+                  class="w-[200px] shrink-0 rounded-[2px] object-cover"
+                  loading="eager"
+                />
+              )}
+              <div class="flex-1 min-w-0">
+                <p class="font-serif text-2xl leading-snug text-ink group-hover:text-accent">
+                  {e.data.title}
+                </p>
+                {e.data.subtitle && (
+                  <p class="font-serif italic text-base leading-snug text-muted mt-2">
+                    {e.data.subtitle}
+                  </p>
+                )}
+                <p class="text-base text-muted mt-3 leading-relaxed">
+                  {e.data.abstract}
+                </p>
+                <p class="mt-4 text-sm text-muted">
+                  <time datetime={e.data.date.toISOString()}>
+                    {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                  </time>
+                </p>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
   {foundational.length > 0 && (
-    <section class="mx-auto max-w-5xl px-4 pt-10 pb-20">
+    <section class="mx-auto max-w-5xl px-4 pt-4 pb-20">
       <h2 class="font-serif text-2xl text-accent mb-2">Foundational treatises</h2>
       <hr class="border-accent/40 mb-10" />
       {/* Cover thumbnails are intentionally scoped to the foundational

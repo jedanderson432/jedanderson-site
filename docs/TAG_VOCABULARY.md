@@ -17,7 +17,8 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - deutsch, wheeler, yudkowsky, whitehead, landauer, bekenstein
 
 ## Form tags (what kind of essay within essays)
-- foundational — anchor pieces; surfaced on the homepage's Foundational treatises section
+- cornerstone — the very top tier of anchor pieces, surfaced first on the homepage as "Start here". Use sparingly (3–4 pieces total). A piece tagged `cornerstone` does not need to also be tagged `foundational`; for homepage display cornerstones are excluded from the Foundational treatises section to avoid duplication.
+- foundational — anchor pieces; surfaced on the homepage's Foundational treatises section. Pieces also tagged `cornerstone` are excluded from this section (they appear only in "Start here").
 - treatise — long-form first-principles synthesis
 - paper — formally academic register (the rare case where a piece has abstract + references + co-authors)
 - speech — prepared-remarks-as-essay
