@@ -80,3 +80,101 @@ const jsonLdNodes = jsonLd
     <SearchModal />
   </body>
 </html>
+
+<style is:global>
+  /* Print stylesheet. Strips site chrome, switches to black-on-white,
+     expands the article to full page width, and appends external-link
+     URLs after their anchor text so a printed copy is self-contained.
+     Internal anchors (#…, /…) and image-wrapping links are excluded
+     from the URL appendix to avoid noise. */
+  @media print {
+    @page {
+      margin: 0.75in;
+    }
+
+    body {
+      background: #fff !important;
+      color: #000 !important;
+      font-size: 11pt;
+      line-height: 1.45;
+    }
+
+    /* Site chrome — header nav, footer, search dialog, search trigger. */
+    header,
+    footer,
+    dialog#search-modal,
+    [data-search-trigger] {
+      display: none !important;
+    }
+
+    /* Interactive / navigational widgets on content pages.
+       - <details> covers the CiteThis collapsible.
+       - The Sections nav is the in-page TOC.
+       - The tag chip row is identified by its data-pagefind-filter children. */
+    article details,
+    article nav[aria-label="Sections"],
+    article > div:has(> a[data-pagefind-filter^="tag:"]) {
+      display: none !important;
+    }
+
+    /* Let the article use the full @page text column. */
+    main,
+    article {
+      max-width: none !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      background: transparent !important;
+    }
+
+    /* Page-break behavior. */
+    h1, h2, h3, h4 {
+      page-break-after: avoid;
+      break-after: avoid;
+    }
+    blockquote, figure, pre, table, img {
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+    p, li {
+      orphans: 3;
+      widows: 3;
+    }
+
+    article img {
+      max-width: 100% !important;
+      height: auto !important;
+    }
+
+    /* Strip animations/transforms/shadows that don't carry to paper. */
+    * {
+      transition: none !important;
+      transform: none !important;
+      box-shadow: none !important;
+    }
+
+    /* Show URLs after external links so the printout is self-contained. */
+    a[href^="http"]::after,
+    a[href^="https"]::after {
+      content: " (" attr(href) ")";
+      font-size: 0.85em;
+      color: #555;
+      word-break: break-all;
+    }
+    /* Suppress URL appendix for in-page anchors, relative paths,
+       and links that wrap an image (the appendix would crowd the image). */
+    a[href^="#"]::after,
+    a[href^="/"]::after,
+    a:has(> img)::after {
+      content: "" !important;
+    }
+
+    /* Body links: black + underlined, except image-wrapping links. */
+    article a {
+      color: #000 !important;
+      text-decoration: underline;
+    }
+    article a:has(> img) {
+      text-decoration: none !important;
+    }
+  }
+</style>
