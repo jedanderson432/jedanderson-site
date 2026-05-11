@@ -5,7 +5,7 @@ subtitle: "10 Years Reforming the Clean Air Act"
 date: 2026-05-11
 original_date: 2016-07-01  # Month-precision; inferred from source filename "Book - A Victorious Defeat - DRAFT - July 2016.pdf". Exact day unverified.
 type: book
-status: draft
+status: published
 tags: ["legal-reform", "clean-air-act", "enviroai", "faith"]
 abstract: "A decade of journal entries, observations, and reform proposals from inside the practice of Clean Air Act law. The case for simplifying a system whose overlapping rules now benefit lawyers more than air quality, and whose 1970s assumptions about pollution as a local problem no longer match a small, multi-pollutant world."
 license: CC-BY-4.0
