@@ -20,7 +20,7 @@ const {
   jsonLd,
 } = Astro.props;
 
-const fullTitle = title ? `${title} — ${SITE.title}` : SITE.title;
+const fullTitle = title ? `${title}—${SITE.title}` : SITE.title;
 const resolvedCanonical = canonicalUrl ?? new URL(Astro.url.pathname, SITE.url).toString();
 const resolvedOgImage = ogImage
   ? new URL(ogImage, SITE.url).toString()
@@ -45,7 +45,7 @@ const jsonLdNodes = jsonLd
     <link
       rel="alternate"
       type="application/rss+xml"
-      title={`${SITE.title} — RSS`}
+      title={`${SITE.title}—RSS`}
       href="/feed.xml"
     />
 

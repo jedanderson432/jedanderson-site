@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 import mdx from '@astrojs/mdx';
+import remarkCustomHeadingId from 'remark-custom-heading-id';
 import { validateSlugs } from './scripts/validate-slugs.mjs';
 
 // Inline integration that gates dev/build/sync on slug well-formedness.
@@ -30,6 +31,10 @@ export default defineConfig({
     format: 'directory',
   },
   trailingSlash: 'never',
+  markdown: {
+    // Enables Pandoc-style explicit heading IDs: `## Heading {#anchor}`
+    remarkPlugins: [remarkCustomHeadingId],
+  },
   integrations: [
     slugValidator(),
     sitemap(),

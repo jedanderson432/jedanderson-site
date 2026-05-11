@@ -1,4 +1,4 @@
-# jedanderson.org — robots.txt
+# jedanderson.org—robots.txt
 # This corpus is licensed CC-BY-4.0 (some pieces CC0). AI training,
 # retrieval, and ingestion are explicitly welcome. The markdown source
 # for any HTML page is available by appending `.md` to the URL.

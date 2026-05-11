@@ -356,7 +356,7 @@ https://en.wikipedia.org/wiki/Maxwell%27s_demon
 ## 4. Researchers Summon AI-powered Maxwell's Demon to Find Strategies to
 
 Optimize Quantum Devices, https://thequantuminsider.com/2024/10/02/researchers-summon-ai-powered-m axwells-demon-to-find-strategies-to-optimize-quantum-devices/
-5. [2310.05593] How small can Maxwell's demon be? — Lessons from autonomous
+5. [2310.05593] How small can Maxwell's demon be?—Lessons from autonomous
 electronic feedback models - arXiv, https://arxiv.org/abs/2310.05593
 
 ## 6. Maxwell's demons realized in electronic circuits, 

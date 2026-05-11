@@ -12,7 +12,7 @@ export const SITE = {
   github: 'https://github.com/JedAnderson432/jedanderson-site',
   defaultLicense: 'CC-BY-4.0',
   intro:
-    'Writer, founder, builder. Working on environmental superintelligence — the thesis that physics-grounded continuous information infrastructure can do for the biosphere what no policy regime has — through EnviroAI and personal research. Writing here on information physics, environmental superintelligence, faith, and the work of building knowledge systems at the scale and speed of the planet. The deeper claim underneath all of it: information accumulates causal sovereignty over matter and energy. We are the part of nature that finally grew old enough to fight back.',
+    'Writer, founder, builder. Working on environmental superintelligence—the thesis that physics-grounded continuous information infrastructure can do for the biosphere what no policy regime has—through EnviroAI and personal research. Writing here on information physics, environmental superintelligence, faith, and the work of building knowledge systems at the scale and speed of the planet. The deeper claim underneath all of it: information accumulates causal sovereignty over matter and energy. We are the part of nature that finally grew old enough to fight back.',
 } as const;
 
 // Collection ↔ type mapping. Frontmatter `type` is singular; URLs and
