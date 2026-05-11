@@ -4,7 +4,6 @@ import CiteThis from '../components/CiteThis.astro';
 import { getCollection } from 'astro:content';
 import { SITE, TYPE_LABELS } from '../site-config';
 import { canonicalFor, canonicalPath } from '../lib/canonical';
-import { readingMinutes } from '../lib/readingTime';
 
 interface Props {
   entry: any;
@@ -20,7 +19,6 @@ const mdPath = `${canonicalPath(entry)}.md`;
 const githubUrl = `${SITE.github}/blob/main/src/content/${entry.collection}/${entry.slug}.md`;
 const h2s = headings.filter((h) => h.depth === 2);
 const showAbstract = data.status !== 'published' || data.show_abstract_on_page;
-const minutes = readingMinutes(body);
 
 // Resolve related_essay path → display title via collection lookup. The
 // path is expected as /{collection}/{slug}; falls back to the raw path
@@ -111,11 +109,7 @@ const articleSchema = {
       </p>
     )}
     <p class="text-sm text-muted mb-8">
-      <span>By {[data.author, ...(data.co_authors ?? [])].join(', ')}</span>
-      <span aria-hidden="true"> · </span>
       <time datetime={data.date.toISOString()}>{dateLong}</time>
-      <span aria-hidden="true"> · </span>
-      <span>{minutes} min read</span>
     </p>
 
     {showAbstract && (
