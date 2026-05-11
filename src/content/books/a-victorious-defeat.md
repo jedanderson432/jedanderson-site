@@ -13,6 +13,7 @@ author: "Jed Anderson"
 hero_image: "/images/a-victorious-defeat-cover.jpg"
 hero_image_alt: "Cover of 'A Victorious Defeat.' A portrait sky photograph framed by white margins: a daylight cloudscape viewed from above the cloud layer, with cumulus banking beneath a deep-blue zenith. The title in teal serif beneath the image; the subtitle '10 YEARS REFORMING THE CLEAN AIR ACT' in small caps; the author's name at the foot."
 pdf: "/pdfs/a-victorious-defeat.pdf"
+show_toc: true
 ---
 
 <!--
@@ -65,7 +66,7 @@ Preserved as-is per editorial decision:
   • All accented characters in proper nouns (Arreguín-Toft, etc)
 -->
 
-Preface
+## Preface
 
 —“25% of this book is not worth reading.  I just don’t know which 25%.”—Jed Anderson
 
@@ -97,7 +98,7 @@ can make this happen.
 It has been a joy to be on this journey to transform the Clean Air Act.  It truly has been a “victorious
 defeat.”
 
-Light and the Clean Air Act
+## Light and the Clean Air Act
 
 Some people don’t want to draw attention to themselves because they don’t want others thinking,
 “Boy, that person sure thinks they are wonderful.”
@@ -116,7 +117,7 @@ Time to let your light shine.
 may praise, not us for shining, but the Father for creating the light.”—George
 MacDonald
 
-Consensus
+## Consensus
 
 How do we get consensus on how to update the Clean Air Act?  Quite easy.  Just a matter of personally
 searching for the truth as best we can see it.  I will explain.
@@ -132,7 +133,7 @@ Each of us is designed to find Waldo.  The more we search for the truth in any p
 more we realize we are looking for the same thing and the closer we get to finding the same thing.
 And that same thing we will one day find will just be wonderful. . . . It's the truth.
 
-Perspective
+## Perspective
 
 Sometimes we think of the Clean Air Act as this venerable, imposing, indomitable force.  Just some
 perspective I wanted to share.  Each one of you is far more powerful and important than the Clean
@@ -144,7 +145,7 @@ Act will ever be.
 Improving the Clean Air Act doesn’t seem as imposing anymore does it? . . . especially for a creature
 who will one day remember the Clean Air Act and the galaxies as an old tale.
 
-Best way to Protect Nature
+## Best way to Protect Nature
 
 The best way to protect nature is to emulate nature.
 
@@ -155,7 +156,7 @@ The best way to protect nature is to emulate nature.
 —“Nature does not multiply things unnecessarily . . . and does nothing in vain”.—
 Galileo
 
-Sacred vs. Secular
+## Sacred vs. Secular
 
 People tell me I keep jumbling up religion and science and philosophy and public policy and
 theology.
@@ -169,7 +170,7 @@ music.  Seems like a cosmic impossibility.
 
 —“Life and religion are one, or neither is anything.”–George MacDonald
 
-Liberals, Conservatives, and the Clean Air Act
+## Liberals, Conservatives, and the Clean Air Act
 
 Liberals are not thinking liberal enough on this issue yet.  And the conservatives are not thinking
 conservative enough.
@@ -178,7 +179,7 @@ Let’s end both pollution and environmental laws.
 
 It’s not idealism.  Just pragmatism with an extended timeline.
 
-It’s Better to Fail
+## It’s Better to Fail
 
 I failed again at requesting that the State of Texas recognize foreign pollution impacts to our health,
 economy, and ability to achieve air quality standards.
@@ -209,7 +210,7 @@ though we might say this in a half-wincing, half-cowering voice . . . “bring i
 
 —- “The phoenix must burn to emerge.” – Janet Fitch
 
-New Year’s Resolutions
+## New Year’s Resolutions
 
 Many people say, “Why make resolutions I’m likely to fail at anyway?”
 
@@ -217,7 +218,7 @@ Not the point.  God works from intent—not probability of success.
 
 Problem isn’t that we make resolutions that are impossible, but that they are not impossible enough.
 
-The Call for Clean Air Act Transformation
+## The Call for Clean Air Act Transformation
 
 Some may think of the Clean Air Act transformation effort as rebellious.  Nothing could be further
 from the truth.  Is the alcoholic rebellious for deciding to do something other than drink?
@@ -229,7 +230,7 @@ If we engage in the Clean Air Act transformation effort out of love for our nati
 can do better, then we are calling on the same human nature that led to the creation of this great
 nation.  It is this nature that calls us forward to improvement.  It is this nature we cannot ignore.
 
-Belief and the Clean Air Act
+## Belief and the Clean Air Act
 
 “I believe I can change the Clean Air Act.”  When I tell people this they look at me like I just told
 them I believed I could fly to Neptune.
@@ -238,7 +239,7 @@ Some people mistakenly think that belief is a feeling.  That one must feel like 
 to believe.  Belief is not a feeling.  Belief is a choice.  Feelings come and go.  Feelings are
 fickle.  Nothing can be built on a feeling of belief.  Mountains can be built on a choice of belief.
 
-The Weak or the Strong?
+## The Weak or the Strong?
 
 Do you think it will take a strong powerful organization to reform the Clean Air Act?  Do you think
 a small person such as yourself has no chance?  You are absolutely wrong.   It is the exact opposite.
@@ -261,13 +262,13 @@ then just do it and trust that all will be well—because it will be.  It’s th
 —"Never doubt that a small, group of thoughtful, committed citizens can change the
 world. Indeed, it is the only thing that ever has." - Margaret Mead
 
-Trying
+## Trying
 
 Not as important that we succeed.  Only that we try.  The goal as far as I can see it isn’t to leave this
 earth with a list of accomplishments and a medal around our neck.  The goal is to leave with as many
 scars as possible and a smile on our face.
 
-The Lorax and the Clean Air Act
+## The Lorax and the Clean Air Act
 
 “But now,” says the Once-ler,
 “Now that you’re here,
@@ -292,7 +293,7 @@ More clean air, more thneeds—for everyone world-wide.”
 “So let’s jump in there and try this reform will we succeed?
 98 and ¾ percent guaranteed!”
 
-Idealism
+## Idealism
 
 “I admire your idealism . . .”
 
@@ -309,11 +310,11 @@ couple day’s effort.
 Time to transform the Clean Air Act.  Time to venture forth.  We have not been designed for the
 harbor.  We have been designed for the sea.  All will be well.
 
-Attribution
+## Attribution
 
 99% of my best work is plagiarism.
 
-Power and Influence
+## Power and Influence
 
 We don’t need more power and influence to improve the Clean Air Act—just more love.  This is not
 mushy sentiment.  It’s practical business-like advice.  I will explain.
@@ -328,7 +329,7 @@ Many people have fainted and given up—or not started.  Many others like myself
 What’s needed to overcome this is not more power and influence, but as explained above, more love.
 And this is quite easy to get.  I’ve read the only thing we need to do is ask.
 
-What’s in this Reform Effort for us Personally?
+## What’s in this Reform Effort for us Personally?
 
 This might seem strange, but I think we are already receiving our reward.  When the Clean Air Act
 is updated and simplified I think it will be a great day for the environment, industry, and our nation—
@@ -344,11 +345,11 @@ greatness.”—George MacDonald
 
 We’ve got a long way to go, but what a beautiful gift we are being given.
 
-Clean Air Act Reform is Easy
+## Clean Air Act Reform is Easy
 
 People wonder why I think Clean Air Act reform is relatively so easy.  It’s because I’ve tried Jed reform.
 
-The World’s Judgment and the Clean Air Act
+## The World’s Judgment and the Clean Air Act
 
 The world is saying that the Clean Air Act can’t be fixed—and even if it could be fixed—you are too
 small, weak, old, young, broken, ill-positioned, or insignificant to do anything about it.
@@ -358,14 +359,14 @@ Who’s voice are you going to listen to?  The world’s?
 —“The world is not so excellent that its judgment of greatness unequivocally has great
 significance – except as unconscious sarcasm.”—Soren Kierkegaard
 
-Simplifying the Air Quality Management System
+## Simplifying the Air Quality Management System
 
 We must simplify the air quality management system in the United States.  With simplicity comes
 transparency.  With transparency comes accountability.  The more simple things are, the more
 everyone understands them.  The more everyone understands them, the more they comply with
 them.  It’s that simple.
 
-Apologetics on Clean Air Act Reform
+## Apologetics on Clean Air Act Reform
 
 I hope everyone has figured out that about 75% of what I say is hooey and about 25% is good stuff.
 Unfortunately I can’t differentiate the two.  I therefore leave it to you to figure out which is which.
@@ -379,14 +380,14 @@ Air Act reform is hard, try Jed reform!
 All will be well.  Thank you all for your tolerance, patience, and for helping to seek and advance the
 truth on all this.  What a fun journey it is.
 
-The Goal
+## The Goal
 
 No more pollution.  No more environmental laws.  And for companies to make billions of dollars
 making wonderful products for us to use and enjoy.
 
 It won’t be tomorrow.  But it will be some tomorrow.
 
-Music and the Clean Air Act
+## Music and the Clean Air Act
 
 Think the foundations of the Clean Air Act need to remain long and complicated to handle the
 complex, nuanced, and multifarious world we now live in?
@@ -399,7 +400,7 @@ which music has been responsible for generating—only 12 notes have ever been u
 
 Imagine the music we could play with a simplified Clean Air Act.  Let’s make it happen.
 
-Change
+## Change
 
 Many people don’t want to change the Clean Air Act because they think that whatever we get from
 Congress will be worse than what we already have.
@@ -419,7 +420,7 @@ will not be our changes, but our lack of changes that will trouble us most.
 than by the ones you did do.  So throw off the bowlines.  Sail away from the safe harbor.
 Catch the trade winds in your sails.  Explore.  Dream.  Discover.”—Mark Twain
 
-Best Place for Tackling the Impossible
+## Best Place for Tackling the Impossible
 
 Go sit in the woods or your closet for an hour.
 
@@ -427,7 +428,7 @@ The world will tell you that you just wasted an hour.
 
 Eternity and the results I think might eventually tell you otherwise.
 
-Simplicity and the Clean Air Act
+## Simplicity and the Clean Air Act
 
 The reason things are still complicated is that we do not fully understand them.  Once we fully
 understand them . . . they will become simple.
@@ -451,7 +452,7 @@ electromagnetism.
 Fascinating.  Makes you wonder what treasures we might discover if we tried to simplify the Clean
 Air Act.
 
-Accepting Things as They Are
+## Accepting Things as They Are
 
 It sometimes might seem easier to just accept problems with the Clean Air Act and the problems we
 face in life as they are.   Some words of George McDonald I read this morning that I wanted to share:
@@ -470,7 +471,7 @@ because so to fight is the truth, and the only way.”
 
 Let’s lay down and bleed for a while if we need to.  Then rise and fight again.
 
-You or Congress
+## You or Congress
 
 I believe many of you stand a greater chance of transforming the Clean Air Act than most Senators
 or Representatives.  Does this sound crazy?  Absolutely not.  I will prove it.  Here is an extreme
@@ -491,7 +492,7 @@ likely realize.
 —“Thousands of geniuses live and die undiscovered—either by themselves or by others.”
 —Mark Twain
 
-Simplicity
+## Simplicity
 
 I wonder what would happen if we applied Occam’s Razor to Clean Air Act?
 
@@ -533,7 +534,7 @@ What would happen if we applied Occam’s Razor to the Clean Air Act?
 The world is changing.  We must change with it.  Time to transform the Clean Air Act.  We can make
 it happen.
 
-Two Duties
+## Two Duties
 
 We are doctors.  All of us are helping our patients with their air quality ailments—whether we
 represent industry, the environment, or government.  This is a beautiful and critical service we
@@ -550,7 +551,7 @@ invitation list.” – John Eliot
 
 Time to transform the Clean Air Act process.  We can make it happen.
 
-Clean Air Act Reform and the Little Engine that Could
+## Clean Air Act Reform and the Little Engine that Could
 
 We again appear to be at a crossroads with the Clean Air Act.  We have a choice to make.  The first
 is to ignore the issue and say “it’s not my problem”, “I’ve got more important things to do”, or “I might
@@ -561,7 +562,7 @@ might get hurt, and start inching your way up that mountain.
 
 I think we can.  I think we can.  I think we can.  I think we can.
 
-How can we Transform the Clean Air Act?
+## How can we Transform the Clean Air Act?
 
 How can we transform the Clean Air Act?  The key I think is not to focus on what Congress, EPA, or
 others should be doing.  The most destructive thinking is to sit there and say, “If Congress would
@@ -586,7 +587,7 @@ can solve them—they are within.
 Time to internalize Clean Air Act problems and hold them up to the inner light.  It is the only way to
 solve the problem.  We can make it happen.
 
-False Barriers
+## False Barriers
 
 “I can’t speak up about simplifying and improving the Clean Air Act . . . my job won’t let me.”
 
@@ -597,8 +598,7 @@ lacks the truth.
 thinking you have something to lose. You are already naked. There is no reason not to follow
 your heart.” – Steve Jobs
 
-How can I believe that you and I are capable of transforming the
-Clean Air Act?
+## How can I believe that you and I are capable of transforming the Clean Air Act?
 
 Apparently some folks are asking this question and I thought I would answer it.  How can I believe
 that you and I are capable of transforming the Clean Air Act?  Am I crazy?  Am I that arrogant?  Am
@@ -627,7 +627,7 @@ I’m not sure if or how we will be used, or whether we are being used in a give
 believe that we can’t be used because we are too small would be to place limits on God—which I can’t
 do.  There is too much evidence to the contrary.
 
-Blame and the Clean Air Act
+## Blame and the Clean Air Act
 
 Who do I mostly blame for failing to update the Clean Air Act?
 
@@ -637,7 +637,7 @@ wouldn’t sit for a month.”–Theodore Roosevelt
 The world is changing.  We must change with it.  Time to transform the Clean Air Act.  We can make
 it happen.
 
-The Pain and Difficulty of Transforming the Clean Air Act
+## The Pain and Difficulty of Transforming the Clean Air Act
 
 The main reason why I think we don’t want to get involved with updating the Clean Air Act is that it
 will be difficult and painful.  We want happiness and peace—not pain and difficulty.
@@ -664,7 +664,7 @@ men, most richly blessed.”—Found on the body of a dead Confederate soldier 1
 
 Amazing the level of peace and joy that can be found only in the storm.
 
-Simplicity
+## Simplicity
 
 Simplicity is where the Clean Air Act is eventually headed.  It is inevitable as Chesterton puts it.
 
@@ -697,12 +697,12 @@ how much he can accept, Tolstoy by seeing how much he can reject.”—G.K. Ches
 
 The Clean Air Act will eventually be simple.  What a comforting hope in this inevitability.
 
-Emphasis
+## Emphasis
 
 You are far more important than what you are doing.  And it is the outcome of the inner drama where
 ultimately rests the outer pageant of history.
 
-The Wave
+## The Wave
 
 Life is short.
 
@@ -728,7 +728,7 @@ me!”  Then along comes another wave.  It sees the first wave, looking grim, an
 crash!  All of us waves are going to be nothing!  Isn’t it terrible?”  The second waves says, “No
 you don’t understand, You’re not a wave, you’re part of the ocean.”—Anonymous
 
-Isaac Newton
+## Isaac Newton
 
 I wonder what Isaac Newton would think about the Clean Air Act?
 
@@ -748,7 +748,7 @@ a design that suffered from severe chromatic aberration.
 —“It is the perfection of God's works that they are all done with the greatest simplicity.” -
 -Isaac Newton
 
-Shame and Remorse
+## Shame and Remorse
 
 I beat myself up a lot.  Cling to the shame and remorse of past mistakes and omissions.  Prideful to
 do this.  Just pride that is suffering.
@@ -785,7 +785,7 @@ again like the heart of a child.”—George MacDonald
 “Shame is a thing to shame only those who want to appear, not those who want to be.”—
 George MacDonald
 
-Building a New Clean Air Act
+## Building a New Clean Air Act
 
 How about working to build something new together?  Here is an idea.  If we succeeded in this
 endeavor we could greatly reduce costs to industry and the public–and improve environmental
@@ -832,7 +832,7 @@ with them.  It’s that simple.
 —“Progress lies not in enhancing what is, but in advancing toward what will be.” - Kahlil
 Gibran
 
-Beethoven’s 9th Symphony
+## Beethoven’s 9th Symphony
 
 Still think we can’t reform the Clean Air Act?  Guess what.  We already are.  This is just the first
 movement.  Want to hear what the final movement will sound like?  Listen to the 4th movement of
@@ -858,7 +858,7 @@ world? Seek Him above the starry firmament, For above the stars he surely dwells
 
 And so it will be.
 
-Moving Mountains
+## Moving Mountains
 
 Complexity builds mountains.  Simplicity moves mountains.
 
@@ -869,7 +869,7 @@ get there, you can move mountains.”—Steve Jobs
 Time to simplify and transform the Clean Air Act to better prepare ourselves for the
 problems and opportunities of a 21st century world.  We can make it happen.
 
-Jumping out of the Trench—Clean Air Act Reform
+## Jumping out of the Trench—Clean Air Act Reform
 
 When we look back at history we can see all the great opportunities previous generations had for
 demonstrating their courage and faith.  Embarking on ships sailing for the “edge of the world”.
@@ -883,7 +883,7 @@ we have the courage to leave the shore?
 
 Time to transform the Clean Air Act reform.  We can make it happen
 
-“It’s not the right time”
+## “It’s not the right time”
 
 Many people have said to me, “Clean Air Act transformation is clearly the right thing to do, but it
 just can’t happen in the current political environment, and therefore, we are better off just figuring
@@ -905,7 +905,7 @@ the central tenet that the sun travels around the earth.
 Transforming the Clean Air Act will relatively be piece of cake.  Only question on whether to proceed
 or not should be “is this the right thing to do”.   After that its only about courage and faith.
 
-Schoenbrod Saying Clean Air Act is Now “Stupid”
+## Schoenbrod Saying Clean Air Act is Now “Stupid”
 
 Wasn’t it a huge relief to hear someone of Schoenbrod’s renown sum up what the Clean Air Act has
 become in such a succinct and honest word?  What beautiful grammatical profundity.
@@ -923,7 +923,7 @@ word.  Salve on an open wound.  The healing will begin.
 
 All will be well.  All is well.
 
-The Wrong Path
+## The Wrong Path
 
 Maybe we are wrong for trying to transform the Clean Air Act.  Maybe history will reveal that our
 purpose did not resonate with the truth—and our nation’s reliance on the current Act was the best
@@ -950,7 +950,7 @@ were wrong when you thought others were wrong? If you can with such submission f
 revelation of things hid, then you are of the truth, and need not be afraid; for, whatever comes,
 it will and can only make you more true and humble and pure.”—George MacDonald
 
-How Much Longer until the Clean Air Act is Transformed?
+## How Much Longer until the Clean Air Act is Transformed?
 
 A friend yesterday asked how far along the path we are in transforming the Clean Air Act.  I’m not
 sure.  We are not at the summit, but we aren’t at the bottom anymore either.
@@ -970,7 +970,7 @@ So it is with the Clean Air Act transformation effort.  Eventually we will get t
 matter of focusing on the path in front of us and continuing to move our feet.  What a wonderful
 journey it is.
 
-Henry David Thoreau
+## Henry David Thoreau
 
 I wonder what Thoreau would think about the Clean Air Act?
 
@@ -988,7 +988,7 @@ where your main roots run.”—Henry David Thoreau
 to spare within or without to shake it, I declined it.”—Henry David Thoreau
 —“Simplicity is the law of nature for men as well as for flowers.”—Henry David Thoreau
 
-Making Mistakes
+## Making Mistakes
 
 Anyone make mistakes?  I do.  All the time.  Generally not a big deal to make a mistake.  The bigger
 deal is to remain in a mistake.  Mistakes are forgiven.  Leave to continue in a mistake is not.
@@ -997,7 +997,7 @@ deal is to remain in a mistake.  Mistakes are forgiven.  Leave to continue in a 
 wrong.  He is condemned for not coming out of the darkness, for not coming to the light.”—
 George MacDonald
 
-Not the Right Time
+## Not the Right Time
 
 “I’d love to tell the truth about what I think about the Clean Air Act process.  But I can’t.   It’s just
 not the right time for me to speak up.”
@@ -1008,7 +1008,7 @@ I am promised many things—but time doesn’t seem to be one of them.
 —“Life is short, but truth works far and lives long:  let us speak the truth.”—Arthur
 Schopenhauer
 
-Bruce Lee
+## Bruce Lee
 
 I wonder what Bruce Lee would think about the Clean Air Act?
 
@@ -1024,7 +1024,7 @@ arts, the less wastage of expression there is.”—Bruce Lee
 —“It is not a daily increase, but a daily decrease.  The height of cultivation always runs to
 simplicity.”—Bruce Lee
 
- Albert Einstein
+## Albert Einstein
 
 I wonder what Einstein would think about the Clean Air Act?
 
@@ -1038,7 +1038,7 @@ figure it out”.—Gina McCarthy, U.S. EPA Administrator
 expressed in a language comprehensible to everyone.”—Albert Einstein
 —"When the solution is simple, God is answering."—Albert Einstein
 
-Steve Jobs
+## Steve Jobs
 
 I wonder what Steve Jobs would think about the Clean Air Act?
 
@@ -1054,7 +1054,7 @@ elegant and simple solutions.”—Steve Jobs
 complex: You have to work hard to get your thinking clean to make it simple. But it's worth
 it in the end because once you get there, you can move mountains.—Steve Jobs
 
-The Pope and Climate Change
+## The Pope and Climate Change
 
 Pascal wrote a book called “Penses”.  I guess that’s how you could best characterize the
 following,  “Thoughts”.  Read or hit the delete button.  Up to you.  I just wrote it for reasons I’m not
@@ -1270,7 +1270,7 @@ upon good things, a place to learn of God, as what place is not?  [. . .]  But t
 of your living and loving and labor, not the church you go to on your holiday, is the place of divine service.”—
 George MacDonald
 
-Abilities
+## Abilities
 
 I still find people that think they can’t change the Clean Air Act.
 
@@ -1280,7 +1280,7 @@ I still find people that think they can’t change the Clean Air Act.
 I understand if you don’t want to change the Clean Air Act, but you can’t say that you can’t.  You
 can’t hold on to a cosmic impossibility.  Your potential exists whether you want it to or not.
 
-Should We Change the Clean Air Act?
+## Should We Change the Clean Air Act?
 
 —“I cannot say whether things will get better if we change; what I can say is they must change
 if they are to get better.” – Georg C. Lichtenberg
@@ -1303,7 +1303,7 @@ barbarous ancestors.” – Thomas Jefferson
 —“Change does not necessarily assure progress, but progress implacably requires change.” –
 Henry Steele Commager
 
-How Nature Works
+## How Nature Works
 
 It is ironic that a system we have designed to protect nature strays so far from emulating nature.
 
@@ -1312,7 +1312,7 @@ got to be a neuroscientist to figure it out”.—Gina McCarthy, U.S. EPA Admini
 
 —“Nature is pleased with simplicity. And nature is no dummy.”—Isaac Newton
 
-Simplifying the Operating System
+## Simplifying the Operating System
 
 What would happen if we simplified the Clean Air Act operating system?
 
@@ -1324,14 +1324,14 @@ we simplify this and make it more powerful at the same time.”—Steve Jobs
 
 Time to simplify and transform the Clean Air Act.  We can make it happen.
 
-Everything is Impossible without Trying
+## Everything is Impossible without Trying
 
 The reason Clean Air Act reform is so difficult is we haven’t tried it.
 
 Start climbing and the mountain becomes smaller.  Eventually you find yourself at the top wondering
 how you got there.
 
-Einstein’s 3 Rules of Work and the Clean Air Act
+## Einstein’s 3 Rules of Work and the Clean Air Act
 
 How might Einstein approach the Clean Power Plan, New Ozone Standard, and other challenges we
 face under the Clean Air Act?  Easy to find.  Here are Einstein’s 3 rules of work:
@@ -1350,13 +1350,13 @@ The world is changing.  We must change with it.  Time to simplify and transform 
 to better prepare ourselves for the problems and opportunities of a 21st century world.  We can make
 it happen.
 
-Predicting the Future of the Clean Air Act
+## Predicting the Future of the Clean Air Act
 
 How can we predict the future of the Clean Air Act?
 
 —–“The best way to predict the future is to create it.”—Abraham Lincoln
 
-Peace in Environmental Protection
+## Peace in Environmental Protection
 
 Takes little courage to throw rocks in a rock throwing world.
 
@@ -1364,7 +1364,7 @@ The truly courageous hold hands.
 
 Harder to get a rock thrown at you when everyone is holding hands.
 
-“Re-evaluating the Clean Air Act would be disastrous”
+## “Re-evaluating the Clean Air Act would be disastrous”
 
 Many Republican and Democrat leaders think that reevaluating the Clean Air Act would prove
 “disastrous”.
@@ -1399,8 +1399,7 @@ dies for the sake of dying.”—G.K. Chesterton, Orthodoxy
 
 All will be well.
 
-Clean Air Act is based on science . . . and the aim of science is
-simplicity
+## Clean Air Act is based on science . . . and the aim of science is simplicity
 
 -
 “The main purpose of science is simplicity and as we understand more things, everything
@@ -1426,7 +1425,7 @@ axioms.”—Albert Einstein
 The world is changing.  We must change with it.  Time to simplify and transform the Clean Air
 Act.  We can make it happen.
 
-Clean Air Act is Headed for Simplicity
+## Clean Air Act is Headed for Simplicity
 
 People say that life was simpler 100 years ago.
 
@@ -1464,7 +1463,7 @@ this conception of the return to simplicity. Ibsen returns to nature by the angu
 Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much
 he can accept, Tolstoy by seeing how much he can reject.”—G.K. Chesterton
 
-Suffering and the Clean Air Act
+## Suffering and the Clean Air Act
 
 Sentiment:  “I don’t’ want to suffer.  I want the Clean Air Act to be transformed, but I don’t want
 people to laugh at me, ignore me, or despise me.  I understand this is to be expected, and that this is
@@ -1523,14 +1522,14 @@ see Him where He was found: in suffering and the cross. You must imitate Him. Bu
 think you can follow Him in your own strength – you are going to have to find all your
 strength in Him. Remember that Jesus wants to feel all your weaknesses.”—Fenelon
 
-I Re-Wrote the Clean Air Act
+## I Re-Wrote the Clean Air Act
 
 I re-wrote the Clean Air Act (see “Clean Air and Climate Change Act of 2015”).
 
 -
 “It always seems impossible until it’s done.” – Nelson Mandela
 
-Definition of an Air Quality Plan under the Current Clean Air Act
+## Definition of an Air Quality Plan under the Current Clean Air Act
 
 “SIP”: (n.) A State air plan that generally tells the Federal government what the Federal
 government is doing so that the Federal government can tell the States that they have
@@ -1539,7 +1538,7 @@ properly told the Federal government what the Federal government is doing.
 Must simplify the Clean Air Act.  The world is changing.  We must change with it.  Time to transform
 the Clean Air Act.  We can make it happen.
 
-Christmas Story: “Yes Viriginia, there can be a new Clean Air Act”
+## Christmas Story: “Yes Viriginia, there can be a new Clean Air Act”
 
 Some people think our dreams of a new Clean Air Act are not based in reality.  We are just
 dreaming.  And our dream is unlikely to ever come true.
@@ -1551,7 +1550,7 @@ the rock.  I think we just choose to believe in fairy dust.  We can’t prove it
 prove that it doesn’t exist.  I think we just get a sense that it might be here.  And if we are later proven
 wrong that’s ok.  We just like a world better thinking there might be fairy dust in it.
 
-A GLOBAL AIR POLLUTION AGREEMENT
+## A GLOBAL AIR POLLUTION AGREEMENT
 
 World leaders are talking about an international agreement on climate change.  Why not talk about
 all global pollutants at the same time?  Seems like it might be more efficient since all these
@@ -1566,7 +1565,7 @@ international agreement:
 The world is changing.  We must change with it.  Time to transform the Clean Air Act.  We can make
 it happen
 
-Playing Small Ball with the Clean Air Act
+## Playing Small Ball with the Clean Air Act
 
 We seem to be in the “dead ball era” of environmental legislation.  And we are apparently content to
 keep playing “small ball” with the courts and the agency.
@@ -1579,7 +1578,7 @@ too much work.  I think I’ll hit it over that fence over there.  Why run when 
 
 Time to stop with the small ball with the Clean Air Act.  Time to try to hit one over the fence.
 
-First Bike Ride and the Clean Air Act
+## First Bike Ride and the Clean Air Act
 
 BOY:  “I CAN’T RIDE A BIKE.”
 DAD:  “HAVE YOU TRIED?”
@@ -1594,7 +1593,7 @@ hard.  It’s because we haven’t tried.
 
 Time to try.
 
-Refreshingly Honest Comments About the Clean Air Act
+## Refreshingly Honest Comments About the Clean Air Act
 
 Refreshingly honest quotes about the current state of the Clean Air Act after the U.S. Supreme Court’s
 recent ruling in Homer City:
@@ -1618,7 +1617,7 @@ Schoenbrod
 The world is changing.  We must change with it.  Time to transform the Clean Air Act.  We can make
 it happen.
 
-The Story of How the Clean Air Act was Opened
+## The Story of How the Clean Air Act was Opened
 
 Linda walked up to a door.  On the door were written the words,  “Clean Air Act”.  Linda tried
 to open the door.  But the door was locked.
@@ -1641,7 +1640,7 @@ Finally Mary arrived.  Pressing her way through the crowd Mary asked, “Hey, ha
 to open the door in a while?”  Mary then knocked three times, turned the knob,  . . . and walked
 through the doorway.
 
-Running and the Clean Air Act
+## Running and the Clean Air Act
 
 How can we keep running toward the goal of a more simplified Clean Air Act?
 
@@ -1652,7 +1651,7 @@ the body in motion.  It’s the straining of the muscles and feel of the path un
 life.  In our heart of hearts we would prefer if there were no finish lines.  Finish lines say stop.   We
 just want to run.
 
-Fear and the Clean Air Act
+## Fear and the Clean Air Act
 
 The main reason most people don’t want to change the Clean Air Act is because they’re scared.
 People on the left and right are afraid if the Clean Air Act’s opened . . . the other side’s gonna win.
@@ -1666,7 +1665,7 @@ There was no one there.
 
 All will be well.
 
-Secret to Genius and Improving the Clean Air Act
+## Secret to Genius and Improving the Clean Air Act
 
 The secret to genius is not intelligence.  It’s simplicity.  And we are all capable of it.  Mainly requires
 courage.
@@ -1678,7 +1677,7 @@ Schumacher (1911 – 1977)
 Time to simplify the Clean Air Act.  New measurement tools are available that can help us do this.
 We can make it happen.
 
-Energy and the Clean Air Act
+## Energy and the Clean Air Act
 
 Important to remember that one day all these climate change and air quality regulatory arguments
 will largely be moot.  It won’t be tomorrow . . . but it will be some tomorrow.
@@ -1693,7 +1692,7 @@ What a great future we are headed toward!
 “Progress lies not in enhancing what is, but in advancing toward what will be.”—Kahlil
 Gibran
 
-Most Overlooked Way to Improve Air Quality
+## Most Overlooked Way to Improve Air Quality
 
 Probably the easiest and most overlooked way to improve air quality in the U.S. is to simplify the
 Clean Air Act.
@@ -1703,8 +1702,7 @@ Clean Air Act.
 
 Time to simplify the Clean Air Act.  We can make it happen.
 
-How can Foreign Pollution Blow into the U.S. without Blowing into
-a State?
+## How can Foreign Pollution Blow into the U.S. without Blowing into a State?
 
 Amazing that EPA Administrator Gina McCarthy, NASA, NOAA, EPA, the United Nations, the
 National Academy of Sciences, Harvard University, Princeton University, UC Davis, Columbia
@@ -1731,7 +1729,7 @@ everyone of us in our personal lives have come to this realization.
 
 —“Truth, like surgery, may hurt, but it cures.”—Hans Suyin
 
-The Horse Trade
+## The Horse Trade
 
 Update the Clean Air Act.  Needs to be updated anyway.  Been 23 years.  Already been revised 4
 times.  Inevitable it happens again.  Might as well be now.  Here is the proposed horse trade:
@@ -1746,7 +1744,7 @@ allows businesses to react quicker to market opportunities.
 
 Sure seems better to horse trade than keep shoveling what comes out the back end.
 
-Pushing at the Rock
+## Pushing at the Rock
 
 People have told me that Clean Air Act transformation will never happen.  It’s politically impossible.
 I am wasting my time.
@@ -1787,7 +1785,7 @@ you used to have. Yet you haven’t moved the rock. But your calling was to be o
 to push and to exercise your faith and trust in My wisdom. This you have done. Now I, my
 friend, will move the rock.
 
-Clean Air Act vs. Simplicity
+## Clean Air Act vs. Simplicity
 
 Compare the following quotes on simplicity vs. the Clean Air Act:
 
@@ -1822,7 +1820,7 @@ legislation”. – NASDA
 “The statute and its regulatory offshoots are very complicated.”—U.S. Department of
 Justice
 
-Simplicity
+## Simplicity
 •
 “The ability to simplify means to eliminate the unnecessary so that the necessary may
 speak.”—-Hans Hofmann
@@ -1836,7 +1834,7 @@ things.” – Isaac Newton
 •
 “The simplest things are often the truest.”—Richard Bach
 
-Complexity and the Clean Air Act
+## Complexity and the Clean Air Act
 
 —-“I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a
 neuroscientist to figure it out”.—Gina McCarthy, U.S. EPA Administrator
@@ -1859,7 +1857,7 @@ because of the wider oscillation in increasing data points.
 Time to use the scientific method on the Clean Air Act.  Time to simplify the Act so we can better
 understand the law and reduce the chance of error.  We can make it happen.
 
-Marriage and the Clean Air Act
+## Marriage and the Clean Air Act
 
 The U.S. Supreme Court heard oral arguments today on the cross-state air pollution rule.  Governors
 from the Eastern States also have filed a petition with EPA seeking additional emission reductions
@@ -1883,7 +1881,7 @@ work better when everyone is focused on what they can do to improve to the situa
 The world is changing.  We must change with it.  Time to transform the Clean Air Act.  We can make
 it happen.
 
-Human History and the Clean Air Act
+## Human History and the Clean Air Act
 
 Think about the length of human history.  Now think about the Clean Air Act.  It’s a dot.  One day
 the dot will be gone.  It’s just a fact.  As they say, “History repeats itself . . . and that’s one of the things
@@ -1908,7 +1906,7 @@ find it helpful as well.
 The world is changing.  We must change with it.  Time to transform the Clean Air Act.  We can make
 it happen.
 
-Guilt and the Clean Air Act
+## Guilt and the Clean Air Act
 
 Anyone feel guilty for taking people’s money to do a bunch of this unnecessarily complicated and
 procedurally laden work under the current Clean Air Act?
@@ -1931,7 +1929,7 @@ remain in the system but open your mouth.  Third is to become a hair stylist.
 The world is changing.  We must change with it.  Time to transform the Clean Air Act.  We can make
 it happen.
 
-It’s easy! . . . How to Reduce Litigation under the Clean Air Act
+## It’s easy! . . . How to Reduce Litigation under the Clean Air Act
 
 One of the central focuses of the Congressional Clean Air Act Forums so far has been the crazy
 amount of litigation on air quality matters.  At one point the question came up about what we could
@@ -1967,7 +1965,7 @@ of genius—and a lot of courage—to move in the opposite direction.”——E.
 Time to reduce the number of opportunities for time-consuming and resource-intensive
 litigation.  Time to transform the SIP process.  We can make it happen.
 
-We’ve Got No Power, No Money . . . I like our Chances!
+## We’ve Got No Power, No Money . . . I like our Chances!
 
 Let’s see.  We’ve got no money.  No power.  And we are trying to change the Clean Air Act.  I like our
 chances!
@@ -1989,7 +1987,7 @@ about power says they shouldn’t”.
 Time to transform the Clean Air Act.  We’ve got no money.  We’ve got no power.  Just a bit of logic,
 love, and a willingness to run at the giant.  I’m liking our chances!
 
-Sleeping on the Couch
+## Sleeping on the Couch
 
 The Clean Air Act requires States to be responsible for pollution above their State or prove it’s someone
 else’s (CAA §§ 109a, 110, 126, 179B, 319(b)).  How about instead we just require States to be responsible
@@ -2003,7 +2001,7 @@ chances of sleeping on the couch.
 Time to transform the Clean Air Act.  Time to focus our efforts on what is in our power to control.  We can
 make it happen.
 
-Path to Finding the Truth
+## Path to Finding the Truth
 
 How do we each seek the truth as best we can about the Clean Air Act?  Like seeking the truth in
 anything, I think it first begins with a removal of self.  You might ask, what?  . . . Isn’t this supposed
@@ -2036,7 +2034,7 @@ that we are nothing, but the light is all.”—Emerson
 
 All will be well.
 
-Finger-pointing and the Clean Air Act
+## Finger-pointing and the Clean Air Act
 
 The goal now seems to be what State can do the best finger-pointing (see article below).  “It wasn’t
 my pollution . . . it was hers!”
@@ -2054,7 +2052,7 @@ sibling to throwing things.
 Time to align responsibility and authority.  Time to transform the Clean Air Act so we don’t need to
 spend our time and resources finger-pointing.  We can make it happen.
 
-Most Frequent Excuse for not Changing the Clean Air Act
+## Most Frequent Excuse for not Changing the Clean Air Act
 
 Probably the most frequent excuse I hear for not wanting to try to improve the Clean Air Act is if we
 give this thing to Congress you never know what they will do with it.  I imagine George Washington
@@ -2073,7 +2071,7 @@ We can have all kinds of excuses for not improving the Clean Air Act, but the on
 have is that we don’t trust Congress.  To say that we are saying that we do not trust an elected form
 of government.  Not an option.
 
-Courage and Love
+## Courage and Love
 
 I wish I could tell everyone the stories of courage I’ve seen from several of you lately who have walked
 down that dark road holding a flash light.  It hurts me to see the world not embracing you, but that
@@ -2083,7 +2081,7 @@ feeling loved ourselves.
 
 All the best to each of you on your journeys.
 
-A Multi-Pollutant Approach
+## A Multi-Pollutant Approach
 
 Let’s see. We’ve got interrelated problems with interrelated solutions—all of which sometimes
 overlap and conflict. Yet despite these interrelationships, overlaps, and conflicts—we continue to
@@ -2103,7 +2101,7 @@ Time to transform the Clean Air Act into a comprehensive multi-pollutant plannin
 coordinates, prioritizes, and pursues reduction efforts in the most efficient way possible considering
 various air quality and climate change goals.  We can make it happen.
 
-New EPA Rule
+## New EPA Rule
 
 Everyone review EPA’s proposed 8-hour ozone implementation rule.  Commendable and
 admirable.  I am reminded however of the following C.S. Lewis quote:
@@ -2121,7 +2119,7 @@ how wonderful it is—it’s going to take that much longer before we get a Priu
 The world is changing.  We must change with it.  Time to transform the Clean Air Act.  We can make
 it happen.
 
-Winston Churchill
+## Winston Churchill
 
 I wonder what Churchill would think about the Clean Air Act?
 
@@ -2131,7 +2129,7 @@ I wonder what Churchill would think about the Clean Air Act?
 
 Time to transform the Clean Air Act.  We can make it happen
 
-Mother Pollard
+## Mother Pollard
 
 When Martin Luther King asked an elderly woman affectionately known as Mother Pollard about
 how she was doing after days walking miles to town during the Montgomery Bus Boycott she verbally
@@ -2142,13 +2140,13 @@ smiled in true grammatical profundity:
 I wish the same blessing for each of you in whatever journey you are on.  May your feets be tired . . .
 and your soul rested.
 
-Must Succeed
+## Must Succeed
 “We must succeed.”
 No . . . we must try.
 
 —“For us, there is only the trying.  The rest is not our business.”—T.S. Eliot
 
-Cows and the Clean Air Act
+## Cows and the Clean Air Act
 
 I’m still laughing at the fact that this 5th Circuit Judge unknowingly and colloquially captured in one
 sentence what I’ve tried to say knowingly and intellectually in a thousand:
@@ -2157,7 +2155,7 @@ sentence what I’ve tried to say knowingly and intellectually in a thousand:
 
 Probably the best mantra for Clean Air Act reform I’ve ever heard.
 
-Clean Air Act, Problems, and Laughter
+## Clean Air Act, Problems, and Laughter
 
 Before self-criticism should come self-laughter.  Laughter removes the exaggerated weight we give
 to our problems—freeing us to deal with the root of the problem rather than being trapped at the
@@ -2259,7 +2257,7 @@ disappear and obstacles vanish into air.”—John Quincy Adams
 “Let me tell you the secret that has led to my goal.  My strength lies solely in my
 tenacity.”—Louis Pasteur
 
-Trying
+## Trying
 
 Congress thinks they can’t reform the Clean Air Act.
 
