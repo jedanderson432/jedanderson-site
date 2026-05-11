@@ -5,7 +5,7 @@ subtitle: "A true story for children of every age"
 date: 2026-05-11
 original_date: 2026-05-03
 type: book
-status: published
+status: draft
 tags: ["cosmic-ledger", "enviroai", "causal-sovereignty", "deutsch", "visual"]
 abstract: "A children's picture book adapting 'A Planet Without Minds Is a Planet Already Condemned.' Walks young readers from the four-billion-year arc of life on Earth, through five mass extinctions and the asteroid that ended the dinosaurs, to NASA's DART mission—the first time a human-made object measurably moved an asteroid in space. The wager: we are the first part of nature ever able to ask why and use the answer to defend the rest."
 license: CC-BY-4.0
