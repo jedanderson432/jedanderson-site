@@ -11,10 +11,17 @@ dist
 /The-First-Defender.pdf
 /the-universe-is-information*.pdf
 
-# Transient extraction artifacts in scripts/ (raw text, draft markdown).
-# The .py / .mjs scripts themselves stay tracked.
+# Raw source PDFs staged for ingestion. The public-served copies in
+# /public/pdfs/ (and any extracted images in /public/images/) are what
+# gets versioned; the source-of-truth originals live here for re-runs
+# but stay out of the repo.
+/corpus-ingest/
+
+# Transient extraction artifacts in scripts/ (raw text, draft markdown,
+# extraction manifests). The .py / .mjs scripts themselves stay tracked.
 scripts/_*.txt
 scripts/_*.md
+scripts/_*.json
 
 # Logs
 npm-debug.log*
