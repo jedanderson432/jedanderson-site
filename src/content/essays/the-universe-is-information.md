@@ -35,7 +35,6 @@ Penrose's 1-in-10^(10¹²³) figure for the improbability of the initial low-ent
 
 At Phase 1, information is *state*. It exists. It cannot do anything except propagate causally through physics.
 
-![Phase I symbol: a scattered field of small blue dots inside a framed dark square.](/images/universe-is-information-phase-1-bare.png)
 *A field of distinctions. State only. No relationships. No effects beyond propagation through physics.*
 
 > *Information has begun. It cannot yet do anything except be.*
@@ -50,7 +49,6 @@ The leverage step is real but small: information has begun to constrain physical
 
 This is the moment at which structure first earns its place in the cosmic ledger — the first time the answer to "what can happen here?" depends on a stored configuration rather than only on the laws.
 
-![Phase II symbol: a hexagonal lattice of teal dots connected by lines, suggesting a molecular structure inside a framed dark square.](/images/universe-is-information-phase-2-bonded.png)
 *Persistent configuration. Geometry that determines chemistry. Information stored, but blind to itself.*
 
 > *The first time the answer to 'what can happen here?' depends on a stored configuration.*
@@ -65,7 +63,6 @@ For the first time, information is causally responsible for its own continued ex
 
 But its mode of improvement is brutal: random mutation, selection by death. A 4-billion-year algorithm whose total throughput is everything alive today.
 
-![Phase III symbol: a green double-helix viewed end-on, coils stacked vertically inside a framed dark square.](/images/universe-is-information-phase-3-replicating.png)
 *Information that builds the substrate that propagates information. The first agent.*
 
 > *Information becomes causally responsible for its own continued existence.*
@@ -80,7 +77,6 @@ This is information about information. Meta-information. The leverage jumps: a s
 
 But Phase 4 information is still trapped in individual skulls. It dies with the body. It cannot be criticized, only inherited or lost.
 
-![Phase IV symbol: a node graph labeled "world" connected by dashed lines to an oval enclosing another node graph labeled "model," with an arrow descending to "action."](/images/universe-is-information-phase-4-modeling.png)
 *A small structure containing a model of a vastly larger one. Information about information.*
 
 > *Trapped in individual skulls. Inherited or lost — never criticized.*
@@ -95,7 +91,6 @@ Knowledge is not "more information." It is information that has learned to corre
 
 The first algorithm has a clock speed bounded by generation length. The second has no upper bound at all. This is the moment the curve turns vertical.
 
-![Phase V symbol: a gold hexagonal polyhedron cross-braced with internal diagonals, every vertex connected to every other, inside a framed dark square.](/images/universe-is-information-phase-5-hard-to-vary.png)
 *A structure cross-braced with so many constraints it cannot drift without breaking. Hard-to-vary.*
 
 > *Information that has learned to correct itself by argument rather than by death.*
@@ -110,14 +105,12 @@ The curve does not bend down from here. It steepens.
 
 For the first time, the algorithm that improves knowledge can run on substrates that scale faster than human generations — and the substrate itself can be improved by the algorithm. The loop closes on itself.
 
-![Phase VI symbol: an orange spiral coiling inward to a center point, with a single small arrowhead on the outer turn, inside a framed dark square.](/images/universe-is-information-phase-6-self-improving.png)
 *A loop that closes on itself. The algorithm improves the substrate that runs the algorithm.*
 
 > *The curve does not bend down from here. It steepens.*
 
 ## Synthesis · The ladder of causal sovereignty
 
-![Causal Leverage over Matter and Energy plotted against Cosmic Time from the Big Bang to today (13.8 Gyr, linear). The line stays nearly flat for roughly 10 billion years across phases I (bare) and II (bonded), curves upward through III (replicating, 3.8 Gya) and IV (modeling, 500 Mya), and turns vertical through V (hard-to-vary) and VI (self-improving) in the last 0.0002 of cosmic time, with VI marked "→ open" at the top right.](/images/universe-is-information-ladder.png)
 *Each phase is a discovery: a new way the universe gives its own bits more leverage over its own atoms.*
 
 ### Each phase is the moment information acquires a new mode of causation
@@ -149,7 +142,6 @@ And it has a direction. The asymptote — if the trajectory continues, and nothi
 
 The universe is becoming what it has been computing all along.
 
-![A gold circle on a black field. Around the top half: the label "It from Bit / Existence emerges from information." Around the bottom half: "Bits protect Its / Information turns and protects existence." Inside the circle, Roman numerals I through VI mark the six phases around a central dot. An arrowhead on the left side shows the direction of rotation.](/images/universe-is-information-wheeler-cycle.png)
 *Wheeler's It from Bit is the first half of the cycle. Bits protect Its is the second.*
 
 Existence emerges from information. Information, having organized itself into knowledge, turns and protects existence. The cycle is now closing for the first time in 13.8 billion years on this planet.

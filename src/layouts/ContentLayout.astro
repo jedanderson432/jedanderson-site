@@ -62,13 +62,13 @@ const articleSchema = {
   <article
     class:list={[
       'mx-auto max-w-3xl px-4 pb-12',
-      data.hero_image ? 'pt-8' : 'pt-12',
+      data.hero_image && !data.pdf ? 'pt-8' : 'pt-12',
     ]}
     data-pagefind-body
     data-pagefind-meta={`title:${data.title}`}
     data-pagefind-filter={`type:${TYPE_LABELS[data.type] ?? data.type}`}
   >
-    {data.hero_image && (
+    {data.hero_image && !data.pdf && (
       <img
         src={data.hero_image}
         alt={data.hero_image_alt ?? data.title}
@@ -87,6 +87,8 @@ const articleSchema = {
       </p>
     )}
     <p class="text-sm text-muted mb-8">
+      <span>By {[data.author, ...(data.co_authors ?? [])].join(', ')}</span>
+      <span aria-hidden="true"> · </span>
       <time datetime={data.date.toISOString()}>{dateLong}</time>
       <span aria-hidden="true"> · </span>
       <span>{minutes} min read</span>
@@ -95,6 +97,37 @@ const articleSchema = {
     <p class="italic text-muted border-l-2 border-rule pl-4 mb-10 text-lg leading-relaxed">
       {data.abstract}
     </p>
+
+    {data.pdf && (
+      <div class="mb-12">
+        <div class="flex items-center justify-between mb-4 gap-4 flex-wrap">
+          <p class="text-sm text-muted italic m-0">
+            The PDF is the canonical artifact. A prose transcript follows below for accessibility and AI ingestion.
+          </p>
+          <a
+            href={data.pdf}
+            target="_blank"
+            rel="noopener"
+            class="inline-block whitespace-nowrap px-4 py-2 border border-accent text-accent hover:bg-accent hover:text-paper rounded transition-colors text-sm no-underline"
+          >
+            Open PDF →
+          </a>
+        </div>
+        <object
+          data={data.pdf}
+          type="application/pdf"
+          class="w-full h-[600px] sm:h-[800px] rounded-[4px] border border-rule bg-paper block"
+          aria-label={`Embedded PDF: ${data.title}`}
+        >
+          <div class="p-6 text-center bg-paper">
+            <p class="mb-3 text-muted">Your browser can't display the PDF inline.</p>
+            <a href={data.pdf} class="underline hover:text-accent">Download the PDF</a>
+          </div>
+        </object>
+      </div>
+    )}
+
+    {data.pdf && <hr class="border-rule mb-10" />}
 
     <div class="prose prose-lg max-w-none">
       <slot />
