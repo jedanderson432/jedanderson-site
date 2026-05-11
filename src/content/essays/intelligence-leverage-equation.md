@@ -580,3 +580,5 @@ Environmental Superintelligence that maintains environmental order through entro
 Environmental Superintelligence (ESI): AI systems that shepherd planetary entropy with capabilities far beyond human capacity, approaching the thermodynamic limits physics permits.
 
 EnviroAI | Houston, Texas | January 2026 The goal was to build the system that would.
+
+*Related: [The Physics of Zero-Cost Stewardship](/essays/the-physics-of-zero-cost-stewardship)—the thermodynamic bridge to this equation.*

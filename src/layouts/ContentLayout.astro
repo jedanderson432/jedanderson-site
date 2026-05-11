@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import CiteThis from '../components/CiteThis.astro';
+import { getCollection } from 'astro:content';
 import { SITE, TYPE_LABELS } from '../site-config';
 import { canonicalFor, canonicalPath } from '../lib/canonical';
 import { readingMinutes } from '../lib/readingTime';
@@ -20,6 +21,24 @@ const githubUrl = `${SITE.github}/blob/main/src/content/${entry.collection}/${en
 const h2s = headings.filter((h) => h.depth === 2);
 const showAbstract = data.status !== 'published' || data.show_abstract_on_page;
 const minutes = readingMinutes(body);
+
+// Resolve related_essay path → display title via collection lookup. The
+// path is expected as /{collection}/{slug}; falls back to the raw path
+// if the entry can't be found.
+let relatedTitle: string | null = null;
+if (data.related_essay) {
+  const m = (data.related_essay as string).match(/^\/([^\/]+)\/([^\/]+)$/);
+  if (m) {
+    const [_, collection, slug] = m;
+    try {
+      const all = await getCollection(collection as any);
+      const ref = all.find((e: any) => e.slug === slug);
+      if (ref) relatedTitle = ref.data.title;
+    } catch {
+      // unknown collection — leave title null and render the URL
+    }
+  }
+}
 const dateLong = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
   month: 'long',
@@ -158,6 +177,15 @@ const articleSchema = {
     <div class="prose prose-lg max-w-none">
       <slot />
     </div>
+
+    {data.related_essay && (
+      <p class="text-sm text-muted mt-12">
+        Related:{' '}
+        <a href={data.related_essay} class="underline hover:text-accent">
+          {relatedTitle ?? data.related_essay}
+        </a>
+      </p>
+    )}
 
     {data.supporting_files && data.supporting_files.length > 0 && (
       <section class="mt-12 pt-6 border-t border-accent/40">
