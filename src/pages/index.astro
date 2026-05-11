@@ -59,9 +59,14 @@ const personSchema = {
               class="group no-underline flex gap-6 items-start"
             >
               {e.data.hero_image && (
+                /* Decorative on the homepage: the card link's accessible name
+                   already contains the title, subtitle, abstract, and date.
+                   The cover is reinforcement, not information — empty alt
+                   keeps it out of the anchor's accessible name. The
+                   descriptive alt is preserved on the standalone essay page. */
                 <img
                   src={e.data.hero_image}
-                  alt={e.data.hero_image_alt ?? e.data.title}
+                  alt=""
                   class="w-[200px] shrink-0 rounded-[2px] object-cover"
                   loading="eager"
                 />
@@ -107,9 +112,10 @@ const personSchema = {
               class="group no-underline flex gap-5 items-start"
             >
               {e.data.hero_image && (
+                /* Decorative — see Start-here card. */
                 <img
                   src={e.data.hero_image}
-                  alt={e.data.hero_image_alt ?? e.data.title}
+                  alt=""
                   class="w-[140px] shrink-0 rounded-[2px] object-cover"
                   loading="lazy"
                 />
