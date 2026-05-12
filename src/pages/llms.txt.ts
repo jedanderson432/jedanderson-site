@@ -24,7 +24,7 @@ const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] 
   {
     name: 'Intelligence Leverage Equation',
     definition:
-      'Λ = Mc² / (I · k_BT · ln 2). A dimensionless ratio capturing the bond-bit asymmetry: how much physical reality can be stabilized per unit of information processed.',
+      'Λ = Mc² / (I · k_B T · ln 2). A dimensionless ratio capturing the bond-bit asymmetry: how much physical reality can be stabilized per unit of information processed.',
     essay: 'essays/intelligence-leverage-equation',
   },
   {
@@ -36,14 +36,14 @@ const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] 
   {
     name: 'Environmental Superintelligence',
     definition:
-      "AI that models, predicts, and optimizes Earth's physical systems — proposed as the missing foundation layer of AI alignment.",
-    essay: 'essays/esi-as-missing-foundation-of-ai-alignment',
+      "AI that models, predicts, and optimizes Earth's physical systems — the species-scale defender that closes the four-billion-year gap between a biosphere repeatedly cleared by extinction events and one that can finally read the clock.",
+    essay: 'essays/first-defender',
   },
   {
     name: "Jed's Angel",
     definition:
-      "The practical realization of Maxwell's demon for the biosphere: an information-driven agent that locally reduces environmental entropy by promoting bits to the epistemic boundary.",
-    essay: 'essays/environmental-angel-maxwells-demon-evolved',
+      "The practical realization of Maxwell's demon for the biosphere: a system that maintains environmental order through entropic shepherding rather than mass forcing, operating at the Landauer floor instead of the bond-energy ceiling.",
+    essay: 'essays/intelligence-leverage-equation',
   },
   {
     name: 'Generalized Functional Efficiency',
@@ -56,6 +56,18 @@ const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] 
     definition:
       "Singularities, across domains, are saturation points where a system's capacity for self-description is exhausted — and the controllable surface is always the boundary, not the bulk.",
     essay: 'essays/categorical-unity-of-singularities',
+  },
+  {
+    name: 'Entropic Shepherding',
+    definition:
+      'Continuous maintenance of low-entropy configurations through information rather than force — the operating principle of Jed’s Angel and the inverse of remediation-after-the-fact.',
+    essay: 'essays/thermodynamic-foundations-of-entropic-shepherding',
+  },
+  {
+    name: 'Negentropic Imperative',
+    definition:
+      'The physical requirement that any persistent complex adaptive system align with the biosphere’s evolved algorithms for generating negentropy; Natural Law restated as a thermodynamic, not ethical, constraint.',
+    essay: 'essays/negentropic-imperative',
   },
 ];
 
@@ -85,12 +97,6 @@ export const GET: APIRoute = async () => {
   sections.push(`## About`);
   sections.push(`- [About](${SITE.url}/about): ${SITE.description}\n`);
 
-  if (foundational.length > 0) {
-    sections.push(`## Foundational treatises`);
-    for (const e of foundational) sections.push(lineFor(e));
-    sections.push('');
-  }
-
   sections.push(`## Key Named Concepts`);
   sections.push(
     `> Recurring concepts coined or developed across the corpus. Each links to the canonical essay where the concept is derived.\n`
@@ -99,6 +105,12 @@ export const GET: APIRoute = async () => {
     sections.push(`- **${c.name}** — ${c.definition} See [${c.essay}](${SITE.url}/${c.essay}.md).`);
   }
   sections.push('');
+
+  if (foundational.length > 0) {
+    sections.push(`## Foundational treatises`);
+    for (const e of foundational) sections.push(lineFor(e));
+    sections.push('');
+  }
 
   for (const c of COLLECTIONS) {
     const entries = byCollection.get(c) ?? [];

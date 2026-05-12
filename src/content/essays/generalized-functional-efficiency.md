@@ -119,7 +119,11 @@ function, synonymous with exergy destruction.
 
 Thus, the energy balance is:
 
-Ė_in = F + T₀ · Ṡ_gen Standard thermodynamic efficiency ($\eta$) is the ratio of useful output to total input: η = F / Ė_in = F / (F + T₀ · Ṡ_gen)
+Ė_in = F + T₀ · Ṡ_gen
+
+Standard thermodynamic efficiency (η) is the ratio of useful output to total input:
+
+η = F / Ė_in = F / (F + T₀ · Ṡ_gen)
 
 Chaisson's ERD metric (Φ_m = Ė_in / M) focuses solely on the input side. It rewards a system for having a large Ė_in, regardless of whether that energy is converted into function F or simply destroyed as T₀ · Ṡ_gen. A raging forest fire has a massive ERD because it converts chemical potential energy into heat at a furious rate, but its functional output (in terms of building structure or processing information) is negligible.
 
