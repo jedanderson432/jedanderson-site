@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/cnapr.png)'
 ---
 
-[![CNAPR](/images/sip/cnapr.png?w=497&h=373)](/images/sip/cnapr.png)
+[![CNAPR](/images/sip/cnapr.png)](/images/sip/cnapr.png)
 
 Puzzling why States and EPA want to keep focusing almost exclusively on each other and beating each other up in this changed world of ours.
 

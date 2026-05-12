@@ -11,6 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/foreign-pollution-and-the-naaqs.png)'
 ---
 
-[![Foreign Pollution and the NAAQS](/images/sip/foreign-pollution-and-the-naaqs.png?w=480&h=360)](/images/sip/foreign-pollution-and-the-naaqs.png)
+[![Foreign Pollution and the NAAQS](/images/sip/foreign-pollution-and-the-naaqs.png)](/images/sip/foreign-pollution-and-the-naaqs.png)
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

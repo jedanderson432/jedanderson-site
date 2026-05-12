@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: '> ***[](/images/sip/air-quality.png)Sentiment:*** *“You folks are a failure. The Clean Air Act can’t be simplified and transformed. It’s politically impossible. You are wasting your time.”*'
 ---
 
-> ***[![Air Quality](/images/sip/air-quality.png?w=300&h=206)](/images/sip/air-quality.png)Sentiment:*** *“You folks are a failure.  The Clean Air Act can’t be simplified and transformed.  It’s politically impossible.  You are wasting your time.”*
+> ***[![Air Quality](/images/sip/air-quality.png)](/images/sip/air-quality.png)Sentiment:*** *“You folks are a failure.  The Clean Air Act can’t be simplified and transformed.  It’s politically impossible.  You are wasting your time.”*
 
 Sometimes it feels like you just gotta go push at the rock.
 

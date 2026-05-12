@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/epa-and-lemonade.jpg)No one is seeing the billions of dollars in potential relief EPA is offering States.'
 ---
 
-[![EPA and Lemonade](/images/sip/epa-and-lemonade.jpg?w=1024&h=682)](/images/sip/epa-and-lemonade.jpg)No one is seeing the billions of dollars in potential relief EPA is offering States.
+[![EPA and Lemonade](/images/sip/epa-and-lemonade.jpg)](/images/sip/epa-and-lemonade.jpg)No one is seeing the billions of dollars in potential relief EPA is offering States.
 
 On Monday EPA recognized in the final ozone rule that climate change is increasing ozone:
 

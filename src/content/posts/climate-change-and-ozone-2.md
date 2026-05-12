@@ -11,6 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/climate-and-ozone.png)'
 ---
 
-[![Climate and Ozone](/images/sip/climate-and-ozone.png?w=480&h=360)](/images/sip/climate-and-ozone.png)
+[![Climate and Ozone](/images/sip/climate-and-ozone.png)](/images/sip/climate-and-ozone.png)
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: '*[](/images/sip/caa-and-light.jpg)Sentiment: **“I don’t want to draw attention to myself. I think the Clean Air Act should be improved, but I don’t want to be out there looking like, ‘Hey, look at me—aren’t I wonderful?’”***'
 ---
 
-*[![CAA and Light](/images/sip/caa-and-light.jpg?w=300&h=200)](/images/sip/caa-and-light.jpg)Sentiment: **“I don’t want to draw attention to myself.  I think the Clean Air Act should be improved, but I don’t want to be out there looking like, ‘Hey, look at me—aren’t I wonderful?’”***
+*[![CAA and Light](/images/sip/caa-and-light.jpg)](/images/sip/caa-and-light.jpg)Sentiment: **“I don’t want to draw attention to myself.  I think the Clean Air Act should be improved, but I don’t want to be out there looking like, ‘Hey, look at me—aren’t I wonderful?’”***
 
 What’s wrong with looking like you are wonderful?  You are wonderful.
 

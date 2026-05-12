@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/einstein-and-the-clean-air-act.png)As Picasso said, “Good artists copy, great artists steal”.'
 ---
 
-[![Einstein and the Clean Air Act](/images/sip/einstein-and-the-clean-air-act.png?w=260&h=252)](/images/sip/einstein-and-the-clean-air-act.png)As Picasso said, “Good artists copy, great artists steal”.  So how might Einstein approach the Clean Power Plan, New Ozone Standard, and other challenges we face under the Clean Air Act?  Easy to find.  Here are Einstein’s 3 rules of work:
+[![Einstein and the Clean Air Act](/images/sip/einstein-and-the-clean-air-act.png)](/images/sip/einstein-and-the-clean-air-act.png)As Picasso said, “Good artists copy, great artists steal”.  So how might Einstein approach the Clean Power Plan, New Ozone Standard, and other challenges we face under the Clean Air Act?  Easy to find.  Here are Einstein’s 3 rules of work:
 
 > 1. **“Out of clutter, find simplicity.**
 > 2. **From discord, find harmony.**

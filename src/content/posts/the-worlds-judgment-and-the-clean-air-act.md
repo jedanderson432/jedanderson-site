@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/kierkegaard-and-the-clean-air-act.png)'
 ---
 
-[![Kierkegaard and the Clean Air Act](/images/sip/kierkegaard-and-the-clean-air-act.png?w=300&h=210)](/images/sip/kierkegaard-and-the-clean-air-act.png)
+[![Kierkegaard and the Clean Air Act](/images/sip/kierkegaard-and-the-clean-air-act.png)](/images/sip/kierkegaard-and-the-clean-air-act.png)
 
 The world is saying that the Clean Air Act can’t be fixed—and even if it could be fixed—you are too small, weak, old, young, broken, ill-positioned, or insignificant to do anything about it.
 

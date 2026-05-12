@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/set-ozone-standard-at-zero.gif)I would recommend setting the ozone standard at 0.0 ppb.'
 ---
 
-[![Set Ozone Standard at Zero](/images/sip/set-ozone-standard-at-zero.gif?w=300&h=290)](/images/sip/set-ozone-standard-at-zero.gif)I would recommend setting the ozone standard at 0.0 ppb.  
+[![Set Ozone Standard at Zero](/images/sip/set-ozone-standard-at-zero.gif)](/images/sip/set-ozone-standard-at-zero.gif)I would recommend setting the ozone standard at 0.0 ppb.  
 
 The Clean Air Act was written with the knowingly false assumption by the authors that there is some safe level of pollution:
 

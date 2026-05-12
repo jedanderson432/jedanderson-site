@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/cow-and-the-clean-air-act.png)'
 ---
 
-[![Cow and the Clean Air Act](/images/sip/cow-and-the-clean-air-act.png?w=480&h=320)](/images/sip/cow-and-the-clean-air-act.png)
+[![Cow and the Clean Air Act](/images/sip/cow-and-the-clean-air-act.png)](/images/sip/cow-and-the-clean-air-act.png)
 
 Section 179B of the Clean Air Act does not require States to shoot the cow before States can account for foreign pollution (see [link](http://sipreform.wordpress.com/2014/08/21/you-can-always-shoot-the-cow-why-a-strict-but-for-interpretation-of-section-179b-is-nonsensical/)).
 

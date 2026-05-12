@@ -11,4 +11,4 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/fight-or-build.png)'
 ---
 
-[![Fight or Build](/images/sip/fight-or-build.png?w=497&h=373)](/images/sip/fight-or-build.png)
+[![Fight or Build](/images/sip/fight-or-build.png)](/images/sip/fight-or-build.png)

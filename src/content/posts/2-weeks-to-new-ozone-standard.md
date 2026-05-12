@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/new-ozone-standard.jpg)The new ozone standard in 2 weeks won’t be 70 ppb––or 65 ppb. That’s just a number for people who don’t understand how the NAAQS/SIP process works.'
 ---
 
-[![New Ozone Standard](/images/sip/new-ozone-standard.jpg?w=380&h=203)](/images/sip/new-ozone-standard.jpg)The new ozone standard in 2 weeks won’t be 70 ppb––or 65 ppb.  That’s just a number for people who don’t understand how the NAAQS/SIP process works.
+[![New Ozone Standard](/images/sip/new-ozone-standard.jpg)](/images/sip/new-ozone-standard.jpg)The new ozone standard in 2 weeks won’t be 70 ppb––or 65 ppb.  That’s just a number for people who don’t understand how the NAAQS/SIP process works.
 
 I wish I could explain this in some way that someone else other than me could understand it:
 
