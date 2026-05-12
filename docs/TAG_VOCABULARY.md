@@ -12,6 +12,13 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - cosmic-ledger — the planetary-threat framing
 - causal-sovereignty — Bits Protect Its as a thesis
 - holography — holographic principle, AdS/CFT, boundary information
+- clean-air-act — Clean Air Act statute, mechanics, and reform proposals (sipreform corpus)
+- regulatory-reform — rewriting environmental statutes and rulemaking processes
+- policy — legislative text, bill drafts, formal petitions
+- monitoring — sensors, satellites, remote sensing, data-points-as-regulation
+- tceq — Texas Commission on Environmental Quality, state-level air regulation
+- simplicity — the philosophical argument that complex statutes fail by complexity itself
+- ai — applied AI to environmental regulation (CERES, the pre-EnviroAI project)
 
 ## Thinker tags (engages a specific argument)
 - deutsch, wheeler, yudkowsky, whitehead, landauer, bekenstein
