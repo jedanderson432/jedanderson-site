@@ -6,6 +6,10 @@ import { canonicalPath } from '../../lib/canonical';
 
 const entries = await getCollection('books', ({ data }: any) => data.status === 'published');
 entries.sort((a, b) => +b.data.date - +a.data.date);
+
+function thumbFor(entry: any): string {
+  return entry.data.hero_image ?? `/images/${entry.slug}-thumb.jpg`;
+}
 ---
 
 <BaseLayout
@@ -21,25 +25,42 @@ entries.sort((a, b) => +b.data.date - +a.data.date);
     ) : (
       <ul class="space-y-6">
         {entries.map((e) => (
-          <li>
-            <div class="flex items-baseline gap-3 mb-1">
-              <time
-                datetime={e.data.date.toISOString()}
-                class="text-xs text-muted tabular-nums w-24 shrink-0"
-              >
-                {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
-              </time>
-              <span class="text-xs uppercase tracking-widest text-muted">
-                {TYPE_LABELS[e.data.type] ?? e.data.type}
-              </span>
-            </div>
+          <li class="flex items-start gap-4">
             <a
               href={e.data.external_url ?? canonicalPath(e)}
-              class="font-serif text-xl text-ink hover:text-accent no-underline"
+              class="shrink-0 block no-underline"
+              aria-hidden="true"
+              tabindex="-1"
             >
-              {e.data.title}
+              <img
+                src={thumbFor(e)}
+                alt=""
+                width="80"
+                height="80"
+                class="w-[60px] h-[60px] sm:w-20 sm:h-20 object-cover rounded-[4px]"
+                loading="lazy"
+              />
             </a>
-            <p class="text-sm text-muted mt-1">{e.data.abstract}</p>
+            <div class="flex-1 min-w-0">
+              <div class="flex items-baseline gap-3 mb-1">
+                <time
+                  datetime={e.data.date.toISOString()}
+                  class="text-xs text-muted tabular-nums shrink-0"
+                >
+                  {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                </time>
+                <span class="text-xs uppercase tracking-widest text-muted">
+                  {TYPE_LABELS[e.data.type] ?? e.data.type}
+                </span>
+              </div>
+              <a
+                href={e.data.external_url ?? canonicalPath(e)}
+                class="font-serif text-xl text-ink hover:text-accent no-underline"
+              >
+                {e.data.title}
+              </a>
+              <p class="text-sm text-muted mt-1">{e.data.abstract}</p>
+            </div>
           </li>
         ))}
       </ul>
