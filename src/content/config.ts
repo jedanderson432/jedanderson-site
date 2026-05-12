@@ -50,6 +50,8 @@ const baseSchema = z.object({
   show_abstract_on_page: z.boolean().optional(),
   show_toc: z.boolean().optional(),
   related_essay: z.string().optional(),
+  interactive_url: z.string().optional(),
+  interactive_cta: z.string().optional(),
 
   // Decks, videos, charts, posters, and other materials that attach
   // to the writing they serve. The writing is canonical; supporting

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A Walk You've Never Taken</title>
+<meta name="description" content="Twelve verified physics observations, each takeable in ten seconds on a thirty-minute walk, ending at the bond-bit asymmetry. The most accessible on-ramp to the corpus's central claim: knowing where to put an atom is incomprehensibly cheaper than holding it there.">
+<link href="./fonts.css" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0a0a0a;
+    color: #e8e4df;
+    font-family: 'DM Sans', sans-serif;
+    font-size: clamp(20px, 1.5vw, 28px);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* FULL-BLEED HERO */
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 60px 8vw;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: radial-gradient(ellipse at 50% 40%, rgba(255,200,100,0.04) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .hero .subtitle {
+    font-size: clamp(16px, 1.2vw, 22px);
+    color: rgba(255,200,100,0.5);
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    font-weight: 500;
+    margin-bottom: 2.5vw;
+    opacity: 0;
+    animation: fadeUp 0.8s ease 0.2s forwards;
+  }
+
+  .hero h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+    font-size: clamp(3.5rem, 7.5vw, 9rem);
+    line-height: 1.05;
+    color: #ffffff;
+    margin-bottom: 3vw;
+    letter-spacing: -0.03em;
+    max-width: 80vw;
+    opacity: 0;
+    animation: fadeUp 0.8s ease 0.4s forwards;
+  }
+
+  .hero .hero-text {
+    max-width: 70vw;
+    font-size: clamp(20px, 1.6vw, 30px);
+    line-height: 1.75;
+    color: rgba(255,255,255,0.6);
+    opacity: 0;
+    animation: fadeUp 0.8s ease 0.6s forwards;
+  }
+
+  .hero .hero-text .bold-line {
+    color: #ffffff;
+    font-weight: 700;
+  }
+
+  .hero .hero-text p {
+    margin-bottom: 1.2em;
+  }
+
+  .hero .scroll-hint {
+    position: absolute;
+    bottom: 40px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: rgba(255,255,255,0.2);
+    opacity: 0;
+    animation: fadeUp 0.8s ease 1s forwards;
+  }
+
+  .hero .scroll-hint::after {
+    content: '';
+    display: block;
+    width: 1px;
+    height: 40px;
+    background: rgba(255,255,255,0.15);
+    margin: 12px auto 0;
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 0.15; }
+    50% { opacity: 0.5; }
+  }
+
+  /* CONTENT */
+  .content {
+    max-width: 88vw;
+    margin: 0 auto;
+    padding: 0 6vw 8vw;
+  }
+
+  /* CAUTION BOX */
+  .caution {
+    background: rgba(255,255,255,0.03);
+    border-left: 3px solid rgba(255,200,100,0.5);
+    padding: 2.5vw 3vw;
+    margin-bottom: 5vw;
+  }
+
+  .caution-label {
+    font-size: clamp(13px, 0.9vw, 18px);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: rgba(255,200,100,0.7);
+    margin-bottom: 1em;
+  }
+
+  .caution p {
+    color: rgba(255,255,255,0.6);
+    font-size: clamp(18px, 1.4vw, 26px);
+    line-height: 1.75;
+  }
+
+  /* SECTION DIVIDER */
+  .section-header {
+    text-align: center;
+    margin-bottom: 4vw;
+  }
+
+  .section-header h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 600;
+    font-size: clamp(1.2rem, 1.3vw, 2rem);
+    color: rgba(255,255,255,0.3);
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+  }
+
+  /* EXERCISE — TWO COLUMN */
+  .exercise {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 1.5vw 4vw;
+    align-items: start;
+    margin-bottom: 3.5vw;
+    padding-bottom: 3.5vw;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+  }
+
+  .exercise:last-of-type {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .exercise-number {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(12px, 0.85vw, 17px);
+    font-weight: 600;
+    color: rgba(255,255,255,0.2);
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    margin-bottom: 0.6em;
+  }
+
+  .exercise-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(1.8rem, 2.5vw, 3.5rem);
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+  }
+
+  .exercise-action {
+    font-size: clamp(14px, 1vw, 19px);
+    font-weight: 500;
+    color: rgba(255,200,100,0.55);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 0.8em;
+  }
+
+  .exercise-body {
+    color: rgba(255,255,255,0.65);
+    font-size: clamp(18px, 1.4vw, 26px);
+    line-height: 1.75;
+  }
+
+  .exercise-body strong {
+    color: rgba(255,255,255,0.95);
+    font-weight: 600;
+  }
+
+  /* LAST EXERCISE — FULL WIDTH */
+  .exercise-final {
+    display: block;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px;
+    padding: 3.5vw;
+    margin-top: 2vw;
+    margin-bottom: 0;
+    border-bottom: none;
+  }
+
+  .exercise-final .exercise-title {
+    font-size: clamp(2rem, 3vw, 4rem);
+    margin-bottom: 0.5em;
+  }
+
+  .exercise-final .exercise-body {
+    max-width: 65vw;
+  }
+
+  /* CLOSER */
+  .closer {
+    text-align: center;
+    margin-top: 6vw;
+    padding-top: 3.5vw;
+    border-top: 1px solid rgba(255,255,255,0.08);
+  }
+
+  .closer p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(1.8rem, 2.5vw, 3.5rem);
+    font-style: italic;
+    color: rgba(255,255,255,0.45);
+    margin-bottom: 2vw;
+    line-height: 1.5;
+  }
+
+  .closer .sig {
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-size: clamp(16px, 1.2vw, 22px);
+    color: rgba(255,255,255,0.25);
+    letter-spacing: 0.05em;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* RESPONSIVE — MOBILE */
+  @media (max-width: 768px) {
+    .hero { min-height: 90vh; padding: 40px 24px; }
+    .hero h1 { font-size: clamp(2.8rem, 10vw, 4rem); max-width: 95vw; }
+    .hero .hero-text { max-width: 95vw; }
+    .content { max-width: 95vw; padding: 0 24px 80px; }
+    .exercise {
+      grid-template-columns: 1fr;
+      gap: 16px;
+      margin-bottom: 40px;
+      padding-bottom: 40px;
+    }
+    .caution { padding: 28px 24px; }
+    .exercise-final { padding: 32px 28px; }
+    .exercise-final .exercise-body { max-width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+    <h1>A Walk You've<br>Never Taken</h1>
+  <div class="hero-text">
+    <p>We are climbing a mountain no one has climbed — using information to protect physical environmental systems at scale. Environmental superintelligence.</p>
+    <p>The single biggest obstacle isn't technology. <span class="bold-line">It's that we walk through reality every day without seeing what's actually happening.</span></p>
+    <p>Go for a walk this weekend. Thirty minutes. Try these twelve exercises. Each is grounded in verified physics. Each takes ten seconds. This isn't team-building. It's training.</p>
+  </div>
+  <div class="scroll-hint">Scroll</div>
+</div>
+
+<div class="content">
+
+  <div class="caution">
+    <div class="caution-label">Before you start</div>
+    <p>Sometimes when physicists say reality is stranger than our everyday model, people get weird. They think of the Matrix. They wonder if things are "real." Stop. Reality is reality. It's not a simulation. It just might be weirder than what we've casually assumed. Don't question reality. Go deeper into it. Don't be what I call a &ldquo;reality weirdo.&rdquo; Be a reality explorer.</p>
+  </div>
+
+  <div class="section-header">
+    <h2>Twelve things actually happening to you right now</h2>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">One</div>
+      <div class="exercise-title">You Are Falling Right Now</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Feel your next step.</div>
+      <div class="exercise-body">That forward lurch past the point of balance — that's a fall. Your other foot catches you. Then you fall again. Walking is <strong>serial falling</strong>, twice per second, perfectly controlled. You are not strolling. You are falling and choosing where to land.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Two</div>
+      <div class="exercise-title">You Have Never Touched the Ground</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Feel the pavement through your shoes.</div>
+      <div class="exercise-body">Your atoms and the ground's atoms have never made contact. What you feel is <strong>electromagnetic repulsion</strong> — electron clouds refusing to merge, separated by one angstrom. You have been hovering your entire life.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Three</div>
+      <div class="exercise-title">That Tree Ate Light and Became Solid</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Look at any tree.</div>
+      <div class="exercise-body">Every branch, every leaf — assembled from air and sunlight. The carbon was CO₂ in the atmosphere. <strong>25 kilobytes</strong> of genetic instructions directed the conversion of gas and photons into tons of solid structure. That tree is an information engine running in front of you.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Four</div>
+      <div class="exercise-title">That Sound Just Physically Touched You</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Listen for any sound — a bird, wind, a car.</div>
+      <div class="exercise-body">Something vibrated. Air molecules pushed other air molecules. A pressure wave traveled across space and <strong>struck your eardrum</strong>, displacing it by about twelve nanometers — the width of a DNA helix. That bird didn't sing to you. It touched you.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Five</div>
+      <div class="exercise-title">You Are Glowing</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Hold out your hand.</div>
+      <div class="exercise-body">Your body is emitting <strong>870 watts</strong> of infrared radiation right now. In a thermal camera, you are blazing — brighter than a lamp. You are not just a receiver of light. You are a light source. You have been broadcasting since birth.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Six</div>
+      <div class="exercise-title">You Are Almost Entirely Nothing</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Look at your hand.</div>
+      <div class="exercise-body">Your atoms are <strong>99.9999999999999% empty space</strong>. Compress just the nuclear matter and your entire body fits in a cube seven micrometers wide — smaller than a hair. Everything you see is a vast architecture of nothing, held in shape by forces.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Seven</div>
+      <div class="exercise-title">A Quadrillion Things Just Passed Through You</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Keep walking.</div>
+      <div class="exercise-body">Right now, roughly <strong>10¹⁵ neutrinos per second</strong> from the sun are passing through your body, interacting with nothing. To them, you are empty space. "Solid" is a local opinion. Most of the universe doesn't notice you're here.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Eight</div>
+      <div class="exercise-title">Your Head Is Older Than Your Feet</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Stand still for a moment.</div>
+      <div class="exercise-body">Your head is farther from Earth's center, so it sits in a weaker gravitational field. Clocks tick faster there. This is <strong>measured</strong> — confirmed with atomic clocks at just 33 centimeters of height difference. Over a lifetime, your head ages 468 nanoseconds more than your feet. You contain multiple rates of time.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Nine</div>
+      <div class="exercise-title">You Are Moving at Half a Million Miles Per Hour</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Feel the stillness.</div>
+      <div class="exercise-body">Earth's rotation: 900 mph. Orbit around the sun: 67,000 mph. Solar system around the galaxy: <strong>514,000 mph</strong>. You don't feel it because everything around you is flying too. Stillness is shared velocity.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Ten</div>
+      <div class="exercise-title">You Are Made of Explosions</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Touch your arm.</div>
+      <div class="exercise-body">The iron in your blood was forged inside a dying star. The calcium in your bones came from a different explosion. <strong>93% of your body mass</strong> was manufactured in stars that died before our sun existed. You are not in the cosmos. You are the cosmos, rearranged.</div>
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="exercise-left">
+      <div class="exercise-number">Eleven</div>
+      <div class="exercise-title">You Just Inhaled 10²² Molecules</div>
+    </div>
+    <div class="exercise-right">
+      <div class="exercise-action">Take one breath.</div>
+      <div class="exercise-body"><strong>12,500,000,000,000,000,000,000 molecules</strong> just entered your lungs. For a few seconds, they're you. Then you exhale them. You are not a fixed thing. You are a river of matter flowing through a pattern. The pattern stays. The matter doesn't.</div>
+    </div>
+  </div>
+
+  <div class="exercise exercise-final">
+    <div class="exercise-number">Twelve</div>
+    <div class="exercise-title">Information Built Everything You See</div>
+    <div class="exercise-action">Look around.</div>
+    <div class="exercise-body">Every human-made thing on this walk — the sidewalk, the houses, the power lines — required information to exist. A blueprint. A design. A plan. The energy cost of that specification is measurable, and it is vastly less than the energy locked in the bonds of the thing it organized. The ratio is <strong>239 to 1</strong> at the chemical bond level — and reaches 10²⁰ at the theoretical limit. Knowing where to put an atom is almost incomprehensibly cheaper than holding it there. This is what we do. We use the cheap thing — information — to protect the expensive thing — the physical world. That's the mountain. Every walk like this gets us closer to the top.</div>
+  </div>
+
+  <div class="closer">
+    <p>Walk slow. Look close. Think deep.<br>Then come build.</p>
+    <div class="sig">— Jed</div>
+  </div>
+
+</div>
+</body>
+</html>
