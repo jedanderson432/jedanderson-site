@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Possibility / Exponentiality Training</title>
+<meta name="description" content="A daily five-to-ten-minute training exercise to retrain the two reflexes that cost the most right now: the instinct to call something impossible, and the instinct to assume change is linear. Both were usually right for most of human history. Both are now usually wrong.">
+<link href="./fonts.css" rel="stylesheet">
+<style>
+:root {
+  --forest: #1B4332;
+  --forest-deep: #0F2A1F;
+  --forest-light: #2D5F47;
+  --bone: #F7F5EF;
+  --cream: #FAF8F3;
+  --ink: #141414;
+  --ink-soft: #3A3A3A;
+  --rule: rgba(20, 20, 20, 0.12);
+  --rule-soft: rgba(20, 20, 20, 0.06);
+  --accent: #B94A3A;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+body {
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  background: var(--cream);
+  color: var(--ink);
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.65;
+  overflow-x: hidden;
+}
+
+/* Header */
+header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  padding: 22px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+  background: rgba(250, 248, 243, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.brand {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: var(--forest);
+}
+
+.brand-sub {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-size: 10px;
+  color: var(--ink-soft);
+}
+
+/* Hero */
+.hero {
+  min-height: 100vh;
+  padding: 140px 40px 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 1400px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.eyebrow {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: var(--forest);
+  margin-bottom: 40px;
+}
+
+h1.title {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(48px, 9vw, 128px);
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin-bottom: 48px;
+  max-width: 1200px;
+}
+
+h1.title em {
+  font-style: italic;
+  color: var(--forest);
+  font-weight: 400;
+}
+
+h1.title .slash {
+  color: var(--forest);
+  font-weight: 300;
+  margin: 0 0.15em;
+}
+
+.hero-kicker {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(22px, 2.4vw, 30px);
+  line-height: 1.45;
+  color: var(--ink-soft);
+  max-width: 720px;
+  font-weight: 400;
+  margin-bottom: 64px;
+  font-style: italic;
+}
+
+.hero-meta {
+  display: flex;
+  gap: 40px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  font-weight: 500;
+}
+
+.hero-meta span { color: var(--forest); }
+
+/* Intro block */
+.intro {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 120px 40px 100px;
+}
+
+.intro-prologue {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: var(--forest);
+  margin-bottom: 32px;
+}
+
+.intro p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(22px, 2.6vw, 28px);
+  line-height: 1.55;
+  margin-bottom: 28px;
+  color: var(--ink);
+  font-weight: 400;
+}
+
+.intro p.discipline {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  color: var(--forest);
+  font-size: clamp(26px, 3.2vw, 36px);
+  line-height: 1.3;
+  margin-bottom: 40px;
+}
+
+.intro-emphasis {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--forest-deep);
+}
+
+.scroll-cue {
+  text-align: center;
+  padding: 40px 0 120px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 10px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--forest);
+}
+
+.scroll-cue::after {
+  content: '';
+  display: block;
+  width: 1px;
+  height: 60px;
+  background: var(--forest);
+  margin: 18px auto 0;
+  animation: pulse 2.4s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.3; transform: scaleY(0.6); }
+  50% { opacity: 1; transform: scaleY(1); }
+}
+
+/* Part sections */
+.part {
+  padding: 140px 40px;
+  border-top: 1px solid var(--rule);
+  position: relative;
+}
+
+.part-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.part-number {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(90px, 14vw, 180px);
+  font-weight: 300;
+  font-style: italic;
+  color: var(--forest);
+  line-height: 1;
+  margin-bottom: 24px;
+  letter-spacing: -0.02em;
+}
+
+.part-label {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: var(--ink-soft);
+  margin-bottom: 16px;
+}
+
+.part-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(42px, 6.5vw, 82px);
+  line-height: 1;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin-bottom: 56px;
+  max-width: 900px;
+}
+
+.part-title em {
+  font-style: italic;
+  color: var(--forest);
+}
+
+.part-framing {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(22px, 2.5vw, 28px);
+  line-height: 1.55;
+  color: var(--ink);
+  max-width: 780px;
+  margin-bottom: 24px;
+}
+
+.part-framing.lead {
+  font-style: italic;
+  color: var(--forest);
+  font-size: clamp(24px, 2.8vw, 32px);
+  font-weight: 500;
+  margin-bottom: 32px;
+  line-height: 1.35;
+}
+
+.part-divider {
+  width: 48px;
+  height: 1px;
+  background: var(--forest);
+  margin: 80px 0 64px;
+}
+
+/* Quotes */
+.quotes {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  max-width: 900px;
+}
+
+.quote {
+  padding: 38px 0;
+  border-bottom: 1px solid var(--rule-soft);
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  gap: 28px;
+  align-items: baseline;
+}
+
+.quote:last-child { border-bottom: none; }
+
+.quote-num {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  color: var(--forest);
+  padding-top: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
+.quote-body p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(20px, 2.2vw, 26px);
+  line-height: 1.4;
+  color: var(--ink);
+  font-weight: 400;
+  margin-bottom: 14px;
+}
+
+.quote-body p::before {
+  content: '\201C';
+  font-family: 'Cormorant Garamond', serif;
+  color: var(--forest);
+  font-weight: 500;
+  margin-right: 0.05em;
+}
+
+.quote-body p::after {
+  content: '\201D';
+  font-family: 'Cormorant Garamond', serif;
+  color: var(--forest);
+  font-weight: 500;
+  margin-left: 0.05em;
+}
+
+.quote-author {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+/* The Deutsch anchor — signature quote on impossible */
+.anchor {
+  background: var(--forest);
+  color: var(--bone);
+  padding: 120px 40px;
+  margin: 0;
+}
+
+.anchor-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.anchor-label {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: rgba(247, 245, 239, 0.65);
+  margin-bottom: 40px;
+}
+
+.anchor p {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(32px, 4.8vw, 56px);
+  line-height: 1.2;
+  color: var(--bone);
+  letter-spacing: -0.01em;
+}
+
+.anchor p span {
+  color: rgba(247, 245, 239, 0.55);
+  font-style: normal;
+}
+
+/* The puck section */
+.puck {
+  padding: 140px 40px;
+  background: var(--cream);
+  border-top: 1px solid var(--rule);
+}
+
+.puck-inner {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.puck-label {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: var(--forest);
+  margin-bottom: 32px;
+}
+
+.puck-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(38px, 5.5vw, 68px);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin-bottom: 48px;
+  max-width: 820px;
+}
+
+.puck-quote {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: clamp(26px, 3.4vw, 40px);
+  line-height: 1.3;
+  color: var(--forest);
+  margin-bottom: 20px;
+  padding-left: 32px;
+  border-left: 2px solid var(--forest);
+}
+
+.puck-attr {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: var(--ink-soft);
+  margin-bottom: 48px;
+  padding-left: 34px;
+}
+
+.puck p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(22px, 2.6vw, 28px);
+  line-height: 1.5;
+  color: var(--ink);
+  margin-bottom: 22px;
+}
+
+.puck p.bold-beat {
+  font-weight: 600;
+  color: var(--forest-deep);
+}
+
+.puck p.italic-beat {
+  font-style: italic;
+  color: var(--forest);
+}
+
+/* Why I move fast */
+.why {
+  padding: 120px 40px;
+  text-align: center;
+  background: var(--cream);
+}
+
+.why-q {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(28px, 4vw, 48px);
+  line-height: 1.2;
+  color: var(--ink-soft);
+  margin-bottom: 32px;
+}
+
+.why-a {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(38px, 6vw, 72px);
+  line-height: 1.05;
+  color: var(--forest);
+  letter-spacing: -0.015em;
+}
+
+/* Outro */
+.outro {
+  padding: 140px 40px;
+  background: var(--ink);
+  color: var(--bone);
+}
+
+.outro-inner {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.outro p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(22px, 2.6vw, 28px);
+  line-height: 1.55;
+  color: var(--bone);
+  margin-bottom: 28px;
+  font-weight: 400;
+}
+
+.outro p.muted {
+  color: rgba(247, 245, 239, 0.7);
+}
+
+.outro-divider {
+  width: 48px;
+  height: 1px;
+  background: rgba(247, 245, 239, 0.3);
+  margin: 64px 0 56px;
+}
+
+.climb {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-style: italic;
+  font-size: clamp(36px, 6vw, 68px);
+  line-height: 1;
+  color: var(--bone);
+  margin-bottom: 8px;
+  letter-spacing: -0.01em;
+}
+
+.climb span {
+  display: block;
+  font-size: 0.85em;
+  color: rgba(247, 245, 239, 0.55);
+  margin-top: 12px;
+}
+
+.signoff {
+  margin-top: 80px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: rgba(247, 245, 239, 0.7);
+}
+
+/* Footer */
+footer {
+  padding: 40px;
+  text-align: center;
+  background: var(--ink);
+  border-top: 1px solid rgba(247, 245, 239, 0.08);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: rgba(247, 245, 239, 0.4);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  header { padding: 18px 20px; }
+  .brand-sub { display: none; }
+  .hero { padding: 120px 24px 60px; }
+  .intro { padding: 80px 24px 60px; }
+  .part { padding: 90px 24px; }
+  .anchor { padding: 80px 24px; }
+  .puck { padding: 90px 24px; }
+  .why { padding: 80px 24px; }
+  .outro { padding: 100px 24px; }
+  .hero-meta { flex-direction: column; gap: 12px; }
+  .quote { grid-template-columns: 38px 1fr; gap: 16px; padding: 28px 0; }
+  .quote-num { padding-top: 10px; font-size: 10px; }
+  .puck-quote { padding-left: 20px; }
+  .puck-attr { padding-left: 22px; }
+}
+
+/* Scroll reveal */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.reveal.in {
+  opacity: 1;
+  transform: translateY(0);
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand-sub">Training &middot; Day-by-Day</div>
+</header>
+
+<section class="hero">
+  <div class="eyebrow">Daily Exercise &middot; 5 to 10 minutes</div>
+  <h1 class="title">Possibility<span class="slash">/</span><em>Exponentiality</em><br>Training</h1>
+  <p class="hero-kicker">Retraining the two reflexes that cost the most right now. The instinct to call something impossible. The instinct to assume change is linear. Both were usually right for most of human history. Both are now usually wrong.</p>
+  <div class="hero-meta">
+    <div>A training exercise</div>
+    <div>for a world moving <span>exponentially</span></div>
+  </div>
+</section>
+
+<section class="intro">
+  <div class="intro-prologue">Before you start</div>
+  <p class="discipline">Discipline. Training. Effort.</p>
+  <p>The world is changing faster than at any point in human history. Not linearly. Exponentially. A hockey stick. And the human brain, mine included, was not built for this.</p>
+  <p>We are linear thinkers evolved for a linear world, now living in an exponential one. <span class="intro-emphasis">That gap is the most expensive cognitive bias of our moment.</span></p>
+  <p>So I train. Every day. The way an athlete trains muscle, I train the two instincts that cost the most right now... the instinct to call something impossible, and the instinct to assume change is linear.</p>
+  <p>Retraining them is hard because they are older than we are.</p>
+  <p>One of the exercises is reading the quotes below. Slowly. Letting them do their work.</p>
+</section>
+
+<div class="scroll-cue">Scroll</div>
+
+<section class="part">
+  <div class="part-inner">
+    <div class="part-number">I</div>
+    <div class="part-label">Part One</div>
+    <h2 class="part-title">On the word <em>impossible</em></h2>
+    <p class="part-framing lead">Unless physics forbids it, it's an engineering problem.</p>
+    <p class="part-framing">Engineering problems are soluble. The rate at which they become soluble is itself accelerating.</p>
+
+    <div class="part-divider"></div>
+
+    <div class="quotes">
+
+      <div class="quote"><div class="quote-num">01</div><div class="quote-body"><p>To declare that something is impossible is to assume a knowledge of everything.</p><div class="quote-author">David Deutsch</div></div></div>
+
+      <div class="quote"><div class="quote-num">02</div><div class="quote-body"><p>The only thing that is impossible is impossibility.</p><div class="quote-author">Michio Kaku</div></div></div>
+
+      <div class="quote"><div class="quote-num">03</div><div class="quote-body"><p>I only want people around me who can do the impossible.</p><div class="quote-author">Elizabeth Arden</div></div></div>
+
+      <div class="quote"><div class="quote-num">04</div><div class="quote-body"><p>Impossible is not a fact. It's an opinion.</p><div class="quote-author">Muhammad Ali</div></div></div>
+
+      <div class="quote"><div class="quote-num">05</div><div class="quote-body"><p>The impossible often has a kind of integrity which the merely improbable lacks.</p><div class="quote-author">Douglas Adams</div></div></div>
+
+      <div class="quote"><div class="quote-num">06</div><div class="quote-body"><p>Physics is the law, everything else is a recommendation.</p><div class="quote-author">Elon Musk</div></div></div>
+
+      <div class="quote"><div class="quote-num">07</div><div class="quote-body"><p>When we find that something isn't forbidden by the over-arching laws of physics we usually eventually find a technological way of doing it.</p><div class="quote-author">David Deutsch</div></div></div>
+
+      <div class="quote"><div class="quote-num">08</div><div class="quote-body"><p>It always seems impossible until it's done.</p><div class="quote-author">Nelson Mandela</div></div></div>
+
+      <div class="quote"><div class="quote-num">09</div><div class="quote-body"><p>Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.</p><div class="quote-author">G. M. Trevelyan</div></div></div>
+
+      <div class="quote"><div class="quote-num">10</div><div class="quote-body"><p>The word impossible is not in my dictionary.</p><div class="quote-author">Napoleon Bonaparte</div></div></div>
+
+      <div class="quote"><div class="quote-num">11</div><div class="quote-body"><p>So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable.</p><div class="quote-author">Christopher Reeve</div></div></div>
+
+      <div class="quote"><div class="quote-num">12</div><div class="quote-body"><p>Sometimes I've believed as many as six impossible things before breakfast.</p><div class="quote-author">Lewis Carroll</div></div></div>
+
+      <div class="quote"><div class="quote-num">13</div><div class="quote-body"><p>Everything that is not forbidden by laws of nature is achievable, given the right knowledge.</p><div class="quote-author">David Deutsch</div></div></div>
+
+      <div class="quote"><div class="quote-num">14</div><div class="quote-body"><p>To the timid and hesitating everything is impossible because it seems so.</p><div class="quote-author">Sir Walter Scott</div></div></div>
+
+      <div class="quote"><div class="quote-num">15</div><div class="quote-body"><p>We have more power than will; and it is often by way of excuse to ourselves that we fancy things are impossible.</p><div class="quote-author">Francois Duc De la Rochefoucauld</div></div></div>
+
+      <div class="quote"><div class="quote-num">16</div><div class="quote-body"><p>Everything is theoretically impossible, until it is done.</p><div class="quote-author">Robert A. Heinlein</div></div></div>
+
+      <div class="quote"><div class="quote-num">17</div><div class="quote-body"><p>If something is permitted by the laws of physics, then the only thing that can prevent it from being technologically possible is not knowing how.</p><div class="quote-author">David Deutsch</div></div></div>
+
+      <div class="quote"><div class="quote-num">18</div><div class="quote-body"><p>Whether you think you can or think you can't, you're right.</p><div class="quote-author">Henry Ford</div></div></div>
+
+      <div class="quote"><div class="quote-num">19</div><div class="quote-body"><p>Impossible only means that you haven't found the solution yet.</p><div class="quote-author">Anonymous</div></div></div>
+
+      <div class="quote"><div class="quote-num">20</div><div class="quote-body"><p>No one gets very far unless he accomplishes the impossible at least once a day.</p><div class="quote-author">Elbert Hubbard</div></div></div>
+
+      <div class="quote"><div class="quote-num">21</div><div class="quote-body"><p>Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.</p><div class="quote-author">Marcus Aurelius</div></div></div>
+
+      <div class="quote"><div class="quote-num">22</div><div class="quote-body"><p>What we can or cannot do, what we consider possible or impossible, is rarely a function of our true capability. It is more likely a function of our beliefs about who we are.</p><div class="quote-author">Anthony Robbins</div></div></div>
+
+      <div class="quote"><div class="quote-num">23</div><div class="quote-body"><p>We would accomplish many more things if we did not think of them as impossible.</p><div class="quote-author">Vince Lombardi</div></div></div>
+
+      <div class="quote"><div class="quote-num">24</div><div class="quote-body"><p>The only place where your dream becomes impossible is in your own thinking.</p><div class="quote-author">Robert Schuller</div></div></div>
+
+      <div class="quote"><div class="quote-num">25</div><div class="quote-body"><p>The positive thinker sees the invisible, feels the intangible and achieves the impossible.</p><div class="quote-author">Anonymous</div></div></div>
+
+      <div class="quote"><div class="quote-num">26</div><div class="quote-body"><p>I have learned to use the word 'impossible' with the greatest caution.</p><div class="quote-author">Wernher von Braun</div></div></div>
+
+      <div class="quote"><div class="quote-num">27</div><div class="quote-body"><p>In order to attain the impossible, one must attempt the absurd.</p><div class="quote-author">Miguel de Cervantes</div></div></div>
+
+      <div class="quote"><div class="quote-num">28</div><div class="quote-body"><p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p><div class="quote-author">Paulo Coelho</div></div></div>
+
+      <div class="quote"><div class="quote-num">29</div><div class="quote-body"><p>Believe and act as if it were impossible to fail.</p><div class="quote-author">Charles F. Kettering</div></div></div>
+
+      <div class="quote"><div class="quote-num">30</div><div class="quote-body"><p>Every noble work is at first impossible.</p><div class="quote-author">Thomas Carlyle</div></div></div>
+
+      <div class="quote"><div class="quote-num">31</div><div class="quote-body"><p>There is nothing impossible to him who will try.</p><div class="quote-author">Alexander the Great</div></div></div>
+
+      <div class="quote"><div class="quote-num">32</div><div class="quote-body"><p>Either something is impossible, or it is achievable with knowledge.</p><div class="quote-author">David Deutsch</div></div></div>
+
+      <div class="quote"><div class="quote-num">33</div><div class="quote-body"><p>It's kind of fun to do the impossible.</p><div class="quote-author">Walt Disney</div></div></div>
+
+      <div class="quote"><div class="quote-num">34</div><div class="quote-body"><p>Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.</p><div class="quote-author">Muhammad Ali</div></div></div>
+
+      <div class="quote"><div class="quote-num">35</div><div class="quote-body"><p>The Romans could have had the telephone; the Greeks could have had the cinema; the Babylonians could have had the automobile, had they been mentally ready. The laws of nature were the same in those ages as in ours, the same materials were in the ground, but the minds of the Ancients were not ready for those things, and so they had to go without them.</p><div class="quote-author">Emmet Fox</div></div></div>
+
+      <div class="quote"><div class="quote-num">36</div><div class="quote-body"><p>I myself believe that there will one day be time travel because when we find that something isn't forbidden by the over-arching laws of physics we usually eventually find a technological way of doing it.</p><div class="quote-author">David Deutsch</div></div></div>
+
+      <div class="quote"><div class="quote-num">37</div><div class="quote-body"><p>If at first, the idea is not absurd, then there is no hope for it.</p><div class="quote-author">Albert Einstein</div></div></div>
+
+      <div class="quote"><div class="quote-num">38</div><div class="quote-body"><p>The only way to discover the limits of the possible is to go beyond them into the impossible.</p><div class="quote-author">Arthur C. Clarke</div></div></div>
+
+    </div>
+  </div>
+</section>
+
+<section class="anchor">
+  <div class="anchor-inner">
+    <div class="anchor-label">The anchor for Part One</div>
+    <p>If it isn't forbidden by physics, <span>it is an engineering problem.</span> And engineering problems <span>are soluble.</span></p>
+  </div>
+</section>
+
+<section class="part">
+  <div class="part-inner">
+    <div class="part-number">II</div>
+    <div class="part-label">Part Two</div>
+    <h2 class="part-title">On the word <em>linear</em></h2>
+    <p class="part-framing lead">Most of human history was linear. The last 50 years were not. The last 5 were not. The last 5 months were not.</p>
+    <p class="part-framing">Linear thinking aimed at an exponential world arrives years behind where the world actually ends up.</p>
+
+    <div class="part-divider"></div>
+
+    <div class="quotes">
+
+      <div class="quote"><div class="quote-num">01</div><div class="quote-body"><p>The problem is that humans think in slow, incremental steps, while technology leaps exponentially. If we don't adjust our thinking and systems to match the speed of AI and automation, we'll be left behind.</p><div class="quote-author">Tim Urban</div></div></div>
+
+      <div class="quote"><div class="quote-num">02</div><div class="quote-body"><p>Humans are linear thinkers in an exponential world. Our challenge is to overcome this cognitive bias and match the pace of technological growth, or we risk being left behind.</p><div class="quote-author">Ray Kurzweil</div></div></div>
+
+      <div class="quote"><div class="quote-num">03</div><div class="quote-body"><p>We are at an inflection point where the gap between those who can adapt to technology and those who can't is widening rapidly. The faster we can adjust, the more inclusive and fair the future will be.</p><div class="quote-author">Ginni Rometty</div></div></div>
+
+      <div class="quote"><div class="quote-num">04</div><div class="quote-body"><p>In an era of exponential technology, the only way society can thrive is by accelerating how we learn and adapt. Slow human thinking won't suffice in an age of rapid technological deployment.</p><div class="quote-author">Satya Nadella</div></div></div>
+
+      <div class="quote"><div class="quote-num">05</div><div class="quote-body"><p>The world is moving at an exponential pace, and the winners will be those who can adapt, experiment, and innovate at the same rate.</p><div class="quote-author">Peter Diamandis</div></div></div>
+
+      <div class="quote"><div class="quote-num">06</div><div class="quote-body"><p>We need to move from linear models of development to exponential thinking... If we continue to think in a linear way, we will never catch up to the pace of change we are experiencing.</p><div class="quote-author">Joi Ito</div></div></div>
+
+      <div class="quote"><div class="quote-num">07</div><div class="quote-body"><p>The future belongs to those who can learn faster than the rate of change in their industry.</p><div class="quote-author">Tim O'Reilly</div></div></div>
+
+      <div class="quote"><div class="quote-num">08</div><div class="quote-body"><p>We stand on the threshold of a brave new world... Our only hope is to move quickly and align our development with these new technologies, lest they surpass our understanding and control.</p><div class="quote-author">Stephen Hawking</div></div></div>
+
+      <div class="quote"><div class="quote-num">09</div><div class="quote-body"><p>The companies and countries that can move the fastest will win in this digital age. The slow will fall behind and get disrupted. It's a race against time.</p><div class="quote-author">John Chambers</div></div></div>
+
+      <div class="quote"><div class="quote-num">10</div><div class="quote-body"><p>The rate at which technology is expanding is only limited by our ability to adapt and comprehend it. If we don't increase our ability to handle this expansion, it will soon outstrip us.</p><div class="quote-author">Douglas Engelbart</div></div></div>
+
+      <div class="quote"><div class="quote-num">11</div><div class="quote-body"><p>We are living in an age of information overload and rapid technological change. The only way to survive is to enhance human adaptability through faster learning and more dynamic thinking.</p><div class="quote-author">Yuval Noah Harari</div></div></div>
+
+      <div class="quote"><div class="quote-num">12</div><div class="quote-body"><p>What we should be more concerned about is not necessarily the exponential change in artificial intelligence or robotics, but about the stagnant response in human intelligence.</p><div class="quote-author">Anders Sorman-Nillson</div></div></div>
+
+      <div class="quote"><div class="quote-num">13</div><div class="quote-body"><p>The AI runs on a different timescale than you do; by the time your neurons finish thinking the words "I should do something" you have already lost.</p><div class="quote-author">Eliezer Yudkowsky</div></div></div>
+
+      <div class="quote"><div class="quote-num">14</div><div class="quote-body"><p>We are at a turning point. The tools of AI are improving exponentially, but our societal systems, education, law, ethics, are changing far too slowly to keep up. The faster we act, the better chance we have to shape a positive future.</p><div class="quote-author">Max Tegmark</div></div></div>
+
+      <div class="quote"><div class="quote-num">15</div><div class="quote-body"><p>Technology is accelerating so fast, it's outpacing our human ability to think linearly. We need to shift our mindset and speed up how we govern, adapt, and educate ourselves.</p><div class="quote-author">Kevin Kelly</div></div></div>
+
+      <div class="quote"><div class="quote-num">16</div><div class="quote-body"><p>Artificial intelligence, big data, and machine learning are progressing faster than most people realize. Our challenge is to understand these technologies fast enough and apply them before we fall behind.</p><div class="quote-author">Jack Ma</div></div></div>
+
+      <div class="quote"><div class="quote-num">17</div><div class="quote-body"><p>The only way to keep up with an exponential world is to embrace continuous learning and rapid innovation. Society needs to build faster systems to manage and deploy these advances.</p><div class="quote-author">Sebastian Thrun</div></div></div>
+
+      <div class="quote"><div class="quote-num">18</div><div class="quote-body"><p>As always, there's good news and there's bad news. The bad news is, we seem incapable of solving our more pressing or persistent problems. The good news is, we're getting closer to building a machine that might do it for us.</p><div class="quote-author">Jim Vibert</div></div></div>
+
+      <div class="quote"><div class="quote-num">19</div><div class="quote-body"><p>Civilization advances by extending the number of important operations which we can perform without thinking of them.</p><div class="quote-author">Alfred North Whitehead</div></div></div>
+
+      <div class="quote"><div class="quote-num">20</div><div class="quote-body"><p>In the Fourth Industrial Revolution, change is happening faster than ever, and we are struggling to keep up. We must upgrade our institutions and thinking to keep pace with these technologies, or we risk creating a deeply divided society.</p><div class="quote-author">Klaus Schwab</div></div></div>
+
+      <div class="quote"><div class="quote-num">21</div><div class="quote-body"><p>The future belongs to those who can think exponentially, not linearly. If we continue to think in outdated models, we'll never keep pace with the technological changes happening around us.</p><div class="quote-author">Tim O'Reilly</div></div></div>
+
+      <div class="quote"><div class="quote-num">22</div><div class="quote-body"><p>We are entering an era where machines may think faster than us. To stay relevant, humans will need to enhance their cognitive capabilities and work in tandem with AI to leverage the full potential of these technologies.</p><div class="quote-author">Michio Kaku</div></div></div>
+
+      <div class="quote"><div class="quote-num">23</div><div class="quote-body"><p>Just like we had to electrify factories during the industrial revolution, we now have to 'AI-ify' industries. The sooner companies and societies understand this, the better positioned they will be to thrive.</p><div class="quote-author">Andrew Ng</div></div></div>
+
+      <div class="quote"><div class="quote-num">24</div><div class="quote-body"><p>In this Fourth Industrial Revolution, speed and agility are critical to success. Governments and businesses must adapt to exponential technologies faster than ever before or risk irrelevance.</p><div class="quote-author">Marc Benioff</div></div></div>
+
+      <div class="quote"><div class="quote-num">25</div><div class="quote-body"><p>Our biggest challenge in the age of AI is not creating the technology, but adapting our workforce and society to it. The gap between technological progress and our ability to respond is widening, and we must close that gap quickly.</p><div class="quote-author">Erik Brynjolfsson</div></div></div>
+
+      <div class="quote"><div class="quote-num">26</div><div class="quote-body"><p>AI will have a bigger impact than electricity or fire, but society needs to catch up. It's critical to educate people about AI's potential and risks so we can harness it for good.</p><div class="quote-author">Sundar Pichai</div></div></div>
+
+      <div class="quote"><div class="quote-num">27</div><div class="quote-body"><p>The future of AI depends not just on building more powerful algorithms, but on how quickly humans can adapt to working alongside them. We need to prepare society for this partnership to avoid disruption.</p><div class="quote-author">Fei-Fei Li</div></div></div>
+
+      <div class="quote"><div class="quote-num">28</div><div class="quote-body"><p>The Fourth Industrial Revolution will require humanity to think faster and act more creatively. We must prepare future generations to be ready for a world where machines are smarter and faster than ever.</p><div class="quote-author">Jack Ma</div></div></div>
+
+      <div class="quote"><div class="quote-num">29</div><div class="quote-body"><p>The biggest transformation in technology is not AI itself, but how fast we need to learn and adjust our ways of thinking. If humans don't adjust, technology will simply leave them behind.</p><div class="quote-author">Kevin Kelly</div></div></div>
+
+      <div class="quote"><div class="quote-num">30</div><div class="quote-body"><p>We are seeing technological advancements moving at an exponential rate, yet our social systems, education, policy, and labor, are evolving linearly. This gap will only widen unless we rethink how quickly we adapt.</p><div class="quote-author">Kai-Fu Lee</div></div></div>
+
+      <div class="quote"><div class="quote-num">31</div><div class="quote-body"><p>The key to thriving in the future will be the speed of adaptation. In a world where technology and AI advance exponentially, those who learn and adapt faster will have the upper hand.</p><div class="quote-author">Ray Dalio</div></div></div>
+
+      <div class="quote"><div class="quote-num">32</div><div class="quote-body"><p>In a world where AI is accelerating at breakneck speed, we have to act faster than ever before to keep up.</p><div class="quote-author">Elon Musk</div></div></div>
+
+      <div class="quote"><div class="quote-num">33</div><div class="quote-body"><p>In a world of rapid technological progress, speed in decision-making and adaptation is the new currency of success. The slower you move, the more likely you are to fall behind.</p><div class="quote-author">Jeff Bezos</div></div></div>
+
+      <div class="quote"><div class="quote-num">34</div><div class="quote-body"><p>Technology's exponential growth is rewriting the rules of how we live and work. It's no longer a matter of catching up. We need to anticipate where things are going and adapt even faster.</p><div class="quote-author">Marc Andreessen</div></div></div>
+
+      <div class="quote"><div class="quote-num">35</div><div class="quote-body"><p>The pace of technological innovation is not just fast, it's accelerating. In the digital era, those who move the quickest to adopt new technology will be the ones who define the future.</p><div class="quote-author">Mark Zuckerberg</div></div></div>
+
+      <div class="quote"><div class="quote-num">36</div><div class="quote-body"><p>The speed at which new technologies are evolving is creating a new breed of exponential organizations. The question is, can society move at the same pace to embrace and integrate these changes?</p><div class="quote-author">Peter Diamandis</div></div></div>
+
+      <div class="quote"><div class="quote-num">37</div><div class="quote-body"><p>The pace of change today is unprecedented, and society needs to move faster to close the gap between what technology can do and what society can handle.</p><div class="quote-author">Tim Berners-Lee</div></div></div>
+
+      <div class="quote"><div class="quote-num">38</div><div class="quote-body"><p>In this era of acceleration, it's not just about the speed of innovation, but how fast individuals, businesses, and governments can learn and adjust. The faster you adapt, the more successful you will be.</p><div class="quote-author">Thomas Friedman</div></div></div>
+
+      <div class="quote"><div class="quote-num">39</div><div class="quote-body"><p>The world is changing very fast. Big will not beat small anymore. It will be the fast beating the slow.</p><div class="quote-author">Rupert Murdoch</div></div></div>
+
+    </div>
+  </div>
+</section>
+
+<section class="puck">
+  <div class="puck-inner">
+    <div class="puck-label">The puck now accelerates</div>
+    <h2 class="puck-title">The Gretzky line everyone quotes...</h2>
+    <p class="puck-quote">I skate to where the puck will be, not to where it is.</p>
+    <div class="puck-attr">Wayne Gretzky</div>
+    <p>He said that when the puck moved at linear speed.</p>
+    <p class="bold-beat">The puck now accelerates.</p>
+    <p>A skater aimed at today's puck arrives years behind where the puck actually ends up.</p>
+    <p class="italic-beat">We have to skate to where the puck will be in an exponential world.</p>
+    <p>That is a different aim point. And it requires a different brain.</p>
+  </div>
+</section>
+
+<section class="why">
+  <p class="why-q">Why am I trying to think and move so fast?</p>
+  <p class="why-a">The puck is moving faster.</p>
+</section>
+
+<section class="outro">
+  <div class="outro-inner">
+    <p>Read the quotes. Not once. Daily, or weekly, for a while.</p>
+    <p>Notice what happens to the reflex that says <em>that's impossible</em> or <em>that's a long way off.</em></p>
+    <p class="muted">Those reflexes were trained over decades. They take time to retrain. The retraining is the work.</p>
+
+    <div class="outro-divider"></div>
+
+    <p>If anyone has a proof from first principles that something we're building violates physics, send it.</p>
+    <p>I will read it carefully and change course if it holds.</p>
+    <p class="muted">Until then, let's build... fast, at the speed physics allows, with brains that are learning to match the world as it actually is.</p>
+
+    <div class="outro-divider"></div>
+
+    <div class="climb">
+      Onward.
+      <span>Upward.</span>
+    </div>
+    <div class="climb" style="margin-top: 24px;">
+      Climb. Climb. Climb.
+    </div>
+
+    <div class="signoff">&mdash; Jed</div>
+  </div>
+</section>
+
+<script>
+// Scroll reveal for sections
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('in');
+    }
+  });
+}, { threshold: 0.08, rootMargin: '0px 0px -50px 0px' });
+
+// Apply reveal to quote items
+document.querySelectorAll('.quote, .part-title, .part-framing, .anchor p, .puck-title, .puck-quote, .why-q, .why-a, .climb').forEach(el => {
+  el.classList.add('reveal');
+  observer.observe(el);
+});
+</script>
+
+</body>
+</html>
