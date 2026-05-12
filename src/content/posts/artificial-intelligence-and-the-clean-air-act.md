@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2017-12-13
 original_source: 'https://sipreform.wordpress.com/2017/12/13/artificial-intelligence-and-the-clean-air-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'ai', 'monitoring', 'policy']
 abstract: '| | | | --- | --- | | | | | --- | | **The simplified Clean Air Act of 2018 will unleash the power of advancements in new sensoring technology, big data, and artificial intelligence**–creating astounding new economic and environmental opportunities in the United States.'

@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2017-11-24
 original_source: 'https://sipreform.wordpress.com/2017/11/24/technology-is-undermining-the-clean-air-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'policy']
 abstract: '## ***Advancements in air quality monitoring are undermining the foundations of the U.S. air quality management system***'

@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2014-08-21
 original_source: 'https://sipreform.wordpress.com/2014/08/21/you-can-always-shoot-the-cow-why-a-strict-but-for-interpretation-of-section-179b-is-nonsensical/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/clean-air-act-section-179b.png)For some reason States seem to think that Section 179B is a strict “but for” demonstration.'

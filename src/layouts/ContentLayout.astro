@@ -37,12 +37,14 @@ if (data.related_essay) {
     }
   }
 }
-const dateLong = new Intl.DateTimeFormat('en-US', {
+const longFmt = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
   timeZone: 'UTC',
-}).format(data.date);
+});
+const dateLong = longFmt.format(data.date);
+const originalDateLong = data.original_date ? longFmt.format(data.original_date) : null;
 
 const isPaper = data.type === 'paper';
 const articleSchema = {
@@ -109,7 +111,19 @@ const articleSchema = {
       </p>
     )}
     <p class="text-sm text-muted mb-8">
-      <time datetime={data.date.toISOString()}>{dateLong}</time>
+      {originalDateLong ? (
+        <>
+          <span>Originally written:{' '}
+            <time datetime={data.original_date.toISOString()}>{originalDateLong}</time>
+          </span>
+          <span class="mx-2">·</span>
+          <span>Published here:{' '}
+            <time datetime={data.date.toISOString()}>{dateLong}</time>
+          </span>
+        </>
+      ) : (
+        <time datetime={data.date.toISOString()}>{dateLong}</time>
+      )}
     </p>
 
     {data.interactive_url && (

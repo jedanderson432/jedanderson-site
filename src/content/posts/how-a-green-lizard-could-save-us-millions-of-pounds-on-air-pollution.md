@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2018-02-21
 original_source: 'https://sipreform.wordpress.com/2018/02/21/how-a-green-lizard-could-save-us-millions-of-pounds-on-air-pollution/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'ai', 'monitoring', 'simplicity']
 abstract: '### **The insurance aspects inherent in the market-based approach of the Draft Clean Air Act of 2018 could reduce millions of pounds of excess emissions**'

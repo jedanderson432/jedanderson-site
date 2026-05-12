@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2017-04-12
 original_source: 'https://sipreform.wordpress.com/2017/04/12/first-public-comment-filed-on-trump-executive-order-to-reduce-regulations/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: 'A public comment was filed on Executive Order E.O. 13771 that includes a plan for simplifying the air quality management system at its foundation: (see below or <https://www.regulations.gov/document?D=EPA-HQ-OA-2017-0190-0226>).'

@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-08-19
 original_source: 'https://sipreform.wordpress.com/2013/08/19/thoreau-and-the-clean-air-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/thoreau-and-the-clean-air-act2.png)I wonder what Thoreau would think about the Clean Air Act?'

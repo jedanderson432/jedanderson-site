@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2014-09-24
 original_source: 'https://sipreform.wordpress.com/2014/09/24/its-better-to-fail/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'faith']
 abstract: '[](/images/sip/akempis-and-the-clean-air-act.png)I failed again with my request that the State of Texas recognize foreign pollution impacts to our health, economy, and ability to achieve the NAAQS (*see* TCEQ ruling).'

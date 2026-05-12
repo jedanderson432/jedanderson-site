@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2016-12-23
 original_source: 'https://sipreform.wordpress.com/2016/12/23/president-obama-calls-on-congress-to-reform-the-clean-air-act-in-npr-exit-interview/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](https://www.youtube.com/watch?v=lEjeKrZxDFQ&t=36m8s)'

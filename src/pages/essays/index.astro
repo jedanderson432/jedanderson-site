@@ -3,9 +3,10 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { TYPE_LABELS } from '../../site-config';
 import { canonicalPath } from '../../lib/canonical';
+import { effectiveDate } from '../../lib/dates';
 
 const entries = await getCollection('essays', ({ data }: any) => data.status === 'published');
-entries.sort((a, b) => +b.data.date - +a.data.date);
+entries.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));
 
 // Thumbnail strategy for the essays index:
 // - hero_image when set on the frontmatter (visual essays + prose essays
@@ -48,10 +49,10 @@ function isInteractive(entry: any): boolean {
             <div class="flex-1 min-w-0">
               <div class="flex items-baseline gap-3 mb-1">
                 <time
-                  datetime={e.data.date.toISOString()}
+                  datetime={effectiveDate(e).toISOString()}
                   class="text-xs text-muted tabular-nums shrink-0"
                 >
-                  {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                  {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(effectiveDate(e))}
                 </time>
                 <span class="text-xs uppercase tracking-widest text-muted">
                   {TYPE_LABELS[e.data.type] ?? e.data.type}{isInteractive(e) && ' · Interactive'}

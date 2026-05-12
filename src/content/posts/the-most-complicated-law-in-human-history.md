@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2018-03-06
 original_source: 'https://sipreform.wordpress.com/2018/03/06/the-most-complicated-law-in-human-history/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: 'The U.S. Clean Air Act has been found to be the most complicated law in human history.'

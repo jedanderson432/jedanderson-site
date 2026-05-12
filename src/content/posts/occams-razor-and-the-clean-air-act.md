@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-09-10
 original_source: 'https://sipreform.wordpress.com/2013/09/10/occams-razor-and-the-clean-air-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: '[](/images/sip/occam-and-the-clean-air-act.png)I wonder what would happen if we applied Occam’s Razor to the Clean Air Act?'

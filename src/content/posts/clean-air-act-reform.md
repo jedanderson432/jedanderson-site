@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2012-09-13
 original_source: 'https://sipreform.wordpress.com/2012/09/13/clean-air-act-reform/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'simplicity']
 abstract: '[](/images/sip/caa1.png)'

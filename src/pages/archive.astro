@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { COLLECTIONS, TYPE_LABELS } from '../site-config';
 import { canonicalPath } from '../lib/canonical';
+import { effectiveDate } from '../lib/dates';
 
 const all: any[] = [];
 for (const c of COLLECTIONS) {
@@ -10,11 +11,11 @@ for (const c of COLLECTIONS) {
   for (const e of entries) all.push(e);
 }
 
-all.sort((a, b) => +b.data.date - +a.data.date);
+all.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));
 
 const grouped = new Map<number, any[]>();
 for (const e of all) {
-  const y = e.data.date.getUTCFullYear();
+  const y = effectiveDate(e).getUTCFullYear();
   if (!grouped.has(y)) grouped.set(y, []);
   grouped.get(y)!.push(e);
 }
@@ -36,10 +37,10 @@ const years = [...grouped.keys()].sort((a, b) => b - a);
             <li>
               <div class="flex items-baseline gap-3 mb-1">
                 <time
-                  datetime={e.data.date.toISOString()}
+                  datetime={effectiveDate(e).toISOString()}
                   class="text-xs text-muted tabular-nums w-24 shrink-0"
                 >
-                  {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                  {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' }).format(effectiveDate(e))}
                 </time>
                 <span class="text-xs uppercase tracking-widest text-muted">
                   {TYPE_LABELS[e.data.type] ?? e.data.type}

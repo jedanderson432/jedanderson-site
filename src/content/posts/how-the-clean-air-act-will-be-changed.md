@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-03-29
 original_source: 'https://sipreform.wordpress.com/2013/03/29/how-the-clean-air-act-will-be-changed/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/art-buchwald.png)When we think of how the Clean Air Act will be changed I think we envision some powerful and influential person, who understands the Clean Air Act much better than we do, giving a rousing speech before…'

@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2015-06-16
 original_source: 'https://sipreform.wordpress.com/2015/06/16/clean-air-act-headed-for-simplicity/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'simplicity']
 abstract: '> ## ***Sentiment:*** **“Life was simpler a 100 years ago.”**'

@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-08-19
 original_source: 'https://sipreform.wordpress.com/2013/08/19/einstein-and-the-clean-air-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith', 'policy']
 abstract: '[](/images/sip/einstein-and-the-clean-air-act.png)I wonder what Einstein would think about the Clean Air Act?'

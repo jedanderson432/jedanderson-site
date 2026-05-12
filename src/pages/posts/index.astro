@@ -3,9 +3,10 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { TYPE_LABELS } from '../../site-config';
 import { canonicalPath } from '../../lib/canonical';
+import { effectiveDate } from '../../lib/dates';
 
 const entries = await getCollection('posts', ({ data }: any) => data.status === 'published');
-entries.sort((a, b) => +b.data.date - +a.data.date);
+entries.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));
 ---
 
 <BaseLayout
@@ -24,10 +25,10 @@ entries.sort((a, b) => +b.data.date - +a.data.date);
           <li>
             <div class="flex items-baseline gap-3 mb-1">
               <time
-                datetime={e.data.date.toISOString()}
+                datetime={effectiveDate(e).toISOString()}
                 class="text-xs text-muted tabular-nums w-24 shrink-0"
               >
-                {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(effectiveDate(e))}
               </time>
               <span class="text-xs uppercase tracking-widest text-muted">
                 {TYPE_LABELS[e.data.type] ?? e.data.type}

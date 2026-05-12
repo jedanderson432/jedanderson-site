@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-10-25
 original_source: 'https://sipreform.wordpress.com/2013/10/25/the-pain-and-difficulty-of-updating-the-clean-air-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: '[](/images/sip/clean-air-act-reform.png)The main reason why I think we don’t want to get involved with updating the Clean Air Act is that it will be difficult and painful. We want happiness and peace—not pain and difficulty.'

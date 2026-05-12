@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2017-02-01
 original_source: 'https://sipreform.wordpress.com/2017/02/01/2017-clean-air-act-reauthorization/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: 'Here are slides from the draft legislation to reauthorize the U.S. Clean Air Act.'

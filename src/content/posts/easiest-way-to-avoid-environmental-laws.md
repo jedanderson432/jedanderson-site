@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2017-02-22
 original_source: 'https://sipreform.wordpress.com/2017/02/22/easiest-way-to-avoid-environmental-laws/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '> —“The easiest way to avoid environmental regulation is to create more of them.”'
