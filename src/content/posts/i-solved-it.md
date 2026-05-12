@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2018-02-06
 original_source: 'https://sipreform.wordpress.com/2018/02/06/i-solved-it/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: 'I solved one of our nation’s biggest challenges.'

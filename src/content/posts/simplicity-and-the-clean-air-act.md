@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-12-26
 original_source: 'https://sipreform.wordpress.com/2013/12/26/simplicity-and-the-clean-air-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith', 'policy']
 abstract: '[](/images/sip/clean-air-act-and-simplicity.png)The reason things are still complicated is that we do not fully understand them. Once we fully understand them . . . they will become simple.'

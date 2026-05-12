@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2012-11-29
 original_source: 'https://sipreform.wordpress.com/2012/11/29/congress-hears-from-states-and-local-governments-in-clean-air-act-forums-fix-the-sip-process/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: 'Today at 10:00 am is the 3rd forum in the House Energy & Commerce Committee on the Clean Air Act (see link).'

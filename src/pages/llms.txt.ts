@@ -2,6 +2,7 @@ import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { SITE, COLLECTIONS } from '../site-config';
 import { canonicalFor } from '../lib/canonical';
+import { effectiveDate } from '../lib/dates';
 
 const COLLECTION_HEADINGS: Record<string, string> = {
   essays: 'Essays',
@@ -77,14 +78,14 @@ export const GET: APIRoute = async () => {
 
   for (const c of COLLECTIONS) {
     const entries = await getCollection(c, ({ data }: any) => data.status === 'published');
-    const sorted = entries.sort((a: any, b: any) => +b.data.date - +a.data.date);
+    const sorted = entries.sort((a: any, b: any) => +effectiveDate(b) - +effectiveDate(a));
     byCollection.set(c, sorted);
     for (const e of sorted) {
       if (e.data.tags?.includes('foundational')) foundational.push(e);
     }
   }
 
-  foundational.sort((a, b) => +b.data.date - +a.data.date);
+  foundational.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));
 
   const sections: string[] = [];
 

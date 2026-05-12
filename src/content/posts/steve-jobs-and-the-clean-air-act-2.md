@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-08-19
 original_source: 'https://sipreform.wordpress.com/2013/08/19/steve-jobs-and-the-clean-air-act-2/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/steve-jobs-and-the-clean-air-act.png)I wonder what Steve Jobs would think about the Clean Air Act?'

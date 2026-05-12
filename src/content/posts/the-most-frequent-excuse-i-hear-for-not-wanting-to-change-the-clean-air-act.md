@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-05-07
 original_source: 'https://sipreform.wordpress.com/2013/05/07/the-most-frequent-excuse-i-hear-for-not-wanting-to-change-the-clean-air-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/general-washington.png)Probably the most frequent excuse I hear for not wanting to try to improve the Clean Air Act is if we give this thing to Congress you never know what they will do with it.'

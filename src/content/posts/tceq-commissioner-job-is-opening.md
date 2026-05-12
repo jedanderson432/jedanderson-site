@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2018-02-27
 original_source: 'https://sipreform.wordpress.com/2018/02/27/tceq-commissioner-job-is-opening/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'policy']
 abstract: '## Jed Anderson says . . . “I’m running”'

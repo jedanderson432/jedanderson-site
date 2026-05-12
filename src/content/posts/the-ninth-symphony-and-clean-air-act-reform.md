@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-05-14
 original_source: 'https://sipreform.wordpress.com/2013/05/14/the-ninth-symphony-and-clean-air-act-reform/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: 'Still think we can’t reform the Clean Air Act? Guess what. We already are. This is the first movement. Want to hear what the finale might sound like? Listen to the 4th movement of Beethoven’s Ninth. My favorite part of the 4th movement is how dark it begins.'

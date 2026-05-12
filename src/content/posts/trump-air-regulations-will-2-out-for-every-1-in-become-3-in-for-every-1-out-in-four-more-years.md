@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2017-01-31
 original_source: 'https://sipreform.wordpress.com/2017/01/31/trump-air-regulations-will-2-out-for-every-1-in-become-3-in-for-every-1-out-in-four-more-years/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith']
 abstract: 'Only way to simplify air regulation is to simplify the systems in the Clean Air Act.'

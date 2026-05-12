@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-12-10
 original_source: 'https://sipreform.wordpress.com/2013/12/10/air-pollution-eastern-states-point-fingers-at-midwestern-states/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/governors-and-clean-air-act.png)Everyone get a chance to read the Northeast’s petition to include the Midwest in the OTC (see link)? A few questions:'

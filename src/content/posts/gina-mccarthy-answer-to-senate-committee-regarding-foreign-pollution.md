@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2013-06-10
 original_source: 'https://sipreform.wordpress.com/2013/06/10/gina-mccarthy-answer-to-senate-committee-regarding-foreign-pollution/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '> **[](/images/sip/mccarthy-and-foreign-pollution.png)Senate Question: According to recent NOAA reports, half of all the current ozone exceedances in many areas in the Western US are due to emissions from Asia.'

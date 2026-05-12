@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2015-11-11
 original_source: 'https://sipreform.wordpress.com/2015/11/11/2016-draft-clean-air-and-climate-change-act/'
 type: post
-status: draft
+status: published
 license: CC-BY-4.0
 tags: ['clean-air-act', 'monitoring', 'policy']
 abstract: '**Add your revisions to the latest draft of the “Clean Air and Climate Change Act”** (see <https://docs.google.com/document/d/1wEFHhoJMpeY_-SqRmK8P7ZYLtxu0gX-QE9tYCUYfoAw/edit?usp=sharing>)'
