@@ -65,13 +65,9 @@ All complex systems, from living cells to human societies, are subject to the fu
 
 (disorder) of an isolated system tends to increase over time – colloquially, order decays and chaos grows unless energy is expended to maintain or create structure. Life famously evades entropy locally by being an open system: it continuously consumes high-quality energy and emits waste heat, thereby sustaining pockets of order within an overall increase of entropy in the environment. Physicist Erwin Schrödinger coined the term “negentropy” to describe this process – organisms feed on negentropy to build and maintain their highly ordered structure. In thermodynamic terms, to live and grow, a system must export entropy and import energy or information. Stated differently, any persistently self-organizing system must perform work to reduce its internal entropy (or prevent its increase). This principle underlies everything from metabolism at the cellular level to the vast energy-economic throughput of human civilization.
 
-Importantly, the work needed to uphold order tends to increase as systems become more complex. Human civilization today is an edifice of remarkably low entropy (highly ordered infrastructure, societies, technologies) maintained by prodigious energy flows – fossil fuels, food, electricity – which ultimately dissipate as heat and waste. Our species’ ecological footprint can be understood as the entropy we inject into the environment as a byproduct of maintaining our complex society. Figure 1 illustrates the Planetary Boundaries, a set of nine critical Earth system processes that define a safe operating space for humanity; crossing these boundaries
+Importantly, the work needed to uphold order tends to increase as systems become more complex. Human civilization today is an edifice of remarkably low entropy (highly ordered infrastructure, societies, technologies) maintained by prodigious energy flows – fossil fuels, food, electricity – which ultimately dissipate as heat and waste. Our species’ ecological footprint can be understood as the entropy we inject into the environment as a byproduct of maintaining our complex society. The Planetary Boundaries framework – nine critical Earth system processes that define a safe operating space for humanity – provides a useful proxy: as of 2024, scientists estimate that six of nine boundaries (e.g. climate change, biodiversity loss, biogeochemical flows) have been transgressed due to human activity, evidence of anthropogenic entropy production overwhelming the Earth’s buffering capacity.
 
-(shown in red) is evidence of anthropogenic entropy production overwhelming the Earth’s buffering capacity.
-
-Figure 1: The current status of the nine Planetary Boundaries. Green zones indicate the safe operating space; yellow/orange indicate increasing risk; red indicates boundaries that have been transgressed (high risk). As of 2024, scientists estimate that six of nine boundaries (e.g. climate change, biodiversity loss, biogeochemical flows) have been crossed due to human activity. This reflects the growing entropic impact of civilization on Earth’s systems. (Image credit: PIK/Stockholm Resilience Centre, 2023 update)
-
-While the Second Law provides a dire reminder of the cost of complexity, the physics of information offers a complementary perspective that links entropy to knowledge and computation. In the 19th century, Ludwig Boltzmann famously related entropy S to the number of microstates W consistent with a macrostate: $S = k_B \ln W$. In the 20th century, Claude
+While the Second Law provides a dire reminder of the cost of complexity, the physics of information offers a complementary perspective that links entropy to knowledge and computation. In the 19th century, Ludwig Boltzmann famously related entropy S to the number of microstates W consistent with a macrostate: S = k_B ln W. In the 20th century, Claude
 
 Shannon introduced a parallel notion of information entropy in the context of communication theory – a measure of uncertainty or missing information. Jaynes and others later showed these concepts to be formally equivalent: entropy is fundamentally a measure of missing information about a system’s microstate. A highly ordered (low entropy) system is one about which a lot is known (low uncertainty), whereas a disordered system carries little information. This deep connection implies that creating order (negentropy) is inextricably linked with information processing – to reduce entropy, one must acquire information and use it to constrain possibilities
 
@@ -79,9 +75,7 @@ Shannon introduced a parallel notion of information entropy in the context of co
 
 Perhaps the most illuminating bridge between thermodynamics and information is Landauer’s
 
-Principle in computation theory. Rolf Landauer showed in 1961 that information is physical: every irreversible bit operation (in particular, bit erasure) has a minimum energy cost of $k_B T
-
-\ln 2$ (Landauer’s bound), where $T$ is the temperature of the computing substrate. This experimentally verified principle means that forgetting information – effectively increasing entropy – dissipates heat. Conversely, any logically irreversible computation increases the entropy of the environment. Landauer’s Principle situates computation firmly in thermodynamics, and it implies a kind of converse: to create information (negative entropy) somewhere, energy must be expended. The upshot for complex systems is that acquiring knowledge, processing data, and making decisions are physical acts that consume energy and release heat. Efficiency in information processing thus directly translates to thermodynamic efficiency.
+Principle in computation theory. Rolf Landauer showed in 1961 that information is physical: every irreversible bit operation (in particular, bit erasure) has a minimum energy cost of k_B T ln 2 (Landauer’s bound), where T is the temperature of the computing substrate. This experimentally verified principle means that forgetting information – effectively increasing entropy – dissipates heat. Conversely, any logically irreversible computation increases the entropy of the environment. Landauer’s Principle situates computation firmly in thermodynamics, and it implies a kind of converse: to create information (negative entropy) somewhere, energy must be expended. The upshot for complex systems is that acquiring knowledge, processing data, and making decisions are physical acts that consume energy and release heat. Efficiency in information processing thus directly translates to thermodynamic efficiency.
 
 In summary, the first principles of thermodynamics set the stage: if we want to maintain and improve complex structures (be it an organism, a city, or the entire Earth system), we must continuously invest energy and information to stave off entropy. The larger and more complex the system, the more sophisticated and efficient must be its strategies for gathering information and executing work. This realization motivates the frameworks discussed in this paper: both the
 
@@ -467,9 +461,7 @@ Journal of Research and Development 5.3 (1961): 183–191. (Landauer’s Princip
 
 Journal 27 (1948). (Shannon entropy lays groundwork linking information and thermodynamic entropy)
 
-## 5. Boltzmann, L. Lectures on Gas Theory. 1896. (Boltzmann’s entropy formula $S = k_B
-
-\ln W$)
+## 5. Boltzmann, L. Lectures on Gas Theory. 1896. (Boltzmann’s entropy formula S = k_B ln W)
 
 ## 6. Bekenstein, J.D. “Black holes and entropy.” Physical Review D 7.8 (1973): 2333. (Black
 

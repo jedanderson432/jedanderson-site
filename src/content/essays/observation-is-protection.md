@@ -58,7 +58,7 @@ While this paper applies the derivation to environmental systems—the domain in
 
 This paper derives the environmental theorem from first principles and shows what it means for the age of AI.
 
-Figure 1. The observation-protection equivalence. Both panels receive identical inputs—the universe’s spontaneous processes. The only difference is the gate state. Without observation (top), the gate is unconfigured and processes produce disorder. With observation (bottom), the question configures the gate, one bit is promoted to the epistemic boundary, and the same processes produce order. The observation is the actuation. The universe moves the molecules.
+The observation-protection equivalence: identical universe inputs feed two regimes. Without observation, the gate is unconfigured and the universe’s spontaneous processes produce disorder. With observation, the question configures the gate, one bit is promoted to the epistemic boundary, and the same spontaneous processes produce order. The observation is the actuation. The universe moves the molecules.
 
 ## Abstract
 

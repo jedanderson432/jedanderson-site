@@ -9,6 +9,13 @@ const personSchema = {
   url: SITE.url,
   description: SITE.description,
   email: `mailto:${SITE.email}`,
+  jobTitle:
+    'Creator and CEO of EnviroAI; Environmental Attorney; Adjunct Professor of Law, University of Houston Law Center',
+  worksFor: {
+    '@type': 'Organization',
+    name: 'EnviroAI',
+    url: 'https://enviro.ai',
+  },
   sameAs: [SITE.github].filter(Boolean),
 };
 ---

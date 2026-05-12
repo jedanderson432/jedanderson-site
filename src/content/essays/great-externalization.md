@@ -194,9 +194,11 @@ According to Landauer's principle, the theoretical minimum energy to perform a b
 
 1018 operations per second would thus have a theoretical minimum power draw of just a few milliwatts. In reality, such a system requires on the order of a gigawatt (109 watts)—a gap of roughly 12 orders of magnitude, highlighting the enormous potential for future efficiency gains.2
 
-The total annual carbon emissions are estimated using the formula: $$ \text{Total } CO_2e = \sum_{\text{region}} (P_{\text{region}} \times H_{\text{year}} \times
+The total annual carbon emissions are estimated using the formula:
 
-CI_{\text{region}}) $$ Where: ● Pregion is the planned AI data center power capacity in a given region (in GW).
+Total CO₂e = Σ_region (P_region × H_year × CI_region)
+
+Where: ● P_region is the planned AI data center power capacity in a given region (in GW).
 
 ● Hyear is the number of operating hours in a year (8,760). ● CIregion is the carbon intensity of the region's electrical grid (in metric tons of CO2 e per
 
@@ -272,13 +274,13 @@ The final entropic cost is the physical matter left behind: a torrent of electro
 
 We can estimate the e-waste stream based on the number of servers required, their average weight, and their operational lifespan.
 
-$$ \text{E-Waste (tons/yr)} = \frac{\text{Total Servers} \times \text{Avg. Server
+E-Waste (tons/yr) = (Total Servers × Avg. Server Weight) / Avg. Lifespan
 
-Weight}}{\text{Avg. Lifespan}} $$ A typical 1 GW data center campus requires hundreds of thousands of servers. The Stargate facility in Abilene, for example, will house nearly 500,000 specialized Nvidia chips across its eight buildings.11 Extrapolating to 40 GW suggests a total deployment of 15-20 million servers and specialized AI accelerators. The industry average refresh cycle for data center equipment is 3-5 years to maintain a competitive edge in performance and efficiency.43 Assuming an average server weight of 25 kg and a 4-year lifespan:
+A typical 1 GW data center campus requires hundreds of thousands of servers. The Stargate facility in Abilene, for example, will house nearly 500,000 specialized Nvidia chips across its eight buildings.11 Extrapolating to 40 GW suggests a total deployment of 15-20 million servers and specialized AI accelerators. The industry average refresh cycle for data center equipment is 3-5 years to maintain a competitive edge in performance and efficiency.43 Assuming an average server weight of 25 kg and a 4-year lifespan:
 
-$$ \frac{17,500,000 \text{ servers} \times 25 \text{ kg/server}}{4 \text{ years}} \approx
+(17,500,000 servers × 25 kg/server) / 4 years ≈ 109,375,000 kg/yr ≈ 110,000 metric tons/yr
 
-109,375,000 \text{ kg/yr} \approx 110,000 \text{ metric tons/yr} $$ This calculation, based only on servers, is a conservative baseline. A more comprehensive study projects that the rapid expansion of AI could drive e-waste specifically from data centers to as high as 5 million metric tons annually by 2030.5 This is a significant contribution to the global e-waste problem, which reached 62 million metric tons in 2022 and is growing five times faster than documented recycling rates.44 With only 22.3% of e-waste properly collected and recycled, this new wave of discarded hardware threatens to release toxic materials like lead and mercury into the environment.44
+This calculation, based only on servers, is a conservative baseline. A more comprehensive study projects that the rapid expansion of AI could drive e-waste specifically from data centers to as high as 5 million metric tons annually by 2030.5 This is a significant contribution to the global e-waste problem, which reached 62 million metric tons in 2022 and is growing five times faster than documented recycling rates.44 With only 22.3% of e-waste properly collected and recycled, this new wave of discarded hardware threatens to release toxic materials like lead and mercury into the environment.44
 
 The following table summarizes the full entropic cost of the AI compute boom, providing a clear, quantitative ledger of its environmental externalities.
 

@@ -6,7 +6,21 @@ PDFs processed: 32
 Extraction failures: 1
 Successfully classified: 31
 
-This manifest is a working document. It proposes slugs, types, buckets, tags, and abstracts derived from a read-only pass over each PDF (pdfplumber for text + image extraction, file mtime as date fallback). Nothing here has been published; nothing in `src/content/` has been touched. Human review is the next step — anything in the **Unclear** bucket or carrying a `flags:` note explicitly wants a human call.
+This manifest is a working document. It proposes slugs, types, buckets, tags, and abstracts derived from a read-only pass over each PDF (pdfplumber for text + image extraction, file mtime as date fallback). Human review is the next step — anything in the **Unclear** bucket or carrying a `flags:` note explicitly wants a human call.
+
+## Post-publication cleanup (2026-05-12)
+
+Seven essays flagged in `INGESTION_QUALITY_NOTES.md` have been cleaned and remain published:
+
+- `law-of-unthinking-holographic-negentropic-framework` — figure references removed; surrounding prose absorbs the meaning. LaTeX fragments (Boltzmann, Landauer) converted to Unicode prose.
+- `observation-is-protection` — Figure 1 caption rewritten as inline prose.
+- `thermodynamics-of-ai-maxwell-demon` — Inline LaTeX (Sagawa-Ueda equality, Generalized Second Law, TUR, Langevin equation, Landauer comparison table) converted to Unicode; spaced em-dashes normalized.
+- `compression-that-sings` — Three figure captions absorbed into surrounding prose.
+- `scaling-imperative-hcn-vs-icn` — Display equations and two comparison tables (HCN/ICN node, network, thermodynamic ledger) converted from broken LaTeX layout to Unicode bulleted lists.
+- `general-theory-of-environmental-leverage` — Intelligence Leverage Equation restored inline; references to missing diagrams removed; cost table converted to bulleted list.
+- `great-externalization` — CO₂e and e-waste display equations converted to Unicode prose.
+
+The Negentropic Imperative has been promoted from `bucket: standard` to published essay. Co-author Jim Blackburn has been removed at the author's request; AI research helpers retained. Tagged `foundational` per the cornerstone framework. Live at `/essays/negentropic-imperative`.
 
 ## Summary by bucket
 
@@ -375,16 +389,17 @@ The Maxwell-demon thread (**Environmental Angel: Maxwell's Demon Evolved**, 2025
 - source_pdf: `The Negentropic Imperative---Earth Rules as Algorithms of Persistence and the Physics of Planetary Governance.pdf`
 - slug: `negentropic-imperative`
 - type: essay
-- bucket: standard
+- bucket: foundational
+- status: published (2026-05-12)
 - date: 2025-11-24
 - original_date: 2025-11-24
-- co_authors: [Jim Blackburn, Grok-4.1 Deep Research, Gemini 3.0 Pro Deep Think & Research, ChatGPT 5.1 Deep Research, Claude 4.5 Deep Research]
+- co_authors: [Grok-4.1 Deep Research, Gemini 3.0 Pro Deep Think & Research, ChatGPT 5.1 Deep Research, Claude 4.5 Deep Research]
 - word_count: ~3400
 - heavy_visuals: false
-- tags: [enviroai, thermodynamics, legal-reform, paper, causal-sovereignty]
-- abstract: "Defines 'Earth Rules' — the organizing principles of the biosphere — as evolved computational algorithms that optimize negentropy generation under physical constraints, and redefines Natural Law as the physical imperative for any persistent complex adaptive system to align with these strategies. Quantifies the HCN bottleneck (~40–100 bps) and the >10¹⁹ leverage of informational over physical control as the basis for a thermodynamically coherent ESG framework."
-- flags:
-  - "Has a human co-author (Jim Blackburn). Confirm co-author attribution and ordering at publication."
+- tags: [foundational, physics, information-theory, thermodynamics, enviroai, legal-reform, whitehead, paper]
+- abstract: "Defines 'Earth Rules'—the organizing principles of the biosphere—as evolved computational algorithms that optimize negentropy generation under physical constraints, and redefines Natural Law as the physical imperative for any persistent complex adaptive system to align with these strategies. Quantifies the HCN bandwidth (~40–100 bps) and the >10¹⁹ leverage of informational over physical control as the basis for a thermodynamically coherent ESG framework."
+- notes:
+  - "Published solo-authored by Jed Anderson (AI research helpers retained as co_authors). Jim Blackburn removed at the author's request, 2026-05-12."
 
 ### The Missing $Quadrillion: What Maxwell's Demon Was Trying to Tell Us for 158 Years
 
