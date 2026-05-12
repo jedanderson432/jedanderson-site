@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: '[](/images/sip/caa-reform-resolution.jpg)Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”'
 ---
 
-[![CAA Reform Resolution](/images/sip/caa-reform-resolution.jpg?w=300&h=199)](/images/sip/caa-reform-resolution.jpg)Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”
+[![CAA Reform Resolution](/images/sip/caa-reform-resolution.jpg)](/images/sip/caa-reform-resolution.jpg)Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”
 
 Not the point.  God works from intent—not probability of success.
 

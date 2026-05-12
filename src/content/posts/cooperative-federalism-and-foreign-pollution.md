@@ -11,6 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/cooperative-federalism.png)'
 ---
 
-[![Cooperative Federalism](/images/sip/cooperative-federalism.png?w=480&h=360)](/images/sip/cooperative-federalism.png)
+[![Cooperative Federalism](/images/sip/cooperative-federalism.png)](/images/sip/cooperative-federalism.png)
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

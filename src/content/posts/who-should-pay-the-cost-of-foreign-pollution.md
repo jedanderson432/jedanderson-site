@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/foreign-pollution-and-cost.jpg)'
 ---
 
-[![Foreign Pollution and Cost](/images/sip/foreign-pollution-and-cost.jpg?w=300&h=200)](/images/sip/foreign-pollution-and-cost.jpg)
+[![Foreign Pollution and Cost](/images/sip/foreign-pollution-and-cost.jpg)](/images/sip/foreign-pollution-and-cost.jpg)
 
 > Here is what the public and almost everyone thinks:
 >

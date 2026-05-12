@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '> ***[](/images/sip/yes-virginia.png)Sentiment:*****The thoughts Jed of you and others are not based in reality. You folks are just dreaming about a new Clean Air Act. And your dream is unlikely to ever come true.**'
 ---
 
-> ***[![Yes Virginia](/images/sip/yes-virginia.png?w=300&h=126)](/images/sip/yes-virginia.png)Sentiment:*****The thoughts Jed of you and others are not based in reality.  You folks are just dreaming about a new Clean Air Act.  And your dream is unlikely to ever come true.**
+> ***[![Yes Virginia](/images/sip/yes-virginia.png)](/images/sip/yes-virginia.png)Sentiment:*****The thoughts Jed of you and others are not based in reality.  You folks are just dreaming about a new Clean Air Act.  And your dream is unlikely to ever come true.**
 
 No, yes, and maybe.
 

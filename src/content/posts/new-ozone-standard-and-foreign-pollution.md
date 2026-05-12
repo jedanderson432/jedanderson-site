@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/world-pollution.png)Can anyone help me understand this? I can’t figure it out. Seems non-sensical. It’s from EPA’s proposed ozone rule:'
 ---
 
-[![World Pollution](/images/sip/world-pollution.png?w=497&h=352)](/images/sip/world-pollution.png)Can anyone help me understand this?  I can’t figure it out.  Seems non-sensical.  It’s from EPA’s proposed ozone rule:
+[![World Pollution](/images/sip/world-pollution.png)](/images/sip/world-pollution.png)Can anyone help me understand this?  I can’t figure it out.  Seems non-sensical.  It’s from EPA’s proposed ozone rule:
 
 ### Foreign Pollution Quote in Proposed Ozone Rule
 

@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '> ***[](/images/sip/sacred-vs-secular.jpg)Sentiment:*** Jed, you seem to jumble up religion and science and philosophy and public policy and theology.'
 ---
 
-> ***[![Sacred vs. Secular](/images/sip/sacred-vs-secular.jpg?w=178&h=142)](/images/sip/sacred-vs-secular.jpg)Sentiment:***  Jed, you seem to jumble up religion and science and philosophy and public policy and theology.
+> ***[![Sacred vs. Secular](/images/sip/sacred-vs-secular.jpg)](/images/sip/sacred-vs-secular.jpg)Sentiment:***  Jed, you seem to jumble up religion and science and philosophy and public policy and theology.
 
 All seem related.  All seem to draw from and point to the same source.  I’m a strong advocate of the separation of Church and State, but to separate the sacred from the secular would seem to be an exercise in ecumenical futility.  All seems sacred.  Praying, engineering–all sacred.
 

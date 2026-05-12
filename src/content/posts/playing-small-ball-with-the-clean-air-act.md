@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/babe-ruth-and-the-clean-air-act.png)'
 ---
 
-[![Babe Ruth and the Clean Air Act](/images/sip/babe-ruth-and-the-clean-air-act.png?w=497&h=657)](/images/sip/babe-ruth-and-the-clean-air-act.png)
+[![Babe Ruth and the Clean Air Act](/images/sip/babe-ruth-and-the-clean-air-act.png)](/images/sip/babe-ruth-and-the-clean-air-act.png)
 
 We seem to be in the “dead ball era” of environmental legislation.  And we are apparently content to keep playing “small ball” with the courts and the agency.
 

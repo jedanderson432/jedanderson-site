@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/insignificant-foreign-pollution.png)'
 ---
 
-[![Foreign Pollution](/images/sip/insignificant-foreign-pollution.png?w=497&h=373)](/images/sip/insignificant-foreign-pollution.png)
+[![Foreign Pollution](/images/sip/insignificant-foreign-pollution.png)](/images/sip/insignificant-foreign-pollution.png)
 
 EPA now telling the States that they are responsible for offsetting insignificant levels of foreign pollution (see below).
 

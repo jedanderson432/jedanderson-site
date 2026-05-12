@@ -11,6 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/cost-of-foreign-pollution.png)'
 ---
 
-[![Cost of Foreign Pollution](/images/sip/cost-of-foreign-pollution.png?w=480&h=360)](/images/sip/cost-of-foreign-pollution.png)
+[![Cost of Foreign Pollution](/images/sip/cost-of-foreign-pollution.png)](/images/sip/cost-of-foreign-pollution.png)
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

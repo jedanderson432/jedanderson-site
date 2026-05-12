@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/clean-air-act-and-courage.jpg)Many Republican and Democrat leaders think that reevaluating the Clean Air Act would prove “disastrous” (see quotes in last Friday’s Politico)'
 ---
 
-[![Clean Air Act and Courage](/images/sip/clean-air-act-and-courage.jpg?w=260&h=260)](/images/sip/clean-air-act-and-courage.jpg)Many Republican and Democrat leaders think that reevaluating the Clean Air Act would prove “disastrous” (see quotes in last Friday’s [Politico](http://www.politico.com/tipsheets/morning-energy/2015/10/pro-morning-energy-wolff-210516))
+[![Clean Air Act and Courage](/images/sip/clean-air-act-and-courage.jpg)](/images/sip/clean-air-act-and-courage.jpg)Many Republican and Democrat leaders think that reevaluating the Clean Air Act would prove “disastrous” (see quotes in last Friday’s [Politico](http://www.politico.com/tipsheets/morning-energy/2015/10/pro-morning-energy-wolff-210516))
 
 I’ve got a one word response to this:
 

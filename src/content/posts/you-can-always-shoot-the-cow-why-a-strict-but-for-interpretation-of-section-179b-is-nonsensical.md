@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/clean-air-act-section-179b.png)For some reason States seem to think that Section 179B is a strict “but for” demonstration.'
 ---
 
-[![Clean Air Act Section 179B](/images/sip/clean-air-act-section-179b.png?w=480&h=360)](/images/sip/clean-air-act-section-179b.png)For some reason States seem to think that Section 179B is a strict “but for” demonstration.  In other words, that foreign pollution is inconsequential unless it’s the only reason why the State is in nonattainment.
+[![Clean Air Act Section 179B](/images/sip/clean-air-act-section-179b.png)](/images/sip/clean-air-act-section-179b.png)For some reason States seem to think that Section 179B is a strict “but for” demonstration.  In other words, that foreign pollution is inconsequential unless it’s the only reason why the State is in nonattainment.
 
 Can’t be.  If this were the case—then even if there were no more emissions sources in a State other than one cow that was keeping the area in nonattainment, EPA could say, **“well you could have shot the cow”**.  ‘But for’ the cow the area would be in attainment.
 

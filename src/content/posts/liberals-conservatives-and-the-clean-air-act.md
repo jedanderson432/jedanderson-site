@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '> [](/images/sip/democrats-republicans-and-the-clean-air-act.jpg)Liberals are not thinking liberal enough on this issue yet. And the conservatives are not thinking conservative enough.'
 ---
 
-> [![Democrats, Republicans, and the Clean Air Act](/images/sip/democrats-republicans-and-the-clean-air-act.jpg?w=300&h=210)](/images/sip/democrats-republicans-and-the-clean-air-act.jpg)Liberals are not thinking liberal enough on this issue yet.  And the conservatives are not thinking conservative enough. 
+> [![Democrats, Republicans, and the Clean Air Act](/images/sip/democrats-republicans-and-the-clean-air-act.jpg)](/images/sip/democrats-republicans-and-the-clean-air-act.jpg)Liberals are not thinking liberal enough on this issue yet.  And the conservatives are not thinking conservative enough. 
 >
 > Let’s end both pollution and environmental laws.
 >

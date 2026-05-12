@@ -5,7 +5,7 @@ subtitle: "Twelve things actually happening to you right now"
 date: 2026-05-12
 type: essay
 status: published
-tags: ["foundational", "visual-essay", "physics", "bond-bit-asymmetry", "accessible", "enviroai"]
+tags: ["visual-essay", "physics", "bond-bit-asymmetry", "accessible", "enviroai", "on-ramp"]
 abstract: "Twelve verified physics observations, each takeable in ten seconds on a thirty-minute walk, ending at the bond-bit asymmetry. The most accessible on-ramp to the corpus's central claim: knowing where to put an atom is incomprehensibly cheaper than holding it there."
 license: CC-BY-4.0
 hero_image: "/images/walk-youve-never-taken-hero.jpg"

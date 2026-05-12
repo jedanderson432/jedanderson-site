@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'policy']
 abstract: '[](/images/sip/epa-and-the-states.png)State keeps ignoring EPA guidance and accepting responsibility for foreign pollution and other background pollution that States can’t control.'
 ---
 
-[![EPA and the States](/images/sip/epa-and-the-states.png?w=262&h=192)](/images/sip/epa-and-the-states.png)State keeps ignoring EPA guidance and accepting responsibility for foreign pollution and other background pollution that States can’t control.
+[![EPA and the States](/images/sip/epa-and-the-states.png)](/images/sip/epa-and-the-states.png)State keeps ignoring EPA guidance and accepting responsibility for foreign pollution and other background pollution that States can’t control.
 
 > **—–“Under the Clean Air Act, states are not responsible for reducing emissions that are not in their Control.”****—U.S. EPA**, November 2014, Memo on Background Pollution and the New Ozone Standard (see <http://www.epa.gov/groundlevelozone/pdfs/20141125fs-tools.pdf>
 >

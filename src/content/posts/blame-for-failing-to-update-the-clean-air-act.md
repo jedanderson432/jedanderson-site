@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/roosevelt-and-the-clean-air-act.png)Who do I mostly blame for failing to update the Clean Air Act?'
 ---
 
-[![Roosevelt and the Clean Air Act](/images/sip/roosevelt-and-the-clean-air-act.png?w=207&h=300)](/images/sip/roosevelt-and-the-clean-air-act.png)Who do I mostly blame for failing to update the Clean Air Act?
+[![Roosevelt and the Clean Air Act](/images/sip/roosevelt-and-the-clean-air-act.png)](/images/sip/roosevelt-and-the-clean-air-act.png)Who do I mostly blame for failing to update the Clean Air Act?
 
 > **———-“If you could kick the person in the pants responsible for most of your trouble, you wouldn’t sit for a month.”–Theodore Roosevelt**
 

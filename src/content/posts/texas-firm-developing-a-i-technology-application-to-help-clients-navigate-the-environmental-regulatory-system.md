@@ -5,7 +5,7 @@ date: 2026-05-12
 original_date: 2018-05-03
 original_source: 'https://sipreform.wordpress.com/2018/05/03/texas-firm-developing-a-i-technology-application-to-help-clients-navigate-the-environmental-regulatory-system/'
 type: post
-status: published
+status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'ai', 'monitoring', 'tceq']
 abstract: '###### *(Houston) – May 2, 2018*'

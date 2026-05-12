@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/yogi-berra-and-the-clean-air-act.png)**Ready to do some more SIPs?** (see <http://www.epa.gov/airquality/ozonepollution/pdfs/20141125proposal.pdf>).'
 ---
 
-[![Yogi Berra and the Clean Air Act](/images/sip/yogi-berra-and-the-clean-air-act.png?w=370&h=429)](/images/sip/yogi-berra-and-the-clean-air-act.png)**Ready to do some more SIPs?**  (see <http://www.epa.gov/airquality/ozonepollution/pdfs/20141125proposal.pdf>).
+[![Yogi Berra and the Clean Air Act](/images/sip/yogi-berra-and-the-clean-air-act.png)](/images/sip/yogi-berra-and-the-clean-air-act.png)**Ready to do some more SIPs?**  (see <http://www.epa.gov/airquality/ozonepollution/pdfs/20141125proposal.pdf>).
 
 > ### **———–“It’s like deja vue all over again.”–Yogi Berra**
 
