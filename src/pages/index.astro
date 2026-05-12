@@ -13,19 +13,13 @@ for (const c of COLLECTIONS) {
 }
 
 const sorted = all.sort((a, b) => +b.data.date - +a.data.date);
-const cornerstoneTagged = sorted.filter((e) => e.data.tags?.includes('cornerstone'));
-// "A Walk You've Never Taken" is pinned as the on-ramp at the top of Start here:
-// it's the most accessible entry into the corpus and intentionally not also
-// tagged cornerstone (which is reserved for the existing anchor pieces).
-const walk = sorted.find((e) => e.slug === 'walk-youve-never-taken');
-const cornerstone = walk
-  ? [walk, ...cornerstoneTagged.filter((e) => e.slug !== 'walk-youve-never-taken')]
-  : cornerstoneTagged;
+// "Start here" is driven exclusively by the `cornerstone` tag — the three
+// editorial picks (Universe is Information, First Defender, Intelligence
+// Leverage Equation). Other on-ramps like the Walk visual essay surface
+// via Foundational treatises and the essays index, not here.
+const cornerstone = sorted.filter((e) => e.data.tags?.includes('cornerstone'));
 const foundational = sorted.filter(
-  (e) =>
-    e.data.tags?.includes('foundational') &&
-    !e.data.tags?.includes('cornerstone') &&
-    e.slug !== 'walk-youve-never-taken',
+  (e) => e.data.tags?.includes('foundational') && !e.data.tags?.includes('cornerstone'),
 );
 const recent = sorted.slice(0, 6);
 
