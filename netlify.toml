@@ -4,6 +4,10 @@
 
 [build.environment]
   NODE_VERSION = "20"
+  # Bump CACHE_BUST to force Astro content-layer cache invalidation when
+  # only frontmatter has changed in a content collection (Astro's cache
+  # can otherwise carry stale tags/dates across builds on Netlify).
+  CACHE_BUST = "2026-05-12-v1"
 
 [[headers]]
   for = "/*.md"
