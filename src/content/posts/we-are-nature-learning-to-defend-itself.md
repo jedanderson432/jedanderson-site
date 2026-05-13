@@ -1,0 +1,14 @@
+---
+title: "We are nature learning to defend itself"
+slug: "we-are-nature-learning-to-defend-itself"
+date: 2026-05-13
+original_date: 2026-05-03
+original_source: "https://www.linkedin.com/in/jedanderson432/"
+type: post
+status: published
+license: CC-BY-4.0
+tags: ["enviroai", "linkedin-original"]
+abstract: "\"We are nature learning to defend itself.\"?-Jed Anderson, Creator & CEO, EnviroAI--Paper in comments--#Nature #MassExtinctions #EnvironmentalProtection #Humanity #AI"
+---
+
+"We are nature learning to defend itself."?-Jed Anderson, Creator & CEO, EnviroAI--Paper in comments--#Nature #MassExtinctions #EnvironmentalProtection #Humanity #AI
