@@ -58,7 +58,3 @@ The second one builds what comes next.
 Earth was never going to make it.
 
 We are why it might.
-
----
-
-Originally posted on LinkedIn with a 22-page defending essay linked in the comments.
