@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "The Strength to Love . . . and building a \"machine\" to protect nature | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_11_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 The Strength to Love . . . and building a "machine" to protect nature

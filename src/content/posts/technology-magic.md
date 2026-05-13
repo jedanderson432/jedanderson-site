@@ -3,12 +3,12 @@ title: "Technology---Magic"
 slug: "technology-magic"
 date: 2020-05-09
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Pipelines. Fugitives. Environment Intelligence."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_34_words"
+
 ---
 
 |  |

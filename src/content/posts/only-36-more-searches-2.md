@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Historic 1st Ton of Carbon | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_5_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Historic 1st Ton of Carbon

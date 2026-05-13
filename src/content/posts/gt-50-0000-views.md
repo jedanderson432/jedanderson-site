@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Carbon offset counter is now spinning!!! Check it out!!! | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_9_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Carbon offset counter is now spinning!!! Check it out!!!

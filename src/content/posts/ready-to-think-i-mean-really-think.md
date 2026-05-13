@@ -3,12 +3,12 @@ title: "Ready to think? . . . I mean really THINK???"
 slug: "ready-to-think-i-mean-really-think"
 date: 2022-01-25
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | 2 QUESTIONS that will alter the course of environmental history | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_37_words"
+
 ---
 
 |  |

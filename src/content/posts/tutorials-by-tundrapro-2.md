@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "How to reduce regulatory burden, cost, and risk . . . | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_8_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 How to reduce regulatory burden, cost, and risk . . .

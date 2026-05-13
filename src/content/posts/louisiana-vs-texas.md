@@ -3,12 +3,12 @@ title: "Louisiana vs. Texas?"
 slug: "louisiana-vs-texas"
 date: 2021-05-12
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Quickly Compare Environmental Data & Agency Interpretations\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_43_words"
+
 ---
 
 |  |

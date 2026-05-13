@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "\"I cannot shove money in people's pocketbooks . . . but I'm trying.\" | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_12_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 "I cannot shove money in people's pocketbooks . . . but I'm trying."

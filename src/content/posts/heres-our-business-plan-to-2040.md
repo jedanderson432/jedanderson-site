@@ -3,12 +3,12 @@ title: "Here's our business plan to 2040 . . ."
 slug: "heres-our-business-plan-to-2040"
 date: 2021-12-02
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_42_words"
+
 ---
 
 |  |

@@ -3,12 +3,12 @@ title: "---&quot;Thneeds a boot-up&quot; . . ."
 slug: "quot-thneeds-a-boot-up-quot"
 date: 2021-04-25
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | oh the environmental places we'll go . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_35_words"
+
 ---
 
 |  |

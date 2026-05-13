@@ -3,12 +3,12 @@ title: "Inside fencelines . . ."
 slug: "inside-fencelines"
 date: 2021-04-17
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | New level of facility environmental detail | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_38_words"
+
 ---
 
 |  |

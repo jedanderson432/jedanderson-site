@@ -3,12 +3,12 @@ title: "Automated . . ."
 slug: "automated"
 date: 2021-02-22
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | environmental report generation?"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_25_words"
+
 ---
 
 |  |

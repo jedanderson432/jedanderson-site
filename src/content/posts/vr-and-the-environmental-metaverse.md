@@ -3,12 +3,12 @@ title: "VR and the Environmental Metaverse"
 slug: "vr-and-the-environmental-metaverse"
 date: 2021-11-04
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Demo | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_39_words"
+
 ---
 
 |  |

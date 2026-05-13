@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Cassidy Schnell of EnviroAI unveiling \"Tundra . . . the cooler search engine\" | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_10_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Cassidy Schnell of EnviroAI unveiling "Tundra . . . the cooler search engine"

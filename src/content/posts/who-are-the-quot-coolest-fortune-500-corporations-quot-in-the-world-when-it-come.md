@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Corporate Internet Searching . . . WHO'S THE COOLEST? | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_7_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Corporate Internet Searching . . . WHO'S THE COOLEST?

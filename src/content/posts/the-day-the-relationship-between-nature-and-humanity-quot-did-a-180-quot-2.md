@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "\"Flipped on its head\" . . . environmental relationship between human technology and nature | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_11_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 "Flipped on its head" . . . environmental relationship between human technology and nature

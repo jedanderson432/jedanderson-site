@@ -3,12 +3,12 @@ title: "EnviroAI was selected . . . &quot;Houston Startup Showcase&quot;"
 slug: "enviroai-was-selected-quot-houston-startup-showcase-quot"
 date: 2022-04-19
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Come Watch! . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_41_words"
+
 ---
 
 |  |

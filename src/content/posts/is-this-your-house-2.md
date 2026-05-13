@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "106 environmental hazards. ------\"Know before you buy . . . HomePhase1.com\" | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_9_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 106 environmental hazards. ------"Know before you buy . . . HomePhase1.com"

@@ -3,12 +3,12 @@ title: "Smart?"
 slug: "smart"
 date: 2021-01-22
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Yes you are. Now get even smarter. Augment your environmental intelligence so your personal stock goes even higher."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_24_words"
+
 ---
 
 |  |

@@ -3,12 +3,12 @@ title: "How will it work . . . Jed?"
 slug: "how-will-it-work-jed"
 date: 2021-04-18
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | The \"machine\" you are building to protect the environment . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_35_words"
+
 ---
 
 |  |

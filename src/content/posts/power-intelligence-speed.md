@@ -3,12 +3,12 @@ title: "Power. Intelligence. Speed."
 slug: "power-intelligence-speed"
 date: 2020-08-07
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | How much can we give you? . . . Augmenting environmental human intelligence . . . that's EnviroAI."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_27_words"
+
 ---
 
 |  |

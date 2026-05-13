@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | I've offered $750,000 . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_5_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 |  |

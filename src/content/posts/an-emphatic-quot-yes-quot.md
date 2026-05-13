@@ -3,12 +3,12 @@ title: ". . . an emphatic &quot;Yes!&quot;"
 slug: "an-emphatic-quot-yes-quot"
 date: 2021-09-01
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Can we save earth?????????"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_43_words"
+
 ---
 
 |  |

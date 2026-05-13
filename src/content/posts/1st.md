@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "\"Environmentally-Tuned Large Language Model\" | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_5_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 "Environmentally-Tuned Large Language Model"

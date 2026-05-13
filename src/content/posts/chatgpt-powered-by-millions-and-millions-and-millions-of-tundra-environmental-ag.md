@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "\"It will be environmental compliance and permitting on steroids.\" - Jed Anderson, CEO, EnviroAI | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_13_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 "It will be environmental compliance and permitting on steroids." - Jed Anderson, CEO, EnviroAI

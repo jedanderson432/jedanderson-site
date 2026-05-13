@@ -3,12 +3,12 @@ title: "Watch!!!!!!!!!!"
 slug: "watch"
 date: 2020-09-02
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_44_words"
+
 ---
 
 |  |

@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Join us at the 4C Marketplace & Environmental Conference | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_8_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Join us at the 4C Marketplace & Environmental Conference

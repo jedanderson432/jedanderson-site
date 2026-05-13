@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "The \"coolest\" . . . AND LEAST DISTRACTED . . . corporations in the world!!! | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_9_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 The "coolest" . . . AND LEAST DISTRACTED . . . corporations in the world!!!

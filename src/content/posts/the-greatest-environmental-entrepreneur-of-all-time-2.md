@@ -3,12 +3,12 @@ title: "The Greatest Environmental Entrepreneur of All Time"
 slug: "the-greatest-environmental-entrepreneur-of-all-time-2"
 date: 2021-03-02
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Jed Anderson | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_46_words"
+
 ---
 
 |  |

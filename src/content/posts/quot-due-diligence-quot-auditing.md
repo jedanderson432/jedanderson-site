@@ -3,12 +3,12 @@ title: "&quot;Due Diligence&quot; . . . Auditing"
 slug: "quot-due-diligence-quot-auditing"
 date: 2020-04-20
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Automated environmental due diligence and audit tasks with Ceres AI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_46_words"
+
 ---
 
 |  |

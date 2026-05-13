@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "\"Operating a computer is almost like operating a little mini-universe.\" - Jed Anderson, EnviroAI | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_14_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 "Operating a computer is almost like operating a little mini-universe." - Jed Anderson, EnviroAI

@@ -3,12 +3,12 @@ title: "1st's"
 slug: "1sts"
 date: 2021-09-21
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | AI & Quantum Environmental Protection Company in the World | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_45_words"
+
 ---
 
 |  |

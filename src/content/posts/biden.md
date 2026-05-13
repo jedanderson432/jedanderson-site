@@ -3,12 +3,12 @@ title: "Biden?"
 slug: "biden"
 date: 2021-01-21
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | New Environmental Game Plan? . . . or back to \"Old Regulatory Playbook\"?"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_21_words"
+
 ---
 
 |  |
