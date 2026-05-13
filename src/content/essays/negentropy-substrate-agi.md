@@ -4,7 +4,7 @@ slug: "negentropy-substrate-agi"
 date: 2026-05-13
 original_date: 2025-11-20
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "ai", "information-theory", "paper"]
 abstract: "Argues that the next paradigm of AI development must move beyond the statistical scaling of language models toward physically-grounded intelligence trained on nature's own negentropic algorithms."
 license: CC-BY-4.0

@@ -4,7 +4,7 @@ slug: "quantum-ai-environmental-negentropy"
 date: 2026-05-13
 original_date: 2025-05-13
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "visual-essay", "physics", "ai"]
 abstract: "Image-heavy slide deck on a proposed quantum-AI paradigm for environmental negentropy."
 license: CC-BY-4.0

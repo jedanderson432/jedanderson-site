@@ -4,7 +4,7 @@ slug: "inverted-mountain"
 date: 2026-05-13
 original_date: 2026-03-01
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "thermodynamics", "information-theory", "paper"]
 abstract: "First-principles synthesis of the physics, economics, and policy implications of information-substituted environmental stewardship. The trajectory has the unusual property that each step toward the summit costs less than the last."
 license: CC-BY-4.0

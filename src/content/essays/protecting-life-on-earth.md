@@ -5,7 +5,7 @@ subtitle: "Environmental Superintelligence"
 date: 2026-05-13
 original_date: 2025-10-21
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "visual-essay"]
 abstract: "Slide deck framing the ESI mission in human terms: how many lives can a quantum-sensor-equipped, AI-coordinated Earth save?"
 license: CC-BY-4.0

@@ -4,7 +4,7 @@ slug: "underpinnings-of-ai-quantum-physics"
 date: 2026-05-13
 original_date: 2026-05-11
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "visual-essay", "ai", "physics"]
 abstract: "Slide deck on why quantum physics and information theory are the underpinnings that explain AI's environmental-protection power."
 license: CC-BY-4.0

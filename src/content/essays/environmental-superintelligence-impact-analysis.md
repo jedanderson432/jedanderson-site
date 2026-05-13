@@ -5,7 +5,7 @@ subtitle: "Quantifying the Physics of Environmental Protection"
 date: 2026-05-13
 original_date: 2026-03-14
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "visual-essay", "policy"]
 abstract: "Independent first-principles comparison of environmental investment scenarios, framing ESI as the 'sharpened axe' before the chopping work begins."
 license: CC-BY-4.0
