@@ -5,13 +5,10 @@ date: 2022-05-22
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "The Future of Nature & Humanity | | | |"
+abstract: "The Future of Nature & Humanity"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_5_words"
 ---
 
 The Future of Nature & Humanity
-
- |  |
-|  |

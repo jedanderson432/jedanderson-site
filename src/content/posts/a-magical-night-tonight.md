@@ -3,18 +3,81 @@ title: "A magical night tonight . . ."
 slug: "a-magical-night-tonight"
 date: 2022-12-24
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | ---…"
+abstract: "a magical night tonight . . . . . . The universe is magical. And where there is magic . . . there must be a magician. The universe is computing."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-|  |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | | a magical night tonight . . . .  . . | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | The universe is magical. And where there is magic . . . there must be a magician.  The universe is computing. I wouldn't get caught up in thinking of it as a "computer-computer". It's not a matter-based computer like the one we are typing on . . . but it is computing. We now know this . . . especially with the work that's been done over the last 5-10 years. And this moment captured in the depiction above in my opinion was . . . the greatest "key stroke" ever.  ﻿God apparently deciding to enter the "computer program" Himself. | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | | ---"If it looks like a duck, swims like a duck, and quacks like a duck . . . then its . . . not necessarily a duck . . . but the odds have gone up considerably it also likes crackers." - Jed Anderson, EnviroAI | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | Even if the Universe is not a computer, or simulation . . . the mathematical, computational, and informational underpinnings make you scratch your head sometimes and wonder why this thing is acting like a duck.  ﻿ | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | I think this is fun to thing about. I don't know if its right. It's just fun to think about. Imagine if God chose to run a computer "program" or "simulation" to test whatever variable God wanted to test. Then, part way through the simulation or program, God starts thinking . . . geeze . . . these creatures that have resulted from my program are wonderful and I love them, but they just aren't fully getting it. They seem to be burdened by their errors (sins). Why don't I send a helper, my Son, into the "program" to remove the weight of their errors (sins). Give them a fresh start that they can continue to draw upon. Remind them of who they are, that they are loved by me, and that they are eternal and divine. | |  |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | PEACE & JOY & LOVE  TO YOU TONIGHT ON THIS SPECIAL NIGHT IN THIS MAGICAL UNIVERSE  God I believe is now with you. | | | | | | |
-|  |
+![](/images/posts/a-magical-night-tonight/img-01.gif)
 
-|  |
-|  |
+a magical night tonight . . . .
+
+. .
+
+![](/images/posts/a-magical-night-tonight/img-02.gif)
+
+![](/images/posts/a-magical-night-tonight/img-03.png)
+
+The universe is magical. And where there is magic . . . there must be a magician.
+
+The universe is computing. I wouldn't get caught up in thinking of it as a "computer-computer". It's not a matter-based computer like the one we are typing on . . . but it is computing. We now know this . . . especially with the work that's been done over the last 5-10 years. And this moment captured in the depiction above in my opinion was . . . the greatest "key stroke" ever.
+
+﻿God apparently deciding to enter the "computer program" Himself.
+
+![](/images/posts/a-magical-night-tonight/img-04.png)
+
+![](/images/posts/a-magical-night-tonight/img-05.gif)
+
+---"If it looks like a duck, swims like a duck, and quacks like a duck . . . then its . . . not necessarily a duck . . . but the odds have gone up considerably it also likes crackers." - Jed Anderson, EnviroAI
+
+![](/images/posts/a-magical-night-tonight/img-06.gif)
+
+![](/images/posts/a-magical-night-tonight/img-07.png)
+
+Even if the Universe is not a computer, or simulation . . . the mathematical, computational, and informational underpinnings make you scratch your head sometimes and wonder why this thing is acting like a duck.
+
+﻿
+
+![](/images/posts/a-magical-night-tonight/img-08.jpg)
+
+I think this is fun to thing about. I don't know if its right. It's just fun to think about. Imagine if God chose to run a computer "program" or "simulation" to test whatever variable God wanted to test. Then, part way through the simulation or program, God starts thinking . . . geeze . . . these creatures that have resulted from my program are wonderful and I love them, but they just aren't fully getting it. They seem to be burdened by their errors (sins). Why don't I send a helper, my Son, into the "program" to remove the weight of their errors (sins). Give them a fresh start that they can continue to draw upon. Remind them of who they are, that they are loved by me, and that they are eternal and divine.
+
+‌
+
+![](/images/posts/a-magical-night-tonight/img-09.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-10.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-11.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-12.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-13.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-14.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-15.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-16.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-17.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-18.gif)
+
+![](/images/posts/a-magical-night-tonight/img-19.jpg)
+
+![](/images/posts/a-magical-night-tonight/img-20.png)
+
+![](/images/posts/a-magical-night-tonight/img-21.gif)
+
+![](/images/posts/a-magical-night-tonight/img-22.png)
+
+![](/images/posts/a-magical-night-tonight/img-23.gif)
+
+PEACE & JOY & LOVE
+
+TO YOU TONIGHT ON THIS SPECIAL NIGHT IN THIS MAGICAL UNIVERSE
+
+God I believe is now with you.

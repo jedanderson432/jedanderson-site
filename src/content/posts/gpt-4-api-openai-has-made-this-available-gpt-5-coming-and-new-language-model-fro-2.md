@@ -5,13 +5,10 @@ date: 2023-07-08
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "Environmental training . . . | | | |"
+abstract: "GPT-4 API . . . OpenAI has made this available . . . GPT-5 coming and new language model from Google"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "dedup:title+date matches gpt-4-api-openai-has-made-this-available-gpt-5-coming-and-new-language-model-fro"
 ---
 
-Environmental training . . .
-
- |  |
-|  |
+_(duplicate of gpt-4-api-openai-has-made-this-available-gpt-5-coming-and-new-language-model-fro)_

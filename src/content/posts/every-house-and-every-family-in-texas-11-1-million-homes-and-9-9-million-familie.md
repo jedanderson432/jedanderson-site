@@ -5,13 +5,10 @@ date: 2022-08-21
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "Personalized Environmental Protection | | | |"
+abstract: "Personalized Environmental Protection"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_3_words"
 ---
 
 Personalized Environmental Protection
-
- |  |
-|  |

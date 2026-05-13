@@ -5,11 +5,10 @@ date: 2022-09-27
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | |"
+abstract: ". . . not just an environmental search engine"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_0_words"
 ---
 
-|  |
-|  |
+

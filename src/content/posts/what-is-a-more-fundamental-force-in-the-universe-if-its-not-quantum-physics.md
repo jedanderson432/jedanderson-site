@@ -3,19 +3,21 @@ title: "What is a more fundamental force in the universe if its not quantum phys
 slug: "what-is-a-more-fundamental-force-in-the-universe-if-its-not-quantum-physics"
 date: 2022-06-16
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | Here's my working hypothesis . . ."
+abstract: "Here's my working hypothesis . . . ---\"Physics isn't the most important thing. Love is.\" - Richard Feynman"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-
 ---
 
-|  |
-| --- |
-| Here's my working hypothesis . . . |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | ---"Physics isn't the most important thing. Love is."  - Richard Feynman | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+Here's my working hypothesis . . .
 
-|  |
-|  |
+![](/images/posts/what-is-a-more-fundamental-force-in-the-universe-if-its-not-quantum-physics/img-01.png)
+
+---"Physics isn't the most important thing. Love is."
+
+- Richard Feynman
+
+![](/images/posts/what-is-a-more-fundamental-force-in-the-universe-if-its-not-quantum-physics/img-02.gif)
+
+![](/images/posts/what-is-a-more-fundamental-force-in-the-universe-if-its-not-quantum-physics/img-03.gif)

@@ -5,11 +5,10 @@ date: 2023-06-03
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | |"
+abstract: "Wealth. Power. Fame. Reputation . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "dedup:title+date matches wealth-power-fame-reputation"
 ---
 
-|  |
-|  |
+_(duplicate of wealth-power-fame-reputation)_

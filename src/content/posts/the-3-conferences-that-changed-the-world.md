@@ -1,0 +1,82 @@
+---
+title: "The 3 Conferences that Changed the World\" . . ."
+slug: "the-3-conferences-that-changed-the-world"
+date: 2021-05-09
+type: post
+status: published
+tags: ["faith", "constant-contact-archive"]
+abstract: "Dartmouth 1956 . . . Solvay 1927 . . . Endicott House 1981 I generally don't like attending conferences . . . but how about these 3?!!! . . ."
+license: CC-BY-4.0
+original_source: "Constant Contact campaign"
+---
+
+Dartmouth 1956 . . . Solvay 1927 . . . Endicott House 1981
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-01.gif)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-02.gif)
+
+I generally don't like attending conferences . . . but how about these 3?!!!
+
+. . . the resulting impact from these 3 conferences is what is driving our thinking and development most at EnviroAI--and our ongoing effort to build a quantum AI environmental protection system.
+
+The 3 Greatest Conferences of All Time
+
+(in no particular order)
+
+﻿Dartmouth 1956 (AI)
+
+[Read More](http://r20.rs6.net/tn.jsp?f=001uDrjJQG0EthVDNpk-Ki2UagXu5FAxGujDVnmCLNfaCj3VDpbGG3w1XcHM8EyasJJ6PZxoTzBBv01Tz-4Qjk_ptj9nq4kmdNo_Zye3M6mARF9fMl0wSko1QlKN0Fs5XNd2Rrg2vHbURPL6sCjjY_jLk9rirCI0waB0cCxibQBy1mS3HnDtC5v3hDiMi35yE70HG_wvrKcUqLN3Cu8dfqk7ME2LMrQyvmp9aEM10hoa9B6shRh-V6Ozs95dGirNknWkIeCRFGQIAqGCHiUwUqRYvCOKW6YExNr&c=&ch=)
+
+[![](/images/posts/the-3-conferences-that-changed-the-world/img-03.jpg)](http://r20.rs6.net/tn.jsp?f=001uDrjJQG0EthVDNpk-Ki2UagXu5FAxGujDVnmCLNfaCj3VDpbGG3w1XcHM8EyasJJMkYpuRfGScqKthfqkawxeNppmTSpLbvFsfKRwb-fHuOHPHkTpOuPF0JOuSHkoszPlI_sF_kOoW_IydqgveztwoaLfigmBbARSs5sySKXovtBZDCwob2fIQ==&c=&ch=)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-04.gif)
+
+Solvay 1927 (Quantum)
+
+[Read More](http://r20.rs6.net/tn.jsp?f=001uDrjJQG0EthVDNpk-Ki2UagXu5FAxGujDVnmCLNfaCj3VDpbGG3w1XcHM8EyasJJV_DCfRvg-ookaK0t1xzpbxu96Pn9o_pd5l92Zs4d-KnnWJDLY79cJihiEYtNA0_fejcIP-rEIMS2i3wciMx-gLfl01RM4L0QUDDPinkGJHfRpYUD0Ebw5-iCjZj6mp5G48q-EJsEOMQRBxbuJfaVfMe2Ojr1fYokzzDUd2l_HtHxm3XJYS0e7YyMvUCAThI_CutZvixvsuE6a7VdTSVHX2LP-8AH4GpG7KNCXUOP_s6Iu31hXvlzKzpLp4m3AlUwF2WyvbkdtZH5G_dFxalNef30ErCl3qTsKqi93m6T0zJROOttKrjWfys11_SG6VcpwspTQkbEgiHKbqAFlUa_8saLVVpSo1Sr-NbVnUHWm4ozBx_3fsKM7bv76B1A3z2VoSTMrGZ8bSjhtksf5nlavVfTpUw27xn4sOpwftFuOlI=&c=&ch=)
+
+[![](/images/posts/the-3-conferences-that-changed-the-world/img-05.jpg)](http://r20.rs6.net/tn.jsp?f=001uDrjJQG0EthVDNpk-Ki2UagXu5FAxGujDVnmCLNfaCj3VDpbGG3w1XcHM8EyasJJhvTR2rzP2qcHlbFqiR5UBmanu5Fpi36EjhneH_ussBVfN7XmbzliKZVs2wo4MWq7jGzma4oYyf1KPsFM-bJiMNN-WsE2kVq4doZ5ZqU5wQZa2p3rLK1tBQ==&c=&ch=)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-06.gif)
+
+Endicott House 1981 (Quantum Computing)
+
+[Read More](http://r20.rs6.net/tn.jsp?f=001uDrjJQG0EthVDNpk-Ki2UagXu5FAxGujDVnmCLNfaCj3VDpbGG3w1XcHM8EyasJJQ3eEp9ezaXrAobvmYMFxWQ1GA9SMQStkshXAig6MyRJqqUp0l9b_zgDr0C6XvmEwLGyBinSB8TOoz86WHpnly1xGGneHSmda5prC77a4hEylqYhFwhORTsKGdfHxnxDsy8EyAy9xsZlbBsI1_gjvNTulQs_3MRlvE-trHRTyMXM=&c=&ch=)
+
+[![](/images/posts/the-3-conferences-that-changed-the-world/img-07.png)](http://r20.rs6.net/tn.jsp?f=001uDrjJQG0EthVDNpk-Ki2UagXu5FAxGujDVnmCLNfaCj3VDpbGG3w1XcHM8EyasJJDt4jqPp6Vv1w_MOqvpbfiitOQ2OZNulitopJ1kskInvcEg2-1OJpnKNNAaPns1xGwgis0X91McJ-g4GOqUbK2Ni4S4MgyDcuuxT3n7_HDdbEH0X_8O0kv6hw3JRZp9fK&c=&ch=)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-08.gif)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-09.gif)
+
+I wanted to especially highlight this last conference. It was entitled "The Physics of Computation Conference". Noted attendees included Richard Feynman and John Wheeler. It was the first time a group of computer scientists and physicists met to discuss the strangely discovered potential power in the intersection of their fields--and the first time the word "quantum computing" was uttered.
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-10.gif)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-11.gif)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-12.png)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-13.gif)
+![](/images/posts/the-3-conferences-that-changed-the-world/img-14.gif)
+
+--"Nature is computing."
+
+--"Classical computing is really just an anthropocentric version of quantum computing."
+
+--"The universe is not focused on how people compute. It has its own means of computing. We must learn and use nature's means of computing--which at a more fundamental level is quantum based."
+
+- Jed Anderson, CEO, EnviroAI
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-15.gif)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-16.png)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-17.gif)
+
+[Contact Us](mailto:jed@enviro.ai)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-18.gif)
+
+![](/images/posts/the-3-conferences-that-changed-the-world/img-19.gif)

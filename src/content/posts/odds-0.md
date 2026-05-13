@@ -3,18 +3,160 @@ title: "Odds = 0%"
 slug: "odds-0"
 date: 2021-11-06
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | \"The odds of humanity surviving without AI is 0%.\"---NASA rocket all fueled and ready for November 25th launch--Double Asteroid Redirection Test Mission----Autonomous SMART Nav (Small-bo…"
+abstract: "\"The odds of humanity surviving without AI is 0%.\"---NASA rocket all fueled and ready for November 25th launch--Double Asteroid Redirection Test Mission----Autonomous SMART Nav (Small-body Maneuvering…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| "The odds of humanity surviving without AI is 0%."---NASA rocket all fueled and ready for November 25th launch--Double Asteroid Redirection Test Mission----Autonomous SMART Nav (Small-body Maneuvering Autonomous Real-Time Navigation) System |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | Is this image below one of the most incredible picture's you've ever seen??? | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | Human's 1st asteroid defense mission is now fueled and ready for launch [November 23rd](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TpAjRpIzPpBMtwpvzm2JAeV6XCG7GojNFCsVVynDU0qfAXWLvDMYNd37TilLTKwfrEpDDsYQM1m4HU6swRbw08TACbZs81baIR88eTCCDA-L8QrUuKyW05mL62O59gfoDFN0KjVtO8YR1Wf3ooUPnKkp4T5yKFM27H0IMXM3-c_gtb9u5QPr6UQ==&c=&ch=)! | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  ----“It is simply a statement of fact. The Romans could have had the telephone; the Greeks could have had the cinema; the Babylonians could have had the automobile—had they been mentally ready. The laws of nature were the same in those ages as in ours, the same materials were in the ground—but the minds of the Ancients were not ready for those things, and so they had to go without them.” ― Emmet Fox | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | ﻿---"Our intelligence is nature's hope. Humans appear to be nature's ultimate defense mechanism."  - Jed Anderson, EnviroAI | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | You can read here about the artificial intelligence and [machine learning systems](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TiBrG58szu-Mf5lfS-IY6slrbrp71-RVUQ8TSEKItFSGFl--ZEs0rdtVlrdaQldiqSVWxuOs0GwHok5W7nXK2xD8UxOtVotNEudKeyokswQFeRI4YRs3S0UN0du_W7ICkhsQFenIcMOofoOYv0q93CTSyeBxAXc_1tvt_1eMIOHE_GDZ1hEJLKw==&c=&ch=) in the [autonomous navigation software SMART Nav](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TF4l5t0shgXr78veAqyxO-1Dy8_kVtSNc9sbYMHC7t5ojUXpgJiJFb0TY0wPnqp5LdwQI4rHdbqR1ckmCq-tkSPSND4TwjlBNdGgV-eFqm9QTTYGqVQmaN0ka1Sr851oudfZYLyfRsVzPBoNVqWkoqb2EuT3kVm79PVsI6IMUjKc=&c=&ch=) (Small-body Maneuvering Autonomous Real-Time Navigation) [onboard DART](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1T6t6tJWAcfquHjEEqw0MeRbgcOhup9k17DmrlHnMKkFr8nV-RL4y-sOM6vrNvXVOfVyC-bEJXHC8C3yp5h8nByIvUnwYe3EvEB22geENIBeE4b3tr3uZljvmlCeEBVRN3Avc6nKS8cezXnoREIF8S17me5RaP2hfR-SEZRNYHow8LkSeKAhKdi9HaJEcPesemNU0KqSauPRh6PIEeqElqYg==&c=&ch=). | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | ----"Yes . . . AI can destroy us. I realize this more everyday as a developer of AI. And we must be careful. But without AI, humans and nature literally have no chance at long-term survival. None. Zilch. Nada. The most dangerous course for human civilization therefore is to fall into fear and dystopia and not move forward without as much courage, speed, and energy as possible. Nature gave us initial intelligence for a reason. We must further develop it to save her." - Jed Anderson, EnviroAI | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | ---"Artificial intelligence: . . . the odds of us surviving with it I would currently put at 30%. The odds of us surviving with out it . . . 0%."  - Jed Anderson, EnviroAI | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  ----"In a battle, or in mountain climbing, there is often one thing which it takes a lot of pluck to do; but it is also, in the long run, the safest thing to do. If you funk it, you will find yourself, hours later, in far worse danger. The cowardly thing is also the most dangerous thing."  —[C. S. Lewis](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TK1NiweDcze35JDFd3TueUzEs0zOspgGXEB775y1ZrCkLNXGnSK5jB4yatIyYdjSqvO7INsQwoSYGbatf75_uhrlmza3Rynx5a1uBv2q_7UNqB7qHXgb7jA==&c=&ch=). Mere Christianity | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | NASA's launch [on November 23rd!](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUVzNh1u_vSvr06bpNgpH_q6kquBhQNhGPUK5pdDmhLveYQomEX6zLjrcQ-GUy7z12CpkNPvZbWqPQNOND2NjFDtdieyd8fEtIegXG1xr0ix463O0FIEA_X-mx9onLv2D3MefB25kUp0UIQ0kuCnukcFbgzT48pSwd56vh47VSxZKfJYN7uSTGus=&c=&ch=). . . | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  I've written extensively over the last several years on the epiphany I had that the evolution of human intelligence might be earth's defense mechanism . . . that nature designed us in part to save her . . . that we are her ultimate survival mechanism (see example email below).  NASA next month will launch the ["DART Mission"](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUVzNh1u_vSvrlUXEzmdLpbX3Qjs57u50WtBCwfUK-TkxnbCZ0Eo7OOHBeuDGOUhaNDd0hF8rknPyIlSMqHd-Od7XzwN9oxmVCEI3Kjhcd66fejjmonClrpY=&c=&ch=) to crash a spacecraft into an asteroid. This will be NASA's first test of its 'planetary defense system'. It will be the first time in history that a celestial body moving through the heavens will be altered by intelligent beings (to our knowledge). | |  |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  | | --- | --- | | |  | | --- | | Protecting the Fate of Nature . . .  Human beings.  ---"Our intelligence is nature's hope. Humans appear to be nature's ultimate defense mechanism."- Jed Anderson, EnviroAI  Meteors hit earth.  It’s never a question of if. It’s always a question of when. Nothing to fear. But on average, a collision with a 5 km object happens once every 20 million years. The last impact was 66 million years ago. That meteor knocked out ¾ of earth’s plant and animal species.  Humans have been hard on earth . . . but meteors have been much harder. And a meteor 60 miles wide knocks out the whole earth.  ﻿ | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | f If you are nature . . . which would you prefer?  Option #1: Humans hurting me as they evolve and develop technology that might save me from a meteor that will destroy 75% of me.  Option #2: No human technology. Just let me get hit by the meteor.  . . . If I’m nature . . .I prefer Option #1. Minimize the learning pain, but I like Option #1!!! | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | Email from earlier this year. | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | By 2050 . . .  human technology will evolve to the point where we are not only protecting nature from humans, but protecting nature from nature.  ---"Humans are not the only forces in the world that can harm nature."  As ironic as it might sound, the evolution of humans and human technology will likely prove to be the reason nature survives for as long as she will. In other words, without humans showing up on earth and beginning with our very crude and harmful technology to the earth, nature might not have survived for as long as she will in the first place. Paradoxical. Redemptive. Transcendent. Humans evolving to save nature--not the other way around. That's a story-line that only God could write. | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | Now humans are heading into . . .  The Environmental Renaissance  Humans are moving from a focus on environmental protection to environmental enhancement | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | | | | | | |
-|  |
+"The odds of humanity surviving without AI is 0%."---NASA rocket all fueled and ready for November 25th launch--Double Asteroid Redirection Test Mission----Autonomous SMART Nav (Small-body Maneuvering Autonomous Real-Time Navigation) System
 
-|  |
-|  |
+![](/images/posts/odds-0/img-01.png)
+
+![](/images/posts/odds-0/img-02.gif)
+
+Is this image below one of the most incredible picture's you've ever seen???
+
+![](/images/posts/odds-0/img-03.jpg)
+
+Human's 1st asteroid defense mission is now fueled and ready for launch [November 23rd](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TpAjRpIzPpBMtwpvzm2JAeV6XCG7GojNFCsVVynDU0qfAXWLvDMYNd37TilLTKwfrEpDDsYQM1m4HU6swRbw08TACbZs81baIR88eTCCDA-L8QrUuKyW05mL62O59gfoDFN0KjVtO8YR1Wf3ooUPnKkp4T5yKFM27H0IMXM3-c_gtb9u5QPr6UQ==&c=&ch=)!
+
+![](/images/posts/odds-0/img-04.jpg)
+
+[![](/images/posts/odds-0/img-05.jpg)](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TpAjRpIzPpBMtwpvzm2JAeV6XCG7GojNFCsVVynDU0qfAXWLvDMYNd37TilLTKwfrEpDDsYQM1m4HU6swRbw08TACbZs81baIR88eTCCDA-L8QrUuKyW05mL62O59gfoDFN0KjVtO8YR1Wf3ooUPnKkp4T5yKFM27H0IMXM3-c_gtb9u5QPr6UQ==&c=&ch=)
+
+![](/images/posts/odds-0/img-06.gif)
+
+![](/images/posts/odds-0/img-07.gif)
+
+![](/images/posts/odds-0/img-08.jpg)
+
+![](/images/posts/odds-0/img-09.gif)
+![](/images/posts/odds-0/img-10.gif)
+
+----“It is simply a statement of fact. The Romans could have had the telephone; the Greeks could have had the cinema; the Babylonians could have had the automobile—had they been mentally ready. The laws of nature were the same in those ages as in ours, the same materials were in the ground—but the minds of the Ancients were not ready for those things, and so they had to go without them.” ― Emmet Fox
+
+![](/images/posts/odds-0/img-11.gif)
+
+[![](/images/posts/odds-0/img-12.jpg)](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TpAjRpIzPpBMtwpvzm2JAeV6XCG7GojNFCsVVynDU0qfAXWLvDMYNd37TilLTKwfrEpDDsYQM1m4HU6swRbw08TACbZs81baIR88eTCCDA-L8QrUuKyW05mL62O59gfoDFN0KjVtO8YR1Wf3ooUPnKkp4T5yKFM27H0IMXM3-c_gtb9u5QPr6UQ==&c=&ch=)
+
+﻿---"Our intelligence is nature's hope. Humans appear to be nature's ultimate defense mechanism."
+
+- Jed Anderson, EnviroAI
+
+![](/images/posts/odds-0/img-13.jpg)
+
+You can read here about the artificial intelligence and [machine learning systems](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TiBrG58szu-Mf5lfS-IY6slrbrp71-RVUQ8TSEKItFSGFl--ZEs0rdtVlrdaQldiqSVWxuOs0GwHok5W7nXK2xD8UxOtVotNEudKeyokswQFeRI4YRs3S0UN0du_W7ICkhsQFenIcMOofoOYv0q93CTSyeBxAXc_1tvt_1eMIOHE_GDZ1hEJLKw==&c=&ch=) in the [autonomous navigation software SMART Nav](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TF4l5t0shgXr78veAqyxO-1Dy8_kVtSNc9sbYMHC7t5ojUXpgJiJFb0TY0wPnqp5LdwQI4rHdbqR1ckmCq-tkSPSND4TwjlBNdGgV-eFqm9QTTYGqVQmaN0ka1Sr851oudfZYLyfRsVzPBoNVqWkoqb2EuT3kVm79PVsI6IMUjKc=&c=&ch=) (Small-body Maneuvering Autonomous Real-Time Navigation) [onboard DART](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1T6t6tJWAcfquHjEEqw0MeRbgcOhup9k17DmrlHnMKkFr8nV-RL4y-sOM6vrNvXVOfVyC-bEJXHC8C3yp5h8nByIvUnwYe3EvEB22geENIBeE4b3tr3uZljvmlCeEBVRN3Avc6nKS8cezXnoREIF8S17me5RaP2hfR-SEZRNYHow8LkSeKAhKdi9HaJEcPesemNU0KqSauPRh6PIEeqElqYg==&c=&ch=).
+
+![](/images/posts/odds-0/img-14.gif)
+
+----"Yes . . . AI can destroy us. I realize this more everyday as a developer of AI. And we must be careful. But without AI, humans and nature literally have no chance at long-term survival. None. Zilch. Nada. The most dangerous course for human civilization therefore is to fall into fear and dystopia and not move forward without as much courage, speed, and energy as possible. Nature gave us initial intelligence for a reason. We must further develop it to save her." - Jed Anderson, EnviroAI
+
+![](/images/posts/odds-0/img-15.png)
+
+![](/images/posts/odds-0/img-16.png)
+
+---"Artificial intelligence: . . . the odds of us surviving with it I would currently put at 30%. The odds of us surviving with out it . . . 0%."
+
+- Jed Anderson, EnviroAI
+
+![](/images/posts/odds-0/img-17.gif)
+
+![](/images/posts/odds-0/img-18.gif)
+
+![](/images/posts/odds-0/img-19.jpg)
+
+![](/images/posts/odds-0/img-20.gif)
+![](/images/posts/odds-0/img-21.gif)
+
+----"In a battle, or in mountain climbing, there is often one thing which it takes a lot of pluck to do; but it is also, in the long run, the safest thing to do. If you funk it, you will find yourself, hours later, in far worse danger. The cowardly thing is also the most dangerous thing."
+
+—[C. S. Lewis](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TK1NiweDcze35JDFd3TueUzEs0zOspgGXEB775y1ZrCkLNXGnSK5jB4yatIyYdjSqvO7INsQwoSYGbatf75_uhrlmza3Rynx5a1uBv2q_7UNqB7qHXgb7jA==&c=&ch=). Mere Christianity
+
+![](/images/posts/odds-0/img-22.gif)
+
+NASA's launch [on November 23rd!](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUVzNh1u_vSvr06bpNgpH_q6kquBhQNhGPUK5pdDmhLveYQomEX6zLjrcQ-GUy7z12CpkNPvZbWqPQNOND2NjFDtdieyd8fEtIegXG1xr0ix463O0FIEA_X-mx9onLv2D3MefB25kUp0UIQ0kuCnukcFbgzT48pSwd56vh47VSxZKfJYN7uSTGus=&c=&ch=). . .
+
+[![](/images/posts/odds-0/img-23.png)](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUVzNh1u_vSvrlUXEzmdLpbX3Qjs57u50WtBCwfUK-TkxnbCZ0Eo7OOHBeuDGOUhaNDd0hF8rknPyIlSMqHd-Od7XzwN9oxmVCEI3Kjhcd66fejjmonClrpY=&c=&ch=)
+
+![](/images/posts/odds-0/img-24.gif)
+
+![](/images/posts/odds-0/img-25.gif)
+
+![](/images/posts/odds-0/img-26.png)
+
+![](/images/posts/odds-0/img-27.gif)
+![](/images/posts/odds-0/img-28.gif)
+
+I've written extensively over the last several years on the epiphany I had that the evolution of human intelligence might be earth's defense mechanism . . . that nature designed us in part to save her . . . that we are her ultimate survival mechanism (see example email below).
+
+NASA next month will launch the ["DART Mission"](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUVzNh1u_vSvrlUXEzmdLpbX3Qjs57u50WtBCwfUK-TkxnbCZ0Eo7OOHBeuDGOUhaNDd0hF8rknPyIlSMqHd-Od7XzwN9oxmVCEI3Kjhcd66fejjmonClrpY=&c=&ch=) to crash a spacecraft into an asteroid. This will be NASA's first test of its 'planetary defense system'. It will be the first time in history that a celestial body moving through the heavens will be altered by intelligent beings (to our knowledge).
+
+‌
+
+Protecting the Fate of Nature . . .
+
+Human beings.
+
+---"Our intelligence is nature's hope. Humans appear to be nature's ultimate defense mechanism."- Jed Anderson, EnviroAI
+
+Meteors hit earth.  It’s never a question of if. It’s always a question of when. Nothing to fear. But on average, a collision with a 5 km object happens once every 20 million years. The last impact was 66 million years ago. That meteor knocked out ¾ of earth’s plant and animal species.
+
+Humans have been hard on earth . . . but meteors have been much harder. And a meteor 60 miles wide knocks out the whole earth.
+
+﻿
+
+![](/images/posts/odds-0/img-29.gif)
+
+[![](/images/posts/odds-0/img-30.png)](https://r20.rs6.net/tn.jsp?f=001b4rWoRM1iwdHJIe-yz4gsrR83UIJc2u5Pe4Vnr2MMitz0cnVefaiUQRBqeGOEg1TwAQdNbxYXpXQz9gkTTwwm7r2tSLw7l3yHMgxYAIo10zD2lo48W_z5yR_9pdPLq6Pm_dyGWB5J9pQukMDYibU4hjoho7eLIRhJ8846W37OhSBg8C4mdG0mg==&c=&ch=)
+
+![](/images/posts/odds-0/img-31.gif)
+
+f If you are nature . . . which would you prefer?
+
+Option #1: Humans hurting me as they evolve and develop technology that might save me from a meteor that will destroy 75% of me.
+
+Option #2: No human technology. Just let me get hit by the meteor.
+
+. . . If I’m nature . . .I prefer Option #1. Minimize the learning pain, but I like Option #1!!!
+
+![](/images/posts/odds-0/img-32.gif)
+
+Email from earlier this year.
+
+![](/images/posts/odds-0/img-33.gif)
+
+By 2050 . . .
+
+human technology will evolve to the point where we are not only protecting nature from humans, but protecting nature from nature.
+
+---"Humans are not the only forces in the world that can harm nature."
+
+As ironic as it might sound, the evolution of humans and human technology will likely prove to be the reason nature survives for as long as she will. In other words, without humans showing up on earth and beginning with our very crude and harmful technology to the earth, nature might not have survived for as long as she will in the first place. Paradoxical. Redemptive. Transcendent. Humans evolving to save nature--not the other way around. That's a story-line that only God could write.
+
+![](/images/posts/odds-0/img-34.gif)
+
+![](/images/posts/odds-0/img-35.gif)
+
+![](/images/posts/odds-0/img-36.gif)
+
+![](/images/posts/odds-0/img-37.gif)
+
+![](/images/posts/odds-0/img-38.png)
+
+![](/images/posts/odds-0/img-39.gif)
+
+Now humans are heading into . . .
+
+The Environmental Renaissance
+
+Humans are moving from a focus on environmental protection to environmental enhancement
+
+![](/images/posts/odds-0/img-40.png)
+
+![](/images/posts/odds-0/img-41.gif)
+
+![](/images/posts/odds-0/img-42.png)
+
+![](/images/posts/odds-0/img-43.gif)

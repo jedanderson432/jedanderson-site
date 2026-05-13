@@ -23,6 +23,13 @@ scripts/_*.txt
 scripts/_*.md
 scripts/_*.json
 
+# Python bytecode
+scripts/__pycache__/
+
+# Per-run log + stats from extract-cc-emails.py
+scripts/extract-cc-emails.log
+scripts/cc-ingest-stats.json
+
 # Logs
 npm-debug.log*
 yarn-debug.log*

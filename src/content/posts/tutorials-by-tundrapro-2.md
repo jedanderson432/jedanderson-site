@@ -5,13 +5,10 @@ date: 2023-03-03
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "How to reduce regulatory burden, cost, and risk . . . | | | |"
+abstract: "Tutorials by TundraPro"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "dedup:title+date matches tutorials-by-tundrapro"
 ---
 
-How to reduce regulatory burden, cost, and risk . . .
-
- |  |
-|  |
+_(duplicate of tutorials-by-tundrapro)_

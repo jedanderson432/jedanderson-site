@@ -5,13 +5,10 @@ date: 2022-10-06
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "Our goal is to . . . | | | |"
+abstract: "Our goal is to . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_4_words"
 ---
 
 Our goal is to . . .
-
- |  |
-|  |

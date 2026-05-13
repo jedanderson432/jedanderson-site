@@ -5,13 +5,10 @@ date: 2022-09-23
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "\"COOL\" in . . . Swahili . . . French . . . German . . . Japanese . . . Spanish . . . | | | |"
+abstract: "\"COOL\" in . . . Swahili . . . French . . . German . . . Japanese . . . Spanish . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_7_words"
 ---
 
 "COOL" in . . . Swahili . . . French . . . German . . . Japanese . . . Spanish . . .
-
- |  |
-|  |

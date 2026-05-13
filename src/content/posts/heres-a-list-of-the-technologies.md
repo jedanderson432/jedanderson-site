@@ -5,13 +5,10 @@ date: 2023-01-05
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: ". . . building a \"machine\" to protect the environment | | | |"
+abstract: ". . . building a \"machine\" to protect the environment"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_7_words"
 ---
 
 . . . building a "machine" to protect the environment
-
- |  |
-|  |

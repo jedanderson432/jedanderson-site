@@ -3,19 +3,33 @@ title: "#1 Search Engine . . ."
 slug: "1-search-engine"
 date: 2021-07-29
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | . . . to Save Earth!"
+abstract: ". . . to Save Earth!"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-
 ---
 
-|  |
-| --- |
-| . . . to Save Earth! |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  |  | |  |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | What does it mean  to be a search engine  that can help save the world? | |  |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | [VIEW](https://r20.rs6.net/tn.jsp?f=0017nSVtG9_NEDs8nHZ2-fyZO5cLK9AIUj9hze2g_KSkn4jAVVzcKXWwC7hCMs4DPS2S1EYfyFr_qYTMF8jTHH7XtUcmWE9UKK_EDvQUggeU_-h2IoA1sM69F43fw_kFCz1Oo5lTULyz9mBxvpbuOUS4w==&c=&ch=) | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+. . . to Save Earth!
 
-|  |
-|  |
+![](/images/posts/1-search-engine/img-01.gif)
+
+[![](/images/posts/1-search-engine/img-02.png)](https://r20.rs6.net/tn.jsp?f=0017nSVtG9_NEDs8nHZ2-fyZO5cLK9AIUj9hze2g_KSkn4jAVVzcKXWwC7hCMs4DPS2S1EYfyFr_qYTMF8jTHH7XtUcmWE9UKK_EDvQUggeU_-h2IoA1sM69F43fw_kFCz1Oo5lTULyz9mBxvpbuOUS4w==&c=&ch=)
+
+![](/images/posts/1-search-engine/img-03.gif)
+
+What does it mean
+
+to be a search engine
+
+that can help save the world?
+
+‌
+
+[VIEW](https://r20.rs6.net/tn.jsp?f=0017nSVtG9_NEDs8nHZ2-fyZO5cLK9AIUj9hze2g_KSkn4jAVVzcKXWwC7hCMs4DPS2S1EYfyFr_qYTMF8jTHH7XtUcmWE9UKK_EDvQUggeU_-h2IoA1sM69F43fw_kFCz1Oo5lTULyz9mBxvpbuOUS4w==&c=&ch=)
+
+![](/images/posts/1-search-engine/img-04.gif)
+
+![](/images/posts/1-search-engine/img-05.gif)
+
+![](/images/posts/1-search-engine/img-06.gif)

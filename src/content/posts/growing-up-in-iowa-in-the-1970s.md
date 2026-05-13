@@ -3,18 +3,43 @@ title: "Growing up in Iowa in the 1970's . . ."
 slug: "growing-up-in-iowa-in-the-1970s"
 date: 2021-06-15
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | no one told me about quantum physics."
+abstract: "no one told me about quantum physics. ---\"I wish I was taught the basic principles of quantum physics back in elementary school.\" Imagine dying and not knowing that the world was round."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| no one told me about quantum physics. ---"I wish I was taught the basic principles of quantum physics back in elementary school." |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  |  |  |  | | --- | --- | | |  | | --- | | Imagine dying and not knowing that the world was round.  You will not want to leave this world without knowing quantum physics. You won't understand it. But you will grasp it. And it will change you.  ﻿  ---"Truth is truth, whether we perceive it or not." - George MacDonald | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | | ‌ | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | Everything we call real is made of things that cannot be regarded as real.”--Niels Bohr  "Those who are not shocked when they first come across quantum theory cannot possibly have understood it.”--Niels Bohr  “If you are not completely confused by quantum mechanics, you do not understand it.” --John Wheeler  “I do not like [quantum mechanics], and I am sorry I ever had anything to do with it.”--Erwin Schrödinger  “Quantum mechanics makes absolutely no sense.”--Roger Penrose  ﻿“It is safe to say that nobody understands quantum mechanics.”--Richard Feynman | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | [Harnessing Quantum Tech & Artificial Intelligence to Protect the Environment (click here)](https://r20.rs6.net/tn.jsp?f=001mF9qXICb32NiwIyJ16QDj05wZll2xcJMMolbp-VqkersxAw91nep8qnagZvTVM0S9KRSBPRASXw6bhivshu_M6Olt0c5ZOgIRI4BX4aiMDM8E1Z_dkuREIrIJzbcS2aA8kFJOxcsln3d6Prlfxp3l7bfOOKdeolfIgGG7EbqDyJAvr9DMGIkOVAH7GXV67oaSf_7TszM6i_Jm9G-P_ODFnn9UMG0wwsjQ5ISFVR-ask=&c=&ch=) | | | |  |  |  | | --- | --- | | |  | | --- | | I can recommend many books, lectures, and videos on quantum physics and quantum technologies, but I would start with these three: 1. [Google/Nasa Video](https://r20.rs6.net/tn.jsp?f=001mF9qXICb32NiwIyJ16QDj05wZll2xcJMMolbp-VqkersxAw91nep8qnagZvTVM0SOTlJbyKHbKjhB2iCCg7cQUByCrOaobWcTAG1qv5a5ju3YpXVgeVoboo1kL4uiTlpqsC4xfDHqCBzLchL7mdDoQxGR2rmc5ug9OAWdDfrTglt08sraQHHHg==&c=&ch=) 2. [Nova Video](https://r20.rs6.net/tn.jsp?f=001mF9qXICb32NiwIyJ16QDj05wZll2xcJMMolbp-VqkersxAw91nep8lqNCLCIlKYC3OgZ33W_lCnWcPw5SVAdqcQodsiZK4nRsZ8kCfum_pFVoj5c9Yy2RiqGovXyNRBUiXBPtIPRLFmAaLtNFxXowhZDmgBuns6Ca7uwm-eCo_szH-O-U-Bh32mtKpXcAgR7xYWuOSSYOuw=&c=&ch=) 3. [PBS Video](https://r20.rs6.net/tn.jsp?f=001mF9qXICb32NiwIyJ16QDj05wZll2xcJMMolbp-VqkersxAw91nep8qdmGl09_aLo1LlO0LcLIAK-z1THLVWrJlp1PROuIFcFBm5y-5pT4cDkNNka8MzZmiOahgG0y6Z1xM-h4bfly-xrdP-o-hMPkgiXSWmvI9nUCOA8W8eifMHt5WwxcbBL0eHNVN98OWyu-fcg9Z8iOb2iwXUPiYnCxw==&c=&ch=). It will make you extremely excited about the upcoming thrills of quantum computing. | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+no one told me about quantum physics. ---"I wish I was taught the basic principles of quantum physics back in elementary school."
 
-|  |
-|  |
+Imagine dying and not knowing that the world was round.
+
+You will not want to leave this world without knowing quantum physics. You won't understand it. But you will grasp it. And it will change you.
+
+﻿
+
+---"Truth is truth, whether we perceive it or not." - George MacDonald
+
+‌
+
+![](/images/posts/growing-up-in-iowa-in-the-1970s/img-01.gif)
+
+Everything we call real is made of things that cannot be regarded as real.”--Niels Bohr
+
+"Those who are not shocked when they first come across quantum theory cannot possibly have understood it.”--Niels Bohr
+
+“If you are not completely confused by quantum mechanics, you do not understand it.” --John Wheeler
+
+“I do not like [quantum mechanics], and I am sorry I ever had anything to do with it.”--Erwin Schrödinger
+
+“Quantum mechanics makes absolutely no sense.”--Roger Penrose
+
+﻿“It is safe to say that nobody understands quantum mechanics.”--Richard Feynman
+
+![](/images/posts/growing-up-in-iowa-in-the-1970s/img-02.gif)
+
+[Harnessing Quantum Tech & Artificial Intelligence to Protect the Environment (click here)](https://r20.rs6.net/tn.jsp?f=001mF9qXICb32NiwIyJ16QDj05wZll2xcJMMolbp-VqkersxAw91nep8qnagZvTVM0S9KRSBPRASXw6bhivshu_M6Olt0c5ZOgIRI4BX4aiMDM8E1Z_dkuREIrIJzbcS2aA8kFJOxcsln3d6Prlfxp3l7bfOOKdeolfIgGG7EbqDyJAvr9DMGIkOVAH7GXV67oaSf_7TszM6i_Jm9G-P_ODFnn9UMG0wwsjQ5ISFVR-ask=&c=&ch=)
+
+I can recommend many books, lectures, and videos on quantum physics and quantum technologies, but I would start with these three: 1. [Google/Nasa Video](https://r20.rs6.net/tn.jsp?f=001mF9qXICb32NiwIyJ16QDj05wZll2xcJMMolbp-VqkersxAw91nep8qnagZvTVM0SOTlJbyKHbKjhB2iCCg7cQUByCrOaobWcTAG1qv5a5ju3YpXVgeVoboo1kL4uiTlpqsC4xfDHqCBzLchL7mdDoQxGR2rmc5ug9OAWdDfrTglt08sraQHHHg==&c=&ch=) 2. [Nova Video](https://r20.rs6.net/tn.jsp?f=001mF9qXICb32NiwIyJ16QDj05wZll2xcJMMolbp-VqkersxAw91nep8lqNCLCIlKYC3OgZ33W_lCnWcPw5SVAdqcQodsiZK4nRsZ8kCfum_pFVoj5c9Yy2RiqGovXyNRBUiXBPtIPRLFmAaLtNFxXowhZDmgBuns6Ca7uwm-eCo_szH-O-U-Bh32mtKpXcAgR7xYWuOSSYOuw=&c=&ch=) 3. [PBS Video](https://r20.rs6.net/tn.jsp?f=001mF9qXICb32NiwIyJ16QDj05wZll2xcJMMolbp-VqkersxAw91nep8qdmGl09_aLo1LlO0LcLIAK-z1THLVWrJlp1PROuIFcFBm5y-5pT4cDkNNka8MzZmiOahgG0y6Z1xM-h4bfly-xrdP-o-hMPkgiXSWmvI9nUCOA8W8eifMHt5WwxcbBL0eHNVN98OWyu-fcg9Z8iOb2iwXUPiYnCxw==&c=&ch=). It will make you extremely excited about the upcoming thrills of quantum computing.
+
+![](/images/posts/growing-up-in-iowa-in-the-1970s/img-03.gif)

@@ -1,0 +1,51 @@
+---
+title: "Bloomberg . . . \"The Green Companies Making Billionaires"
+slug: "bloomberg-the-green-companies-making-billionaires"
+date: 2021-02-12
+type: post
+status: published
+tags: ["faith", "constant-contact-archive"]
+abstract: "\"Going green is increasingly a way to make bank\"---Bloomberg ‌ Bloomberg article . . . \"The Green Companies Making Billionaires\" ﻿ . ."
+license: CC-BY-4.0
+original_source: "Constant Contact campaign"
+---
+
+"Going green is increasingly a way to make bank"---Bloomberg
+
+‌
+
+Bloomberg article . . . "[The Green Companies Making Billionaires](http://r20.rs6.net/tn.jsp?f=001_T4qw1afa5RrM0brJAjBGqM9_w4tUHhzuuySxYLRBBAmRoevsG-nXmUifQKcKdEPDgnekEARWLRBLbKsT_f5GzqclVeDV6X6wjKDhI1BCkS0wWqdeshn_kg2amRL_9AJUMrSa4D_DFtecDlFmF8vq2l6JWmCqK0aEaKnsZ9u66gb9BHMv9L6a0fwsAuIwlTRASeCXsJEueD8QSu8LPivh1PXwO58HVN1ebCEXNXBzkKczmMXXQEszZzj39ExWb-ol6-1EEd1RMI=&c=&ch=)["](http://r20.rs6.net/tn.jsp?f=001_T4qw1afa5RrM0brJAjBGqM9_w4tUHhzuuySxYLRBBAmRoevsG-nXmUifQKcKdEPDgnekEARWLRBLbKsT_f5GzqclVeDV6X6wjKDhI1BCkS0wWqdeshn_kg2amRL_9AJUMrSa4D_DFtecDlFmF8vq2l6JWmCqK0aEaKnsZ9u66gb9BHMv9L6a0fwsAuIwlTRASeCXsJEueD8QSu8LPivh1PXwO58HVN1ebCEXNXBzkKczmMXXQEszZzj39ExWb-ol6-1EEd1RMI=&c=&ch=)
+
+﻿
+
+![](/images/posts/bloomberg-the-green-companies-making-billionaires/img-01.gif)
+
+. . ."Going green is increasingly a way to make bank."
+
+---Bloomberg
+
+![](/images/posts/bloomberg-the-green-companies-making-billionaires/img-02.gif)
+
+THE ENVIRONMENTAL
+
+BILLIONAIRES
+
+CLUB
+
+![](/images/posts/bloomberg-the-green-companies-making-billionaires/img-03.gif)
+
+[![](/images/posts/bloomberg-the-green-companies-making-billionaires/img-04.png)](http://r20.rs6.net/tn.jsp?f=001_T4qw1afa5RrM0brJAjBGqM9_w4tUHhzuuySxYLRBBAmRoevsG-nXmUifQKcKdEPDgnekEARWLRBLbKsT_f5GzqclVeDV6X6wjKDhI1BCkS0wWqdeshn_kg2amRL_9AJUMrSa4D_DFtecDlFmF8vq2l6JWmCqK0aEaKnsZ9u66gb9BHMv9L6a0fwsAuIwlTRASeCXsJEueD8QSu8LPivh1PXwO58HVN1ebCEXNXBzkKczmMXXQEszZzj39ExWb-ol6-1EEd1RMI=&c=&ch=)
+
+![](/images/posts/bloomberg-the-green-companies-making-billionaires/img-05.png)
+
+---"I've got no interest in being a billionaire. But I need billions of dollars in working capital to achieve these environmental objectives. I will therefore make billions."
+
+- Jed Anderson, Environmental Entrepreneur
+
+[World's Largest Industrial Environmental Treatment Center](http://r20.rs6.net/tn.jsp?f=001_T4qw1afa5RrM0brJAjBGqM9_w4tUHhzuuySxYLRBBAmRoevsG-nXmW0-FE6G3S3zsl8ytdeWdaB8GxsiZzz0b16A7gaDXcFnoiKM6VLzuY1av26OD_CdyR6J1EYosdC8KpYQforiQeB64nHFshYgMh8vEMBn_UC0OfvJPh8NLdqCmOIv96l2c2hWjutXpGreVqvuf65vDlsoxnqyJ2rMl7kg-CKJMdxnlxrC5ukheY=&c=&ch=)
+
+[Earth Quantum AI Environmental Protection System](http://r20.rs6.net/tn.jsp?f=001_T4qw1afa5RrM0brJAjBGqM9_w4tUHhzuuySxYLRBBAmRoevsG-nXmUifQKcKdEP7t_MhBLzCqfOkSEs3XcwTWzYSkHUvq77af7tev25PCQhI3DUvpYsPoWfd2S-XX9Bu23ah5CCsG6_Hr-6JfqM3g==&c=&ch=)
+
+‌
+
+![](/images/posts/bloomberg-the-green-companies-making-billionaires/img-06.gif)

@@ -1,0 +1,128 @@
+---
+title: "It ain't just physical\" . . ."
+slug: "it-aint-just-physical"
+date: 2022-09-29
+type: post
+status: published
+tags: ["faith", "constant-contact-archive"]
+abstract: "‌ To more effectively protect the environment, we must move past our understanding of the environment as fundamentally and merely physical , , , ---\"Is the world fundamentally physical?\" - Jed Anderso…"
+license: CC-BY-4.0
+original_source: "Constant Contact campaign"
+---
+
+![](/images/posts/it-aint-just-physical/img-01.png)
+
+‌
+
+To more effectively protect the environment, we must move past our understanding of the environment as fundamentally and merely physical , , ,
+
+---"Is the world fundamentally physical?"
+
+- Jed Anderson, EnviroAI
+
+![](/images/posts/it-aint-just-physical/img-02.gif)
+
+﻿We now know that this is what the world more fundamentally "looks" like "below the surface" of things.
+
+![](/images/posts/it-aint-just-physical/img-03.gif)
+
+Yup. It doesn't really "look" like anything.
+
+It's not physical waves.
+
+It's not physical particles.
+
+IT'S A PROBABILITY WAVE FUNCTION.
+
+What causes the probability wave function to turn into the physical world around us . . . we don't know yet.
+
+The way it looks "underneath the surface" doesn't affect it's beauty on the surface in my opinion. It's still beautiful. In fact, I think it's more beautiful with this deeper understanding.
+
+DISCLAIMER: You cannot blame me if you don't like the way it more fundamentally "looks" "underneath the surface". I didn't make it this way. You can point that finger at God if you find it upsetting. And I didn't discover or prove it was this way. You can point that finger at Einstein, Bohr, Heisnberg, Schroedinger, de Broglie, Dirac, Maxwell, Planck, Bohm, Pauli, Bell, and Clauser. Personally I think it looks cooler. I like it. But it really doesn't matter whether I like it or not. My personal feeling or comfortability with truth doesn't define it. Truth will not adjust its perceptibility to my reality. I must adjust my perception of reality to truth. Truth is truth. It's just deeper truth.
+
+![](/images/posts/it-aint-just-physical/img-04.jpg)
+
+![](/images/posts/it-aint-just-physical/img-05.jpg)
+
+![](/images/posts/it-aint-just-physical/img-06.jpg)
+
+![](/images/posts/it-aint-just-physical/img-07.gif)
+
+MORE TRUTH IS ALWAYS GOOD
+
+. . . If you lived in the 1500's, would you tell your kids the world is flat? No.
+
+. . . If you lived in the 1800's, would you tell your kids the sun travels around the earth? No.
+
+. . . If you live in the 2020's, would you tell your kids that matter in and around them at the most fundamental level of our understanding is "physical"?
+
+![](/images/posts/it-aint-just-physical/img-08.gif)
+
+PHYSICS
+
+The continual iconoclastic evolution in our understanding of physics . . .
+
+- Aristotelian Physics (345 BC)
+- [Universe is made of 5 elements](https://r20.rs6.net/tn.jsp?f=001uHpNpTz3Ars5Xym_7wmbY9gdRgd5ZFUG92SAQAINR9rQyEN8WJ6RQbW8Uq2cqnS4YQ7r5ap0gnco1ZYdaJYTvnJuXLBjDFPp4Is-NpL4s6JwVUfbYZq-g-D8Y_M0k0E09ao6jv8lR1l5lpFHm-FxSN36wjKwsqUMQTjKhrdgCWA84R18qy926A==&c=&ch=): earth, air, fire, water, and aether. Objects have natural motions: those of earth and water tend to fall; those of air and fire, to rise.
+
+- Galilean Physics (1592)
+- Galileo determines first laws of motion by experimentation
+- Develops the concepts of: velocity, force, and inertia
+- natural state of motion is uniform motion or rest
+- objects fall at same rate regardless of mass
+
+- Keplerian Physics (1609)
+- ﻿Kepler produces first kinematic description of orbits
+- Each object moves in an elliptical orbit
+
+- Newtonian Physics ("Classical Physics" (1687)
+- Newton provides dynamical description of universe, using:
+
+1. acceleration
+2. momentum
+3. conservation laws
+
+[Jed description: Everything on an xyz axis in space-time]
+
+- Quantum Physics ("Modern Physics) (1931)
+- Particles are waves and vice-versa
+- Probability is all we ever know
+- Measurement determines reality
+
+[Jed description: Everything is probabilities]
+
+- \_\_\_\_\_\_? ("Post-Modern" Physics)(\_\_\_\_)
+
+![](/images/posts/it-aint-just-physical/img-09.jpg)
+
+COSMOLOGY
+
+The continual iconoclastic evolution in our cosmological understanding of the universe . . .
+
+- Our Earth is round not flat (this notion of a round earth is contrary to intuition and most of our everyday experience--i.e. over 1/2 of us are hanging upside on this thing) - 500 B.C. (Pythagorus) [Eratosthenes calculated circumference in 240 B.C. and of course Columbus didn't sail off the edge of the earth when he tried it almost 2000 years later]
+- Our Earth isn't the center of the universe[earth rotates around the sun] - 240 B.C. (Aristarchus) [Calculations by Copernicus in 1532 and astronomical observations by Galileo in 1632]
+- Our sun isn't the center of the universe[stars are other suns] - 450 B.C. (Anaxagoras) [Bruno in 1584 and then Angelo Secchi proved through spectroscopy in 1860]
+- Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925"The day we discovered the universe"]
+- Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_?
+
+![](/images/posts/it-aint-just-physical/img-10.jpg)
+
+![](/images/posts/it-aint-just-physical/img-11.jpg)
+
+![](/images/posts/it-aint-just-physical/img-12.jpg)
+
+![](/images/posts/it-aint-just-physical/img-13.jpg)
+
+![](/images/posts/it-aint-just-physical/img-14.jpg)
+
+![](/images/posts/it-aint-just-physical/img-15.jpg)
+
+﻿---"As usual, nature’s imagination far surpasses our own, as we have seen from the other theories which are subtle and deep." - Richard Feynman
+
+![](/images/posts/it-aint-just-physical/img-16.png)
+
+---"I think physics is about done with reductionism. It's taken us a long way, but the next jump in physics I think will unleash much higher levels in imaginative heuristics. And then look out universe! Here comes humanity!"- Jed Anderson
+
+![](/images/posts/it-aint-just-physical/img-17.gif)
+
+![](/images/posts/it-aint-just-physical/img-18.gif)

@@ -3,19 +3,29 @@ title: "Ready to think? . . . I mean really THINK???"
 slug: "ready-to-think-i-mean-really-think"
 date: 2022-01-25
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | 2 QUESTIONS that will alter the course of environmental history | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
+abstract: "2 QUESTIONS that will alter the course of environmental history ‌ The answers to these 2 questions will alter the course of environmental history. 1. Is pollution a wave or a particle? ﻿ 2."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-
 ---
 
-|  |
-| --- |
-| 2 QUESTIONS that will alter the course of environmental history |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  | | --- | --- | | |  | | --- | | The answers to these 2 questions will alter the course of environmental history. | |  |  | | --- | |  |  |  |  | | --- | --- | | |  | | --- | | 1. Is pollution a wave or a particle?  ﻿ | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | 2. Is pollution matter or information? | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  | | --- | |  | | | | | |
-|  |
+2 QUESTIONS that will alter the course of environmental history
 
-|  |
-|  |
+‌
+
+The answers to these 2 questions will alter the course of environmental history.
+
+1. Is pollution a wave or a particle?
+
+﻿
+
+![](/images/posts/ready-to-think-i-mean-really-think/img-01.gif)
+
+![](/images/posts/ready-to-think-i-mean-really-think/img-02.gif)
+
+2. Is pollution matter or information?
+
+![](/images/posts/ready-to-think-i-mean-really-think/img-03.gif)
+
+![](/images/posts/ready-to-think-i-mean-really-think/img-04.gif)

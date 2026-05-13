@@ -3,18 +3,67 @@ title: "When will I give up? . . ."
 slug: "when-will-i-give-up"
 date: 2021-06-19
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | Trying to Protect Earth | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
+abstract: "Trying to Protect Earth When will I quit? I'm often asked, especially by my family, \"When are you going to give up? . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| Trying to Protect Earth |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  |  |  |  | | --- | --- | | |  | | --- | | When will I quit? | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | I'm often asked, especially by my family, "When are you going to give up? . . . When are you going to stop bothering people about building a machine to protect earth?"  Two of my favorite parables in the Bible about being persistent enough that people decide it's easier to help you than ignore you:   - “Yet because this widow keeps bothering me, I will see that she gets justice, so that she won't eventually wear me out with her coming!"'  Luke 18: 1-8  - “I tell you, although he will not rise and give it to him because he is his friend, yet because of his persistence, he will get up and give him as many as he needs." Luke 11: 5-13 | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | ﻿Building a Machine to Protect Earth  using Artificial Intelligence and Quantum Tech | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | See "How-To" Guide: [slide-deck](https://r20.rs6.net/tn.jsp?f=001__54KmEyDlDhqUPh2nJswLz6p5yeJpfPp5m4QLNlQ_UHJhn0q7m0HEXQR_4mg4oRQdbLfvrFfhpvuZ4Z20CL3Z7CGWHLTuxylGp-Ly7yi6hCVWRm9fpO19TMH34DZZqoIhibwuCEuEKVOFWz2LjX9usp6banEtvDyxwGHf8kV1G95nbWnP54KvvU0FwSc4N8R4R2x9fH7b4amE5RJFErC0t-9hKZPGq-VihgpHqMzro=&c=&ch=) | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | - "You just can't beat the person who just won't give up." Babe Ruth  - "Never give in, never give in, never; never; never; never - in nothing, great or small, large or petty - never give in except to convictions of honor and good sense." Winston Churchill  - "Most people who succeed in the face of seemingly impossible conditions are people who simply don't know how to quit." Marilyn vos Savant  - "Never give up. And never, under any circumstances, face the facts." Ruth Gordon  - "Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine." Jack Ma  - "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all." Dale Carnegie  - “You may be the only person left who believes in you, but it's enough. It takes just one star to pierce a universe of darkness. Never give up.”Richelle E. Goodrich  - "The only one who can make you give up is yourself." Sidney Sheldon  - “It’s not that I’m so smart, it’s just that I stay with problems longer.” Albert Einstein  - “When you are going through hell, keep on going. Never never never give up.” Winston Churchill | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+Trying to Protect Earth
 
-|  |
-|  |
+When will I quit?
+
+![](/images/posts/when-will-i-give-up/img-01.gif)
+
+I'm often asked, especially by my family, "When are you going to give up? . . . When are you going to stop bothering people about building a machine to protect earth?"
+
+Two of my favorite parables in the Bible about being persistent enough that people decide it's easier to help you than ignore you:
+
+- “Yet because this widow keeps bothering me, I will see that she gets justice, so that she won't eventually wear me out with her coming!"'  Luke 18: 1-8
+
+- “I tell you, although he will not rise and give it to him because he is his friend, yet because of his persistence, he will get up and give him as many as he needs." Luke 11: 5-13
+
+![](/images/posts/when-will-i-give-up/img-02.gif)
+
+﻿Building a Machine to Protect Earth
+
+using Artificial Intelligence and Quantum Tech
+
+![](/images/posts/when-will-i-give-up/img-03.gif)
+
+![](/images/posts/when-will-i-give-up/img-04.gif)
+
+![](/images/posts/when-will-i-give-up/img-05.gif)
+
+See "How-To" Guide: [slide-deck](https://r20.rs6.net/tn.jsp?f=001__54KmEyDlDhqUPh2nJswLz6p5yeJpfPp5m4QLNlQ_UHJhn0q7m0HEXQR_4mg4oRQdbLfvrFfhpvuZ4Z20CL3Z7CGWHLTuxylGp-Ly7yi6hCVWRm9fpO19TMH34DZZqoIhibwuCEuEKVOFWz2LjX9usp6banEtvDyxwGHf8kV1G95nbWnP54KvvU0FwSc4N8R4R2x9fH7b4amE5RJFErC0t-9hKZPGq-VihgpHqMzro=&c=&ch=)
+
+![](/images/posts/when-will-i-give-up/img-06.gif)
+
+![](/images/posts/when-will-i-give-up/img-07.gif)
+
+![](/images/posts/when-will-i-give-up/img-08.png)
+
+![](/images/posts/when-will-i-give-up/img-09.gif)
+
+- "You just can't beat the person who just won't give up." Babe Ruth
+
+- "Never give in, never give in, never; never; never; never - in nothing, great or small, large or petty - never give in except to convictions of honor and good sense." Winston Churchill
+
+- "Most people who succeed in the face of seemingly impossible conditions are people who simply don't know how to quit." Marilyn vos Savant
+
+- "Never give up. And never, under any circumstances, face the facts." Ruth Gordon
+
+- "Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine." Jack Ma
+
+- "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all." Dale Carnegie
+
+- “You may be the only person left who believes in you, but it's enough. It takes just one star to pierce a universe of darkness. Never give up.”Richelle E. Goodrich
+
+- "The only one who can make you give up is yourself." Sidney Sheldon
+
+- “It’s not that I’m so smart, it’s just that I stay with problems longer.” Albert Einstein
+
+- “When you are going through hell, keep on going. Never never never give up.” Winston Churchill
+
+![](/images/posts/when-will-i-give-up/img-10.gif)

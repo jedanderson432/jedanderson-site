@@ -5,13 +5,10 @@ date: 2023-02-06
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "MINDBOGGLING ADVANCEMENTS HAPPENING!!!! Micrsoft . . . Google . . . ChatGPT . . . \"BingChat\" . . . GPT4 . . . DeepMind . . . Sparrow/LaMDA . . . Baidu's Ernie . . .\"TUNDRA-CHAT\" | | | |"
+abstract: ". . . writing permit applications . . . writing agency letters . . . writing reports . . . answering compliance questions . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-
+quarantine_reason: "dedup:title+date matches writing-permit-applications-writing-agency-letters-writing-reports-answering-com"
 ---
 
-MINDBOGGLING ADVANCEMENTS HAPPENING!!!! Micrsoft . . . Google . . . ChatGPT . . . "BingChat" . . . GPT4 . . . DeepMind . . . Sparrow/LaMDA . . . Baidu's Ernie . . ."TUNDRA-CHAT"
-
- |  |
-|  |
+_(duplicate of writing-permit-applications-writing-agency-letters-writing-reports-answering-com)_

@@ -5,13 +5,10 @@ date: 2023-06-04
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "my ultimate personal goal . . . | | | |"
+abstract: "My selfish goal . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "dedup:title+date matches my-selfish-goal"
 ---
 
-my ultimate personal goal . . .
-
- |  |
-|  |
+_(duplicate of my-selfish-goal)_

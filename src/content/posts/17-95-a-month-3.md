@@ -3,18 +3,53 @@ title: "$17.95 a month"
 slug: "17-95-a-month-3"
 date: 2020-08-15
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | Building a machine to help protect the environment . . ."
+abstract: "Building a machine to help protect the environment . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| Building a machine to help protect the environment . . . one commercialized application at a time--that's EnviroAI |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  Access [NOW](http://r20.rs6.net/tn.jsp?f=001XidfV_Ixz0SLTF-OdATs5jwIY_suwO3U8q2z1a83tWObehq_2IhhrG_t02mSiOJ1fGURg9QftnFGb5Gn85hMOOOsjd0TAUW76DTbtOxKxfR-kvw7cz_HpkcDsGvd1cLz03pnypQt9PxC2GOedLoQ9JcmcEuzeudoBIvxHmUMhGQ=&c=&ch=)with your credit card. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  Only  $17.95 a month  [click here to purchase](http://r20.rs6.net/tn.jsp?f=001XidfV_Ixz0SLTF-OdATs5jwIY_suwO3U8q2z1a83tWObehq_2IhhrG_t02mSiOJ1fGURg9QftnFGb5Gn85hMOOOsjd0TAUW76DTbtOxKxfR-kvw7cz_HpkcDsGvd1cLz03pnypQt9PxC2GOedLoQ9JcmcEuzeudoBIvxHmUMhGQ=&c=&ch=) | |  |  |  | | --- | --- | | |  | | --- | | Prices start at $17.95 a month for our basic TCEQ document search. Click here for[full product listing.](http://r20.rs6.net/tn.jsp?f=001XidfV_Ixz0SLTF-OdATs5jwIY_suwO3U8q2z1a83tWObehq_2IhhrKi2qIfzyvDfeuyJ_LpoTwKrpaktl1OtllNOsp9ZGg59uLIBWupVt7fQodua0PrVXYOh6ujZ6ejhfCeT_WNOaRh5re6tGnIiDp3YG85gXSQVg5uOzscGIsNoy8ZV3YzgShKuV-yF-NaSHvjWHw16Xz7uIkdhf6SzUfFReBKds_3F8lZihRTgSr0=&c=&ch=) | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | This is an advertisement for EnviroAI | | | | | | |
-|  |
+Building a machine to help protect the environment . . . one commercialized application at a time--that's EnviroAI
 
-|  |
-|  |
+![](/images/posts/17-95-a-month-3/img-01.gif)
+
+[![](https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/ccard-logos-set.png?itok=4v1wv5qn)](http://r20.rs6.net/tn.jsp?f=001XidfV_Ixz0SLTF-OdATs5jwIY_suwO3U8q2z1a83tWObehq_2IhhrG_t02mSiOJ1fGURg9QftnFGb5Gn85hMOOOsjd0TAUW76DTbtOxKxfR-kvw7cz_HpkcDsGvd1cLz03pnypQt9PxC2GOedLoQ9JcmcEuzeudoBIvxHmUMhGQ=&c=&ch=)
+
+![](/images/posts/17-95-a-month-3/img-03.gif)
+![](/images/posts/17-95-a-month-3/img-04.gif)
+
+Access [NOW](http://r20.rs6.net/tn.jsp?f=001XidfV_Ixz0SLTF-OdATs5jwIY_suwO3U8q2z1a83tWObehq_2IhhrG_t02mSiOJ1fGURg9QftnFGb5Gn85hMOOOsjd0TAUW76DTbtOxKxfR-kvw7cz_HpkcDsGvd1cLz03pnypQt9PxC2GOedLoQ9JcmcEuzeudoBIvxHmUMhGQ=&c=&ch=)with your credit card.
+
+![](/images/posts/17-95-a-month-3/img-05.gif)
+
+![](/images/posts/17-95-a-month-3/img-06.gif)
+
+![](/images/posts/17-95-a-month-3/img-07.gif)
+
+![](/images/posts/17-95-a-month-3/img-08.gif)
+
+![](/images/posts/17-95-a-month-3/img-09.gif)
+
+![](/images/posts/17-95-a-month-3/img-10.gif)
+
+[![](/images/posts/17-95-a-month-3/img-11.gif)](http://r20.rs6.net/tn.jsp?f=001XidfV_Ixz0SLTF-OdATs5jwIY_suwO3U8q2z1a83tWObehq_2IhhrKi2qIfzyvDfeuyJ_LpoTwKrpaktl1OtllNOsp9ZGg59uLIBWupVt7fQodua0PrVXYOh6ujZ6ejhfCeT_WNOaRh5re6tGnIiDp3YG85gXSQVg5uOzscGIsNoy8ZV3YzgShKuV-yF-NaSHvjWHw16Xz7uIkdhf6SzUfFReBKds_3F8lZihRTgSr0=&c=&ch=)
+
+![](/images/posts/17-95-a-month-3/img-12.gif)
+![](/images/posts/17-95-a-month-3/img-13.gif)
+
+Only
+
+$17.95 a month
+
+[click here to purchase](http://r20.rs6.net/tn.jsp?f=001XidfV_Ixz0SLTF-OdATs5jwIY_suwO3U8q2z1a83tWObehq_2IhhrG_t02mSiOJ1fGURg9QftnFGb5Gn85hMOOOsjd0TAUW76DTbtOxKxfR-kvw7cz_HpkcDsGvd1cLz03pnypQt9PxC2GOedLoQ9JcmcEuzeudoBIvxHmUMhGQ=&c=&ch=)
+
+Prices start at $17.95 a month for our basic TCEQ document search. Click here for[full product listing.](http://r20.rs6.net/tn.jsp?f=001XidfV_Ixz0SLTF-OdATs5jwIY_suwO3U8q2z1a83tWObehq_2IhhrKi2qIfzyvDfeuyJ_LpoTwKrpaktl1OtllNOsp9ZGg59uLIBWupVt7fQodua0PrVXYOh6ujZ6ejhfCeT_WNOaRh5re6tGnIiDp3YG85gXSQVg5uOzscGIsNoy8ZV3YzgShKuV-yF-NaSHvjWHw16Xz7uIkdhf6SzUfFReBKds_3F8lZihRTgSr0=&c=&ch=)
+
+![](/images/posts/17-95-a-month-3/img-14.gif)
+
+![](/images/posts/17-95-a-month-3/img-15.gif)
+
+![](/images/posts/17-95-a-month-3/img-16.gif)
+
+This is an advertisement for EnviroAI
