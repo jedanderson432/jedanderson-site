@@ -56,7 +56,3 @@ The 6th extinction doesn't need to fully happen.
 The 7th doesn't need to happen at all.
 
 Neither does the 8th.
-
----
-
-Originally posted on LinkedIn with a companion essay, "A Planet Without Minds Is a Planet Already Condemned," linked in the comments.
