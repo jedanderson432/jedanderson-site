@@ -5,7 +5,7 @@ subtitle: "A first-principles companion to The Negentropic Imperative"
 date: 2026-05-13
 original_date: 2025-12-10
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "information-theory", "thermodynamics", "paper"]
 abstract: "Posits that the resolution to the Anthropocene stalemate lies not in incremental augmentation of the human node (Neuralink-style BCIs) but in a phase transition: a Universal Biological Interface — an Infomechanosphere that integrates the bandwidth of the planet itself, not the bandwidth of the individual."
 license: CC-BY-4.0

@@ -5,7 +5,7 @@ subtitle: "September 2019"
 date: 2026-05-13
 original_date: 2019-09-18
 type: essay
-status: draft
+status: published
 tags: ["physics", "enviroai", "visual-essay"]
 abstract: "The earliest piece in the inbox: a 2019 talk arguing that recent developments in quantum mechanics will profoundly change how we approach environmental protection."
 license: CC-BY-4.0

@@ -4,7 +4,7 @@ slug: "fighting-entropy-environmental-regulation"
 date: 2026-05-13
 original_date: 2026-03-12
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "visual-essay", "thermodynamics"]
 abstract: "Slide deck framing environmental regulation as a contest with rising informational entropy: the regulatory system itself is becoming 'too entropic' to govern matter effectively."
 license: CC-BY-4.0
