@@ -3,7 +3,7 @@ title: "Releasing Schrodinger's Cat into the Environment"
 slug: "releasing-schrodingers-cat-into-the-environment"
 date: 2020-05-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Environmental Optimization Problems using Quantum Computing and Artificial Intelligence----EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

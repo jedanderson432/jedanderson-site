@@ -3,7 +3,7 @@ title: "&quot;The Store&quot;"
 slug: "quot-the-store-quot"
 date: 2020-08-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Grand Opening! . . ."
 license: CC-BY-4.0

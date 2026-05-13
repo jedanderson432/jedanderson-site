@@ -3,7 +3,7 @@ title: "Reducing Emissions with Artificial Intelligence"
 slug: "reducing-emissions-with-artificial-intelligence"
 date: 2020-02-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Information is Power | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

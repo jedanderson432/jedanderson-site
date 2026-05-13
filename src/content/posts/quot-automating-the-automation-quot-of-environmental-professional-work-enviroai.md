@@ -3,7 +3,7 @@ title: "&quot;AUTOMATING THE AUTOMATION&quot; of environmental professional work
 slug: "quot-automating-the-automation-quot-of-environmental-professional-work-enviroai"
 date: 2022-02-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Google DeepMind's New \"AlphaCode\"----\"We're not only automating environmental work, but automating ourselves from automating more environmental work.\" - Jed Anderson, EnviroAI | | | | |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Computer . . . vs. Human"
 slug: "computer-vs-human"
 date: 2021-04-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Who's faster at environmental due dilligence?"
 license: CC-BY-4.0

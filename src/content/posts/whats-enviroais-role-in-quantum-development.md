@@ -3,7 +3,7 @@ title: "What's EnviroAI's role in quantum development?"
 slug: "whats-enviroais-role-in-quantum-development"
 date: 2021-08-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | ANNOUNCEMENT: \"1st Environmental Quantum AI Company in the World\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

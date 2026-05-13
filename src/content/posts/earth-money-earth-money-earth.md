@@ -3,7 +3,7 @@ title: "Earth. Money. Earth. Money. Earth."
 slug: "earth-money-earth-money-earth"
 date: 2021-06-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Save. Save. Save. Save. Save."
 license: CC-BY-4.0

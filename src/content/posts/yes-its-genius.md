@@ -3,7 +3,7 @@ title: "Yes . . . it's genius!"
 slug: "yes-its-genius"
 date: 2021-06-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | All glory to God, but thanks for acknowledging what this could mean for all of us. I just hope it helps protect your children and grandchildren into the future . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "5 ways to help . . ."
 slug: "5-ways-to-help"
 date: 2021-07-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | build a machine to protect earth | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

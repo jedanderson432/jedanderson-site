@@ -3,7 +3,7 @@ title: "Popular meme . . . who led the digital transformation of your company?"
 slug: "popular-meme-who-led-the-digital-transformation-of-your-company"
 date: 2020-04-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Remote Environmental Management Tools using Ceres AI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

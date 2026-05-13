@@ -3,7 +3,7 @@ title: "Quantum Literacy"
 slug: "quantum-literacy"
 date: 2020-09-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Google . . . IBM . . ."
 license: CC-BY-4.0

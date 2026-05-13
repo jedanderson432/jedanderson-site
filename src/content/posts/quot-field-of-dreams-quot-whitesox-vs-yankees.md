@@ -3,7 +3,7 @@ title: "&quot;Field of Dreams&quot;-----WhiteSox vs. Yankees"
 slug: "quot-field-of-dreams-quot-whitesox-vs-yankees"
 date: 2021-08-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Go the distance. Building a machine to protect nature. Build it and he will come."
 license: CC-BY-4.0

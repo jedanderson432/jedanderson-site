@@ -3,7 +3,7 @@ title: "COPY OF EVERY FACILITY . . . in the Environmental Metaverse!!!"
 slug: "copy-of-every-facility-in-the-environmental-metaverse"
 date: 2021-11-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | EnviroVerse Copy and Creation of \"Environmental Digital-Twins\" that anyone anytime can audit, inspect, prepare a permit for, conduct due dilligence on, etc."
 license: CC-BY-4.0

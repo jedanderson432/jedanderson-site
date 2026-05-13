@@ -3,7 +3,7 @@ title: "Birthday"
 slug: "birthday"
 date: 2020-11-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | I'm 51 today! . . ."
 license: CC-BY-4.0

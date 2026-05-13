@@ -3,7 +3,7 @@ title: "&quot;It's not the game-board . . ."
 slug: "quot-its-not-the-game-board"
 date: 2022-04-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

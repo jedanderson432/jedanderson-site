@@ -3,7 +3,7 @@ title: "Regulations aren't . . ."
 slug: "regulations-arent"
 date: 2021-03-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

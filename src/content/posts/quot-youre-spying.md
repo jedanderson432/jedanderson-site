@@ -3,7 +3,7 @@ title: "&quot;You're spying . . ."
 slug: "quot-youre-spying"
 date: 2021-06-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | on us and our environmental impacts\"---Industry Comment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

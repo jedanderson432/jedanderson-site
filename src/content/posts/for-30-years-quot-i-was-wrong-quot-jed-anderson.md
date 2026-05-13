@@ -3,7 +3,7 @@ title: "For 30 years . . . &quot;I WAS WRONG.&quot; - Jed Anderson"
 slug: "for-30-years-quot-i-was-wrong-quot-jed-anderson"
 date: 2022-01-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Humans and Nature | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

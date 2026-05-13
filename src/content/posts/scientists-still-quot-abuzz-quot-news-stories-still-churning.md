@@ -3,7 +3,7 @@ title: "Scientists still &quot;abuzz&quot; . . . news stories still churning . .
 slug: "scientists-still-quot-abuzz-quot-news-stories-still-churning"
 date: 2023-02-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Are we living in a black hole? . . . How does this relate to information processing?"
 license: CC-BY-4.0

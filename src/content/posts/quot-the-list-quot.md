@@ -3,7 +3,7 @@ title: "&quot;THE LIST&quot;"
 slug: "quot-the-list-quot"
 date: 2021-10-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

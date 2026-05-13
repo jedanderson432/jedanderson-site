@@ -3,7 +3,7 @@ title: "---&quot;Thneeds a boot-up&quot; . . ."
 slug: "quot-thneeds-a-boot-up-quot"
 date: 2021-04-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | oh the environmental places we'll go . . ."
 license: CC-BY-4.0

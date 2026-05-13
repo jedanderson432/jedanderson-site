@@ -3,7 +3,7 @@ title: "Your capacity . . ."
 slug: "your-capacity"
 date: 2021-03-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | for boldness!"
 license: CC-BY-4.0

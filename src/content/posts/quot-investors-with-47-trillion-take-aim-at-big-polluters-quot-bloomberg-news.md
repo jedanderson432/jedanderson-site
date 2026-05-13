@@ -3,7 +3,7 @@ title: "&quot;Investors With $47 Trillion Take Aim at Big Polluters&quot;---Bloo
 slug: "quot-investors-with-47-trillion-take-aim-at-big-polluters-quot-bloomberg-news"
 date: 2020-09-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Artificial Intelligence Identifying Emission Reduction Opportunities for Texas Companies----EnviroAI's \"The Generator\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- |…"
 license: CC-BY-4.0

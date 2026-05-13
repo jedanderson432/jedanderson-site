@@ -3,7 +3,7 @@ title: "Protesting . . ."
 slug: "protesting"
 date: 2020-08-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Against New Technology | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

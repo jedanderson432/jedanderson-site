@@ -3,7 +3,7 @@ title: "A Story . . ."
 slug: "a-story"
 date: 2020-05-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Technology and the Earth | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

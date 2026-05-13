@@ -3,7 +3,7 @@ title: "EHS costs high?"
 slug: "ehs-costs-high"
 date: 2020-07-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Lower environmental compliance costs with automation | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- |…"
 license: CC-BY-4.0

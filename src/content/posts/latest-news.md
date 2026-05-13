@@ -3,7 +3,7 @@ title: "Latest news . . ."
 slug: "latest-news"
 date: 2020-05-04
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | AI & the Environment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

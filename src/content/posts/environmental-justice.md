@@ -3,7 +3,7 @@ title: "Environmental justice. . ."
 slug: "environmental-justice"
 date: 2021-04-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | ----\"Houston industry is building the biggest green infrastructure, ESG, EJ project in the country\" Houston Industrial Complexes Centers for Environmental Excellence | | | | | | | | | |…"
 license: CC-BY-4.0

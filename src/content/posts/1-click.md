@@ -3,7 +3,7 @@ title: "1 Click . . ."
 slug: "1-click"
 date: 2022-01-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Applying AI to 50 State's Environmental Files . . . with One Click . . . Simplicity."
 license: CC-BY-4.0

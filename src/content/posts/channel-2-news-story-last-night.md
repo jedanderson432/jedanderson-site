@@ -3,7 +3,7 @@ title: "Channel 2 news story last night . . ."
 slug: "channel-2-news-story-last-night"
 date: 2020-11-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | TCEQ unveils new emergency response technologies and assets . . ."
 license: CC-BY-4.0

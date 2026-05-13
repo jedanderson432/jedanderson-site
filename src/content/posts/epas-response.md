@@ -3,7 +3,7 @@ title: "EPA's response . . ."
 slug: "epas-response"
 date: 2021-09-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | to Presidential Executive Order 13859---\"Maintaining American Leadership in Artificial Intelligence\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

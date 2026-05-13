@@ -3,7 +3,7 @@ title: "Robotic Drone Box"
 slug: "robotic-drone-box"
 date: 2021-03-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Automated Environmental Protection System . . ."
 license: CC-BY-4.0

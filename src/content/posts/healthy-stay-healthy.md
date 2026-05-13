@@ -3,7 +3,7 @@ title: "Healthy? . . . Stay Healthy!"
 slug: "healthy-stay-healthy"
 date: 2020-12-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Advanced environmental diagnostics---EnviroAI Apps | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

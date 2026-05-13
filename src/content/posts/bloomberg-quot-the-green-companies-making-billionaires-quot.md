@@ -3,7 +3,7 @@ title: "Bloomberg . . . &quot;The Green Companies Making Billionaires&quot;"
 slug: "bloomberg-quot-the-green-companies-making-billionaires-quot"
 date: 2021-02-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Going green is increasingly a way to make bank\"---Bloomberg | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Skill set I work on the most . . ."
 slug: "skill-set-i-work-on-the-most"
 date: 2022-01-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Not physics, law, quantum information theory, artificial intelligence, . . ."
 license: CC-BY-4.0

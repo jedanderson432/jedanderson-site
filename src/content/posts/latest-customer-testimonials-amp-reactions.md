@@ -3,7 +3,7 @@ title: "Latest Customer Testimonials &amp; Reactions"
 slug: "latest-customer-testimonials-amp-reactions"
 date: 2020-04-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | What are customers and others saying about Ceres Environmental AI?"
 license: CC-BY-4.0

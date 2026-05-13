@@ -3,7 +3,7 @@ title: "31 million people moving this year . . ."
 slug: "31-million-people-moving-this-year"
 date: 2021-08-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Move \"Green\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

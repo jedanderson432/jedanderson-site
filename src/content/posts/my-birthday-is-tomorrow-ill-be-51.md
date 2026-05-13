@@ -3,7 +3,7 @@ title: "My birthday is tomorrow . . . I'll be 51!"
 slug: "my-birthday-is-tomorrow-ill-be-51"
 date: 2020-11-04
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Here's the candles I'm blowing out . . ."
 license: CC-BY-4.0

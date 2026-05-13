@@ -3,7 +3,7 @@ title: "Zero-Emissions Industry"
 slug: "zero-emissions-industry"
 date: 2021-03-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Jed Anderson | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

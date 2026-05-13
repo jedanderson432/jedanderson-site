@@ -3,7 +3,7 @@ title: ". . . a free environmental news service for the People of Texas"
 slug: "a-free-environmental-news-service-for-the-people-of-texas"
 date: 2020-10-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | TexasEnvironmentalNews.com | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

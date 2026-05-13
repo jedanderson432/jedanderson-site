@@ -3,7 +3,7 @@ title: "Growing up in Iowa in the 1970's . . ."
 slug: "growing-up-in-iowa-in-the-1970s"
 date: 2021-06-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | no one told me about quantum physics."
 license: CC-BY-4.0

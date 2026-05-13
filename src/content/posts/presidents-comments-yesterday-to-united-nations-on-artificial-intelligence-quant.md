@@ -3,7 +3,7 @@ title: "President's comments yesterday to United Nations on Artificial Intellige
 slug: "presidents-comments-yesterday-to-united-nations-on-artificial-intelligence-quant"
 date: 2021-09-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Reshape every aspect of human existence\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

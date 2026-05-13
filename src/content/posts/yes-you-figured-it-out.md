@@ -3,7 +3,7 @@ title: "Yes . . . you figured it out!"
 slug: "yes-you-figured-it-out"
 date: 2021-03-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Projects are all connected! You're just linking physical and data systems to build an environmental protection system."
 license: CC-BY-4.0

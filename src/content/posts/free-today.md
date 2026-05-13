@@ -3,7 +3,7 @@ title: "Free Today!"
 slug: "free-today"
 date: 2021-05-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Access free today."
 license: CC-BY-4.0

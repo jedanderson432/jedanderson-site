@@ -3,7 +3,7 @@ title: "Musk &amp; Metaverse . . . &quot;Simulation of a Simulation&quot;?"
 slug: "musk-amp-metaverse-quot-simulation-of-a-simulation-quot"
 date: 2021-12-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Include nature in the simulation?"
 license: CC-BY-4.0

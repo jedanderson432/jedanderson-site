@@ -3,7 +3,7 @@ title: "TPC Cutting 100 Jobs"
 slug: "tpc-cutting-100-jobs"
 date: 2020-02-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | HBJ's article this morning . . ."
 license: CC-BY-4.0

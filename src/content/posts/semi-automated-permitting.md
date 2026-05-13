@@ -3,7 +3,7 @@ title: "Semi-automated permitting"
 slug: "semi-automated-permitting"
 date: 2020-11-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | I've been asked for details from some of the thousands of you about the design of Permit.AI . . ."
 license: CC-BY-4.0

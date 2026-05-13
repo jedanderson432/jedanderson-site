@@ -3,7 +3,7 @@ title: "Where is the bottleneck?"
 slug: "where-is-the-bottleneck"
 date: 2020-07-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Debottlenecking Environmental Data---EnviroAI \"Digital Twin\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

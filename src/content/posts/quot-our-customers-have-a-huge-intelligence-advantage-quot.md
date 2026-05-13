@@ -3,7 +3,7 @@ title: "&quot;Our customers have a HUGE intelligence advantage.&quot;"
 slug: "quot-our-customers-have-a-huge-intelligence-advantage-quot"
 date: 2021-11-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Helping environmental professionals serve more people . . . better . . . faster."
 license: CC-BY-4.0

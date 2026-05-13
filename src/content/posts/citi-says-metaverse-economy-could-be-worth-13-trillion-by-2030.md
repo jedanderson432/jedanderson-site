@@ -3,7 +3,7 @@ title: "Citi says metaverse economy could be worth $13 trillion by 2030"
 slug: "citi-says-metaverse-economy-could-be-worth-13-trillion-by-2030"
 date: 2022-04-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | A metaverse for environmental work . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: ". . . staring at the elecromagnetism chart"
 slug: "staring-at-the-elecromagnetism-chart"
 date: 2022-02-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

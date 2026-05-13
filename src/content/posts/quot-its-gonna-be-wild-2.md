@@ -3,7 +3,7 @@ title: "&quot;It's gonna be wild . . ."
 slug: "quot-its-gonna-be-wild-2"
 date: 2021-05-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Artificial Intelligence running directly on Nature's Data | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

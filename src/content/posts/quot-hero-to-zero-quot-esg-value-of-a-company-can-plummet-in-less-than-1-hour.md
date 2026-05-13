@@ -3,7 +3,7 @@ title: "&quot;Hero-to-Zero&quot;---ESG value of a company can PLUMMET in less th
 slug: "quot-hero-to-zero-quot-esg-value-of-a-company-can-plummet-in-less-than-1-hour"
 date: 2021-10-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Billions of Dollars to Cents on the Dollar: Tracking ESG Value in \"Real-Time\" with EnviroAI's ESG Tracker | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

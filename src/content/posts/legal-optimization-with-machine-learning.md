@@ -3,7 +3,7 @@ title: "Legal optimization with machine-learning?"
 slug: "legal-optimization-with-machine-learning"
 date: 2021-05-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Optimizing your company's environmental legal performance using machine-learning and the experts at the AL Law Group | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

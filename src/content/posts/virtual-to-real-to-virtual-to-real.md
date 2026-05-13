@@ -3,7 +3,7 @@ title: "Virtual to Real to Virtual to Real"
 slug: "virtual-to-real-to-virtual-to-real"
 date: 2021-11-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | EnviroAI's ability to jump between real and virtual worlds | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

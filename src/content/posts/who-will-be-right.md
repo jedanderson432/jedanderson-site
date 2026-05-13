@@ -3,7 +3,7 @@ title: ". . . who will be right?"
 slug: "who-will-be-right"
 date: 2021-01-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Musk vs."
 license: CC-BY-4.0

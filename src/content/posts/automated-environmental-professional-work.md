@@ -3,7 +3,7 @@ title: "Automated Environmental Professional Work"
 slug: "automated-environmental-professional-work"
 date: 2021-09-26
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Faster. Cheaper. Better."
 license: CC-BY-4.0

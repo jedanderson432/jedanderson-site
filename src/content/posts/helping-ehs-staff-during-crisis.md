@@ -3,7 +3,7 @@ title: "Helping EHS staff during crisis"
 slug: "helping-ehs-staff-during-crisis"
 date: 2020-04-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Allowing environmental professionals to remotely access data and automate certain environmental research/review tasks | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

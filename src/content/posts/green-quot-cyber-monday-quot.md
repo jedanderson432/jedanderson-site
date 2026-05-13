@@ -3,7 +3,7 @@ title: "Green &quot;Cyber Monday&quot;"
 slug: "green-quot-cyber-monday-quot"
 date: 2020-11-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Gifts for the Environmental Professional on Your List\" . . . Shop the Environmental \"App Store\" Today!"
 license: CC-BY-4.0

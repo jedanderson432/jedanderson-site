@@ -3,7 +3,7 @@ title: "I'm speaking . . ."
 slug: "im-speaking"
 date: 2021-09-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | October 20th . . . Houston Bar Association Environmental Law Section . . ."
 license: CC-BY-4.0

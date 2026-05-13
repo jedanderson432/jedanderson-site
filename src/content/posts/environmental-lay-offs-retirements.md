@@ -3,7 +3,7 @@ title: "Environmental Lay-Offs . . . Retirements"
 slug: "environmental-lay-offs-retirements"
 date: 2020-09-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Come join us. Come work on the environmental future. We welcome you."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Industry X-Mas Gift"
 slug: "industry-x-mas-gift"
 date: 2020-12-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | My gift I would like to give industry . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "&quot;Computational Environmental Protection&quot;"
 slug: "quot-computational-environmental-protection-quot"
 date: 2021-05-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Dartmouth 1956 . . . Solvay 1927 . . ."
 license: CC-BY-4.0

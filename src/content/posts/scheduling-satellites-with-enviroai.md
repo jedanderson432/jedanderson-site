@@ -3,7 +3,7 @@ title: "Scheduling Satellites with EnviroAI"
 slug: "scheduling-satellites-with-enviroai"
 date: 2020-10-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Schedule Your Flight Today . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "&quot;Power Language&quot; and &quot;Power Players&quot;"
 slug: "quot-power-language-quot-and-quot-power-players-quot"
 date: 2021-08-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . in environmental files . . ."
 license: CC-BY-4.0

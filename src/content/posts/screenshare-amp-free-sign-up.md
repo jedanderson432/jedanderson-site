@@ -3,7 +3,7 @@ title: "Screenshare &amp; Free Sign-up"
 slug: "screenshare-amp-free-sign-up"
 date: 2020-03-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | 8 am - noon tomorrow | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

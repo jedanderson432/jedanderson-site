@@ -3,7 +3,7 @@ title: "Why take risk?"
 slug: "why-take-risk"
 date: 2021-05-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \" . . . it's safer . . . it's almost always safer.\" Risking to find better ways to protect humanity and the earth."
 license: CC-BY-4.0

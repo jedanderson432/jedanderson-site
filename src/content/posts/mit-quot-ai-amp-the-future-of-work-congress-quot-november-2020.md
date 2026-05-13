@@ -3,7 +3,7 @@ title: "MIT ---&quot;AI &amp; The Future of Work Congress&quot;---November, 2020
 slug: "mit-quot-ai-amp-the-future-of-work-congress-quot-november-2020"
 date: 2020-11-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Environmental work . . . will it change??? Dramatically!"
 license: CC-BY-4.0

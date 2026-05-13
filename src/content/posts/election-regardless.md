@@ -3,7 +3,7 @@ title: "Election . . . regardless"
 slug: "election-regardless"
 date: 2020-10-31
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Can I protect you and nature?"
 slug: "can-i-protect-you-and-nature"
 date: 2022-01-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Yes . . . I already am! . . . OUR MACHINE IS ALREADY WORKING . . ."
 license: CC-BY-4.0

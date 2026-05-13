@@ -3,7 +3,7 @@ title: "Google CEO--- &quot;AI is more profound than the internet, fire, or elec
 slug: "google-ceo-quot-ai-is-more-profound-than-the-internet-fire-or-electricity-quot"
 date: 2021-09-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Environmental reaction?"
 license: CC-BY-4.0

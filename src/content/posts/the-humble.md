@@ -3,7 +3,7 @@ title: "The humble . . ."
 slug: "the-humble"
 date: 2021-08-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . and the over-achievers."
 license: CC-BY-4.0

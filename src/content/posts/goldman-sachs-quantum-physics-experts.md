@@ -3,7 +3,7 @@ title: "Goldman Sachs . . . Quantum Physics Experts????"
 slug: "goldman-sachs-quantum-physics-experts"
 date: 2021-07-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Harvard Business Review article . . ."
 license: CC-BY-4.0

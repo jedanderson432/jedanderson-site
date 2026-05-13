@@ -3,7 +3,7 @@ title: ". . . INDISPUTABLE"
 slug: "indisputable"
 date: 2020-12-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | It's now the most powerful environmental compliance system in the world . . ."
 license: CC-BY-4.0

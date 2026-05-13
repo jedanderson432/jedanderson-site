@@ -3,7 +3,7 @@ title: "Need work? . . . or bored? . . . or just tired of the same routine as an
 slug: "need-work-or-bored-or-just-tired-of-the-same-routine-as-an-environmental-profess"
 date: 2020-07-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | You are needed. You are wanted. Join us on an \"apollo-like\" environmental mission at EnviroAI."
 license: CC-BY-4.0

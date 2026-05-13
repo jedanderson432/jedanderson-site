@@ -3,7 +3,7 @@ title: "&quot;War is 90% information.&quot;----Google"
 slug: "quot-war-is-90-information-quot-google"
 date: 2021-05-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | ex./ 187,866 air permits in Texas as of this hour . . ."
 license: CC-BY-4.0

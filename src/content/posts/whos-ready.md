@@ -3,7 +3,7 @@ title: "Who's ready?"
 slug: "whos-ready"
 date: 2021-04-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Joy. Fun. Adventure."
 license: CC-BY-4.0

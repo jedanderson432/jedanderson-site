@@ -3,7 +3,7 @@ title: "Environmental Object Detection?"
 slug: "environmental-object-detection"
 date: 2020-10-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | How do we do it?"
 license: CC-BY-4.0

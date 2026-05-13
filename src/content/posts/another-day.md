@@ -3,7 +3,7 @@ title: "Another day . . ."
 slug: "another-day"
 date: 2021-08-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | a \"ding in the environmental universe\" | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | |…"
 license: CC-BY-4.0

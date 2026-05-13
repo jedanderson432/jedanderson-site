@@ -3,7 +3,7 @@ title: "BREAKING NEWS . . . Airobotics &amp; EnviroAI sign agreement"
 slug: "breaking-news-airobotics-amp-enviroai-sign-agreement"
 date: 2020-08-26
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Companies offering automated drone environmental artificial intelligence services | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

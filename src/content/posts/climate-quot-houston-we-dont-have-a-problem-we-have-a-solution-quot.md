@@ -3,7 +3,7 @@ title: "Climate . . . &quot;Houston---we don't have a problem . . . WE HAVE A SO
 slug: "climate-quot-houston-we-dont-have-a-problem-we-have-a-solution-quot"
 date: 2021-01-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Proud problem-solving Texans.\" - Jed Anderson, Environmental Entrepreneur | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Enforcement Agency is now using EnviroAI!!!! . . ."
 slug: "enforcement-agency-is-now-using-enviroai"
 date: 2020-09-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Are you?"
 license: CC-BY-4.0

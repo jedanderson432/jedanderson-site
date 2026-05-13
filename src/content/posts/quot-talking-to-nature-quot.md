@@ -3,7 +3,7 @@ title: "&quot;Talking to nature&quot; . . ."
 slug: "quot-talking-to-nature-quot"
 date: 2021-06-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | increasing the connection speed between humans and the environment---EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

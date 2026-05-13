@@ -3,7 +3,7 @@ title: "Earth Protection System"
 slug: "earth-protection-system"
 date: 2021-06-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . why and how are we incrementally building toward an automated ML system to protect nature?"
 license: CC-BY-4.0

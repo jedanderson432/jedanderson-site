@@ -3,7 +3,7 @@ title: "Exploration . . . Discovery . . . Wonder!"
 slug: "exploration-discovery-wonder"
 date: 2021-12-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"With less physical exploration due to Covid . . ."
 license: CC-BY-4.0

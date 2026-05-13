@@ -3,7 +3,7 @@ title: "Neuralink . . . Musk gets $205 Million"
 slug: "neuralink-musk-gets-205-million"
 date: 2021-08-04
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"I plan to be the '2nd in line' to get one\". . . pursuing EnviroAI's mission to increase the human to nature connection speed. . ."
 license: CC-BY-4.0

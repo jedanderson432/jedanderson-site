@@ -3,7 +3,7 @@ title: "The Lorax and AI"
 slug: "the-lorax-and-ai"
 date: 2020-04-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Covid. Oil Prices. Earth Day. Hope."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Bell's Inequality Theorem"
 slug: "bells-inequality-theorem"
 date: 2022-07-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Again . . . how did I get through the educational system without learning this?"
 license: CC-BY-4.0

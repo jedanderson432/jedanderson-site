@@ -3,7 +3,7 @@ title: "Helping children . . . and adults . . . protect the planet"
 slug: "helping-children-and-adults-protect-the-planet-2"
 date: 2022-09-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "How simple can we make it to obtain environmental information and help protect the planet?\" | | | |"
 license: CC-BY-4.0

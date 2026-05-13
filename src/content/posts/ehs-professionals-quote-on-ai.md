@@ -3,7 +3,7 @@ title: "EHS Professional's Quote on AI . . ."
 slug: "ehs-professionals-quote-on-ai"
 date: 2020-02-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | ----\"Artificial intelligence is mostly hype.\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

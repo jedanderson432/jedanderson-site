@@ -3,7 +3,7 @@ title: "&quot;Earth First&quot;"
 slug: "quot-earth-first-quot"
 date: 2021-03-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | A documentary about EnviroAI's efforts to build a machine to end pollution | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | -…"
 license: CC-BY-4.0

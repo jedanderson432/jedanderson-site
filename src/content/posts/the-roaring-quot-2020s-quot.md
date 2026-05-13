@@ -3,7 +3,7 @@ title: "The Roaring . . . &quot;2020's&quot;"
 slug: "the-roaring-quot-2020s-quot"
 date: 2020-11-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Post-Election, Post-Covid . . . \"The Roaring 2020's\" . . ."
 license: CC-BY-4.0

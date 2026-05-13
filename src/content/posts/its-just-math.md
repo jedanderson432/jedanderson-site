@@ -3,7 +3,7 @@ title: "It's just math!"
 slug: "its-just-math"
 date: 2020-04-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Take a peek under the hood of Ceres AI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

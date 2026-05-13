@@ -3,7 +3,7 @@ title: "Seeing Emissions"
 slug: "seeing-emissions"
 date: 2020-06-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Can we?"
 license: CC-BY-4.0

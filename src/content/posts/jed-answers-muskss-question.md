@@ -3,7 +3,7 @@ title: "Jed answers Musks's question"
 slug: "jed-answers-muskss-question"
 date: 2021-02-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"What's outside . . ."
 license: CC-BY-4.0

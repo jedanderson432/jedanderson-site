@@ -3,7 +3,7 @@ title: "Power. Intelligence. Speed."
 slug: "power-intelligence-speed"
 date: 2020-08-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | How much can we give you? . . . Augmenting environmental human intelligence . . . that's EnviroAI."
 license: CC-BY-4.0

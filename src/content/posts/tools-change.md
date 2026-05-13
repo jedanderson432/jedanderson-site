@@ -3,7 +3,7 @@ title: "Tools? . . . change!"
 slug: "tools-change"
 date: 2021-04-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . change over time."
 license: CC-BY-4.0

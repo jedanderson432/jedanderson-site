@@ -3,7 +3,7 @@ title: "How many people . . . plants . . . and animals?"
 slug: "how-many-people-plants-and-animals"
 date: 2021-12-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | How many living things is our AI system being designed to protect?"
 license: CC-BY-4.0

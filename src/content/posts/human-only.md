@@ -3,7 +3,7 @@ title: "HUMAN-ONLY? . . ."
 slug: "human-only"
 date: 2022-04-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Metaverse . . . ALL LIVING THINGS!!! . . ."
 license: CC-BY-4.0

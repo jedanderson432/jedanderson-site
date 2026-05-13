@@ -3,7 +3,7 @@ title: "Smoke or Steam? . . . at any Industrial Facility in Texas"
 slug: "smoke-or-steam-at-any-industrial-facility-in-texas"
 date: 2020-08-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | EnviroAI can tell you!---Pollution Image Recognition with Artificial Intelligence and Satellite/Drone/Camera Images | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

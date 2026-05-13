@@ -3,7 +3,7 @@ title: "God Pitch Deck?"
 slug: "god-pitch-deck"
 date: 2022-03-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"I hope God like's the pitch.\" ---1st Pitch Deck in Human History Ever Prepared for God's Investment Consideration | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- |…"
 license: CC-BY-4.0

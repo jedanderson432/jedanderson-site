@@ -3,7 +3,7 @@ title: "Companies over-paying for regulatory compliance"
 slug: "companies-over-paying-for-regulatory-compliance"
 date: 2020-09-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Artificial intelligence showing discrepancy in dollars spent on environmental regulatory compliance | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --…"
 license: CC-BY-4.0

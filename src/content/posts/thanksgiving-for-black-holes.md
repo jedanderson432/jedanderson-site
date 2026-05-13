@@ -3,7 +3,7 @@ title: "Thanksgiving . . . for Black Holes"
 slug: "thanksgiving-for-black-holes"
 date: 2022-11-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Godel's Incompleteness Theorem . . . Heisenberg's Uncertainty Principle . . ."
 license: CC-BY-4.0

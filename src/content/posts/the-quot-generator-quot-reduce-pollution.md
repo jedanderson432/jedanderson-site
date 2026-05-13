@@ -3,7 +3,7 @@ title: "The &quot;Generator&quot;----Reduce Pollution"
 slug: "the-quot-generator-quot-reduce-pollution"
 date: 2020-03-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Ceres A.I."
 license: CC-BY-4.0

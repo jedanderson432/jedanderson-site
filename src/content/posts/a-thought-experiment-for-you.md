@@ -3,7 +3,7 @@ title: "A Thought Experiment for you . . ."
 slug: "a-thought-experiment-for-you"
 date: 2021-11-26
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Anyone? Insights on this? . . . Air Pollution & Black Holes-----What would happen to air pollution information in a Black Hole?"
 license: CC-BY-4.0

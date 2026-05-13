@@ -3,7 +3,7 @@ title: "Short dance."
 slug: "short-dance"
 date: 2021-09-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | 1969 - \\_\\_\\_\\_\\_ | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Cold. Pandemic. Hope. Joy."
 slug: "cold-pandemic-hope-joy"
 date: 2021-02-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | A planetary twist of fate . . . humans becoming the reason nature survives . . ."
 license: CC-BY-4.0

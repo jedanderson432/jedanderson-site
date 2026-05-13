@@ -3,7 +3,7 @@ title: "Article in the New York Times this morning . . ."
 slug: "article-in-the-new-york-times-this-morning"
 date: 2020-11-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

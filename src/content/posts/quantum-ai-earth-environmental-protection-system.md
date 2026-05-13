@@ -3,7 +3,7 @@ title: "Quantum AI---Earth Environmental Protection System"
 slug: "quantum-ai-earth-environmental-protection-system"
 date: 2021-02-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Building this system one component at a time . . . that's EnviroAI."
 license: CC-BY-4.0

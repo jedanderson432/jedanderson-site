@@ -3,7 +3,7 @@ title: "Business Intelligence . . ."
 slug: "business-intelligence"
 date: 2021-07-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Competitors. Feedstocks. Permit Terms. Operational Parameters."
 license: CC-BY-4.0

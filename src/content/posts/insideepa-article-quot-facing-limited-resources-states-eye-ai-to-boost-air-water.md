@@ -3,7 +3,7 @@ title: "InsideEPA article: &quot;Facing Limited Resources, States Eye AI To Boos
 slug: "insideepa-article-quot-facing-limited-resources-states-eye-ai-to-boost-air-water"
 date: 2021-03-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | $17.95 a month for EnviroAI access | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

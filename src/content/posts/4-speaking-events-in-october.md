@@ -3,7 +3,7 @@ title: "4 speaking events in October . . ."
 slug: "4-speaking-events-in-october"
 date: 2021-10-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | HBA, TAEP, AWMA, BIC Magazine | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "What's in the box?"
 slug: "whats-in-the-box"
 date: 2020-04-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Ask Ceres------draw a bounding box on \"AI Earth\" and then ask Ceres what's in it."
 license: CC-BY-4.0

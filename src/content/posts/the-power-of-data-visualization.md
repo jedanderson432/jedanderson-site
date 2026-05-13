@@ -3,7 +3,7 @@ title: "The Power of Data Visualization"
 slug: "the-power-of-data-visualization"
 date: 2020-05-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Stimulating human environmental problem solving---Enviro AI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

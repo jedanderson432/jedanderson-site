@@ -3,7 +3,7 @@ title: "Humility?"
 slug: "humility"
 date: 2020-07-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | The Key to Unleashing Technological Power in Environmental Problem Solving | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | -…"
 license: CC-BY-4.0

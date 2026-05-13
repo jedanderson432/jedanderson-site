@@ -3,7 +3,7 @@ title: "&quot;Houston leadership . . ."
 slug: "quot-houston-leadership"
 date: 2021-03-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"CO2 Reduction Capital of the World\" . . ."
 license: CC-BY-4.0

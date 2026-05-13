@@ -3,7 +3,7 @@ title: "Press Release . . . News Story . . . and Official Announcement"
 slug: "press-release-news-story-and-official-announcement"
 date: 2022-03-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"EnviroAI to acquire Emerge/E-notify in 7-Figure Deal to Bolster Environmental & Emergency Information Services\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

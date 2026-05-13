@@ -3,7 +3,7 @@ title: "Where there is magic . . ."
 slug: "where-there-is-magic"
 date: 2023-07-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

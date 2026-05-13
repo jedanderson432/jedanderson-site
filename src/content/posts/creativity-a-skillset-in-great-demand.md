@@ -3,7 +3,7 @@ title: "Creativity . . . a skillset in great demand"
 slug: "creativity-a-skillset-in-great-demand"
 date: 2020-10-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Job's and Anderson's comments on \"creativity\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

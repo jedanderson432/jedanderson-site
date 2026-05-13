@@ -3,7 +3,7 @@ title: "Proof why &quot;weirdness&quot; will be so special . . ."
 slug: "proof-why-quot-weirdness-quot-will-be-so-special"
 date: 2021-06-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Quantum AI Environmental Protection Machine | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

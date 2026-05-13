@@ -3,7 +3,7 @@ title: "Confidence."
 slug: "confidence"
 date: 2020-12-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Why can we have so much?"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "&quot;FYSICS&quot; . . . and . . . &quot;PHAITH&quot; --------- (sic.)"
 slug: "quot-fysics-quot-and-quot-phaith-quot-sic"
 date: 2022-10-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "A Sneak-peek at &quot;Air Ai&quot;"
 slug: "a-sneak-peek-at-quot-air-ai-quot"
 date: 2020-02-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Unveiling of 1st Module | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

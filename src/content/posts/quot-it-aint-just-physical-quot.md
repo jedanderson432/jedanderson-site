@@ -3,7 +3,7 @@ title: "&quot;It ain't just physical&quot; . . ."
 slug: "quot-it-aint-just-physical-quot"
 date: 2022-09-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

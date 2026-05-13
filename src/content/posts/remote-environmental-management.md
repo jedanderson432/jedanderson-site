@@ -3,7 +3,7 @@ title: "Remote Environmental Management"
 slug: "remote-environmental-management"
 date: 2020-04-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | See down to the \"equipment\" level!"
 license: CC-BY-4.0

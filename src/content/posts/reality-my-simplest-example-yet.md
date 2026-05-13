@@ -3,7 +3,7 @@ title: "Reality . . . my simplest example yet . . ."
 slug: "reality-my-simplest-example-yet"
 date: 2022-03-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Blue Bell Ice Cream. Mozart. Quantum Physics."
 license: CC-BY-4.0

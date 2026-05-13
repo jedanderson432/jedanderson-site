@@ -3,7 +3,7 @@ title: "Exemptions . . ."
 slug: "exemptions"
 date: 2020-04-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Ceres finds thousands | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

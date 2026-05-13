@@ -3,7 +3,7 @@ title: "Google announces . . ."
 slug: "google-announces"
 date: 2021-07-31
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | perhaps the greatest scientific discovery of this century---Time Crystal created in a Quantum Computer | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

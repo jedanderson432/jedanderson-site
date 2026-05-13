@@ -3,7 +3,7 @@ title: "Looking for work? . . . or more work?"
 slug: "looking-for-work-or-more-work"
 date: 2020-11-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . fear you might be in this position at some point?"
 license: CC-BY-4.0

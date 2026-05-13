@@ -3,7 +3,7 @@ title: "CBS 60 Minutes"
 slug: "cbs-60-minutes"
 date: 2020-04-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Covid--Artificial Intelligence . . ."
 license: CC-BY-4.0

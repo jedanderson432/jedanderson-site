@@ -3,7 +3,7 @@ title: "ANNOUNCEMENT! &quot;Environmental Game???&quot;"
 slug: "announcement-quot-environmental-game-quot"
 date: 2021-08-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Minecraft . . . Facebook . . . PUBG . . ."
 license: CC-BY-4.0

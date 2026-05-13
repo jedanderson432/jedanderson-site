@@ -3,7 +3,7 @@ title: "Get Paid to Reduce Pollution!"
 slug: "get-paid-to-reduce-pollution"
 date: 2020-02-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | New entrepreneurial investment to pay companies for reducing polllution--\"EnviroMonetizers\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | ---…"
 license: CC-BY-4.0

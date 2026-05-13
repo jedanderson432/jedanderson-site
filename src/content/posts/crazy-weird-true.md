@@ -3,7 +3,7 @@ title: "Crazy. Weird. True."
 slug: "crazy-weird-true"
 date: 2020-07-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | University of Texas Professor: Grasping Quantum Entanglement will Change You | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

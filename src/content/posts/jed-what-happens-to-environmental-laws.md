@@ -3,7 +3,7 @@ title: "Jed . . . what happens to environmental laws?"
 slug: "jed-what-happens-to-environmental-laws"
 date: 2022-03-04
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . the God Pitch Deck . . ."
 license: CC-BY-4.0

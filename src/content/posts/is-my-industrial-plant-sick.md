@@ -3,7 +3,7 @@ title: "Is my industrial plant sick?"
 slug: "is-my-industrial-plant-sick"
 date: 2020-12-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Advanced environmental diagnostics---The latest EnviroAI Apps to soon be unveiled!"
 license: CC-BY-4.0

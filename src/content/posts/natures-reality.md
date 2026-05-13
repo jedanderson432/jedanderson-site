@@ -3,7 +3,7 @@ title: "Nature's Reality?"
 slug: "natures-reality"
 date: 2020-07-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Simulating and Protecting the Environment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

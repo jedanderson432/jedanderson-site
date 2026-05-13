@@ -3,7 +3,7 @@ title: "Your hidden power . . . revealed"
 slug: "your-hidden-power-revealed"
 date: 2021-01-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | |…"
 license: CC-BY-4.0

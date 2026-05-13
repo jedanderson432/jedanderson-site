@@ -3,7 +3,7 @@ title: "Antipodean Cities . . . and my thought experiment this morning on non-lo
 slug: "antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality"
 date: 2022-08-14
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Is there anything that's really \"non-local\"?"
 license: CC-BY-4.0

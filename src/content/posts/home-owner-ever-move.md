@@ -3,7 +3,7 @@ title: "Home owner? . . . ever move?"
 slug: "home-owner-ever-move"
 date: 2021-08-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Life expectancy. Home value. Mental health. EnviroAI announces the\"green factor\" real-estate assessment tool."
 license: CC-BY-4.0

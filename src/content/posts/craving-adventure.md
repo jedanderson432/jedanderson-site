@@ -3,7 +3,7 @@ title: "Craving . . . ADVENTURE?"
 slug: "craving-adventure"
 date: 2020-11-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

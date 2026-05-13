@@ -3,7 +3,7 @@ title: "20 years . . . to seconds"
 slug: "20-years-to-seconds"
 date: 2021-07-31
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Speeding up environmental protection by speeding up the human-to-nature information exchange rate---EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

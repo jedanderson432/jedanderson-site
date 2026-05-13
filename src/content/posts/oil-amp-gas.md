@@ -3,7 +3,7 @@ title: "Oil &amp; Gas"
 slug: "oil-amp-gas"
 date: 2020-06-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | TCEQ & RRC . . . Truly Comprehensive Environmental Intelligence from EnviroAI: TCEQ Data . . . RRC Data . . . EPA Data . . . Social Media Data . . . Internet Data . . . Lawsuit Data . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Whitney Houston . . . and the &quot;Single-Electron Postulate&quot; . . 
 slug: "whitney-houston-and-the-quot-single-electron-postulate-quot"
 date: 2023-07-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"When I see simplicity in the world . . . radical simplicity . . . creative simplicity . . ."
 license: CC-BY-4.0

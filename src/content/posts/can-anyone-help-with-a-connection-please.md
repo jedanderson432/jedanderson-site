@@ -3,7 +3,7 @@ title: "Can anyone help with a connection please? . . ."
 slug: "can-anyone-help-with-a-connection-please"
 date: 2021-05-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | The Finish Line . . ."
 license: CC-BY-4.0

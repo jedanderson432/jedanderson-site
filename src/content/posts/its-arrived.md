@@ -3,7 +3,7 @@ title: "It's arrived!"
 slug: "its-arrived"
 date: 2020-09-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Intelligent EMIS\"---A More Powerful Environmental Management Information System | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

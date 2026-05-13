@@ -3,7 +3,7 @@ title: "Flares disappearing . . ."
 slug: "flares-disappearing"
 date: 2020-11-04
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Watch!"
 license: CC-BY-4.0

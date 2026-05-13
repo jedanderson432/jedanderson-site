@@ -3,7 +3,7 @@ title: "&quot;The amount of space in space is incredible.&quot;"
 slug: "quot-the-amount-of-space-in-space-is-incredible-quot"
 date: 2022-04-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Universe is over a billion times smaller than it is big . . . MACHINE LEARNING ON THE PLANCK SCALE?"
 license: CC-BY-4.0

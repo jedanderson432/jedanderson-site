@@ -3,7 +3,7 @@ title: "I win."
 slug: "i-win"
 date: 2020-03-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | I've got more intelligence."
 license: CC-BY-4.0

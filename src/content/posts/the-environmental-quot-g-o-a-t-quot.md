@@ -3,7 +3,7 @@ title: "The Environmental &quot;G-O-A-T&quot;"
 slug: "the-environmental-quot-g-o-a-t-quot"
 date: 2020-12-04
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Predicting the Future?----The Metaverse----Environmental Modelling in th
 slug: "predicting-the-future-the-metaverse-environmental-modelling-in-the-metaverse"
 date: 2021-11-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Environmental Modelling \"Orb\" for \"EHS Avatars\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

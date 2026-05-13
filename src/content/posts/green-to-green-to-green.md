@@ -3,7 +3,7 @@ title: ". . . green to green to green"
 slug: "green-to-green-to-green"
 date: 2021-02-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | $ Trillions in ESG Money---Texas Petrochemical Industry to Attract the Green to Go Green to Make Green | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

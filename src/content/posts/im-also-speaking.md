@@ -3,7 +3,7 @@ title: "I'm also speaking . . ."
 slug: "im-also-speaking"
 date: 2021-09-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | October 21st---Texas Association of Environmental Professionals | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

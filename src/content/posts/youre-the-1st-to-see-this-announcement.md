@@ -3,7 +3,7 @@ title: "You're the 1st to see this announcement . . ."
 slug: "youre-the-1st-to-see-this-announcement"
 date: 2022-03-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Acquistion News: \"EnviroAI to acquire Emerge/E-notify in 7-Figure Deal to Bolster Environmental & Emergency Information Services\" | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

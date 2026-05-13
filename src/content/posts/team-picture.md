@@ -3,7 +3,7 @@ title: "Team Picture!"
 slug: "team-picture"
 date: 2020-07-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Zoom meeting this morning | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

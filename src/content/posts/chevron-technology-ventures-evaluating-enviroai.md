@@ -3,7 +3,7 @@ title: "Chevron Technology Ventures evaluating EnviroAI"
 slug: "chevron-technology-ventures-evaluating-enviroai"
 date: 2020-06-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | More help arriving | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

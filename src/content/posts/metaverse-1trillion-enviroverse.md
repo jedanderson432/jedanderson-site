@@ -3,7 +3,7 @@ title: "Metaverse = $1Trillion . . . Enviroverse = ???"
 slug: "metaverse-1trillion-enviroverse"
 date: 2021-12-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | What do you think?"
 license: CC-BY-4.0

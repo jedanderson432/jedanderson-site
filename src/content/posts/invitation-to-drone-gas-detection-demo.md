@@ -3,7 +3,7 @@ title: "Invitation to Drone Gas Detection Demo"
 slug: "invitation-to-drone-gas-detection-demo"
 date: 2021-03-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Tomorrow at Deer Park Fire Training Center | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "The &quot;Environmental Metaverse&quot;"
 slug: "the-quot-environmental-metaverse-quot"
 date: 2022-02-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | EnviroVerse by EnviroAI | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

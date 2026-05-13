@@ -3,7 +3,7 @@ title: "Entropy . . . Information Theory . . . and the Holographic Principle"
 slug: "entropy-information-theory-and-the-holographic-principle"
 date: 2022-05-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"The Environmental Metaverse\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: ". . . &quot;it's revolutionary&quot;"
 slug: "quot-its-revolutionary-quot"
 date: 2020-10-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | COMMUNITY emissions treatment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Space Emissions"
 slug: "space-emissions"
 date: 2021-09-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Simpler. Faster."
 license: CC-BY-4.0

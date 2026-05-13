@@ -3,7 +3,7 @@ title: "David Deutsch, &quot;The Father of Quantum Computing&quot;"
 slug: "david-deutsch-quot-the-father-of-quantum-computing-quot"
 date: 2021-09-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Calculating in different universes | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

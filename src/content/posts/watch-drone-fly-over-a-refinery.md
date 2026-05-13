@@ -3,7 +3,7 @@ title: "Watch Drone Fly over a Refinery"
 slug: "watch-drone-fly-over-a-refinery"
 date: 2020-07-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Identifying Environmental Anomalies using Aerial Video Artificial Intelligence---EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Your children . . ."
 slug: "your-children"
 date: 2021-09-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | will be much smarter than Albert Einstein."
 license: CC-BY-4.0

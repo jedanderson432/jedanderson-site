@@ -3,7 +3,7 @@ title: "It's up and running! Check it out!"
 slug: "its-up-and-running-check-it-out"
 date: 2020-12-31
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Fenceline Emissions System | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

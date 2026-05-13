@@ -3,7 +3,7 @@ title: "Famine to Feast----Are Companies Now Scrambling for Environmental Digita
 slug: "famine-to-feast-are-companies-now-scrambling-for-environmental-digital-tools"
 date: 2021-06-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Is this the surge we've been expecting? . . . Are companies trying to use more digital tools to increase global competitiveness and satisfy regulatory/ESG burdens?"
 license: CC-BY-4.0

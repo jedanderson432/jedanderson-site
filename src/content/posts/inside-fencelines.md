@@ -3,7 +3,7 @@ title: "Inside fencelines . . ."
 slug: "inside-fencelines"
 date: 2021-04-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | New level of facility environmental detail | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

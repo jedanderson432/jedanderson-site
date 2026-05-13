@@ -3,7 +3,7 @@ title: "&quot;Energy Imbalance Problem&quot;---Climate change is just a symptom 
 slug: "quot-energy-imbalance-problem-quot-climate-change-is-just-a-symptom-of-the-large"
 date: 2021-06-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Latest NASA/NOAA Study---Earth's Energy Imbalance Doubled Since 2005 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

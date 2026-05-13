@@ -3,7 +3,7 @@ title: "Bezos, Musk, and Anderson"
 slug: "bezos-musk-and-anderson"
 date: 2020-12-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Who is the least crazy?"
 license: CC-BY-4.0

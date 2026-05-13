@@ -3,7 +3,7 @@ title: ". . . bidding on project?"
 slug: "bidding-on-project"
 date: 2020-12-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Approximately $2.5 billion | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

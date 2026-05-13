@@ -3,7 +3,7 @@ title: "No more flaring? . . . Deer Park and La Porte?"
 slug: "no-more-flaring-deer-park-and-la-porte"
 date: 2020-10-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | A Community Alternative---\"The Triangle\" Regional Environmental Treatment Center | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

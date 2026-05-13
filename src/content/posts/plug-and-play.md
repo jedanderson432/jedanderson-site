@@ -3,7 +3,7 @@ title: "Plug-and-Play"
 slug: "plug-and-play"
 date: 2020-05-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Augmented . . . Environmental Management Information System . . ."
 license: CC-BY-4.0

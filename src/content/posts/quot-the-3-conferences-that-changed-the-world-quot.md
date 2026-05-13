@@ -3,7 +3,7 @@ title: "&quot;The 3 Conferences that Changed the World&quot; . . ."
 slug: "quot-the-3-conferences-that-changed-the-world-quot"
 date: 2021-05-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Dartmouth 1956 . . . Solvay 1927 . . ."
 license: CC-BY-4.0

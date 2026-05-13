@@ -3,7 +3,7 @@ title: "1st's"
 slug: "1sts"
 date: 2021-09-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | AI & Quantum Environmental Protection Company in the World | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

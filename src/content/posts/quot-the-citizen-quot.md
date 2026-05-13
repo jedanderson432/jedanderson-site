@@ -3,7 +3,7 @@ title: "&quot;The Citizen&quot;"
 slug: "quot-the-citizen-quot"
 date: 2020-05-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Politicians, cities, companies--a product for everyone from EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

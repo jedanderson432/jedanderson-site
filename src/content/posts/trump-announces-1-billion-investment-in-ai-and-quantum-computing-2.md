@@ -3,7 +3,7 @@ title: "Trump Announces $1 Billion Investment in AI and Quantum Computing"
 slug: "trump-announces-1-billion-investment-in-ai-and-quantum-computing-2"
 date: 2020-08-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Environmental Quantum AI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

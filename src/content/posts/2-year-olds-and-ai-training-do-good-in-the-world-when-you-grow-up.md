@@ -3,7 +3,7 @@ title: "2-Year olds and AI . . . Training . . . DO GOOD in the world when you gr
 slug: "2-year-olds-and-ai-training-do-good-in-the-world-when-you-grow-up"
 date: 2022-02-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

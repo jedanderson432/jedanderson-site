@@ -3,7 +3,7 @@ title: "Pitch Contest Tonight!!! . . . . Come Cheer! . . . Everyone's invited!!!
 slug: "pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion"
 date: 2022-04-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Come Cheer EnviroAI as we compete in the \"Houston Startup Showcase\" . . . and check out Houston's New Innovation District!"
 license: CC-BY-4.0

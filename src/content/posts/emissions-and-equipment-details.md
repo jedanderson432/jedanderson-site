@@ -3,7 +3,7 @@ title: "Emissions and Equipment Details . . ."
 slug: "emissions-and-equipment-details"
 date: 2022-03-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | New level of detail in Texas and Louisiana | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

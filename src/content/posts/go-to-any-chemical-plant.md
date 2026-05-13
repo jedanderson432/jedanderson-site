@@ -3,7 +3,7 @@ title: "Go to any chemical plant . . ."
 slug: "go-to-any-chemical-plant"
 date: 2022-03-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . without even walking through the fence. Handy tool for environmental professionals and others."
 license: CC-BY-4.0

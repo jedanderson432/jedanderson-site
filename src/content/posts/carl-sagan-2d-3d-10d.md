@@ -3,7 +3,7 @@ title: "Carl Sagan: 2D . . . 3D . . . 10D"
 slug: "carl-sagan-2d-3d-10d"
 date: 2021-10-31
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Seeing in the EnviroVerse | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

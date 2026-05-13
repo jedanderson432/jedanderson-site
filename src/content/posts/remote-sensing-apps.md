@@ -3,7 +3,7 @@ title: "Remote Sensing Apps"
 slug: "remote-sensing-apps"
 date: 2020-11-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Shop the Store!"
 license: CC-BY-4.0

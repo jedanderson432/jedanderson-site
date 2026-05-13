@@ -3,7 +3,7 @@ title: "What is that object? . . . . Should it be there?"
 slug: "what-is-that-object-should-it-be-there"
 date: 2020-08-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Identifying equipment, emission sources, and environmental anomalies using drone imagery, satellite imagery, and deep learning neural networks---EnviroAI | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

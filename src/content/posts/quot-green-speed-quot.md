@@ -3,7 +3,7 @@ title: "&quot;Green Speed&quot;"
 slug: "quot-green-speed-quot"
 date: 2021-07-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Speeding up the human-nature data exchange rate---EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

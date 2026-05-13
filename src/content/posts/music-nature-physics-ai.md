@@ -3,7 +3,7 @@ title: "Music . . . Nature . . . Physics . . . AI"
 slug: "music-nature-physics-ai"
 date: 2020-09-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Einstein discovered relativity with a Piano\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

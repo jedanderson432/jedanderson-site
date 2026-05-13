@@ -3,7 +3,7 @@ title: "Industry saves nature . . ."
 slug: "industry-saves-nature"
 date: 2021-03-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"We're writing the greatest planetary plot-twist of all-time.\"---Jed Anderson, CEO, EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- |…"
 license: CC-BY-4.0

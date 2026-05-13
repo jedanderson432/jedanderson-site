@@ -3,7 +3,7 @@ title: "When will I give up? . . ."
 slug: "when-will-i-give-up"
 date: 2021-06-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Trying to Protect Earth | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0
