@@ -5,13 +5,10 @@ date: 2023-06-18
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "NY Times article . . . \"Generative A.I. Can add $4.4 Trillion to Global Economy\" | | | |"
+abstract: "NY Times article . . . \"Generative A.I. Can add $4.4 Trillion to Global Economy\""
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_14_words"
 ---
 
 NY Times article . . . "Generative A.I. Can add $4.4 Trillion to Global Economy"
-
- |  |
-|  |

@@ -5,13 +5,10 @@ date: 2023-03-16
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: ". . . with a special unveiling . . . \"ChatGPT for Environmental\". . . | | | |"
+abstract: "Reminder: LyondellBasell/EnviroAI Event----March 23rd"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "dedup:title+date matches reminder-lyondellbasell-enviroai-event-march-23rd"
 ---
 
-. . . with a special unveiling . . . "ChatGPT for Environmental". . .
-
- |  |
-|  |
+_(duplicate of reminder-lyondellbasell-enviroai-event-march-23rd)_

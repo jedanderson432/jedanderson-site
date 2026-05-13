@@ -3,18 +3,140 @@ title: "Bell's Inequality Theorem"
 slug: "bells-inequality-theorem"
 date: 2022-07-18
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | Again . . . how did I get through the educational system without learning this?"
+abstract: "Again . . . how did I get through the educational system without learning this?"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| Again . . . how did I get through the educational system without learning this? |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | Bell's Inequality Theorem is not advanced physics . . . its basic physics . . .  . . . IT'S BASIC SCIENCE. | |  |  |  | | --- | --- | | |  | | --- | | How did I get through the educational system without learning this? | |  |  |  | | --- | --- | | |  | | --- | | Was society trying to protect me from a truth that made it uncomfortable? | |  |  |  | | --- | --- | | |  | | --- | | I don't care about comfort. Give me truth. Give me reality. Let me deal with it. Why protect past notions and views of the world as sacrosanct. The fact that [Bell's Inequality Theorem](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTNxna5viPR6LEAKIWkOQbY7ufTF7rwWXyi6nyBGqwX0A1BlffCax00tGT0PmJqU7VOR0lDJ5aI-f5Hg-QUZ-bjZU2wCLwBdjPVZnxO7h07vZDQJp-79c-1OZWUFAw5ZBhw==&c=&ch=) generates results that do not fit comfortably with my historical views of the world is not a reason to bury it. I'll remind all of us that our ancestors used to believe in witches. And we believed in aristotelian physics (i.e. that there were only 4 elements . . . air, water, fire, and earth). If we told someone in the 4th century that there were these things called atoms and black holes they would have stoned us. Literally. Fast forward to today, if a 10-year-old were to say that classical newtonian physics might need to be relegated to history like aristotelian physics, that kid would be rushed off to a special classroom. Guaranteed. Society just wouldn't tolerate it. I'll remind everyone that aristotelian physics still exists today. We of course still believe in air, water, fire, and earth . . . those elements still exist in our reality and are part of our everyday life. I love them at this level! But we also now have a much deeper understanding of these elements as well. We just have more truth . . . even though it initially made us uncomfortable . . . very, very, very uncomfortable. Just to note . . . our brains won't explode. Our brains are just fine with dealing with elements at different levels. They are more than capable if we educate and train them. | |  |  |  | | --- | --- | | |  | | --- | | Let's pursue truth . . . even if it makes us uncomfortable. | |  |  |  | | --- | --- | | |  | | --- | | -  ---"At some point I believe we humans will think of non-locality as 'no-big-deal'. It will feel completely normal."  - Jed Anderson | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | PHYSICS | |  |  |  | | --- | --- | | |  | | --- | | The continual iconoclastic evolution in our understanding . . .   - Aristotelian Physics (345 BC) - [Universe is made of 5 elements](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTFQKw7_xM9JjWqnN5_9ygQbVi7Kv9hs22dLOkaGp5fsbfXhXXJkfQ5brIBMuPhRittfpCbvtDPZKLxWbdyiKW3Ls7na9q5CgwNqnfrb7zANOgCHMA_qRRj-bO1V2b7xVdQ==&c=&ch=): earth, air, fire, water, and aether. Objects have natural motions: those of earth and water tend to fall; those of air and fire, to rise.  - Galilean Physics (1592) - Galileo determines first laws of motion by experimentation - Develops the concepts of: velocity, force, and inertia - natural state of motion is uniform motion or rest - objects fall at same rate regardless of mass  - Keplerian Physics (1609) - ﻿Kepler produces first kinematic description of orbits - Each object moves in an elliptical orbit  - Newtonian Physics ("Classical Physics" (1687) - Newton provides dynamical description of universe, using:  1. acceleration 2. momentum 3. conservation laws   [Jed description: Everything on an xyz axis in space-time]   - Quantum Physics ("Modern Physics) (1931) - Particles are waves and vice-versa - Probability is all we ever know - Measurement determines reality   [Jed description: Everything is probabilities]   - \_\_\_\_\_\_ Physics ("Post-Modern" Physics)(\_\_\_\_)? | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | COSMOLOGY | |  |  |  | | --- | --- | | |  | | --- | | The continual iconoclastic evolution in our understanding . . .   - Our Earth is round not flat (this notion of a round earth is contrary to intuition and most of our everyday experience . . . just think about it . . . half of us right now are hanging upside down!) - 500 B.C. (Pythagorus) [Eratosthenes calculated circumference in 240 B.C. and of course Columbus didn't sail off the edge of the earth when he tried it almost 2000 years later] - Our Earth isn't the center of the universe[earth rotates around the sun] - 240 B.C. (Aristarchus) [Calculations by Copernicus in 1532 and astronomical observations by Galileo in 1632] - Our sun isn't the center of the universe[stars are other suns] - 450 B.C. (Anaxagoras) [Bruno in 1584 and then Angelo Secchi proved through spectroscopy in 1860] - Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925"The day we discovered the universe"] - Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_? | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | . . . "To think that our big bang was the only bang would seem at this point to me to be a bit narrow-minded, anthropocentric, andin contradiction to the continual iconoclastic evolution in our cosmological understanding."  - Jed Anderson, EnviroAI | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTNQDKTnDZPGhQwNryxQUxa6EmWd3OCHOOLz9r7l0_kvSkGt3b-TkAFsDdzR_iYZpvjsvUPuSi2F4CxyB-pxIxqxZpjUgopCPMQ==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTEIf3EkoE_0IRLejb_wlUCq4fZhI_b9DTCUBC5BiUeegbfwpJay2ftGjwFbAgTg-OZMDlNxB1vGQzHLdUeCGcNlOEWRy3InI95WvL_GRdOBMHooy9rNf5K9i3jxroxsdyJxtQD6fwRh52j7lfiFBmIt8b5qud7zr9A==&c=&ch=) with Max Tegmark, MIT Professor of Physics. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+Again . . . how did I get through the educational system without learning this?
 
-|  |
-|  |
+[![](/images/posts/bells-inequality-theorem/img-01.jpg)](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTNxna5viPR6LEAKIWkOQbY7ufTF7rwWXyi6nyBGqwX0A1BlffCax00tGT0PmJqU7VOR0lDJ5aI-f5Hg-QUZ-bjZU2wCLwBdjPVZnxO7h07vZDQJp-79c-1OZWUFAw5ZBhw==&c=&ch=)
+
+Bell's Inequality Theorem is not advanced physics . . . its basic physics . . .
+
+. . . IT'S BASIC SCIENCE.
+
+How did I get through the educational system without learning this?
+
+Was society trying to protect me from a truth that made it uncomfortable?
+
+I don't care about comfort. Give me truth. Give me reality. Let me deal with it. Why protect past notions and views of the world as sacrosanct. The fact that [Bell's Inequality Theorem](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTNxna5viPR6LEAKIWkOQbY7ufTF7rwWXyi6nyBGqwX0A1BlffCax00tGT0PmJqU7VOR0lDJ5aI-f5Hg-QUZ-bjZU2wCLwBdjPVZnxO7h07vZDQJp-79c-1OZWUFAw5ZBhw==&c=&ch=) generates results that do not fit comfortably with my historical views of the world is not a reason to bury it. I'll remind all of us that our ancestors used to believe in witches. And we believed in aristotelian physics (i.e. that there were only 4 elements . . . air, water, fire, and earth). If we told someone in the 4th century that there were these things called atoms and black holes they would have stoned us. Literally. Fast forward to today, if a 10-year-old were to say that classical newtonian physics might need to be relegated to history like aristotelian physics, that kid would be rushed off to a special classroom. Guaranteed. Society just wouldn't tolerate it. I'll remind everyone that aristotelian physics still exists today. We of course still believe in air, water, fire, and earth . . . those elements still exist in our reality and are part of our everyday life. I love them at this level! But we also now have a much deeper understanding of these elements as well. We just have more truth . . . even though it initially made us uncomfortable . . . very, very, very uncomfortable. Just to note . . . our brains won't explode. Our brains are just fine with dealing with elements at different levels. They are more than capable if we educate and train them.
+
+Let's pursue truth . . . even if it makes us uncomfortable.
+
+---"At some point I believe we humans will think of non-locality as 'no-big-deal'. It will feel completely normal."
+
+- Jed Anderson
+
+![](/images/posts/bells-inequality-theorem/img-02.gif)
+
+![](/images/posts/bells-inequality-theorem/img-03.gif)
+
+PHYSICS
+
+The continual iconoclastic evolution in our understanding . . .
+
+- Aristotelian Physics (345 BC)
+- [Universe is made of 5 elements](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTFQKw7_xM9JjWqnN5_9ygQbVi7Kv9hs22dLOkaGp5fsbfXhXXJkfQ5brIBMuPhRittfpCbvtDPZKLxWbdyiKW3Ls7na9q5CgwNqnfrb7zANOgCHMA_qRRj-bO1V2b7xVdQ==&c=&ch=): earth, air, fire, water, and aether. Objects have natural motions: those of earth and water tend to fall; those of air and fire, to rise.
+
+- Galilean Physics (1592)
+- Galileo determines first laws of motion by experimentation
+- Develops the concepts of: velocity, force, and inertia
+- natural state of motion is uniform motion or rest
+- objects fall at same rate regardless of mass
+
+- Keplerian Physics (1609)
+- ﻿Kepler produces first kinematic description of orbits
+- Each object moves in an elliptical orbit
+
+- Newtonian Physics ("Classical Physics" (1687)
+- Newton provides dynamical description of universe, using:
+
+1. acceleration
+2. momentum
+3. conservation laws
+
+[Jed description: Everything on an xyz axis in space-time]
+
+- Quantum Physics ("Modern Physics) (1931)
+- Particles are waves and vice-versa
+- Probability is all we ever know
+- Measurement determines reality
+
+[Jed description: Everything is probabilities]
+
+- \_\_\_\_\_\_ Physics ("Post-Modern" Physics)(\_\_\_\_)?
+
+![](/images/posts/bells-inequality-theorem/img-04.gif)
+
+![](/images/posts/bells-inequality-theorem/img-05.jpg)
+
+![](/images/posts/bells-inequality-theorem/img-06.gif)
+
+COSMOLOGY
+
+The continual iconoclastic evolution in our understanding . . .
+
+- Our Earth is round not flat (this notion of a round earth is contrary to intuition and most of our everyday experience . . . just think about it . . . half of us right now are hanging upside down!) - 500 B.C. (Pythagorus) [Eratosthenes calculated circumference in 240 B.C. and of course Columbus didn't sail off the edge of the earth when he tried it almost 2000 years later]
+- Our Earth isn't the center of the universe[earth rotates around the sun] - 240 B.C. (Aristarchus) [Calculations by Copernicus in 1532 and astronomical observations by Galileo in 1632]
+- Our sun isn't the center of the universe[stars are other suns] - 450 B.C. (Anaxagoras) [Bruno in 1584 and then Angelo Secchi proved through spectroscopy in 1860]
+- Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925"The day we discovered the universe"]
+- Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_?
+
+![](/images/posts/bells-inequality-theorem/img-07.gif)
+
+![](/images/posts/bells-inequality-theorem/img-08.jpg)
+
+![](/images/posts/bells-inequality-theorem/img-09.jpg)
+
+![](/images/posts/bells-inequality-theorem/img-10.jpg)
+
+![](/images/posts/bells-inequality-theorem/img-11.jpg)
+
+![](/images/posts/bells-inequality-theorem/img-12.jpg)
+
+![](/images/posts/bells-inequality-theorem/img-13.jpg)
+
+. . . "To think that our big bang was the only bang would seem at this point to me to be a bit narrow-minded, anthropocentric, andin contradiction to the continual iconoclastic evolution in our cosmological understanding."
+
+- Jed Anderson, EnviroAI
+
+![](/images/posts/bells-inequality-theorem/img-14.png)
+
+![](/images/posts/bells-inequality-theorem/img-15.png)
+
+‌
+
+![](/images/posts/bells-inequality-theorem/img-16.gif)
+
+![](/images/posts/bells-inequality-theorem/img-17.gif)
+
+[![](/images/posts/bells-inequality-theorem/img-18.png)](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTEIf3EkoE_0IRLejb_wlUCq4fZhI_b9DTCUBC5BiUeegbfwpJay2ftGjwFbAgTg-OZMDlNxB1vGQzHLdUeCGcNlOEWRy3InI95WvL_GRdOBMHooy9rNf5K9i3jxroxsdyJxtQD6fwRh52j7lfiFBmIt8b5qud7zr9A==&c=&ch=)
+
+![](/images/posts/bells-inequality-theorem/img-19.gif)
+![](/images/posts/bells-inequality-theorem/img-20.gif)
+
+How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTNQDKTnDZPGhQwNryxQUxa6EmWd3OCHOOLz9r7l0_kvSkGt3b-TkAFsDdzR_iYZpvjsvUPuSi2F4CxyB-pxIxqxZpjUgopCPMQ==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
+
+![](/images/posts/bells-inequality-theorem/img-21.gif)
+
+![](/images/posts/bells-inequality-theorem/img-22.gif)
+
+[![](/images/posts/bells-inequality-theorem/img-23.png)](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTEIf3EkoE_0IRLejb_wlUCq4fZhI_b9DTCUBC5BiUeegbfwpJay2ftGjwFbAgTg-OZMDlNxB1vGQzHLdUeCGcNlOEWRy3InI95WvL_GRdOBMHooy9rNf5K9i3jxroxsdyJxtQD6fwRh52j7lfiFBmIt8b5qud7zr9A==&c=&ch=)
+
+![](/images/posts/bells-inequality-theorem/img-24.gif)
+![](/images/posts/bells-inequality-theorem/img-25.gif)
+
+How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTEIf3EkoE_0IRLejb_wlUCq4fZhI_b9DTCUBC5BiUeegbfwpJay2ftGjwFbAgTg-OZMDlNxB1vGQzHLdUeCGcNlOEWRy3InI95WvL_GRdOBMHooy9rNf5K9i3jxroxsdyJxtQD6fwRh52j7lfiFBmIt8b5qud7zr9A==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
+
+![](/images/posts/bells-inequality-theorem/img-26.gif)
+
+![](/images/posts/bells-inequality-theorem/img-27.gif)
+
+![](/images/posts/bells-inequality-theorem/img-28.png)
+
+![](/images/posts/bells-inequality-theorem/img-29.png)
+
+![](/images/posts/bells-inequality-theorem/img-30.gif)

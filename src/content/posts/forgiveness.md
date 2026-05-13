@@ -3,18 +3,65 @@ title: "Forgiveness"
 slug: "forgiveness"
 date: 2022-02-27
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
+abstract: "‌ . . . the challenge of forgiving each other . . . and most of all . . . ourselves. My wife thinks I will either revolutionize how we protect the environment . . . or become a monk."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-|  |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  | | --- | --- | | |  | | --- | | . . . the challenge of forgiving each other . . . and most of all . . . ourselves. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | My wife thinks I will either revolutionize how we protect the environment . . . or become a monk. :)  The latter is not my gig. I was thinking this morning though about forgiveness and what might just be the coolest thing about being a pastor. I think it might just be this:  In some liturgies, the pastor, in the confession and forgiveness of sins, tells the congregation: "Your sins are forgiven". The congregation then responds: "Your sins are forgiven." How cool would that be? How cool would that be to have 100-500 people saying back to you that your sins are forgiven? Imagine that. 100-500 people all telling you, all at the same time, telling you, the pastor, that your sins are forgiven. That to me might be the coolest thing about being a pastor. Cool. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | FORGIVENESS  Sometimes I wonder how many negative things that happen in the world stem from a reluctance to forgive ourselves and each other. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | "To forgive is to set a prisoner free and discover that the prisoner was you."— Lewis B. Smedes  "The weak can never forgive. Forgiveness is the attribute of the strong." --Mahatma Gandhi  "It’s not an easy journey, to get to a place where you forgive people. But it is such a powerful place, because it frees you.—Tyler Perry  “Forgive because none of us are perfect.” Anonymous  “If we really want to love we must learn how to forgive.” Mother Theresa  “Forgiveness is not an occasional act, it is a constant attitude.” Martin Luther King Jr.  “Forgiveness is a gift you give yourself.” Tony Robbins  "You can’t forgive without loving. And I don’t mean sentimentality. I don’t mean mush. I mean having enough courage to stand up and say, ‘I forgive. I’m finished with it.’— [Maya Angelou](https://r20.rs6.net/tn.jsp?f=001L9L8DXOkR6ju0uGa7xhmWn_Jm7rH4W7Pd-lYwt6-KtX-abhdqYnzDThttRZKB4QGhYMHtQFnI2XsocNxpug8afC86bp8BUIMi5wBpUjDSYFxr9p6qnt50QUFS26U7WV8J1UW9YkW9zy3rpmeCVTtj7oOHr1ysTx1C0uEpt1-Az0q4UecAXaer-yOGFi42xU4wH0sjb_eQ8WNjkoL-UFuYYNLEqjsvxt3&c=&ch=)  “It can be hard to forgive and let go but it’s important to remember that harboring the resentment and holding a grudge can hurt you even more. The word ‘forgive’ really means to give something up for yourself not for them.” –Jack Canfield  “Hate. It has caused a lot of problems in this world, but it has not solved one yet.” –Maya Angelou  “Forgiveness is the key to action and freedom.” –Hannah Arendt  “Forgiveness liberates the soul. It removes fear. That is why it is such a powerful weapon.” –Nelson Mandela  “I forgive myself and set myself free.” –Louise Hay | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+‌
 
-|  |
-|  |
+. . . the challenge of forgiving each other . . . and most of all . . . ourselves.
+
+![](/images/posts/forgiveness/img-01.gif)
+
+My wife thinks I will either revolutionize how we protect the environment . . . or become a monk. :)
+
+The latter is not my gig. I was thinking this morning though about forgiveness and what might just be the coolest thing about being a pastor. I think it might just be this:
+
+In some liturgies, the pastor, in the confession and forgiveness of sins, tells the congregation: "Your sins are forgiven". The congregation then responds: "Your sins are forgiven." How cool would that be? How cool would that be to have 100-500 people saying back to you that your sins are forgiven? Imagine that. 100-500 people all telling you, all at the same time, telling you, the pastor, that your sins are forgiven. That to me might be the coolest thing about being a pastor. Cool.
+
+![](/images/posts/forgiveness/img-02.gif)
+
+![](/images/posts/forgiveness/img-03.png)
+
+FORGIVENESS
+
+Sometimes I wonder how many negative things that happen in the world stem from a reluctance to forgive ourselves and each other.
+
+![](/images/posts/forgiveness/img-04.gif)
+
+"To forgive is to set a prisoner free and discover that the prisoner was you."— Lewis B. Smedes
+
+"The weak can never forgive. Forgiveness is the attribute of the strong." --Mahatma Gandhi
+
+"It’s not an easy journey, to get to a place where you forgive people. But it is such a powerful place, because it frees you.
+
+— Tyler Perry
+
+“Forgive because none of us are perfect.” Anonymous
+
+“If we really want to love we must learn how to forgive.” Mother Theresa
+
+“Forgiveness is not an occasional act, it is a constant attitude.” Martin Luther King Jr.
+
+“Forgiveness is a gift you give yourself.” Tony Robbins
+
+"You can’t forgive without loving. And I don’t mean sentimentality. I don’t mean mush. I mean having enough courage to stand up and say, ‘I forgive. I’m finished with it.’— [Maya Angelou](https://r20.rs6.net/tn.jsp?f=001L9L8DXOkR6ju0uGa7xhmWn_Jm7rH4W7Pd-lYwt6-KtX-abhdqYnzDThttRZKB4QGhYMHtQFnI2XsocNxpug8afC86bp8BUIMi5wBpUjDSYFxr9p6qnt50QUFS26U7WV8J1UW9YkW9zy3rpmeCVTtj7oOHr1ysTx1C0uEpt1-Az0q4UecAXaer-yOGFi42xU4wH0sjb_eQ8WNjkoL-UFuYYNLEqjsvxt3&c=&ch=)
+
+“It can be hard to forgive and let go but it’s important to remember that harboring the resentment and holding a grudge can hurt you even more. The word ‘forgive’ really means to give something up for yourself not for them.” –Jack Canfield
+
+“Hate. It has caused a lot of problems in this world, but it has not solved one yet.” –Maya Angelou
+
+“Forgiveness is the key to action and freedom.” –Hannah Arendt
+
+“Forgiveness liberates the soul. It removes fear. That is why it is such a powerful weapon.” –Nelson Mandela
+
+“I forgive myself and set myself free.” –Louise Hay
+
+![](/images/posts/forgiveness/img-05.gif)
+
+‌
+
+![](/images/posts/forgiveness/img-06.gif)

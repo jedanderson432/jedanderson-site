@@ -5,13 +5,10 @@ date: 2023-05-31
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "Headlines yesterday . . . \"AI Poses Risk of Extinction, Industry Leaders Warn\"---NY Times Article . . . MY REACTION . . . | | | |"
+abstract: "Extinction? AI Article in New York Times . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-
+quarantine_reason: "dedup:title+date matches extinction-ai-article-in-new-york-times"
 ---
 
-Headlines yesterday . . . "AI Poses Risk of Extinction, Industry Leaders Warn"---NY Times Article . . . MY REACTION . . .
-
- |  |
-|  |
+_(duplicate of extinction-ai-article-in-new-york-times)_

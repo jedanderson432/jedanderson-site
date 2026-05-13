@@ -3,15 +3,11 @@ title: "Houston Cancer Cluster"
 slug: "houston-cancer-cluster"
 date: 2022-08-19
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Is your home located near an environmental threat? Find out in less than 2 seconds with the HomePhase1 app. | | | |"
+abstract: "Is your home located near an environmental threat? Find out in less than 2 seconds with the HomePhase1 app."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-
 ---
 
 Is your home located near an environmental threat? Find out in less than 2 seconds with the HomePhase1 app.
-
- |  |
-|  |

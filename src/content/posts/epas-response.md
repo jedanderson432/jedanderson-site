@@ -3,18 +3,73 @@ title: "EPA's response . . ."
 slug: "epas-response"
 date: 2021-09-07
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | to Presidential Executive Order 13859---\"Maintaining American Leadership in Artificial Intelligence\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
+abstract: "to Presidential Executive Order 13859---\"Maintaining American Leadership in Artificial Intelligence\" Presidential Executive Order 13859 directed EPA and other federal agencies to answer 5 questions on…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| to Presidential Executive Order 13859---"Maintaining American Leadership in Artificial Intelligence" |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  |  |  |  | | --- | --- | | |  | | --- | | Presidential Executive Order 13859 directed EPA and other federal agencies to answer 5 questions on the subject of "[Maintaining American Leadership in Artificial Intelligence](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg3siOQGiQVKjefwF9nSoN-mdXWvTmj7r-iz-yAZazhS29OXhGD0tl89SBYOhjMqxM7Jqo-ErRJ5R1NTGXEKzI8PS9iX-nFXRb10a4JTedAsST-G-Bu0YZXsTnX7AgL74RKrhPacDbDwYAW7g9YVEJs9uk1lE-Fdehw==&c=&ch=)." | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | What do you think of EPA's recent response to the President on Artificial Intelligence? | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | | Based on the answers below, EPA is ready to help ensure American dominance in environmental AI? |  |  |  |  | | --- | --- | --- | | |  | | --- | | Yes |  |  | | --- | | [Select](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg3siOQGiQVKjnUi9FPtzp6ABERcQDsyR_yntZrenWTYeKbn9Ab1QokNhJcgBOaNHRBWOR-ixg04s_p_8CO8mylF6E_xtBoieuauezQG3bf5_Oi8SScirs4dVULlwQD9pKQ8luEeTGZ5R01wF_xWgE8Wh--kZ26Q6WsvGOvazM1So_56ZCy0dMS-gWbMgKUERsxBIaE1GqFB4YSPW7q_FsUJYaZk3nAb-cTorU50iHClJSnZGGDv0_3AaXgZ-OQyfPt1hseW6gFw9sZjZsRIjeg1CkTzC_OGEQqm2FZm5bbF-iB7TK11cDGMS4LzvTKbMW4rayIk0zvKsOU_dCRdy_N4ReoCozFC4UPVd6xD7cx6p7P_HiDC7tWrsPchxs83V5nsWe1pNruhiaDXdOeZlxS4Lxfx-lgiKVNs5QMTcngtKkthkZGPBPLJSKQAKiM3zmVZixcGg7P58OghkDie2PhmbRMpjTIJoFLD0SK8ma11Wf3DaDtMQNEvVAxFQh2A3J1vPbJi5hyOE1C-Kyya8_frnQW1R-37M0R4M-jQUU6jP9rY1Q7mBTFQ=&c=&ch=) | | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  | | --- | | No |  |  | | --- | | [Select](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg3siOQGiQVKj-sHA7Aeyw-_uthb8GwRnkfr67NQHaoXsGGeAj0dJ9mlJm50nbYotFj5Egdvhb7bbWZKC4H3IewaP9jDhxCP19ok8AsUVUsA4kLUyIBP28Bbwl0KKy05E5ZvCcuem1cFBKaApoQFQSvrCEoNVxe702cfZ0qczj9lQp8ci6GHg0CzxYWfTfGYVbAWTBI48OXLjU8kBQtl1fgEC5gXaNja8lpuPXgkmleklPWvdzE5i4cLMHJ0mrQ7gvcTbiZmfKhMtXtoEN7K2cuvdyqUWRC3HFlv1-SOzOwAWoA7tWZeZs1z6vWFgE5K6ANrFiSXtnt2yrZHsBqWx7igTUWGwMs-siFiIP9e9XLQFR_IA5AOR0qDKkybBZIgE0kn6LiOlOBkfFrmgMCyv0Q-4YvmDYPoU9MgRR0OW8y_DtyuYLklXSIQp4uDLu5ttg7YrBBtVGzhHENcK4wcoapU_SRqxzqhtflIGM8MLH6Y5wjYRCHUAbIXUO5q_2LZdcJmmjvCfdfMWmzq7YKErX7kS2inWZdFS-RPU5uRAG7cx-67hL8jJCoM=&c=&ch=) | | | |  | | --- | |  | | | | |  |  |  | | --- | --- | | |  | | --- | | EPA's response to the President on Maintaining American Leadership in Artificial Intelligence: | |  |  |  | | --- | --- | | |  | | --- | | 1. "EPA has no explicit statutory authority to issue regulations on the development and use of AI applications." [. . .] 2. "EPA has no approved or requested information collections related to the design, development, deployment, and operation of AI applications in the private sector." [. . .] 3. "EPA has not identified any AI applications for use outside of the Federal government that are within EPA’s regulatory authority." [. . .] 4. "EPA has not identified any existing processes, policies, or regulations that inhibit development or commercialization of AI applications within its authority." [. . .] 5. "EPA currently has no planned regulatory activity related to AI." [. . .]   ---U.S. EPA(August 16, 2021)  [FULL RESPONSE](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg3siOQGiQVKj5cTeDUPtqUKHVWt89BUQGldEgZkEe6nb_sqAd5_23eI6ea303VIPapj98a6Rpud-xkNsK8mSS2IAqL-vD_yxlfQvOeV2EXblWZcHiwziCMyPGEn8GDRdNtI5F6gHCz_rh4jxHw1Y-h36iuoIgSI0k7dx72-VIe2KSqn2Md_78g6A-RatKb4FnQ==&c=&ch=) (it's not much more than this) | |  |  | | --- | |  |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | EnviroAI has offered to help the President, EPA, state agencies, industry, environmental organizations, and citizens develop and prepare for environmental artificial intelligence applications.  We continue to stand ready . . . and are moving forward as fast as we can. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | ﻿ | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | |  |  |  | | --- | |  |  |  | | --- | |  |  |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  | |  |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | [www.enviro.ai](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg2j4no-jb6DBxm9gMj2BOAugidTADXtnGJGlojPSbstxC6oug-RoyCq9tVuXDl9UcQwJnww0H8SxHdj-_vaH9eY=&c=&ch=) | | | | | | | | |
-|  |
+to Presidential Executive Order 13859---"Maintaining American Leadership in Artificial Intelligence"
 
-|  |
-|  |
+Presidential Executive Order 13859 directed EPA and other federal agencies to answer 5 questions on the subject of "[Maintaining American Leadership in Artificial Intelligence](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg3siOQGiQVKjefwF9nSoN-mdXWvTmj7r-iz-yAZazhS29OXhGD0tl89SBYOhjMqxM7Jqo-ErRJ5R1NTGXEKzI8PS9iX-nFXRb10a4JTedAsST-G-Bu0YZXsTnX7AgL74RKrhPacDbDwYAW7g9YVEJs9uk1lE-Fdehw==&c=&ch=)."
+
+![](/images/posts/epas-response/img-01.gif)
+
+![](/images/posts/epas-response/img-02.gif)
+
+What do you think of EPA's recent response to the President on Artificial Intelligence?
+
+Based on the answers below, EPA is ready to help ensure American dominance in environmental AI?
+
+Yes
+
+[Select](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg3siOQGiQVKjnUi9FPtzp6ABERcQDsyR_yntZrenWTYeKbn9Ab1QokNhJcgBOaNHRBWOR-ixg04s_p_8CO8mylF6E_xtBoieuauezQG3bf5_Oi8SScirs4dVULlwQD9pKQ8luEeTGZ5R01wF_xWgE8Wh--kZ26Q6WsvGOvazM1So_56ZCy0dMS-gWbMgKUERsxBIaE1GqFB4YSPW7q_FsUJYaZk3nAb-cTorU50iHClJSnZGGDv0_3AaXgZ-OQyfPt1hseW6gFw9sZjZsRIjeg1CkTzC_OGEQqm2FZm5bbF-iB7TK11cDGMS4LzvTKbMW4rayIk0zvKsOU_dCRdy_N4ReoCozFC4UPVd6xD7cx6p7P_HiDC7tWrsPchxs83V5nsWe1pNruhiaDXdOeZlxS4Lxfx-lgiKVNs5QMTcngtKkthkZGPBPLJSKQAKiM3zmVZixcGg7P58OghkDie2PhmbRMpjTIJoFLD0SK8ma11Wf3DaDtMQNEvVAxFQh2A3J1vPbJi5hyOE1C-Kyya8_frnQW1R-37M0R4M-jQUU6jP9rY1Q7mBTFQ=&c=&ch=)
+
+![](/images/posts/epas-response/img-03.gif)
+
+No
+
+[Select](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg3siOQGiQVKj-sHA7Aeyw-_uthb8GwRnkfr67NQHaoXsGGeAj0dJ9mlJm50nbYotFj5Egdvhb7bbWZKC4H3IewaP9jDhxCP19ok8AsUVUsA4kLUyIBP28Bbwl0KKy05E5ZvCcuem1cFBKaApoQFQSvrCEoNVxe702cfZ0qczj9lQp8ci6GHg0CzxYWfTfGYVbAWTBI48OXLjU8kBQtl1fgEC5gXaNja8lpuPXgkmleklPWvdzE5i4cLMHJ0mrQ7gvcTbiZmfKhMtXtoEN7K2cuvdyqUWRC3HFlv1-SOzOwAWoA7tWZeZs1z6vWFgE5K6ANrFiSXtnt2yrZHsBqWx7igTUWGwMs-siFiIP9e9XLQFR_IA5AOR0qDKkybBZIgE0kn6LiOlOBkfFrmgMCyv0Q-4YvmDYPoU9MgRR0OW8y_DtyuYLklXSIQp4uDLu5ttg7YrBBtVGzhHENcK4wcoapU_SRqxzqhtflIGM8MLH6Y5wjYRCHUAbIXUO5q_2LZdcJmmjvCfdfMWmzq7YKErX7kS2inWZdFS-RPU5uRAG7cx-67hL8jJCoM=&c=&ch=)
+
+![](/images/posts/epas-response/img-04.gif)
+
+EPA's response to the President on Maintaining American Leadership in Artificial Intelligence:
+
+1. "EPA has no explicit statutory authority to issue regulations on the development and use of AI applications." [. . .]
+2. "EPA has no approved or requested information collections related to the design, development, deployment, and operation of AI applications in the private sector." [. . .]
+3. "EPA has not identified any AI applications for use outside of the Federal government that are within EPA’s regulatory authority." [. . .]
+4. "EPA has not identified any existing processes, policies, or regulations that inhibit development or commercialization of AI applications within its authority." [. . .]
+5. "EPA currently has no planned regulatory activity related to AI." [. . .]
+
+---U.S. EPA(August 16, 2021)
+
+[FULL RESPONSE](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg3siOQGiQVKj5cTeDUPtqUKHVWt89BUQGldEgZkEe6nb_sqAd5_23eI6ea303VIPapj98a6Rpud-xkNsK8mSS2IAqL-vD_yxlfQvOeV2EXblWZcHiwziCMyPGEn8GDRdNtI5F6gHCz_rh4jxHw1Y-h36iuoIgSI0k7dx72-VIe2KSqn2Md_78g6A-RatKb4FnQ==&c=&ch=) (it's not much more than this)
+
+![](/images/posts/epas-response/img-05.gif)
+
+EnviroAI has offered to help the President, EPA, state agencies, industry, environmental organizations, and citizens develop and prepare for environmental artificial intelligence applications.
+
+We continue to stand ready . . . and are moving forward as fast as we can.
+
+![](/images/posts/epas-response/img-06.gif)
+
+![](/images/posts/epas-response/img-07.gif)
+
+﻿
+
+[![](/images/posts/epas-response/img-08.png)](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg1LYyUxnR-YUu2OCjQLpxyBxBbJA2Ksz-_4PEa6_QfN4zTGeTiGsjnRqFiqxhW_uP4rbeukDcrUM66dMxb5Qa9o8eXaXhR0KChSfbgktVRtRj4jFNDs5cMQUWD-FJFpLQQ==&c=&ch=)
+
+[![](/images/posts/epas-response/img-09.png)](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGgzyKBZ0RfNi6cRs8oLgo9186HB2YtqrR5kqdQJEjKSaYyo372aKiy70ReNu56U5bF8eyj1OcuFZHlgR-bENaKBYhnnetPM4MOw==&c=&ch=)
+
+[![](/images/posts/epas-response/img-10.png)](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg-vOI9q28L3k-5zIw9cJmMyWCyMGTrVS_bYzX3Bgr3erveP6EJxqT53_b9GzPYhEqPDFaPe_20V7laSnYpWbSGJYdvmvjfs5AQ==&c=&ch=)
+
+[![](/images/posts/epas-response/img-11.png)](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg6WB3fT71B1ynZYe3HrleHOuyxvsBr07eaQKE-PLKvVfWWwf8Iz45wD__DyzDfFavWYxOQpq1PT80w7aOmM4_Jc7IGRT5wfSxDjuHWzVG2xax4Qk_Qn0R_0BWGUOfcHHOg==&c=&ch=)
+
+[![](/images/posts/epas-response/img-12.png)](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg6WB3fT71B1y8n2DAdd-9Qgh4prRyt9wwhSJXoNO5fHttq8oPbfFdn3FDA0KB6gww3n7E0S20LO5bStbEAPTX_xp_-kmEC0JV4BTmC1v__v7fNlt9ER18Ddo9p1unSFYgg==&c=&ch=)
+
+[![](/images/posts/epas-response/img-13.gif)](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGgzyKBZ0RfNi6cRs8oLgo9186HB2YtqrR5kqdQJEjKSaYyo372aKiy70ReNu56U5bF8eyj1OcuFZHlgR-bENaKBYhnnetPM4MOw==&c=&ch=)
+
+[![](/images/posts/epas-response/img-14.gif)](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg2j4no-jb6DBxm9gMj2BOAugidTADXtnGJGlojPSbstxC6oug-RoyCq9tVuXDl9UcQwJnww0H8SxHdj-_vaH9eY=&c=&ch=)
+
+[www.enviro.ai](https://r20.rs6.net/tn.jsp?f=001O813ZBZcFb6qnQJl6B4ivvpabJ1Rkh4AZ67VqHt6o5o5yoNjZGUGg2j4no-jb6DBxm9gMj2BOAugidTADXtnGJGlojPSbstxC6oug-RoyCq9tVuXDl9UcQwJnww0H8SxHdj-_vaH9eY=&c=&ch=)

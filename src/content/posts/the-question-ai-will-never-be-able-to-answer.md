@@ -5,13 +5,10 @@ date: 2022-05-15
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: ". . . and therefore the only question truly worth asking | | | |"
+abstract: ". . . and therefore the only question truly worth asking"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_8_words"
 ---
 
 . . . and therefore the only question truly worth asking
-
- |  |
-|  |

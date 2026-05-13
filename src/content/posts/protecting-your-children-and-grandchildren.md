@@ -3,18 +3,39 @@ title: "Protecting your children and grandchildren . . ."
 slug: "protecting-your-children-and-grandchildren"
 date: 2021-01-26
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
+abstract: "Protecting your children and grandchildren . . . ---\"It's the most powerful and most advanced air quality protection system in the world.\" It's truth . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-|  |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | | Protecting your children and grandchildren . . . | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  | | --- | | ---"It's the most powerful and most advanced air quality protection system in the world."  It's truth . . .  No one else in the world has connected [automated drones](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIOlCzlSpGeTdfTpFyl9iXPwAokyrZBlCN7ZPLVJ7PwLM2ckxczIm2HO17HjJHYX5gGLcNuVeeGCdEbrgW-bseymPKIk6XBPX0h_yRdh5Na4Zy3P7X0ZLTOo=&c=&ch=), [open-path FTIR](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIGMi4LdGGvOaj_m0EUpIPIwvtQoJNyXCNIHXiLeMCduRtekJSA6h_40bnbYOlE9J5NctfxsZaTnWp9hcXkJHFrifOCUdKengi8uBnbYHj6gS-omy5EM9C3g=&c=&ch=), [satellite imaging](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIFbG1Bl8UKmN0kwi_BafxxiX7KauhJgiF8XvM4nVBZk7NovGirZukRz41dOh8DYguCPAicNroJj7Ldhi7D3Q2SipjvFVClBV6f7LuAaYnVnnMhrkFOLDHzE=&c=&ch=), [fixed-optical gas imaging systems](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIFbG1Bl8UKmNMI9WSezr_nruR_nKqPoOMPhrThPtnoYs1Au1QsWiz9jK_-GlWBEjQ5uqXiLrqRz27zrlthTjtwVbtj1q4wFyUS7yw1VDZ5YJpHxqDJz8MbQ=&c=&ch=), [EMIS](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIFbG1Bl8UKmNv2q8Jj0ISGHYbwX_Jq8kN4BkVwGf3ipkUrLfof4mE_u9dNGEU7HSeVY9w-z_7LIBr0d4n4U2vm9Z2EZOKzfholgYYrZDebxLkSDLlTwQ-2qYSExn6-FqGw==&c=&ch=), [regulatory data, permitting data, ambient air data](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIMPr1OxuinV7YBt-ePVAcmz4pMmXVUkDlbEp4yUU5E5PsNgXc2dyBBoVKo8tqKuAAhXJuMk1VoxJa8A1UZZpKiNIiOOQqCJpECue_4jSmPYD_puBULs_jk020eh--aLbRg==&c=&ch=), and artificial intelligence into one combined environmental management system. When people take the time to see what we are capable of and the increasing power of artificial intelligence in the areas of natural language processing and image recognition . . . it's like their imagination just hops on a rocketship to Mars. You can just hear it in their voices. They literally had no idea that what we were doing was even possible."  ﻿- Jed Anderson, Creator, EnviroAI | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | ﻿SHOP THE APP STORE TODAY! | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  |  |  | | --- | |  |  |  |  | | --- | --- | | |  | | --- | | ‌ | | | | | | |
-|  |
+![](/images/posts/protecting-your-children-and-grandchildren/img-01.gif)
 
-|  |
-|  |
+Protecting your children and grandchildren . . .
+
+![](/images/posts/protecting-your-children-and-grandchildren/img-02.gif)
+
+![](/images/posts/protecting-your-children-and-grandchildren/img-03.gif)
+
+![](/images/posts/protecting-your-children-and-grandchildren/img-04.gif)
+
+![](/images/posts/protecting-your-children-and-grandchildren/img-05.gif)
+
+![](/images/posts/protecting-your-children-and-grandchildren/img-06.gif)
+
+---"It's the most powerful and most advanced air quality protection system in the world."
+
+It's truth . . .
+
+No one else in the world has connected [automated drones](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIOlCzlSpGeTdfTpFyl9iXPwAokyrZBlCN7ZPLVJ7PwLM2ckxczIm2HO17HjJHYX5gGLcNuVeeGCdEbrgW-bseymPKIk6XBPX0h_yRdh5Na4Zy3P7X0ZLTOo=&c=&ch=), [open-path FTIR](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIGMi4LdGGvOaj_m0EUpIPIwvtQoJNyXCNIHXiLeMCduRtekJSA6h_40bnbYOlE9J5NctfxsZaTnWp9hcXkJHFrifOCUdKengi8uBnbYHj6gS-omy5EM9C3g=&c=&ch=), [satellite imaging](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIFbG1Bl8UKmN0kwi_BafxxiX7KauhJgiF8XvM4nVBZk7NovGirZukRz41dOh8DYguCPAicNroJj7Ldhi7D3Q2SipjvFVClBV6f7LuAaYnVnnMhrkFOLDHzE=&c=&ch=), [fixed-optical gas imaging systems](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIFbG1Bl8UKmNMI9WSezr_nruR_nKqPoOMPhrThPtnoYs1Au1QsWiz9jK_-GlWBEjQ5uqXiLrqRz27zrlthTjtwVbtj1q4wFyUS7yw1VDZ5YJpHxqDJz8MbQ=&c=&ch=), [EMIS](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIFbG1Bl8UKmNv2q8Jj0ISGHYbwX_Jq8kN4BkVwGf3ipkUrLfof4mE_u9dNGEU7HSeVY9w-z_7LIBr0d4n4U2vm9Z2EZOKzfholgYYrZDebxLkSDLlTwQ-2qYSExn6-FqGw==&c=&ch=), [regulatory data, permitting data, ambient air data](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIMPr1OxuinV7YBt-ePVAcmz4pMmXVUkDlbEp4yUU5E5PsNgXc2dyBBoVKo8tqKuAAhXJuMk1VoxJa8A1UZZpKiNIiOOQqCJpECue_4jSmPYD_puBULs_jk020eh--aLbRg==&c=&ch=), and artificial intelligence into one combined environmental management system. When people take the time to see what we are capable of and the increasing power of artificial intelligence in the areas of natural language processing and image recognition . . . it's like their imagination just hops on a rocketship to Mars. You can just hear it in their voices. They literally had no idea that what we were doing was even possible."
+
+﻿- Jed Anderson, Creator, EnviroAI
+
+![](/images/posts/protecting-your-children-and-grandchildren/img-07.gif)
+
+﻿SHOP THE APP STORE TODAY!
+
+[![](/images/posts/protecting-your-children-and-grandchildren/img-08.gif)](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIDfRvxaFSnHNjEvjJPveQohDAPj9WuDUdR0T3S2HWJ-N8m9M7yIoS5EqZzAVxGnQ3_J7zJeR0TOwAW-y_-yTjnQ3TFP9JjWqVA==&c=&ch=)
+
+‌

@@ -3,18 +3,59 @@ title: "BlackRock . . . $9 Trillion"
 slug: "blackrock-9-trillion"
 date: 2021-02-03
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | Attracting Trillions in ESG Investments and Verifying its Effectiveness at the Neighborhood Level----EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
+abstract: "Attracting Trillions in ESG Investments and Verifying its Effectiveness at the Neighborhood Level----EnviroAI $7 Trillion BlackRock and other Environmental Social Governance (ESG) investment companies…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| Attracting Trillions in ESG Investments and Verifying its Effectiveness at the Neighborhood Level----EnviroAI |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | $7 Trillion | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | [BlackRock and other Environmental Social Governance (ESG) investment companies are now directing where over $7 trillion will be spent in the coming years.](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL3PhPBLOGUzFeiIFRWnDjZADao1kl-S7ZrTWY84182h1iFYspyAEAfBUI2y6umbHL7InJBXbZel0LnQLL7E5cssp-Pagm4NvW20eNLGrCMatq_EEVWbDhi_0UKgzvSLwmJ4-nOQzaCckwRzCwWc0Xae-Fy1xAbbXHLYgfy3VHGL0wltI-XQNMaj8inR8Q_MNbQ==&c=&ch=) | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | Hey BlackRock . . .  EnviroAI has the world's most advanced system for verifying that your trillions of dollars in Environmental Social Governance (ESG) investments are being met in real-time by the companies you invest in at the neighborhood fence-line level where it most counts in people's day-to-day lives. | |  |  | | --- | |  |  |  |  | | --- | --- | | |  | | --- | | EnviroAI | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | ---"If I was giving out trillions of dollars, I'd choose those companies who want to be the best at monitoring and verifying that my money will be well spent."  - Jed Anderson, CEO, EnviroAI | |  |  |  | | --- | --- | | |  | | --- | | EnviroAI's has the most advanced monitoring system for protecting air quality and neighborhoods.  How can we say this?  EnviroAI's artificial intelligence platform combines leading-edge remote sensing technologies including [automated drones](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL5G5GfnoHu8kH-S25cmEj8QVt6ZllB5Yy1L_KG7GbrM5rClFJD1DvbmE2nqtkkdyhUWc_rsY2_6XOImfnIuuFd6wQjwmHy_t4lx-LpTKfmZv3H8HJIvMsAM=&c=&ch=), [open-path FTIR](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL0TH9vIZaGP9LopMKpJRzRc1gG4nJupjrUi4ViwNnXDHhQnLPKDtObcmF_PJxEBjgHW51EHTLNuOTqcu5_QeSow_bmz38M9zo6QZB6CkwvFBwv1gHR4IPAI=&c=&ch=), [satellites](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL4vqeBfmRx0vwoGMKEFosc6j66m6xErdgDkzRXdEd4oEL6dJ159H58Ub9kUiKxivqfAH-XaUUYsZmZijsp9mk2WsepkvlXvbnyltDKDCqC_n8zi0cBJWYA8=&c=&ch=), and [fixed optical gas imaging systems](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL4vqeBfmRx0vBnEEJWgnbWeyeFOFZkT1v3GvBsWwi4DQJNGNAEMV2gcIKtlpCaVZgD7WWmvxT8EC6PcuJ17XYu2Sc0PKXBeyLVnTmGxFPWcr79qoYnsXwi0=&c=&ch=). Prices for this combined system start at only $135,500 per month, and individual systems at only $10,500 per month. | |  |  |  | | --- | --- | | |  | | --- | | Contact us [today](mailto:jed@enviro.ai). | |  |  |  | | --- | --- | | |  | | --- | | HELP ATTRACT $7 TRILLION IN INVESTMENT MONEY  SHOW BLACKROCK YOU ARE THE BEST AT PROTECTING THE ENVIRONMENT . . . AND WANT TO GET EVEN BETTER AT IT WITH THEIR MONEY! | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | This is an advertisement for EnviroAI | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+Attracting Trillions in ESG Investments and Verifying its Effectiveness at the Neighborhood Level----EnviroAI
 
-|  |
-|  |
+![](/images/posts/blackrock-9-trillion/img-01.gif)
+
+$7 Trillion
+
+![](/images/posts/blackrock-9-trillion/img-02.gif)
+
+[BlackRock and other Environmental Social Governance (ESG) investment companies are now directing where over $7 trillion will be spent in the coming years.](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL3PhPBLOGUzFeiIFRWnDjZADao1kl-S7ZrTWY84182h1iFYspyAEAfBUI2y6umbHL7InJBXbZel0LnQLL7E5cssp-Pagm4NvW20eNLGrCMatq_EEVWbDhi_0UKgzvSLwmJ4-nOQzaCckwRzCwWc0Xae-Fy1xAbbXHLYgfy3VHGL0wltI-XQNMaj8inR8Q_MNbQ==&c=&ch=)
+
+![](/images/posts/blackrock-9-trillion/img-03.gif)
+
+Hey BlackRock . . .
+
+EnviroAI has the world's most advanced system for verifying that your trillions of dollars in Environmental Social Governance (ESG) investments are being met in real-time by the companies you invest in at the neighborhood fence-line level where it most counts in people's day-to-day lives.
+
+EnviroAI
+
+![](/images/posts/blackrock-9-trillion/img-04.gif)
+
+![](/images/posts/blackrock-9-trillion/img-05.gif)
+
+[![](/images/posts/blackrock-9-trillion/img-06.gif)](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL_HIFhwhnEm8-utUgo8zfF71RDY8OMo-DJ4lXS6CZf-dRWmhuH3QVVMMDsWzxUpzDnd6OcQS6M-iMm623T_KNYy25er_agLtJUgjBI3DxSs6JvSDJAS_Q2x8Wtuio_petw==&c=&ch=)
+
+![](/images/posts/blackrock-9-trillion/img-07.gif)
+
+![](/images/posts/blackrock-9-trillion/img-08.gif)
+
+---"If I was giving out trillions of dollars, I'd choose those companies who want to be the best at monitoring and verifying that my money will be well spent."
+
+- Jed Anderson, CEO, EnviroAI
+
+EnviroAI's has the most advanced monitoring system for protecting air quality and neighborhoods.
+
+How can we say this?
+
+EnviroAI's artificial intelligence platform combines leading-edge remote sensing technologies including [automated drones](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL5G5GfnoHu8kH-S25cmEj8QVt6ZllB5Yy1L_KG7GbrM5rClFJD1DvbmE2nqtkkdyhUWc_rsY2_6XOImfnIuuFd6wQjwmHy_t4lx-LpTKfmZv3H8HJIvMsAM=&c=&ch=), [open-path FTIR](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL0TH9vIZaGP9LopMKpJRzRc1gG4nJupjrUi4ViwNnXDHhQnLPKDtObcmF_PJxEBjgHW51EHTLNuOTqcu5_QeSow_bmz38M9zo6QZB6CkwvFBwv1gHR4IPAI=&c=&ch=), [satellites](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL4vqeBfmRx0vwoGMKEFosc6j66m6xErdgDkzRXdEd4oEL6dJ159H58Ub9kUiKxivqfAH-XaUUYsZmZijsp9mk2WsepkvlXvbnyltDKDCqC_n8zi0cBJWYA8=&c=&ch=), and [fixed optical gas imaging systems](http://r20.rs6.net/tn.jsp?f=001nWO-S6mngValhk25bWqyrqidLiJC24Bx7prWoELnlaVXMZpZo2HsL4vqeBfmRx0vBnEEJWgnbWeyeFOFZkT1v3GvBsWwi4DQJNGNAEMV2gcIKtlpCaVZgD7WWmvxT8EC6PcuJ17XYu2Sc0PKXBeyLVnTmGxFPWcr79qoYnsXwi0=&c=&ch=). Prices for this combined system start at only $135,500 per month, and individual systems at only $10,500 per month.
+
+Contact us [today](mailto:jed@enviro.ai).
+
+HELP ATTRACT $7 TRILLION IN INVESTMENT MONEY
+
+SHOW BLACKROCK YOU ARE THE BEST AT PROTECTING THE ENVIRONMENT . . . AND WANT TO GET EVEN BETTER AT IT WITH THEIR MONEY!
+
+![](/images/posts/blackrock-9-trillion/img-09.gif)
+
+This is an advertisement for EnviroAI
+
+![](/images/posts/blackrock-9-trillion/img-10.gif)

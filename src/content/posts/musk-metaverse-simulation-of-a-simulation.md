@@ -1,0 +1,73 @@
+---
+title: "Musk & Metaverse . . . \"Simulation of a Simulation\"?"
+slug: "musk-metaverse-simulation-of-a-simulation"
+date: 2021-12-23
+type: post
+status: published
+tags: ["faith", "constant-contact-archive"]
+abstract: "Include nature in the simulation? ‌ Metaverse . . . \"Simulation of a Simulation\"?"
+license: CC-BY-4.0
+original_source: "Constant Contact campaign"
+---
+
+Include nature in the simulation?
+
+‌
+
+Metaverse . . . "Simulation of a Simulation"?
+
+[![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-01.png)](https://r20.rs6.net/tn.jsp?f=00174Stl4bzd_cMtqNTZTq1qBsgS1RVuYsqfZA9G8XCP42Za0FCxxdlVN__ykfRGgKLzXRrr3Dj_wSkYVxUd6AC_0WsZnUveFK13PbtI2oeVLT-DGdSD9J_t-9-XGRh__zBi8zp4ZARlqtzJDknx6qsk4Ex6gaypgz_7vGX97WRd3D_7gaJrPVBSw==&c=&ch=)
+
+‌
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-02.png)
+
+Musk: "What's outside the simulation?"
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-03.gif)
+
+Musk said that he's talked and thought about this question so many times now that he and is brother put it on a list of "banned questions if we were ever in a hot tub" :) ([interview](https://r20.rs6.net/tn.jsp?f=00174Stl4bzd_cMtqNTZTq1qBsgS1RVuYsqfZA9G8XCP42Za0FCxxdlVN__ykfRGgKLzXRrr3Dj_wSkYVxUd6AC_0WsZnUveFK13PbtI2oeVLT-DGdSD9J_t-9-XGRh__zBi8zp4ZARlqtzJDknx6qsk4Ex6gaypgz_7vGX97WRd3D_7gaJrPVBSw==&c=&ch=))
+
+[![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-04.png)](https://r20.rs6.net/tn.jsp?f=00174Stl4bzd_cMtqNTZTq1qBsgS1RVuYsqfZA9G8XCP42Za0FCxxdlVLYaZ1dQO2jngCTYIz9W-NgKwm0DhzbTWYmsOuTARZLuVkmNxXImU9-mvO1NEd_Lj8S4OvRXTVZPgwHgCYPhD9BVGV1B2Qs1mSIBb6eozW2GaLvLHegwTd7vNIAByicYBw==&c=&ch=)
+
+Stay open-minded as you watch this. Musk is keying on [Nick Bostrom's work at Oxford University](https://r20.rs6.net/tn.jsp?f=00174Stl4bzd_cMtqNTZTq1qBsgS1RVuYsqfZA9G8XCP42Za0FCxxdlVLYaZ1dQO2jnDGFRzvszHRHkiZddATh3c0dHWx9S1H-kdQSYK0CEE3auKhYtL8nLsqcrUpNr4ClYNWRrg9qPactIw97l4LAGxXNr42q9circGhn5n6lfhpD_c2yHsMaB-Q==&c=&ch=).
+
+- Interviewer: When maybe you or somebody else creates an AGI [Artificial General Intelligence] system and you get to ask her one question, what would that question be?
+
+- Musk: . . . what's outside the simulation?
+
+--- "I agree there is at least a possibility this is a 'simulation'. Doesn't bother me if it proves true. Simulations aren't run in automata where all answers and variables are known. Curiously its even supportive of the notion of free-will. A spiritual training program for eternal beings? How cool would that be to learn?"- Jed Anderson
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-05.gif)
+
+Human's Simulation
+
+--The Metaverse
+
+---"If the universe is a simulation . . . God didn't leave nature out . . . and we shouldn't either."
+
+- Jed Anderson, EnviroAI
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-06.gif)
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-07.gif)
+
+What happens to nature in human's simulation?
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-08.gif)
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-09.png)
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-10.gif)
+
+Come join us in including nature as a component of the metaverse.
+
+﻿
+
+[The Environmental Metaverse](https://r20.rs6.net/tn.jsp?f=00174Stl4bzd_cMtqNTZTq1qBsgS1RVuYsqfZA9G8XCP42Za0FCxxdlVN__ykfRGgKLiHy_u97kWvb2hLtSX08IXJeZSX8oZdvbcbvMKdMyaCqS-7Bl8-2iyRQH-A7iwCdqnRZDxzbefbGN5AfhHRZC5Q==&c=&ch=)
+
+[CONTACT](mailto:JED@ENVIRO.AI)
+
+[Contact Us](mailto:jed@enviro.ai)
+
+![](/images/posts/musk-metaverse-simulation-of-a-simulation/img-11.gif)

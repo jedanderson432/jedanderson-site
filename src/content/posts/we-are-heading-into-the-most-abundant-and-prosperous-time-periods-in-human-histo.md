@@ -1,0 +1,14 @@
+---
+title: "We are heading into the most abundant and prosperous time periods in human history."
+slug: "we-are-heading-into-the-most-abundant-and-prosperous-time-periods-in-human-histo"
+date: 2023-01-21
+type: post
+status: draft
+tags: ["faith", "constant-contact-archive"]
+abstract: ". . . building a \"machine\" to protect the environment"
+license: CC-BY-4.0
+original_source: "Constant Contact campaign"
+quarantine_reason: "short:body_only_7_words"
+---
+
+. . . building a "machine" to protect the environment

@@ -3,18 +3,49 @@ title: "Is your company falling behind in environmental? . . ."
 slug: "is-your-company-falling-behind-in-environmental"
 date: 2020-08-10
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | Gartner. Forbes. McKinsey. PWC."
+abstract: "Gartner. Forbes. McKinsey. PWC. Forbes report . . .PwC report. . . McKinsey report . . .Gartner report﻿ - Are you using artificial intelligence for environmental compliance and permitting?"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| Gartner. Forbes. McKinsey. PWC. |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | Forbes report . . .PwC report. . . McKinsey report . . .Gartner report﻿ | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | - Are you using artificial intelligence for environmental compliance and permitting?  - Is cost, speed, and environmental data preeminence important to you? | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | A.I. financial value to companies:   - [PwC says](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1MbkroZsPPzsNMD2Q9Sfzg9nS-A89jBlfwialtszdFFB2W1O0yxfIfzidHsvJtCP2WD1ayndhI4rToj41tupoPtMkAH6q22FCbWEN_8AEu-wf0LY3lrM4lCvSWPiH4TFj7ljgHOt4-fRlgRoLjR-jk3K7BTOQYbyJVSxv2b0tmP65kI=&c=&ch=) [$15.7 trillion](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1MbkroZsPPzsNMD2Q9Sfzg9nS-A89jBlfwialtszdFFB2W1O0yxfIfzidHsvJtCP2WD1ayndhI4rToj41tupoPtMkAH6q22FCbWEN_8AEu-wf0LY3lrM4lCvSWPiH4TFj7ljgHOt4-fRlgRoLjR-jk3K7BTOQYbyJVSxv2b0tmP65kI=&c=&ch=)over next 10 years.  - [McKinsey says](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1MbkaBRq4r7GbN01GI18I4fIQtU59AIOqzeuTsibBLIyPNUOWdw9SQCzDqS17CcpM-PT7iWFVXDdwuWaif5bIMBQQXZEOz3PdBcWEnng21_q9uKuNhsFuw10RbMeC1TooyEO-x9DrhjchQ2ijsS8B3l4gttIcoW2eyMMxrH9ny6iOag5dc_7TswDoOfj5-l1RWSbSH8vLoGHUJ--UGOzCheDrjAmqWJIEopa3qckgVNJr61Yy5TstpMqaA==&c=&ch=)[$13 trillion](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1MbkaBRq4r7GbN01GI18I4fIQtU59AIOqzeuTsibBLIyPNUOWdw9SQCzDqS17CcpM-PT7iWFVXDdwuWaif5bIMBQQXZEOz3PdBcWEnng21_q9uKuNhsFuw10RbMeC1TooyEO-x9DrhjchQ2ijsS8B3l4gttIcoW2eyMMxrH9ny6iOag5dc_7TswDoOfj5-l1RWSbSH8vLoGHUJ--UGOzCheDrjAmqWJIEopa3qckgVNJr61Yy5TstpMqaA==&c=&ch=) in 10 years.  - [Gartner says](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1Mbkc0C66vmEI1PNbi63MJJpzjKzo5IFC18963ht4eqsnFLh2ehRw7fPaimkULUIo_9RkRi6sLm2QAycjC30gP-cAztXQudVRfEpqujlJeAJMsXj1IXZr-nBa9PNqm6bEdizptwjZPi5Na-AszSDip0LogbSIUxbqfUYGj_tSfNGZCAafZR6PS4-HswDeVlKCpQgWZsGdMrpKTxdKhpy0L2k-xFViRXPlqRlUOzeQwkkhE_S45sWTKYlCk_nW7NYnElB&c=&ch=) [$2.9 trillion](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1Mbkc0C66vmEI1PNbi63MJJpzjKzo5IFC18963ht4eqsnFLh2ehRw7fPaimkULUIo_9RkRi6sLm2QAycjC30gP-cAztXQudVRfEpqujlJeAJMsXj1IXZr-nBa9PNqm6bEdizptwjZPi5Na-AszSDip0LogbSIUxbqfUYGj_tSfNGZCAafZR6PS4-HswDeVlKCpQgWZsGdMrpKTxdKhpy0L2k-xFViRXPlqRlUOzeQwkkhE_S45sWTKYlCk_nW7NYnElB&c=&ch=)in just a year. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  | | --- | --- | | |  | | --- | | INTELLIGENCE.DATA. POWER. SPEED | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | [For More Information on Ceres AI](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvjHGRt7ZdaYHenF8k6WBAANMk9hy1-ngCeTY1eVvFw7lV9piWbbj5FpEgwNIz4oUnLKbtatVU6XJEbKLIUvPcba9CR7wa7u1MQ==&c=&ch=) | | | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | | This is an advertisement for Ceres AI LLC | | | | | | |
-|  |
+Gartner. Forbes. McKinsey. PWC.
 
-|  |
-|  |
+![](/images/posts/is-your-company-falling-behind-in-environmental/img-01.gif)
+
+Forbes report . . .PwC report. . . McKinsey report . . .Gartner report﻿
+
+![](/images/posts/is-your-company-falling-behind-in-environmental/img-02.gif)
+
+- Are you using artificial intelligence for environmental compliance and permitting?
+
+- Is cost, speed, and environmental data preeminence important to you?
+
+![](/images/posts/is-your-company-falling-behind-in-environmental/img-03.gif)
+
+![](/images/posts/is-your-company-falling-behind-in-environmental/img-04.png)
+
+A.I. financial value to companies:
+
+- [PwC says](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1MbkroZsPPzsNMD2Q9Sfzg9nS-A89jBlfwialtszdFFB2W1O0yxfIfzidHsvJtCP2WD1ayndhI4rToj41tupoPtMkAH6q22FCbWEN_8AEu-wf0LY3lrM4lCvSWPiH4TFj7ljgHOt4-fRlgRoLjR-jk3K7BTOQYbyJVSxv2b0tmP65kI=&c=&ch=) [$15.7 trillion](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1MbkroZsPPzsNMD2Q9Sfzg9nS-A89jBlfwialtszdFFB2W1O0yxfIfzidHsvJtCP2WD1ayndhI4rToj41tupoPtMkAH6q22FCbWEN_8AEu-wf0LY3lrM4lCvSWPiH4TFj7ljgHOt4-fRlgRoLjR-jk3K7BTOQYbyJVSxv2b0tmP65kI=&c=&ch=)over next 10 years.
+
+- [McKinsey says](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1MbkaBRq4r7GbN01GI18I4fIQtU59AIOqzeuTsibBLIyPNUOWdw9SQCzDqS17CcpM-PT7iWFVXDdwuWaif5bIMBQQXZEOz3PdBcWEnng21_q9uKuNhsFuw10RbMeC1TooyEO-x9DrhjchQ2ijsS8B3l4gttIcoW2eyMMxrH9ny6iOag5dc_7TswDoOfj5-l1RWSbSH8vLoGHUJ--UGOzCheDrjAmqWJIEopa3qckgVNJr61Yy5TstpMqaA==&c=&ch=)[$13 trillion](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1MbkaBRq4r7GbN01GI18I4fIQtU59AIOqzeuTsibBLIyPNUOWdw9SQCzDqS17CcpM-PT7iWFVXDdwuWaif5bIMBQQXZEOz3PdBcWEnng21_q9uKuNhsFuw10RbMeC1TooyEO-x9DrhjchQ2ijsS8B3l4gttIcoW2eyMMxrH9ny6iOag5dc_7TswDoOfj5-l1RWSbSH8vLoGHUJ--UGOzCheDrjAmqWJIEopa3qckgVNJr61Yy5TstpMqaA==&c=&ch=) in 10 years.
+
+- [Gartner says](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1Mbkc0C66vmEI1PNbi63MJJpzjKzo5IFC18963ht4eqsnFLh2ehRw7fPaimkULUIo_9RkRi6sLm2QAycjC30gP-cAztXQudVRfEpqujlJeAJMsXj1IXZr-nBa9PNqm6bEdizptwjZPi5Na-AszSDip0LogbSIUxbqfUYGj_tSfNGZCAafZR6PS4-HswDeVlKCpQgWZsGdMrpKTxdKhpy0L2k-xFViRXPlqRlUOzeQwkkhE_S45sWTKYlCk_nW7NYnElB&c=&ch=) [$2.9 trillion](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvlf0z-oG1Mbkc0C66vmEI1PNbi63MJJpzjKzo5IFC18963ht4eqsnFLh2ehRw7fPaimkULUIo_9RkRi6sLm2QAycjC30gP-cAztXQudVRfEpqujlJeAJMsXj1IXZr-nBa9PNqm6bEdizptwjZPi5Na-AszSDip0LogbSIUxbqfUYGj_tSfNGZCAafZR6PS4-HswDeVlKCpQgWZsGdMrpKTxdKhpy0L2k-xFViRXPlqRlUOzeQwkkhE_S45sWTKYlCk_nW7NYnElB&c=&ch=)in just a year.
+
+![](/images/posts/is-your-company-falling-behind-in-environmental/img-05.gif)
+
+‌
+
+INTELLIGENCE.DATA. POWER. SPEED
+
+![](/images/posts/is-your-company-falling-behind-in-environmental/img-06.png)
+
+![](/images/posts/is-your-company-falling-behind-in-environmental/img-07.gif)
+
+[For More Information on Ceres AI](http://r20.rs6.net/tn.jsp?f=001qQ0KDrYK_2PRQavN3uo--Jr9wELeBmv0fw8ifqmzzUC2zGodDD6gvjHGRt7ZdaYHenF8k6WBAANMk9hy1-ngCeTY1eVvFw7lV9piWbbj5FpEgwNIz4oUnLKbtatVU6XJEbKLIUvPcba9CR7wa7u1MQ==&c=&ch=)
+
+![](/images/posts/is-your-company-falling-behind-in-environmental/img-08.gif)
+
+This is an advertisement for Ceres AI LLC

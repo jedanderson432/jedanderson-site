@@ -3,18 +3,61 @@ title: "Neuralink . . . Musk gets $205 Million"
 slug: "neuralink-musk-gets-205-million"
 date: 2021-08-04
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | \"I plan to be the '2nd in line' to get one\". . . pursuing EnviroAI's mission to increase the human to nature connection speed. . ."
+abstract: "\"I plan to be the '2nd in line' to get one\". . . pursuing EnviroAI's mission to increase the human to nature connection speed. . . Neuralink . . . Musk gets $205 Million In the news . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| "I plan to be the '2nd in line' to get one". . . pursuing EnviroAI's mission to increase the human to nature connection speed. . . |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | Neuralink . . . Musk gets $205 Million | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | | In the news . . . | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | "Elon Musk’s brain computer start-up raises $205 million from Google Ventures and others" ([link](https://r20.rs6.net/tn.jsp?f=001dYcCn8iGjp-1elFDJ-RLCJkt3lSHwFTpLiRx4pXk36DUOLH8zmmjFlWjZwxM_saAqW3jvO6IIe-n4y4KlH7p0_gytMygOLZrdCHpwLtDByY3RhKnHWa6lq0_fBgNjQk5nQFpkGCn17vCRYp4Pv7TP-X65SffagkL3-_m8bbar_BkFZxNfiPTp2XOjvt6VzqozYF7jnOOP4GKle2nR6tPort_HZBOhGOoYVgtbWIQhfQ1Zjpv-6ubYdCtd77yaczvlkVqxFhfC0SjwBIB_sBOGNBTgPqKtmbdcnL2UZwWY9hprPS88N8qpPbYmBDYFBSrQ2JnFpuFGZ3e6L5fto7tuVuqJQpHiXsqGPT-7jFy_0xiuSqIJdUj56ecPC7L4pbDqcGFqYfWk04a742OV03ssAhVq71qBFBswtUS31HrLHhXjuPSM9RpTEYO8a99I3On&c=&ch=))  "Elon Musk Neuralink competitor announces FDA trial for brain device" ([link](https://r20.rs6.net/tn.jsp?f=001dYcCn8iGjp-1elFDJ-RLCJkt3lSHwFTpLiRx4pXk36DUOLH8zmmjFlWjZwxM_saAE83vSzFTVbmu4WplU1_yjjjMRTaUny2TX9CIST5Smr6LbINa2xdn1qMKUAkcyG6zWSv5rqyPuQdv8baMQSe0YjMVqtDXmYASCamRXvUJS8MxunqvxPlcqDhG7aNKWs5XWtdZQsNLVX7WiE1gGE-GK5QhIEi112cKxKoS-JHNnNoVlVYReh6xGGM-85BTQ755E8GtjlIOnPsxqUQBq016jQ==&c=&ch=))  "A competitor to Elon Musk's Neuralink raises $20 million with help from Dallas' Court Westcott" ([link](https://r20.rs6.net/tn.jsp?f=001dYcCn8iGjp-1elFDJ-RLCJkt3lSHwFTpLiRx4pXk36DUOLH8zmmjFlWjZwxM_saARwrF6UCoIQUAET7O1KEYYJHjmDd0LOcUnRaAA0HLE0RmA4RZrY9DPfaqnAMI3UwUAw4GADAaHUPhoHkXP4r8DaK6E4ZXnjDuQt83X1sBvwyMJBo_4rog-nyhG95XF5UDvZAZl9QZl6KCDYlqXm3F7v6nVH4RrO7Q93wcUe1pnCQU0Waz8sLehOJuRobJMPqLUkKAfmrFdYbci4mMmCRqjkIWQpoOhnJeLtsQKXGtL0jy1Tdb-_2Q4tXrjTsewQiJLPZ8i0711Y0=&c=&ch=)) | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  | |  |  |  |  | | --- | --- | | |  | | --- | | NATURE. DATA.  TRANSCENDING BIOLOGY  TO SAVE BIOLOGY | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | I find my biology very limiting. It's wonderful. But it's limiting. It breaks down. It doesn't allow me to fully serve humanity and others like I'd like to. It doesn't give me access to all the data I want. I know that others feel the same way.  Our brains are massively parallel and operate in three dimensions, but our connection speed is awful (only about 200 calculations per second compared to a contemporary electronic circuit that operates at more than 200 million calculations per second--essentially the speed of light). We are also physically limited by the size of our skull in that there is only room for amount 100 trillion interneuoronal connections. Computers of course can be the size of a house or ostensibly the universe. Our human memory capacity also is limited to about 1 terabyte even in the best examples of our species (which isn't me) (the cerebral cortex has about 125 trillion synapses and each synapse can store about 4.7 bits of information). Google's latest supercomputer comparatively achieved 1 exabyte . . . which is 1 million times more storage just in one computer. It makes me smile to realize that our brains (perhaps even sooner than I realize) will be able to access and share exabytes of data at the speed of light. This will make it much faster to find environmental solutions and share solutions with each other and the environment. | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | Augment your environmental intelligence starting today . . .  The future is more rapidly becoming the present. | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | ---"Philosophers have long noted that their children were born into a more complex world than that of their ancestors. This early and perhaps even unconscious recognition of accelerating change may have been the catalyst for much of the utopian, apocalyptic, and millennialist thinking in our Western tradition. But the modern difference is that now everyone notices the pace of progress on some level, not simply the visionaries." - John Smart | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+"I plan to be the '2nd in line' to get one". . . pursuing EnviroAI's mission to increase the human to nature connection speed. . .
 
-|  |
-|  |
+Neuralink . . . Musk gets $205 Million
+
+![](/images/posts/neuralink-musk-gets-205-million/img-01.png)
+
+In the news . . .
+
+![](/images/posts/neuralink-musk-gets-205-million/img-02.gif)
+
+![](/images/posts/neuralink-musk-gets-205-million/img-03.gif)
+
+"Elon Musk’s brain computer start-up raises $205 million from Google Ventures and others" ([link](https://r20.rs6.net/tn.jsp?f=001dYcCn8iGjp-1elFDJ-RLCJkt3lSHwFTpLiRx4pXk36DUOLH8zmmjFlWjZwxM_saAqW3jvO6IIe-n4y4KlH7p0_gytMygOLZrdCHpwLtDByY3RhKnHWa6lq0_fBgNjQk5nQFpkGCn17vCRYp4Pv7TP-X65SffagkL3-_m8bbar_BkFZxNfiPTp2XOjvt6VzqozYF7jnOOP4GKle2nR6tPort_HZBOhGOoYVgtbWIQhfQ1Zjpv-6ubYdCtd77yaczvlkVqxFhfC0SjwBIB_sBOGNBTgPqKtmbdcnL2UZwWY9hprPS88N8qpPbYmBDYFBSrQ2JnFpuFGZ3e6L5fto7tuVuqJQpHiXsqGPT-7jFy_0xiuSqIJdUj56ecPC7L4pbDqcGFqYfWk04a742OV03ssAhVq71qBFBswtUS31HrLHhXjuPSM9RpTEYO8a99I3On&c=&ch=))
+
+"Elon Musk Neuralink competitor announces FDA trial for brain device" ([link](https://r20.rs6.net/tn.jsp?f=001dYcCn8iGjp-1elFDJ-RLCJkt3lSHwFTpLiRx4pXk36DUOLH8zmmjFlWjZwxM_saAE83vSzFTVbmu4WplU1_yjjjMRTaUny2TX9CIST5Smr6LbINa2xdn1qMKUAkcyG6zWSv5rqyPuQdv8baMQSe0YjMVqtDXmYASCamRXvUJS8MxunqvxPlcqDhG7aNKWs5XWtdZQsNLVX7WiE1gGE-GK5QhIEi112cKxKoS-JHNnNoVlVYReh6xGGM-85BTQ755E8GtjlIOnPsxqUQBq016jQ==&c=&ch=))
+
+"A competitor to Elon Musk's Neuralink raises $20 million with help from Dallas' Court Westcott" ([link](https://r20.rs6.net/tn.jsp?f=001dYcCn8iGjp-1elFDJ-RLCJkt3lSHwFTpLiRx4pXk36DUOLH8zmmjFlWjZwxM_saARwrF6UCoIQUAET7O1KEYYJHjmDd0LOcUnRaAA0HLE0RmA4RZrY9DPfaqnAMI3UwUAw4GADAaHUPhoHkXP4r8DaK6E4ZXnjDuQt83X1sBvwyMJBo_4rog-nyhG95XF5UDvZAZl9QZl6KCDYlqXm3F7v6nVH4RrO7Q93wcUe1pnCQU0Waz8sLehOJuRobJMPqLUkKAfmrFdYbci4mMmCRqjkIWQpoOhnJeLtsQKXGtL0jy1Tdb-_2Q4tXrjTsewQiJLPZ8i0711Y0=&c=&ch=))
+
+![](/images/posts/neuralink-musk-gets-205-million/img-04.gif)
+
+NATURE. DATA.
+
+TRANSCENDING BIOLOGY
+
+TO SAVE BIOLOGY
+
+![](/images/posts/neuralink-musk-gets-205-million/img-05.gif)
+
+![](/images/posts/neuralink-musk-gets-205-million/img-06.png)
+
+![](/images/posts/neuralink-musk-gets-205-million/img-07.png)
+
+I find my biology very limiting. It's wonderful. But it's limiting. It breaks down. It doesn't allow me to fully serve humanity and others like I'd like to. It doesn't give me access to all the data I want. I know that others feel the same way.
+
+Our brains are massively parallel and operate in three dimensions, but our connection speed is awful (only about 200 calculations per second compared to a contemporary electronic circuit that operates at more than 200 million calculations per second--essentially the speed of light). We are also physically limited by the size of our skull in that there is only room for amount 100 trillion interneuoronal connections. Computers of course can be the size of a house or ostensibly the universe. Our human memory capacity also is limited to about 1 terabyte even in the best examples of our species (which isn't me) (the cerebral cortex has about 125 trillion synapses and each synapse can store about 4.7 bits of information). Google's latest supercomputer comparatively achieved 1 exabyte . . . which is 1 million times more storage just in one computer. It makes me smile to realize that our brains (perhaps even sooner than I realize) will be able to access and share exabytes of data at the speed of light. This will make it much faster to find environmental solutions and share solutions with each other and the environment.
+
+![](/images/posts/neuralink-musk-gets-205-million/img-08.png)
+
+![](/images/posts/neuralink-musk-gets-205-million/img-09.gif)
+
+Augment your environmental intelligence starting today . . .
+
+The future is more rapidly becoming the present.
+
+[![](/images/posts/neuralink-musk-gets-205-million/img-10.png)](https://r20.rs6.net/tn.jsp?f=001dYcCn8iGjp-1elFDJ-RLCJkt3lSHwFTpLiRx4pXk36DUOLH8zmmjFlWjZwxM_saAyEDMSzbEZ0bl0RWhC6NuCujXA4CW0mc2juIU9qIYqX0iw17PCsQcfBLeeHJNQ1VpvfGtfmJPs-sFaYG0rVr_TQ==&c=&ch=)
+
+---"Philosophers have long noted that their children were born into a more complex world than that of their ancestors. This early and perhaps even unconscious recognition of accelerating change may have been the catalyst for much of the utopian, apocalyptic, and millennialist thinking in our Western tradition. But the modern difference is that now everyone notices the pace of progress on some level, not simply the visionaries." - John Smart
+
+![](/images/posts/neuralink-musk-gets-205-million/img-11.gif)
+
+![](/images/posts/neuralink-musk-gets-205-million/img-12.gif)

@@ -1,6 +1,5 @@
-=== extract-cc-emails.py start 2026-05-13T11:21:00.861294 ===
-Pre-existing slugs across collections: 559
-Reconstructed 194 CC posts from previous run (40 published, 154 quarantined)
+=== extract-cc-emails.py start 2026-05-13T13:53:09.928336 ===
+Pre-existing slugs across collections: 365
 unzip-skip constant contact campaigns 3.zip (already extracted)
 unzip-skip constant contact campaigns 4.zip (already extracted)
 unzip-skip constant contact campaigns 5.zip (already extracted)
@@ -20,909 +19,1095 @@ unzip-skip group 7.zip (already extracted)
 unzip-skip group 8.zip (already extracted)
 unzip-skip group 9.zip (already extracted)
 Extracted-zip roots: 18
-Total .eml files: 882
-  quarantined an-quot-iceberg-quot-of-environmental-data-2 (2022-10-11) reason=short:body_only_8_words
-  quarantined 650-billion-lost-70-of-workers-digitally-distracted-2 (2022-11-01) reason=short:body_only_9_words
-  quarantined inclusivity-of-all-of-life-2 (2022-10-28) reason=short:body_only_10_words
-  quarantined not-just-an-environmental-search-engine-2 (2022-09-27) reason=short:body_only_0_words
-  quarantined now-governors-perry-and-abbott-on-thursday-talking-sustainability-tundra-unveili-2 (2022-09-17) reason=short:body_only_14_words
-  quarantined the-planets-search-engine-the-earths-search-engine-the-worlds-search-engine-here-3 (2022-09-23) reason=short:body_only_7_words
-  quarantined (dedup) the-planets-search-engine-the-earths-search-engine-the-worlds-search-engine-here-4 matches the-planets-search-engine-the-earths-search-engine-the-worlds-search-engine-here-3
-  quarantined 1-ton-of-carbon-2 (2022-10-09) reason=short:body_only_0_words
-  quarantined 3-done-97-to-go-2 (2022-08-28) reason=short:body_only_3_words
-  quarantined 8-8-million-people-4-5-trillion-6-2-annual-loss-in-global-economic-output-2 (2022-10-06) reason=short:body_only_4_words
-  quarantined (dedup) quot-fysics-quot-and-quot-phaith-quot-sic-2 matches quot-fysics-quot-and-quot-phaith-quot-sic
-  quarantined (dedup) quot-it-aint-just-physical-quot-2 matches quot-it-aint-just-physical-quot
-  quarantined quot-jed-how-will-you-help-protect-us-and-our-families-even-after-youre-dead-quo-2 (2022-08-24) reason=short:body_only_3_words
-  quarantined (dedup) quot-self-help-books-are-a-waste-of-time-quot-jed-anderson-2 matches quot-self-help-books-are-a-waste-of-time-quot-jed-anderson
-  quarantined quot-the-google-button-quot-2 (2022-10-18) reason=short:body_only_31_words
-  quarantined quot-thoreau-running-a-billion-dollar-company-quot-2 (2022-10-03) reason=short:body_only_0_words
-  quarantined a-planetary-thank-you-to-the-quot-coolest-quot-companies-in-the-world-2 (2022-10-14) reason=short:body_only_22_words
-  quarantined a-sneak-peek-at-quot-tundra-quot-2 (2022-09-15) reason=short:body_only_6_words
-  quarantined corporate-quot-climate-heroes-quot-2 (2022-10-08) reason=short:body_only_6_words
-  quarantined entropy-clean-air-act-yes-2 (2022-09-04) reason=short:body_only_7_words
-  quarantined environmental-imagination-2 (2022-09-11) reason=short:body_only_5_words
-  quarantined every-house-and-every-family-in-texas-11-1-million-homes-and-9-9-million-familie-2 (2022-08-21) reason=short:body_only_3_words
-  quarantined everyone-will-laugh-at-this-2 (2022-10-31) reason=short:body_only_8_words
-  quarantined google-vs-tundra-2 (2022-09-10) reason=short:body_only_9_words
-  quarantined governor-abbott-tundra-to-be-unveiled-at-the-gulf-coast-industry-forum-thursday-2 (2022-09-06) reason=short:body_only_18_words
-  quarantined helping-children-and-adults-protect-the-planet-2 (2022-09-09) reason=short:body_only_15_words
-  quarantined homephase1-app-now-in-the-google-store-2 (2022-08-23) reason=short:body_only_15_words
-  quarantined hoooray-just-announced-nasa-asteroid-deflection-successful-deviated-path-by-32-m-2 (2022-10-11) reason=short:body_only_24_words
-  quarantined how-cool-are-you-2 (2022-09-14) reason=short:body_only_3_words
-  quarantined i-am-so-excited-in-2-hours-nasa-crashing-into-asteroid-to-try-to-deflect-it-2 (2022-09-26) reason=short:body_only_19_words
-  quarantined inspire-are-you-an-environmental-inspiration-are-you-an-inspiration-in-whatever-2 (2022-10-25) reason=short:body_only_6_words
-  quarantined interview-quot-the-gulf-coast-growth-show-quot-2 (2022-10-10) reason=short:body_only_10_words
-  quarantined kite-flying-2 (2022-09-28) reason=short:body_only_0_words
-  quarantined light-light-light-2 (2022-10-22) reason=short:body_only_3_words
-  quarantined louisiana-awma-conference-2 (2022-10-24) reason=short:body_only_6_words
-  quarantined new-tundra-video-2 (2022-09-21) reason=short:body_only_2_words
-  quarantined only-36-more-searches-2 (2022-10-07) reason=short:body_only_5_words
-  quarantined our-mission-protect-life-on-earth-2 (2022-09-01) reason=short:body_only_0_words
-  quarantined over-gt-32-000-views-2 (2022-10-17) reason=short:body_only_2_words
-  quarantined re-writing-the-environmental-regulatory-system-using-machine-learning-2 (2022-10-15) reason=short:body_only_12_words
-  quarantined search-the-internet-cool-the-planet-2 (2022-09-05) reason=short:body_only_11_words
-  quarantined the-quot-coolest-quot-corporations-on-the-planet-lyondellbasell-formosa-lubrizol-2 (2022-10-13) reason=short:body_only_26_words
-  quarantined the-day-the-relationship-between-nature-and-humanity-quot-did-a-180-quot-2 (2022-10-04) reason=short:body_only_11_words
-  quarantined these-will-make-you-smile-2 (2022-10-08) reason=short:body_only_17_words
-  quarantined top-of-the-tundra-quot-leader-board-quot-2 (2022-09-30) reason=short:body_only_14_words
-  quarantined way-to-go-planet-were-already-at-72-kilograms-of-carbon-reduced-2 (2022-09-24) reason=short:body_only_22_words
-  quarantined whats-below-the-surface-2 (2022-10-10) reason=short:body_only_5_words
-  quarantined whats-the-full-climate-potential-of-tundra-2 (2022-09-20) reason=short:body_only_0_words
-  quarantined who-are-the-quot-coolest-fortune-500-corporations-quot-in-the-world-when-it-come-2 (2022-10-24) reason=short:body_only_7_words
-  quarantined who-came-up-with-tundra-2 (2022-09-07) reason=short:body_only_2_words
-  quarantined superabundance-of-faith-but-this-has-me-trembling-2 (2022-08-13) reason=short:body_only_0_words
-  quarantined 1-2-children-cancer-how-many-children-can-we-help-save-quot-i-will-call-saving-e-2 (2022-08-19) reason=short:body_only_1_words
-  quarantined 2-complete-2 (2022-06-27) reason=short:body_only_7_words
-  quarantined quot-child-like-quot-environmental-protection-2 (2022-06-10) reason=short:body_only_7_words
-  quarantined quot-gamifying-quot-vs-spreadsheets-which-is-a-more-fun-way-to-protect-the-envir-2 (2022-08-17) reason=short:body_only_23_words
-  quarantined quot-i-feel-that-i-must-protect-you-and-your-family-regardless-of-whether-you-wa-2 (2022-08-05) reason=short:body_only_20_words
-  quarantined quot-jed-quot-lasso-2 (2022-06-25) reason=short:body_only_7_words
-  quarantined quot-tundra-quot-a-cooler-search-engine-2 (2022-07-31) reason=short:body_only_11_words
-  quarantined quot-we-just-added-billions-of-dollars-of-value-to-the-environment-3 (2022-07-04) reason=short:body_only_0_words
-  quarantined quot-we-just-added-billions-of-dollars-of-value-to-the-environment-4 (2022-07-05) reason=short:body_only_0_words
-  quarantined announcing-quot-bizphase1-quot-2 (2022-07-27) reason=short:body_only_5_words
-  quarantined (dedup) antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality-3 matches antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality
-  quarantined (dedup) antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality-4 matches antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality
-  quarantined awma-june-23rd-amp-nasa-presentation-2 (2022-06-06) reason=short:body_only_5_words
-  quarantined (dedup) bells-inequality-theorem-2 matches bells-inequality-theorem
-  quarantined cool-the-planet-2 (2022-08-12) reason=short:body_only_5_words
-  quarantined enviroais-headquarters-officially-opens-in-houstons-new-innovation-district-2 (2022-07-02) reason=short:body_only_14_words
-  quarantined enviroai-quot-we-must-protect-our-family-quot-jed-anderson-ceo-enviroai-2 (2022-07-09) reason=short:body_only_11_words
-  quarantined (dedup) fundamental-2 matches fundamental
-  quarantined (dedup) fysics-sic-amp-faith-2 matches fysics-sic-amp-faith
-  quarantined gaming-and-the-quot-environmental-metaverse-quot-2 (2022-06-20) reason=short:body_only_6_words
-  quarantined here-is-where-my-thinking-goes-well-beyond-elon-musk-2 (2022-06-24) reason=short:body_only_2_words
-  quarantined home-environmental-assessment-is-your-family-safe-2 (2022-06-30) reason=short:body_only_10_words
-  quarantined homephase1-app-2 (2022-06-19) reason=short:body_only_10_words
-  quarantined homephase1-4 (2022-07-12) reason=short:body_only_9_words
-  quarantined (dedup) homephase1-5 matches homephase1-4
-  quarantined houston-cancer-cluster-2 (2022-08-19) reason=short:body_only_19_words
-  quarantined houston-gets-world-cup-eyes-of-the-world-on-houston-2 (2022-06-17) reason=short:body_only_15_words
-  quarantined houstons-new-innovation-community-2 (2022-07-17) reason=short:body_only_10_words
-  quarantined i-showed-enviroai-quot-s-latest-powers-to-one-of-the-most-prominent-and-powerful-2 (2022-06-18) reason=short:body_only_4_words
-  quarantined im-just-sitting-here-crying-2 (2022-07-12) reason=short:body_only_6_words
-  quarantined is-ai-now-sentient-2 (2022-06-26) reason=short:body_only_8_words
-  quarantined is-this-your-house-2 (2022-07-03) reason=short:body_only_9_words
-  quarantined it-would-take-me-a100-hours-of-lecturing-to-completely-unpack-this-statement-2 (2022-06-28) reason=short:body_only_4_words
-  quarantined its-in-the-app-store-homephase1-2 (2022-08-04) reason=short:body_only_8_words
-  quarantined jeds-house-2 (2022-07-13) reason=short:body_only_6_words
-  quarantined love-heres-a-secret-to-always-feeling-it-2 (2022-07-26) reason=short:body_only_0_words
-  quarantined mckinsey-report-quot-quantum-computing-might-just-save-the-planet-quot-2 (2022-07-24) reason=short:body_only_6_words
-  quarantined new-enviroverse-video-3 (2022-06-21) reason=short:body_only_7_words
-  quarantined (dedup) new-enviroverse-video-4 matches new-enviroverse-video-3
-  quarantined podcast-with-googles-deepmind-ceo-2 (2022-07-20) reason=short:body_only_12_words
-  quarantined protecting-music-2 (2022-06-29) reason=short:body_only_2_words
-  quarantined protecting-the-environment-on-social-media-3 (2022-06-09) reason=short:body_only_17_words
-  quarantined (dedup) protecting-the-environment-on-social-media-4 matches protecting-the-environment-on-social-media-3
-  quarantined push-this-button-and-we-will-protect-you-2 (2022-07-19) reason=short:body_only_8_words
-  quarantined reminder-awma-luncheon-tomorrow-in-houston-2 (2022-06-22) reason=short:body_only_20_words
-  quarantined responsibility-2 (2022-06-23) reason=short:body_only_8_words
-  quarantined what-is-a-more-fundamental-force-in-the-universe-if-its-not-quantum-physics-2 (2022-06-16) reason=short:body_only_16_words
-  quarantined whats-the-matter-with-matter-2 (2022-07-16) reason=short:body_only_16_words
-  quarantined (dedup) wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it-2 matches wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it
-  quarantined 150k-plus-jobs-environmental-professionals-needed-to-help-build-the-environmenta-2 (2022-05-05) reason=short:body_only_0_words
-  quarantined the-future-of-environmental-protection-3 (2022-05-09) reason=short:body_only_11_words
-  quarantined 1-2-of-life-on-earth-2 (2022-05-10) reason=short:body_only_9_words
-  quarantined (dedup) 1st-quot-contact-lenses-quot-made-for-augmented-reality-2 matches 1st-quot-contact-lenses-quot-made-for-augmented-reality
-  quarantined (dedup) 3-questions-2 matches 3-questions
-  quarantined quot-access-to-facility-and-environmental-data-like-youve-never-seen-them-before-3 (2022-03-21) reason=short:body_only_40_words
-  quarantined (dedup) quot-access-to-facility-and-environmental-data-like-youve-never-seen-them-before-4 matches quot-access-to-facility-and-environmental-data-like-youve-never-seen-them-before-3
-  quarantined (dedup) quot-if-it-looks-like-a-duck-2 matches quot-if-it-looks-like-a-duck
-  quarantined (dedup) quot-its-not-the-game-board-2 matches quot-its-not-the-game-board
-  quarantined (dedup) quot-shocking-level-of-detail-quot-2 matches quot-shocking-level-of-detail-quot
-  quarantined (dedup) quot-the-amount-of-space-in-space-is-incredible-quot-2 matches quot-the-amount-of-space-in-space-is-incredible-quot
-  quarantined (dedup) acquisition-news-quot-enviroai-to-acquire-emerge-e-notify-in-7-figure-deal-to-bo-2 matches acquisition-news-quot-enviroai-to-acquire-emerge-e-notify-in-7-figure-deal-to-bo
-  quarantined (dedup) citi-says-metaverse-economy-could-be-worth-13-trillion-by-2030-2 matches citi-says-metaverse-economy-could-be-worth-13-trillion-by-2030
-  quarantined (dedup) emergency-amp-environmental-communications-2 matches emergency-amp-environmental-communications
-  quarantined (dedup) entropy-information-theory-and-the-holographic-principle-2 matches entropy-information-theory-and-the-holographic-principle
-  quarantined enviroai-was-selected-quot-houston-startup-showcase-quot-2 (2022-04-19) reason=short:body_only_41_words
-  quarantined (dedup) fear-time-travel-education-2 matches fear-time-travel-education
-  quarantined (dedup) follow-up-quot-world-quantum-day-quot-2 matches follow-up-quot-world-quantum-day-quot
-  quarantined (dedup) free-gift-happy-earth-day-2 matches free-gift-happy-earth-day
-  quarantined (dedup) go-to-any-chemical-plant-2 matches go-to-any-chemical-plant
-  quarantined google-deepmind-quot-the-game-is-over-quot-2 (2022-05-19) reason=short:body_only_10_words
-  quarantined (dedup) homephase1-6 matches homephase1-3
-  quarantined (dedup) how-close-2 matches how-close
-  quarantined (dedup) human-only-2 matches human-only
-  quarantined inspire-2 (2022-04-22) reason=short:body_only_22_words
-  quarantined metaverse-letter-to-epa-2 (2022-05-13) reason=short:body_only_12_words
-  quarantined (dedup) only-1-career-2 matches only-1-career
-  quarantined our-new-home-at-the-ion-houston-2 (2022-06-04) reason=short:body_only_4_words
-  quarantined picture-of-our-team-working-this-morning-2 (2022-06-06) reason=short:body_only_26_words
-  quarantined (dedup) pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion-2 matches pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion
-  quarantined (dedup) pitch-contest-tonight-come-cheer-everyonese-invited-6-00-pm-at-the-ion-2 matches pitch-contest-tonight-come-cheer-everyonese-invited-6-00-pm-at-the-ion
-  quarantined (dedup) praise-praise-praise-and-bewilderment-2 matches praise-praise-praise-and-bewilderment
-  quarantined (dedup) press-release-news-story-and-official-announcement-5 matches press-release-news-story-and-official-announcement
-  quarantined (dedup) press-release-news-story-and-official-announcement-6 matches press-release-news-story-and-official-announcement
-  quarantined (dedup) press-release-news-story-and-official-announcement-7 matches press-release-news-story-and-official-announcement
-  quarantined (dedup) press-release-news-story-and-official-announcement-8 matches press-release-news-story-and-official-announcement
-  quarantined (dedup) reality-my-simplest-example-yet-2 matches reality-my-simplest-example-yet
-  quarantined (dedup) see-the-power-2 matches see-the-power
-  quarantined shepherding-2 (2022-06-05) reason=short:body_only_0_words
-  quarantined simple-and-profound-2 (2022-05-08) reason=short:body_only_9_words
-  quarantined (dedup) so-excited-about-artificial-general-intelligence-2 matches so-excited-about-artificial-general-intelligence
-  quarantined tending-the-garden-2 (2022-05-22) reason=short:body_only_5_words
-  quarantined the-future-of-environmental-protection-4 (2022-05-08) reason=short:body_only_10_words
-  quarantined (dedup) the-most-powerful-force-not-gravity-or-electromagnetic-or-strong-or-weak-nuclear-2 matches the-most-powerful-force-not-gravity-or-electromagnetic-or-strong-or-weak-nuclear
-  quarantined the-question-ai-will-never-be-able-to-answer-2 (2022-05-15) reason=short:body_only_8_words
-  quarantined (dedup) today-is-quot-world-quantum-day-quot-april-14th-2 matches today-is-quot-world-quantum-day-quot-april-14th
-  quarantined (dedup) try-it-yourself-google-quot-environmental-metaverse-quot-2 matches try-it-yourself-google-quot-environmental-metaverse-quot
-  quarantined what-does-james-clerk-maxwell-have-to-do-with-the-enviroverse-2 (2022-05-06) reason=short:body_only_1_words
-  quarantined why-wilderness-why-desert-experiences-in-life-2 (2022-05-07) reason=short:body_only_0_words
-  quarantined (dedup) youre-the-1st-to-see-this-announcement-2 matches youre-the-1st-to-see-this-announcement
-  quarantined writing-permit-applications-writing-agency-letters-writing-reports-answering-com-2 (2023-02-06) reason=short:body_only_16_words
-  quarantined 1-question-whats-the-answer-2 (2023-02-22) reason=short:body_only_16_words
-  quarantined 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature-3 (2023-06-18) reason=short:body_only_14_words
-  quarantined (dedup) 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature-4 matches 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature-3
-  quarantined now-google-announces-quot-surprise-event-quot-2 (2023-02-08) reason=short:body_only_7_words
-  quarantined only-tundrachat-2 (2023-02-24) reason=short:body_only_6_words
-  quarantined the-40-rule-2 (2023-02-12) reason=short:body_only_0_words
+Total .eml files: 932
+  bg-images-harvested 2
+  published writing-permit-applications-writing-agency-letters-writing-reports-answering-com (2023-02-06, 16 words, 3/3 imgs)
+  bg-images-harvested 2
+  published 1-question-whats-the-answer (2023-02-22, 16 words, 30/30 imgs)
+  bg-images-harvested 2
+  quarantined 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature (2023-06-18) reason=short:body_only_14_words
+  quarantined (dedup) 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature-2 matches 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature
+  bg-images-harvested 2
+  quarantined now-google-announces-surprise-event (2023-02-08) reason=short:body_only_7_words
+  bg-images-harvested 2
+  quarantined only-tundrachat (2023-02-24) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined the-40-rule (2023-02-12) reason=short:body_only_0_words
+  bg-images-harvested 2
+  published 74-of-universe-coming-from (2023-02-18, 13220 words, 116/116 imgs)
+  quarantined (dedup) 74-of-universe-coming-from-2 matches 74-of-universe-coming-from
+  bg-images-harvested 2
+  quarantined me-or-ai (2023-02-17) reason=short:body_only_14_words
+  bg-images-harvested 2
+  published want-to-be-blown-away (2023-02-21, 18 words, 8/8 imgs)
+  bg-images-harvested 2
+  quarantined it-took-our-ceo-a-while (2023-02-19) reason=short:body_only_14_words
+  bg-images-harvested 2
+  quarantined move-37 (2023-03-07) reason=short:body_only_5_words
+  bg-images-harvested 2
+  quarantined ai-now-training-180-million-times-faster-on-a-quantum-computer-in-china (2023-06-11) reason=short:body_only_13_words
+  bg-images-harvested 2
+  quarantined bad-agi-good-agi (2023-03-04) reason=short:body_only_6_words
+  quarantined (dedup) bad-agi-good-agi-2 matches bad-agi-good-agi
+  bg-images-harvested 2
+  quarantined big-unveiling (2023-03-18) reason=short:body_only_14_words
+  bg-images-harvested 2
+  published canadian-government-looking-to-enviroai (2023-05-21, 29 words, 14/14 imgs)
+  published ceo-jed-anderson-sounds-the-warning-alarm-on-the-nonalignment-problem-between-ai (2023-05-19, 25 words, 8/8 imgs)
+  bg-images-harvested 2
+  quarantined demo-the-worlds-first-environmental-chatbot (2023-04-04) reason=short:body_only_8_words
+  bg-images-harvested 2
+  quarantined environmental-super-intelligence (2023-07-29) reason=short:body_only_8_words
+  bg-images-harvested 2
+  published extinction-ai-article-in-new-york-times (2023-05-31, 15 words, 46/46 imgs)
+  bg-images-harvested 2
+  quarantined flyer-product-description (2023-02-23) reason=short:body_only_13_words
+  bg-images-harvested 2
+  quarantined gpt-4-api-openai-has-made-this-available-gpt-5-coming-and-new-language-model-fro (2023-07-08) reason=short:body_only_2_words
+  bg-images-harvested 2
+  published harbor-or-open-sea (2023-06-30, 15151 words, 117/117 imgs)
+  bg-images-harvested 2
+  quarantined how-can-we-try-to-think-so-different (2023-02-26) reason=short:body_only_3_words
+  bg-images-harvested 2
+  quarantined information-doesnt-fare-well-here (2023-08-03) reason=short:body_only_0_words
+  bg-images-harvested 2
+  quarantined keeping-the-mission-alive (2023-07-07) reason=short:body_only_3_words
+  bg-images-harvested 2
+  published lyondellbasell-enviroai-event-march-23rd (2023-03-06, 15 words, 2/2 imgs)
+  bg-images-harvested 2
+  published lyondellbasell-enviroai-event-march-23rd-2 (2023-03-02, 15 words, 2/2 imgs)
+  bg-images-harvested 2
+  quarantined lyondellbasell-enviroai-event-march-23rd-3 (2023-03-13) reason=short:body_only_4_words
+  bg-images-harvested 2
+  published medical-ai-environmental-ai-were-doing-the-same-thing (2023-07-31, 16 words, 52/52 imgs)
+  bg-images-harvested 2
+  quarantined merge-with-ai (2023-05-01) reason=short:body_only_5_words
+  bg-images-harvested 2
+  quarantined microsoft-announces-surprise-event (2023-02-07) reason=short:body_only_3_words
+  bg-images-harvested 2
+  quarantined my-selfish-goal (2023-06-04) reason=short:body_only_4_words
+  bg-images-harvested 2
+  quarantined one-sheep-or-the-flock (2023-07-09) reason=short:body_only_7_words
+  bg-images-harvested 2
+  quarantined reminder-lyondellbasell-enviroai-event-march-23rd (2023-03-16) reason=short:body_only_7_words
+  bg-images-harvested 2
+  published scientists-still-abuzz-news-stories-still-churning (2023-02-20, 13626 words, 124/124 imgs)
+  bg-images-harvested 2
+  quarantined simpler-language (2023-03-17) reason=short:body_only_10_words
+  bg-images-harvested 2
+  quarantined story-what-if-a-bee-could-create-ai (2023-05-28) reason=short:body_only_4_words
+  quarantined (dedup) story-what-if-a-bee-could-create-ai-2 matches story-what-if-a-bee-could-create-ai
+  bg-images-harvested 2
+  quarantined tutorials-by-tundrapro (2023-03-03) reason=short:body_only_8_words
+  bg-images-harvested 2
+  quarantined want-a-new-job-whats-environmental-prompt-engineering (2023-08-26) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined wealth-power-fame-reputation (2023-06-03) reason=short:body_only_0_words
+  bg-images-harvested 2
+  quarantined what-isnt-information (2023-07-06) reason=short:body_only_13_words
+  bg-images-harvested 2
+  quarantined when-kids-ask-me (2023-03-28) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined when-we-all-get-to-heaven (2023-05-20) reason=short:body_only_0_words
+  bg-images-harvested 2
+  published where-there-is-magic (2023-07-23, 15688 words, 129/129 imgs)
+  bg-images-harvested 2
+  published whitney-houston-and-the-single-electron-postulate (2023-07-30, 16715 words, 137/137 imgs)
+  bg-images-harvested 2
+  published who-in-history-does-ai-mention-the-most-and-perhaps-think-about-the-most-who-is (2023-08-20, 19 words, 49/49 imgs)
+  bg-images-harvested 2
+  quarantined an-iceberg-of-environmental-data (2022-10-11) reason=short:body_only_8_words
+  bg-images-harvested 2
+  quarantined 650-billion-lost-70-of-workers-digitally-distracted (2022-11-01) reason=short:body_only_9_words
+  bg-images-harvested 2
+  quarantined inclusivity-of-all-of-life (2022-10-28) reason=short:body_only_10_words
+  bg-images-harvested 2
+  quarantined not-just-an-environmental-search-engine (2022-09-27) reason=short:body_only_0_words
+  bg-images-harvested 2
+  quarantined now-governors-perry-and-abbott-on-thursday-talking-sustainability-tundra-unveili (2022-09-17) reason=short:body_only_14_words
+  bg-images-harvested 2
+  quarantined the-planets-search-engine-the-earths-search-engine-the-worlds-search-engine-here (2022-09-23) reason=short:body_only_7_words
+  quarantined (dedup) the-planets-search-engine-the-earths-search-engine-the-worlds-search-engine-here-2 matches the-planets-search-engine-the-earths-search-engine-the-worlds-search-engine-here
+  bg-images-harvested 2
+  quarantined 1-ton-of-carbon (2022-10-09) reason=short:body_only_0_words
+  bg-images-harvested 2
+  quarantined 3-done-97-to-go (2022-08-28) reason=short:body_only_3_words
+  bg-images-harvested 2
+  quarantined 8-8-million-people-4-5-trillion-6-2-annual-loss-in-global-economic-output (2022-10-06) reason=short:body_only_4_words
+  bg-images-harvested 2
+  published fysics-and-phaith-sic (2022-10-16, 170 words, 10/10 imgs)
+  published it-aint-just-physical (2022-09-29, 908 words, 19/19 imgs)
+  bg-images-harvested 2
+  quarantined jed-how-will-you-help-protect-us-and-our-families-even-after-youre-dead (2022-08-24) reason=short:body_only_3_words
+  published self-help-books-are-a-waste-of-time-jed-anderson (2022-08-27, 957 words, 14/14 imgs)
+  bg-images-harvested 2
+  published the-google-button (2022-10-18, 31 words, 4/4 imgs)
+  bg-images-harvested 2
+  quarantined thoreau-running-a-billion-dollar-company (2022-10-03) reason=short:body_only_0_words
+  bg-images-harvested 2
+  published a-planetary-thank-you-to-the-coolest-companies-in-the-world (2022-10-14, 22 words, 9/9 imgs)
+  bg-images-harvested 2
+  quarantined a-sneak-peek-at-tundra (2022-09-15) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined corporate-climate-heroes (2022-10-08) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined entropy-clean-air-act-yes (2022-09-04) reason=short:body_only_7_words
+  bg-images-harvested 2
+  quarantined environmental-imagination (2022-09-11) reason=short:body_only_5_words
+  bg-images-harvested 2
+  quarantined every-house-and-every-family-in-texas-11-1-million-homes-and-9-9-million-familie (2022-08-21) reason=short:body_only_3_words
+  bg-images-harvested 2
+  quarantined everyone-will-laugh-at-this (2022-10-31) reason=short:body_only_8_words
+  bg-images-harvested 2
+  quarantined google-vs-tundra (2022-09-10) reason=short:body_only_9_words
+  bg-images-harvested 2
+  published governor-abbott-tundra-to-be-unveiled-at-the-gulf-coast-industry-forum-thursday (2022-09-06, 18 words, 3/3 imgs)
+  bg-images-harvested 2
+  published helping-children-and-adults-protect-the-planet (2022-09-09, 15 words, 4/4 imgs)
+  bg-images-harvested 2
+  published homephase1-app-now-in-the-google-store (2022-08-23, 15 words, 9/9 imgs)
+  published hoooray-just-announced-nasa-asteroid-deflection-successful-deviated-path-by-32-m (2022-10-11, 24 words, 13/13 imgs)
+  bg-images-harvested 2
+  quarantined how-cool-are-you (2022-09-14) reason=short:body_only_3_words
+  published i-am-so-excited-in-2-hours-nasa-crashing-into-asteroid-to-try-to-deflect-it (2022-09-26, 19 words, 15/15 imgs)
+  bg-images-harvested 2
+  quarantined inspire-are-you-an-environmental-inspiration-are-you-an-inspiration-in-whatever (2022-10-25) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined interview-the-gulf-coast-growth-show (2022-10-10) reason=short:body_only_10_words
+  bg-images-harvested 2
+  quarantined kite-flying (2022-09-28) reason=short:body_only_0_words
+  bg-images-harvested 2
+  quarantined light-light-light (2022-10-22) reason=short:body_only_3_words
+  bg-images-harvested 2
+  quarantined louisiana-awma-conference (2022-10-24) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined new-tundra-video (2022-09-21) reason=short:body_only_2_words
+  bg-images-harvested 2
+  quarantined only-36-more-searches (2022-10-07) reason=short:body_only_5_words
+  bg-images-harvested 2
+  quarantined our-mission-protect-life-on-earth (2022-09-01) reason=short:body_only_0_words
+  quarantined over-32-000-views (2022-10-17) reason=short:body_only_2_words
+  bg-images-harvested 2
+  quarantined re-writing-the-environmental-regulatory-system-using-machine-learning (2022-10-15) reason=short:body_only_12_words
+  bg-images-harvested 2
+  quarantined search-the-internet-cool-the-planet (2022-09-05) reason=short:body_only_11_words
+  bg-images-harvested 2
+  published the-coolest-corporations-on-the-planet-lyondellbasell-formosa-lubrizol (2022-10-13, 26 words, 4/4 imgs)
+  quarantined the-day-the-relationship-between-nature-and-humanity-did-a-180 (2022-10-04) reason=short:body_only_11_words
+  bg-images-harvested 2
+  published these-will-make-you-smile (2022-10-08, 17 words, 3/3 imgs)
+  bg-images-harvested 2
+  quarantined top-of-the-tundra-leader-board (2022-09-30) reason=short:body_only_14_words
+  bg-images-harvested 2
+  published way-to-go-planet-were-already-at-72-kilograms-of-carbon-reduced (2022-09-24, 22 words, 5/5 imgs)
+  bg-images-harvested 2
+  quarantined whats-below-the-surface (2022-10-10) reason=short:body_only_5_words
+  bg-images-harvested 2
+  quarantined whats-the-full-climate-potential-of-tundra (2022-09-20) reason=short:body_only_0_words
+  bg-images-harvested 2
+  quarantined who-are-the-coolest-fortune-500-corporations-in-the-world-when-it-comes-to-inter (2022-10-24) reason=short:body_only_7_words
+  bg-images-harvested 2
+  quarantined who-came-up-with-tundra (2022-09-07) reason=short:body_only_2_words
+  quarantined superabundance-of-faith-but-this-has-me-trembling (2022-08-13) reason=short:body_only_0_words
+  bg-images-harvested 2
+  quarantined 1-2-children-cancer-how-many-children-can-we-help-save-i-will-call-saving-even-1 (2022-08-19) reason=short:body_only_1_words
+  quarantined 2-complete (2022-06-27) reason=short:body_only_7_words
+  quarantined child-like-environmental-protection (2022-06-10) reason=short:body_only_7_words
+  published gamifying-vs-spreadsheets-which-is-a-more-fun-way-to-protect-the-environment (2022-08-17, 23 words, 66/66 imgs)
+  published i-feel-that-i-must-protect-you-and-your-family-regardless-of-whether-you-want-me (2022-08-05, 20 words, 7/7 imgs)
+  bg-images-harvested 2
+  quarantined jed-lasso (2022-06-25) reason=short:body_only_7_words
+  quarantined tundra-a-cooler-search-engine (2022-07-31) reason=short:body_only_11_words
+  quarantined we-just-added-billions-of-dollars-of-value-to-the-environment (2022-07-04) reason=short:body_only_0_words
+  quarantined we-just-added-billions-of-dollars-of-value-to-the-environment-2 (2022-07-05) reason=short:body_only_0_words
+  quarantined announcing-bizphase1 (2022-07-27) reason=short:body_only_5_words
+  published antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality (2022-08-14, 711 words, 21/21 imgs)
+  quarantined (dedup) antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality-2 matches antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality
+  quarantined awma-june-23rd-nasa-presentation (2022-06-06) reason=short:body_only_5_words
+  published bells-inequality-theorem (2022-07-18, 1085 words, 31/31 imgs)
+  quarantined cool-the-planet (2022-08-12) reason=short:body_only_5_words
+  quarantined enviroais-headquarters-officially-opens-in-houstons-new-innovation-district (2022-07-02) reason=short:body_only_14_words
+  quarantined enviroai-we-must-protect-our-family-jed-anderson-ceo-enviroai (2022-07-09) reason=short:body_only_11_words
+  published fundamental (2022-06-14, 800 words, 37/37 imgs)
+  published fysics-sic-faith (2022-06-07, 536 words, 16/16 imgs)
+  quarantined gaming-and-the-environmental-metaverse (2022-06-20) reason=short:body_only_6_words
+  quarantined here-is-where-my-thinking-goes-well-beyond-elon-musk (2022-06-24) reason=short:body_only_2_words
+  quarantined home-environmental-assessment-is-your-family-safe (2022-06-30) reason=short:body_only_10_words
+  quarantined homephase1-app (2022-06-19) reason=short:body_only_10_words
+  quarantined homephase1 (2022-07-12) reason=short:body_only_9_words
+  quarantined (dedup) homephase1-2 matches homephase1
+  bg-images-harvested 2
+  published houston-cancer-cluster (2022-08-19, 19 words, 14/14 imgs)
+  published houston-gets-world-cup-eyes-of-the-world-on-houston (2022-06-17, 15 words, 29/29 imgs)
+  quarantined houstons-new-innovation-community (2022-07-17) reason=short:body_only_10_words
+  quarantined i-showed-enviroai-s-latest-powers-to-one-of-the-most-prominent-and-powerful-envi (2022-06-18) reason=short:body_only_4_words
+  quarantined im-just-sitting-here-crying (2022-07-12) reason=short:body_only_6_words
+  quarantined is-ai-now-sentient (2022-06-26) reason=short:body_only_8_words
+  quarantined is-this-your-house (2022-07-03) reason=short:body_only_9_words
+  quarantined it-would-take-me-a100-hours-of-lecturing-to-completely-unpack-this-statement (2022-06-28) reason=short:body_only_4_words
+  quarantined its-in-the-app-store-homephase1 (2022-08-04) reason=short:body_only_8_words
+  quarantined jeds-house (2022-07-13) reason=short:body_only_6_words
+  quarantined love-heres-a-secret-to-always-feeling-it (2022-07-26) reason=short:body_only_0_words
+  quarantined mckinsey-report-quantum-computing-might-just-save-the-planet (2022-07-24) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined new-enviroverse-video (2022-06-21) reason=short:body_only_7_words
+  quarantined (dedup) new-enviroverse-video-2 matches new-enviroverse-video
+  quarantined podcast-with-googles-deepmind-ceo (2022-07-20) reason=short:body_only_12_words
+  quarantined protecting-music (2022-06-29) reason=short:body_only_2_words
+  bg-images-harvested 2
+  published protecting-the-environment-on-social-media (2022-06-09, 17 words, 15/15 imgs)
+  quarantined (dedup) protecting-the-environment-on-social-media-2 matches protecting-the-environment-on-social-media
+  quarantined push-this-button-and-we-will-protect-you (2022-07-19) reason=short:body_only_8_words
+  published reminder-awma-luncheon-tomorrow-in-houston (2022-06-22, 20 words, 3/3 imgs)
+  quarantined responsibility (2022-06-23) reason=short:body_only_8_words
+  published what-is-a-more-fundamental-force-in-the-universe-if-its-not-quantum-physics (2022-06-16, 73 words, 4/4 imgs)
+  published whats-the-matter-with-matter (2022-07-16, 16 words, 51/51 imgs)
+  published wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it (2022-07-11, 4704 words, 79/79 imgs)
+  quarantined 150k-plus-jobs-environmental-professionals-needed-to-help-build-the-environmenta (2022-05-05) reason=short:body_only_0_words
+  quarantined the-future-of-environmental-protection (2022-05-09) reason=short:body_only_11_words
+  quarantined 1-2-of-life-on-earth (2022-05-10) reason=short:body_only_9_words
+  published 1st-contact-lenses-made-for-augmented-reality (2022-04-12, 340 words, 13/13 imgs)
+  published 3-questions (2022-03-14, 155 words, 3/3 imgs)
+  published access-to-facility-and-environmental-data-like-youve-never-seen-them-before (2022-03-21, 138 words, 6/6 imgs)
+  quarantined (dedup) access-to-facility-and-environmental-data-like-youve-never-seen-them-before-2 matches access-to-facility-and-environmental-data-like-youve-never-seen-them-before
+  published if-it-looks-like-a-duck (2022-03-27, 13814 words, 119/119 imgs)
+  published its-not-the-game-board (2022-04-10, 13992 words, 122/122 imgs)
+  published shocking-level-of-detail (2022-04-14, 176 words, 8/8 imgs)
+  published the-amount-of-space-in-space-is-incredible (2022-04-09, 14378 words, 137/137 imgs)
+  published acquisition-news-enviroai-to-acquire-emerge-e-notify-in-7-figure-deal-to-bolster (2022-03-07, 360 words, 13/13 imgs)
+  published citi-says-metaverse-economy-could-be-worth-13-trillion-by-2030 (2022-04-06, 226 words, 11/11 imgs)
+  published emergency-environmental-communications (2022-03-29, 121 words, 8/8 imgs)
+  published entropy-information-theory-and-the-holographic-principle (2022-05-01, 11472 words, 55/55 imgs)
+  published enviroai-was-selected-houston-startup-showcase (2022-04-19, 122 words, 6/6 imgs)
+  published fear-time-travel-education (2022-03-06, 1511 words, 30/30 imgs)
+  published follow-up-world-quantum-day (2022-04-24, 11472 words, 55/55 imgs)
+  published free-gift-happy-earth-day (2022-04-22, 111 words, 5/5 imgs)
+  published go-to-any-chemical-plant (2022-03-24, 307 words, 11/11 imgs)
+  quarantined google-deepmind-the-game-is-over (2022-05-19) reason=short:body_only_10_words
+  published homephase1-3 (2022-04-25, 141 words, 6/6 imgs)
+  published how-close (2022-04-20, 176 words, 15/15 imgs)
+  published human-only (2022-04-08, 159 words, 8/8 imgs)
+  published inspire (2022-04-22, 81 words, 9/9 imgs)
+  quarantined metaverse-letter-to-epa (2022-05-13) reason=short:body_only_12_words
+  published only-1-career (2022-04-16, 1956 words, 12/12 imgs)
+  quarantined our-new-home-at-the-ion-houston (2022-06-04) reason=short:body_only_4_words
+  published picture-of-our-team-working-this-morning (2022-06-06, 26 words, 15/15 imgs)
+  published pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion (2022-04-27, 238 words, 6/6 imgs)
+  published pitch-contest-tonight-come-cheer-everyonese-invited-6-00-pm-at-the-ion (2022-04-27, 246 words, 6/6 imgs)
+  published praise-praise-praise-and-bewilderment (2022-06-03, 869 words, 39/39 imgs)
+  published press-release-news-story-and-official-announcement (2022-03-07, 330 words, 19/19 imgs)
+  quarantined (dedup) press-release-news-story-and-official-announcement-2 matches press-release-news-story-and-official-announcement
+  quarantined (dedup) press-release-news-story-and-official-announcement-3 matches press-release-news-story-and-official-announcement
+  quarantined (dedup) press-release-news-story-and-official-announcement-4 matches press-release-news-story-and-official-announcement
+  published reality-my-simplest-example-yet (2022-03-20, 11928 words, 84/84 imgs)
+  published see-the-power (2022-04-11, 234 words, 12/12 imgs)
+  quarantined shepherding (2022-06-05) reason=short:body_only_0_words
+  quarantined simple-and-profound (2022-05-08) reason=short:body_only_9_words
+  published so-excited-about-artificial-general-intelligence (2022-05-21, 8509 words, 12/12 imgs)
+  quarantined tending-the-garden (2022-05-22) reason=short:body_only_5_words
+  quarantined the-future-of-environmental-protection-2 (2022-05-08) reason=short:body_only_10_words
+  published the-most-powerful-force-not-gravity-or-electromagnetic-or-strong-or-weak-nuclear (2022-04-13, 86 words, 1/1 imgs)
+  quarantined the-question-ai-will-never-be-able-to-answer (2022-05-15) reason=short:body_only_8_words
+  published today-is-world-quantum-day-april-14th (2022-04-14, 11177 words, 46/46 imgs)
+  published try-it-yourself-google-environmental-metaverse (2022-03-10, 163 words, 4/4 imgs)
+  quarantined what-does-james-clerk-maxwell-have-to-do-with-the-enviroverse (2022-05-06) reason=short:body_only_1_words
+  quarantined why-wilderness-why-desert-experiences-in-life (2022-05-07) reason=short:body_only_0_words
+  published youre-the-1st-to-see-this-announcement (2022-03-07, 290 words, 13/13 imgs)
+  quarantined (dedup) writing-permit-applications-writing-agency-letters-writing-reports-answering-com-2 matches writing-permit-applications-writing-agency-letters-writing-reports-answering-com
+  quarantined (dedup) 1-question-whats-the-answer-2 matches 1-question-whats-the-answer
+  quarantined (dedup) 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature-3 matches 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature
+  quarantined (dedup) 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature-4 matches 4-4-trillion-to-economy-the-latest-mckinsey-report-on-a-i-value-to-nature
+  quarantined (dedup) now-google-announces-surprise-event-2 matches now-google-announces-surprise-event
+  quarantined (dedup) only-tundrachat-2 matches only-tundrachat
+  quarantined (dedup) the-40-rule-2 matches the-40-rule
   quarantined (dedup) 74-of-universe-coming-from-3 matches 74-of-universe-coming-from
   quarantined (dedup) 74-of-universe-coming-from-4 matches 74-of-universe-coming-from
-  quarantined me-or-ai-2 (2023-02-17) reason=short:body_only_14_words
-  quarantined want-to-be-quot-blown-away-quot-2 (2023-02-21) reason=short:body_only_18_words
-  quarantined quot-it-took-our-ceo-a-while-2 (2023-02-19) reason=short:body_only_14_words
-  quarantined quot-move-37-quot-2 (2023-03-07) reason=short:body_only_5_words
-  quarantined ai-now-training-180-million-times-faster-on-a-quantum-computer-in-china-2 (2023-06-11) reason=short:body_only_13_words
-  quarantined bad-agi-good-agi-3 (2023-03-04) reason=short:body_only_6_words
-  quarantined (dedup) bad-agi-good-agi-4 matches bad-agi-good-agi-3
-  quarantined big-unveiling-2 (2023-03-18) reason=short:body_only_14_words
-  quarantined canadian-government-looking-to-enviroai-2 (2023-05-21) reason=short:body_only_29_words
-  quarantined ceo-jed-anderson-quot-sounds-the-warning-alarm-quot-on-the-nonalignment-problem-2 (2023-05-19) reason=short:body_only_25_words
-  quarantined demo-the-worlds-first-environmental-chatbot-2 (2023-04-04) reason=short:body_only_8_words
-  quarantined environmental-quot-super-intelligence-quot-2 (2023-07-29) reason=short:body_only_8_words
-  quarantined extinction-ai-article-in-new-york-times-2 (2023-05-31) reason=short:body_only_15_words
-  quarantined flyer-product-description-2 (2023-02-23) reason=short:body_only_13_words
-  quarantined gpt-4-api-openai-has-made-this-available-gpt-5-coming-and-new-language-model-fro-2 (2023-07-08) reason=short:body_only_2_words
+  quarantined (dedup) me-or-ai-2 matches me-or-ai
+  quarantined (dedup) want-to-be-blown-away-2 matches want-to-be-blown-away
+  quarantined (dedup) it-took-our-ceo-a-while-2 matches it-took-our-ceo-a-while
+  quarantined (dedup) move-37-2 matches move-37
+  quarantined (dedup) ai-now-training-180-million-times-faster-on-a-quantum-computer-in-china-2 matches ai-now-training-180-million-times-faster-on-a-quantum-computer-in-china
+  quarantined (dedup) bad-agi-good-agi-3 matches bad-agi-good-agi
+  quarantined (dedup) bad-agi-good-agi-4 matches bad-agi-good-agi
+  quarantined (dedup) big-unveiling-2 matches big-unveiling
+  quarantined (dedup) canadian-government-looking-to-enviroai-2 matches canadian-government-looking-to-enviroai
+  quarantined (dedup) ceo-jed-anderson-sounds-the-warning-alarm-on-the-nonalignment-problem-between-ai-2 matches ceo-jed-anderson-sounds-the-warning-alarm-on-the-nonalignment-problem-between-ai
+  quarantined (dedup) demo-the-worlds-first-environmental-chatbot-2 matches demo-the-worlds-first-environmental-chatbot
+  quarantined (dedup) environmental-super-intelligence-2 matches environmental-super-intelligence
+  quarantined (dedup) extinction-ai-article-in-new-york-times-2 matches extinction-ai-article-in-new-york-times
+  quarantined (dedup) flyer-product-description-2 matches flyer-product-description
+  quarantined (dedup) gpt-4-api-openai-has-made-this-available-gpt-5-coming-and-new-language-model-fro-2 matches gpt-4-api-openai-has-made-this-available-gpt-5-coming-and-new-language-model-fro
   quarantined (dedup) harbor-or-open-sea-2 matches harbor-or-open-sea
-  quarantined how-can-we-try-to-think-so-different-2 (2023-02-26) reason=short:body_only_3_words
-  quarantined information-doesnt-fare-well-here-2 (2023-08-03) reason=short:body_only_0_words
-  quarantined keeping-the-mission-alive-2 (2023-07-07) reason=short:body_only_3_words
-  quarantined lyondellbasell-enviroai-event-march-23rd-4 (2023-03-06) reason=short:body_only_15_words
-  quarantined lyondellbasell-enviroai-event-march-23rd-5 (2023-03-02) reason=short:body_only_15_words
-  quarantined lyondellbasell-enviroai-event-march-23rd-6 (2023-03-13) reason=short:body_only_4_words
-  quarantined medical-ai-environmental-ai-quot-were-doing-the-same-thing-quot-2 (2023-07-31) reason=short:body_only_16_words
-  quarantined merge-with-ai-2 (2023-05-01) reason=short:body_only_5_words
-  quarantined microsoft-announces-quot-surprise-event-quot-2 (2023-02-07) reason=short:body_only_3_words
-  quarantined my-selfish-goal-2 (2023-06-04) reason=short:body_only_4_words
-  quarantined one-sheep-or-the-flock-2 (2023-07-09) reason=short:body_only_7_words
-  quarantined reminder-lyondellbasell-enviroai-event-march-23rd-2 (2023-03-16) reason=short:body_only_7_words
-  quarantined (dedup) scientists-still-quot-abuzz-quot-news-stories-still-churning-2 matches scientists-still-quot-abuzz-quot-news-stories-still-churning
-  quarantined simpler-language-2 (2023-03-17) reason=short:body_only_10_words
-  quarantined story-quot-what-if-a-bee-could-create-ai-3 (2023-05-28) reason=short:body_only_4_words
-  quarantined (dedup) story-quot-what-if-a-bee-could-create-ai-4 matches story-quot-what-if-a-bee-could-create-ai-3
-  quarantined tutorials-by-tundrapro-2 (2023-03-03) reason=short:body_only_8_words
-  quarantined want-a-new-job-whats-quot-environmental-prompt-engineering-quot-2 (2023-08-26) reason=short:body_only_6_words
-  quarantined wealth-power-fame-reputation-2 (2023-06-03) reason=short:body_only_0_words
-  quarantined what-isnt-information (2023-07-06) reason=short:body_only_13_words
-  quarantined when-kids-ask-me (2023-03-28) reason=short:body_only_6_words
-  quarantined when-we-all-get-to-heaven (2023-05-20) reason=short:body_only_0_words
-  published where-there-is-magic (2023-07-23, 14427 words, 129/129 imgs)
-  published whitney-houston-and-the-quot-single-electron-postulate-quot (2023-07-30, 14952 words, 137/137 imgs)
-  quarantined who-in-history-does-ai-mention-the-most-and-perhaps-think-about-the-most-who-is (2023-08-20) reason=short:body_only_19_words
-  quarantined an-quot-entropy-fighting-quot-machine-for-humanity-and-nature (2023-01-07) reason=short:body_only_8_words
+  quarantined (dedup) how-can-we-try-to-think-so-different-2 matches how-can-we-try-to-think-so-different
+  quarantined (dedup) information-doesnt-fare-well-here-2 matches information-doesnt-fare-well-here
+  quarantined (dedup) keeping-the-mission-alive-2 matches keeping-the-mission-alive
+  quarantined (dedup) lyondellbasell-enviroai-event-march-23rd-4 matches lyondellbasell-enviroai-event-march-23rd
+  quarantined (dedup) lyondellbasell-enviroai-event-march-23rd-5 matches lyondellbasell-enviroai-event-march-23rd-2
+  quarantined (dedup) lyondellbasell-enviroai-event-march-23rd-6 matches lyondellbasell-enviroai-event-march-23rd-3
+  quarantined (dedup) medical-ai-environmental-ai-were-doing-the-same-thing-2 matches medical-ai-environmental-ai-were-doing-the-same-thing
+  quarantined (dedup) merge-with-ai-2 matches merge-with-ai
+  quarantined (dedup) microsoft-announces-surprise-event-2 matches microsoft-announces-surprise-event
+  quarantined (dedup) my-selfish-goal-2 matches my-selfish-goal
+  quarantined (dedup) one-sheep-or-the-flock-2 matches one-sheep-or-the-flock
+  quarantined (dedup) reminder-lyondellbasell-enviroai-event-march-23rd-2 matches reminder-lyondellbasell-enviroai-event-march-23rd
+  quarantined (dedup) scientists-still-abuzz-news-stories-still-churning-2 matches scientists-still-abuzz-news-stories-still-churning
+  quarantined (dedup) simpler-language-2 matches simpler-language
+  quarantined (dedup) story-what-if-a-bee-could-create-ai-3 matches story-what-if-a-bee-could-create-ai
+  quarantined (dedup) story-what-if-a-bee-could-create-ai-4 matches story-what-if-a-bee-could-create-ai
+  quarantined (dedup) tutorials-by-tundrapro-2 matches tutorials-by-tundrapro
+  quarantined (dedup) want-a-new-job-whats-environmental-prompt-engineering-2 matches want-a-new-job-whats-environmental-prompt-engineering
+  quarantined (dedup) wealth-power-fame-reputation-2 matches wealth-power-fame-reputation
+  quarantined (dedup) what-isnt-information-2 matches what-isnt-information
+  quarantined (dedup) when-kids-ask-me-2 matches when-kids-ask-me
+  quarantined (dedup) when-we-all-get-to-heaven-2 matches when-we-all-get-to-heaven
+  quarantined (dedup) where-there-is-magic-2 matches where-there-is-magic
+  quarantined (dedup) whitney-houston-and-the-single-electron-postulate-2 matches whitney-houston-and-the-single-electron-postulate
+  quarantined (dedup) who-in-history-does-ai-mention-the-most-and-perhaps-think-about-the-most-who-is-2 matches who-in-history-does-ai-mention-the-most-and-perhaps-think-about-the-most-who-is
+  bg-images-harvested 2
+  quarantined an-entropy-fighting-machine-for-humanity-and-nature (2023-01-07) reason=short:body_only_8_words
+  bg-images-harvested 2
   quarantined my-teaching-6th-graders-last-week-quantum-physics-information-theory-and-machine (2023-01-24) reason=short:body_only_8_words
+  bg-images-harvested 2
   quarantined 1-company-paid-300-000-for-tundra-pro-access (2022-11-29) reason=short:body_only_9_words
+  bg-images-harvested 2
   quarantined 1st (2022-12-23) reason=short:body_only_5_words
+  bg-images-harvested 2
   quarantined 1st-in-the-world-1st-in-history (2022-12-08) reason=short:body_only_5_words
+  bg-images-harvested 2
   quarantined 2023-prediction (2023-01-01) reason=short:body_only_2_words
-  quarantined gt-50-0000-views (2022-11-04) reason=short:body_only_9_words
-  quarantined quot-climate-change-is-not-about-temperature-quot (2022-11-25) reason=short:body_only_6_words
-  quarantined quot-day-pass-quot-now-available (2022-11-29) reason=short:body_only_3_words
-  quarantined quot-i-am-the-most-powerful-environmental-professional-in-the-country (2022-12-26) reason=short:body_only_0_words
-  quarantined quot-ive-spent-more-time-reading-this-martin-luther-king-book-than-martin-luther (2023-01-16) reason=short:body_only_11_words
-  quarantined quot-its-a-good-student (2022-12-31) reason=short:body_only_11_words
-  quarantined quot-teaching-our-student-to-save-lives-so-much-fun (2023-01-02) reason=short:body_only_8_words
-  quarantined quot-we-are-heading-into-the-most-abundant-and-prosperous-time-periods-in-human (2023-01-21) reason=short:body_only_7_words
-  published a-magical-night-tonight (2022-12-24, 321 words, 24/24 imgs)
+  bg-images-harvested 2
+  quarantined 50-0000-views (2022-11-04) reason=short:body_only_9_words
+  bg-images-harvested 2
+  quarantined climate-change-is-not-about-temperature (2022-11-25) reason=short:body_only_6_words
+  bg-images-harvested 2
+  quarantined day-pass-now-available (2022-11-29) reason=short:body_only_3_words
+  bg-images-harvested 2
+  quarantined i-am-the-most-powerful-environmental-professional-in-the-country (2022-12-26) reason=short:body_only_0_words
+  bg-images-harvested 2
+  quarantined ive-spent-more-time-reading-this-martin-luther-king-book-than-martin-luther-king (2023-01-16) reason=short:body_only_11_words
+  bg-images-harvested 2
+  quarantined its-a-good-student (2022-12-31) reason=short:body_only_11_words
+  bg-images-harvested 2
+  quarantined teaching-our-student-to-save-lives-so-much-fun (2023-01-02) reason=short:body_only_8_words
+  bg-images-harvested 2
+  quarantined we-are-heading-into-the-most-abundant-and-prosperous-time-periods-in-human-histo (2023-01-21) reason=short:body_only_7_words
+  bg-images-harvested 2
+  published a-magical-night-tonight (2022-12-24, 528 words, 24/24 imgs)
   quarantined (dedup) a-magical-night-tonight-2 matches a-magical-night-tonight
-  quarantined chatgpt-and-environmental-work (2022-12-15) reason=short:body_only_18_words
+  bg-images-harvested 2
+  published chatgpt-and-environmental-work (2022-12-15, 18 words, 91/91 imgs)
+  bg-images-harvested 2
   quarantined chatgpt-drafting-a-permit-application (2023-01-29) reason=short:body_only_1_words
   quarantined (dedup) chatgpt-drafting-a-permit-application-2 matches chatgpt-drafting-a-permit-application
+  bg-images-harvested 2
   quarantined chatgpt-powered-by-millions-and-millions-and-millions-of-tundra-environmental-ag (2022-12-19) reason=short:body_only_13_words
+  bg-images-harvested 2
   quarantined environmental-positivity (2022-11-02) reason=short:body_only_8_words
+  bg-images-harvested 2
   quarantined explaining-to-my-boys (2023-01-03) reason=short:body_only_9_words
+  bg-images-harvested 2
   quarantined exuberance (2022-12-04) reason=short:body_only_7_words
+  bg-images-harvested 2
   quarantined fresh-inspiration (2022-11-22) reason=short:body_only_3_words
-  quarantined go-virtually-to-any-facility-anytime-you-want-and-invite-people-to-join-you (2022-11-07) reason=short:body_only_16_words
+  bg-images-harvested 2
+  published go-virtually-to-any-facility-anytime-you-want-and-invite-people-to-join-you (2022-11-07, 16 words, 6/6 imgs)
+  bg-images-harvested 2
   quarantined google-vs-bing-vs-ecosia-vs-duckduckgo-vs-tundra (2022-11-28) reason=short:body_only_7_words
+  bg-images-harvested 2
   quarantined heres-a-list-of-the-technologies (2023-01-05) reason=short:body_only_7_words
   quarantined ive-awaited-this-day-for-3-years (2022-12-16) reason=short:body_only_0_words
+  bg-images-harvested 2
   quarantined if-someone-could-explain-this (2022-11-30) reason=short:body_only_9_words
+  bg-images-harvested 2
   quarantined invite-epa-invite-consultants-invite-neighbors-invite-employees-invite-anyone-yo (2022-11-21) reason=short:body_only_7_words
-  quarantined irrefutable (2022-11-16) reason=short:body_only_18_words
+  bg-images-harvested 2
+  published irrefutable (2022-11-16, 18 words, 13/13 imgs)
+  bg-images-harvested 2
   quarantined it-bit-duality (2023-01-15) reason=short:body_only_14_words
-  quarantined lift-up-boost-brighten-cheer-elate (2022-11-11) reason=short:body_only_19_words
+  bg-images-harvested 2
+  published lift-up-boost-brighten-cheer-elate (2022-11-11, 19 words, 8/8 imgs)
+  bg-images-harvested 2
   quarantined making-money-making-tools (2022-11-23) reason=short:body_only_12_words
-  quarantined my-tech-hero (2022-12-06) reason=short:body_only_21_words
-  quarantined new-quot-tundra-pro-quot-video-and-tundra-pro-quot-day-pass-quot-offering (2022-11-14) reason=short:body_only_6_words
-  quarantined news-quot-google-approves-tundra-chrome-extension-quot (2022-11-09) reason=short:body_only_16_words
+  bg-images-harvested 2
+  published my-tech-hero (2022-12-06, 21 words, 90/90 imgs)
+  bg-images-harvested 2
+  quarantined new-tundra-pro-video-and-tundra-pro-day-pass-offering (2022-11-14) reason=short:body_only_6_words
+  bg-images-harvested 2
+  published news-google-approves-tundra-chrome-extension (2022-11-09, 16 words, 9/9 imgs)
+  bg-images-harvested 2
   quarantined our-mission-to-you (2022-11-16) reason=short:body_only_6_words
+  bg-images-harvested 2
   quarantined paychecks-or-legacies (2022-12-09) reason=short:body_only_8_words
-  quarantined podcast-with-guest-jed-anderson-environmental-law-institutes-quot-people-places (2022-12-01) reason=short:body_only_3_words
+  bg-images-harvested 2
+  quarantined podcast-with-guest-jed-anderson-environmental-law-institutes-people-places-plane (2022-12-01) reason=short:body_only_3_words
+  bg-images-harvested 2
   quarantined seeking-adventure (2023-01-25) reason=short:body_only_7_words
-  quarantined st-olaf-college-article-quot-supporting-the-environment-one-search-at-a-time-quo (2023-01-14) reason=short:body_only_11_words
-  published thanksgiving-for-black-holes (2022-11-24, 11802 words, 113/113 imgs)
+  bg-images-harvested 2
+  quarantined st-olaf-college-article-supporting-the-environment-one-search-at-a-time (2023-01-14) reason=short:body_only_11_words
+  bg-images-harvested 2
+  published thanksgiving-for-black-holes (2022-11-24, 12896 words, 113/113 imgs)
+  bg-images-harvested 2
   quarantined the-environmental-g-o-a-t (2022-11-19) reason=short:body_only_8_words
+  bg-images-harvested 2
   quarantined the-light-in-people (2023-02-04) reason=short:body_only_6_words
   quarantined the-whole-world-united (2022-11-13) reason=short:body_only_3_words
-  quarantined tundra-reviews-by-carl-sagan-rachael-carson-aldo-leopold-mom-amp-dad (2022-11-12) reason=short:body_only_4_words
+  bg-images-harvested 2
+  quarantined tundra-reviews-by-carl-sagan-rachael-carson-aldo-leopold-mom-dad (2022-11-12) reason=short:body_only_4_words
+  bg-images-harvested 2
   quarantined where-to-set-the-thermostat (2022-11-26) reason=short:body_only_11_words
+  bg-images-harvested 2
   quarantined whole-internet-whole-world (2022-11-17) reason=short:body_only_9_words
   quarantined wormhole-entanglement (2022-12-11) reason=short:body_only_2_words
-  quarantined 1-search-engine (2021-07-29) reason=short:body_only_31_words
-  published best-summer-activity (2021-06-18, 53 words, 3/3 imgs)
-  published like-medical-records (2021-07-30, 80 words, 14/14 imgs)
-  published 20-years-to-seconds (2021-07-31, 97 words, 9/9 imgs)
-  published 5-ways-to-help (2021-07-09, 166 words, 13/13 imgs)
-  published quot-1-complete-quot (2021-07-12, 187 words, 16/16 imgs)
-  quarantined quot-a-tool-for-the-masses-quot-expanding-the-breadth-and-appeal-of-enviroai-to (2021-07-05) reason=short:body_only_11_words
-  quarantined quot-action-systems-quot (2021-07-26) reason=short:body_only_34_words
-  published quot-energy-imbalance-problem-quot-climate-change-is-just-a-symptom-of-the-large (2021-06-18, 234 words, 19/19 imgs)
-  published quot-green-speed-quot (2021-07-08, 95 words, 5/5 imgs)
-  published quot-im-sometimes-not-convinced-that-companies-like-money-quot (2021-06-08, 189 words, 7/7 imgs)
-  published quot-youre-spying (2021-06-12, 116 words, 10/10 imgs)
-  published air-modelling (2021-07-19, 134 words, 20/20 imgs)
-  published another-day (2021-08-02, 83 words, 3/3 imgs)
+  published 1-search-engine (2021-07-29, 91 words, 7/7 imgs)
+  published best-summer-activity (2021-06-18, 69 words, 3/3 imgs)
+  published like-medical-records (2021-07-30, 231 words, 14/14 imgs)
+  published 20-years-to-seconds (2021-07-31, 169 words, 9/9 imgs)
+  published 5-ways-to-help (2021-07-09, 274 words, 13/13 imgs)
+  published 1-complete (2021-07-12, 316 words, 16/16 imgs)
+  published a-tool-for-the-masses-expanding-the-breadth-and-appeal-of-enviroai-to-all-those (2021-07-05, 215 words, 10/10 imgs)
+  published action-systems (2021-07-26, 158 words, 15/15 imgs)
+  published energy-imbalance-problem-climate-change-is-just-a-symptom-of-the-larger-problem (2021-06-18, 575 words, 19/19 imgs)
+  published green-speed (2021-07-08, 123 words, 5/5 imgs)
+  published im-sometimes-not-convinced-that-companies-like-money (2021-06-08, 267 words, 7/7 imgs)
+  published youre-spying (2021-06-12, 179 words, 10/10 imgs)
+  published air-modelling (2021-07-19, 293 words, 20/20 imgs)
+  published another-day (2021-08-02, 97 words, 3/3 imgs)
   quarantined (dedup) another-day-2 matches another-day
-  published article-quot-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-i (2021-08-02, 468 words, 19/19 imgs)
-  published audits-quot-2-gigantic-improvements-for-you-quot (2021-07-14, 167 words, 11/11 imgs)
-  published business-intelligence (2021-07-20, 106 words, 10/10 imgs)
-  published earth-protection-system (2021-06-29, 66 words, 6/6 imgs)
-  published encouraging-you (2021-07-06, 377 words, 10/10 imgs)
-  published environmental-performance (2021-07-16, 63 words, 7/7 imgs)
-  published epa-privatized (2021-06-16, 82 words, 10/10 imgs)
-  published exxon-epa-sierra-club (2021-07-07, 92 words, 9/9 imgs)
-  published famine-to-feast-are-companies-now-scrambling-for-environmental-digital-tools (2021-06-15, 162 words, 6/6 imgs)
-  quarantined forbes-article-today-quot-artificial-intelligence-is-improving-energy-companies (2021-07-13) reason=short:body_only_49_words
-  published free-environmental-work (2021-06-14, 120 words, 10/10 imgs)
-  quarantined god-humans-nature (2021-06-06) reason=short:body_only_48_words
-  published goldman-sachs-quantum-physics-experts (2021-07-17, 202 words, 16/16 imgs)
-  published google-announces (2021-07-31, 325 words, 17/17 imgs)
-  published growing-up-in-iowa-in-the-1970s (2021-06-15, 273 words, 4/4 imgs)
-  quarantined harnessing-the-power-of-probability (2021-06-07) reason=short:body_only_36_words
-  published jed-settles-einstein-bohr-theological-debate-on-the-implications-of-quantum-phys (2021-06-05, 149 words, 5/5 imgs)
-  quarantined new-promotional-video (2021-06-21) reason=short:body_only_12_words
-  published new-video (2021-07-22, 87 words, 6/6 imgs)
-  quarantined picture-of-our-team (2021-06-08) reason=short:body_only_18_words
-  published proof-why-quot-weirdness-quot-will-be-so-special (2021-06-20, 539 words, 10/10 imgs)
-  published simulating-environmental-policy-changes (2021-06-11, 76 words, 11/11 imgs)
-  published smiling (2021-06-09, 308 words, 8/8 imgs)
-  published space-billionaires (2021-07-21, 271 words, 18/18 imgs)
-  published talk-trees (2021-06-13, 173 words, 15/15 imgs)
+  published article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it (2021-08-02, 846 words, 19/19 imgs)
+  published audits-2-gigantic-improvements-for-you (2021-07-14, 310 words, 11/11 imgs)
+  published business-intelligence (2021-07-20, 191 words, 10/10 imgs)
+  published earth-protection-system (2021-06-29, 106 words, 6/6 imgs)
+  published encouraging-you (2021-07-06, 440 words, 10/10 imgs)
+  published environmental-performance (2021-07-16, 131 words, 7/7 imgs)
+  published epa-privatized (2021-06-16, 145 words, 10/10 imgs)
+  published exxon-epa-sierra-club (2021-07-07, 177 words, 9/9 imgs)
+  published famine-to-feast-are-companies-now-scrambling-for-environmental-digital-tools (2021-06-15, 254 words, 6/6 imgs)
+  published forbes-article-today-artificial-intelligence-is-improving-energy-companies-not-r (2021-07-13, 237 words, 11/11 imgs)
+  published free-environmental-work (2021-06-14, 204 words, 10/10 imgs)
+  published god-humans-nature (2021-06-06, 114 words, 7/7 imgs)
+  published goldman-sachs-quantum-physics-experts (2021-07-17, 374 words, 16/16 imgs)
+  published google-announces (2021-07-31, 480 words, 17/17 imgs)
+  published growing-up-in-iowa-in-the-1970s (2021-06-15, 309 words, 4/4 imgs)
+  published harnessing-the-power-of-probability (2021-06-07, 79 words, 4/4 imgs)
+  published jed-settles-einstein-bohr-theological-debate-on-the-implications-of-quantum-phys (2021-06-05, 217 words, 5/5 imgs)
+  published new-promotional-video (2021-06-21, 103 words, 9/9 imgs)
+  published new-video (2021-07-22, 134 words, 6/6 imgs)
+  quarantined picture-of-our-team (2021-06-08) reason=short:body_only_7_words
+  published proof-why-weirdness-will-be-so-special (2021-06-20, 647 words, 10/10 imgs)
+  published simulating-environmental-policy-changes (2021-06-11, 166 words, 11/11 imgs)
+  published smiling (2021-06-09, 350 words, 8/8 imgs)
+  published space-billionaires (2021-07-21, 414 words, 18/18 imgs)
+  published talk-trees (2021-06-13, 271 words, 15/15 imgs)
   quarantined the-reason (2021-07-12) reason=short:body_only_9_words
-  published we-did-it (2021-08-03, 102 words, 12/12 imgs)
-  published what-does-it-mean (2021-07-06, 54 words, 4/4 imgs)
-  published whats-quot-q-day-quot (2021-06-17, 334 words, 10/10 imgs)
-  published when-will-i-give-up (2021-06-19, 374 words, 11/11 imgs)
-  published whos-the-best-environmental-consultant-in-tx-amp-la (2021-06-14, 69 words, 7/7 imgs)
-  quarantined worlds-leading-thinker-amp-developer (2021-06-11) reason=short:body_only_49_words
-  published worlds-leading-thinker-amp-developer-2 (2021-06-11, 55 words, 5/5 imgs)
-  published yes-its-genius (2021-06-07, 74 words, 11/11 imgs)
-  quarantined youtube-channel (2021-07-27) reason=short:body_only_20_words
-  published per-pound (2021-04-30, 87 words, 17/17 imgs)
-  published 100-billion-exxon-project-jeds-idea (2021-04-20, 304 words, 28/28 imgs)
-  quarantined quot-thneeds-a-boot-up-quot (2021-04-25) reason=short:body_only_35_words
-  published 0-or-1 (2021-05-19, 178 words, 9/9 imgs)
-  published quot-computational-environmental-protection-quot (2021-05-11, 243 words, 23/23 imgs)
-  published quot-its-gonna-be-wild (2021-05-24, 328 words, 20/20 imgs)
-  published quot-its-gonna-be-wild-2 (2021-05-25, 335 words, 20/20 imgs)
-  published quot-not-charge-people-more (2021-05-21, 159 words, 6/6 imgs)
-  published quot-talking-to-nature-quot (2021-06-01, 316 words, 20/20 imgs)
-  published quot-the-3-conferences-that-changed-the-world-quot (2021-05-09, 240 words, 20/20 imgs)
-  published quot-war-is-90-information-quot-google (2021-05-11, 164 words, 9/9 imgs)
-  published ai-gov (2021-05-07, 138 words, 11/11 imgs)
-  published audits (2021-04-26, 55 words, 7/7 imgs)
-  quarantined auto-phase-1 (2021-05-12) reason=short:body_only_7_words
-  published can-anyone-help-with-a-connection-please (2021-05-10, 140 words, 18/18 imgs)
-  published cars-now-industry (2021-05-16, 125 words, 13/13 imgs)
-  published computer-vs-human (2021-04-21, 97 words, 16/16 imgs)
-  quarantined deviation-review (2021-04-26) reason=short:body_only_15_words
-  quarantined earth-money-earth-money-earth (2021-06-02) reason=short:body_only_38_words
-  published exxon-board (2021-05-30, 97 words, 10/10 imgs)
-  published exxon-idea-jeds (2021-04-21, 131 words, 7/7 imgs)
-  quarantined free-today (2021-05-25) reason=short:body_only_31_words
-  quarantined how-will-it-work-jed (2021-04-18) reason=short:body_only_35_words
-  quarantined inside-fencelines (2021-04-17) reason=short:body_only_38_words
+  published we-did-it (2021-08-03, 190 words, 12/12 imgs)
+  published what-does-it-mean (2021-07-06, 92 words, 4/4 imgs)
+  published whats-q-day (2021-06-17, 406 words, 10/10 imgs)
+  published when-will-i-give-up (2021-06-19, 474 words, 11/11 imgs)
+  published whos-the-best-environmental-consultant-in-tx-la (2021-06-14, 147 words, 7/7 imgs)
+  published worlds-leading-thinker-developer (2021-06-11, 96 words, 5/5 imgs)
+  published worlds-leading-thinker-developer-2 (2021-06-11, 107 words, 5/5 imgs)
+  published yes-its-genius (2021-06-07, 180 words, 11/11 imgs)
+  quarantined youtube-channel (2021-07-27) reason=short:body_only_9_words
+  published per-pound (2021-04-30, 199 words, 17/17 imgs)
+  published 100-billion-exxon-project-jeds-idea (2021-04-20, 703 words, 28/28 imgs)
+  published thneeds-a-boot-up (2021-04-25, 131 words, 9/9 imgs)
+  published 0-or-1 (2021-05-19, 242 words, 9/9 imgs)
+  published computational-environmental-protection (2021-05-11, 454 words, 23/23 imgs)
+  published its-gonna-be-wild (2021-05-24, 557 words, 20/20 imgs)
+  published its-gonna-be-wild-2 (2021-05-25, 583 words, 20/20 imgs)
+  published not-charge-people-more (2021-05-21, 216 words, 6/6 imgs)
+  published talking-to-nature (2021-06-01, 508 words, 20/20 imgs)
+  published the-3-conferences-that-changed-the-world (2021-05-09, 506 words, 20/20 imgs)
+  published war-is-90-information-google (2021-05-11, 268 words, 9/9 imgs)
+  published ai-gov (2021-05-07, 246 words, 11/11 imgs)
+  published audits (2021-04-26, 91 words, 7/7 imgs)
+  quarantined auto-phase-1 (2021-05-12) reason=short:body_only_3_words
+  published can-anyone-help-with-a-connection-please (2021-05-10, 344 words, 18/18 imgs)
+  published cars-now-industry (2021-05-16, 221 words, 13/13 imgs)
+  published computer-vs-human (2021-04-21, 217 words, 16/16 imgs)
+  quarantined deviation-review (2021-04-26) reason=short:body_only_2_words
+  published earth-money-earth-money-earth (2021-06-02, 112 words, 7/7 imgs)
+  published exxon-board (2021-05-30, 171 words, 10/10 imgs)
+  published exxon-idea-jeds (2021-04-21, 179 words, 7/7 imgs)
+  published free-today (2021-05-25, 87 words, 7/7 imgs)
+  published how-will-it-work-jed (2021-04-18, 57 words, 2/2 imgs)
+  published inside-fencelines (2021-04-17, 156 words, 12/12 imgs)
   quarantined (dedup) jed-settles-einstein-bohr-theological-debate-on-the-implications-of-quantum-phys-2 matches jed-settles-einstein-bohr-theological-debate-on-the-implications-of-quantum-phys
-  published legal-opinion-letter (2021-05-18, 144 words, 18/18 imgs)
+  published legal-opinion-letter (2021-05-18, 294 words, 18/18 imgs)
   quarantined (dedup) legal-opinion-letter-2 matches legal-opinion-letter
-  published legal-optimization-with-machine-learning (2021-05-17, 89 words, 8/8 imgs)
-  quarantined louisiana (2021-04-23) reason=short:body_only_29_words
-  quarantined louisiana-vs-texas (2021-05-12) reason=short:body_only_43_words
-  published love-industry-love-nature (2021-05-26, 148 words, 21/21 imgs)
-  published my-legal-work (2021-05-07, 79 words, 5/5 imgs)
-  published numenous (2021-05-29, 165 words, 12/12 imgs)
-  published permitted (2021-04-27, 153 words, 19/19 imgs)
-  published plant-managers-environmental-managers (2021-05-19, 184 words, 22/22 imgs)
-  published pollution-gone (2021-04-27, 107 words, 9/9 imgs)
-  published privatizing (2021-05-03, 59 words, 9/9 imgs)
-  published protecting-quot-its-quot-with-quot-bits-quot (2021-05-22, 133 words, 6/6 imgs)
-  published seeking-10-million-in-intial-seed-funding (2021-06-03, 50 words, 5/5 imgs)
-  published simple-equations-simple-computations (2021-05-13, 2161 words, 17/17 imgs)
-  quarantined slidedeck-from-todays-presentation (2021-06-04) reason=short:body_only_20_words
-  published tools-change (2021-04-29, 123 words, 13/13 imgs)
-  quarantined video (2021-04-19) reason=short:body_only_12_words
-  published what-state-has-the-best-environmental-permits (2021-05-27, 57 words, 22/22 imgs)
-  published where-exactly (2021-05-05, 78 words, 11/11 imgs)
-  published whos-ready (2021-04-22, 86 words, 7/7 imgs)
-  published whos-responsibility (2021-05-14, 125 words, 34/34 imgs)
-  published why-take-risk (2021-05-08, 162 words, 7/7 imgs)
-  published why (2021-05-06, 96 words, 15/15 imgs)
-  published wsj-quot-google-announces (2021-05-20, 230 words, 16/16 imgs)
-  quarantined houstonstrong (2021-04-05) reason=short:body_only_48_words
+  published legal-optimization-with-machine-learning (2021-05-17, 171 words, 8/8 imgs)
+  published louisiana (2021-04-23, 64 words, 5/5 imgs)
+  published louisiana-vs-texas (2021-05-12, 129 words, 10/10 imgs)
+  published love-industry-love-nature (2021-05-26, 379 words, 21/21 imgs)
+  published my-legal-work (2021-05-07, 111 words, 5/5 imgs)
+  published numenous (2021-05-29, 242 words, 12/12 imgs)
+  published permitted (2021-04-27, 261 words, 19/19 imgs)
+  published plant-managers-environmental-managers (2021-05-19, 399 words, 22/22 imgs)
+  published pollution-gone (2021-04-27, 163 words, 9/9 imgs)
+  published privatizing (2021-05-03, 121 words, 9/9 imgs)
+  skipped:already_exists slug=protecting-its-with-bits
+  published seeking-10-million-in-intial-seed-funding (2021-06-03, 98 words, 5/5 imgs)
+  published simple-equations-simple-computations (2021-05-13, 2330 words, 17/17 imgs)
+  quarantined slidedeck-from-todays-presentation (2021-06-04) reason=short:body_only_6_words
+  published tools-change (2021-04-29, 207 words, 13/13 imgs)
+  published video (2021-04-19, 75 words, 7/7 imgs)
+  published what-state-has-the-best-environmental-permits (2021-05-27, 322 words, 22/22 imgs)
+  published where-exactly (2021-05-05, 159 words, 11/11 imgs)
+  published whos-ready (2021-04-22, 141 words, 7/7 imgs)
+  published whos-responsibility (2021-05-14, 356 words, 34/34 imgs)
+  published why-take-risk (2021-05-08, 210 words, 7/7 imgs)
+  published why (2021-05-06, 208 words, 15/15 imgs)
+  published wsj-google-announces (2021-05-20, 373 words, 16/16 imgs)
+  published houstonstrong (2021-04-05, 131 words, 12/12 imgs)
   quarantined (dedup) houstonstrong-2 matches houstonstrong
-  published 100x-more-work (2021-03-15, 137 words, 16/16 imgs)
-  quarantined quot-a-place-where-environmental-dreams-come-true-quot-houston-texas (2021-02-28) reason=short:body_only_15_words
-  published quot-earth-first-quot (2021-03-09, 164 words, 11/11 imgs)
-  published quot-greenwashing-quot (2021-03-21, 288 words, 10/10 imgs)
-  published quot-houston-leadership (2021-03-05, 138 words, 4/4 imgs)
-  published quot-in-seconds (2021-02-26, 69 words, 13/13 imgs)
-  published article-quot-freeze-caused-4-million-extra-pounds-of-pollution-from-texas-refine (2021-03-15, 130 words, 4/4 imgs)
-  published backstory-watch-now (2021-03-14, 58 words, 5/5 imgs)
-  published be-light (2021-03-07, 228 words, 2/2 imgs)
-  published bought-it (2021-03-24, 168 words, 9/9 imgs)
-  published by-2050 (2021-02-25, 53 words, 5/5 imgs)
-  published by-2050-2 (2021-04-15, 148 words, 17/17 imgs)
-  published disruptive-but-incredible (2021-03-13, 118 words, 8/8 imgs)
-  published environmental-justice (2021-04-06, 129 words, 7/7 imgs)
-  published famed-filmmaker-peter-von-puttkamer (2021-03-06, 74 words, 5/5 imgs)
-  published fed-gov (2021-04-16, 680 words, 16/16 imgs)
-  published green-infrastructure (2021-04-03, 143 words, 8/8 imgs)
-  published green-infrastructure-2 (2021-04-04, 144 words, 8/8 imgs)
-  published heroes (2021-03-11, 179 words, 8/8 imgs)
-  quarantined history (2021-03-16) reason=short:body_only_44_words
-  published i-cant-see-impossibility (2021-02-27, 312 words, 9/9 imgs)
-  published industry-saves-nature (2021-03-12, 89 words, 8/8 imgs)
-  published input (2021-03-10, 118 words, 8/8 imgs)
+  published 100x-more-work (2021-03-15, 276 words, 16/16 imgs)
+  published a-place-where-environmental-dreams-come-true-houston-texas (2021-02-28, 58 words, 3/3 imgs)
+  published earth-first (2021-03-09, 258 words, 11/11 imgs)
+  published greenwashing (2021-03-21, 353 words, 10/10 imgs)
+  published houston-leadership (2021-03-05, 175 words, 4/4 imgs)
+  published in-seconds (2021-02-26, 153 words, 13/13 imgs)
+  published article-freeze-caused-4-million-extra-pounds-of-pollution-from-texas-refineries (2021-03-15, 194 words, 4/4 imgs)
+  published backstory-watch-now (2021-03-14, 101 words, 5/5 imgs)
+  published be-light (2021-03-07, 235 words, 2/2 imgs)
+  published bought-it (2021-03-24, 238 words, 9/9 imgs)
+  published by-2050 (2021-02-25, 81 words, 5/5 imgs)
+  published by-2050-2 (2021-04-15, 314 words, 17/17 imgs)
+  published disruptive-but-incredible (2021-03-13, 174 words, 8/8 imgs)
+  published environmental-justice (2021-04-06, 190 words, 7/7 imgs)
+  published famed-filmmaker-peter-von-puttkamer (2021-03-06, 126 words, 5/5 imgs)
+  published fed-gov (2021-04-16, 809 words, 16/16 imgs)
+  published green-infrastructure (2021-04-03, 221 words, 8/8 imgs)
+  published green-infrastructure-2 (2021-04-04, 231 words, 8/8 imgs)
+  published heroes (2021-03-11, 221 words, 8/8 imgs)
+  published history (2021-03-16, 149 words, 14/14 imgs)
+  published i-cant-see-impossibility (2021-02-27, 384 words, 9/9 imgs)
+  published industry-saves-nature (2021-03-12, 158 words, 8/8 imgs)
+  published input (2021-03-10, 186 words, 8/8 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published insideepa-article-quot-facing-limited-resources-states-eye-ai-to-boost-air-water (2021-03-22, 221 words, 17/18 imgs)
-  quarantined invitation-to-drone-gas-detection-demo (2021-03-29) reason=short:body_only_29_words
-  quarantined lots-of-emails (2021-04-12) reason=short:body_only_26_words
-  published massive-fire (2021-04-08, 189 words, 19/19 imgs)
-  published musk-and-anderson-to-cooperate-on-quot-earth-protection-machine-quot (2021-02-26, 54 words, 4/4 imgs)
-  published no-pollution (2021-02-24, 81 words, 6/6 imgs)
-  published problems (2021-03-03, 75 words, 14/14 imgs)
-  published quantum-ai-earth-environmental-protection-system (2021-02-24, 129 words, 6/6 imgs)
-  published radically-pragmatic (2021-04-13, 294 words, 14/14 imgs)
+  published insideepa-article-facing-limited-resources-states-eye-ai-to-boost-air-water-enfo (2021-03-22, 585 words, 17/18 imgs)
+  published invitation-to-drone-gas-detection-demo (2021-03-29, 221 words, 13/13 imgs)
+  published lots-of-emails (2021-04-12, 270 words, 27/27 imgs)
+  published massive-fire (2021-04-08, 379 words, 19/19 imgs)
+  published musk-and-anderson-to-cooperate-on-earth-protection-machine (2021-02-26, 108 words, 4/4 imgs)
+  published no-pollution (2021-02-24, 116 words, 6/6 imgs)
+  published problems (2021-03-03, 178 words, 14/14 imgs)
+  published quantum-ai-earth-environmental-protection-system (2021-02-24, 210 words, 6/6 imgs)
+  published radically-pragmatic (2021-04-13, 407 words, 14/14 imgs)
   quarantined (dedup) radically-pragmatic-2 matches radically-pragmatic
-  published re-name-epa (2021-03-04, 95 words, 13/13 imgs)
-  published regulations-arent (2021-03-23, 138 words, 19/19 imgs)
-  published robotic-drone-box (2021-03-24, 155 words, 15/15 imgs)
-  published silliest-thing-to-fear (2021-03-22, 61 words, 10/10 imgs)
-  published teslas-secret (2021-03-28, 182 words, 8/8 imgs)
-  published thank-you (2021-03-17, 209 words, 18/18 imgs)
-  quarantined the-greatest-environmental-entrepreneur-of-all-time (2021-03-01) reason=short:body_only_44_words
-  quarantined the-greatest-environmental-entrepreneur-of-all-time-2 (2021-03-02) reason=short:body_only_46_words
-  published tragedy (2021-03-27, 91 words, 3/3 imgs)
-  published watch-movie (2021-03-08, 95 words, 5/5 imgs)
-  published why-2 (2021-03-26, 83 words, 5/5 imgs)
-  quarantined worlds-largest-industrial-pollution-reduction-project (2021-03-01) reason=short:body_only_24_words
-  published yes-you-figured-it-out (2021-03-25, 143 words, 9/9 imgs)
-  published your-capacity (2021-03-01, 354 words, 9/9 imgs)
-  published zero-emissions-industry (2021-03-15, 50 words, 8/8 imgs)
-  published green-to-green-to-green (2021-02-05, 103 words, 7/7 imgs)
-  published indisputable (2020-12-28, 56 words, 7/7 imgs)
-  published who-will-be-right (2021-01-05, 232 words, 12/12 imgs)
-  published 10-000-of-you (2021-01-04, 77 words, 7/7 imgs)
-  published 24-7 (2021-02-15, 118 words, 3/3 imgs)
-  quarantined quot-it-aint-bragging-if-you-can-back-it-up-quot-muhammad-ali (2021-01-20) reason=short:body_only_39_words
-  published quot-musk-isnt-crazy (2021-01-03, 231 words, 16/16 imgs)
-  published quot-my-esg-quot (2021-02-23, 86 words, 17/17 imgs)
-  published quot-small-quot-and-quot-negative-quot-thinkers (2021-02-08, 81 words, 12/12 imgs)
-  published quot-the-environmental-enlightenment-quot (2021-02-07, 102 words, 15/15 imgs)
-  published quot-zero-emissions-quot-industry (2021-01-30, 261 words, 13/13 imgs)
-  published ai-finds-answer-to-flaring (2021-01-14, 143 words, 3/3 imgs)
-  published amazon-insperity-outsourcing-pollution (2020-12-22, 1769 words, 14/14 imgs)
-  quarantined automated (2021-02-22) reason=short:body_only_25_words
-  quarantined beyond-protection (2021-01-25) reason=short:body_only_42_words
-  quarantined biden (2021-01-21) reason=short:body_only_21_words
-  published blackrock-9-trillion (2021-02-03, 294 words, 11/11 imgs)
-  published bloomberg-quot-the-green-companies-making-billionaires-quot (2021-02-12, 128 words, 7/7 imgs)
-  published bloomberg-quot-the-green-companies-making-billionaires-quot-2 (2021-02-11, 132 words, 7/7 imgs)
-  published bloomberg-quot-new-satellite-just-found-a-giant-methane-leak-quot (2021-02-12, 109 words, 10/10 imgs)
-  quarantined by-2035 (2021-02-14) reason=short:body_only_20_words
-  published checking-in-on-you (2020-12-19, 1293 words, 9/9 imgs)
-  published climate-quot-houston-we-dont-have-a-problem-we-have-a-solution-quot (2021-01-27, 435 words, 6/6 imgs)
-  published cold-pandemic-hope-joy (2021-02-18, 274 words, 14/14 imgs)
-  published death-threat-will-i-receive-another-one (2020-12-30, 252 words, 9/9 imgs)
-  quarantined environmental-entrepreneurial-projects (2021-01-04) reason=short:body_only_40_words
-  published flare-share (2021-02-16, 148 words, 12/12 imgs)
-  published houston-detroit (2021-02-02, 289 words, 14/14 imgs)
-  published i-think-this-would-shock-the-public (2021-01-06, 243 words, 11/11 imgs)
-  published ive-cried (2020-12-29, 196 words, 5/5 imgs)
-  published industry-x-mas-gift (2020-12-24, 150 words, 11/11 imgs)
-  published its-a-brand-new-environmental-profession (2021-02-13, 133 words, 11/11 imgs)
-  published its-really-happening (2021-02-09, 52 words, 3/3 imgs)
-  published its-up-and-running-check-it-out (2020-12-31, 274 words, 18/18 imgs)
-  published jed-answers-muskss-question (2021-02-10, 311 words, 7/7 imgs)
-  published jeds-quot-elon-musk-quot-approach-to-environmental-protection (2020-12-26, 210 words, 20/20 imgs)
-  quarantined my-new-years-prediction (2021-01-01) reason=short:body_only_20_words
-  published new-chemical-company (2021-01-02, 261 words, 7/7 imgs)
-  published new-app (2020-12-18, 221 words, 18/18 imgs)
-  published new-app-2 (2020-12-23, 216 words, 18/18 imgs)
-  published protecting-your-children-and-grandchildren (2021-01-26, 199 words, 9/9 imgs)
-  quarantined save-the-earth-amp-increase-profits (2021-01-12) reason=short:body_only_4_words
-  published see-quantum (2021-02-06, 406 words, 10/10 imgs)
-  published shine (2021-01-07, 100 words, 10/10 imgs)
-  quarantined shop-the-app-store (2021-01-13) reason=short:body_only_12_words
-  quarantined smart (2021-01-22) reason=short:body_only_24_words
-  published white-house-establishes-quot-national-artificial-intelligence-office-quot (2021-01-13, 182 words, 13/13 imgs)
-  published who-has-the-best-environmental-protection-system (2021-01-08, 207 words, 12/12 imgs)
-  published whos-the-best (2020-12-27, 96 words, 14/14 imgs)
-  published your-hidden-power-revealed (2021-01-19, 131 words, 5/5 imgs)
-  published bidding-on-project (2020-12-16, 94 words, 2/2 imgs)
-  published would-i-lead-epa (2020-12-17, 114 words, 2/2 imgs)
-  published 200-000-cars-off-the-road (2020-11-28, 109 words, 4/4 imgs)
-  published quot-environmental-freedom-quot (2020-11-08, 79 words, 4/4 imgs)
-  quarantined quot-outsourcing-quot-pollution (2020-11-15) reason=short:body_only_34_words
-  quarantined quot-the-app-store-quot (2020-11-02) reason=short:body_only_28_words
-  published article-in-the-new-york-times-this-morning (2020-11-23, 2646 words, 5/5 imgs)
-  quarantined baker-botts-v-amp-e (2020-11-16) reason=short:body_only_10_words
-  published bezos-musk-and-anderson (2020-12-02, 156 words, 2/2 imgs)
-  published birthday (2020-11-05, 94 words, 3/3 imgs)
-  quarantined build-an-app (2020-11-09) reason=short:body_only_25_words
-  published channel-2-news-story-last-night (2020-11-11, 85 words, 11/11 imgs)
-  published confidence (2020-12-15, 136 words, 7/7 imgs)
-  published craving-adventure (2020-11-17, 86 words, 3/3 imgs)
-  published criminal-investigation (2020-12-07, 190 words, 14/14 imgs)
-  published election-regardless (2020-10-31, 243 words, 10/10 imgs)
-  published emissions-inventory-in-less-than-10-minutes (2020-11-27, 67 words, 11/11 imgs)
+  published re-name-epa (2021-03-04, 204 words, 13/13 imgs)
+  published regulations-arent (2021-03-23, 337 words, 19/19 imgs)
+  published robotic-drone-box (2021-03-24, 318 words, 15/15 imgs)
+  published silliest-thing-to-fear (2021-03-22, 142 words, 10/10 imgs)
+  published teslas-secret (2021-03-28, 277 words, 8/8 imgs)
+  published thank-you (2021-03-17, 341 words, 18/18 imgs)
+  published the-greatest-environmental-entrepreneur-of-all-time (2021-03-01, 92 words, 5/5 imgs)
+  published the-greatest-environmental-entrepreneur-of-all-time-2 (2021-03-02, 98 words, 5/5 imgs)
+  published tragedy (2021-03-27, 103 words, 3/3 imgs)
+  published watch-movie (2021-03-08, 136 words, 5/5 imgs)
+  published why-2 (2021-03-26, 123 words, 5/5 imgs)
+  published worlds-largest-industrial-pollution-reduction-project (2021-03-01, 81 words, 5/5 imgs)
+  published yes-you-figured-it-out (2021-03-25, 236 words, 9/9 imgs)
+  published your-capacity (2021-03-01, 410 words, 9/9 imgs)
+  published zero-emissions-industry (2021-03-15, 106 words, 8/8 imgs)
+  published green-to-green-to-green (2021-02-05, 178 words, 7/7 imgs)
+  published indisputable (2020-12-28, 92 words, 7/7 imgs)
+  published who-will-be-right (2021-01-05, 345 words, 12/12 imgs)
+  published 10-000-of-you (2021-01-04, 131 words, 7/7 imgs)
+  published 24-7 (2021-02-15, 148 words, 3/3 imgs)
+  published it-aint-bragging-if-you-can-back-it-up-muhammad-ali (2021-01-20, 178 words, 9/9 imgs)
+  published musk-isnt-crazy (2021-01-03, 399 words, 16/16 imgs)
+  published my-esg (2021-02-23, 198 words, 17/17 imgs)
+  published small-and-negative-thinkers (2021-02-08, 180 words, 12/12 imgs)
+  published the-environmental-enlightenment (2021-02-07, 238 words, 15/15 imgs)
+  published zero-emissions-industry-2 (2021-01-30, 398 words, 13/13 imgs)
+  published ai-finds-answer-to-flaring (2021-01-14, 163 words, 3/3 imgs)
+  published amazon-insperity-outsourcing-pollution (2020-12-22, 1916 words, 14/14 imgs)
+  published automated (2021-02-22, 37 words, 3/3 imgs)
+  published beyond-protection (2021-01-25, 77 words, 6/6 imgs)
+  published biden (2021-01-21, 100 words, 12/12 imgs)
+  published blackrock-9-trillion (2021-02-03, 389 words, 11/11 imgs)
+  published bloomberg-the-green-companies-making-billionaires (2021-02-12, 207 words, 7/7 imgs)
+  published bloomberg-the-green-companies-making-billionaires-2 (2021-02-11, 219 words, 7/7 imgs)
+  published bloomberg-new-satellite-just-found-a-giant-methane-leak (2021-02-12, 262 words, 10/10 imgs)
+  published by-2035 (2021-02-14, 61 words, 5/5 imgs)
+  published checking-in-on-you (2020-12-19, 1365 words, 9/9 imgs)
+  published climate-houston-we-dont-have-a-problem-we-have-a-solution (2021-01-27, 530 words, 6/6 imgs)
+  published cold-pandemic-hope-joy (2021-02-18, 415 words, 14/14 imgs)
+  published death-threat-will-i-receive-another-one (2020-12-30, 348 words, 9/9 imgs)
+  published environmental-entrepreneurial-projects (2021-01-04, 151 words, 10/10 imgs)
+  published flare-share (2021-02-16, 242 words, 12/12 imgs)
+  published houston-detroit (2021-02-02, 402 words, 14/14 imgs)
+  published i-think-this-would-shock-the-public (2021-01-06, 391 words, 11/11 imgs)
+  published ive-cried (2020-12-29, 224 words, 5/5 imgs)
+  published industry-x-mas-gift (2020-12-24, 251 words, 11/11 imgs)
+  published its-a-brand-new-environmental-profession (2021-02-13, 253 words, 11/11 imgs)
+  published its-really-happening (2021-02-09, 68 words, 3/3 imgs)
+  published its-up-and-running-check-it-out (2020-12-31, 514 words, 18/18 imgs)
+  published jed-answers-muskss-question (2021-02-10, 378 words, 7/7 imgs)
+  published jeds-elon-musk-approach-to-environmental-protection (2020-12-26, 463 words, 20/20 imgs)
+  published my-new-years-prediction (2021-01-01, 79 words, 6/6 imgs)
+  published new-chemical-company (2021-01-02, 321 words, 7/7 imgs)
+  published new-app (2020-12-18, 370 words, 18/18 imgs)
+  published new-app-2 (2020-12-23, 376 words, 18/18 imgs)
+  published protecting-your-children-and-grandchildren (2021-01-26, 292 words, 9/9 imgs)
+  published save-the-earth-increase-profits (2021-01-12, 37 words, 3/3 imgs)
+  published see-quantum (2021-02-06, 480 words, 10/10 imgs)
+  published shine (2021-01-07, 154 words, 10/10 imgs)
+  published shop-the-app-store (2021-01-13, 43 words, 3/3 imgs)
+  published smart (2021-01-22, 96 words, 9/9 imgs)
+  published white-house-establishes-national-artificial-intelligence-office (2021-01-13, 350 words, 13/13 imgs)
+  published who-has-the-best-environmental-protection-system (2021-01-08, 351 words, 12/12 imgs)
+  published whos-the-best (2020-12-27, 228 words, 14/14 imgs)
+  published your-hidden-power-revealed (2021-01-19, 167 words, 5/5 imgs)
+  published bidding-on-project (2020-12-16, 119 words, 2/2 imgs)
+  published would-i-lead-epa (2020-12-17, 123 words, 2/2 imgs)
+  published 200-000-cars-off-the-road (2020-11-28, 158 words, 4/4 imgs)
+  published environmental-freedom (2020-11-08, 100 words, 4/4 imgs)
+  published outsourcing-pollution (2020-11-15, 54 words, 2/2 imgs)
+  published the-app-store (2020-11-02, 78 words, 4/4 imgs)
+  published article-in-the-new-york-times-this-morning (2020-11-23, 2698 words, 5/5 imgs)
+  published baker-botts-v-e (2020-11-16, 70 words, 4/4 imgs)
+  published bezos-musk-and-anderson (2020-12-02, 165 words, 2/2 imgs)
+  published birthday (2020-11-05, 121 words, 3/3 imgs)
+  published build-an-app (2020-11-09, 46 words, 2/2 imgs)
+  published channel-2-news-story-last-night (2020-11-11, 219 words, 11/11 imgs)
+  published confidence (2020-12-15, 184 words, 7/7 imgs)
+  published craving-adventure (2020-11-17, 100 words, 3/3 imgs)
+  published criminal-investigation (2020-12-07, 336 words, 14/14 imgs)
+  published election-regardless (2020-10-31, 318 words, 10/10 imgs)
+  published emissions-inventory-in-less-than-10-minutes (2020-11-27, 187 words, 11/11 imgs)
   quarantined (dedup) emissions-inventory-in-less-than-10-minutes-2 matches emissions-inventory-in-less-than-10-minutes
-  published employee-protection-protecting-the-environment-while-increasing-social-distancin (2020-11-21, 66 words, 10/10 imgs)
-  published flares-disappearing (2020-11-04, 58 words, 3/3 imgs)
-  published forbes-hype-about-gpt-3 (2020-11-10, 110 words, 6/6 imgs)
-  quarantined going-virtual-again (2020-11-17) reason=short:body_only_36_words
-  published green-quot-cyber-monday-quot (2020-11-30, 120 words, 15/15 imgs)
-  published healthy-stay-healthy (2020-12-13, 231 words, 17/17 imgs)
-  published is-my-industrial-plant-sick (2020-12-12, 174 words, 11/11 imgs)
-  published jed-dead (2020-11-06, 121 words, 3/3 imgs)
-  published like-quot-turbotax-quot (2020-11-06, 146 words, 16/16 imgs)
-  published looking-for-work-or-more-work (2020-11-03, 104 words, 13/13 imgs)
-  published make-chemicals-not-pollution (2020-11-28, 118 words, 11/11 imgs)
-  published mit-quot-ai-amp-the-future-of-work-congress-quot-november-2020 (2020-11-27, 71 words, 5/5 imgs)
-  published mountain-moving (2020-11-13, 98 words, 3/3 imgs)
-  published multi-agency-drone-demo-dec-1-houston-ship-channel (2020-11-19, 87 words, 18/18 imgs)
-  published my-birthday-is-tomorrow-ill-be-51 (2020-11-04, 60 words, 3/3 imgs)
-  quarantined nature-is-extraordinary (2020-11-12) reason=short:body_only_6_words
-  published new-app-3 (2020-12-17, 208 words, 16/16 imgs)
-  quarantined new-skyline (2020-11-02) reason=short:body_only_15_words
-  quarantined no-flares (2020-11-01) reason=short:body_only_40_words
-  published poll (2020-11-22, 125 words, 11/11 imgs)
-  quarantined prayer (2020-11-18) reason=short:body_only_32_words
-  quarantined remote-sensing-apps (2020-11-22) reason=short:body_only_39_words
+  published employee-protection-protecting-the-environment-while-increasing-social-distancin (2020-11-21, 203 words, 10/10 imgs)
+  published flares-disappearing (2020-11-04, 86 words, 3/3 imgs)
+  published forbes-hype-about-gpt-3 (2020-11-10, 186 words, 6/6 imgs)
+  published going-virtual-again (2020-11-17, 63 words, 3/3 imgs)
+  published green-cyber-monday (2020-11-30, 245 words, 15/15 imgs)
+  published healthy-stay-healthy (2020-12-13, 359 words, 17/17 imgs)
+  published is-my-industrial-plant-sick (2020-12-12, 284 words, 11/11 imgs)
+  published jed-dead (2020-11-06, 147 words, 3/3 imgs)
+  published like-turbotax (2020-11-06, 275 words, 16/16 imgs)
+  published looking-for-work-or-more-work (2020-11-03, 262 words, 13/13 imgs)
+  published make-chemicals-not-pollution (2020-11-28, 222 words, 11/11 imgs)
+  published mit-ai-the-future-of-work-congress-november-2020 (2020-11-27, 127 words, 5/5 imgs)
+  published mountain-moving (2020-11-13, 112 words, 3/3 imgs)
+  published multi-agency-drone-demo-dec-1-houston-ship-channel (2020-11-19, 346 words, 18/18 imgs)
+  published my-birthday-is-tomorrow-ill-be-51 (2020-11-04, 99 words, 3/3 imgs)
+  published nature-is-extraordinary (2020-11-12, 135 words, 10/10 imgs)
+  published new-app-3 (2020-12-17, 348 words, 16/16 imgs)
+  published new-skyline (2020-11-02, 42 words, 3/3 imgs)
+  published no-flares (2020-11-01, 90 words, 6/6 imgs)
+  published poll (2020-11-22, 185 words, 11/11 imgs)
+  published prayer (2020-11-18, 50 words, 2/2 imgs)
+  published remote-sensing-apps (2020-11-22, 93 words, 6/6 imgs)
   published semi-automated-permitting (2020-11-09, 137 words, 1/1 imgs)
-  published simplicity-joy (2020-11-16, 1808 words, 15/15 imgs)
-  published skyline-with-no-flares (2020-10-30, 149 words, 9/9 imgs)
-  published the-environmental-quot-g-o-a-t-quot (2020-12-04, 467 words, 5/5 imgs)
-  published the-roaring-quot-2020s-quot (2020-11-07, 191 words, 4/4 imgs)
-  published they-agree-biden-and-trump-pushing (2020-11-11, 75 words, 5/5 imgs)
-  published virtual-tools-to-help-consultants-and-lawyers (2020-11-19, 120 words, 10/10 imgs)
-  published whoah (2020-12-05, 525 words, 4/4 imgs)
-  quarantined why-move-mountains (2020-11-01) reason=short:body_only_7_words
-  published you-are-extraordinary (2020-12-11, 75 words, 5/5 imgs)
-  published quot-its-revolutionary-quot (2020-10-21, 82 words, 4/4 imgs)
-  published quot-stop-spying-on-us-quot (2020-09-30, 97 words, 10/10 imgs)
-  quarantined (dedup) quot-stop-spying-on-us-quot-2 matches quot-stop-spying-on-us-quot
-  published a-free-environmental-news-service-for-the-people-of-texas (2020-10-10, 71 words, 14/14 imgs)
-  quarantined 10-000-plus-receive-these-emails (2020-10-01) reason=short:body_only_35_words
-  published quot-app-store-quot (2020-10-15, 143 words, 9/9 imgs)
-  quarantined (dedup) quot-app-store-quot-2 matches quot-app-store-quot
-  published quot-investors-with-47-trillion-take-aim-at-big-polluters-quot-bloomberg-news (2020-09-15, 117 words, 6/6 imgs)
-  quarantined abraham-lincoln-and-jed-anderson (2020-09-08) reason=short:body_only_33_words
-  quarantined automated-drone-and-docking-station-for-environmental-management-tasks (2020-09-12) reason=short:body_only_40_words
-  quarantined bill-gates-and-jed-anderson-on-innovation (2020-09-11) reason=short:body_only_33_words
-  published can-you-help-me-please (2020-09-09, 59 words, 9/9 imgs)
-  published climate-air-quality (2020-09-23, 62 words, 8/8 imgs)
-  published community-emissions-treatment-yes (2020-10-16, 168 words, 3/3 imgs)
-  published companies-over-paying-for-regulatory-compliance (2020-09-03, 84 words, 8/8 imgs)
-  quarantined corrective-action-tracker (2020-09-21) reason=short:body_only_41_words
-  published creativity-a-skillset-in-great-demand (2020-10-03, 66 words, 10/10 imgs)
-  published drone-demo-day-in-houston (2020-09-25, 138 words, 13/13 imgs)
+  published simplicity-joy (2020-11-16, 1906 words, 15/15 imgs)
+  published skyline-with-no-flares (2020-10-30, 221 words, 9/9 imgs)
+  published the-environmental-g-o-a-t-2 (2020-12-04, 515 words, 5/5 imgs)
+  published the-roaring-2020s (2020-11-07, 227 words, 4/4 imgs)
+  published they-agree-biden-and-trump-pushing (2020-11-11, 132 words, 5/5 imgs)
+  published virtual-tools-to-help-consultants-and-lawyers (2020-11-19, 228 words, 10/10 imgs)
+  published whoah (2020-12-05, 555 words, 4/4 imgs)
+  published why-move-mountains (2020-11-01, 29 words, 2/2 imgs)
+  published you-are-extraordinary (2020-12-11, 117 words, 5/5 imgs)
+  published its-revolutionary (2020-10-21, 119 words, 4/4 imgs)
+  published stop-spying-on-us (2020-09-30, 178 words, 10/10 imgs)
+  quarantined (dedup) stop-spying-on-us-2 matches stop-spying-on-us
+  published a-free-environmental-news-service-for-the-people-of-texas (2020-10-10, 299 words, 14/14 imgs)
+  published 10-000-plus-receive-these-emails (2020-10-01, 125 words, 8/8 imgs)
+  published app-store (2020-10-15, 211 words, 9/9 imgs)
+  quarantined (dedup) app-store-2 matches app-store
+  published investors-with-47-trillion-take-aim-at-big-polluters-bloomberg-news (2020-09-15, 229 words, 6/6 imgs)
+  published abraham-lincoln-and-jed-anderson (2020-09-08, 103 words, 8/8 imgs)
+  published automated-drone-and-docking-station-for-environmental-management-tasks (2020-09-12, 166 words, 8/8 imgs)
+  published bill-gates-and-jed-anderson-on-innovation (2020-09-11, 117 words, 8/8 imgs)
+  published can-you-help-me-please (2020-09-09, 139 words, 9/9 imgs)
+  published climate-air-quality (2020-09-23, 118 words, 8/8 imgs)
+  published community-emissions-treatment-yes (2020-10-16, 201 words, 3/3 imgs)
+  published companies-over-paying-for-regulatory-compliance (2020-09-03, 185 words, 8/8 imgs)
+  published corrective-action-tracker (2020-09-21, 97 words, 8/8 imgs)
+  published creativity-a-skillset-in-great-demand (2020-10-03, 165 words, 10/10 imgs)
+  published drone-demo-day-in-houston (2020-09-25, 274 words, 13/13 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published enforcement-agency-is-now-using-enviroai (2020-09-10, 100 words, 11/12 imgs)
-  published environmental (2020-10-25, 91 words, 18/18 imgs)
-  published environmental-lay-offs-retirements (2020-09-29, 70 words, 7/7 imgs)
-  published environmental-object-detection (2020-10-19, 203 words, 18/18 imgs)
-  published exxon-shell-chevron-dow-ineos-valero (2020-10-01, 58 words, 6/6 imgs)
+  published enforcement-agency-is-now-using-enviroai (2020-09-10, 255 words, 11/12 imgs)
+  published environmental (2020-10-25, 252 words, 18/18 imgs)
+  published environmental-lay-offs-retirements (2020-09-29, 124 words, 7/7 imgs)
+  published environmental-object-detection (2020-10-19, 339 words, 18/18 imgs)
+  published exxon-shell-chevron-dow-ineos-valero (2020-10-01, 127 words, 6/6 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published faster-enforcement-with-enviroai (2020-09-14, 104 words, 7/8 imgs)
-  quarantined flood (2020-09-21) reason=short:body_only_5_words
-  published huge-day-for-us (2020-10-06, 150 words, 12/12 imgs)
-  published its-arrived (2020-09-10, 99 words, 21/21 imgs)
-  published its-live (2020-10-14, 77 words, 13/13 imgs)
-  quarantined jk-rowling-and-jed-anderson (2020-09-06) reason=short:body_only_35_words
-  published joy-joy-joy (2020-10-16, 68 words, 11/11 imgs)
-  published mountain-moving-2 (2020-10-23, 79 words, 6/6 imgs)
-  published music-nature-physics-ai (2020-09-27, 247 words, 16/16 imgs)
-  quarantined nature-is-alive (2020-10-07) reason=short:body_only_3_words
-  quarantined new-social-media-tracker (2020-10-12) reason=short:body_only_16_words
-  published no-more-flares-in-the-houston-skyline (2020-10-29, 56 words, 7/7 imgs)
-  published no-more-flaring-deer-park-and-la-porte (2020-10-28, 96 words, 11/11 imgs)
-  quarantined october-16th (2020-10-04) reason=short:body_only_19_words
-  published pollution-is-made-of (2020-10-27, 52 words, 7/7 imgs)
-  published quantum-literacy (2020-09-24, 165 words, 8/8 imgs)
-  published sacred (2020-09-17, 129 words, 3/3 imgs)
-  published scheduling-satellites-with-enviroai (2020-10-11, 84 words, 8/8 imgs)
-  quarantined songs-movies-now-corrective-actions (2020-10-19) reason=short:body_only_46_words
-  published suffering (2020-10-20, 603 words, 4/4 imgs)
-  published tceq-explosions-new-penalty-policy-in-the-news (2020-10-11, 260 words, 11/11 imgs)
-  published the-noise (2020-10-10, 189 words, 9/9 imgs)
-  quarantined this-friday-were-flying (2020-10-13) reason=short:body_only_41_words
-  published trump-announces-1-billion-investment-in-ai-and-quantum-computing (2020-09-24, 283 words, 2/2 imgs)
-  published under-appreciated-under-utilized-too-many-talented-environmental-professionals-a (2020-10-13, 235 words, 7/7 imgs)
-  published using-traffic-and-weather-cameras (2020-10-20, 115 words, 8/8 imgs)
-  published video-footage-of-yesterdays-1st-enviroai-drone-demo (2020-10-24, 106 words, 15/15 imgs)
+  published faster-enforcement-with-enviroai (2020-09-14, 188 words, 7/8 imgs)
+  published flood (2020-09-21, 121 words, 9/9 imgs)
+  published huge-day-for-us (2020-10-06, 249 words, 12/12 imgs)
+  published its-arrived (2020-09-10, 252 words, 21/21 imgs)
+  published its-live (2020-10-14, 191 words, 13/13 imgs)
+  published jk-rowling-and-jed-anderson (2020-09-06, 105 words, 8/8 imgs)
+  published joy-joy-joy (2020-10-16, 148 words, 11/11 imgs)
+  published mountain-moving-2 (2020-10-23, 119 words, 6/6 imgs)
+  published music-nature-physics-ai (2020-09-27, 448 words, 16/16 imgs)
+  published nature-is-alive (2020-10-07, 24 words, 2/2 imgs)
+  published new-social-media-tracker (2020-10-12, 92 words, 8/8 imgs)
+  published no-more-flares-in-the-houston-skyline (2020-10-29, 128 words, 7/7 imgs)
+  published no-more-flaring-deer-park-and-la-porte (2020-10-28, 226 words, 11/11 imgs)
+  published october-16th (2020-10-04, 145 words, 12/12 imgs)
+  published pollution-is-made-of (2020-10-27, 106 words, 7/7 imgs)
+  published quantum-literacy (2020-09-24, 250 words, 8/8 imgs)
+  published sacred (2020-09-17, 141 words, 3/3 imgs)
+  published scheduling-satellites-with-enviroai (2020-10-11, 157 words, 8/8 imgs)
+  published songs-movies-now-corrective-actions (2020-10-19, 86 words, 5/5 imgs)
+  published suffering (2020-10-20, 621 words, 4/4 imgs)
+  published tceq-explosions-new-penalty-policy-in-the-news (2020-10-11, 390 words, 11/11 imgs)
+  published the-noise (2020-10-10, 285 words, 9/9 imgs)
+  published this-friday-were-flying (2020-10-13, 217 words, 16/16 imgs)
+  published trump-announces-1-billion-investment-in-ai-and-quantum-computing (2020-09-24, 298 words, 2/2 imgs)
+  published under-appreciated-under-utilized-too-many-talented-environmental-professionals-a (2020-10-13, 325 words, 7/7 imgs)
+  published using-traffic-and-weather-cameras (2020-10-20, 236 words, 8/8 imgs)
+  published video-footage-of-yesterdays-1st-enviroai-drone-demo (2020-10-24, 328 words, 15/15 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published 17-95-a-month (2020-08-13, 90 words, 20/21 imgs)
+  published 17-95-a-month (2020-08-13, 315 words, 20/21 imgs)
   quarantined (dedup) 17-95-a-month-2 matches 17-95-a-month
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published 17-95-a-month-3 (2020-08-15, 94 words, 16/17 imgs)
-  published 200-000 (2020-07-28, 57 words, 9/9 imgs)
-  published quot-ding-in-the-universe-quot (2020-08-31, 60 words, 9/9 imgs)
+  published 17-95-a-month-3 (2020-08-15, 287 words, 16/17 imgs)
+  published 200-000 (2020-07-28, 113 words, 9/9 imgs)
+  published ding-in-the-universe (2020-08-31, 132 words, 9/9 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published quot-i-will-not-discriminate-quot (2020-09-01, 93 words, 13/14 imgs)
-  published quot-jobs-quot-tab (2020-07-06, 78 words, 9/9 imgs)
-  quarantined quot-the-store-quot (2020-08-30) reason=short:body_only_38_words
+  published i-will-not-discriminate (2020-09-01, 246 words, 13/14 imgs)
+  published jobs-tab (2020-07-06, 162 words, 9/9 imgs)
+  published the-store (2020-08-30, 66 words, 3/3 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published ask-your-consultant (2020-08-24, 108 words, 13/14 imgs)
-  quarantined automate-environmental-reviews (2020-06-19) reason=short:body_only_39_words
-  published automating-environmental-protection (2020-06-22, 132 words, 13/13 imgs)
-  published breaking-news-airobotics-amp-enviroai-sign-agreement (2020-08-26, 94 words, 10/10 imgs)
-  published build-plan (2020-06-13, 80 words, 11/11 imgs)
+  published ask-your-consultant (2020-08-24, 245 words, 13/14 imgs)
+  published automate-environmental-reviews (2020-06-19, 211 words, 17/17 imgs)
+  published automating-environmental-protection (2020-06-22, 253 words, 13/13 imgs)
+  published breaking-news-airobotics-enviroai-sign-agreement (2020-08-26, 193 words, 10/10 imgs)
+  published build-plan (2020-06-13, 178 words, 11/11 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published chevron-refinery-fire-yesterday (2020-08-19, 102 words, 16/17 imgs)
+  published chevron-refinery-fire-yesterday (2020-08-19, 280 words, 16/17 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published companies-over-paying-for-environmental-research (2020-08-23, 145 words, 13/14 imgs)
-  published crazy-weird-true (2020-07-24, 385 words, 19/19 imgs)
-  published dice (2020-06-18, 66 words, 4/4 imgs)
-  published drone-trained-to-recognize-pollution (2020-07-29, 54 words, 9/9 imgs)
-  published drone-trained-to-recognize-pollution-using-video-machine-learning (2020-07-28, 72 words, 9/9 imgs)
-  published ehs-costs-high (2020-07-02, 247 words, 14/14 imgs)
+  published companies-over-paying-for-environmental-research (2020-08-23, 318 words, 13/14 imgs)
+  published crazy-weird-true (2020-07-24, 558 words, 19/19 imgs)
+  published dice (2020-06-18, 114 words, 4/4 imgs)
+  published drone-trained-to-recognize-pollution (2020-07-29, 161 words, 9/9 imgs)
+  published drone-trained-to-recognize-pollution-using-video-machine-learning (2020-07-28, 184 words, 9/9 imgs)
+  published ehs-costs-high (2020-07-02, 380 words, 14/14 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published environmental-consultant (2020-08-16, 93 words, 12/13 imgs)
+  published environmental-consultant (2020-08-16, 213 words, 12/13 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published esteem-for-environmental-staff (2020-08-25, 163 words, 9/10 imgs)
-  published flood-ai (2020-06-25, 110 words, 9/9 imgs)
+  published esteem-for-environmental-staff (2020-08-25, 276 words, 9/10 imgs)
+  published flood-ai (2020-06-25, 208 words, 9/9 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published follower-or-leader (2020-08-27, 263 words, 8/9 imgs)
-  published humility (2020-07-19, 209 words, 14/14 imgs)
-  published is-your-company-falling-behind-in-environmental (2020-08-10, 191 words, 9/9 imgs)
-  published managing-a-probability-wave (2020-07-25, 138 words, 7/7 imgs)
-  published natures-reality (2020-07-20, 177 words, 14/14 imgs)
-  published need-work-or-bored-or-just-tired-of-the-same-routine-as-an-environmental-profess (2020-07-30, 65 words, 11/11 imgs)
+  published follower-or-leader (2020-08-27, 362 words, 8/9 imgs)
+  published humility (2020-07-19, 299 words, 14/14 imgs)
+  published is-your-company-falling-behind-in-environmental (2020-08-10, 287 words, 9/9 imgs)
+  published managing-a-probability-wave (2020-07-25, 218 words, 7/7 imgs)
+  published natures-reality (2020-07-20, 280 words, 14/14 imgs)
+  published need-work-or-bored-or-just-tired-of-the-same-routine-as-an-environmental-profess (2020-07-30, 265 words, 11/11 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published now-accessible-to-everyone (2020-08-14, 82 words, 12/13 imgs)
-  published oil-amp-gas (2020-06-11, 95 words, 14/14 imgs)
-  quarantined power-intelligence-speed (2020-08-07) reason=short:body_only_27_words
+  published now-accessible-to-everyone (2020-08-14, 225 words, 12/13 imgs)
+  published oil-gas (2020-06-11, 210 words, 14/14 imgs)
+  published power-intelligence-speed (2020-08-07, 155 words, 17/17 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published power (2020-08-18, 100 words, 7/8 imgs)
-  published prices-now-starting-17 (2020-06-17, 64 words, 19/19 imgs)
+  published power (2020-08-18, 179 words, 7/8 imgs)
+  published prices-now-starting-17 (2020-06-17, 266 words, 19/19 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published protesting (2020-08-20, 93 words, 14/15 imgs)
-  published red-pill-blue-pill (2020-08-09, 114 words, 15/15 imgs)
-  quarantined simulate-nature-protect-nature (2020-08-08) reason=short:body_only_21_words
+  published protesting (2020-08-20, 216 words, 14/15 imgs)
+  published red-pill-blue-pill (2020-08-09, 255 words, 15/15 imgs)
+  published simulate-nature-protect-nature (2020-08-08, 102 words, 10/10 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published smoke-or-steam-at-any-industrial-facility-in-texas (2020-08-29, 96 words, 13/14 imgs)
-  quarantined team-picture (2020-07-23) reason=short:body_only_37_words
+  published smoke-or-steam-at-any-industrial-facility-in-texas (2020-08-29, 312 words, 13/14 imgs)
+  published team-picture (2020-07-23, 128 words, 14/14 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published the-quot-billable-hour-quot-vs-artificial-intelligence (2020-08-17, 142 words, 12/13 imgs)
-  published trump-announces-1-billion-investment-in-ai-and-quantum-computing-2 (2020-08-28, 308 words, 7/7 imgs)
-  published tupac-nature-reality-a-word-of-encouragement-for-dreamers (2020-07-26, 409 words, 12/12 imgs)
-  published tupak-nature-reality-a-word-of-encouragement-for-dreamers (2020-07-26, 398 words, 12/12 imgs)
-  published value-of-your-house (2020-06-29, 66 words, 12/12 imgs)
-  quarantined want-to-build-an-app (2020-07-01) reason=short:body_only_49_words
-  published watch-drone-fly-over-a-refinery (2020-07-11, 110 words, 15/15 imgs)
-  quarantined watch (2020-09-02) reason=short:body_only_44_words
-  published what-is-that-object-should-it-be-there (2020-08-06, 52 words, 7/7 imgs)
-  published where-is-the-bottleneck (2020-07-12, 460 words, 17/17 imgs)
+  published the-billable-hour-vs-artificial-intelligence (2020-08-17, 308 words, 12/13 imgs)
+  published trump-announces-1-billion-investment-in-ai-and-quantum-computing-2 (2020-08-28, 438 words, 7/7 imgs)
+  published tupac-nature-reality-a-word-of-encouragement-for-dreamers (2020-07-26, 577 words, 12/12 imgs)
+  published tupak-nature-reality-a-word-of-encouragement-for-dreamers (2020-07-26, 562 words, 12/12 imgs)
+  published value-of-your-house (2020-06-29, 207 words, 12/12 imgs)
+  published want-to-build-an-app (2020-07-01, 172 words, 11/11 imgs)
+  published watch-drone-fly-over-a-refinery (2020-07-11, 296 words, 15/15 imgs)
+  published watch (2020-09-02, 103 words, 8/8 imgs)
+  published what-is-that-object-should-it-be-there (2020-08-06, 130 words, 7/7 imgs)
+  published where-is-the-bottleneck (2020-07-12, 627 words, 17/17 imgs)
   image-url-failed https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/cca
-  published why-so-optmistic-why-so-enthusiastic-about-the-future-of-environmental-protectio (2020-08-21, 179 words, 13/14 imgs)
-  published 1-search-engine-for-environmental (2020-05-25, 148 words, 14/14 imgs)
-  quarantined quot-due-diligence-quot-auditing (2020-04-20) reason=short:body_only_46_words
-  published quot-due-diligence-quot-with-ai (2020-05-05, 92 words, 14/14 imgs)
-  published quot-the-citizen-quot (2020-05-29, 245 words, 20/20 imgs)
-  published a-story (2020-05-07, 163 words, 12/12 imgs)
-  quarantined audit (2020-05-28) reason=short:body_only_15_words
-  quarantined automate-digitalize (2020-04-01) reason=short:body_only_48_words
-  published bounding-box (2020-04-25, 59 words, 10/10 imgs)
-  published capital-free-burner-replacement-program (2020-05-01, 60 words, 4/4 imgs)
-  published cathartic-transformative-fun (2020-06-04, 117 words, 15/15 imgs)
+  published why-so-optmistic-why-so-enthusiastic-about-the-future-of-environmental-protectio (2020-08-21, 429 words, 13/14 imgs)
+  published 1-search-engine-for-environmental (2020-05-25, 312 words, 14/14 imgs)
+  published due-diligence-auditing (2020-04-20, 124 words, 8/8 imgs)
+  published due-diligence-with-ai (2020-05-05, 242 words, 14/14 imgs)
+  published the-citizen (2020-05-29, 455 words, 20/20 imgs)
+  published a-story (2020-05-07, 282 words, 12/12 imgs)
+  published audit (2020-05-28, 77 words, 7/7 imgs)
+  published automate-digitalize (2020-04-01, 104 words, 9/9 imgs)
+  published bounding-box (2020-04-25, 165 words, 10/10 imgs)
+  published capital-free-burner-replacement-program (2020-05-01, 118 words, 4/4 imgs)
+  published cathartic-transformative-fun (2020-06-04, 297 words, 15/15 imgs)
   quarantined (dedup) cathartic-transformative-fun-2 matches cathartic-transformative-fun
-  published cbs-60-minutes (2020-04-29, 94 words, 11/11 imgs)
-  published chevron-technology-ventures-evaluating-enviroai (2020-06-08, 113 words, 8/8 imgs)
-  quarantined emissions-points (2020-05-11) reason=short:body_only_37_words
-  published enviro-audit (2020-05-27, 139 words, 13/13 imgs)
-  quarantined environmental-heroes (2020-04-06) reason=short:body_only_23_words
-  published environmental-superpowers (2020-05-22, 182 words, 8/8 imgs)
-  published exemptions (2020-04-07, 141 words, 11/11 imgs)
-  published facility-rankings (2020-05-08, 65 words, 8/8 imgs)
-  published grasping-the-gravity-of-what-im-about-to-show-you (2020-04-13, 204 words, 8/8 imgs)
-  published helping-ehs-staff-during-crisis (2020-04-10, 95 words, 7/7 imgs)
-  published houston-chronicle-article-quot-virtual-reality-tour-lets-you-peek-inside-a-refin (2020-04-19, 111 words, 14/14 imgs)
-  published industrial-burner-replacement-program (2020-06-01, 61 words, 4/4 imgs)
-  published its-just-math (2020-04-15, 200 words, 8/8 imgs)
-  published latest-customer-testimonials-amp-reactions (2020-04-22, 52 words, 10/10 imgs)
-  published latest-news (2020-05-04, 969 words, 30/30 imgs)
-  published microsofts-quot-planetary-computer-quot (2020-05-19, 167 words, 8/8 imgs)
-  published permit-ai (2020-05-23, 225 words, 11/11 imgs)
-  published pipelines-amp-oil-wells (2020-05-02, 62 words, 11/11 imgs)
-  published plug-and-play (2020-05-16, 147 words, 9/9 imgs)
-  published popular-meme-who-led-the-digital-transformation-of-your-company (2020-04-11, 66 words, 8/8 imgs)
-  quarantined prospectus (2020-05-12) reason=short:body_only_39_words
-  published quantum-ai-earth-environmental-protection-system-2 (2020-05-17, 127 words, 4/4 imgs)
-  published quantum-should-it-be (2020-06-06, 334 words, 13/13 imgs)
-  published ready-go (2020-06-10, 52 words, 9/9 imgs)
-  published releasing-schrodingers-cat-into-the-environment (2020-05-20, 558 words, 12/12 imgs)
-  published remote-environmental-management (2020-04-16, 162 words, 10/10 imgs)
-  published seeing-emissions (2020-06-03, 315 words, 19/19 imgs)
-  published simple-air (2020-04-28, 73 words, 14/14 imgs)
-  quarantined technology-magic (2020-05-09) reason=short:body_only_34_words
-  published the-hill-article-quot-covid-19-will-accelerate-ais-replacement-of-humans-as-fact (2020-04-14, 1189 words, 12/12 imgs)
-  published the-lorax-and-ai (2020-04-21, 179 words, 11/11 imgs)
-  published the-power-of-data-visualization (2020-05-15, 184 words, 9/9 imgs)
-  quarantined this-will-thrill-you (2020-04-08) reason=short:body_only_39_words
-  published very-exciting (2020-03-27, 57 words, 8/8 imgs)
-  published virtual-environmental-management (2020-04-09, 101 words, 7/7 imgs)
-  published were-inside-the-fence (2020-05-14, 120 words, 9/9 imgs)
-  published whats-in-the-box (2020-04-30, 141 words, 10/10 imgs)
-  published whats-your-facilitys-emissions-credit-value (2020-03-31, 86 words, 17/17 imgs)
-  published white-house-call-out-to-artificial-intelligence-companies (2020-03-25, 550 words, 14/14 imgs)
-  published rank (2020-02-29, 55 words, 8/8 imgs)
-  published 1-cause-of-emission-events (2020-02-26, 58 words, 9/9 imgs)
-  published a-sneak-peek-at-quot-air-ai-quot (2020-02-18, 56 words, 7/7 imgs)
-  published augment-your-intelligence (2020-02-16, 142 words, 10/10 imgs)
-  published automating-the-permitting-process (2020-03-16, 141 words, 6/6 imgs)
-  published can-we-give-your-brain-more-data (2020-02-06, 96 words, 7/7 imgs)
-  published company-found-1-million (2020-03-21, 183 words, 8/8 imgs)
-  published corona-virus-vs-ai-quantum-tech (2020-03-07, 182 words, 11/11 imgs)
-  published ehs-professionals-quote-on-ai (2020-02-07, 195 words, 6/6 imgs)
-  published environmental-forum-amp-support-group (2020-03-23, 191 words, 3/3 imgs)
-  quarantined environmental-reporters-gain-access-to-ceres-ai (2020-03-10) reason=short:body_only_48_words
-  published flood-hurricane-and-covid-19 (2020-03-17, 184 words, 13/13 imgs)
-  published get-paid-to-reduce-pollution (2020-02-12, 416 words, 7/7 imgs)
-  published i-win (2020-03-09, 178 words, 9/9 imgs)
-  published if-you-had-appointed-me-tceq-chairman (2020-03-21, 349 words, 8/8 imgs)
-  published itc-kmco-tpc (2020-03-09, 56 words, 11/11 imgs)
-  published keeping-your-work-alive (2020-02-28, 291 words, 9/9 imgs)
-  published latest-news-2 (2020-03-02, 786 words, 36/36 imgs)
-  published legacy-in-an-algorithm (2020-02-23, 239 words, 7/7 imgs)
-  published money-from-pollution (2020-03-06, 131 words, 5/5 imgs)
-  published no-fear (2020-03-11, 130 words, 7/7 imgs)
-  quarantined reducing-emissions-with-artificial-intelligence (2020-02-21) reason=short:body_only_47_words
-  published regulatory-relief (2020-03-19, 184 words, 8/8 imgs)
-  published screenshare-amp-free-sign-up (2020-03-17, 154 words, 8/8 imgs)
-  published the-quot-generator-quot-reduce-pollution (2020-03-03, 65 words, 8/8 imgs)
-  published top-10-company-environmental-departments-in-texas (2020-02-20, 87 words, 11/11 imgs)
-  published tpc-cutting-100-jobs (2020-02-27, 109 words, 7/7 imgs)
-  published turbulent-times-creating-opportunity (2020-03-15, 151 words, 7/7 imgs)
-  published were-online-right-now (2020-03-18, 102 words, 7/7 imgs)
-  published what-hurt-nature-will-now-save-it (2020-03-05, 282 words, 10/10 imgs)
-  published wsj-quot-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-traini (2020-02-14, 114 words, 10/10 imgs)
-  published wsj-quot-trump-wants-to-double-spending-on-ai-quantum-computing-quot (2020-02-11, 142 words, 13/13 imgs)
-  published our-youth-are-getting-so-far-ahead-of-us-its-awesome (2022-01-31, 11957 words, 124/124 imgs)
-  published staring-at-the-elecromagnetism-chart (2022-02-20, 3551 words, 99/99 imgs)
-  published 1-click (2022-01-05, 81 words, 14/14 imgs)
-  published 1-species (2022-02-24, 74 words, 2/2 imgs)
-  published 2-year-olds-and-ai-training-do-good-in-the-world-when-you-grow-up (2022-02-10, 188 words, 4/4 imgs)
-  published 3-greatest-motivational-speeches (2022-02-25, 251 words, 10/10 imgs)
-  quarantined 3d-3d-3d (2022-01-05) reason=short:body_only_19_words
-  published 60-people-60-days (2022-01-15, 60 words, 4/4 imgs)
-  quarantined quot-a-digital-bang-in-the-universe-quot-jed-anderson-enviroai (2022-02-23) reason=short:body_only_37_words
-  published quot-automating-the-automation-quot-of-environmental-professional-work-enviroai (2022-02-07, 92 words, 12/12 imgs)
-  quarantined (dedup) quot-automating-the-automation-quot-of-environmental-professional-work-enviroai-2 matches quot-automating-the-automation-quot-of-environmental-professional-work-enviroai
-  published quot-lots-of-people-write-letters-to-god-im-pretty-sure-this-is-the-1st-pitch-de (2022-03-03, 86 words, 4/4 imgs)
-  quarantined announcement-day-march-7th (2022-02-28) reason=short:body_only_48_words
-  published best-part-about-working-in-the-enviroverse (2022-01-22, 100 words, 26/26 imgs)
-  quarantined big-news-in-the-works-for-enviroai (2022-01-12) reason=short:body_only_11_words
-  published campfires-and-imagination (2022-02-22, 11315 words, 94/94 imgs)
-  published can-a-computer-begin-to-take-apart-and-understand-an-environmental-permit (2022-01-17, 50 words, 11/11 imgs)
-  published can-i-protect-you-and-nature (2022-01-08, 10142 words, 40/40 imgs)
+  published cbs-60-minutes (2020-04-29, 203 words, 11/11 imgs)
+  published chevron-technology-ventures-evaluating-enviroai (2020-06-08, 211 words, 8/8 imgs)
+  published emissions-points (2020-05-11, 135 words, 9/9 imgs)
+  published enviro-audit (2020-05-27, 257 words, 13/13 imgs)
+  published environmental-heroes (2020-04-06, 69 words, 3/3 imgs)
+  published environmental-superpowers (2020-05-22, 271 words, 8/8 imgs)
+  published exemptions (2020-04-07, 201 words, 11/11 imgs)
+  published facility-rankings (2020-05-08, 135 words, 8/8 imgs)
+  published grasping-the-gravity-of-what-im-about-to-show-you (2020-04-13, 323 words, 8/8 imgs)
+  published helping-ehs-staff-during-crisis (2020-04-10, 166 words, 7/7 imgs)
+  published houston-chronicle-article-virtual-reality-tour-lets-you-peek-inside-a-refinery (2020-04-19, 400 words, 14/14 imgs)
+  published industrial-burner-replacement-program (2020-06-01, 111 words, 4/4 imgs)
+  published its-just-math (2020-04-15, 268 words, 8/8 imgs)
+  published latest-customer-testimonials-reactions (2020-04-22, 176 words, 10/10 imgs)
+  published latest-news (2020-05-04, 1219 words, 30/30 imgs)
+  published microsofts-planetary-computer (2020-05-19, 263 words, 8/8 imgs)
+  published permit-ai (2020-05-23, 329 words, 11/11 imgs)
+  published pipelines-oil-wells (2020-05-02, 180 words, 11/11 imgs)
+  published plug-and-play (2020-05-16, 258 words, 9/9 imgs)
+  published popular-meme-who-led-the-digital-transformation-of-your-company (2020-04-11, 183 words, 8/8 imgs)
+  published prospectus (2020-05-12, 69 words, 4/4 imgs)
+  published quantum-ai-earth-environmental-protection-system-2 (2020-05-17, 174 words, 4/4 imgs)
+  published quantum-should-it-be (2020-06-06, 467 words, 13/13 imgs)
+  published ready-go (2020-06-10, 132 words, 9/9 imgs)
+  published releasing-schrodingers-cat-into-the-environment (2020-05-20, 725 words, 12/12 imgs)
+  published remote-environmental-management (2020-04-16, 245 words, 10/10 imgs)
+  published seeing-emissions (2020-06-03, 509 words, 19/19 imgs)
+  published simple-air (2020-04-28, 201 words, 14/14 imgs)
+  published technology-magic (2020-05-09, 105 words, 8/8 imgs)
+  published the-hill-article-covid-19-will-accelerate-ais-replacement-of-humans-as-factor-of (2020-04-14, 1417 words, 12/12 imgs)
+  published the-lorax-and-ai (2020-04-21, 281 words, 11/11 imgs)
+  published the-power-of-data-visualization (2020-05-15, 299 words, 9/9 imgs)
+  published this-will-thrill-you (2020-04-08, 77 words, 4/4 imgs)
+  published very-exciting (2020-03-27, 106 words, 8/8 imgs)
+  published virtual-environmental-management (2020-04-09, 161 words, 7/7 imgs)
+  published were-inside-the-fence (2020-05-14, 233 words, 9/9 imgs)
+  published whats-in-the-box (2020-04-30, 264 words, 10/10 imgs)
+  published whats-your-facilitys-emissions-credit-value (2020-03-31, 262 words, 17/17 imgs)
+  published white-house-call-out-to-artificial-intelligence-companies (2020-03-25, 755 words, 14/14 imgs)
+  published rank (2020-02-29, 97 words, 8/8 imgs)
+  published 1-cause-of-emission-events (2020-02-26, 138 words, 9/9 imgs)
+  published a-sneak-peek-at-air-ai (2020-02-18, 135 words, 7/7 imgs)
+  published augment-your-intelligence (2020-02-16, 214 words, 10/10 imgs)
+  published automating-the-permitting-process (2020-03-16, 186 words, 6/6 imgs)
+  published can-we-give-your-brain-more-data (2020-02-06, 168 words, 7/7 imgs)
+  published company-found-1-million (2020-03-21, 260 words, 8/8 imgs)
+  published corona-virus-vs-ai-quantum-tech (2020-03-07, 334 words, 11/11 imgs)
+  published ehs-professionals-quote-on-ai (2020-02-07, 245 words, 6/6 imgs)
+  published environmental-forum-support-group (2020-03-23, 209 words, 3/3 imgs)
+  published environmental-reporters-gain-access-to-ceres-ai (2020-03-10, 96 words, 5/5 imgs)
+  published flood-hurricane-and-covid-19 (2020-03-17, 346 words, 13/13 imgs)
+  published get-paid-to-reduce-pollution (2020-02-12, 488 words, 7/7 imgs)
+  published i-win (2020-03-09, 247 words, 9/9 imgs)
+  published if-you-had-appointed-me-tceq-chairman (2020-03-21, 444 words, 8/8 imgs)
+  published itc-kmco-tpc (2020-03-09, 136 words, 11/11 imgs)
+  published keeping-your-work-alive (2020-02-28, 376 words, 9/9 imgs)
+  published latest-news-2 (2020-03-02, 1111 words, 36/36 imgs)
+  published legacy-in-an-algorithm (2020-02-23, 293 words, 7/7 imgs)
+  published money-from-pollution (2020-03-06, 163 words, 5/5 imgs)
+  published no-fear (2020-03-11, 172 words, 7/7 imgs)
+  published reducing-emissions-with-artificial-intelligence (2020-02-21, 177 words, 14/14 imgs)
+  published regulatory-relief (2020-03-19, 248 words, 8/8 imgs)
+  published screenshare-free-sign-up (2020-03-17, 233 words, 8/8 imgs)
+  published the-generator-reduce-pollution (2020-03-03, 128 words, 8/8 imgs)
+  published top-10-company-environmental-departments-in-texas (2020-02-20, 207 words, 11/11 imgs)
+  published tpc-cutting-100-jobs (2020-02-27, 163 words, 7/7 imgs)
+  published turbulent-times-creating-opportunity (2020-03-15, 205 words, 7/7 imgs)
+  published were-online-right-now (2020-03-18, 169 words, 7/7 imgs)
+  published what-hurt-nature-will-now-save-it (2020-03-05, 390 words, 10/10 imgs)
+  published wsj-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-training (2020-02-14, 273 words, 10/10 imgs)
+  published wsj-trump-wants-to-double-spending-on-ai-quantum-computing (2020-02-11, 375 words, 13/13 imgs)
+  published our-youth-are-getting-so-far-ahead-of-us-its-awesome (2022-01-31, 14043 words, 124/124 imgs)
+  published staring-at-the-elecromagnetism-chart (2022-02-20, 4648 words, 99/99 imgs)
+  published 1-click (2022-01-05, 204 words, 14/14 imgs)
+  published 1-species (2022-02-24, 97 words, 2/2 imgs)
+  published 2-year-olds-and-ai-training-do-good-in-the-world-when-you-grow-up (2022-02-10, 261 words, 4/4 imgs)
+  published 3-greatest-motivational-speeches (2022-02-25, 379 words, 10/10 imgs)
+  published 3d-3d-3d (2022-01-05, 91 words, 10/10 imgs)
+  published 60-people-60-days (2022-01-15, 102 words, 4/4 imgs)
+  published a-digital-bang-in-the-universe-jed-anderson-enviroai (2022-02-23, 65 words, 2/2 imgs)
+  published automating-the-automation-of-environmental-professional-work-enviroai (2022-02-07, 245 words, 12/12 imgs)
+  quarantined (dedup) automating-the-automation-of-environmental-professional-work-enviroai-2 matches automating-the-automation-of-environmental-professional-work-enviroai
+  published lots-of-people-write-letters-to-god-im-pretty-sure-this-is-the-1st-pitch-deck-go (2022-03-03, 165 words, 4/4 imgs)
+  published announcement-day-march-7th (2022-02-28, 122 words, 8/8 imgs)
+  published best-part-about-working-in-the-enviroverse (2022-01-22, 433 words, 26/26 imgs)
+  published big-news-in-the-works-for-enviroai (2022-01-12, 35 words, 2/2 imgs)
+  published campfires-and-imagination (2022-02-22, 12199 words, 94/94 imgs)
+  published can-a-computer-begin-to-take-apart-and-understand-an-environmental-permit (2022-01-17, 231 words, 11/11 imgs)
+  published can-i-protect-you-and-nature (2022-01-08, 10654 words, 40/40 imgs)
   quarantined (dedup) can-i-protect-you-and-nature-2 matches can-i-protect-you-and-nature
-  published danger (2022-02-11, 3512 words, 82/82 imgs)
-  published download (2022-01-21, 98 words, 25/25 imgs)
-  published ebitda-cap-table (2022-02-21, 213 words, 4/4 imgs)
-  quarantined emissions-and-equipment-details (2022-03-02) reason=short:body_only_22_words
+  published danger (2022-02-11, 4114 words, 82/82 imgs)
+  published download (2022-01-21, 272 words, 25/25 imgs)
+  published ebitda-cap-table (2022-02-21, 248 words, 4/4 imgs)
+  published emissions-and-equipment-details (2022-03-02, 97 words, 8/8 imgs)
   quarantined (dedup) emissions-and-equipment-details-2 matches emissions-and-equipment-details
-  published enviroai-corporate-headquarters-to-open-in-houstons-new-innovation-district (2022-01-28, 322 words, 14/14 imgs)
-  published environmental-professional-how-will-work-change-for-you-in-the-metaverse (2022-01-10, 129 words, 25/25 imgs)
-  published for-30-years-quot-i-was-wrong-quot-jed-anderson (2022-01-06, 674 words, 29/29 imgs)
-  published forgiveness (2022-02-27, 428 words, 7/7 imgs)
-  published god-pitch-deck (2022-03-03, 92 words, 4/4 imgs)
-  quarantined how-would-you-like-others-to-see-you (2022-02-26) reason=short:body_only_25_words
-  published i-love-open-space-more-room-to-roam (2022-02-13, 12328 words, 130/130 imgs)
-  published jed-what-happens-to-environmental-laws (2022-03-04, 76 words, 4/4 imgs)
-  published jed-singing-to-betty-white-30-years-ago (2022-01-13, 3748 words, 75/75 imgs)
-  quarantined just-released (2022-02-21) reason=short:body_only_40_words
-  quarantined louisiana-facilities (2022-02-24) reason=short:body_only_24_words
-  published metaverse-for-cows (2022-01-19, 118 words, 29/29 imgs)
-  quarantined mission-build-a-quot-machine-quot-that-protects-nature (2022-01-15) reason=short:body_only_9_words
-  published nasa-news-quot-webb-space-telescope-reaches-destination-1-million-miles-from-ear (2022-01-25, 4869 words, 102/102 imgs)
-  published new-olympic-event (2022-03-01, 118 words, 4/4 imgs)
-  quarantined new-webpage-quot-the-environmental-metaverse-quot (2022-02-22) reason=short:body_only_18_words
-  quarantined ready-to-think-i-mean-really-think (2022-01-25) reason=short:body_only_37_words
-  published saturday-mornings-with-mike (2022-02-12, 72 words, 7/7 imgs)
-  published skill-set-i-work-on-the-most (2022-01-16, 10136 words, 39/39 imgs)
-  published the-quot-environmental-metaverse-quot (2022-02-23, 76 words, 2/2 imgs)
-  quarantined (dedup) the-quot-environmental-metaverse-quot-2 matches the-quot-environmental-metaverse-quot
-  quarantined (dedup) the-quot-environmental-metaverse-quot-3 matches the-quot-environmental-metaverse-quot
-  quarantined (dedup) the-quot-environmental-metaverse-quot-4 matches the-quot-environmental-metaverse-quot
-  quarantined the-environmental-metaverse (2022-01-19) reason=short:body_only_40_words
-  published what-did-you-want-to-be-growing-up (2022-01-27, 468 words, 4/4 imgs)
-  published why-am-i-in-a-hurry (2022-01-11, 101 words, 16/16 imgs)
-  quarantined quot-every-thing-around-you-is-because-of-intelligence-quot (2021-11-18) reason=short:body_only_27_words
-  quarantined its-natures-metaverse (2021-12-13) reason=short:body_only_27_words
-  published 1-of-the-10-000-of-you-wrote (2021-11-18, 61 words, 10/10 imgs)
-  quarantined quot-i-like-my-chances-quot (2021-11-10) reason=short:body_only_39_words
-  published quot-ill-be-firing-myself-as-ceo-quot-jed-anderson (2021-11-05, 133 words, 19/19 imgs)
-  published quot-our-customers-have-a-huge-intelligence-advantage-quot (2021-11-10, 154 words, 17/17 imgs)
-  published quot-time-travel-quot (2021-11-02, 85 words, 19/19 imgs)
-  published quot-were-buying-our-customers-vr-headsets-quot (2021-12-20, 157 words, 34/34 imgs)
-  published a-thought-experiment-for-you (2021-11-26, 10316 words, 35/35 imgs)
-  published abraham-lincoln-or-jed-anderson (2021-12-15, 159 words, 24/24 imgs)
-  published am-i-good-parent (2021-11-13, 535 words, 21/21 imgs)
-  published avoiding-wealth-heres-my-plan (2021-11-04, 262 words, 9/9 imgs)
-  published california (2021-11-08, 102 words, 13/13 imgs)
-  published carl-sagan-2d-3d-10d (2021-10-31, 1387 words, 17/17 imgs)
-  published ceo-jed-anderson-discusses-quot-seeing-in-quot-other-universes-and-dimensions-qu (2021-11-01, 179 words, 6/6 imgs)
-  published copy-of-every-facility-in-the-environmental-metaverse (2021-11-24, 98 words, 20/20 imgs)
-  published environmental-tours (2021-11-20, 109 words, 18/18 imgs)
-  published exploration-discovery-wonder (2021-12-10, 12085 words, 70/70 imgs)
-  published florida-amp-new-jersey (2021-11-02, 68 words, 11/11 imgs)
-  published florida-amp-new-jersey-2 (2021-11-03, 67 words, 11/11 imgs)
-  published google-announces-quot-pathways-quot-general-ai-architecture (2021-11-09, 170 words, 17/17 imgs)
-  quarantined heres-our-business-plan-to-2040 (2021-12-02) reason=short:body_only_42_words
-  published hip-hip-hooray-launch-of-humanitys-christmas-gift (2021-12-25, 661 words, 25/25 imgs)
-  published how-many-people-plants-and-animals (2021-12-06, 57 words, 7/7 imgs)
-  quarantined huge-environmental-competitive-advantage (2021-11-30) reason=short:body_only_35_words
-  published i-got-my-nasa-certification-as-a-quot-planetary-defender-quot (2021-11-09, 908 words, 46/46 imgs)
-  published in-the-news (2021-11-19, 11047 words, 70/70 imgs)
-  published increasing-your-iq (2021-11-12, 182 words, 10/10 imgs)
-  quarantined louisiana-2 (2021-12-29) reason=short:body_only_37_words
-  published metaverse-will-nature-get-left-behind-and-left-out (2021-11-15, 10506 words, 58/58 imgs)
-  published metaverse-1trillion-enviroverse (2021-12-30, 129 words, 27/27 imgs)
-  published millions-amp-millions-amp-millions-of-documents (2021-12-27, 126 words, 14/14 imgs)
-  published moving-my-coffee-cup (2021-12-18, 12256 words, 80/80 imgs)
-  published musk-amp-metaverse-quot-simulation-of-a-simulation-quot (2021-12-23, 260 words, 12/12 imgs)
-  quarantined my-favorite-future-trendline (2021-11-22) reason=short:body_only_12_words
-  published my-gift-to-you-this-christmas (2021-12-24, 176 words, 4/4 imgs)
-  published my-top-5-books-about-the-quot-future-quot (2021-11-15, 209 words, 15/15 imgs)
-  published odds-0 (2021-11-06, 872 words, 44/44 imgs)
-  quarantined our-simple-business-plan (2021-11-23) reason=short:body_only_17_words
-  quarantined predicting-the-future-the-metaverse-environmental-modelling-in-the-metaverse (2021-11-03) reason=short:body_only_42_words
-  published saying-quot-please-quot-and-quot-thank-you-quot-to-alexa-and-siri (2021-11-12, 193 words, 12/12 imgs)
-  quarantined teaching-ai-quot-for-goodness-quot (2021-11-29) reason=short:body_only_41_words
-  published teaching-ai (2021-11-14, 103 words, 8/8 imgs)
-  published thankful-for (2021-11-25, 540 words, 4/4 imgs)
-  published the-enviroverse (2021-12-22, 85 words, 29/29 imgs)
-  published the-enviroverse-2 (2021-12-28, 85 words, 27/27 imgs)
-  published virtual-to-real-to-virtual-to-real (2021-11-03, 53 words, 10/10 imgs)
-  quarantined vr-and-the-environmental-metaverse (2021-11-04) reason=short:body_only_39_words
-  published whats-the-return-on-investment (2021-12-22, 204 words, 35/35 imgs)
-  published whos-the-smartest (2021-11-05, 83 words, 7/7 imgs)
-  quarantined 1sts (2021-09-21) reason=short:body_only_45_words
-  published 20-more-state-data (2021-10-13, 169 words, 7/7 imgs)
-  published 4-speaking-events-in-october (2021-10-06, 118 words, 29/29 imgs)
-  published quot-all-emission-inventories-should-be-real-time-quot (2021-09-27, 131 words, 11/11 imgs)
-  quarantined quot-debottlenecking-quot-human-intellgience (2021-09-29) reason=short:body_only_14_words
-  quarantined quot-environmental-imagination-quot (2021-09-28) reason=short:body_only_13_words
-  published quot-hero-to-zero-quot-esg-value-of-a-company-can-plummet-in-less-than-1-hour (2021-10-02, 59 words, 30/30 imgs)
-  published quot-i-refuse-to-become-wealthy-quot (2021-10-25, 120 words, 6/6 imgs)
-  published quot-im-running-out-of-time-quot (2021-10-23, 95 words, 11/11 imgs)
-  quarantined quot-regs-in-the-recycle-bin-quot (2021-09-30) reason=short:body_only_47_words
-  published quot-space-time-quot-and-environmental-protection (2021-10-12, 8677 words, 10/10 imgs)
-  published quot-the-list-quot (2021-10-02, 119 words, 29/29 imgs)
-  published audits-inspections-due-dilligence-in-the-quot-enviroverse-quot (2021-10-25, 78 words, 9/9 imgs)
-  published automated-environmental-professional-work (2021-09-26, 131 words, 8/8 imgs)
-  published can-i-teach-quantum-physics-quantum-computing-and-artificial-intelligence-in-les (2021-10-10, 210 words, 26/26 imgs)
-  published churchill-amp-the-quot-environmental-metaverse-quot (2021-10-28, 137 words, 35/35 imgs)
-  published current-products-future-products (2021-10-07, 181 words, 42/42 imgs)
-  published current-products-future-products-2 (2021-10-14, 149 words, 42/42 imgs)
-  published david-deutsch-quot-the-father-of-quantum-computing-quot (2021-09-25, 211 words, 17/17 imgs)
-  published dinosaurs-spaceships-nature-pollution-humanity (2021-10-11, 694 words, 32/32 imgs)
-  published example-yesterdays-marathon-tank-spill-real-time-esg-tracking (2021-10-07, 109 words, 25/25 imgs)
-  published excitement-for-humanity (2021-09-15, 51 words, 7/7 imgs)
-  published facebook-changing-name (2021-10-24, 191 words, 14/14 imgs)
-  published facebooks-new-name-is (2021-10-28, 101 words, 28/28 imgs)
-  published forms-freedom-forms-freedom-forms-freedom-forms-freedom-forms-freedom-forms-free (2021-09-22, 279 words, 18/18 imgs)
-  published haiti-and-enviroai (2021-10-05, 266 words, 60/60 imgs)
-  quarantined im-also-speaking (2021-09-16) reason=short:body_only_38_words
-  published loud-reaction-to-quot-autoconsultant-quot (2021-09-17, 203 words, 18/18 imgs)
-  published nasas-mission-to-crash-a-spacecraft-into-a-meteor-launches-in-november (2021-10-09, 480 words, 24/24 imgs)
-  published ohio (2021-10-11, 54 words, 6/6 imgs)
+  published enviroai-corporate-headquarters-to-open-in-houstons-new-innovation-district (2022-01-28, 545 words, 14/14 imgs)
+  published environmental-professional-how-will-work-change-for-you-in-the-metaverse (2022-01-10, 525 words, 25/25 imgs)
+  published for-30-years-i-was-wrong-jed-anderson (2022-01-06, 1052 words, 29/29 imgs)
+  published forgiveness (2022-02-27, 464 words, 7/7 imgs)
+  published god-pitch-deck (2022-03-03, 130 words, 4/4 imgs)
+  published how-would-you-like-others-to-see-you (2022-02-26, 102 words, 6/6 imgs)
+  published i-love-open-space-more-room-to-roam (2022-02-13, 14132 words, 130/130 imgs)
+  published jed-what-happens-to-environmental-laws (2022-03-04, 125 words, 4/4 imgs)
+  published jed-singing-to-betty-white-30-years-ago (2022-01-13, 4819 words, 75/75 imgs)
+  published just-released (2022-02-21, 60 words, 2/2 imgs)
+  published louisiana-facilities (2022-02-24, 95 words, 8/8 imgs)
+  published metaverse-for-cows (2022-01-19, 368 words, 29/29 imgs)
+  published mission-build-a-machine-that-protects-nature (2022-01-15, 68 words, 5/5 imgs)
+  published nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh (2022-01-25, 6830 words, 102/102 imgs)
+  published new-olympic-event (2022-03-01, 142 words, 4/4 imgs)
+  published new-webpage-the-environmental-metaverse (2022-02-22, 40 words, 2/2 imgs)
+  published ready-to-think-i-mean-really-think (2022-01-25, 85 words, 5/5 imgs)
+  published saturday-mornings-with-mike (2022-02-12, 139 words, 7/7 imgs)
+  published skill-set-i-work-on-the-most (2022-01-16, 10669 words, 39/39 imgs)
+  published the-environmental-metaverse (2022-02-23, 96 words, 2/2 imgs)
+  quarantined (dedup) the-environmental-metaverse-2 matches the-environmental-metaverse
+  quarantined (dedup) the-environmental-metaverse-3 matches the-environmental-metaverse
+  quarantined (dedup) the-environmental-metaverse-4 matches the-environmental-metaverse
+  published the-environmental-metaverse-5 (2022-01-19, 253 words, 23/23 imgs)
+  published what-did-you-want-to-be-growing-up (2022-01-27, 507 words, 4/4 imgs)
+  published why-am-i-in-a-hurry (2022-01-11, 266 words, 16/16 imgs)
+  published every-thing-around-you-is-because-of-intelligence (2021-11-18, 131 words, 9/9 imgs)
+  published its-natures-metaverse (2021-12-13, 59 words, 5/5 imgs)
+  published 1-of-the-10-000-of-you-wrote (2021-11-18, 178 words, 10/10 imgs)
+  published i-like-my-chances (2021-11-10, 86 words, 5/5 imgs)
+  published ill-be-firing-myself-as-ceo-jed-anderson (2021-11-05, 379 words, 19/19 imgs)
+  published our-customers-have-a-huge-intelligence-advantage (2021-11-10, 370 words, 17/17 imgs)
+  published time-travel (2021-11-02, 226 words, 19/19 imgs)
+  published were-buying-our-customers-vr-headsets (2021-12-20, 535 words, 34/34 imgs)
+  published a-thought-experiment-for-you (2021-11-26, 10684 words, 35/35 imgs)
+  published abraham-lincoln-or-jed-anderson (2021-12-15, 401 words, 24/24 imgs)
+  published am-i-good-parent (2021-11-13, 739 words, 21/21 imgs)
+  published avoiding-wealth-heres-my-plan (2021-11-04, 342 words, 9/9 imgs)
+  published california (2021-11-08, 195 words, 13/13 imgs)
+  published carl-sagan-2d-3d-10d (2021-10-31, 1568 words, 17/17 imgs)
+  published ceo-jed-anderson-discusses-seeing-in-other-universes-and-dimensions-quantum-comp (2021-11-01, 275 words, 6/6 imgs)
+  published copy-of-every-facility-in-the-environmental-metaverse (2021-11-24, 357 words, 20/20 imgs)
+  published environmental-tours (2021-11-20, 239 words, 18/18 imgs)
+  published exploration-discovery-wonder (2021-12-10, 12703 words, 70/70 imgs)
+  published florida-new-jersey (2021-11-02, 160 words, 11/11 imgs)
+  published florida-new-jersey-2 (2021-11-03, 171 words, 11/11 imgs)
+  published google-announces-pathways-general-ai-architecture (2021-11-09, 396 words, 17/17 imgs)
+  published heres-our-business-plan-to-2040 (2021-12-02, 99 words, 5/5 imgs)
+  published hip-hip-hooray-launch-of-humanitys-christmas-gift (2021-12-25, 1000 words, 25/25 imgs)
+  published how-many-people-plants-and-animals (2021-12-06, 136 words, 7/7 imgs)
+  published huge-environmental-competitive-advantage (2021-11-30, 96 words, 6/6 imgs)
+  published i-got-my-nasa-certification-as-a-planetary-defender (2021-11-09, 1615 words, 46/46 imgs)
+  published in-the-news (2021-11-19, 11683 words, 70/70 imgs)
+  published increasing-your-iq (2021-11-12, 266 words, 10/10 imgs)
+  published louisiana-2 (2021-12-29, 141 words, 14/14 imgs)
+  published metaverse-will-nature-get-left-behind-and-left-out (2021-11-15, 11342 words, 58/58 imgs)
+  published metaverse-1trillion-enviroverse (2021-12-30, 353 words, 27/27 imgs)
+  published millions-millions-millions-of-documents (2021-12-27, 256 words, 14/14 imgs)
+  published moving-my-coffee-cup (2021-12-18, 13129 words, 80/80 imgs)
+  published musk-metaverse-simulation-of-a-simulation (2021-12-23, 406 words, 12/12 imgs)
+  published my-favorite-future-trendline (2021-11-22, 104 words, 10/10 imgs)
+  published my-gift-to-you-this-christmas (2021-12-24, 209 words, 4/4 imgs)
+  published my-top-5-books-about-the-future (2021-11-15, 391 words, 15/15 imgs)
+  published odds-0 (2021-11-06, 1223 words, 44/44 imgs)
+  published our-simple-business-plan (2021-11-23, 66 words, 5/5 imgs)
+  published predicting-the-future-the-metaverse-environmental-modelling-in-the-metaverse (2021-11-03, 338 words, 20/20 imgs)
+  published saying-please-and-thank-you-to-alexa-and-siri (2021-11-12, 377 words, 12/12 imgs)
+  published teaching-ai-for-goodness (2021-11-29, 123 words, 9/9 imgs)
+  published teaching-ai (2021-11-14, 163 words, 8/8 imgs)
+  published thankful-for (2021-11-25, 561 words, 4/4 imgs)
+  published the-enviroverse (2021-12-22, 293 words, 29/29 imgs)
+  published the-enviroverse-2 (2021-12-28, 305 words, 27/27 imgs)
+  published virtual-to-real-to-virtual-to-real (2021-11-03, 195 words, 10/10 imgs)
+  published vr-and-the-environmental-metaverse (2021-11-04, 146 words, 9/9 imgs)
+  published whats-the-return-on-investment (2021-12-22, 574 words, 35/35 imgs)
+  published whos-the-smartest (2021-11-05, 143 words, 7/7 imgs)
+  published 1sts (2021-09-21, 117 words, 9/9 imgs)
+  published 20-more-state-data (2021-10-13, 235 words, 7/7 imgs)
+  published 4-speaking-events-in-october (2021-10-06, 437 words, 29/29 imgs)
+  published all-emission-inventories-should-be-real-time (2021-09-27, 281 words, 11/11 imgs)
+  quarantined debottlenecking-human-intellgience (2021-09-29) reason=short:body_only_14_words
+  quarantined environmental-imagination-2 (2021-09-28) reason=short:body_only_13_words
+  published hero-to-zero-esg-value-of-a-company-can-plummet-in-less-than-1-hour (2021-10-02, 681 words, 30/30 imgs)
+  published i-refuse-to-become-wealthy (2021-10-25, 170 words, 6/6 imgs)
+  published im-running-out-of-time (2021-10-23, 195 words, 11/11 imgs)
+  published regs-in-the-recycle-bin (2021-09-30, 179 words, 13/13 imgs)
+  published space-time-and-environmental-protection (2021-10-12, 8767 words, 10/10 imgs)
+  published the-list (2021-10-02, 486 words, 29/29 imgs)
+  published audits-inspections-due-dilligence-in-the-enviroverse (2021-10-25, 174 words, 9/9 imgs)
+  published automated-environmental-professional-work (2021-09-26, 205 words, 8/8 imgs)
+  published can-i-teach-quantum-physics-quantum-computing-and-artificial-intelligence-in-les (2021-10-10, 635 words, 26/26 imgs)
+  published churchill-the-environmental-metaverse (2021-10-28, 470 words, 35/35 imgs)
+  published current-products-future-products (2021-10-07, 761 words, 42/42 imgs)
+  published current-products-future-products-2 (2021-10-14, 738 words, 42/42 imgs)
+  published david-deutsch-the-father-of-quantum-computing (2021-09-25, 439 words, 17/17 imgs)
+  published dinosaurs-spaceships-nature-pollution-humanity (2021-10-11, 1017 words, 32/32 imgs)
+  published example-yesterdays-marathon-tank-spill-real-time-esg-tracking (2021-10-07, 517 words, 25/25 imgs)
+  published excitement-for-humanity (2021-09-15, 109 words, 7/7 imgs)
+  published facebook-changing-name (2021-10-24, 337 words, 14/14 imgs)
+  published facebooks-new-name-is (2021-10-28, 355 words, 28/28 imgs)
+  published forms-freedom-forms-freedom-forms-freedom-forms-freedom-forms-freedom-forms-free (2021-09-22, 568 words, 18/18 imgs)
+  published haiti-and-enviroai (2021-10-05, 897 words, 60/60 imgs)
+  published im-also-speaking (2021-09-16, 82 words, 5/5 imgs)
+  published loud-reaction-to-autoconsultant (2021-09-17, 369 words, 18/18 imgs)
+  published nasas-mission-to-crash-a-spacecraft-into-a-meteor-launches-in-november (2021-10-09, 900 words, 24/24 imgs)
+  published ohio (2021-10-11, 96 words, 6/6 imgs)
   quarantined (dedup) ohio-2 matches ohio
-  published pfas (2021-10-12, 55 words, 10/10 imgs)
-  published premier-of (2021-10-18, 152 words, 10/10 imgs)
-  published presidents-comments-yesterday-to-united-nations-on-artificial-intelligence-quant (2021-09-22, 147 words, 12/12 imgs)
-  published quantum-ai-environmental-protection-system (2021-10-03, 55 words, 16/16 imgs)
-  published reminder-todays-hba-event (2021-10-20, 74 words, 8/8 imgs)
-  published short-dance (2021-09-18, 198 words, 4/4 imgs)
-  published skunkworks (2021-10-03, 299 words, 36/36 imgs)
-  published space-emissions (2021-09-30, 112 words, 18/18 imgs)
-  published speeches (2021-10-08, 174 words, 26/26 imgs)
-  published tired-of-forms (2021-09-16, 145 words, 18/18 imgs)
-  published todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro (2021-10-21, 186 words, 6/6 imgs)
-  published virtual-merchandise (2021-10-30, 91 words, 18/18 imgs)
-  published want-a-smile-this-morning (2021-10-15, 96 words, 10/10 imgs)
-  published want-to-be-the-smartest-environmental-problem-solver-in-the-world (2021-10-19, 265 words, 5/5 imgs)
-  published what-is-the-quot-enviroverse-quot (2021-10-27, 284 words, 24/24 imgs)
-  published whats-quot-water-quot (2021-09-19, 696 words, 34/34 imgs)
-  published whats-the-metaverse (2021-10-04, 153 words, 24/24 imgs)
-  published why-not-faster-development (2021-10-07, 405 words, 65/65 imgs)
-  published work-for-fun (2021-10-01, 271 words, 13/13 imgs)
-  quarantined an-emphatic-quot-yes-quot (2021-09-01) reason=short:body_only_43_words
-  published another-60-000-from-my-retirement-account (2021-08-18, 202 words, 12/12 imgs)
-  quarantined 31-million-people-moving-this-year (2021-08-10) reason=short:body_only_46_words
-  published quot-ai-chipmakers-quot (2021-09-06, 164 words, 11/11 imgs)
-  published quot-delight-people-at-work-quot-pedro-bados (2021-08-11, 174 words, 10/10 imgs)
-  image-url-failed https://files.constantcontact.com/f2ebb2ce701/08926cfe-8aee-4f4e-b3f8-6239c19268
-  published quot-distance-limits-quot (2021-09-09, 145 words, 12/13 imgs)
-  image-url-failed https://files.constantcontact.com/f2ebb2ce701/854ca855-5e67-4697-abb8-3e635fdf95
-  published quot-field-of-dreams-quot-whitesox-vs-yankees (2021-08-15, 455 words, 18/19 imgs)
-  published quot-power-language-quot-and-quot-power-players-quot (2021-08-13, 73 words, 8/8 imgs)
-  published quot-sentiment-analyzer-quot-by-enviroai (2021-08-05, 114 words, 11/11 imgs)
-  published quot-sheeple-quot (2021-09-05, 74 words, 9/9 imgs)
-  published quot-unified-theory-quot-and-environmental-protection (2021-09-07, 372 words, 11/11 imgs)
-  published announcement-quot-environmental-game-quot (2021-08-18, 115 words, 13/13 imgs)
-  quarantined announcement-quot-1st-environmental-quantum-ai-company-in-the-world-quot (2021-08-27) reason=short:body_only_21_words
-  published ask-who-a-consultant-agency-attorney (2021-09-02, 375 words, 9/9 imgs)
-  published bunch-of-einsteins (2021-08-25, 61 words, 12/12 imgs)
-  published creative-professional (2021-09-03, 408 words, 9/9 imgs)
-  published digital-twin-and-machine-to-protect-earth (2021-08-19, 52 words, 14/14 imgs)
-  published double-7-500 (2021-09-09, 65 words, 4/4 imgs)
-  published elon-musk-the-english-language-environmental-protection (2021-09-14, 475 words, 24/24 imgs)
-  published environmental-gaming (2021-08-19, 187 words, 7/7 imgs)
-  published environmental-justice-2 (2021-08-30, 57 words, 13/13 imgs)
-  published epas-response (2021-09-07, 318 words, 15/15 imgs)
-  published google-ceo-quot-ai-is-more-profound-than-the-internet-fire-or-electricity-quot (2021-09-09, 230 words, 17/17 imgs)
-  published home-owner-ever-move (2021-08-07, 159 words, 7/7 imgs)
-  published houston-lagging-even-lincoln-nebraska-in-artificial-intelligence (2021-09-08, 90 words, 9/9 imgs)
-  published how-are-people-feeling-about-you-and-your-company (2021-08-09, 53 words, 10/10 imgs)
-  published im-speaking (2021-09-13, 91 words, 4/4 imgs)
-  quarantined knowledge-312-640-people (2021-08-29) reason=short:body_only_43_words
-  published mr-anderson (2021-09-04, 136 words, 9/9 imgs)
-  published neuralink-musk-gets-205-million (2021-08-04, 453 words, 13/13 imgs)
-  quarantined new-video-quot-our-mission-quot (2021-08-16) reason=short:body_only_31_words
-  quarantined new-website-yes (2021-08-06) reason=short:body_only_25_words
-  published people-planet-and-profits (2021-08-26, 202 words, 8/8 imgs)
-  published protecting-your-children (2021-08-10, 145 words, 12/12 imgs)
-  published question-what-else-can-we-build-to-help-protect-you (2021-08-22, 95 words, 17/17 imgs)
-  quarantined question (2021-09-03) reason=short:body_only_17_words
-  published rock-smart (2021-09-12, 2518 words, 27/27 imgs)
-  published secret (2021-08-28, 527 words, 15/15 imgs)
-  published study-this-closely (2021-08-30, 352 words, 17/17 imgs)
-  published study-this-closely-2 (2021-08-31, 346 words, 17/17 imgs)
-  published tceq-and-ldeq-files-quot-sentiment-analysis-quot (2021-08-20, 175 words, 15/15 imgs)
-  published teach-good-to-do-good (2021-08-23, 331 words, 15/15 imgs)
-  published the-humble (2021-08-30, 113 words, 5/5 imgs)
-  published trackbot (2021-08-23, 57 words, 4/4 imgs)
-  published unaugmented (2021-09-10, 242 words, 12/12 imgs)
-  published what-are-people-saying-about-you (2021-08-25, 128 words, 15/15 imgs)
-  published whats-enviroais-role-in-quantum-development (2021-08-27, 77 words, 9/9 imgs)
-  published where-should-i-move (2021-08-09, 50 words, 8/8 imgs)
-  published wow-fast-attention-already-quot-tracking-environmental-sentiment-quot (2021-08-05, 183 words, 15/15 imgs)
-  published your-children (2021-09-10, 235 words, 13/13 imgs)
-=== done in 893.6s ===
-published=544 quarantined=532 skipped-already-exists=0 failed=0 non-cc-eml-files=0
+  published pfas (2021-10-12, 122 words, 10/10 imgs)
+  published premier-of (2021-10-18, 229 words, 10/10 imgs)
+  published presidents-comments-yesterday-to-united-nations-on-artificial-intelligence-quant (2021-09-22, 351 words, 12/12 imgs)
+  published quantum-ai-environmental-protection-system (2021-10-03, 233 words, 16/16 imgs)
+  published reminder-todays-hba-event (2021-10-20, 148 words, 8/8 imgs)
+  published short-dance (2021-09-18, 231 words, 4/4 imgs)
+  published skunkworks (2021-10-03, 663 words, 36/36 imgs)
+  published space-emissions (2021-09-30, 265 words, 18/18 imgs)
+  published speeches (2021-10-08, 324 words, 26/26 imgs)
+  published tired-of-forms (2021-09-16, 293 words, 18/18 imgs)
+  published todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro (2021-10-21, 271 words, 6/6 imgs)
+  published virtual-merchandise (2021-10-30, 222 words, 18/18 imgs)
+  published want-a-smile-this-morning (2021-10-15, 196 words, 10/10 imgs)
+  published want-to-be-the-smartest-environmental-problem-solver-in-the-world (2021-10-19, 329 words, 5/5 imgs)
+  published what-is-the-enviroverse (2021-10-27, 501 words, 24/24 imgs)
+  published whats-water (2021-09-19, 927 words, 34/34 imgs)
+  published whats-the-metaverse (2021-10-04, 448 words, 24/24 imgs)
+  published why-not-faster-development (2021-10-07, 1176 words, 65/65 imgs)
+  published work-for-fun (2021-10-01, 381 words, 13/13 imgs)
+  published an-emphatic-yes (2021-09-01, 102 words, 7/7 imgs)
+  published another-60-000-from-my-retirement-account (2021-08-18, 443 words, 12/12 imgs)
+  published 31-million-people-moving-this-year (2021-08-10, 347 words, 24/24 imgs)
+  published ai-chipmakers (2021-09-06, 341 words, 11/11 imgs)
+  published delight-people-at-work-pedro-bados (2021-08-11, 285 words, 10/10 imgs)
+  published distance-limits (2021-09-09, 240 words, 13/13 imgs)
+  published field-of-dreams-whitesox-vs-yankees (2021-08-15, 665 words, 19/19 imgs)
+  published power-language-and-power-players (2021-08-13, 143 words, 8/8 imgs)
+  published sentiment-analyzer-by-enviroai (2021-08-05, 204 words, 11/11 imgs)
+  published sheeple (2021-09-05, 122 words, 9/9 imgs)
+  published unified-theory-and-environmental-protection (2021-09-07, 472 words, 11/11 imgs)
+  published announcement-environmental-game (2021-08-18, 287 words, 13/13 imgs)
+  quarantined announcement-1st-environmental-quantum-ai-company-in-the-world (2021-08-27) reason=short:body_only_8_words
+  published ask-who-a-consultant-agency-attorney (2021-09-02, 463 words, 9/9 imgs)
+  published bunch-of-einsteins (2021-08-25, 161 words, 12/12 imgs)
+  published creative-professional (2021-09-03, 490 words, 9/9 imgs)
+  published digital-twin-and-machine-to-protect-earth (2021-08-19, 208 words, 14/14 imgs)
+  published double-7-500 (2021-09-09, 102 words, 4/4 imgs)
+  published elon-musk-the-english-language-environmental-protection (2021-09-14, 751 words, 24/24 imgs)
+  published environmental-gaming (2021-08-19, 229 words, 7/7 imgs)
+  published environmental-justice-2 (2021-08-30, 153 words, 13/13 imgs)
+  published epas-response (2021-09-07, 499 words, 15/15 imgs)
+  published google-ceo-ai-is-more-profound-than-the-internet-fire-or-electricity (2021-09-09, 516 words, 17/17 imgs)
+  published home-owner-ever-move (2021-08-07, 213 words, 7/7 imgs)
+  published houston-lagging-even-lincoln-nebraska-in-artificial-intelligence (2021-09-08, 281 words, 9/9 imgs)
+  published how-are-people-feeling-about-you-and-your-company (2021-08-09, 179 words, 10/10 imgs)
+  published im-speaking (2021-09-13, 126 words, 4/4 imgs)
+  published knowledge-312-640-people (2021-08-29, 52 words, 2/2 imgs)
+  published mr-anderson (2021-09-04, 192 words, 9/9 imgs)
+  published neuralink-musk-gets-205-million (2021-08-04, 586 words, 13/13 imgs)
+  published new-video-our-mission (2021-08-16, 73 words, 4/4 imgs)
+  published new-website-yes (2021-08-06, 60 words, 4/4 imgs)
+  published people-planet-and-profits (2021-08-26, 346 words, 8/8 imgs)
+  published protecting-your-children (2021-08-10, 312 words, 12/12 imgs)
+  published question-what-else-can-we-build-to-help-protect-you (2021-08-22, 427 words, 17/17 imgs)
+  published question (2021-09-03, 69 words, 8/8 imgs)
+  published rock-smart (2021-09-12, 2723 words, 27/27 imgs)
+  published secret (2021-08-28, 611 words, 15/15 imgs)
+  published study-this-closely (2021-08-30, 497 words, 17/17 imgs)
+  published study-this-closely-2 (2021-08-31, 504 words, 17/17 imgs)
+  published tceq-and-ldeq-files-sentiment-analysis (2021-08-20, 353 words, 15/15 imgs)
+  published teach-good-to-do-good (2021-08-23, 551 words, 15/15 imgs)
+  published the-humble (2021-08-30, 141 words, 5/5 imgs)
+  published trackbot (2021-08-23, 75 words, 4/4 imgs)
+  published unaugmented (2021-09-10, 319 words, 12/12 imgs)
+  published what-are-people-saying-about-you (2021-08-25, 282 words, 15/15 imgs)
+  published whats-enviroais-role-in-quantum-development (2021-08-27, 165 words, 9/9 imgs)
+  published where-should-i-move (2021-08-09, 165 words, 8/8 imgs)
+  published wow-fast-attention-already-tracking-environmental-sentiment (2021-08-05, 351 words, 15/15 imgs)
+  published your-children (2021-09-10, 329 words, 13/13 imgs)
+=== done in 858.0s ===
+published=687 quarantined=244 skipped-already-exists=1 failed=0 non-cc-eml-files=0
 Wrote report to C:\Users\jedan\jedanderson-site\.claude\worktrees\priceless-brahmagupta-c9bad3\docs\CC_INGESTION_REPORT.md

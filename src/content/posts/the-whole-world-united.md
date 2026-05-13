@@ -5,13 +5,10 @@ date: 2022-11-13
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: ". . . in a cause | | | |"
+abstract: ". . . in a cause"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_3_words"
 ---
 
 . . . in a cause
-
- |  |
-|  |

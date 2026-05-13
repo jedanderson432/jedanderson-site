@@ -3,18 +3,47 @@ title: "Drone Demo Day in Houston"
 slug: "drone-demo-day-in-houston"
 date: 2020-09-25
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | Call to Schedule | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
+abstract: "Call to Schedule ‌ ﻿ DEMO DAY IN HOUSTON Watch 10 second video clip. Schedule private demo today."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| Call to Schedule |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | ﻿ | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | DEMO DAY IN HOUSTON | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | Watch 10 second [video clip](http://r20.rs6.net/tn.jsp?f=001Ef-XqhLVGO2C2-QPRUVgvvCuozeGoLS8qRXCQ-yndXo29v0yxwsiuu_t0v2mXaLOpEk-CNjPK3dQ-O_5qZYyJlEOrgol-aMXdbSlzc3DzisInBzkbN0ew1tHndYDO_Q3qHPSD9rV87Sv9T6Z18uiu3n38qOtiOP8r3kihscKymYUlxnCBlqMzPmp4NUef3nJ6RmuqvDIy19o397kD9h7Ek5slbBjZeTI1n0TYRCZlQY=&c=&ch=).  Schedule private demo [today](mailto:ceres@enviro.ai). | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | Our drone application is [fully autonomous](http://r20.rs6.net/tn.jsp?f=001Ef-XqhLVGO2C2-QPRUVgvvCuozeGoLS8qRXCQ-yndXo29v0yxwsiul_Wnc-kMYGfP0OU7zke5yYePMvfHVcnz3VAXXfXuY_ISDHRdXdaRo10-UuocK3wZ66P5lx6l9AuWLMHMn6JPbkrO-LC9sC8J3zOP4edQfyl&c=&ch=). An alarm occurs and the drone can be automatically dispatched from its robotic base. An EHS manager can also dispatch or schedule the drone around an inspection, a unit coming online, or any daily activity. The drone can also automatically switch instrument payloads depending on the remote-sensing need (i.e.flying separate sorties from the robotic base). Data is processed with the assistance of artificial intelligence and can be delivered to the user with regulatory and health-based insights. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+Call to Schedule
 
-|  |
-|  |
+‌
+
+![](/images/posts/drone-demo-day-in-houston/img-01.gif)
+
+![](/images/posts/drone-demo-day-in-houston/img-02.gif)
+
+![](/images/posts/drone-demo-day-in-houston/img-03.png)
+
+﻿
+
+![](/images/posts/drone-demo-day-in-houston/img-04.gif)
+
+DEMO DAY IN HOUSTON
+
+![](/images/posts/drone-demo-day-in-houston/img-05.gif)
+
+Watch 10 second [video clip](http://r20.rs6.net/tn.jsp?f=001Ef-XqhLVGO2C2-QPRUVgvvCuozeGoLS8qRXCQ-yndXo29v0yxwsiuu_t0v2mXaLOpEk-CNjPK3dQ-O_5qZYyJlEOrgol-aMXdbSlzc3DzisInBzkbN0ew1tHndYDO_Q3qHPSD9rV87Sv9T6Z18uiu3n38qOtiOP8r3kihscKymYUlxnCBlqMzPmp4NUef3nJ6RmuqvDIy19o397kD9h7Ek5slbBjZeTI1n0TYRCZlQY=&c=&ch=).
+
+Schedule private demo [today](mailto:ceres@enviro.ai).
+
+[![](/images/posts/drone-demo-day-in-houston/img-06.gif)](http://r20.rs6.net/tn.jsp?f=001Ef-XqhLVGO2C2-QPRUVgvvCuozeGoLS8qRXCQ-yndXo29v0yxwsiuu_t0v2mXaLOpEk-CNjPK3dQ-O_5qZYyJlEOrgol-aMXdbSlzc3DzisInBzkbN0ew1tHndYDO_Q3qHPSD9rV87Sv9T6Z18uiu3n38qOtiOP8r3kihscKymYUlxnCBlqMzPmp4NUef3nJ6RmuqvDIy19o397kD9h7Ek5slbBjZeTI1n0TYRCZlQY=&c=&ch=)
+
+![](/images/posts/drone-demo-day-in-houston/img-07.gif)
+
+Our drone application is [fully autonomous](http://r20.rs6.net/tn.jsp?f=001Ef-XqhLVGO2C2-QPRUVgvvCuozeGoLS8qRXCQ-yndXo29v0yxwsiul_Wnc-kMYGfP0OU7zke5yYePMvfHVcnz3VAXXfXuY_ISDHRdXdaRo10-UuocK3wZ66P5lx6l9AuWLMHMn6JPbkrO-LC9sC8J3zOP4edQfyl&c=&ch=). An alarm occurs and the drone can be automatically dispatched from its robotic base. An EHS manager can also dispatch or schedule the drone around an inspection, a unit coming online, or any daily activity. The drone can also automatically switch instrument payloads depending on the remote-sensing need (i.e.flying separate sorties from the robotic base). Data is processed with the assistance of artificial intelligence and can be delivered to the user with regulatory and health-based insights.
+
+![](/images/posts/drone-demo-day-in-houston/img-08.gif)
+
+![](/images/posts/drone-demo-day-in-houston/img-09.png)
+
+![](/images/posts/drone-demo-day-in-houston/img-10.gif)
+
+![](/images/posts/drone-demo-day-in-houston/img-11.gif)
+
+![](/images/posts/drone-demo-day-in-houston/img-12.gif)

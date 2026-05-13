@@ -3,18 +3,37 @@ title: "Grasping the gravity . . . of what I'm about to show you"
 slug: "grasping-the-gravity-of-what-im-about-to-show-you"
 date: 2020-04-13
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | Emissions Profiles and Rankings for All Facilities in Texas--including Today's Emissions Levels | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ---…"
+abstract: "Emissions Profiles and Rankings for All Facilities in Texas--including Today's Emissions Levels Grasping the Gravity of what I'm about to show you . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| Emissions Profiles and Rankings for All Facilities in Texas--including Today's Emissions Levels |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | Grasping the Gravity of what I'm about to show you . . . | |  |  |  | | --- | --- | | |  | | --- | | Emissions Profiles and Rankings for All Facilities in Texas--including Today's Emissions Levels (beta) | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | ---"The powers of this artificial intelligence tool are becoming ridiculous. Just when I thought something couldn't be done for a few more years, our development team cranks it out and I'm looking at it. I'm usually busy just picking my jaw up off the floor. It's too much fun. We've got 8 of us working on this now. We almost get giddy talking to each other. The world is such an incredible place . . . filled with incredible people . . . filled with incredible new technologies. What an exciting time to be alive. What an exciting world we are living into. The dream of a cleaner environment with less regulations is advancing at breakneck speed. Hold onto your hats everyone. This is going to be an incredible ride!"---Jed Anderson, Creator, Ceres AI | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | ﻿INTELLIGENCE. DATA.POWER.SPEED. | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | [More Information on Ceres AI](http://r20.rs6.net/tn.jsp?f=0015haQ4fPtSrnxAlQ7D8B-UG3bOTzJsN0DpifsGiQkmBfRkdgxYHbDxHoBbfBjT9imJYo-Yl61Dra3NSh2Lll9bskmhv23UVKntjfa8qfV-oF0GfZ8_Mfj7r8zZT6wfNy5wO1iZN0rsWe4pej9GlnARQ==&c=&ch=) | | | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | | This is an advertisement for Ceres AI LLC | | | | | | |
-|  |
+Emissions Profiles and Rankings for All Facilities in Texas--including Today's Emissions Levels
 
-|  |
-|  |
+![](/images/posts/grasping-the-gravity-of-what-im-about-to-show-you/img-01.gif)
+
+Grasping the Gravity of what I'm about to show you . . .
+
+Emissions Profiles and Rankings for All Facilities in Texas--including Today's Emissions Levels (beta)
+
+![](/images/posts/grasping-the-gravity-of-what-im-about-to-show-you/img-02.gif)
+
+[![](/images/posts/grasping-the-gravity-of-what-im-about-to-show-you/img-03.png)](http://r20.rs6.net/tn.jsp?f=0015haQ4fPtSrnxAlQ7D8B-UG3bOTzJsN0DpifsGiQkmBfRkdgxYHbDxOKg16nIaCP1_i4hjz5xT2VM2sEBsNfPdgUT8yJ-77JbdDRJZOQxozo3r7osCg9ZmlzuFo5EGrMA-V-zM94MUzpcVmzu8yvyxQ==&c=&ch=)
+
+---"The powers of this artificial intelligence tool are becoming ridiculous. Just when I thought something couldn't be done for a few more years, our development team cranks it out and I'm looking at it. I'm usually busy just picking my jaw up off the floor. It's too much fun. We've got 8 of us working on this now. We almost get giddy talking to each other. The world is such an incredible place . . . filled with incredible people . . . filled with incredible new technologies. What an exciting time to be alive. What an exciting world we are living into. The dream of a cleaner environment with less regulations is advancing at breakneck speed. Hold onto your hats everyone. This is going to be an incredible ride!"---Jed Anderson, Creator, Ceres AI
+
+![](/images/posts/grasping-the-gravity-of-what-im-about-to-show-you/img-04.gif)
+
+﻿INTELLIGENCE. DATA.POWER.SPEED.
+
+![](/images/posts/grasping-the-gravity-of-what-im-about-to-show-you/img-05.png)
+
+![](/images/posts/grasping-the-gravity-of-what-im-about-to-show-you/img-06.gif)
+
+[More Information on Ceres AI](http://r20.rs6.net/tn.jsp?f=0015haQ4fPtSrnxAlQ7D8B-UG3bOTzJsN0DpifsGiQkmBfRkdgxYHbDxHoBbfBjT9imJYo-Yl61Dra3NSh2Lll9bskmhv23UVKntjfa8qfV-oF0GfZ8_Mfj7r8zZT6wfNy5wO1iZN0rsWe4pej9GlnARQ==&c=&ch=)
+
+![](/images/posts/grasping-the-gravity-of-what-im-about-to-show-you/img-07.gif)
+
+This is an advertisement for Ceres AI LLC

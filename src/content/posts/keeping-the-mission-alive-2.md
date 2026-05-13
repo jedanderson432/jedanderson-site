@@ -5,13 +5,10 @@ date: 2023-07-07
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: ". . . after I die . . . | | | |"
+abstract: "Keeping the mission alive . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "dedup:title+date matches keeping-the-mission-alive"
 ---
 
-. . . after I die . . .
-
- |  |
-|  |
+_(duplicate of keeping-the-mission-alive)_

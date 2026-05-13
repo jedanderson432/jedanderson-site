@@ -3,18 +3,192 @@ title: "Latest news . . ."
 slug: "latest-news-2"
 date: 2020-03-02
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | AI & the Environment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
+abstract: "AI & the Environment Volume III, March 2, 2020 ---\"Protecting the environment. Simpler."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| AI & the Environment |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | Volume III, March 2, 2020 | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | ---"Protecting the environment. Simpler. Faster."  --Ceres AI | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | Environmental AI | |  |  |  | | --- | --- | | |  | | --- | | Updates and recent headlines on matters affecting artificial intelligence and the environment. | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | | From the Editor | | |  | | --- | | ---"Data complicated. AI simple."  --Jed Anderson, Creator, Ceres AI | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | $ Trillions  Leading business analysts are projecting that those companies who embrace artificial intelligence will create trillions of dollars in additional wealth for their companies over the next 10 years.  Read: [PWC report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVs2lwwds0qsH8wGCGQ8WtzpG82Au-UetIyo9LbbAhHttTauKUj7NndBPgUD_qB9pLkHcz2RiVgQou43hSdY9Z22CL01q8XRVvcUo4RGHOhTI9SK3ZELMejx1Mj9LdsHw8DHDND_4ruKSucViAETTf5c1b0ffow-Jv0c4dKTjxrqs=&c=&ch=) [Gartner report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVybO2JN36Hg7bqv6_YyU8dLITdi6Yswq_qpfqEIrfSscZGnE07sa8iCTLLMI7JCcIULpXJFMcc5pKbfOMG8Bk6P0yWZZu6KUHCvgbHh5SsKdrq1KJtCQ5qrGzQknGjWVNk1UMa7s54e90KW6D7H_N4G7d7tBWdhI3qsCsuKMbW91XROKGxY_x5SetM0bz5sMjpFkjmf9u8K7nfG81nx0GJFWZXcmHnLy7EhJXzuv8Qn72Rjh6Ch_HPkiLhB7eSk-D&c=&ch=) [McKinsey report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVYKcOG297OJN9gGB4Ze0C_0WovEVtUQWeZiCRTc9WhZdV6j5NgsHjzEshyBx1F6Im6f-mOX5Br-u6YGmAA0AxbWm_Arzr6n0hm6EYwbsh8OH1cxPDp7ezYHVFknfrRobh_tUV24mYvnhiElKgmhad5FK1Vu7OtoxBIs3Z6j5pBJjJwLbYRZsMWiZHZ0hH287p0NG3SQPn4DRqTBgYEZ35udpBqlNGtyvtJeVNProQc-6Csn6rWZnX6Q==&c=&ch=) | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | Ceres AI launches "Benchmarker"  Ceres today unveiled a beta version of its environmental benchmarking tool. "Benchmarker" ranks and compares facilities based on emissions events and other environmental parameters.  WHAT'S YOUR COMPANY # RANK?  --"Companies can see how they environmental perform against their competitors--starting with emission events in Texas." - Bradford Tuckfield, CIO, Ceres AI  [For more information.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNxYHaasEIB-5CIQxUNz-48nY3SkEPQaeAEe5kHAS567CvYIQjdzZ5nB-wNtqsnBBRk_HgwJiYuNX3DUVhnuVR0g==&c=&ch=) | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | MIT Top 10 Breakthroughs of 2020  MIT's list of Top 10 breakthroughs for 2020 includes:   - Unhackable internet (quantum) - Satellite mega constellations - Quantum supremacy - Climate change attribution - Tiny AI   [Read More.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNTAEiYFmuzmL5JwYHUkQj2sVdUzfMxaOrqQvTE8tLgqv3d1ACHstL_MKRjvN6T8RvPwTQ3p8Rh8H2Z28GL8NZy_9SrSVfnPpvvowR9N87Ydm9_Mkah8y5odTosO1Zr_uWjohdt_qk6iA=&c=&ch=) | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  | | --- | | Ceres AI Meets with Rep. Dan Huberty on Diluvia Flood AI  After meeting with Ceres AI, Rep. Dan Huberty asked Houston business leadership to take the lead in creating a flood intelligence system.  [Read letter.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNLIWO1RGfUWAMvoMfZwcwJZwfrpxJBESIyPW4phKTBch-AX27CKR_x3gI5mYVjH06x6Qs5tL8ATO6ypYCpZZbSRKH6AvuJ_VKEjMyZPriXlHRYOOM3n5WfbFaHwzcty12TqkYo_h20xGZ5LHs5nZgUkB_qarVAw95GnLpX1mE6JQ=&c=&ch=) |  |  | | --- | |  | | |  | | --- | |  |  |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | | Bezos Spending $10 Billion on Climate Change . . . much likely to go to AI  [Read article.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkN2adcYbLcYD36_owe0_YdyuZgjc1SXbmBX8jl13ULbtKID7o7LR_bsRE9KTHOEH5fdzT8lXGKrF6Qa3uXgbt0XcFNAwhRjdk6WSyJUsy7tsx9QfMNSZOAOSWKNav3PE4xU2BSudB49qMMcY00NaeDXJIJY5y6lXpkvvqbO2-pjLsziLU8YUlF3Q==&c=&ch=)  Amazon is now an [artificial intelligence company](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNgeFD9iLE7eXS0gnyTLzj35_dB-bl9t5c4hzHl4g7hKGEYUch5EIL14O2nMSy-0UK654hKp_TUxbEPY2Qqv3X9lckKcznQKyYS5no9Rp9DoQJi8RSwQIKHYeWfVT5RPTPpK6jNMwWS1JzGUGlcPxHTqj0tsTa7jfGw3k0reJoJQ9SVyqcrzz7WLrVL3wvqL-F7bOxX2hQufLE168hx1SuKjFqt1abXjT3wowl8gH2l2jogsl71sswV16h2bRKgeevSx-WMrG2yII=&c=&ch=) that happens to deliver packages. [Amazon rebuilt its company around artificial intelligence back in 2014](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvb6GU1ZmgSAntg9uAhqDB_25tZ4OsrWSCnOMhoqORVh31UFB_aPgjzJolFV-tINNIjQZg9KopBjq6uAJ1bbcXSHPmC_M4oq5HbLkq1rJ3hKvYbaDHjBU34dlFeQNW5hmMDi8tlZa1vay9yH_5T2bx43eg2RCgZnIhQ==&c=&ch=). Bezos sees AI has a solution to intractable problems:  ---“We are now solving problems with machine learning and artificial intelligence that were … in the realm of science fiction for the last several decades." - Jeff Bezos, CEO, Amazon  It is likely that much of Bezos' $10 billion climate funding will be spent on AI-based projects. | | |  | | --- | | $10 BILLION |  |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | | Ceres "Air AI' in Development  "Air AI" is scheduled for deployment on June 1. Air AI will provide users access to coordinated TCEQ and EPA information . . . along with social media, news articles, internet results, agency documents, permit information, enforcement proceedings, emissions inventory information, emissions event information, and other air quality data. Ultimately the technology will provide real-time emissions data along with unit attribution data . . . all on a geocoded platform.  [Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNzo-wwuj-siikX6y56P6Gun75H-RoFjB1Z8hcP38jyyfmAJ0zQah_fIg-AjZMvN77NZv-Cdmx2h-zdMJCj0bAsg==&c=&ch=) | | |  | | --- | |  |  |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  Google AI launches new ultra-high resolution neural network image analysis  Google recently announced new ultra-high resolution neural network image analyses, localized narratives, and new AI tools for language grounding tasks.  [Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNI9Mn2b0WJvu0XOF01T6ne9ELj6mUPLWIMRhzNcNkBzmSSNTmqeBBe_1ooN7M6va9EtCoIVkJhyyQB1mVTv1jXA==&c=&ch=) | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | Ceres Phase 1 "Validator" assisting banking and real-estate industry  Ceres AI reviews Phase 1 reports and compares the reports to ASTM standards.  ---"It will read a 500 page report in just minutes. It's like 'check the carfax' for environmental reports" -Mike Harol, VP, Ceres AI  [Read more or to purchase](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvfH0Q2S5U7ctlXpUabZHnQ_EahQSQK9FJmgsLUyBdjW8mqKR7_1w00Toms4LRFRCyQOG5aWrYQHQ6rO09yTthinpZFOzbo-GMQ==&c=&ch=) | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | Quantum Internet . . . A Major Breakthrough  A quantum entangled optical connection has now been extended to 50 km. Science, Nature, and Physics all covered the story. A quantum internet will eventually allow for essentially instantaneous communication of unlimited data. Although Einstein called quantum entanglement "spooky", its becoming increasingly handy and outright "jaw dropping" in recent computing and communications advancements.  [Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNy1tjPPXmwNv_YsLPGIpbi6Je3iGpaN8YE_0V74dySRg-Z9n5E63LlpBeWaugjaBj3HOP2K3cfaU4G8VzVrpsy2S0vnjIA6S7JvWxq7CgkPvHOc4N-ZcU6G71rLAXhf2UpQncjgr104xnGzPVg5HfmKvv_jEltLrwMXQ2FDNNhgtV5yYE2lSMpFddD7aS8SZ24npY5Vyli3s=&c=&ch=) | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | Ceres "The Generator" Scheduled for Deployment on April 10th   - Want to see where you can potentially reduce more emissions?  - Looking for Emission Reduction Credit opportunities?   The Generator sifts through facility and equipment emissions/control data to find potential opportunities.  [For Ceres access.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvYG_5CM8kw5kNaCholnDtTFJ0z_cCpZj2x03xYMlmFialKuXt1e0xFliCoVrlqwHFG37zEyc53K8ZqbHjrFY1eIz0zGxXQoqOFXVl0Ag5tHPmNFO8XSQT2I=&c=&ch=) | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | | Ceres AI's Search . . . "Google" for environmental  Ceres AI provides unparalleled access to environmental data.  More data. More knowledge. More power.  [Read more or to purchase](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSqq5sFysOxio1XwPe7500vr349sWBkx72Qjk6My3g3Or-UjscYc9AKqQDUcTbvfKuS9Ya-1ii7JUWcthv8BD4r8tMldDjnxTg==&c=&ch=) | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | Information. Data.  Power. Speed. | |  |  |  |  |  | | --- | --- | --- | --- | | |  | | --- | |  | | |  | | --- | | This is an advertisement for Ceres AI  [For more information on Ceres AI](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSqq5sFysOxio1XwPe7500vr349sWBkx72Qjk6My3g3Or-UjscYc9AKqQDUcTbvfKuS9Ya-1ii7JUWcthv8BD4r8tMldDjnxTg==&c=&ch=) | | | | | | |
-|  |
+AI & the Environment
 
-|  |
-|  |
+Volume III, March 2, 2020
+
+---"Protecting the environment. Simpler. Faster."
+
+--Ceres AI
+
+![](/images/posts/latest-news-2/img-01.png)
+
+Environmental AI
+
+Updates and recent headlines on matters affecting artificial intelligence and the environment.
+
+![](/images/posts/latest-news-2/img-02.gif)
+
+From the Editor
+
+---"Data complicated. AI simple."
+
+--Jed Anderson, Creator, Ceres AI
+
+![](/images/posts/latest-news-2/img-03.gif)
+
+![](/images/posts/latest-news-2/img-04.png)
+
+![](/images/posts/latest-news-2/img-05.gif)
+
+$ Trillions
+
+Leading business analysts are projecting that those companies who embrace artificial intelligence will create trillions of dollars in additional wealth for their companies over the next 10 years.
+
+Read: [PWC report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVs2lwwds0qsH8wGCGQ8WtzpG82Au-UetIyo9LbbAhHttTauKUj7NndBPgUD_qB9pLkHcz2RiVgQou43hSdY9Z22CL01q8XRVvcUo4RGHOhTI9SK3ZELMejx1Mj9LdsHw8DHDND_4ruKSucViAETTf5c1b0ffow-Jv0c4dKTjxrqs=&c=&ch=) [Gartner report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVybO2JN36Hg7bqv6_YyU8dLITdi6Yswq_qpfqEIrfSscZGnE07sa8iCTLLMI7JCcIULpXJFMcc5pKbfOMG8Bk6P0yWZZu6KUHCvgbHh5SsKdrq1KJtCQ5qrGzQknGjWVNk1UMa7s54e90KW6D7H_N4G7d7tBWdhI3qsCsuKMbW91XROKGxY_x5SetM0bz5sMjpFkjmf9u8K7nfG81nx0GJFWZXcmHnLy7EhJXzuv8Qn72Rjh6Ch_HPkiLhB7eSk-D&c=&ch=) [McKinsey report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVYKcOG297OJN9gGB4Ze0C_0WovEVtUQWeZiCRTc9WhZdV6j5NgsHjzEshyBx1F6Im6f-mOX5Br-u6YGmAA0AxbWm_Arzr6n0hm6EYwbsh8OH1cxPDp7ezYHVFknfrRobh_tUV24mYvnhiElKgmhad5FK1Vu7OtoxBIs3Z6j5pBJjJwLbYRZsMWiZHZ0hH287p0NG3SQPn4DRqTBgYEZ35udpBqlNGtyvtJeVNProQc-6Csn6rWZnX6Q==&c=&ch=)
+
+![](/images/posts/latest-news-2/img-06.png)
+
+![](/images/posts/latest-news-2/img-07.gif)
+
+Ceres AI launches "Benchmarker"
+
+Ceres today unveiled a beta version of its environmental benchmarking tool. "Benchmarker" ranks and compares facilities based on emissions events and other environmental parameters.
+
+WHAT'S YOUR COMPANY # RANK?
+
+--"Companies can see how they environmental perform against their competitors--starting with emission events in Texas." - Bradford Tuckfield, CIO, Ceres AI
+
+[For more information.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNxYHaasEIB-5CIQxUNz-48nY3SkEPQaeAEe5kHAS567CvYIQjdzZ5nB-wNtqsnBBRk_HgwJiYuNX3DUVhnuVR0g==&c=&ch=)
+
+![](/images/posts/latest-news-2/img-08.png)
+
+![](/images/posts/latest-news-2/img-09.gif)
+
+MIT Top 10 Breakthroughs of 2020
+
+MIT's list of Top 10 breakthroughs for 2020 includes:
+
+- Unhackable internet (quantum)
+- Satellite mega constellations
+- Quantum supremacy
+- Climate change attribution
+- Tiny AI
+
+[Read More.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNTAEiYFmuzmL5JwYHUkQj2sVdUzfMxaOrqQvTE8tLgqv3d1ACHstL_MKRjvN6T8RvPwTQ3p8Rh8H2Z28GL8NZy_9SrSVfnPpvvowR9N87Ydm9_Mkah8y5odTosO1Zr_uWjohdt_qk6iA=&c=&ch=)
+
+![](/images/posts/latest-news-2/img-10.png)
+
+![](/images/posts/latest-news-2/img-11.gif)
+
+Ceres AI Meets with Rep. Dan Huberty on Diluvia Flood AI
+
+After meeting with Ceres AI, Rep. Dan Huberty asked Houston business leadership to take the lead in creating a flood intelligence system.
+
+[Read letter.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNLIWO1RGfUWAMvoMfZwcwJZwfrpxJBESIyPW4phKTBch-AX27CKR_x3gI5mYVjH06x6Qs5tL8ATO6ypYCpZZbSRKH6AvuJ_VKEjMyZPriXlHRYOOM3n5WfbFaHwzcty12TqkYo_h20xGZ5LHs5nZgUkB_qarVAw95GnLpX1mE6JQ=&c=&ch=)
+
+[![](/images/posts/latest-news-2/img-12.png)](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNLIWO1RGfUWAMvoMfZwcwJZwfrpxJBESIyPW4phKTBch-AX27CKR_x3gI5mYVjH06x6Qs5tL8ATO6ypYCpZZbSRKH6AvuJ_VKEjMyZPriXlHRYOOM3n5WfbFaHwzcty12TqkYo_h20xGZ5LHs5nZgUkB_qarVAw95GnLpX1mE6JQ=&c=&ch=)
+
+![](/images/posts/latest-news-2/img-13.png)
+
+[![](/images/posts/latest-news-2/img-14.png)](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvXiR9P707iPejXUEMztMM7Yg4dELxge6kFBQ0DRWq_rkmVjNl02avqeCL4KLKAnI9mzA7ypTuieEvjvBxMJD1zuu1uJiHID34ZyJlDXpZbyzSpG9c4ASjFHiOr2i136gYHwbuUdmv3Bm9NM_ZcCgC0ShzBH51Z8jYVbOnr-i2AQpr8GoyWdLpU4=&c=&ch=)
+
+![](/images/posts/latest-news-2/img-15.gif)
+
+Bezos Spending $10 Billion on Climate Change . . . much likely to go to AI
+
+[Read article.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkN2adcYbLcYD36_owe0_YdyuZgjc1SXbmBX8jl13ULbtKID7o7LR_bsRE9KTHOEH5fdzT8lXGKrF6Qa3uXgbt0XcFNAwhRjdk6WSyJUsy7tsx9QfMNSZOAOSWKNav3PE4xU2BSudB49qMMcY00NaeDXJIJY5y6lXpkvvqbO2-pjLsziLU8YUlF3Q==&c=&ch=)
+
+Amazon is now an [artificial intelligence company](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNgeFD9iLE7eXS0gnyTLzj35_dB-bl9t5c4hzHl4g7hKGEYUch5EIL14O2nMSy-0UK654hKp_TUxbEPY2Qqv3X9lckKcznQKyYS5no9Rp9DoQJi8RSwQIKHYeWfVT5RPTPpK6jNMwWS1JzGUGlcPxHTqj0tsTa7jfGw3k0reJoJQ9SVyqcrzz7WLrVL3wvqL-F7bOxX2hQufLE168hx1SuKjFqt1abXjT3wowl8gH2l2jogsl71sswV16h2bRKgeevSx-WMrG2yII=&c=&ch=) that happens to deliver packages. [Amazon rebuilt its company around artificial intelligence back in 2014](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvb6GU1ZmgSAntg9uAhqDB_25tZ4OsrWSCnOMhoqORVh31UFB_aPgjzJolFV-tINNIjQZg9KopBjq6uAJ1bbcXSHPmC_M4oq5HbLkq1rJ3hKvYbaDHjBU34dlFeQNW5hmMDi8tlZa1vay9yH_5T2bx43eg2RCgZnIhQ==&c=&ch=). Bezos sees AI has a solution to intractable problems:
+
+---“We are now solving problems with machine learning and artificial intelligence that were … in the realm of science fiction for the last several decades." - Jeff Bezos, CEO, Amazon
+
+It is likely that much of Bezos' $10 billion climate funding will be spent on AI-based projects.
+
+$10 BILLION
+
+![](/images/posts/latest-news-2/img-16.jpg)
+
+![](/images/posts/latest-news-2/img-17.gif)
+
+Ceres "Air AI' in Development
+
+"Air AI" is scheduled for deployment on June 1. Air AI will provide users access to coordinated TCEQ and EPA information . . . along with social media, news articles, internet results, agency documents, permit information, enforcement proceedings, emissions inventory information, emissions event information, and other air quality data. Ultimately the technology will provide real-time emissions data along with unit attribution data . . . all on a geocoded platform.
+
+[Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNzo-wwuj-siikX6y56P6Gun75H-RoFjB1Z8hcP38jyyfmAJ0zQah_fIg-AjZMvN77NZv-Cdmx2h-zdMJCj0bAsg==&c=&ch=)
+
+![](/images/posts/latest-news-2/img-18.png)
+
+![](/images/posts/latest-news-2/img-19.png)
+
+![](/images/posts/latest-news-2/img-20.gif)
+
+![](/images/posts/latest-news-2/img-21.gif)
+
+![](/images/posts/latest-news-2/img-22.png)
+
+![](/images/posts/latest-news-2/img-23.gif)
+![](/images/posts/latest-news-2/img-24.gif)
+
+Google AI launches new ultra-high resolution neural network image analysis
+
+Google recently announced new ultra-high resolution neural network image analyses, localized narratives, and new AI tools for language grounding tasks.
+
+[Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNI9Mn2b0WJvu0XOF01T6ne9ELj6mUPLWIMRhzNcNkBzmSSNTmqeBBe_1ooN7M6va9EtCoIVkJhyyQB1mVTv1jXA==&c=&ch=)
+
+![](/images/posts/latest-news-2/img-25.gif)
+
+Ceres Phase 1 "Validator" assisting banking and real-estate industry
+
+Ceres AI reviews Phase 1 reports and compares the reports to ASTM standards.
+
+---"It will read a 500 page report in just minutes. It's like 'check the carfax' for environmental reports" -Mike Harol, VP, Ceres AI
+
+[Read more or to purchase](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvfH0Q2S5U7ctlXpUabZHnQ_EahQSQK9FJmgsLUyBdjW8mqKR7_1w00Toms4LRFRCyQOG5aWrYQHQ6rO09yTthinpZFOzbo-GMQ==&c=&ch=)
+
+[![](/images/posts/latest-news-2/img-26.png)](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvfH0Q2S5U7ctlXpUabZHnQ_EahQSQK9FJmgsLUyBdjW8mqKR7_1w00Toms4LRFRCyQOG5aWrYQHQ6rO09yTthinpZFOzbo-GMQ==&c=&ch=)
+
+![](/images/posts/latest-news-2/img-27.gif)
+
+Quantum Internet . . . A Major Breakthrough
+
+A quantum entangled optical connection has now been extended to 50 km. Science, Nature, and Physics all covered the story. A quantum internet will eventually allow for essentially instantaneous communication of unlimited data. Although Einstein called quantum entanglement "spooky", its becoming increasingly handy and outright "jaw dropping" in recent computing and communications advancements.
+
+[Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNy1tjPPXmwNv_YsLPGIpbi6Je3iGpaN8YE_0V74dySRg-Z9n5E63LlpBeWaugjaBj3HOP2K3cfaU4G8VzVrpsy2S0vnjIA6S7JvWxq7CgkPvHOc4N-ZcU6G71rLAXhf2UpQncjgr104xnGzPVg5HfmKvv_jEltLrwMXQ2FDNNhgtV5yYE2lSMpFddD7aS8SZ24npY5Vyli3s=&c=&ch=)
+
+![](/images/posts/latest-news-2/img-28.jpg)
+
+![](/images/posts/latest-news-2/img-29.gif)
+
+Ceres "The Generator" Scheduled for Deployment on April 10th
+
+- Want to see where you can potentially reduce more emissions?
+
+- Looking for Emission Reduction Credit opportunities?
+
+The Generator sifts through facility and equipment emissions/control data to find potential opportunities.
+
+[For Ceres access.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvYG_5CM8kw5kNaCholnDtTFJ0z_cCpZj2x03xYMlmFialKuXt1e0xFliCoVrlqwHFG37zEyc53K8ZqbHjrFY1eIz0zGxXQoqOFXVl0Ag5tHPmNFO8XSQT2I=&c=&ch=)
+
+![](/images/posts/latest-news-2/img-30.png)
+
+![](/images/posts/latest-news-2/img-31.gif)
+
+Ceres AI's Search . . . "Google" for environmental
+
+Ceres AI provides unparalleled access to environmental data.
+
+More data. More knowledge. More power.
+
+[Read more or to purchase](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSqq5sFysOxio1XwPe7500vr349sWBkx72Qjk6My3g3Or-UjscYc9AKqQDUcTbvfKuS9Ya-1ii7JUWcthv8BD4r8tMldDjnxTg==&c=&ch=)
+
+[![](/images/posts/latest-news-2/img-32.png)](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSqq5sFysOxio1XwPe7500vr349sWBkx72Qjk6My3g3Or-UjscYc9AKqQDUcTbvfKuS9Ya-1ii7JUWcthv8BD4r8tMldDjnxTg==&c=&ch=)
+
+![](/images/posts/latest-news-2/img-33.gif)
+
+![](/images/posts/latest-news-2/img-34.gif)
+
+Information. Data.  Power. Speed.
+
+![](/images/posts/latest-news-2/img-35.png)
+
+This is an advertisement for Ceres AI
+
+[For more information on Ceres AI](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSqq5sFysOxio1XwPe7500vr349sWBkx72Qjk6My3g3Or-UjscYc9AKqQDUcTbvfKuS9Ya-1ii7JUWcthv8BD4r8tMldDjnxTg==&c=&ch=)

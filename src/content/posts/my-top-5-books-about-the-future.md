@@ -1,0 +1,69 @@
+---
+title: "My Top 5 Books about the \"Future"
+slug: "my-top-5-books-about-the-future"
+date: 2021-11-15
+type: post
+status: published
+tags: ["faith", "constant-contact-archive"]
+abstract: ". . ."
+license: CC-BY-4.0
+original_source: "Constant Contact campaign"
+---
+
+. . . none are about the future
+
+![](/images/posts/my-top-5-books-about-the-future/img-01.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-02.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-03.gif)
+
+---"The future equals history plus x to the nth."
+
+- Jed Anderson, EnviroAI
+
+![](/images/posts/my-top-5-books-about-the-future/img-04.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-05.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-06.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-07.png)
+
+xis an unknown variable greater than 0
+
+nis exponential growth ([now the case](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx_0Q415PZyx27EMyliE5Unh91ZLexzRdWHz6sr7t0RT2yYU6dr__c82xlmktdVsk-zx9VrwaZertE7-S116qyYODNe9bQ3Wn9hW9SeZayJeRwj8c9_DSdMirT5PYlUQAvA==&c=&ch=))
+
+![](/images/posts/my-top-5-books-about-the-future/img-08.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-09.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-10.gif)
+
+My Top 5 Books about the Future
+
+None are about the future. All about the past.
+
+History is the known in the above equation when trying to solve for x.
+
+1. "[A Short History of Nearly Everything](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx_0Q415PZyx2JL0dSXBu9jKD8Hdjx6Eguet4y2nFIfggHYUJzXsEldfG61HyolwNEPu3MQLBCYhA68PWSSYiGCxJeTFhOBNp4LBgHUX4Z_vX7lzXo8Qbku5WIsyNySR2BAR_-_uyaCTOAIs9___MxjdgNSFxLFcV05KOwQLBeI4YizvCpLmj860a8uDpjC7yiBjQggptm_qsSJU-eoNx-uvV5fVbYC767sxymXwfJOx3JX1Z65okc7685T4W2WNWmcLQ25_SAmEtVbJ7T7mXPBp-YOJl-ae7KeKFJs9Fm34zcSCkYTRDXyfhMnssnp_SH8rsBGORX2jvK0TL4xoWdP69WKISKbgESXCERANgzi_Q35jyAHYHLSBizsqxbHKnDv1vr0O86-mpdtCKO3WHWg2BfXppq0bkBgfLxx4j0Q3SRpnGcVCCso8NPm_vMX90DpioEGzZ7ZAp_88iSEhUsRSw3kXt93dVTuAp8ymrV28FeehEPpLvI9XYERb2KUDVfflgpMJ8w2a4p-PzvzzFTe6CzM_AyDn6CzAErdn2hCkmBaDwgKwPqTyJuYx7mo2rxxioSpwOXpniGJXrAru0fmGVM0rqjJlEnQ6DApCeCW3h6cxd-_KbqZyNl-m0aDVojRhZwvNEuR9mBXXBRM_BeXY0OalePte3mlzyCb3hOyj85jUi-hZNY4y8TAYhej4yYhoRRlfpaGG0mFHnHBmfa6JmmvGwMevJDkeSxJdtRHMwVA5x-z4nASEbDRiSIDL7Nl3j0UiTMIv2JT6pKDLsGSQ=&c=&ch=)", Bill Bryson
+2. "[Cosmos](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx_0Q415PZyx2T9rNYvXWXyxNFTarVJ44hhtfAm1133XVdc5NxpaVy8eijuo_8fJLnMyGUbEZ6X6JisFzLuKDd07kkiXSUhwVvxHSZ5IFZt7HYDMSW_F1VQxJSqIrWl2U5bh8zY8bADj8&c=&ch=)", Carl Sagan
+3. "[A Short History of the World](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx_0Q415PZyx2siVK843HMho978Mw4dw9fhcRauMGCB6Ugykf8SLza_k4WmWFD6vFstcuzNd6SJzVlrxEtqfEBQhnIX2jMj3BHzsOzLlwVFrlabFUBqBK4G1p3llsF-zLdigGN5WaQ2ZbiADS0KxgknUyNIVi3VJCSw==&c=&ch=)", J.M. Roberts
+4. "[Sapiens](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx_0Q415PZyx2Fr_Ctk8AQ-NT50iwehLNN1S9x7S7jJs8z7TUxSxRm1ifThKhWZjOGa6kus5yh61Hm4FDbq70cZV7O01_yjiVlRLMcvCnXi2CGjUSDsf6rFw3ImwgkSQzQwpRrMpURpLUNVQ_vPmncB8QVwT0QHSmH6v0OGP8r7lYLpzJ1L2GT1ybZDNqEur8ip17RT5DzCakmoRvxFYrEdzj1mRJezyiDqu36QY4uOzg7DSgX2sfFzC6jp8FecZbLcNx-S_ERHmwS8eV2a20tk2kUhSr3Xmb0vXPQHaFfX7JMHcu7gV6uV_3_l-K9w9YLq8DOaY_LCl0QaQriOLqye_qdA24XQm3JWRp8YRKeLe8JJz0ANzgiyghQHoFhA4JG4TtBfuyhDDdSbKG8s5xAKogaW4FsERAQKRZ4q6SRl9E3b6LZ5_mdAFipB_oWTwHmjO2N6nh3r0VDJaQ-PUfmbYk3RbjIWx4iskILzi_oA4aCGNI21D9aJ99LucKXxwv0toF0i60ZCPxO8B8ZT5wa2M=&c=&ch=)", Yuval Noah Harari
+5. "[A Brief History of Time](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx_0Q415PZyx2Y36myNCifrevkAbMDjhy7X5Y5YMbC_9ou5PfcPjeCTqHe508ViAhiKpcCjGwJ-GIH8llyJhJ6biax1fs_W3sGgC90IaBGgYJnFe_QgyfXCyHBAPzbOwf9NYiz9lK1DoKzynxBfijoRakp_RijjjASgtm59xDEW-KivbLJeOyQOZqdNCm2ruPG6XEhtd3pw2ZMZezCQEasx-znZOvxvBqjdVjkHstp0z-qQx_NURLQH09QcCdbs4xtA2HlCQCyV3BJEOQxEO82fJ4ca3r3FViwFxM0dVq7TBIQ_Wj-T62MGBdqrOO5QXk4onPdUr57LyXwwYJx7hFPJfmRQwS7ocm_Q4lIm0DOI3P5dCOQbUt7MEePUCuPM4Rm7Z7TsEgMMyz3M9x_twZqxFfsmF4QubsQpNefpDi6JWVi5uyfazSKg3RJ6UWa2DZwMKYJWsGdQCg-zM0SMXEmX1QRqeyO9EycfJg0Dp2nQ9a4XapFrJ7Zi4tvBoheCUpYIUMRK9IgCYXWTRFGkbjSxgvh5_SIqxwnRXQZ8mofRfkyS6zzv8THFIqyRUDeNMfz9OROIGpwSRaZR5hh4eepoxZyNUOJE9pNVVxG8MG6xXSJAhP5qCEcMs_vkb0ByAgPjCkritYQB54_i2jAtar5FPLnTfUHSudKIn8uHNzA0u3LjqRHBiTF0IqzpXMsgtuAFv0Tk52Kph5XuODrclA6MNT4UF9jH0PLDtnnIMqxnrw0g2HSNOeXHz6s9PJliRYS8Zt31qOdppF&c=&ch=)", Stephen Hawking
+
+. . . See the historical data (information).
+
+. . . See the patterns in the information.
+
+. . . See the sequences, speed, and evolution of the patterns in the information.
+
+![](/images/posts/my-top-5-books-about-the-future/img-11.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-12.gif)
+
+![](/images/posts/my-top-5-books-about-the-future/img-13.gif)
+
+[![](/images/posts/my-top-5-books-about-the-future/img-14.png)](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx-lJcLXjfXvdXHoqDlfGD4erwpCuu-CPdNbBUZvFJkLRXSdQY1HIHbqpVUc-PTxnT2e_6FdOUo16u8oScpkXAU0=&c=&ch=)
+
+‌

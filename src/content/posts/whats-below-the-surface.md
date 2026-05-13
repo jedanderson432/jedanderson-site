@@ -5,13 +5,10 @@ date: 2022-10-10
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: ". . . An \"Iceberg\" of Environmental Data . . . | | | |"
+abstract: ". . . An \"Iceberg\" of Environmental Data . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_5_words"
 ---
 
 . . . An "Iceberg" of Environmental Data . . .
-
- |  |
-|  |

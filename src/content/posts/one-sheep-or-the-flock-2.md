@@ -5,13 +5,10 @@ date: 2023-07-09
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "I was reminded a few weeks ago . . . | | | |"
+abstract: "One sheep . . . or the flock?"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "dedup:title+date matches one-sheep-or-the-flock"
 ---
 
-I was reminded a few weeks ago . . .
-
- |  |
-|  |
+_(duplicate of one-sheep-or-the-flock)_

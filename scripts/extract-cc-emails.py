@@ -22,6 +22,7 @@ Idempotent: if src/content/posts/{slug}.md already exists, skip and log.
 from __future__ import annotations
 
 import email
+import html as html_module
 import io
 import json
 import os
@@ -168,13 +169,15 @@ SUBJECT_PATTERNS = [
 
 
 def extract_title_from_html(html: str) -> str | None:
-    """Return the campaign Subject line raw value."""
+    """Return the campaign Subject line raw value, with HTML entities decoded."""
     for pat in SUBJECT_PATTERNS:
         m = pat.search(html)
         if m:
             t = m.group("title").strip()
+            # Decode HTML entities BEFORE collapse/strip so &quot; etc. become real chars
+            t = html_module.unescape(t)
             # Strip surrounding quotes/whitespace
-            t = re.sub(r"\s+", " ", t).strip().strip("'\"").strip()
+            t = re.sub(r"\s+", " ", t).strip().strip("'\"“”‘’").strip()
             if t:
                 return t
     return None
@@ -380,6 +383,92 @@ FOOTER_PHRASES = (
 )
 
 
+CHROME_PHRASES = (
+    "dear jed anderson,",
+    "below is a copy of the message your subscribers received",
+    "below is a copy of the message",
+    "in your account to get real-time results",
+)
+
+
+BG_URL_RE = re.compile(r"url\(\s*['\"]?([^)'\"]+)['\"]?\s*\)", re.I)
+
+
+def harvest_background_images(soup):
+    """Find every td/element with `background="..."` attr or
+    `style="background-image: url(...)"` and inject an <img src="..."> sibling
+    before the element so the localizer + markdownify can pick them up.
+    Returns count of images injected (for logging)."""
+    injected = 0
+    # <td background="...">  and  any element with the background= attribute
+    for el in soup.find_all(attrs={"background": True}):
+        url = (el.get("background") or "").strip()
+        if not url or url.lower().startswith(("data:", "cid:")):
+            continue
+        new_img = soup.new_tag("img", src=url)
+        el.insert_before(new_img)
+        injected += 1
+        del el.attrs["background"]
+    # style="background-image: url(...)"  (or background:url(...) shorthand)
+    for el in soup.find_all(style=True):
+        style = el.get("style") or ""
+        if "background" not in style.lower():
+            continue
+        for m in BG_URL_RE.finditer(style):
+            url = m.group(1).strip()
+            if not url or url.lower().startswith(("data:", "cid:")):
+                continue
+            new_img = soup.new_tag("img", src=url)
+            el.insert_before(new_img)
+            injected += 1
+    return injected
+
+
+def flatten_layout_tables(soup):
+    """CC uses tables for layout exclusively — no genuine data tables.
+    Unwrap every table/tbody/thead/tr/td (innermost first) so children
+    become flow content. markdownify can't render layout tables sanely;
+    flattening is the only reliable conversion."""
+    # Unwrap innermost-first by walking with `find_all` from deepest descendants
+    # is hard with bs4; instead, repeat the pass until no targets remain.
+    targets = ["table", "tbody", "thead", "tr", "td", "th", "tfoot", "colgroup", "col"]
+    while True:
+        found = soup.find_all(targets)
+        if not found:
+            break
+        # Unwrap leaves first: an element whose descendants contain none of the
+        # target tags is a leaf in the table tree.
+        leaves = [t for t in found if not t.find(targets)]
+        if not leaves:
+            # Should not happen if `found` is non-empty, but guard against infinite loop
+            for t in found:
+                t.unwrap()
+            break
+        for t in leaves:
+            # Add a paragraph break after every td/tr so we don't run all cells together
+            if t.name in {"tr", "td", "th"}:
+                t.append(soup.new_string("\n"))
+            t.unwrap()
+
+
+def strip_chrome_blocks(soup):
+    """Remove any element whose VISIBLE text is just CC confirmation chrome."""
+    targets = list(soup.find_all(["div", "p", "section", "blockquote"]))
+    for el in targets:
+        if not el.parent:  # already removed
+            continue
+        text = (el.get_text(separator=" ", strip=True) or "").lower()
+        if not text:
+            continue
+        # If the element's text is short and consists primarily of chrome phrases, drop it.
+        if len(text) > 400:
+            continue
+        for phrase in CHROME_PHRASES:
+            if phrase in text:
+                el.decompose()
+                break
+
+
 def clean_campaign_html(html: str) -> str:
     soup = BeautifulSoup(html, "html.parser")
 
@@ -387,7 +476,7 @@ def clean_campaign_html(html: str) -> str:
     for c in soup.find_all(string=lambda s: isinstance(s, Comment)):
         c.extract()
 
-    # Drop <style>, <script>, <link>
+    # Drop <style>, <script>, <link>, <meta>
     for tag in soup.find_all(["style", "script", "link", "meta"]):
         tag.decompose()
 
@@ -395,17 +484,50 @@ def clean_campaign_html(html: str) -> str:
     for tag in soup.find_all("font"):
         tag.unwrap()
 
-    # Strip class, style, id from all tags
+    # NOTE: bg-image harvest happens in process_one_email() BEFORE localize_images,
+    # so by the time we get here all background URLs have already been promoted to
+    # <img src="..."> siblings and the `background` attribute has been removed.
+    # We do NOT harvest again here — doing so would double-emit any style="background-image: url(...)"
+    # references that the attribute-strip below hasn't reached yet.
+
+    # Strip CC chrome blocks (Dear Jed Anderson, Below is a copy, etc.).
+    # Do this BEFORE flatten so we can match by element-level text rather than
+    # blob-level text after everything is mashed together.
+    strip_chrome_blocks(soup)
+
+    # Strip footer blocks (unsubscribe / view as webpage). Same reasoning —
+    # easier to match a single table/div before flatten than after.
+    for el in soup.find_all(["table", "div", "p"]):
+        if not el.parent:
+            continue
+        text = (el.get_text() or "").lower()
+        if not text.strip():
+            continue
+        if any(phrase in text for phrase in FOOTER_PHRASES):
+            if "unsubscribe" in text or "view as webpage" in text:
+                el.decompose()
+                continue
+            if "constant contact" in text and len(text) < 500:
+                el.decompose()
+                continue
+
+    # ------------------------------------------------------------------
+    # Flatten layout tables — CC uses tables for everything, and markdownify
+    # renders them as broken pipe tables. Unwrap to flow content instead.
+    # ------------------------------------------------------------------
+    flatten_layout_tables(soup)
+
+    # Strip class, style, id, and table-layout attributes (post-flatten so we
+    # know they're no longer functional)
     for tag in soup.find_all(True):
         for attr in ("class", "style", "id", "border", "cellpadding", "cellspacing",
                      "align", "valign", "bgcolor", "color", "face", "lang", "xmlns",
                      "xmlns:xsi", "xsi:schemalocation", "data-pre", "leftmargin",
-                     "rightmargin", "topmargin"):
+                     "rightmargin", "topmargin", "background"):
             if attr in tag.attrs:
                 del tag.attrs[attr]
 
-    # Remove tracking pixels (already handled in image localization, but
-    # double-check on remaining <img> referencing tracking URLs).
+    # Remove tracking pixels (1x1 / 0x0)
     for img in soup.find_all("img"):
         try:
             w = int(img.get("width", "") or "0")
@@ -414,23 +536,6 @@ def clean_campaign_html(html: str) -> str:
             w = h = 0
         if (w in (0, 1) and h in (0, 1)) and (w + h <= 2):
             img.decompose()
-
-    # Strip footer blocks. A footer block is a <table>, <div>, or <p>
-    # whose visible text contains an unsubscribe link / "constant contact" /
-    # the physical-address pattern.
-    for el in soup.find_all(["table", "div", "p"]):
-        text = (el.get_text() or "").lower()
-        if not text.strip():
-            continue
-        if any(phrase in text for phrase in FOOTER_PHRASES):
-            # Heuristic: only strip if the element is near the bottom
-            # (text is short relative to overall) or contains "unsubscribe"
-            if "unsubscribe" in text or "view as webpage" in text:
-                el.decompose()
-                continue
-            if "constant contact" in text and len(text) < 500:
-                el.decompose()
-                continue
 
     # Drop empty <p>, <span>, <div>
     for tag in soup.find_all(["p", "span", "div"]):
@@ -442,6 +547,10 @@ def clean_campaign_html(html: str) -> str:
 
 # ----------------------------- Markdown post-processing --------------------
 def postprocess_markdown(md: str) -> str:
+    # Belt-and-suspenders entity decode: catch any HTML entities that survived
+    # markdownify (it preserves &amp; etc. inside what it thinks is "safe" text).
+    # Decoding twice is fine — html.unescape is idempotent on already-decoded text.
+    md = html_module.unescape(md)
     # Collapse triple+ blank lines to two
     md = re.sub(r"\n{3,}", "\n\n", md)
     # Strip trailing whitespace
@@ -459,6 +568,9 @@ def postprocess_markdown(md: str) -> str:
     ]
     for p in leak_patterns:
         md = re.sub(p, "", md, flags=re.I | re.M)
+    # Drop residual table skeleton — any line that's only pipes/dashes/spaces.
+    # (Should be rare after flatten_layout_tables, but defensive.)
+    md = re.sub(r"^[\s|\-]+$", "", md, flags=re.M)
     md = re.sub(r"\n{3,}", "\n\n", md).strip() + "\n"
     return md
 
@@ -468,9 +580,12 @@ def classify(post_body: str, total_images_referenced: int, total_images_saved: i
     """Return ('publish' or 'quarantine', reason_or_none)."""
     # Strip frontmatter-like content for word counting
     body = post_body.strip()
-    words = re.findall(r"\b\w+\b", body)
+    # Word count excludes image markdown so a wall of images doesn't inflate count.
+    text_for_wc = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", body)
+    text_for_wc = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text_for_wc)
+    words = re.findall(r"\b\w+\b", text_for_wc)
     wc = len(words)
-    if wc < 50:
+    if wc < 15:
         return "quarantine", f"short:body_only_{wc}_words"
     low = body.lower()
     if "below is a copy" in low:
@@ -627,6 +742,20 @@ def process_one_email(msg, source_path: Path, used_slugs: set, existing_slugs: s
             cid_to_part[ip["cid"]] = ip["part"]
 
     body_html = strip_cc_wrapper(html)
+
+    # Pre-pass: harvest background-image URLs as <img> siblings BEFORE the
+    # localizer sees them, so they flow through the same download path as
+    # explicit <img> tags. Has to run before clean_campaign_html (which
+    # flattens tables and would otherwise lose the <td background="…">
+    # attribute).
+    _soup = BeautifulSoup(body_html, "html.parser")
+    for t in _soup.find_all(["style", "script", "link", "meta"]):
+        t.decompose()
+    bg_n = harvest_background_images(_soup)
+    if bg_n:
+        log(f"  bg-images-harvested {bg_n}")
+    body_html = str(_soup)
+
     body_html, total_imgs, saved_imgs = localize_images(body_html, cid_to_part, slug)
     body_html = clean_campaign_html(body_html)
 
@@ -742,20 +871,21 @@ def main():
     extracted_roots = unzip_all()
     log(f"Extracted-zip roots: {len(extracted_roots)}")
 
-    # Walk every .eml under UNZIP_ROOT
-    all_emls = []
-    for root in extracted_roots:
-        all_emls.extend(sorted(root.rglob("*.eml")))
+    # Walk every .eml under UNZIP_ROOT (catches loose .eml files that weren't
+    # placed in a zip-stem-named subdir, e.g. browser-auto-renamed `foo[1].eml`
+    # files that were dragged into _unzipped/ directly).
+    all_emls = sorted(UNZIP_ROOT.rglob("*.eml"))
     log(f"Total .eml files: {len(all_emls)}")
 
     used_slugs = set(cc_slugs)  # protect existing CC posts from slug collision
 
     # Within-batch dedup: (title.lower(), date) → first slug; subsequent → quarantine.
-    # Seed from already-published records so re-runs respect prior dedup decisions.
+    # Seed from already-existing records (both published AND quarantined) so re-runs
+    # treat repeated .eml ingestions as duplicates instead of creating -N suffix clones.
     seen_pairs = {}
-    for r in stats["published"]:
+    for r in stats["published"] + stats["quarantined"]:
         if r.get("title") and r.get("date"):
-            seen_pairs[(r["title"].lower(), r["date"])] = r["slug"]
+            seen_pairs.setdefault((r["title"].lower(), r["date"]), r["slug"])
 
     for eml_path in all_emls:
         any_yield = False
@@ -823,6 +953,11 @@ def process_one_email_dedup_aware(msg, source_path, used_slugs, existing_slugs, 
         except Exception:
             iso_date = datetime.now().strftime("%Y-%m-%d")
     base = slugify(title)
+    # If the (title, date)-matching original is already on disk, this is a
+    # rerun-duplicate — skip silently rather than emitting another -N stub.
+    if (POSTS_DIR / f"{dedup_first}.md").exists():
+        stats["skipped"].append({"slug": dedup_first, "title": title, "reason": "rerun-dup"})
+        return
     slug = base
     suffix = 2
     while slug in used_slugs:

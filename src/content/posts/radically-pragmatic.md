@@ -3,18 +3,68 @@ title: "Radically pragmatic . . ."
 slug: "radically-pragmatic"
 date: 2021-04-13
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | \"Pollution centers change EVERYTHING.\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- |…"
+abstract: "\"Pollution centers change EVERYTHING.\" ‌ ---\"Pragmatically radical.\" ---\"It's almost hard to wrap your mind around it's so simple.\" INDUSTRY WOULD NO LONGER HAVE EMISSION EVENTS!!! . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
 ---
 
-|  |
-| --- |
-| "Pollution centers change EVERYTHING." |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  | | --- | --- | | |  | | --- | | ‌ | |  |  |  | | --- | --- | | |  | | --- | | ---"Pragmatically radical."  ---"It's almost hard to wrap your mind around it's so simple." | |  |  |  | | --- | --- | | |  | | --- | | INDUSTRY WOULD NO LONGER HAVE EMISSION EVENTS!!! . . .  or maintenance, start-up, shutdown events.  These events would be events for the Centers . . . not for industry. | |  |  |  | | --- | --- | | |  | | --- | | Here is where it's helpful to be an environmental lawyer . . . who's practiced at Baker Botts, Vinson & Elkins, and the AL Law Group and an Adjunct Professor of Law at the University of Houston Law School where I taught the Clean Air Act class:   - An "emission event" is: "Any upset event or unscheduled maintenance, startup, or shutdown activity, from a common cause that results in unauthorized emissions of air contaminants from one or more emissions points at a regulated entity." 30 TAC § 101.1 (28).  - A "regulated entity" is defined as: All regulated units, facilities, equipment, structures, or sources at one street address or location that are owned or operated by the same person. The term includes any property under common ownership or control identified in a permit or used in conjunction with the regulated activity at the same street address or location. 30 TAC § 101.1 (86). | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | The emissions points would move from the facilities to the Centers.  The Centers would be the regulated entity for these emission points.  The Centers are not in the same SIC classification as the petrochemical facilities or under common control of the petrochemical facilities, nor would one Center be located at the same address as all of the petrochemical facilities (physically of course an impossibility). | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | #GreenHoustonStrong | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  |  | |  |  |  ---"Houston is quickly becoming the environmental innovation capital of the world." - Jed Anderson | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  | | --- | --- | | |  | | --- | | ---"Out-Greening Green" | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | [Centers for Environmental Excellence](http://r20.rs6.net/tn.jsp?f=001AD7OjgEAPGi7r7LXpVuTZ3Gv_vtNojMoiHPCh9eZdQKpARfgiVfi7SFFtxmuV_w7j9o2GDjlmdVvdvAQu37L2567EPj_nrscwXhFYpsHhspqUK6WyMJepeWBnqvLWdjGOzTMwaefMR7YD99Omj2KNJV_JrqGRG19MFmVJnOtlFpPhLXSwuh5eCqcwOCdajNaJMlXZ43G3QTS1kW2_hYvO8n9RwW-EnHPgh7k3Cgmrv8=&c=&ch=) | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | [Contact Us](mailto:jed@enviro.ai) | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+"Pollution centers change EVERYTHING."
 
-|  |
-|  |
+![](/images/posts/radically-pragmatic/img-01.gif)
+
+‌
+
+---"Pragmatically radical."
+
+---"It's almost hard to wrap your mind around it's so simple."
+
+INDUSTRY WOULD NO LONGER HAVE EMISSION EVENTS!!! . . .  or maintenance, start-up, shutdown events.
+
+These events would be events for the Centers . . . not for industry.
+
+Here is where it's helpful to be an environmental lawyer . . . who's practiced at Baker Botts, Vinson & Elkins, and the AL Law Group and an Adjunct Professor of Law at the University of Houston Law School where I taught the Clean Air Act class:
+
+- An "emission event" is: "Any upset event or unscheduled maintenance, startup, or shutdown activity, from a common cause that results in unauthorized emissions of air contaminants from one or more emissions points at a regulated entity." 30 TAC § 101.1 (28).
+
+- A "regulated entity" is defined as: All regulated units, facilities, equipment, structures, or sources at one street address or location that are owned or operated by the same person. The term includes any property under common ownership or control identified in a permit or used in conjunction with the regulated activity at the same street address or location. 30 TAC § 101.1 (86).
+
+[![](/images/posts/radically-pragmatic/img-02.png)](http://r20.rs6.net/tn.jsp?f=001AD7OjgEAPGi7r7LXpVuTZ3Gv_vtNojMoiHPCh9eZdQKpARfgiVfi7SFFtxmuV_w7j9o2GDjlmdVvdvAQu37L2567EPj_nrscwXhFYpsHhspqUK6WyMJepeWBnqvLWdjGOzTMwaefMR7YD99Omj2KNJV_JrqGRG19MFmVJnOtlFpPhLXSwuh5eCqcwOCdajNaJMlXZ43G3QTS1kW2_hYvO8n9RwW-EnHPgh7k3Cgmrv8=&c=&ch=)
+
+The emissions points would move from the facilities to the Centers.
+
+The Centers would be the regulated entity for these emission points.
+
+The Centers are not in the same SIC classification as the petrochemical facilities or under common control of the petrochemical facilities, nor would one Center be located at the same address as all of the petrochemical facilities (physically of course an impossibility).
+
+![](/images/posts/radically-pragmatic/img-03.png)
+
+![](/images/posts/radically-pragmatic/img-04.png)
+
+#GreenHoustonStrong
+
+![](/images/posts/radically-pragmatic/img-05.gif)
+
+![](/images/posts/radically-pragmatic/img-06.gif)
+
+![](/images/posts/radically-pragmatic/img-07.gif)
+
+[![](/images/posts/radically-pragmatic/img-08.gif)](http://r20.rs6.net/tn.jsp?f=001AD7OjgEAPGi7r7LXpVuTZ3Gv_vtNojMoiHPCh9eZdQKpARfgiVfi7SFFtxmuV_w7j9o2GDjlmdVvdvAQu37L2567EPj_nrscwXhFYpsHhspqUK6WyMJepeWBnqvLWdjGOzTMwaefMR7YD99Omj2KNJV_JrqGRG19MFmVJnOtlFpPhLXSwuh5eCqcwOCdajNaJMlXZ43G3QTS1kW2_hYvO8n9RwW-EnHPgh7k3Cgmrv8=&c=&ch=)
+
+![](/images/posts/radically-pragmatic/img-09.gif)
+![](/images/posts/radically-pragmatic/img-10.gif)
+
+---"Houston is quickly becoming the environmental innovation capital of the world." - Jed Anderson
+
+![](/images/posts/radically-pragmatic/img-11.gif)
+
+---"Out-Greening Green"
+
+[Centers for Environmental Excellence](http://r20.rs6.net/tn.jsp?f=001AD7OjgEAPGi7r7LXpVuTZ3Gv_vtNojMoiHPCh9eZdQKpARfgiVfi7SFFtxmuV_w7j9o2GDjlmdVvdvAQu37L2567EPj_nrscwXhFYpsHhspqUK6WyMJepeWBnqvLWdjGOzTMwaefMR7YD99Omj2KNJV_JrqGRG19MFmVJnOtlFpPhLXSwuh5eCqcwOCdajNaJMlXZ43G3QTS1kW2_hYvO8n9RwW-EnHPgh7k3Cgmrv8=&c=&ch=)
+
+![](/images/posts/radically-pragmatic/img-12.gif)
+
+[Contact Us](mailto:jed@enviro.ai)
+
+![](/images/posts/radically-pragmatic/img-13.gif)

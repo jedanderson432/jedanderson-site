@@ -5,17 +5,18 @@ date: 2021-04-26
 type: post
 status: draft
 tags: ["faith", "constant-contact-archive"]
-abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | |…"
+abstract: "Shop Now"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "too-short-after-recalibration"
+quarantine_reason: "short:body_only_2_words"
 ---
 
-|  |
-| --- |
-|  |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | [Shop Now](http://r20.rs6.net/tn.jsp?f=001HLdoqxrI0GfFdbkjPRSlTn8kVyEIg6spPXU6Gf0rSP76hGs9rB2RcIU4z4qZdTJsY6Zm2DHiqjrmwCoEfkLLylyMYsc1dF6e-IBFS4JYZYqY4rsmOiY4m8UERmAeznLXa083oc_UEcwrT1x-I_oH-g==&c=&ch=) | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | | | | | |
-|  |
+![](/images/posts/deviation-review/img-01.gif)
 
-|  |
-|  |
+[Shop Now](http://r20.rs6.net/tn.jsp?f=001HLdoqxrI0GfFdbkjPRSlTn8kVyEIg6spPXU6Gf0rSP76hGs9rB2RcIU4z4qZdTJsY6Zm2DHiqjrmwCoEfkLLylyMYsc1dF6e-IBFS4JYZYqY4rsmOiY4m8UERmAeznLXa083oc_UEcwrT1x-I_oH-g==&c=&ch=)
+
+![](/images/posts/deviation-review/img-02.gif)
+
+![](/images/posts/deviation-review/img-03.gif)
+
+![](/images/posts/deviation-review/img-04.gif)
