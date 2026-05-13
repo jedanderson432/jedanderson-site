@@ -9,6 +9,9 @@ tags: ["faith", "physics", "information-theory"]
 abstract: "Personal speculative essay on the spiritual implications of quantum physics and information theory, addressed to 'eight-year-olds well versed in quantum physics' — a meditation on child-like intellectual curiosity."
 license: CC-BY-4.0
 pdf: "/pdfs/spiritual-universe-human-3-0.pdf"
+hero_image: "/images/spiritual-universe-human-3-0-hero.jpg"
+hero_image_alt: "Cover page of Exploratory Jottings: The Spiritual Universe — Human 3.0"
+pdf_canonical: true
 ---
 
 Personal speculative essay on the spiritual implications of quantum physics and information theory, addressed to 'eight-year-olds well versed in quantum physics' — a meditation on child-like intellectual curiosity.

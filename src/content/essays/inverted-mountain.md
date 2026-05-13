@@ -9,6 +9,8 @@ tags: ["enviroai", "thermodynamics", "information-theory", "paper"]
 abstract: "First-principles synthesis of the physics, economics, and policy implications of information-substituted environmental stewardship. The trajectory has the unusual property that each step toward the summit costs less than the last."
 license: CC-BY-4.0
 pdf: "/pdfs/inverted-mountain.pdf"
+hero_image: "/images/inverted-mountain-hero.jpg"
+hero_image_alt: "Cover page of The Inverted Mountain: Why Every Step Toward Environmental Superintelligence Is Cheaper Than the Last"
 ---
 
 First-principles synthesis of the physics, economics, and policy implications of information-substituted environmental stewardship. The trajectory has the unusual property that each step toward the summit costs less than the last.

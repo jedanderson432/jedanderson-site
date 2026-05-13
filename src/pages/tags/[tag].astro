@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { COLLECTIONS, TYPE_LABELS } from '../../site-config';
 import { canonicalPath } from '../../lib/canonical';
+import { effectiveDate } from '../../lib/dates';
 
 export async function getStaticPaths() {
   const all: any[] = [];
@@ -21,7 +22,7 @@ export async function getStaticPaths() {
 
   return [...byTag.entries()].map(([tag, entries]) => ({
     params: { tag },
-    props: { tag, entries: entries.sort((a, b) => +b.data.date - +a.data.date) },
+    props: { tag, entries: entries.sort((a, b) => +effectiveDate(b) - +effectiveDate(a)) },
   }));
 }
 
@@ -44,10 +45,10 @@ const { tag, entries } = Astro.props as { tag: string; entries: any[] };
         <li>
           <div class="flex items-baseline gap-3 mb-1">
             <time
-              datetime={e.data.date.toISOString()}
+              datetime={effectiveDate(e).toISOString()}
               class="text-xs text-muted tabular-nums w-28 shrink-0"
             >
-              {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+              {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(effectiveDate(e))}
             </time>
             <span class="text-xs uppercase tracking-widest text-muted">
               {TYPE_LABELS[e.data.type] ?? e.data.type}

@@ -14,6 +14,7 @@ hero_image_alt: 'Cover of "The Universe is Information." A serif title in cream 
 pdf_canonical: true
 pdf_pages: 13
 show_toc: true
+original_date: 2026-05-05
 ---
 
 > **Build what entropy cannot undo.**

@@ -10,6 +10,8 @@ tags: ["enviroai", "maxwell", "thermodynamics", "information-theory", "paper"]
 abstract: "A deeper technical follow-up to the May 2025 'Environmental Angel: Maxwell's Demon Evolved' essay. Examines the thermodynamic trade-offs inherent in a planetary-scale 'Angel,' the inviolability of the Second Law, and the irreducible informational costs of its operation."
 license: CC-BY-4.0
 pdf: "/pdfs/environmental-angel-thermodynamic-cost.pdf"
+hero_image: "/images/environmental-angel-thermodynamic-cost-hero.jpg"
+hero_image_alt: "Cover page of Jed's Angel: Maxwell's Demon Reborn, Guarding Nature with Information"
 ---
 
 A deeper technical follow-up to the May 2025 'Environmental Angel: Maxwell's Demon Evolved' essay. Examines the thermodynamic trade-offs inherent in a planetary-scale 'Angel,' the inviolability of the Second Law, and the irreducible informational costs of its operation.

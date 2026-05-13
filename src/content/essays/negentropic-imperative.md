@@ -9,6 +9,8 @@ abstract: "Defines 'Earth Rules'—the organizing principles of the biosphere—
 license: CC-BY-4.0
 co_authors: ['Grok-4.1 Deep Research', 'Gemini 3.0 Pro Deep Think & Research', 'ChatGPT 5.1 Deep Research', 'Claude 4.5 Deep Research']
 pdf: '/pdfs/negentropic-imperative.pdf'
+hero_image: "/images/negentropic-imperative-hero.jpg"
+hero_image_alt: "Cover page of The Negentropic Imperative: Earth Rules as Algorithms of Persistence and the Physics of Planetary Governance"
 ---
 
 ## Abstract

@@ -3,7 +3,7 @@ title: "A Victorious Defeat"
 slug: "a-victorious-defeat"
 subtitle: "10 Years Reforming the Clean Air Act"
 date: 2026-05-11
-original_date: 2016-07-01  # Month-precision; inferred from source filename "Book - A Victorious Defeat - DRAFT - July 2016.pdf". Exact day unverified.
+original_date: 2016-07-16
 type: book
 status: published
 tags: ["legal-reform", "clean-air-act", "enviroai", "faith"]

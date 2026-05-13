@@ -14,6 +14,7 @@ hero_image: "/images/the-physics-of-zero-cost-stewardship-cover.png"
 hero_image_alt: "Cover of 'The Projected Falling Cost of Environmental Protection.' Large serif title in black on white, with a stacked area chart below showing projected falling costs of environmental protection from 2026 to 2076—labor, hardware (sensors), and entropy (waste) components decay from a peak near 100 in 2026 to near zero by the late 2070s."
 related_essay: "/essays/intelligence-leverage-equation"
 show_abstract_on_page: true
+original_date: 2026-01-24
 ---
 
 > **Editorial note.** *This essay was originally drafted under the title "The Projected Falling Cost of Environmental Protection." Republished here under its philosophical framing—"The Physics of Zero-Cost Stewardship"—to position it as the thermodynamic bridge between* The Universe is Information *and* The Intelligence Leverage Equation. *Content is identical to the source PDF.*

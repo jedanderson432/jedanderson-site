@@ -9,6 +9,8 @@ tags: ["whitehead", "thermodynamics", "information-theory", "paper"]
 abstract: "Formalizes Whitehead's Law of Unthinking as a thermodynamic principle of civilizational progress, tracing the calculus of cognitive automation from prehistory to the AI age."
 license: CC-BY-4.0
 pdf: "/pdfs/unthinking-advance.pdf"
+hero_image: "/images/unthinking-advance-hero.jpg"
+hero_image_alt: "Cover page of The Unthinking Advance: A Thermodynamic and Computational Analysis of Civilization's Progress"
 ---
 
 Formalizes Whitehead's Law of Unthinking as a thermodynamic principle of civilizational progress, tracing the calculus of cognitive automation from prehistory to the AI age.

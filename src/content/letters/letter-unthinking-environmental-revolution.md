@@ -9,6 +9,8 @@ tags: ["enviroai", "whitehead"]
 abstract: "August 2025 letter to the environmental profession arguing that Whitehead's Law of Unthinking is not aphorism but thermodynamic imperative—Earth's life-support systems are unraveling while decision-making institutions drown in data."
 license: CC-BY-4.0
 pdf: "/pdfs/letter-unthinking-environmental-revolution.pdf"
+hero_image: "/images/letter-unthinking-environmental-revolution-hero.jpg"
+hero_image_alt: "Cover page of Letter to the Environmental Profession: The Unthinking Environmental Revolution — Automation as Destiny"
 ---
 
 August 2025 letter to the environmental profession arguing that Whitehead's Law of Unthinking is not aphorism but thermodynamic imperative—Earth's life-support systems are unraveling while decision-making institutions drown in data.

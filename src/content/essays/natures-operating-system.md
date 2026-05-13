@@ -9,6 +9,8 @@ tags: ["enviroai", "ai", "information-theory", "thermodynamics", "paper"]
 abstract: "Reframes nature itself as a computational substrate that has been processing information at planetary scale for billions of years, and proposes a 'Compute Together' architecture where engineered AI joins—rather than opposes—nature's own algorithms."
 license: CC-BY-4.0
 pdf: "/pdfs/natures-operating-system.pdf"
+hero_image: "/images/natures-operating-system-hero.jpg"
+hero_image_alt: "Cover page of Nature's Operating System: A Call to Compute Together"
 ---
 
 Reframes nature itself as a computational substrate that has been processing information at planetary scale for billions of years, and proposes a 'Compute Together' architecture where engineered AI joins—rather than opposes—nature's own algorithms.
