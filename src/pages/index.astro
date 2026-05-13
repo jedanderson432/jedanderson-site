@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { SITE, COLLECTIONS } from '../site-config';
 import { canonicalPath } from '../lib/canonical';
+import { effectiveDate } from '../lib/dates';
 
 type Entry = { data: any; body: string };
 
@@ -12,7 +13,10 @@ for (const c of COLLECTIONS) {
   for (const e of entries) all.push(e);
 }
 
-const sorted = all.sort((a, b) => +b.data.date - +a.data.date);
+// Sort by effectiveDate so historical posts (with original_date set) don't
+// pollute Recent with their 2026 ingestion date. Same convention used in
+// /posts, /archive, llms.txt, and feed.xml.
+const sorted = all.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));
 // "Start here" is driven exclusively by the `cornerstone` tag — the three
 // editorial picks (Universe is Information, First Defender, Intelligence
 // Leverage Equation). Other on-ramps like the Walk visual essay surface
@@ -164,10 +168,10 @@ const personSchema = {
         {recent.map((e) => (
           <li class="flex items-baseline gap-3">
             <time
-              datetime={e.data.date.toISOString()}
+              datetime={effectiveDate(e).toISOString()}
               class="text-xs text-muted tabular-nums w-28 shrink-0"
             >
-              {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+              {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(effectiveDate(e))}
             </time>
             <a href={canonicalPath(e)} class="text-ink hover:text-accent">
               {e.data.title}
