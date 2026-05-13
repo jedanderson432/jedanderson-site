@@ -1,0 +1,17 @@
+---
+title: ". . . writing permit applications . . . writing agency letters . . . writing reports . . . answering compliance questions . . ."
+slug: "writing-permit-applications-writing-agency-letters-writing-reports-answering-com-2"
+date: 2023-02-06
+type: post
+status: draft
+tags: ["faith", "constant-contact-archive"]
+abstract: "MINDBOGGLING ADVANCEMENTS HAPPENING!!!! Micrsoft . . . Google . . . ChatGPT . . . \"BingChat\" . . . GPT4 . . . DeepMind . . . Sparrow/LaMDA . . . Baidu's Ernie . . .\"TUNDRA-CHAT\" | | | |"
+license: CC-BY-4.0
+original_source: "Constant Contact campaign"
+quarantine_reason: "short:body_only_16_words"
+---
+
+MINDBOGGLING ADVANCEMENTS HAPPENING!!!! Micrsoft . . . Google . . . ChatGPT . . . "BingChat" . . . GPT4 . . . DeepMind . . . Sparrow/LaMDA . . . Baidu's Ernie . . ."TUNDRA-CHAT"
+
+ |  |
+|  |
