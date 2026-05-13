@@ -1,6 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 
-const CONTENT_TYPES = ['essay', 'post', 'book'] as const;
+const CONTENT_TYPES = ['essay', 'post', 'book', 'letter'] as const;
 
 const SUPPORTING_FILE_TYPES = [
   'pdf',
@@ -79,6 +79,7 @@ export const collections = {
   essays: baseCollection,
   posts: baseCollection,
   books: bookCollection,
+  letters: baseCollection,
 };
 
 export type ContentFrontmatter = z.infer<typeof baseSchema>;
