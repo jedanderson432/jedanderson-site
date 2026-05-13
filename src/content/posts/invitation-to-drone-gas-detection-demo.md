@@ -3,12 +3,12 @@ title: "Invitation to Drone Gas Detection Demo"
 slug: "invitation-to-drone-gas-detection-demo"
 date: 2021-03-29
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Tomorrow at Deer Park Fire Training Center | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_29_words"
+
 ---
 
 |  |

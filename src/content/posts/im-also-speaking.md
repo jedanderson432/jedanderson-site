@@ -3,12 +3,12 @@ title: "I'm also speaking . . ."
 slug: "im-also-speaking"
 date: 2021-09-16
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | October 21st---Texas Association of Environmental Professionals | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_38_words"
+
 ---
 
 |  |

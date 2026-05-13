@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "why I didn't make as much money yesterday | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_9_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 why I didn't make as much money yesterday

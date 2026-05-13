@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "The Tundra Leader Board---who will win at cooling the planet! | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_11_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 The Tundra Leader Board---who will win at cooling the planet!

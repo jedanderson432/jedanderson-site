@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "\"We are all family. It's just science.\" - Jed Anderson, EnviroAI | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_11_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 "We are all family. It's just science." - Jed Anderson, EnviroAI

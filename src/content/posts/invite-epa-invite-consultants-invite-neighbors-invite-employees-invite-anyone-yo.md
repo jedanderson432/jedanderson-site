@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Microsoft Teams Meetings in Tundra's \"EnviroVerse\" | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_7_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Microsoft Teams Meetings in Tundra's "EnviroVerse"

@@ -3,12 +3,12 @@ title: "JK Rowling and Jed Anderson"
 slug: "jk-rowling-and-jed-anderson"
 date: 2020-09-06
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Building a Privately-Funded Machine that Protects the Environment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_35_words"
+
 ---
 
 |  |

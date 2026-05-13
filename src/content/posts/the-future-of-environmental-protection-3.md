@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Humans and nature \"looking after each other\" in combined computing space | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_11_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Humans and nature "looking after each other" in combined computing space

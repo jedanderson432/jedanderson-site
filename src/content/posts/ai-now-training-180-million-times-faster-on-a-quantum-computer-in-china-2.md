@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Chinese Quantum Computer training AI 180 million times faster than a traditional computer . . . | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_13_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Chinese Quantum Computer training AI 180 million times faster than a traditional computer . . .

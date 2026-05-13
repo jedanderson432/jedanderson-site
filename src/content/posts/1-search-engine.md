@@ -3,12 +3,12 @@ title: "#1 Search Engine . . ."
 slug: "1-search-engine"
 date: 2021-07-29
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . to Save Earth!"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_31_words"
+
 ---
 
 |  |

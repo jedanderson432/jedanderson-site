@@ -3,12 +3,12 @@ title: "HUGE environmental competitive advantage! $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 slug: "huge-environmental-competitive-advantage"
 date: 2021-11-30
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Artificial Intelligence & Data--------Our Customers Gaining a Huge Competitive Advantage | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_35_words"
+
 ---
 
 |  |

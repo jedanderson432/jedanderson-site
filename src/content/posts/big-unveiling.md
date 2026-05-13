@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Private event on the 23rd . . . then publicly on April 5th at the 4C Conference | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_14_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Private event on the 23rd . . . then publicly on April 5th at the 4C Conference

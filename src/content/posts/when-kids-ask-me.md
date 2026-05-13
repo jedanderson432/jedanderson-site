@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: ". . . what I do for a living . . . | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_6_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 . . . what I do for a living . . .

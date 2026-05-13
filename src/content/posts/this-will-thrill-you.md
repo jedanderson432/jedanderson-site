@@ -3,12 +3,12 @@ title: "This will thrill you!"
 slug: "this-will-thrill-you"
 date: 2020-04-08
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Video demonstration of Ceres AI's latest powers | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_39_words"
+
 ---
 
 |  |

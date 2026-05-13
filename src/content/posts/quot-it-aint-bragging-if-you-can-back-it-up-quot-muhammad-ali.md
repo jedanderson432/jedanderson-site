@@ -3,12 +3,12 @@ title: "&quot;It ain't bragging if you can back it up.&quot;---Muhammad Ali"
 slug: "quot-it-aint-bragging-if-you-can-back-it-up-quot-muhammad-ali"
 date: 2021-01-20
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | We're the best at protecting air quality."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_39_words"
+
 ---
 
 |  |

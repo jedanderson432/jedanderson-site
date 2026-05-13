@@ -3,12 +3,12 @@ title: "Simulate nature. Protect nature."
 slug: "simulate-nature-protect-nature"
 date: 2020-08-08
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | The true power of quantum simulation---EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_21_words"
+
 ---
 
 |  |

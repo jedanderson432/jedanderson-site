@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "Offsets carbon with every search! The Environmental & Sustainability Search Engine . . . Tundra | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_11_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 Offsets carbon with every search! The Environmental & Sustainability Search Engine . . . Tundra

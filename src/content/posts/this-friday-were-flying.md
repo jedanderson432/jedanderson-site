@@ -3,12 +3,12 @@ title: "This Friday . . . We're Flying!!!!!!!!!!!!!!!!"
 slug: "this-friday-were-flying"
 date: 2020-10-13
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Environmental Drone Demo at Houston Petrochemical Complex | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_41_words"
+
 ---
 
 |  |

@@ -3,12 +3,12 @@ title: "Knowledge = 312,640 People"
 slug: "knowledge-312-640-people"
 date: 2021-08-29
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Size of EnviroAI's Knowledge Base Currently in Texas | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | |…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_43_words"
+
 ---
 
 |  |

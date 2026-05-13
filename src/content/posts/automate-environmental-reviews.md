@@ -3,12 +3,12 @@ title: "Automate Environmental Reviews"
 slug: "automate-environmental-reviews"
 date: 2020-06-19
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Audits, Due Diligence, Phase 1s | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | ---…"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_39_words"
+
 ---
 
 |  |

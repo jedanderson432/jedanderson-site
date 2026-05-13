@@ -3,12 +3,12 @@ title: "Teaching AI &quot;for goodness&quot; . . ."
 slug: "teaching-ai-quot-for-goodness-quot"
 date: 2021-11-29
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Teaching artificial intelligence to do good things for the world . . ."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_41_words"
+
 ---
 
 |  |

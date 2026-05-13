@@ -3,12 +3,12 @@ title: "&quot;The App Store&quot;"
 slug: "quot-the-app-store-quot"
 date: 2020-11-02
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Shop now!"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_28_words"
+
 ---
 
 |  |

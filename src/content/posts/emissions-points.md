@@ -3,12 +3,12 @@ title: "Emissions Points"
 slug: "emissions-points"
 date: 2020-05-11
 type: post
-status: draft
+status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Details . . . Data . . . Artificial Intelligence."
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_37_words"
+
 ---
 
 |  |

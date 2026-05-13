@@ -8,7 +8,7 @@ tags: ["faith", "constant-contact-archive"]
 abstract: "\"Prompt Engineering\" enters the environmental field . . . | | | |"
 license: CC-BY-4.0
 original_source: "Constant Contact campaign"
-quarantine_reason: "short:body_only_6_words"
+quarantine_reason: "too-short-after-recalibration"
 ---
 
 "Prompt Engineering" enters the environmental field . . .
