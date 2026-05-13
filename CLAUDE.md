@@ -8,6 +8,10 @@ jedanderson.org is a personal corpus site for Jed Anderson's writing on environm
 
 Core thesis: "Bits Protect Its." Information accumulates causal sovereignty over matter and energy.
 
+## Corpus ingestion
+
+When Jed says "ingest the latest batch of files to corpus-inbox" (or any clear variant referring to processing the inbox), execute docs/INGESTION_PROMPT.md end to end without asking for clarification. Source location is always C:\Users\jedan\Documents\corpus-inbox\. Default to forward motion through all 9 phases.
+
 ## Corpus ingestion workflow
 
 The local staging folder for new material is:
