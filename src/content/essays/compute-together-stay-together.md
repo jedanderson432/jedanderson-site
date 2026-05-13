@@ -9,6 +9,8 @@ tags: ["enviroai", "ai", "information-theory", "thermodynamics", "paper"]
 abstract: "Argues that cosmic, biological, and artificial computation are participants in a single universal negentropic trajectory, and derives an alignment imperative from that continuity."
 license: CC-BY-4.0
 pdf: "/pdfs/compute-together-stay-together.pdf"
+hero_image: "/images/compute-together-stay-together-hero.jpg"
+hero_image_alt: "Cover page of Compute Together, Stay Together: A First-Principles Analysis of Universal Computation and the Negentropic Imperative for Alignment"
 ---
 
 Argues that cosmic, biological, and artificial computation are participants in a single universal negentropic trajectory, and derives an alignment imperative from that continuity.

@@ -99,8 +99,8 @@ const personSchema = {
                   {e.data.abstract}
                 </p>
                 <p class="mt-4 text-sm text-muted">
-                  <time datetime={e.data.date.toISOString()}>
-                    {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                  <time datetime={effectiveDate(e).toISOString()}>
+                    {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(effectiveDate(e))}
                   </time>
                 </p>
               </div>
@@ -148,8 +148,8 @@ const personSchema = {
                   {e.data.abstract}
                 </p>
                 <p class="mt-3 text-xs text-muted">
-                  <time datetime={e.data.date.toISOString()}>
-                    {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(e.data.date)}
+                  <time datetime={effectiveDate(e).toISOString()}>
+                    {new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }).format(effectiveDate(e))}
                   </time>
                 </p>
               </div>

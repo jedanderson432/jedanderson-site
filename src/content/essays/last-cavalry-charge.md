@@ -9,6 +9,8 @@ tags: ["enviroai", "ai", "faith", "whitehead", "paper"]
 abstract: "Formalizes Whitehead's Law of Unthinking as a physical principle, then asks what remains for humans when computation has automated every operation that can be automated. A.I. can't pray—humans can."
 license: CC-BY-4.0
 pdf: "/pdfs/last-cavalry-charge.pdf"
+hero_image: "/images/last-cavalry-charge-hero.jpg"
+hero_image_alt: "Cover page of The Last Cavalry Charge: Computation's Endgame and Humanity's Non-Computable Edge"
 ---
 
 Formalizes Whitehead's Law of Unthinking as a physical principle, then asks what remains for humans when computation has automated every operation that can be automated. A.I. can't pray—humans can.

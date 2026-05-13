@@ -9,6 +9,8 @@ tags: ["enviroai", "ai", "legal-reform"]
 abstract: "Open letter to environmental professionals confronting the structural collision between AI-driven productivity and the billable-hour model that funds their careers."
 license: CC-BY-4.0
 pdf: "/pdfs/elephant-in-the-room-billable-hour.pdf"
+hero_image: "/images/elephant-in-the-room-billable-hour-hero.jpg"
+hero_image_alt: "Cover page of The Elephant in the Room: AI, the Billable Hour, and the Future of Environmental Consulting & Law"
 ---
 
 Open letter to environmental professionals confronting the structural collision between AI-driven productivity and the billable-hour model that funds their careers.

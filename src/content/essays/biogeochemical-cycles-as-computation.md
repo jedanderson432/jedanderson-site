@@ -9,6 +9,8 @@ tags: ["physics", "information-theory", "thermodynamics", "paper"]
 abstract: "Reads the water and carbon cycles as planetary-scale computational systems whose entropy flows bridge quantum mechanics to ecosystem organization; living systems augment entropy production by factors of 1,000–10,000 over abiotic Earth."
 license: CC-BY-4.0
 pdf: "/pdfs/biogeochemical-cycles-as-computation.pdf"
+hero_image: "/images/biogeochemical-cycles-as-computation-hero.jpg"
+hero_image_alt: "Cover page of Biogeochemical Cycles as Information-Thermodynamic Computational Systems"
 ---
 
 Reads the water and carbon cycles as planetary-scale computational systems whose entropy flows bridge quantum mechanics to ecosystem organization; living systems augment entropy production by factors of 1,000–10,000 over abiotic Earth.

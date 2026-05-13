@@ -10,6 +10,8 @@ tags: ["enviroai", "thermodynamics", "paper"]
 abstract: "Theoretical foundations and operational architecture of a proposed Environmental Spatial Intelligence Project and Cosmic Life Intelligence System at the SpaceX Starbase facility, framed as a paradigm shift in planetary biogeochemical management."
 license: CC-BY-4.0
 pdf: "/pdfs/boca-chica-environmental-intelligence.pdf"
+hero_image: "/images/boca-chica-environmental-intelligence-hero.jpg"
+hero_image_alt: "Cover page of The Thermodynamics of Planetary Stewardship: The Environmental Spatial Intelligence Project at Boca Chica"
 ---
 
 Theoretical foundations and operational architecture of a proposed Environmental Spatial Intelligence Project and Cosmic Life Intelligence System at the SpaceX Starbase facility, framed as a paradigm shift in planetary biogeochemical management.

@@ -9,6 +9,8 @@ tags: ["enviroai", "thermodynamics", "paper"]
 abstract: "Proposes a paradigm shift from the half-century-old protection-and-regulation model—rooted in fear and scarcity—toward an information-age framework for environmental thriving and abundance."
 license: CC-BY-4.0
 pdf: "/pdfs/from-protective-walls-to-open-gardens.pdf"
+hero_image: "/images/from-protective-walls-to-open-gardens-hero.jpg"
+hero_image_alt: "Cover page of From Protective Walls to Open Gardens: Cultivating Environmental Thriving in the Information Age"
 ---
 
 Proposes a paradigm shift from the half-century-old protection-and-regulation model—rooted in fear and scarcity—toward an information-age framework for environmental thriving and abundance.

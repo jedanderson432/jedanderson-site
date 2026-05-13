@@ -3,7 +3,7 @@ title: "Environmental Superintelligence: Independent First-Principles Impact Ass
 slug: "environmental-superintelligence-impact-analysis"
 subtitle: "Quantifying the Physics of Environmental Protection"
 date: 2026-05-13
-original_date: 2026-03-14
+original_date: 2026-03-02
 type: essay
 status: published
 tags: ["enviroai", "visual-essay", "policy"]
