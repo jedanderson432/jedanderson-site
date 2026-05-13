@@ -3,7 +3,7 @@ title: "10,000 plus receive these emails . . ."
 slug: "10-000-plus-receive-these-emails"
 date: 2020-10-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Love and Innovation."
 license: CC-BY-4.0

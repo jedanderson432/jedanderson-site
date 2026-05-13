@@ -3,7 +3,7 @@ title: "HomePhase1"
 slug: "homephase1-3"
 date: 2022-04-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Know before you buy . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Governor Abbott? . . . TUNDRA to be unveiled at the Gulf Coast Industry 
 slug: "governor-abbott-tundra-to-be-unveiled-at-the-gulf-coast-industry-forum-thursday"
 date: 2022-09-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "BE COOL! . . . Offset a kilogram of carbon every time you search the internet! TUNDRA: \"The Cooler Search Engine\" | | | |"
 license: CC-BY-4.0

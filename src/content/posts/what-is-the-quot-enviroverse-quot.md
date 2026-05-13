@@ -3,7 +3,7 @@ title: "What is the &quot;EnviroVerse&quot;?"
 slug: "what-is-the-quot-enviroverse-quot"
 date: 2021-10-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | The metaverse . . . for the environment."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "The &quot;Billable Hour&quot; vs. Artificial Intelligence"
 slug: "the-quot-billable-hour-quot-vs-artificial-intelligence"
 date: 2020-08-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Work Faster. Do more work. Make more money for yourselves and your clients using EnviroAI."
 license: CC-BY-4.0

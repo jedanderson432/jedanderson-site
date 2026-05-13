@@ -3,7 +3,7 @@ title: "Why not faster development?"
 slug: "why-not-faster-development"
 date: 2021-10-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"$20k a month . . ."
 license: CC-BY-4.0

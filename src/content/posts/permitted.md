@@ -3,7 +3,7 @@ title: "Permitted?"
 slug: "permitted"
 date: 2021-04-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Facility Changes . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Harbor or open sea?"
 slug: "harbor-or-open-sea"
 date: 2023-06-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Shore or Adventure?"
 license: CC-BY-4.0

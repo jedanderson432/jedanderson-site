@@ -3,7 +3,7 @@ title: "&quot;Distance Limits&quot;"
 slug: "quot-distance-limits-quot"
 date: 2021-09-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Using AI and Satellites---\"Keeping the Public Safe\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | ---…"
 license: CC-BY-4.0

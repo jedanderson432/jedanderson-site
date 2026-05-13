@@ -3,7 +3,7 @@ title: "Capital-Free Burner Replacement Program"
 slug: "capital-free-burner-replacement-program"
 date: 2020-05-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Announcing Joint-Venture with ClearSign | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | |…"
 license: CC-BY-4.0

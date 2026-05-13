@@ -3,7 +3,7 @@ title: "We're inside the fence!"
 slug: "were-inside-the-fence"
 date: 2020-05-14
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Artificial Intelligence---Enviro AI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

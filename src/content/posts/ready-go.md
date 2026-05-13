@@ -3,7 +3,7 @@ title: "Ready??? . . . Go!"
 slug: "ready-go"
 date: 2020-06-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | How much environmental data can you access in 3 seconds?"
 license: CC-BY-4.0

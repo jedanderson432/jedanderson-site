@@ -3,7 +3,7 @@ title: "Why? . . ."
 slug: "why-2"
 date: 2021-03-26
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Why love industry, nature, and people more? Why look for better and more ways to express our love?"
 license: CC-BY-4.0

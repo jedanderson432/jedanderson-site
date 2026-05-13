@@ -3,7 +3,7 @@ title: "$17.95 a month"
 slug: "17-95-a-month-3"
 date: 2020-08-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Building a machine to help protect the environment . . ."
 license: CC-BY-4.0

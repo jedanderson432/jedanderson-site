@@ -3,7 +3,7 @@ title: "What does it mean . . ."
 slug: "what-does-it-mean"
 date: 2021-07-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | to be a search engine that can help save the world?"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "How are people feeling about you and your company?"
 slug: "how-are-people-feeling-about-you-and-your-company"
 date: 2021-08-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Environmental Sentiment Analysis\"---by EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

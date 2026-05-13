@@ -3,7 +3,7 @@ title: "Joy. Joy. Joy."
 slug: "joy-joy-joy"
 date: 2020-10-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Humans & Nature . . . Talking to Each Other Directly . . . It's Simpler."
 license: CC-BY-4.0

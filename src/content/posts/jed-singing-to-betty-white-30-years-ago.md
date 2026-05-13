@@ -3,7 +3,7 @@ title: "Jed singing to Betty White . . . 30 years ago . . ."
 slug: "jed-singing-to-betty-white-30-years-ago"
 date: 2022-01-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"I'm not throwing away my shot . . ."
 license: CC-BY-4.0

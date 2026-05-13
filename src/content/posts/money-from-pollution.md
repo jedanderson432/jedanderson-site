@@ -3,7 +3,7 @@ title: "Money from Pollution"
 slug: "money-from-pollution"
 date: 2020-03-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Our Customers will Get Paid to Reduce Emissions----Ceres AI's \"Generator\" | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

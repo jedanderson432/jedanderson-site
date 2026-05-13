@@ -3,7 +3,7 @@ title: "New video! ------&quot;Our Mission&quot; . . ."
 slug: "new-video-quot-our-mission-quot"
 date: 2021-08-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . a \"for-profit\" company with a \"non-for-profit\" mission to build a machine to protect earth."
 license: CC-BY-4.0

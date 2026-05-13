@@ -3,7 +3,7 @@ title: "Who's the smartest?"
 slug: "whos-the-smartest"
 date: 2021-11-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . environmental expert overall in the nation right now?"
 license: CC-BY-4.0

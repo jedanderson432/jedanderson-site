@@ -3,7 +3,7 @@ title: "TCEQ . . . Explosions . . . New Penalty Policy in the News"
 slug: "tceq-explosions-new-penalty-policy-in-the-news"
 date: 2020-10-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Deviations, Audit Findings, Corrective Actions, Upsets, Enforcement Orders, Consent Decree Conditions-----Track them with EnviroAI!"
 license: CC-BY-4.0

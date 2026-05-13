@@ -3,7 +3,7 @@ title: "&quot;Due Diligence&quot; with AI"
 slug: "quot-due-diligence-quot-with-ai"
 date: 2020-05-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Lawyers. Bankers. Consultants. Companies."
 license: CC-BY-4.0

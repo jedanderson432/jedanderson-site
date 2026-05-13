@@ -3,7 +3,7 @@ title: "&quot;Zero-Emissions&quot; Industry"
 slug: "quot-zero-emissions-quot-industry"
 date: 2021-01-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Musk, Bezos, Anderson---who's plan do you like?"
 license: CC-BY-4.0

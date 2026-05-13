@@ -3,7 +3,7 @@ title: "Legacy in an Algorithm"
 slug: "legacy-in-an-algorithm"
 date: 2020-02-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Growing our environmental ideas after we are gone | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

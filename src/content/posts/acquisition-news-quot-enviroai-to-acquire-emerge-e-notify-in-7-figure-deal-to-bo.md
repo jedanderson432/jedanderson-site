@@ -3,7 +3,7 @@ title: "Acquisition News: &quot;EnviroAI to acquire Emerge/E-notify in 7-Figure 
 slug: "acquisition-news-quot-enviroai-to-acquire-emerge-e-notify-in-7-figure-deal-to-bo"
 date: 2022-03-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

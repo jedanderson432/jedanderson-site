@@ -3,7 +3,7 @@ title: "Keeping Your Work Alive"
 slug: "keeping-your-work-alive"
 date: 2020-02-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Your environmental work is taking on new life at Ceres AI------helping future generations of environmental problem solvers | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

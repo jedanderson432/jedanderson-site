@@ -3,7 +3,7 @@ title: "AI finds answer to flaring!!!!!!!!!!!!!!!!!!!!!!!!"
 slug: "ai-finds-answer-to-flaring"
 date: 2021-01-14
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Saving companies millions of dollars in the Houston Ship Channel area and reducing hundreds of tons of additional pollution | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- |…"
 license: CC-BY-4.0

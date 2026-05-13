@@ -3,7 +3,7 @@ title: "Rock . . . smart?"
 slug: "rock-smart"
 date: 2021-09-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Computational power of nature-------2 lb rock = a million trillion trillion trillon bits per second | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

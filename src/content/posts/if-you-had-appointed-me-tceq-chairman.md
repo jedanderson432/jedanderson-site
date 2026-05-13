@@ -3,7 +3,7 @@ title: "If you had appointed me TCEQ Chairman . . ."
 slug: "if-you-had-appointed-me-tceq-chairman"
 date: 2020-03-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Emergency Regulatory Relief for the State of Texas | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

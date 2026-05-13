@@ -3,7 +3,7 @@ title: "&quot;I'll be firing myself as CEO&quot;---Jed Anderson"
 slug: "quot-ill-be-firing-myself-as-ceo-quot-jed-anderson"
 date: 2021-11-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | $10M investment money forthcoming . . . we hope . . ."
 license: CC-BY-4.0

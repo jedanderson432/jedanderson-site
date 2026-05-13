@@ -3,7 +3,7 @@ title: "Abraham Lincoln and Jed Anderson"
 slug: "abraham-lincoln-and-jed-anderson"
 date: 2020-09-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Building a Machine that Protects the Environment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

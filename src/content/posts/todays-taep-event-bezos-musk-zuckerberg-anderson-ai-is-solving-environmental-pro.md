@@ -3,7 +3,7 @@ title: "Today's TAEP Event-----Bezos, Musk, Zuckerberg . . . Anderson---AI is so
 slug: "todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro"
 date: 2021-10-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

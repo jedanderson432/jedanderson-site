@@ -3,7 +3,7 @@ title: "Fundamental?"
 slug: "fundamental"
 date: 2022-06-14
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Quantum physics?"
 license: CC-BY-4.0

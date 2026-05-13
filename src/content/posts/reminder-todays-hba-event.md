@@ -3,7 +3,7 @@ title: "Reminder: Today's HBA Event"
 slug: "reminder-todays-hba-event"
 date: 2021-10-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Space City's new mission will be to save earth.\" - Jed Anderson, EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

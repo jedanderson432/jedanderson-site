@@ -3,7 +3,7 @@ title: "&quot;Self-help books . . . are a waste of time.&quot; - Jed Anderson"
 slug: "quot-self-help-books-are-a-waste-of-time-quot-jed-anderson"
 date: 2022-08-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Greatness requires self-abandonment."
 license: CC-BY-4.0

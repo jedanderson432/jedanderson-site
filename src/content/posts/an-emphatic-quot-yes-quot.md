@@ -3,7 +3,7 @@ title: ". . . an emphatic &quot;Yes!&quot;"
 slug: "an-emphatic-quot-yes-quot"
 date: 2021-09-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Can we save earth?????????"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Automate Environmental Reviews"
 slug: "automate-environmental-reviews"
 date: 2020-06-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Audits, Due Diligence, Phase 1s | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | ---…"
 license: CC-BY-4.0

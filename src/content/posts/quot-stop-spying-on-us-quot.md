@@ -3,7 +3,7 @@ title: ". . . &quot;Stop Spying on Us.&quot;"
 slug: "quot-stop-spying-on-us-quot"
 date: 2020-09-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Fortune 100 Plant Manager Comment to EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

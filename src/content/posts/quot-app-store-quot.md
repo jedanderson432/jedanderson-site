@@ -3,7 +3,7 @@ title: "&quot;App Store&quot;"
 slug: "quot-app-store-quot"
 date: 2020-10-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Pricing list . . . Shop today!"
 license: CC-BY-4.0

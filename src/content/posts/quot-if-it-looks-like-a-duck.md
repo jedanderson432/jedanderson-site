@@ -3,7 +3,7 @@ title: "&quot;If it looks like a duck . . ."
 slug: "quot-if-it-looks-like-a-duck"
 date: 2022-03-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

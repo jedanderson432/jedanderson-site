@@ -3,7 +3,7 @@ title: "NASA's Mission to Crash a Spacecraft into a Meteor Launches in November"
 slug: "nasas-mission-to-crash-a-spacecraft-into-a-meteor-launches-in-november"
 date: 2021-10-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | November 24th Launch Date to test Planetary Defense System\". . . . . . . ."
 license: CC-BY-4.0

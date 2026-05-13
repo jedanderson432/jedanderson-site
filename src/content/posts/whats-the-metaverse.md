@@ -3,7 +3,7 @@ title: "What's the metaverse?"
 slug: "whats-the-metaverse"
 date: 2021-10-04
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Nvidia's \"Omniverse\" and \"Enviroverse\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

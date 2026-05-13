@@ -3,7 +3,7 @@ title: "Danger?"
 slug: "danger"
 date: 2022-02-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | No."
 license: CC-BY-4.0

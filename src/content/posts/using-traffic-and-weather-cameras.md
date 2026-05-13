@@ -3,7 +3,7 @@ title: "Using Traffic and Weather Cameras"
 slug: "using-traffic-and-weather-cameras"
 date: 2020-10-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Another environmental imaging tool at our disposal | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

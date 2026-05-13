@@ -3,7 +3,7 @@ title: "Managing a Probability Wave"
 slug: "managing-a-probability-wave"
 date: 2020-07-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | AI and Quantum Technology in Protecting Nature | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Amazon. Insperity. . . . Outsourcing Pollution"
 slug: "amazon-insperity-outsourcing-pollution"
 date: 2020-12-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | A data-driven environmental business model | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

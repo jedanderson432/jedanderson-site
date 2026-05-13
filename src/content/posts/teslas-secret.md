@@ -3,7 +3,7 @@ title: "Tesla's secret . . ."
 slug: "teslas-secret"
 date: 2021-03-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | battery storage area in Houston area and expansion at the Independence Industrial Environmental Enhancement Center | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

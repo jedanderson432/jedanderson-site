@@ -3,7 +3,7 @@ title: "Forbes article today: &quot;Artificial Intelligence Is Improving Energy 
 slug: "forbes-article-today-quot-artificial-intelligence-is-improving-energy-companies"
 date: 2021-07-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | EnviroAI Improving Energy Companies' Environmental Programs | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

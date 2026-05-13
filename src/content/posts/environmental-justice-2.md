@@ -3,7 +3,7 @@ title: "Environmental Justice?"
 slug: "environmental-justice-2"
 date: 2021-08-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: ". . . our youth are getting so far ahead of us . . . it's awesome!"
 slug: "our-youth-are-getting-so-far-ahead-of-us-its-awesome"
 date: 2022-01-31
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | My talks with young men from Kingwood High School about AI and information theory | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

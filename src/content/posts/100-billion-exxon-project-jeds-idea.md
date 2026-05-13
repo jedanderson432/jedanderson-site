@@ -3,7 +3,7 @@ title: "$100 billion Exxon Project . . . Jed's Idea?"
 slug: "100-billion-exxon-project-jeds-idea"
 date: 2021-04-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Regardess . . . it's a great idea! Bravo ExxonMobil!!!"
 license: CC-BY-4.0

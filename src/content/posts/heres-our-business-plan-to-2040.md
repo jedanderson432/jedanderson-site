@@ -3,7 +3,7 @@ title: "Here's our business plan to 2040 . . ."
 slug: "heres-our-business-plan-to-2040"
 date: 2021-12-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

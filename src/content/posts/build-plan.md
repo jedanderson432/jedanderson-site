@@ -3,7 +3,7 @@ title: "Build-Plan"
 slug: "build-plan"
 date: 2020-06-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Here's what we are building . . ."
 license: CC-BY-4.0

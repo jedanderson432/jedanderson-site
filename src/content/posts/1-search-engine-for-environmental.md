@@ -3,7 +3,7 @@ title: "#1 Search Engine for Environmental"
 slug: "1-search-engine-for-environmental"
 date: 2020-05-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | You be the judge! . . . Google vs. EnviroAI . . . Who's better?"
 license: CC-BY-4.0

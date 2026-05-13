@@ -3,7 +3,7 @@ title: "Automated . . ."
 slug: "automated"
 date: 2021-02-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | environmental report generation?"
 license: CC-BY-4.0

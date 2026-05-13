@@ -3,7 +3,7 @@ title: "The EnviroVerse"
 slug: "the-enviroverse"
 date: 2021-12-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | The \"Environmental Metaverse\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

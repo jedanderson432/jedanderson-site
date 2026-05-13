@@ -3,7 +3,7 @@ title: "Ask your CONSULTANT . . ."
 slug: "ask-your-consultant"
 date: 2020-08-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . are they looking for ALL the ways to save you money? Are they using artificial intelligence to do your environmental research faster and cheaper?"
 license: CC-BY-4.0

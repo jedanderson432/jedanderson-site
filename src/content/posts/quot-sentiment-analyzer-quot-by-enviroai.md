@@ -3,7 +3,7 @@ title: "&quot;Sentiment Analyzer&quot;----by EnviroAI"
 slug: "quot-sentiment-analyzer-quot-by-enviroai"
 date: 2021-08-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Track environmental and ESG sentiment in agency files . . . social media . . . internet . . ."
 license: CC-BY-4.0

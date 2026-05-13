@@ -3,7 +3,7 @@ title: "Automating Environmental Protection"
 slug: "automating-environmental-protection"
 date: 2020-06-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | How many tasks can EnviroAI automate?"
 license: CC-BY-4.0

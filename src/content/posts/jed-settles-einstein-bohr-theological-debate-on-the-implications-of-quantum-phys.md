@@ -3,7 +3,7 @@ title: "Jed settles Einstein-Bohr theological debate on the implications of quan
 slug: "jed-settles-einstein-bohr-theological-debate-on-the-implications-of-quantum-phys"
 date: 2021-06-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"You were both right\" . . ."
 license: CC-BY-4.0

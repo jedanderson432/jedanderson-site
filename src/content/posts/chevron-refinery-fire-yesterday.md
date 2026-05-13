@@ -3,7 +3,7 @@ title: "Chevron Refinery Fire Yesterday"
 slug: "chevron-refinery-fire-yesterday"
 date: 2020-08-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | 12,376.94 pounds released . . . See EnviroAI details."
 license: CC-BY-4.0

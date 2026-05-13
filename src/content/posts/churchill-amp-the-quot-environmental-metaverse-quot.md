@@ -3,7 +3,7 @@ title: "Churchill &amp; the &quot;Environmental Metaverse&quot;"
 slug: "churchill-amp-the-quot-environmental-metaverse-quot"
 date: 2021-10-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Microsoft----Best video I've found describing underpinnings of the metaverse . . ."
 license: CC-BY-4.0

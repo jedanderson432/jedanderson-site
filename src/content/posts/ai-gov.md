@@ -3,7 +3,7 @@ title: "AI.GOV"
 slug: "ai-gov"
 date: 2021-05-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"United States launches new website to expand the use and development of artificial intelligence\" . . ."
 license: CC-BY-4.0

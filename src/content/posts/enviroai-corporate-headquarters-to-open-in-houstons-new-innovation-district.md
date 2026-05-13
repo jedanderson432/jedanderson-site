@@ -3,7 +3,7 @@ title: "EnviroAI Corporate Headquarters to Open in Houston's New Innovation Dist
 slug: "enviroai-corporate-headquarters-to-open-in-houstons-new-innovation-district"
 date: 2022-01-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Over 200 employees, building a machine to protect earth--we are going to have so much fun!\" - Jed Anderson, CEO, EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

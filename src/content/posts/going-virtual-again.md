@@ -3,7 +3,7 @@ title: "Going virtual again?"
 slug: "going-virtual-again"
 date: 2020-11-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Build your remote environmental capabilities."
 license: CC-BY-4.0

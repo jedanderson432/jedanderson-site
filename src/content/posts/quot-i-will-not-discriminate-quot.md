@@ -3,7 +3,7 @@ title: "&quot;I will not discriminate&quot; . . ."
 slug: "quot-i-will-not-discriminate-quot"
 date: 2020-09-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Enforcement Agencies & EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

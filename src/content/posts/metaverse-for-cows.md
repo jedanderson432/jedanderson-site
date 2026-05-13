@@ -3,7 +3,7 @@ title: "Metaverse for Cows???"
 slug: "metaverse-for-cows"
 date: 2022-01-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Cow-verse? Human productivity?"
 license: CC-BY-4.0

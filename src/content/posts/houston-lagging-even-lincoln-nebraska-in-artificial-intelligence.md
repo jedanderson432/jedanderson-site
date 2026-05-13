@@ -3,7 +3,7 @@ title: "Houston lagging even Lincoln, Nebraska in Artificial Intelligence"
 slug: "houston-lagging-even-lincoln-nebraska-in-artificial-intelligence"
 date: 2021-09-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Brookings Institute Report | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

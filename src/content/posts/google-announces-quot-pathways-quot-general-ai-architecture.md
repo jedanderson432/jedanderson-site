@@ -3,7 +3,7 @@ title: "Google announces &quot;Pathways&quot;. . . General AI Architecture"
 slug: "google-announces-quot-pathways-quot-general-ai-architecture"
 date: 2021-11-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Google's new \"General Intelligence\" AI Architecture---The \"Pathway\" to General Intelligence and what it means to EnviroAI's goals and environmental capabilities . . ."
 license: CC-BY-4.0

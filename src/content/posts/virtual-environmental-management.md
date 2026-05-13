@@ -3,7 +3,7 @@ title: "Virtual Environmental Management"
 slug: "virtual-environmental-management"
 date: 2020-04-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Conduct an environmental review or take an \"environmental tour\" of any facility in Texas without leaving your computer----Ceres AI's latest features."
 license: CC-BY-4.0

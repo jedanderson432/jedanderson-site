@@ -3,7 +3,7 @@ title: "Exxon Board"
 slug: "exxon-board"
 date: 2021-05-30
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"It's not Congress and EPA driving environmental change anymore . . ."
 license: CC-BY-4.0

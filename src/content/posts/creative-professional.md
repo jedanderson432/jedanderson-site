@@ -3,7 +3,7 @@ title: "Creative Professional?"
 slug: "creative-professional"
 date: 2021-09-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Scientific American Article . . ."
 license: CC-BY-4.0

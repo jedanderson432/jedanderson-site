@@ -3,7 +3,7 @@ title: "&quot;Due Diligence&quot; . . . Auditing"
 slug: "quot-due-diligence-quot-auditing"
 date: 2020-04-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Automated environmental due diligence and audit tasks with Ceres AI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

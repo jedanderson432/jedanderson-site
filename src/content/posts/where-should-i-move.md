@@ -3,7 +3,7 @@ title: "Where should I move?"
 slug: "where-should-i-move"
 date: 2021-08-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Green Factor\" ---EnviroAI's Real-Estate Assessment Tool | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

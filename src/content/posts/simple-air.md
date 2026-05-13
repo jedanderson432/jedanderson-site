@@ -3,7 +3,7 @@ title: "Simple Air"
 slug: "simple-air"
 date: 2020-04-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Real-time Air Quality Management using Artificial Intelligence and Remote Sensing . . . It's Coming! . . . It's Simpler!"
 license: CC-BY-4.0

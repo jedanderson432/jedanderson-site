@@ -3,7 +3,7 @@ title: "SO EXCITED . . . about Artificial General Intelligence!!!!!!!!!!!!!!!!!!
 slug: "so-excited-about-artificial-general-intelligence"
 date: 2022-05-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Here's why I'm so excited . . . IT WILL THINK SO DIFFERENTLY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 license: CC-BY-4.0

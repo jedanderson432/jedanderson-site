@@ -3,7 +3,7 @@ title: "Environmental Superpowers"
 slug: "environmental-superpowers"
 date: 2020-05-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | How powerful can we make other people? . ."
 license: CC-BY-4.0

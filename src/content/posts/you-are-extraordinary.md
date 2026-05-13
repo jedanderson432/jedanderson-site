@@ -3,7 +3,7 @@ title: "You are extraordinary!"
 slug: "you-are-extraordinary"
 date: 2020-12-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

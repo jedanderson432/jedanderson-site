@@ -3,7 +3,7 @@ title: "Pipelines &amp; Oil Wells"
 slug: "pipelines-amp-oil-wells"
 date: 2020-05-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Now displaying . . ."
 license: CC-BY-4.0

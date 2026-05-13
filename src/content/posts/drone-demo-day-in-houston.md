@@ -3,7 +3,7 @@ title: "Drone Demo Day in Houston"
 slug: "drone-demo-day-in-houston"
 date: 2020-09-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Call to Schedule | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

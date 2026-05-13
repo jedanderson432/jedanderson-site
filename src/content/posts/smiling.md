@@ -3,7 +3,7 @@ title: "Smiling . . ."
 slug: "smiling"
 date: 2021-06-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | after initially cringing at this new article: \"AI can't replace humans at environmental compliance\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ---…"
 license: CC-BY-4.0

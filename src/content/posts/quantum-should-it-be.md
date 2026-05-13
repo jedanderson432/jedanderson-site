@@ -3,7 +3,7 @@ title: "Quantum? . . . should it be?"
 slug: "quantum-should-it-be"
 date: 2020-06-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Microsoft's \"Planetary Computer\" . . . should it be classically-based or quantum-based?"
 license: CC-BY-4.0

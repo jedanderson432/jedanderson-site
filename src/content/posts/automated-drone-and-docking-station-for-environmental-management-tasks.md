@@ -3,7 +3,7 @@ title: "Automated Drone and Docking Station for Environmental Management Tasks"
 slug: "automated-drone-and-docking-station-for-environmental-management-tasks"
 date: 2020-09-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Airobotics - EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

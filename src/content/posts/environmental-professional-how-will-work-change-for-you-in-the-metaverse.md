@@ -3,7 +3,7 @@ title: "ENVIRONMENTAL PROFESSIONAL? . . . HOW WILL WORK CHANGE FOR YOU IN THE ME
 slug: "environmental-professional-how-will-work-change-for-you-in-the-metaverse"
 date: 2022-01-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN."
 license: CC-BY-4.0

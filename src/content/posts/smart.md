@@ -3,7 +3,7 @@ title: "Smart?"
 slug: "smart"
 date: 2021-01-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Yes you are. Now get even smarter. Augment your environmental intelligence so your personal stock goes even higher."
 license: CC-BY-4.0

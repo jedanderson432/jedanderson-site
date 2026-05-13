@@ -3,7 +3,7 @@ title: "Increasing your IQ . . ."
 slug: "increasing-your-iq"
 date: 2021-11-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | (120 IQ +1,500) + (145 IQ +1,500) + (131 IQ + 1,500) + (95 IQ + 1,500) + (108 IQ + 1,500) . . ."
 license: CC-BY-4.0

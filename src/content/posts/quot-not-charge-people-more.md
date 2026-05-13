@@ -3,7 +3,7 @@ title: "&quot;Not charge people more . . ."
 slug: "quot-not-charge-people-more"
 date: 2021-05-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "1st &quot;Contact Lenses&quot; Made for Augmented Reality . . ."
 slug: "1st-quot-contact-lenses-quot-made-for-augmented-reality"
 date: 2022-04-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Environmental Superheroes\" and the Environmental Metaverse | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ---…"
 license: CC-BY-4.0

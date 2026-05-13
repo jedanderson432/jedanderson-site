@@ -3,7 +3,7 @@ title: "&quot;Jobs&quot; tab"
 slug: "quot-jobs-quot-tab"
 date: 2020-07-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Create jobs in EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

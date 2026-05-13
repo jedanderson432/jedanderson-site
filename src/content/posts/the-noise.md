@@ -3,7 +3,7 @@ title: "The Noise . . ."
 slug: "the-noise"
 date: 2020-10-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"You could come up with a cure for Covid . . . and unless you had a good publicist . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Flare Share"
 slug: "flare-share"
 date: 2021-02-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | CO2/pollution benefits from our consolidated flare management at the Indepenence Facility will be GIGANTIC!!!!!!!!!!!!!!!!!! Thousands of tons of pollution reduction."
 license: CC-BY-4.0

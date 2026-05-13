@@ -3,7 +3,7 @@ title: "Augment Your Intelligence"
 slug: "augment-your-intelligence"
 date: 2020-02-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | More Data and Faster Access for Your Brain to Solve Environmental Problems----that's Ceres AI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

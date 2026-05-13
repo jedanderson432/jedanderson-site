@@ -3,7 +3,7 @@ title: "White House Call-out to Artificial Intelligence Companies"
 slug: "white-house-call-out-to-artificial-intelligence-companies"
 date: 2020-03-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | President Asks AI Companies to Comb through Research on Covid-19 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | -…"
 license: CC-BY-4.0

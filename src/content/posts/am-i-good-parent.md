@@ -3,7 +3,7 @@ title: "am I good parent???"
 slug: "am-i-good-parent"
 date: 2021-11-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Pascal's Wager\" . . ."
 license: CC-BY-4.0

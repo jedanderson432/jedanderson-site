@@ -3,7 +3,7 @@ title: "Example . . . Yesterday's Marathon Tank Spill . . . Real-Time ESG Tracki
 slug: "example-yesterdays-marathon-tank-spill-real-time-esg-tracking"
 date: 2021-10-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Spills happen. Releases happen."
 license: CC-BY-4.0

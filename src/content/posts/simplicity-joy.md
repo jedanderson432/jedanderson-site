@@ -3,7 +3,7 @@ title: "Simplicity . . . Joy"
 slug: "simplicity-joy"
 date: 2020-11-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Uniting Natural Laws and Environmental Laws | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --…"
 license: CC-BY-4.0

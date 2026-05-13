@@ -3,7 +3,7 @@ title: "&quot;All emission inventories should be real-time&quot;"
 slug: "quot-all-emission-inventories-should-be-real-time-quot"
 date: 2021-09-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Simpler. Faster. Cheaper."
 license: CC-BY-4.0

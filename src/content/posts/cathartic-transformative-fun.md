@@ -3,7 +3,7 @@ title: "Cathartic. Transformative. Fun."
 slug: "cathartic-transformative-fun"
 date: 2020-06-04
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Identifying pollution using Google's AutoML Video Intelligence API in EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

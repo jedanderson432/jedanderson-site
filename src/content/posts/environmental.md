@@ -3,7 +3,7 @@ title: "Environmental . . ."
 slug: "environmental"
 date: 2020-10-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | object detection."
 license: CC-BY-4.0

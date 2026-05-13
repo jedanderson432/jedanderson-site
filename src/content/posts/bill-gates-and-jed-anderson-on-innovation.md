@@ -3,7 +3,7 @@ title: "Bill Gates and Jed Anderson on Innovation"
 slug: "bill-gates-and-jed-anderson-on-innovation"
 date: 2020-09-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Building a Machine that Protects the Environment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

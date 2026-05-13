@@ -3,7 +3,7 @@ title: "Exxon. Shell. Chevron. Dow. Ineos. Valero."
 slug: "exxon-shell-chevron-dow-ineos-valero"
 date: 2020-10-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Watch this!!!! . . . . . . ."
 license: CC-BY-4.0

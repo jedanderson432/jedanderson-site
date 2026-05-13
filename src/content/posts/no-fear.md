@@ -3,7 +3,7 @@ title: "No fear."
 slug: "no-fear"
 date: 2020-03-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Faith. $3 million invested. Courage."
 license: CC-BY-4.0

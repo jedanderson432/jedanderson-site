@@ -3,7 +3,7 @@ title: "Want to be the smartest environmental problem solver in the world?"
 slug: "want-to-be-the-smartest-environmental-problem-solver-in-the-world"
 date: 2021-10-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . augment your internal intellectual capabilities with more access to external data and processing systems."
 license: CC-BY-4.0

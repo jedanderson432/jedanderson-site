@@ -3,7 +3,7 @@ title: "Jed's &quot;Elon Musk&quot; Approach to Environmental Protection . . ."
 slug: "jeds-quot-elon-musk-quot-approach-to-environmental-protection"
 date: 2020-12-26
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | This is how I will change the environmental regulatory world forever . . ."
 license: CC-BY-4.0

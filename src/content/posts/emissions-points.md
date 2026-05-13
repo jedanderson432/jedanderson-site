@@ -3,7 +3,7 @@ title: "Emissions Points"
 slug: "emissions-points"
 date: 2020-05-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Details . . . Data . . . Artificial Intelligence."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "&quot;A place where environmental dreams come true&quot;---Houston, Texa
 slug: "quot-a-place-where-environmental-dreams-come-true-quot-houston-texas"
 date: 2021-02-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Grand Opening February 2024 | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

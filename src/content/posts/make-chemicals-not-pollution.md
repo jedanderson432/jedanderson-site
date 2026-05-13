@@ -3,7 +3,7 @@ title: "Make chemicals . . . not pollution"
 slug: "make-chemicals-not-pollution"
 date: 2020-11-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Outsourcing environmental treatment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

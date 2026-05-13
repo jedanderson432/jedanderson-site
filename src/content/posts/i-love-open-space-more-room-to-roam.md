@@ -3,7 +3,7 @@ title: "I LOVE OPEN SPACE! . . . MORE ROOM TO ROAM!"
 slug: "i-love-open-space-more-room-to-roam"
 date: 2022-02-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | South Dakota . . ."
 license: CC-BY-4.0

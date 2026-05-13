@@ -3,7 +3,7 @@ title: "Teaching AI &quot;for goodness&quot; . . ."
 slug: "teaching-ai-quot-for-goodness-quot"
 date: 2021-11-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Teaching artificial intelligence to do good things for the world . . ."
 license: CC-BY-4.0

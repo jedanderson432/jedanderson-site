@@ -3,7 +3,7 @@ title: "Drone Trained to Recognize Pollution using Video Machine Learning"
 slug: "drone-trained-to-recognize-pollution-using-video-machine-learning"
 date: 2020-07-28
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | EnviroAI continuing to expand its AI powers and capabilities using satellite, aerial, and ground-based camera imaging | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ---…"
 license: CC-BY-4.0

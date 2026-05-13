@@ -3,7 +3,7 @@ title: "Protecting &quot;Its&quot; with &quot;Bits&quot;"
 slug: "protecting-quot-its-quot-with-quot-bits-quot"
 date: 2021-05-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Nature & Environmental Protection: \"Its from bits to bits for its.\" - Jed Anderson, Creator, EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --…"
 license: CC-BY-4.0

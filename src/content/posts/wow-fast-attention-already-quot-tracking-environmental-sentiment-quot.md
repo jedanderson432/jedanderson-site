@@ -3,7 +3,7 @@ title: "Wow . . . fast attention already . . . &quot;Tracking Environmental Sent
 slug: "wow-fast-attention-already-quot-tracking-environmental-sentiment-quot"
 date: 2021-08-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Glad so many of the 10,000 of you are excited about this!"
 license: CC-BY-4.0

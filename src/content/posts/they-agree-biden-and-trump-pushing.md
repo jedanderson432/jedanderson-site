@@ -3,7 +3,7 @@ title: "They agree! . . . Biden and Trump pushing"
 slug: "they-agree-biden-and-trump-pushing"
 date: 2020-11-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | massive AI and Quantum spending increase-----Trump increased budget by $1 billion . . ."
 license: CC-BY-4.0

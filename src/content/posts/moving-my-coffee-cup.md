@@ -3,7 +3,7 @@ title: "Moving my coffee cup . . ."
 slug: "moving-my-coffee-cup"
 date: 2021-12-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . \"back in time\" . . . ."
 license: CC-BY-4.0

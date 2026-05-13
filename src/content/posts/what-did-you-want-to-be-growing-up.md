@@ -3,7 +3,7 @@ title: "What did you want to be growing up?"
 slug: "what-did-you-want-to-be-growing-up"
 date: 2022-01-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Here's what I wanted to be . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "New! . . . App"
 slug: "new-app"
 date: 2020-12-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Fenceline Pollution Protection---Purchase now in the \"EnviroAI App Store\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

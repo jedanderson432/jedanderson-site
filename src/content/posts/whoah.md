@@ -3,7 +3,7 @@ title: "Whoah . . ."
 slug: "whoah"
 date: 2020-12-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Bloomberg: Chinese announce they've built a quantum computer 10 billion times faster than Google's quantum computer that achieved Quantum Supremacy . . ."
 license: CC-BY-4.0

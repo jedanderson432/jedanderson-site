@@ -3,7 +3,7 @@ title: ". . . best summer activity!"
 slug: "best-summer-activity"
 date: 2021-06-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | | | | | | | --- | --- | --…"
 license: CC-BY-4.0

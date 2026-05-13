@@ -3,7 +3,7 @@ title: "in the news . . ."
 slug: "in-the-news"
 date: 2021-11-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | technology breakthroughs supporting EnviroAI's mission | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

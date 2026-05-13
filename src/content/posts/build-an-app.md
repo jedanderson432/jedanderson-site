@@ -3,7 +3,7 @@ title: "Build an app"
 slug: "build-an-app"
 date: 2020-11-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | | | | | | | --- | --- | --…"
 license: CC-BY-4.0

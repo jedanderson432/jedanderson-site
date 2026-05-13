@@ -3,7 +3,7 @@ title: "Company found $ 1 million"
 slug: "company-found-1-million"
 date: 2020-03-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | REGULATORY RELIEF . . . Does your company need money?"
 license: CC-BY-4.0

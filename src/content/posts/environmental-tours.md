@@ -3,7 +3,7 @@ title: "Environmental Tours!!!"
 slug: "environmental-tours"
 date: 2021-11-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Buy your tickets now! Take a virtual tour of any facility or property in the country anytime you want----Phase 1 of the ENVIROVERSE is coming!"
 license: CC-BY-4.0

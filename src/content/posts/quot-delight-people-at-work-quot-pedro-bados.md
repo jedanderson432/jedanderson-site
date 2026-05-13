@@ -3,7 +3,7 @@ title: "&quot;Delight people at work.&quot; - Pedro Bados"
 slug: "quot-delight-people-at-work-quot-pedro-bados"
 date: 2021-08-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Employee's digital experience protecting the environment . . ."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Teach good. To do good."
 slug: "teach-good-to-do-good"
 date: 2021-08-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Training AI to \"Do Good Things\" for Humanity and Nature----EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

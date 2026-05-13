@@ -3,7 +3,7 @@ title: "Talk . . . Trees???"
 slug: "talk-trees"
 date: 2021-06-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Improving the data exchange rate between humans and their environment---EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

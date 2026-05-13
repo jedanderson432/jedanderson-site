@@ -3,7 +3,7 @@ title: "&quot;Environmental Freedom&quot;"
 slug: "quot-environmental-freedom-quot"
 date: 2020-11-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | | | | | | | --- | --- | --…"
 license: CC-BY-4.0

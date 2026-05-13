@@ -3,7 +3,7 @@ title: "Automating the Permitting Process"
 slug: "automating-the-permitting-process"
 date: 2020-03-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | What can we help you automate?"
 license: CC-BY-4.0

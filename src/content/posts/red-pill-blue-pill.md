@@ -3,7 +3,7 @@ title: "Red pill . . . blue pill"
 slug: "red-pill-blue-pill"
 date: 2020-08-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Which will you choose?--------An opportunity to see the environment's deeper reality in order to better protect her at less cost."
 license: CC-BY-4.0

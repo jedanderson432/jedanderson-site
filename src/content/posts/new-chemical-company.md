@@ -3,7 +3,7 @@ title: "New chemical company . . ."
 slug: "new-chemical-company"
 date: 2021-01-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Chemai-----\"the 1st data-driven chemical company\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

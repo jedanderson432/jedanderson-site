@@ -3,7 +3,7 @@ title: "&quot;Gamifying&quot; vs. Spreadsheets . . . which is a more fun way to 
 slug: "quot-gamifying-quot-vs-spreadsheets-which-is-a-more-fun-way-to-protect-the-envir"
 date: 2022-08-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"The Clean Air Act would be much more fun as a video game.\" - Jed Anderson, CEO of EnviroAI and Creator of the EnviroVerse | | | |"
 license: CC-BY-4.0

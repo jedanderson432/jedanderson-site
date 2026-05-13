@@ -3,7 +3,7 @@ title: "Simple equations . . . simple computations"
 slug: "simple-equations-simple-computations"
 date: 2021-05-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Building a \"machine\" to simulate nature and environmental protection efforts | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

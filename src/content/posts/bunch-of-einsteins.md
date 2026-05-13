@@ -3,7 +3,7 @@ title: "Bunch of Einsteins . . ."
 slug: "bunch-of-einsteins"
 date: 2021-08-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | solving environmental problems."
 license: CC-BY-4.0

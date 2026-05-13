@@ -3,7 +3,7 @@ title: "&quot;Space-Time&quot; . . . and environmental protection"
 slug: "quot-space-time-quot-and-environmental-protection"
 date: 2021-10-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Building a Quantum AI Environmental Protection Machine | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "&quot;Unified Theory&quot; . . . and environmental protection"
 slug: "quot-unified-theory-quot-and-environmental-protection"
 date: 2021-09-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Gravity is easy. Consciousness is hard."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "&quot;Ding in the Universe&quot;"
 slug: "quot-ding-in-the-universe-quot"
 date: 2020-08-31
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | A New Era in Environmental Protection . . ."
 license: CC-BY-4.0

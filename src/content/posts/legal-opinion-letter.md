@@ -3,7 +3,7 @@ title: "Legal Opinion Letter"
 slug: "legal-opinion-letter"
 date: 2021-05-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Is my activity legal?\"----New Environmental Legal Services Offering with Machine-Learning---Help Protect Yourself and Your Company | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

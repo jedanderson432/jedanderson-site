@@ -3,7 +3,7 @@ title: "CEO Jed Anderson discusses . . . &quot;seeing in&quot; other universes a
 slug: "ceo-jed-anderson-discusses-quot-seeing-in-quot-other-universes-and-dimensions-qu"
 date: 2021-11-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | 32 second video---moving beyond 3D to better protect nature | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

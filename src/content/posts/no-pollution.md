@@ -3,7 +3,7 @@ title: "NO POLLUTION."
 slug: "no-pollution"
 date: 2021-02-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"The greatest environmental entrepreneur in the world says he will 'end pollution'.\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "What State has the best environmental permits?"
 slug: "what-state-has-the-best-environmental-permits"
 date: 2021-05-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Louisiana vs."
 license: CC-BY-4.0

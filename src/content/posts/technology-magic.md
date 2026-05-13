@@ -3,7 +3,7 @@ title: "Technology---Magic"
 slug: "technology-magic"
 date: 2020-05-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Pipelines. Fugitives. Environment Intelligence."
 license: CC-BY-4.0

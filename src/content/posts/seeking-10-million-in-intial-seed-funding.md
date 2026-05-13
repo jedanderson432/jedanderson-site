@@ -3,7 +3,7 @@ title: "Seeking $10 million in intial seed funding . . ."
 slug: "seeking-10-million-in-intial-seed-funding"
 date: 2021-06-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | ---\"Building a system to protect earth . . ."
 license: CC-BY-4.0

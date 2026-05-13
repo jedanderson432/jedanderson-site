@@ -3,7 +3,7 @@ title: "Can I teach quantum physics, quantum computing, and artificial intellige
 slug: "can-i-teach-quantum-physics-quantum-computing-and-artificial-intelligence-in-les"
 date: 2021-10-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Come find out . . ."
 license: CC-BY-4.0

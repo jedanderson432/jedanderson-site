@@ -3,7 +3,7 @@ title: "Today is &quot;World Quantum Day&quot; . . . April 14th"
 slug: "today-is-quot-world-quantum-day-quot-april-14th"
 date: 2022-04-14
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | HAPPY \"QUANTUM DAY\"!!!!"
 license: CC-BY-4.0

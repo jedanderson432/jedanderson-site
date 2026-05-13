@@ -3,7 +3,7 @@ title: "TCEQ and LDEQ Files----&quot;Sentiment Analysis&quot;"
 slug: "tceq-and-ldeq-files-quot-sentiment-analysis-quot"
 date: 2021-08-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"Amazing! Amazing!"
 license: CC-BY-4.0

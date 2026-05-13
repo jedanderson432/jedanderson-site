@@ -3,7 +3,7 @@ title: "&quot;We're buying our customers . . . VR headsets!!!&quot;"
 slug: "quot-were-buying-our-customers-vr-headsets-quot"
 date: 2021-12-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | ENVIRONMENTAL METAVERSE---\"We're building the EnviroVerse for our customers, nature, and humanity as fast as we can!\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

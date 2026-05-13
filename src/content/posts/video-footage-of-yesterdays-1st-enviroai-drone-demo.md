@@ -3,7 +3,7 @@ title: "Video Footage of Yesterday's 1st EnviroAI Drone Demo"
 slug: "video-footage-of-yesterdays-1st-enviroai-drone-demo"
 date: 2020-10-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"The launch of a new era in environmental protection\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "&quot;Small&quot; and &quot;Negative&quot; Thinkers . . ."
 slug: "quot-small-quot-and-quot-negative-quot-thinkers"
 date: 2021-02-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | |…"
 license: CC-BY-4.0

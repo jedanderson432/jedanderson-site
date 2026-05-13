@@ -3,7 +3,7 @@ title: "Poll . . ."
 slug: "poll"
 date: 2020-11-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Yes or no?"
 license: CC-BY-4.0

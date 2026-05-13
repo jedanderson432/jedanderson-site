@@ -3,7 +3,7 @@ title: "&quot;Lot's of people write letters to God . . . I'm pretty sure this is
 slug: "quot-lots-of-people-write-letters-to-god-im-pretty-sure-this-is-the-1st-pitch-de"
 date: 2022-03-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Thanks for the quick responses I'm receiving. All glory . . . and investment decisions . . . to God."
 license: CC-BY-4.0

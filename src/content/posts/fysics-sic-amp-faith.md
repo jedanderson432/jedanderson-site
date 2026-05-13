@@ -3,7 +3,7 @@ title: "Fysics (sic) . . . &amp; Faith . . ."
 slug: "fysics-sic-amp-faith"
 date: 2022-06-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . how did I miss this?"
 license: CC-BY-4.0

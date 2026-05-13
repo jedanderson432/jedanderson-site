@@ -3,7 +3,7 @@ title: "Audits . . . Inspections . . . Due Dilligence-------in the &quot;EnviroV
 slug: "audits-inspections-due-dilligence-in-the-quot-enviroverse-quot"
 date: 2021-10-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Environmental Protection in the \"Environmental Metaverse\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "BlackRock . . . $9 Trillion"
 slug: "blackrock-9-trillion"
 date: 2021-02-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Attracting Trillions in ESG Investments and Verifying its Effectiveness at the Neighborhood Level----EnviroAI | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Haiti . . . and EnviroAI"
 slug: "haiti-and-enviroai"
 date: 2021-10-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Why is EnviroAI developing a \"machine\" to protect humanity and nature?"
 license: CC-BY-4.0

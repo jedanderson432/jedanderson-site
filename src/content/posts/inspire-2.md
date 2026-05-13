@@ -3,7 +3,7 @@ title: "Inspire."
 slug: "inspire-2"
 date: 2022-04-22
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Greatness."
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Space Billionaires . . ."
 slug: "space-billionaires"
 date: 2021-07-21
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | and a \"Mission to Protect Earth\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Encouraging you!!!"
 slug: "encouraging-you"
 date: 2021-07-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . \"creatives\" out there!!!"
 license: CC-BY-4.0

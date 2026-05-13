@@ -3,7 +3,7 @@ title: "Sacred?"
 slug: "sacred"
 date: 2020-09-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Everything."
 license: CC-BY-4.0

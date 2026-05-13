@@ -3,7 +3,7 @@ title: "74% of universe . . . coming from __________"
 slug: "74-of-universe-coming-from"
 date: 2023-02-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Scientific community abuzz . . . 1st evidence . . . majority if not all our universe potentially coming from this . . ."
 license: CC-BY-4.0

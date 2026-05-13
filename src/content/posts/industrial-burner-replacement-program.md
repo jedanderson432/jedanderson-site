@@ -3,7 +3,7 @@ title: "Industrial Burner Replacement Program"
 slug: "industrial-burner-replacement-program"
 date: 2020-06-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Joint-Venture with ClearSign | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | |…"
 license: CC-BY-4.0

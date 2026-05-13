@@ -3,7 +3,7 @@ title: "How close?"
 slug: "how-close"
 date: 2022-04-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | AI protecting the environment | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

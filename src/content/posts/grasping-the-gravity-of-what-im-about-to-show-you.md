@@ -3,7 +3,7 @@ title: "Grasping the gravity . . . of what I'm about to show you"
 slug: "grasping-the-gravity-of-what-im-about-to-show-you"
 date: 2020-04-13
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Emissions Profiles and Rankings for All Facilities in Texas--including Today's Emissions Levels | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ---…"
 license: CC-BY-4.0

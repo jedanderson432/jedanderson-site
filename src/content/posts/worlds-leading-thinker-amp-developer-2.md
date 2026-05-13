@@ -3,7 +3,7 @@ title: "World's Leading Thinker &amp; Developer"
 slug: "worlds-leading-thinker-amp-developer-2"
 date: 2021-06-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | AI and Quantum Technologies in Environmental Protection | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Jed . . . dead"
 slug: "jed-dead"
 date: 2020-11-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Trying as hard as I can try . . ."
 license: CC-BY-4.0

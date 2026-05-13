@@ -3,7 +3,7 @@ title: "Saying &quot;please&quot; and &quot;thank you&quot; to Alexa and Siri . 
 slug: "saying-quot-please-quot-and-quot-thank-you-quot-to-alexa-and-siri"
 date: 2021-11-12
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Google Exec interview-----training AI to value the good in nature and humanity | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | -…"
 license: CC-BY-4.0

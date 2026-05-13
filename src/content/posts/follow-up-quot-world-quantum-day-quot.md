@@ -3,7 +3,7 @@ title: "Follow-up . . . &quot;World Quantum Day&quot;"
 slug: "follow-up-quot-world-quantum-day-quot"
 date: 2022-04-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Do you now see the \"magic\"?"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "WSJ: &quot;Shell Aims to Enroll Thousands in Online Artificial-Intellige
 slug: "wsj-quot-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-traini"
 date: 2020-02-14
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Data is the new shale play . . ."
 license: CC-BY-4.0

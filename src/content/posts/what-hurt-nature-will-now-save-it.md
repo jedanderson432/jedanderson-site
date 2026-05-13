@@ -3,7 +3,7 @@ title: "What hurt nature will now save it . . ."
 slug: "what-hurt-nature-will-now-save-it"
 date: 2020-03-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | An ironic twist of fate | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

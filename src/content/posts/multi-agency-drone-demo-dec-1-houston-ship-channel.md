@@ -3,7 +3,7 @@ title: "Multi-Agency Drone Demo----Dec. 1-----Houston Ship Channel"
 slug: "multi-agency-drone-demo-dec-1-houston-ship-channel"
 date: 2020-11-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Coast Guard, Harris County Pollution Control, Harris County Emergency Management, and Fortune 500 Companies in the Region | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

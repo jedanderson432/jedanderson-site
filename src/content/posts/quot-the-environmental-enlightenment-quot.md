@@ -3,7 +3,7 @@ title: "&quot;The Environmental Enlightenment&quot;"
 slug: "quot-the-environmental-enlightenment-quot"
 date: 2021-02-07
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Stars have aligned . . ."
 license: CC-BY-4.0

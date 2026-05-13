@@ -3,7 +3,7 @@ title: "Can a computer begin to take apart and understand an environmental permi
 slug: "can-a-computer-begin-to-take-apart-and-understand-an-environmental-permit"
 date: 2022-01-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . not only 1 of them . . . all of them. Watch!"
 license: CC-BY-4.0

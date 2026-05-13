@@ -3,7 +3,7 @@ title: "Bounding Box"
 slug: "bounding-box"
 date: 2020-04-25
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | What questions can you ask Ceres AI with the new \"Bounding Box\" tool?"
 license: CC-BY-4.0

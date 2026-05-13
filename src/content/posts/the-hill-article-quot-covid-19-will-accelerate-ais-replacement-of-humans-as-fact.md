@@ -3,7 +3,7 @@ title: "The Hill Article: &quot;Covid-19 will accelerate AI's replacement of hum
 slug: "the-hill-article-quot-covid-19-will-accelerate-ais-replacement-of-humans-as-fact"
 date: 2020-04-14
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Ceres AI ramping up as demand for automation, virtual, remote, and digitial environmental management increases | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

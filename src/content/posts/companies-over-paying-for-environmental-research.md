@@ -3,7 +3,7 @@ title: "Companies over-paying for environmental research"
 slug: "companies-over-paying-for-environmental-research"
 date: 2020-08-23
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Not using artificial intelligence | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

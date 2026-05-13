@@ -3,7 +3,7 @@ title: "Checking in on you . . ."
 slug: "checking-in-on-you"
 date: 2020-12-19
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Love your suffering yet? . . . Love the training? . . . You're getting stronger!"
 license: CC-BY-4.0

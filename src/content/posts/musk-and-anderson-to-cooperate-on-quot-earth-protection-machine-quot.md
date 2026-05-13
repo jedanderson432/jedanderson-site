@@ -3,7 +3,7 @@ title: "Musk and Anderson to cooperate on &quot;earth protection machine&quot;"
 slug: "musk-and-anderson-to-cooperate-on-quot-earth-protection-machine-quot"
 date: 2021-02-26
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | |…"
 license: CC-BY-4.0

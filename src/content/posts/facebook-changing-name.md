@@ -3,7 +3,7 @@ title: "Facebook changing name . . ."
 slug: "facebook-changing-name"
 date: 2021-10-24
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | ---and the \"Environmental Metaverse\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Faster enforcement with EnviroAI . . ."
 slug: "faster-enforcement-with-enviroai"
 date: 2020-09-14
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Agency personnel now using artificial intelligence system | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "60 people . . . 60 days"
 slug: "60-people-60-days"
 date: 2022-01-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

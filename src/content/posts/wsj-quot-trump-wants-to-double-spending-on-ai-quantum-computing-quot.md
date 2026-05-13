@@ -3,7 +3,7 @@ title: "WSJ: &quot;Trump Wants to Double Spending on AI, Quantum Computing&quot;
 slug: "wsj-quot-trump-wants-to-double-spending-on-ai-quantum-computing-quot"
 date: 2020-02-11
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Proposes EPA Budget Cut of 26% | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

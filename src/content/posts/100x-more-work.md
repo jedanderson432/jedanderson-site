@@ -3,7 +3,7 @@ title: "100x more work . . ."
 slug: "100x-more-work"
 date: 2021-03-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Computer-Performed Environmental Professional Work | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | -…"
 license: CC-BY-4.0

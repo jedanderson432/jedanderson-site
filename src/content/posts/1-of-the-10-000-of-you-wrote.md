@@ -3,7 +3,7 @@ title: "1 of the 10,000 of you wrote . . ."
 slug: "1-of-the-10-000-of-you-wrote"
 date: 2021-11-18
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | ---\"Questions can lead us as well as any answer\" . . ."
 license: CC-BY-4.0

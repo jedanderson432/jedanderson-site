@@ -3,7 +3,7 @@ title: "&quot;I feel that I must protect you and your family . . . regardless of
 slug: "quot-i-feel-that-i-must-protect-you-and-your-family-regardless-of-whether-you-wa-2"
 date: 2022-08-05
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "Thomas Merton . . . “Love is, in fact, an intensification of life, a completeness, a fullness, a wholeness of life.”– Thomas Merton | | | |"
 license: CC-BY-4.0

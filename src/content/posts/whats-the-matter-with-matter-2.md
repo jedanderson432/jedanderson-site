@@ -3,7 +3,7 @@ title: "What's the matter? . . . with matter?"
 slug: "whats-the-matter-with-matter-2"
 date: 2022-07-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "1960 to 2022 . . . Protecting the Environment with Matter . . . . 2022 and beyond . . . Protect the Environment with Information | | | |"
 license: CC-BY-4.0

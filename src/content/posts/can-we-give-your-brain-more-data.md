@@ -3,7 +3,7 @@ title: "Can we give your brain more data?"
 slug: "can-we-give-your-brain-more-data"
 date: 2020-02-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Augmenting Human EHS Intelligence | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |…"
 license: CC-BY-4.0

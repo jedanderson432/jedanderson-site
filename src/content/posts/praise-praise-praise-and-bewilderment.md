@@ -3,7 +3,7 @@ title: "Praise. Praise. Praise . . . and BEWILDERMENT!!!"
 slug: "praise-praise-praise-and-bewilderment"
 date: 2022-06-03
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Job's Response in light of Quantum Field Theory | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

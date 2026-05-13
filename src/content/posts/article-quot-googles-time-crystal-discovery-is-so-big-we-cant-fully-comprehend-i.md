@@ -3,7 +3,7 @@ title: "Article: &quot;Google’s time crystal discovery is so big, we can’t f
 slug: "article-quot-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-i"
 date: 2021-08-02
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . I can comprehend it though I don't understand it . . . and its illogical, weird, absurd . . . and true."
 license: CC-BY-4.0

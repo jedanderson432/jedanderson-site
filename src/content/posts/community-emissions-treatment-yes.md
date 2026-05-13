@@ -3,7 +3,7 @@ title: "Community emissions treatment??? . . . Yes!!!!!!!!!!!!!!!"
 slug: "community-emissions-treatment-yes"
 date: 2020-10-16
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Our initial $224,400 investment . . ."
 license: CC-BY-4.0

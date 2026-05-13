@@ -3,7 +3,7 @@ title: "Automate. Digitalize."
 slug: "automate-digitalize"
 date: 2020-04-01
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | EHS in a Post-Covid 19 World | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

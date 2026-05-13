@@ -3,7 +3,7 @@ title: "Flood/Hurricane . . . and Covid-19???"
 slug: "flood-hurricane-and-covid-19"
 date: 2020-03-17
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | 2 emergencies at once? Is Houston prepared? Enter artificial intelligence."
 license: CC-BY-4.0

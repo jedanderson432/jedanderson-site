@@ -3,7 +3,7 @@ title: "WSJ: &quot;Google announces . . ."
 slug: "wsj-quot-google-announces"
 date: 2021-05-20
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | New \"Quantum AI Campus\" in Santa Barbara and Plan to Build 1 Million Qubit Error-Free Machine by 2029 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |…"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "&quot;I'm sometimes not convinced that companies like money&quot; . . ."
 slug: "quot-im-sometimes-not-convinced-that-companies-like-money-quot"
 date: 2021-06-08
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Data. Machine-learning."
 license: CC-BY-4.0

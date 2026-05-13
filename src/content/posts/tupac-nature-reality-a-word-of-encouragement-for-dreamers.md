@@ -3,7 +3,7 @@ title: "Tupac. Nature. Reality. . . . . A word of encouragement for dreamers!"
 slug: "tupac-nature-reality-a-word-of-encouragement-for-dreamers"
 date: 2020-07-26
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --…"
 license: CC-BY-4.0

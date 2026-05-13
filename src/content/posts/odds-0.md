@@ -3,7 +3,7 @@ title: "Odds = 0%"
 slug: "odds-0"
 date: 2021-11-06
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"The odds of humanity surviving without AI is 0%.\"---NASA rocket all fueled and ready for November 25th launch--Double Asteroid Redirection Test Mission----Autonomous SMART Nav (Small-bo…"
 license: CC-BY-4.0

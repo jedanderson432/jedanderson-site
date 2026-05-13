@@ -3,7 +3,7 @@ title: "Abraham Lincoln or Jed Anderson?"
 slug: "abraham-lincoln-or-jed-anderson"
 date: 2021-12-15
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | . . . \"Sharpen the axe\" or come up with a better way to get more work done?"
 license: CC-BY-4.0

@@ -3,7 +3,7 @@ title: "Follower or Leader?"
 slug: "follower-or-leader"
 date: 2020-08-27
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Environmental Leaders for the 21st Century | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

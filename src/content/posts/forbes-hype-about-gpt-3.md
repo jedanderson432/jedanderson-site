@@ -3,7 +3,7 @@ title: "Forbes---Hype about GPT-3"
 slug: "forbes-hype-about-gpt-3"
 date: 2020-11-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | \"EnviroAI to use new language generator to help write permits\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | -…"
 license: CC-BY-4.0

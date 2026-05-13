@@ -3,7 +3,7 @@ title: "Is your company falling behind in environmental? . . ."
 slug: "is-your-company-falling-behind-in-environmental"
 date: 2020-08-10
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Gartner. Forbes. McKinsey. PWC."
 license: CC-BY-4.0

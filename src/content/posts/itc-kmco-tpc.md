@@ -3,7 +3,7 @@ title: "ITC . . . KMCO . . . TPC . . . ?"
 slug: "itc-kmco-tpc"
 date: 2020-03-09
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Using Artificial intelligence and Environmental Data to Help Predict and Prevent Against Another Plant Explosion . . ."
 license: CC-BY-4.0

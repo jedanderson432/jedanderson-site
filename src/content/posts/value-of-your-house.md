@@ -3,7 +3,7 @@ title: "Value of your house?"
 slug: "value-of-your-house"
 date: 2020-06-29
 type: post
-status: published
+status: draft
 tags: ["faith", "constant-contact-archive"]
 abstract: "| | | --- | | Appraisal info. Environmental info."
 license: CC-BY-4.0
