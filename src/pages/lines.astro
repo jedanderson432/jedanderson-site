@@ -1,0 +1,262 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { loadLines } from '../lib/lines';
+
+const lines = loadLines();
+
+// Resolve essay titles for any line with from !== "standalone".
+const essays = await getCollection('essays');
+const essayBySlug = new Map<string, any>();
+for (const e of essays) essayBySlug.set(e.slug, e);
+
+type Resolved = {
+  text: string;
+  anchor: string;
+  fromSlug: string;
+  essayTitle: string | null;
+};
+
+const resolved: Resolved[] = lines.map((l) => {
+  if (l.from === 'standalone') {
+    return { text: l.text, anchor: l.anchor, fromSlug: l.from, essayTitle: null };
+  }
+  const essay = essayBySlug.get(l.from);
+  if (!essay) {
+    console.warn(
+      `[lines] from-slug "${l.from}" (anchor: ${l.anchor}) did not resolve to an essay; treating as standalone.`
+    );
+    return { text: l.text, anchor: l.anchor, fromSlug: 'standalone', essayTitle: null };
+  }
+  return {
+    text: l.text,
+    anchor: l.anchor,
+    fromSlug: l.from,
+    essayTitle: essay.data.title as string,
+  };
+});
+
+const description = 'Sentences that carry the thesis. Each links to the essay it distills.';
+---
+
+<BaseLayout
+  title="Lines"
+  description={description}
+  ogImage="/og-lines.png"
+>
+  <article class="mx-auto max-w-3xl px-4 py-12">
+    <h1 class="font-serif text-4xl text-ink mb-3">Lines</h1>
+    <p class="page-intro text-muted mb-10">{description}</p>
+
+    {resolved.length === 0 && (
+      <p class="text-muted">No lines yet.</p>
+    )}
+
+    <div class="lines-list">
+      {resolved.map((l) => (
+        <article id={l.anchor} class="line-block">
+          <blockquote class="line">
+            <p>“{l.text}”</p>
+          </blockquote>
+          <div class="line-meta">
+            <p class="attribution">— Jed Anderson</p>
+            {l.essayTitle && (
+              <p class="from">
+                From: <a href={`/essays/${l.fromSlug}`}>{l.essayTitle}</a>
+              </p>
+            )}
+            <button
+              type="button"
+              class="copy-link"
+              data-anchor={l.anchor}
+              aria-label="Copy link to this line"
+            >
+              <svg
+                class="copy-link-icon"
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 1 0-7.07-7.07l-1.5 1.5"></path>
+                <path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 1 0 7.07 7.07l1.5-1.5"></path>
+              </svg>
+              <span class="copy-link-label">Copy link</span>
+            </button>
+          </div>
+        </article>
+      ))}
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .lines-list {
+    /* hairline rule on top so the first block has the same visual frame */
+    border-top: 1px solid theme('colors.rule', #e6e3da);
+  }
+
+  .line-block {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid #e6e3da;
+    scroll-margin-top: 5rem;
+  }
+
+  /* Highlight the linked block briefly so deep-links land obviously. */
+  .line-block:target {
+    background: rgba(122, 90, 58, 0.06);
+  }
+
+  .line {
+    margin: 0;
+    padding: 0;
+    border: none;
+    color: #1a1a1a;
+    font-style: normal;
+    font-family: 'Iowan Old Style', Palatino, Georgia, serif;
+  }
+
+  .line p {
+    font-size: 1.25rem;
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  @media (min-width: 768px) {
+    .line p {
+      font-size: 1.35rem;
+      line-height: 1.5;
+    }
+  }
+
+  .line-meta {
+    margin-top: 1.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 1rem;
+  }
+
+  .line-meta .attribution {
+    margin: 0;
+    font-size: 0.875rem;
+    color: #6b6b6b;
+  }
+
+  .line-meta .from {
+    margin: 0;
+    font-size: 0.8125rem;
+    color: #8a8a8a;
+  }
+
+  .line-meta .from a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid #e6e3da;
+  }
+
+  .line-meta .from a:hover {
+    color: #7a5a3a;
+    border-bottom-color: #7a5a3a;
+  }
+
+  .copy-link {
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: none;
+    border: none;
+    padding: 0.25rem 0.4rem;
+    font-size: 0.75rem;
+    color: #8a8a8a;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: color 120ms ease, opacity 120ms ease, background 120ms ease;
+  }
+
+  .copy-link:hover {
+    color: #7a5a3a;
+    background: rgba(122, 90, 58, 0.06);
+  }
+
+  .copy-link-label {
+    font-family: 'Iowan Old Style', Palatino, Georgia, serif;
+  }
+
+  /* Hover-to-reveal on desktop; always visible on mobile. */
+  @media (hover: hover) and (min-width: 768px) {
+    .copy-link {
+      opacity: 0;
+    }
+    .line-block:hover .copy-link,
+    .copy-link:focus-visible,
+    .line-block:target .copy-link {
+      opacity: 1;
+    }
+  }
+
+  .copy-link[data-copied="true"] {
+    color: #7a5a3a;
+  }
+</style>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const buttons = document.querySelectorAll('.copy-link');
+
+    function fallbackCopy(text) {
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'absolute';
+      ta.style.left = '-9999px';
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand('copy');
+      } catch (_) {
+        /* ignore */
+      }
+      document.body.removeChild(ta);
+    }
+
+    function flash(btn) {
+      const label = btn.querySelector('.copy-link-label');
+      const prev = label ? label.textContent : null;
+      if (label) label.textContent = 'Copied';
+      btn.setAttribute('data-copied', 'true');
+      setTimeout(() => {
+        if (label && prev !== null) label.textContent = prev;
+        btn.removeAttribute('data-copied');
+      }, 2000);
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const anchor = btn.getAttribute('data-anchor');
+        if (!anchor) return;
+        const url = `${window.location.origin}/lines#${anchor}`;
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(url).then(
+            () => flash(btn),
+            () => {
+              fallbackCopy(url);
+              flash(btn);
+            }
+          );
+        } else {
+          fallbackCopy(url);
+          flash(btn);
+        }
+      });
+    });
+  });
+</script>
