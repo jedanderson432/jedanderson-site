@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { SITE, COLLECTIONS } from '../site-config';
 import { canonicalFor } from '../lib/canonical';
 import { effectiveDate } from '../lib/dates';
+import { loadLines } from '../lib/lines';
 
 const COLLECTION_HEADINGS: Record<string, string> = {
   essays: 'Essays',
@@ -97,6 +98,18 @@ export const GET: APIRoute = async () => {
 
   sections.push(`## About`);
   sections.push(`- [About](${SITE.url}/about): ${SITE.description}\n`);
+
+  const lines = loadLines();
+  if (lines.length > 0) {
+    sections.push(`## Lines`);
+    sections.push(
+      `- [Lines](${SITE.url}/lines): Compressed thesis lines from the corpus. Each links to the essay it distills.`
+    );
+    for (const ln of lines) {
+      sections.push(`  - [${SITE.url}/lines#${ln.anchor}](${SITE.url}/lines#${ln.anchor}): ${ln.text}`);
+    }
+    sections.push('');
+  }
 
   sections.push(`## Key Named Concepts`);
   sections.push(
