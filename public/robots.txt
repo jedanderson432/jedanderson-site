@@ -14,11 +14,11 @@ User-agent: Claude-User
 Allow: /
 Crawl-delay: 1
 
-User-agent: Claude-Web
+User-agent: Claude-SearchBot
 Allow: /
 Crawl-delay: 1
 
-User-agent: anthropic-ai
+User-agent: Claude-Web
 Allow: /
 Crawl-delay: 1
 
@@ -59,6 +59,10 @@ Allow: /
 Crawl-delay: 1
 
 User-agent: Bytespider
+Allow: /
+Crawl-delay: 1
+
+User-agent: Amazonbot
 Allow: /
 Crawl-delay: 1
 

@@ -38,6 +38,10 @@ A repository-level [`CITATION.cff`](./CITATION.cff) is provided for tools that p
 
 Source markdown lives in `src/content/{essays,papers,posts,notes,letters,speeches,books}/`. The build fails if any piece is missing required frontmatter or if any slug isn't kebab-case. That's the discipline that keeps the corpus clean as it grows.
 
+## Analytics
+
+The site uses [Netlify Analytics](https://www.netlify.com/products/analytics/) — server-side, log-based, no cookies, no client-side tracking JavaScript. This is intentional: the corpus is built to be readable by anything (including agents that don't run JS), and a tracking script would bias measurement toward human browsers and add a privacy footprint that conflicts with the site's longevity posture. AI bot traffic is captured as part of the standard user-agent breakdown — see [`docs/ANALYTICS.md`](./docs/ANALYTICS.md) for the crawlers being watched and why that signal matters more than human pageviews.
+
 ## How to add a new piece
 
 1. Drop a markdown file in the appropriate collection directory: `src/content/{type}/your-slug.md`.
