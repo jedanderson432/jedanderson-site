@@ -40,7 +40,7 @@ Source markdown lives in `src/content/{essays,papers,posts,notes,letters,speeche
 
 ## Analytics
 
-The site uses [Netlify Analytics](https://www.netlify.com/products/analytics/) — server-side, log-based, no cookies, no client-side tracking JavaScript. This is intentional: the corpus is built to be readable by anything (including agents that don't run JS), and a tracking script would bias measurement toward human browsers and add a privacy footprint that conflicts with the site's longevity posture. AI bot traffic is captured as part of the standard user-agent breakdown — see [`docs/ANALYTICS.md`](./docs/ANALYTICS.md) for the crawlers being watched and why that signal matters more than human pageviews.
+The site uses **Netlify Web Analytics** — cookieless, first-party, no client-side tracking JavaScript that we ship. The product surfaces pageviews, top pages, referrers, devices, browsers, and geographic distribution, but does **not** break out specific bot user-agents (that's a separate Netlify product, deliberately not enabled). See [`docs/WEB_ANALYTICS.md`](./docs/WEB_ANALYTICS.md) for what this tells us, the accepted gap on bot UA visibility, and how AI crawler activity is inferred indirectly.
 
 ## How to add a new piece
 
