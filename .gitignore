@@ -5,7 +5,8 @@ dist
 .DS_Store
 .netlify
 .astro
-.claude/
+.claude/*
+!.claude/commands/
 
 # Source PDFs at repo root — published versions live in /public/pdfs/
 /The-First-Defender.pdf
