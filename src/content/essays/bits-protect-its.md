@@ -13,6 +13,7 @@ hero_image: "/images/bits-protect-its-hero.jpg"
 hero_image_alt: "Cover of Bits Protect Its—deep navy with cyan and gold typography. 'Bits Protect' set in italic serif gold, 'Its' in italic cyan. Eyebrow: An essay by Jed Anderson. Subtitle: Why environmental superintelligence is not a preference, not a prediction, but a physical necessity—derived from the thermodynamics of information, the structure of Earth-system complexity, and the arrival, at long last, of instruments that can match the speed of nature. Marked No. 01 · Foundational; jedanderson.org · Houston · 2026."
 interactive_url: "/visual-essays/bits-protect-its/"
 interactive_cta: "Read the visual essay →"
+start_here_order: 1
 ---
 
 For twenty-seven years I have practiced inside the environmental regulatory system, and what I want to tell you, after a career of watching dedicated people work as fast as human cognition allows against systems that move at the speed of physics, is that something has changed—quietly, in the last few years, the technology required to operate at the speed of nature itself has begun to exist, and everything else in this essay follows from that single fact.

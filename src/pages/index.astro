@@ -17,11 +17,19 @@ for (const c of COLLECTIONS) {
 // pollute Recent with their 2026 ingestion date. Same convention used in
 // /posts, /archive, llms.txt, and feed.xml.
 const sorted = all.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));
-// "Start here" is driven exclusively by the `cornerstone` tag — the three
-// editorial picks (Universe is Information, First Defender, Intelligence
-// Leverage Equation). Other on-ramps like the Walk visual essay surface
-// via Foundational treatises and the essays index, not here.
-const cornerstone = sorted.filter((e) => e.data.tags?.includes('cornerstone'));
+// "Start here" is driven exclusively by the `cornerstone` tag. Order is
+// editorial — set per-essay via the `start_here_order` integer in
+// frontmatter (1 = lead). Cornerstones without the field fall to the
+// bottom in date-desc order (the default `sorted` order).
+const cornerstone = sorted
+  .filter((e) => e.data.tags?.includes('cornerstone'))
+  .sort((a, b) => {
+    const ao = a.data.start_here_order ?? Number.POSITIVE_INFINITY;
+    const bo = b.data.start_here_order ?? Number.POSITIVE_INFINITY;
+    if (ao !== bo) return ao - bo;
+    // Tie-break: keep date-desc for any unordered cornerstones.
+    return +effectiveDate(b) - +effectiveDate(a);
+  });
 const foundational = sorted.filter(
   (e) => e.data.tags?.includes('foundational') && !e.data.tags?.includes('cornerstone'),
 );
