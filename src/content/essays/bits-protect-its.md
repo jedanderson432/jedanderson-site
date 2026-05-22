@@ -10,7 +10,7 @@ abstract: "The full treatise behind the site's thesis. Walks the planetary regul
 license: CC-BY-4.0
 pdf: "/pdfs/bits-protect-its.pdf"
 hero_image: "/images/bits-protect-its-hero.jpg"
-hero_image_alt: "Cover of Bits Protect Its—deep navy with cyan and gold typography. 'Bits Protect' set in italic serif gold, 'Its' in italic cyan. Eyebrow: An essay by Jed Anderson. Subtitle: Why environmental superintelligence is not a preference, not a prediction, but a physical necessity—derived from the thermodynamics of information, the structure of Earth-system complexity, and the arrival, at long last, of instruments that can match the speed of nature. Marked No. 01 · Foundational; jedanderson.org · Houston · 2026."
+hero_image_alt: "Portrait cover of Bits Protect Its—deep navy with cyan and gold typography. Large two-line serif title: 'Bits Protect' set in gold, 'Its' in italic cyan beneath. Eyebrow: An essay by Jed Anderson. Subtitle: Why environmental superintelligence is not a preference, not a prediction, but a physical necessity—derived from the thermodynamics of information, the structure of Earth-system complexity, and the arrival, at long last, of instruments that can match the speed of nature. Marked No. 01 · Foundational; jedanderson.org · Houston · 2026."
 interactive_url: "/visual-essays/bits-protect-its/"
 interactive_cta: "Read the visual essay →"
 start_here_order: 1
