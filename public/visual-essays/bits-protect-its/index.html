@@ -1,0 +1,876 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Bits Protect Its — Why Environmental Superintelligence Is a Physical Necessity</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a1020;
+    --bg-2:#0a1628;
+    --card:#0f1729;
+    --border:#1f2940;
+    --border-soft:#16203a;
+    --cyan:#3FC5D5;
+    --cyan-deep:#1A6B72;
+    --accent:#00BCD4;
+    --navy:#1B3A5C;
+    --gold:#d4b072;
+    --green:#5ed8a8;
+    --muted:#8896AC;
+    --text:#e8eef7;
+    --text-dim:#aab4c6;
+    --serif:'Instrument Serif', 'Times New Roman', serif;
+    --sans:'Inter', system-ui, sans-serif;
+    --mono:'JetBrains Mono', 'Courier New', monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:var(--bg);color:var(--text);font-family:var(--sans);font-weight:300;line-height:1.7;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  body{
+    background:
+      radial-gradient(ellipse 80% 50% at 50% -10%, rgba(63,197,213,0.08), transparent 60%),
+      radial-gradient(ellipse 60% 40% at 100% 20%, rgba(26,107,114,0.06), transparent 60%),
+      var(--bg);
+    min-height:100vh;
+    overflow-x:hidden;
+  }
+  body::before{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:1;
+    background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/><feColorMatrix values='0 0 0 0 0.2 0 0 0 0 0.4 0 0 0 0 0.6 0 0 0 0.04 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+    opacity:0.5;
+  }
+  main{position:relative;z-index:2}
+
+  /* ============ COVER ============ */
+  .cover{
+    min-height:100vh;
+    display:flex;flex-direction:column;justify-content:space-between;
+    padding:5vw 7vw;
+    position:relative;
+    background:
+      radial-gradient(ellipse 90% 70% at 50% 30%, rgba(63,197,213,0.12), transparent 65%),
+      linear-gradient(180deg, var(--bg-2) 0%, var(--bg) 100%);
+    border-bottom:1px solid var(--border);
+  }
+  .cover-meta{
+    display:flex;justify-content:space-between;align-items:center;
+    font-family:var(--mono);font-size:0.72rem;letter-spacing:0.18em;text-transform:uppercase;
+    color:var(--cyan);opacity:0.7;
+  }
+  .cover-meta .right{color:var(--muted)}
+  .cover-center{margin:auto 0;max-width:1100px}
+  .cover-eyebrow{
+    font-family:var(--mono);font-size:0.78rem;letter-spacing:0.32em;text-transform:uppercase;
+    color:var(--cyan);margin-bottom:2.2rem;display:flex;align-items:center;gap:1rem;
+  }
+  .cover-eyebrow::before,.cover-eyebrow::after{content:"";flex:0 0 38px;height:1px;background:var(--cyan);opacity:0.6}
+  .cover-eyebrow::after{flex:1}
+  .cover-title{
+    font-family:var(--serif);
+    font-size:clamp(3.4rem, 10vw, 8.5rem);
+    line-height:0.92;font-weight:400;letter-spacing:-0.02em;
+    background:linear-gradient(180deg, #f4e9d4 0%, #d4b072 100%);
+    -webkit-background-clip:text;background-clip:text;color:transparent;
+    margin-bottom:0.4rem;
+  }
+  .cover-title em{font-style:italic;color:var(--cyan);background:none;-webkit-text-fill-color:var(--cyan)}
+  .cover-sub{
+    font-family:var(--serif);font-style:italic;
+    font-size:clamp(1.3rem,2.6vw,2rem);
+    color:var(--text-dim);max-width:780px;line-height:1.3;margin-top:1.8rem;
+    font-weight:400;
+  }
+  .cover-rule{
+    width:80px;height:2px;background:var(--cyan);margin-top:2.4rem;
+  }
+  .cover-author{
+    display:flex;justify-content:space-between;align-items:flex-end;
+    font-family:var(--mono);font-size:0.76rem;letter-spacing:0.18em;text-transform:uppercase;
+    color:var(--muted);
+  }
+  .cover-author .name{color:var(--text);font-size:0.95rem;letter-spacing:0.22em}
+
+  /* ============ SECTION SCAFFOLD ============ */
+  .section{
+    padding:8vw 7vw;
+    max-width:1100px;margin:0 auto;
+    position:relative;
+  }
+  .section-rule{
+    display:flex;align-items:center;gap:1.2rem;margin-bottom:3rem;
+    font-family:var(--mono);font-size:0.72rem;letter-spacing:0.3em;text-transform:uppercase;
+    color:var(--cyan);
+  }
+  .section-rule::before{content:"";width:48px;height:1px;background:var(--cyan)}
+  .section-rule::after{content:"";flex:1;height:1px;background:var(--border)}
+  .section-num{
+    font-family:var(--serif);font-style:italic;color:var(--gold);
+    font-size:1.1rem;margin-right:0.8rem;
+  }
+  .section-title{
+    font-family:var(--serif);font-weight:400;
+    font-size:clamp(2.4rem,5.5vw,4.2rem);
+    line-height:1.02;letter-spacing:-0.015em;
+    margin-bottom:2.2rem;
+    color:var(--text);
+  }
+  .section-title em{font-style:italic;color:var(--cyan)}
+  p{
+    font-size:clamp(1.05rem,1.18vw,1.18rem);
+    line-height:1.78;
+    color:var(--text-dim);
+    margin-bottom:1.7rem;
+    max-width:72ch;
+  }
+  p strong{color:var(--text);font-weight:500}
+  p em{color:var(--text);font-style:italic;font-family:var(--serif);font-size:1.06em}
+
+  /* OPENING SENTENCE */
+  .opener{
+    font-family:var(--serif);font-style:italic;font-weight:400;
+    font-size:clamp(1.5rem,2.4vw,2.1rem);
+    line-height:1.4;
+    color:var(--text);
+    max-width:42ch;
+    padding-left:1.4rem;
+    border-left:2px solid var(--cyan);
+    margin:0 0 3.4rem 0;
+  }
+  .opener strong{font-style:normal;color:var(--cyan);font-weight:500}
+
+  /* ============ NAAQS TIMELINE — THE HEALTH-TO-FACILITY LOOP ============ */
+  .naaqs-card{
+    margin:3rem 0 4rem;
+    border:1px solid var(--border);background:var(--card);
+    border-radius:2px;overflow:hidden;
+  }
+  .naaqs-head{
+    padding:1.6rem 2.2rem;
+    border-bottom:1px solid var(--border);
+    background:linear-gradient(90deg, rgba(63,197,213,0.06), transparent);
+    display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:0.6rem;
+    font-family:var(--mono);font-size:0.72rem;letter-spacing:0.22em;text-transform:uppercase;
+  }
+  .naaqs-head .label{color:var(--cyan)}
+  .naaqs-head .scope{color:var(--gold)}
+  .naaqs-body{padding:2.4rem 2.2rem 1rem}
+  .naaqs-line{
+    position:relative;padding-left:2.8rem;padding-bottom:1.8rem;
+    border-left:1px solid var(--border);
+    margin-left:0.9rem;
+  }
+  .naaqs-line:last-of-type{padding-bottom:0.6rem}
+  .naaqs-line::before{
+    content:"";position:absolute;left:-5px;top:0.4rem;
+    width:9px;height:9px;border-radius:50%;
+    background:var(--cyan);box-shadow:0 0 0 3px rgba(63,197,213,0.15);
+  }
+  .naaqs-line .yr{
+    font-family:var(--mono);font-size:0.78rem;color:var(--gold);
+    letter-spacing:0.12em;margin-bottom:0.35rem;
+  }
+  .naaqs-line .ev{
+    font-family:var(--serif);font-size:1.18rem;color:var(--text);line-height:1.35;margin-bottom:0.3rem;
+  }
+  .naaqs-line .src{
+    font-family:var(--mono);font-size:0.7rem;color:var(--muted);letter-spacing:0.04em;
+  }
+  .naaqs-line.science::before{background:var(--gold);box-shadow:0 0 0 3px rgba(212,176,114,0.18)}
+  .naaqs-line.rule::before{background:var(--cyan)}
+  .naaqs-line.facility::before{background:var(--green);box-shadow:0 0 0 3px rgba(94,216,168,0.15)}
+  .naaqs-foot{
+    margin-top:0.5rem;padding:1.8rem 2.2rem;border-top:1px solid var(--border);
+    display:grid;grid-template-columns:1fr 1fr;gap:1.4rem;
+    background:linear-gradient(180deg, rgba(10,16,32,0.4), transparent);
+  }
+  .naaqs-stat{padding:0.4rem}
+  .naaqs-stat .nm{
+    font-family:var(--mono);font-size:0.7rem;color:var(--cyan);letter-spacing:0.18em;text-transform:uppercase;margin-bottom:0.6rem;
+  }
+  .naaqs-stat .vl{
+    font-family:var(--serif);font-size:clamp(1.8rem,3vw,2.6rem);color:var(--gold);line-height:1;letter-spacing:-0.01em;margin-bottom:0.5rem;
+  }
+  .naaqs-stat .dc{font-size:0.84rem;color:var(--text-dim);line-height:1.55}
+
+  /* PHYSICS CALLOUT */
+  .physics-card{
+    margin:4.5rem 0;padding:0;
+    border:1px solid var(--border);background:var(--card);
+    border-radius:2px;overflow:hidden;
+  }
+  .physics-header{
+    padding:1.6rem 2.2rem;
+    border-bottom:1px solid var(--border);
+    background:linear-gradient(90deg, rgba(63,197,213,0.06), transparent);
+    display:flex;justify-content:space-between;align-items:center;
+    font-family:var(--mono);font-size:0.72rem;letter-spacing:0.22em;text-transform:uppercase;
+  }
+  .physics-header .label{color:var(--cyan)}
+  .physics-header .status{color:var(--gold);font-style:normal}
+  .physics-header .status::before{content:"●";color:var(--green);margin-right:0.5rem;font-size:0.8em}
+  .physics-body{padding:2.4rem 2.2rem;display:grid;grid-template-columns:1fr 1fr;gap:1.4rem}
+  .physics-line{padding:1.4rem 1.6rem;background:rgba(10,16,32,0.5);border:1px solid var(--border-soft);border-radius:2px}
+  .physics-line .head{
+    font-family:var(--mono);font-size:0.7rem;color:var(--cyan);
+    letter-spacing:0.18em;text-transform:uppercase;margin-bottom:0.8rem;
+  }
+  .physics-line .eq{
+    font-family:var(--mono);font-size:1rem;color:var(--text);
+    margin-bottom:0.4rem;letter-spacing:0.02em;
+  }
+  .physics-line .val{
+    font-family:var(--serif);font-size:1.7rem;color:var(--gold);font-weight:400;
+  }
+  .physics-line .note{
+    font-family:var(--sans);font-size:0.82rem;color:var(--muted);margin-top:0.6rem;line-height:1.5;
+  }
+  .physics-ratio{
+    grid-column:1 / -1;
+    padding:1.8rem;
+    text-align:center;
+    background:linear-gradient(90deg, rgba(63,197,213,0.04), rgba(212,176,114,0.04));
+    border:1px solid var(--cyan-deep);border-radius:2px;
+  }
+  .physics-ratio .lab{
+    font-family:var(--mono);font-size:0.7rem;color:var(--cyan);letter-spacing:0.22em;text-transform:uppercase;
+    margin-bottom:0.6rem;
+  }
+  .physics-ratio .val{
+    font-family:var(--serif);font-size:clamp(2.4rem,4.5vw,3.6rem);color:var(--text);font-weight:400;
+    line-height:1;letter-spacing:-0.01em;
+  }
+  .physics-ratio .val em{color:var(--cyan);font-style:italic}
+  .physics-ratio .sub{
+    font-family:var(--sans);font-size:0.92rem;color:var(--text-dim);margin-top:0.8rem;
+  }
+  .physics-foot{
+    padding:1.2rem 2.2rem;border-top:1px solid var(--border);
+    font-family:var(--mono);font-size:0.7rem;color:var(--muted);letter-spacing:0.06em;line-height:1.6;
+  }
+
+  /* MARQUEE PULL QUOTE */
+  .pullquote{
+    margin:5rem -2rem;
+    padding:4rem 2rem;
+    text-align:center;
+    border-top:1px solid var(--border);border-bottom:1px solid var(--border);
+    position:relative;
+  }
+  .pullquote::before{
+    content:"❞";position:absolute;top:1rem;left:50%;transform:translateX(-50%);
+    font-family:var(--serif);font-size:3rem;color:var(--cyan);opacity:0.5;
+  }
+  .pullquote p{
+    font-family:var(--serif);font-style:italic;font-weight:400;
+    font-size:clamp(1.6rem,3.2vw,2.6rem);
+    line-height:1.32;color:var(--text);
+    max-width:30ch;margin:1.5rem auto 0;
+  }
+  .pullquote.bare{border-top:none;border-bottom:none;background:transparent}
+  .pullquote.wide p{max-width:38ch}
+  .pullquote .attr{
+    display:block;margin-top:1.6rem;
+    font-family:var(--mono);font-size:0.7rem;letter-spacing:0.22em;text-transform:uppercase;
+    color:var(--muted);font-style:normal;
+  }
+
+  /* TWO EXPONENTIALS VISUAL */
+  .exponentials{
+    margin:4rem 0;padding:2.6rem 2.4rem;
+    border:1px solid var(--border);background:var(--card);border-radius:2px;
+  }
+  .exp-head{
+    font-family:var(--mono);font-size:0.72rem;letter-spacing:0.22em;text-transform:uppercase;
+    color:var(--cyan);margin-bottom:2rem;display:flex;justify-content:space-between;
+  }
+  .exp-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.4rem}
+  .exp-card{padding:1.6rem;background:rgba(10,16,32,0.5);border:1px solid var(--border-soft);border-radius:2px}
+  .exp-card .axis{
+    font-family:var(--serif);font-style:italic;font-size:1.1rem;color:var(--gold);margin-bottom:0.4rem;
+  }
+  .exp-card .name{
+    font-family:var(--serif);font-size:1.5rem;color:var(--text);margin-bottom:1rem;line-height:1.2;
+  }
+  .exp-card .rate{
+    font-family:var(--mono);font-size:0.95rem;color:var(--cyan);margin-bottom:0.4rem;
+  }
+  .exp-card .ev{
+    font-size:0.86rem;color:var(--text-dim);line-height:1.6;margin-top:0.6rem;
+  }
+  .exp-foot{
+    margin-top:1.6rem;padding-top:1.4rem;border-top:1px solid var(--border);
+    font-family:var(--mono);font-size:0.75rem;letter-spacing:0.06em;color:var(--muted);text-align:center;
+  }
+  .exp-foot strong{color:var(--cyan);font-weight:500;letter-spacing:0.18em;text-transform:uppercase}
+
+  /* DEPLOYED-SYSTEMS GRID */
+  .systems{
+    margin:3.4rem 0 2rem;display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;
+  }
+  .sys{
+    padding:1.4rem 1.5rem;border:1px solid var(--border-soft);background:rgba(15,23,41,0.4);
+    border-radius:2px;
+  }
+  .sys .nm{
+    font-family:var(--serif);font-size:1.25rem;color:var(--cyan);margin-bottom:0.3rem;
+  }
+  .sys .desc{font-size:0.86rem;color:var(--text-dim);line-height:1.55}
+  .sys .cite{font-family:var(--mono);font-size:0.66rem;color:var(--muted);letter-spacing:0.04em;margin-top:0.5rem}
+
+  /* ============ SELF-REGULATION LOOP DIAGRAM ============ */
+  .selfreg-diag{
+    margin:3rem 0 4rem;
+    padding:2.4rem 2rem;
+    border:1px solid var(--cyan-deep);
+    background:linear-gradient(135deg, rgba(63,197,213,0.04) 0%, rgba(15,23,41,0.6) 100%);
+    border-radius:2px;
+    text-align:center;
+  }
+  .selfreg-diag .nm{
+    font-family:var(--mono);font-size:0.72rem;letter-spacing:0.28em;text-transform:uppercase;
+    color:var(--cyan);margin-bottom:2.2rem;
+  }
+  .selfreg-svg{max-width:680px;width:100%;height:auto;margin:0 auto;display:block}
+  .selfreg-diag .cap{
+    margin-top:1.8rem;font-family:var(--serif);font-style:italic;font-size:1.05rem;
+    color:var(--text-dim);max-width:60ch;margin-left:auto;margin-right:auto;line-height:1.5;
+  }
+
+  /* ============ THREE TRUTHS ============ */
+  .truths{margin:3.4rem 0;display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+  .truth{
+    padding:2rem 1.6rem;
+    border:1px solid var(--border);
+    background:var(--card);
+    border-radius:2px;
+    display:flex;flex-direction:column;
+  }
+  .truth .roman{
+    font-family:var(--serif);font-style:italic;
+    font-size:2.4rem;color:var(--gold);line-height:1;margin-bottom:0.4rem;
+  }
+  .truth .lbl{
+    font-family:var(--mono);font-size:0.66rem;letter-spacing:0.22em;text-transform:uppercase;
+    color:var(--cyan);margin-bottom:1.2rem;
+  }
+  .truth .ttl{
+    font-family:var(--serif);font-size:1.3rem;line-height:1.25;color:var(--text);
+    margin-bottom:1rem;
+  }
+  .truth .ttl em{color:var(--cyan);font-style:italic}
+  .truth .bd{
+    font-size:0.88rem;color:var(--text-dim);line-height:1.65;
+  }
+  .truth .bd strong{color:var(--text);font-weight:500}
+
+  /* THREE-TIER LADDER */
+  .ladder{margin:3.4rem 0;display:flex;flex-direction:column;gap:0.8rem}
+  .rung{
+    display:grid;grid-template-columns:auto 1fr;gap:1.6rem;align-items:flex-start;
+    padding:1.6rem 1.8rem;
+    border:1px solid var(--border-soft);background:rgba(15,23,41,0.35);border-radius:2px;
+  }
+  .rung.strong{border-color:var(--cyan-deep);background:linear-gradient(90deg, rgba(63,197,213,0.05), rgba(15,23,41,0.35))}
+  .rung .level{
+    font-family:var(--mono);font-size:0.7rem;letter-spacing:0.2em;text-transform:uppercase;
+    padding:0.4rem 0.7rem;border:1px solid var(--cyan);color:var(--cyan);border-radius:2px;white-space:nowrap;align-self:flex-start;
+  }
+  .rung.strong .level{background:var(--cyan);color:var(--bg-2)}
+  .rung .body .claim{font-family:var(--serif);font-size:1.2rem;color:var(--text);margin-bottom:0.5rem;line-height:1.3}
+  .rung .body .status{font-size:0.86rem;color:var(--text-dim);line-height:1.6}
+
+  /* CLOSING */
+  .closing{
+    min-height:60vh;
+    padding:9vw 7vw 7vw;
+    display:flex;flex-direction:column;justify-content:center;
+    border-top:1px solid var(--border);
+    background:radial-gradient(ellipse 70% 60% at 50% 50%, rgba(63,197,213,0.05), transparent 70%);
+    text-align:center;
+  }
+  .closing-mark{font-family:var(--serif);color:var(--cyan);font-size:2.2rem;letter-spacing:1rem;margin-bottom:2.4rem;opacity:0.8}
+  .closing-line{
+    font-family:var(--serif);font-style:italic;font-weight:400;
+    font-size:clamp(2rem,4vw,3.4rem);
+    line-height:1.25;color:var(--text);
+    max-width:24ch;margin:0 auto;
+  }
+  .closing-line em{color:var(--cyan);font-style:italic}
+  .closing-sig{
+    margin-top:5rem;
+    font-family:var(--mono);font-size:0.74rem;letter-spacing:0.32em;text-transform:uppercase;
+    color:var(--muted);
+  }
+  .closing-sig .nm{color:var(--gold);display:block;font-size:0.86rem;margin-top:0.4rem;letter-spacing:0.24em}
+
+  /* SECTION BREAK */
+  .break{
+    text-align:center;font-family:var(--serif);color:var(--cyan);
+    font-size:1.6rem;letter-spacing:1.4rem;margin:4rem 0 3rem;opacity:0.55;
+  }
+
+  /* CITATIONS FOOT */
+  .foot{
+    padding:6vw 7vw;border-top:1px solid var(--border);background:var(--bg-2);
+    font-family:var(--mono);font-size:0.78rem;color:var(--muted);line-height:1.8;
+  }
+  .foot h4{font-family:var(--serif);font-size:1.4rem;color:var(--text);font-weight:400;margin-bottom:1.6rem}
+  .foot ul{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:0.6rem 2rem;max-width:1100px;margin:0 auto}
+  .foot li{padding:0.4rem 0;border-bottom:1px solid var(--border-soft)}
+  .foot strong{color:var(--cyan);font-weight:500}
+
+  /* RESPONSIVE */
+  @media (max-width:780px){
+    .physics-body{grid-template-columns:1fr}
+    .exp-grid{grid-template-columns:1fr}
+    .systems{grid-template-columns:1fr}
+    .rung{grid-template-columns:1fr}
+    .foot ul{grid-template-columns:1fr}
+    .naaqs-foot{grid-template-columns:1fr}
+    .truths{grid-template-columns:1fr}
+    .section{padding:14vw 7vw}
+  }
+</style>
+</head>
+<body>
+<main>
+
+<!-- ==================== COVER ==================== -->
+<section class="cover">
+  <div class="cover-meta">
+    <span>EnviroAI · Canonical Essay</span>
+    <span class="right">No. 01 · Foundational</span>
+  </div>
+
+  <div class="cover-center">
+    <div class="cover-eyebrow">An Essay by Jed Anderson</div>
+    <h1 class="cover-title">Bits Protect <em>Its</em></h1>
+    <div class="cover-rule"></div>
+    <p class="cover-sub">Why environmental superintelligence is not a preference, not a prediction, but a physical necessity — derived from the thermodynamics of information, the structure of Earth-system complexity, and the arrival, at long last, of instruments that can match the speed of nature.</p>
+  </div>
+
+  <div class="cover-author">
+    <div>
+      <span>jedanderson.org</span>
+      <span class="name">JED ANDERSON</span>
+    </div>
+    <div>Houston · 2026</div>
+  </div>
+</section>
+
+<!-- ==================== I — THE DIAGNOSIS ==================== -->
+<section class="section">
+  <div class="section-rule"><span class="section-num">I.</span>The Diagnosis</div>
+  <h2 class="section-title">A loop the planet cannot afford, <em>and an instrument that finally can</em></h2>
+
+  <p class="opener">
+    For twenty-seven years I have practiced inside the environmental regulatory system, and what I want to tell you, after a career of watching dedicated people work as fast as human cognition allows against systems that move at the speed of physics, is that <strong>something has changed</strong> — quietly, in the last few years, the technology required to operate at the speed of nature itself has begun to exist, and everything else in this essay follows from that single fact.
+  </p>
+
+  <p>I want to anchor that claim in the actual record of how environmental protection has worked, because the record itself tells the story. Consider the loop that runs from the discovery of an air-quality health impact to the moment a facility actually emits less of it.</p>
+
+  <div class="naaqs-card">
+    <div class="naaqs-head">
+      <span class="label">The PM2.5 Loop · Health → Standard → Rule → Facility</span>
+      <span class="scope">1993 — Present</span>
+    </div>
+    <div class="naaqs-body">
+      <div class="naaqs-line science">
+        <div class="yr">9 December 1993 — Science Arrives</div>
+        <div class="ev">Dockery, Pope et al. publish the <em>Harvard Six Cities Study</em>: a 16-year prospective cohort establishes that chronic PM2.5 exposure at common U.S. levels increases mortality.</div>
+        <div class="src">NEJM 329:1753 (1993) · cohort enrollment began mid-1970s</div>
+      </div>
+      <div class="naaqs-line rule">
+        <div class="yr">18 July 1997 — First Standard (~4 yrs later)</div>
+        <div class="ev">EPA promulgates the first PM2.5 NAAQS at 15 µg/m³ annual / 65 µg/m³ 24-hour. SIPs, designations, and litigation begin.</div>
+        <div class="src">62 FR 38652</div>
+      </div>
+      <div class="naaqs-line rule">
+        <div class="yr">17 October 2006 — First Tightening</div>
+        <div class="ev">EPA lowers the 24-hour standard to 35 µg/m³. Implementation rule subsequently goes into litigation.</div>
+        <div class="src">71 FR 61144</div>
+      </div>
+      <div class="naaqs-line facility">
+        <div class="yr">April 2010 — Original Attainment Deadline (~17 yrs from science)</div>
+        <div class="ev">Compliance with the 1997 PM2.5 NAAQS finally due at most facilities — many areas extended further.</div>
+        <div class="src">EPA implementation timeline</div>
+      </div>
+      <div class="naaqs-line rule">
+        <div class="yr">December 2012 — Second Tightening</div>
+        <div class="ev">EPA lowers the annual PM2.5 standard to 12 µg/m³.</div>
+        <div class="src">78 FR 3086</div>
+      </div>
+      <div class="naaqs-line facility">
+        <div class="yr">2016 – 2019 — Attainment for 2012 Standard</div>
+        <div class="ev">Moderate areas required to attain by October 2016; Serious nonattainment areas by December 2019.</div>
+        <div class="src">EPA milestone schedule</div>
+      </div>
+      <div class="naaqs-line rule">
+        <div class="yr">7 February 2024 — Third Tightening</div>
+        <div class="ev">EPA strengthens the primary annual standard to 9.0 µg/m³ (effective 6 May 2024). SIP development and permit changes for facilities now underway.</div>
+        <div class="src">Reconsideration of PM NAAQS, 89 FR 16202</div>
+      </div>
+    </div>
+    <div class="naaqs-foot">
+      <div class="naaqs-stat">
+        <div class="nm">Science → First Standard</div>
+        <div class="vl">~4 years</div>
+        <div class="dc">From the publication of landmark health evidence to the first NAAQS that responded to it.</div>
+      </div>
+      <div class="naaqs-stat">
+        <div class="nm">Science → Cleaner Air at Facilities</div>
+        <div class="vl">20–30 years</div>
+        <div class="dc">Full loop from health discovery to actual change in the air people breathe — and the standard has been revised four times since 1997, each cycle with its own multi-year tail.</div>
+      </div>
+    </div>
+  </div>
+
+  <p>Now do the arithmetic. From the science arriving in 1993 to the first NAAQS responding to it in 1997 was roughly <strong>four years</strong>. From that first standard to physical attainment at most facilities was another twelve to twenty years. The full loop from health discovery to actual change in the air people breathe ran <strong>two to three decades</strong>. And the standard has been revised four times since 1997, because the underlying science kept moving — each cycle requiring its own multi-year implementation tail. The science was always ahead of the rule. The rule was always ahead of the facility. <em>The air itself was the slowest variable in the loop</em>, because it could only change as fast as humans could read, write, deliberate, and enforce.</p>
+
+  <p>This is not a story about anyone failing. The EPA scientists, the state air program staff, the industrial environmental managers, the consultants, the lawyers — almost everyone I have worked with across twenty-seven years has been serious, competent, and doing their best inside the cognitive bandwidth available to them. The point is structural. <strong>The procedural and cognitive bandwidth itself was never adequate to the system being governed, and never was going to be at human-reading speed.</strong> Two-to-three-decade loops are what you get when discovery, deliberation, and enforcement are all bounded by how fast a careful human being can absorb and process a complex environmental signal. That was the floor. Until very recently, no instrument existed that could push the floor down.</p>
+
+  <p>Set the loop against what the loop is meant to be governing. Richardson and twenty-eight co-authors documented in <em>Science Advances</em> in 2023 that six of nine planetary boundaries have been transgressed. Armstrong McKay and colleagues, writing in <em>Science</em> in 2022, showed that several major climate tipping elements have central uncertainty ranges that begin below 2 °C of warming, with some entering the lower bound of plausibility at warming we have already reached. NOAA and NASA reported on 10 January 2025 that the 2024 global mean surface temperature was 1.46 to 1.47 °C above the 1850–1900 baseline; the WMO's six-dataset synthesis put it at 1.55 °C. The buffer has closed. The IPCC's remaining carbon budget for a two-in-three chance of holding 1.5 °C — 400 GtCO₂ from January 2020 — will be exhausted around 2030 at current emission rates near 41.6 GtCO₂ per year, as reported by the Global Carbon Project in <em>Earth System Science Data</em> in 2025.</p>
+
+  <p>The Earth does not run on the clock of human deliberation. Atmospheric chemistry operates in sub-seconds to hours. Weather, in hours to weeks. Oceans, in years to millennia. Ice sheets, in decades to millennia. Modern global circulation models discretize the planet into 10⁸ to 10⁹ active grid cells and solve coupled non-linear partial differential equations at each timestep. No human, no committee, no agency, no statute can run that loop at speed. We have coped by aggregating, summarizing, and modeling — which is to say, by deliberately throwing away most of the information the planet is producing, because we have had no other choice.</p>
+
+  <div class="pullquote">
+    <p>Until now.</p>
+  </div>
+</section>
+
+<!-- ==================== II — THE PHYSICAL FOUNDATION ==================== -->
+<section class="section">
+  <div class="section-rule"><span class="section-num">II.</span>The Physical Foundation</div>
+  <h2 class="section-title">Bits, bonds, and the <em>thermodynamics of information</em></h2>
+
+  <p>Here is the physics that says we now have a choice. In 1961 Rolf Landauer, working at IBM, proved that erasing a single bit of information dissipates at minimum <em>kT</em> ln 2 joules of heat, where <em>k</em> is Boltzmann's constant and <em>T</em> is absolute temperature. This was theory until 2012, when Antoine Bérut and colleagues at the École Normale Supérieure de Lyon trapped a single colloidal particle in a modulated double-well potential and measured the dissipation directly, publishing in <em>Nature</em> the verification that the mean dissipated heat saturates at the Landauer bound in the limit of long erasure cycles. Subsequent experiments across nanomagnetic, superconducting, and biological substrates have tightened the result. Landauer's principle is now verified physics, and what it tells us is the floor: <strong>the universe charges a calculable, irreducible thermodynamic price for moving information, and that price is small.</strong></p>
+
+  <p>How small? Let's do the arithmetic.</p>
+
+  <div class="physics-card">
+    <div class="physics-header">
+      <span class="label">The Bond–Bit Asymmetry</span>
+      <span class="status">Verified from CODATA constants</span>
+    </div>
+    <div class="physics-body">
+      <div class="physics-line">
+        <div class="head">Erasing one bit @ 300 K</div>
+        <div class="eq">kT ln 2 = (1.381×10⁻²³)(300)(0.6931)</div>
+        <div class="val">2.87 × 10⁻²¹ J / bit</div>
+        <div class="note">Landauer 1961 · experimentally confirmed by Bérut et al., <em>Nature</em> 483:187 (2012)</div>
+      </div>
+      <div class="physics-line">
+        <div class="head">Breaking one C–C bond</div>
+        <div class="eq">347 kJ·mol⁻¹ ÷ 6.022×10²³ mol⁻¹</div>
+        <div class="val">5.76 × 10⁻¹⁹ J / bond</div>
+        <div class="note">Standard bond enthalpy, typical aliphatic C–C</div>
+      </div>
+      <div class="physics-ratio">
+        <div class="lab">Fundamental Ratio</div>
+        <div class="val">Bonds cost <em>~200×</em> more than bits.</div>
+        <div class="sub">At practical efficiencies, the ratio is many orders of magnitude larger.</div>
+      </div>
+    </div>
+    <div class="physics-foot">
+      Parrondo, Horowitz &amp; Sagawa, <em>Nat. Phys.</em> 11:131 (2015) · Wolpert, <em>J. Phys. A</em> 52:193001 (2019) — formalize information as a physical resource exchangeable with work at calculable cost.
+    </div>
+  </div>
+
+  <p>This is what I mean when I say <strong>Bits Protect Its</strong>. It is not a slogan. It is a derivable consequence of the thermodynamics of information, and it is the deepest reason why every successful environmental intervention in modern history has, on close inspection, been an information substitution in disguise.</p>
+
+  <p>Precision agriculture replaces broadcast fertilizer with GPS-guided variable-rate application. Smart grids and demand response replace peaker plants with dispatch signals. Continuous emissions monitoring under 40 CFR Part 75 replaced periodic stack tests with real-time data streams, increasing the temporal density of emissions information by roughly four orders of magnitude. TROPOMI on Sentinel-5P, at 3.5 × 5.5 km resolution, now images NO₂ plumes from individual industrial facilities from orbit. DNA sequencing fell from $95 million per genome in 2001 to a few hundred dollars by 2024, and environmental DNA sampling now characterizes whole ecosystems from a few liters of water. Enzymes accelerate reactions by factors of 10⁶ to 10¹⁷ over uncatalyzed background rates — Wolfenden &amp; Snider, 2001 — because information embedded in protein structure replaces brute thermal and pressure conditions. <strong>In every case the pattern is the same:</strong> a system that previously moved matter by mass and force was outperformed, often by orders of magnitude, by a system that moved the same matter by information.</p>
+
+  <p>And the deeper story is that we are only at the beginning of understanding what information <em>is</em>. John Archibald Wheeler proposed in 1990 that physics itself is grounded not in particles but in information — <em>it from bit</em>. Constructor theory, the framework Deutsch and Marletto have been developing since 2013, elevates information from descriptive metaphor to fundamental physical primitive, recasting all of physics in terms of which transformations of matter, energy, and information are possible and which are forbidden. The Bekenstein bound and the holographic principle indicate that the total information content of any region of spacetime is bounded by its boundary area, not its volume — meaning, on the most ambitious readings of contemporary physics, that the universe is informational at base.</p>
+
+  <p>We have moved, in less than a century, from treating information as a metaphor (Shannon, 1948) to a measurable physical quantity (Landauer, 1961) to, increasingly, the substrate of physics itself. That trajectory is what makes the bond-bit ratio more than a clever calculation. <strong>If the universe is informational at its deepest level, then the technology of information is not one tool among many for engaging with reality. It is the technology that operates at the same ontological layer as the thing being engaged with.</strong> Environmental protection has always been, beneath its legal and political surfaces, an information problem governed by the thermodynamics of computation. We are only now arriving at instruments capable of treating it that way.</p>
+</section>
+
+<div class="break">✦ ✦ ✦</div>
+
+<!-- ==================== III — THE CONVERGENCE ==================== -->
+<section class="section">
+  <div class="section-rule"><span class="section-num">III.</span>The Convergence</div>
+  <h2 class="section-title">Two exponentials, <em>one decade</em></h2>
+
+  <p>Two exponentials are now intersecting, and the intersection is <strong>the most important environmental fact of this decade.</strong></p>
+
+  <div class="exponentials">
+    <div class="exp-head">
+      <span>The Convergence Window</span>
+      <span>2024 – 2035</span>
+    </div>
+    <div class="exp-grid">
+      <div class="exp-card">
+        <div class="axis">Exponential I</div>
+        <div class="name">Frontier AI Capability</div>
+        <div class="rate">4.1× / yr training compute · doubling every ~5 mo</div>
+        <div class="ev">Task-horizon for reliable agent completion doubling every ~7 mo (METR 2025) — post-2023 doubling time tightened to ~130 days. Metaculus median for publicly known weakly-general AI compressed from ~2050 to ~Nov 2027 between 2020 and 2024.</div>
+      </div>
+      <div class="exp-card">
+        <div class="axis">Exponential II</div>
+        <div class="name">Geophysical Forcing</div>
+        <div class="rate">~41.6 GtCO₂ / yr · 1.5 °C budget out ~2030</div>
+        <div class="ev">Six of nine planetary boundaries crossed (Richardson et al., 2023). Multiple tipping elements with central uncertainty ranges beginning below 2 °C (Armstrong McKay et al., 2022). 2024: first calendar year above 1.5 °C (WMO).</div>
+      </div>
+    </div>
+    <div class="exp-foot"><strong>Intersection</strong> &nbsp;·&nbsp; Multi-year to decadal horizon &nbsp;·&nbsp; Plausibly entangled, not provably</div>
+  </div>
+
+  <p>I want to be honest about what this convergence does and does not mean. It does not guarantee rescue. The convergence is real, but the two processes are not provably entangled: AI capability could plateau, or arrive too late, or arrive misdirected, and tipping points could trigger earlier or later than central estimates suggest. <strong>Anyone who tells you the math forces a happy ending is selling something.</strong></p>
+
+  <p>What the convergence does mean is that, for the first time in environmental history, the information-processing capability required to operate at the speed and scale of Earth systems is not hypothetical. <em>It is arriving.</em></p>
+
+  <div class="systems">
+    <div class="sys">
+      <div class="nm">GraphCast</div>
+      <div class="desc">10-day global weather forecasts in under a minute on a single TPU; outperforms ECMWF HRES on 90% of 1,380 verification targets.</div>
+      <div class="cite">Lam et al., Science 382:1416 (2023)</div>
+    </div>
+    <div class="sys">
+      <div class="nm">Pangu-Weather</div>
+      <div class="desc">First AI model to beat operational NWP across all variables at all lead times — at ~10,000× inference speed.</div>
+      <div class="cite">Bi et al., Nature 619:533 (2023)</div>
+    </div>
+    <div class="sys">
+      <div class="nm">Aurora</div>
+      <div class="desc">Microsoft foundation model trained on 1M+ hours of geophysical data; beats operational systems on air quality, ocean waves, and tropical cyclones at orders of magnitude less compute.</div>
+      <div class="cite">Bodnar et al., Nature (2025)</div>
+    </div>
+    <div class="sys">
+      <div class="nm">Google Flood Hub</div>
+      <div class="desc">Extreme-flood forecasts at 5-day lead time matching or beating the Copernicus GloFAS same-day nowcasts; now operational in 80+ countries.</div>
+      <div class="cite">Nearing et al., Nature 627:559 (2024)</div>
+    </div>
+  </div>
+
+  <p>These are not prototypes. They are <strong>deployed systems, in production, doing planetary-scale environmental work that until very recently could not be done.</strong> The question has shifted. It is no longer "can AI help with environmental problems." It is <em>"will we deploy AI fast enough, and with sufficient integrity, to matter on the geophysical timescale that is actually in play."</em></p>
+</section>
+
+<!-- ==================== IV — THE DEUTSCHIAN TURN ==================== -->
+<section class="section">
+  <div class="section-rule"><span class="section-num">IV.</span>The Deutschian Turn</div>
+  <h2 class="section-title">Law was the prosthesis. <em>Superintelligence is the organ.</em></h2>
+
+  <p>Here is where the essay has to do something the synthesis underneath it cannot quite do, because the synthesis is a report and what this requires is an inference.</p>
+
+  <p>Every environmental statute in the United States, and most of the foundational ones globally, was written to <em>compensate</em> for something humans could not do directly. We could not perceive emissions in real time, so we built reporting requirements and inspection cycles. We could not model watersheds, so we built buffer zones and discharge limits. We could not track every species across every habitat, so we built listing procedures and critical-habitat designations. We could not see, in any continuous way, what was happening to the air or the water or the soil at the scale they were actually being affected. So we built law.</p>
+
+  <div class="pullquote bare">
+    <p>Environmental law is, structurally, an enormous prosthesis for cognitive limits we never named.</p>
+  </div>
+
+  <p>The Clean Air Act is not really about air. It is about what a society does when it cannot perceive the air at the speed and resolution the air is actually moving. Every statute on the books is a workaround for a missing organ of perception, written by people who knew they were working blind and built the most thoughtful procedures they could imagine for working blind <em>well</em>.</p>
+
+  <p>This is the inversion worth holding clearly.</p>
+
+  <div class="pullquote">
+    <p>Compliance is what you do when you cannot see. Care is what you do when you can.</p>
+  </div>
+
+  <p>Compliance is the prosthetic behavior — bounded checks, periodic reports, statutory thresholds, all of them necessary because no one inside the system had any other way to know what was happening at the scale and tempo it was happening. Care is what comes naturally to a system that <em>can</em> see. A facility operator who can see, in real time, what her plume is doing to the ambient air downwind does not need a statute to tell her not to make it worse on a still afternoon; she has the information that statutes were always trying, imperfectly, to encode. The statutes are not wrong. <strong>They are the best a paper civilization could do. We are not a paper civilization anymore.</strong></p>
+
+  <p>For the first time in human history, the organ that compliance was substituting for is being built.</p>
+
+  <p>This is what shifts environmental superintelligence from a tool to a structural inflection. It is not a faster lawyer or a better dashboard or a smarter search engine. <strong>It is the first attempt in the history of environmental governance to lift the underlying cognitive limitation that created the need for the legal stack in the first place.</strong> The law will not disappear and should not — adjudication, due process, democratic accountability are values that survive the arrival of any technology. But for the first time, the law will be operating <em>with</em> the cognitive apparatus it was always tacitly substituting <em>for</em>. We will not have to wait two decades to translate a health-effects study into cleaner air at a facility, because the chain from monitoring to modeling to interpretation to permitting can be operated at machine speed without sacrificing rigor — and arguably with more rigor than the human-paced version, because the system can integrate orders of magnitude more evidence and reason across it without forgetting. We will not have to estimate emissions from periodic stack tests when continuous monitoring and atmospheric inversion can tell us what every facility is emitting in near real time. We will not have to compile, by hand, what a properly built planetary intelligence system already knows.</p>
+
+  <p>This is why I find David Deutsch's epistemology so clarifying. Deutsch argues, in <em>The Beginning of Infinity</em>, that knowledge — explanatory, error-correcting, hard-to-vary knowledge — is the universal lever of human progress, and that what he calls "static" cultures fail not because they are unsustainable in any superficial sense but because they cannot manufacture new explanations fast enough to dissolve new problems as those problems arise. <em>"Problems are inevitable; problems are soluble."</em> Apply that to environmental governance and the binding constraint comes into focus: it is not the absence of will, or of money, or of moral seriousness. <strong>It is the rate at which we can generate, criticize, and operationalize good explanations of how planetary systems actually work.</strong> Every other constraint — political, economic, regulatory, behavioral — is downstream of that one. Raise the rate of explanatory knowledge creation and the other constraints become tractable; leave it at human-reading speed and they remain unsolvable.</p>
+
+  <p>Under constructor theory — the framework Deutsch and Marletto have been developing since 2013 — environmental governance is formally the problem of selecting among possible transformations of matter, energy, and information that preserve civilizational and biospheric invariants. Knowledge of which transformations are possible, and how to actually perform them, is the constraint.</p>
+
+  <p>I will not pretend this is a verified theorem. It is not. Deutsch's optimism is contested, his "problems are soluble" claim is unfalsifiable in the strict Popperian sense, and his framework arguably under-weights irreversibility — and tipping points are exactly where irreversibility lives. The honest reading is that <strong>Deutsch's argument is a counterweight to despair, not a guarantee of success.</strong> But here is what the counterweight earns: it reframes the project from preservation to defense, from retreat to capacity, from sustaining a static configuration to building the explanatory capacity to outpace the rate of new problems.</p>
+
+  <p>Earth's biosphere was never engineered for human comfort, or for any other species' comfort. It has been hit by five mass extinctions in 500 million years, none of them human-caused, all of them visible in the geological record. The cosmic schedule of asteroid impacts, supervolcanic eruptions, gamma-ray bursts, and stellar evolution does not negotiate. The question is not whether the biosphere is in danger; the biosphere has been in danger since the Cambrian. <strong>The question is whether anything in the four-billion-year history of life on this planet has ever produced an organ capable of standing up to that danger.</strong></p>
+
+  <p>Something did. We are it. Four billion years of evolution produced one species capable of reading the clock, and in September 2022 that species moved a celestial body off its orbit around the Sun for the first time in 4.5 billion years. The DART spacecraft's collision with Dimorphos shortened the moonlet's orbital period by 32 minutes — more than twenty-five times the threshold the mission set for success. <em>The proof of concept is in.</em> The question that remains is whether the same species that proved it could deflect an asteroid can now build the cognitive infrastructure to defend the biosphere from the slower, subtler threats that are already in progress — and from the ones the cosmos has scheduled but not yet delivered.</p>
+
+  <div class="pullquote">
+    <p>We are not Earth's problem. We are the part of nature that finally grew old enough to fight back.</p>
+  </div>
+</section>
+
+<!-- ==================== V — THE CALL ==================== -->
+<section class="section">
+  <div class="section-rule"><span class="section-num">V.</span>The Call</div>
+  <h2 class="section-title">Environmental <em>self-regulation</em></h2>
+
+  <p>What is required, then, is not a marginal improvement on the existing environmental stack. <strong>It is the construction of a new layer beneath that stack — an information layer scaled to the planet.</strong></p>
+
+  <p>I mean this operationally, not rhetorically. Environmental superintelligence is the integration of three things that, until very recently, could not be integrated. The first is the corpus of environmental knowledge — every statute, every regulation, every scientific paper, every monitoring record, every permit, every enforcement action, every model output — held in a form that machines can read and reason over. The second is the physics: coupled atmospheric, hydrological, oceanographic, and ecological models running at the resolution Earth actually requires, with the ability to be queried, perturbed, and updated continuously. The third is the closure of the loop between them, so that a regulatory question is answered against a live physical model of the system it governs; so that a permitting decision is evaluated against a coupled simulation of contaminant transport and ecosystem response; so that a compliance analysis is performed by a system that <em>actually understands the river it is being asked about</em>. None of this is hypothetical. The components exist. The integration is the work.</p>
+
+  <p>And here is what is actually unlocked when the integration closes.</p>
+
+  <div class="pullquote wide">
+    <p>The facility knows what it is emitting. The environment knows what it is receiving. They have never talked to each other. <em>Now they can.</em></p>
+  </div>
+
+  <p>That sentence is the cleanest description I can offer of what environmental superintelligence operationally <em>is</em>. For the entire history of environmental regulation, the facility's emissions data and the environment's response data have lived in separate worlds — separated by reporting cycles, by aggregation routines, by jurisdictional silos, by the simple fact that no instrument existed to put them in continuous conversation. The facility had its stack monitors and its emissions inventories. The environment had its ambient stations and its biological surveys. Between them sat the regulator with a permit, trying to write down in advance what each of them was allowed to do to the other, with the information available at the time the permit was written, in a form that would govern operations for years afterward. <strong>That intermediation was not a design choice. It was a workaround.</strong> It was the best the system could do when the only available bridge between the two sides was paper and human attention.</p>
+
+  <!-- Self-regulation loop diagram -->
+  <div class="selfreg-diag">
+    <div class="nm">The Closed Loop · Source ↔ Receptor</div>
+    <svg class="selfreg-svg" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg" aria-label="Diagram of facility and environment closed feedback loop">
+      <defs>
+        <linearGradient id="facGrad" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#1B3A5C"/>
+          <stop offset="100%" stop-color="#0f1729"/>
+        </linearGradient>
+        <linearGradient id="envGrad" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#1A6B72"/>
+          <stop offset="100%" stop-color="#0f1729"/>
+        </linearGradient>
+        <marker id="arrowCyan" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#3FC5D5"/>
+        </marker>
+        <marker id="arrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#d4b072"/>
+        </marker>
+      </defs>
+
+      <!-- Facility node -->
+      <rect x="40" y="80" width="200" height="120" rx="3" fill="url(#facGrad)" stroke="#3FC5D5" stroke-width="1.2"/>
+      <text x="140" y="118" text-anchor="middle" font-family="Instrument Serif" font-size="22" fill="#e8eef7">Facility</text>
+      <text x="140" y="142" text-anchor="middle" font-family="JetBrains Mono" font-size="10" fill="#3FC5D5" letter-spacing="2">SOURCE</text>
+      <line x1="70" y1="158" x2="210" y2="158" stroke="#1f2940"/>
+      <text x="140" y="176" text-anchor="middle" font-family="Inter" font-size="11" fill="#aab4c6">knows what it emits</text>
+      <text x="140" y="190" text-anchor="middle" font-family="Inter" font-size="11" fill="#aab4c6">in real time</text>
+
+      <!-- Environment node -->
+      <rect x="440" y="80" width="200" height="120" rx="3" fill="url(#envGrad)" stroke="#3FC5D5" stroke-width="1.2"/>
+      <text x="540" y="118" text-anchor="middle" font-family="Instrument Serif" font-size="22" fill="#e8eef7">Environment</text>
+      <text x="540" y="142" text-anchor="middle" font-family="JetBrains Mono" font-size="10" fill="#3FC5D5" letter-spacing="2">RECEPTOR</text>
+      <line x1="470" y1="158" x2="610" y2="158" stroke="#1f2940"/>
+      <text x="540" y="176" text-anchor="middle" font-family="Inter" font-size="11" fill="#aab4c6">knows what it receives</text>
+      <text x="540" y="190" text-anchor="middle" font-family="Inter" font-size="11" fill="#aab4c6">in real time</text>
+
+      <!-- Top arrow: emissions stream -->
+      <path d="M 240 110 Q 340 50 440 110" stroke="#3FC5D5" stroke-width="1.5" fill="none" marker-end="url(#arrowCyan)"/>
+      <text x="340" y="62" text-anchor="middle" font-family="JetBrains Mono" font-size="10" fill="#3FC5D5" letter-spacing="1.5">EMISSIONS · BITS</text>
+
+      <!-- Bottom arrow: response stream -->
+      <path d="M 440 170 Q 340 230 240 170" stroke="#d4b072" stroke-width="1.5" fill="none" marker-end="url(#arrowGold)"/>
+      <text x="340" y="248" text-anchor="middle" font-family="JetBrains Mono" font-size="10" fill="#d4b072" letter-spacing="1.5">RESPONSE · BITS</text>
+
+      <!-- Loop label -->
+      <text x="340" y="148" text-anchor="middle" font-family="Instrument Serif" font-style="italic" font-size="14" fill="#5ed8a8">closed at machine speed</text>
+    </svg>
+    <div class="cap">The static permit becomes the trailing rather than the leading constraint. Source and receptor exchange information continuously. The system is no longer governed by an administrative approximation of physics frozen at the moment of issuance — it is governed by physics, in real time.</div>
+  </div>
+
+  <p>When the facility and the environment can exchange information directly — when continuous emissions monitoring is coupled in near real time to a live atmospheric model of the airshed, when wastewater discharge is coupled to a live hydrological model of the watershed, when the system that decides what to emit next is informed by the system that knows what just arrived downstream — what emerges is something the legal apparatus has never seen and has no native vocabulary for. <strong>It is environmental <em>self-regulation</em>.</strong> Not the absence of rules. Not deregulation in any familiar sense. Something closer to homeostasis: a closed feedback loop between source and receptor in which the static permit, written years ago in a state of partial information, becomes the trailing rather than the leading constraint. The permit still exists. The legal floor still holds. But the operational decisions are now informed by physics in real time, not by an administrative approximation of physics frozen at the moment of issuance.</p>
+
+  <p>Three underlying truths make this work, and they are worth naming directly.</p>
+
+  <div class="truths">
+    <div class="truth">
+      <div class="roman">I</div>
+      <div class="lbl">Truth One</div>
+      <div class="ttl">Human laws are <em>low-bandwidth approximations</em> of physics.</div>
+      <div class="bd">The cognitive channel for conscious deliberation in humans is on the order of <strong>tens of bits per second</strong> — which is why every statute, every standard, every permit has to invent arbitrary safety margins, static boundaries, and slow administrative timelines. A living-permit system operating at machine bandwidth replaces the arbitrary approximation with the physics it was always trying to approximate. The safety margins do not disappear; they become <em>calculated</em> rather than <em>guessed</em>.</div>
+    </div>
+    <div class="truth">
+      <div class="roman">II</div>
+      <div class="lbl">Truth Two</div>
+      <div class="ttl">True safety is an <em>emergent property</em> of real-time feedback.</div>
+      <div class="bd">A static permit tells a facility what it can emit on average over a year. It is blind to the fact that emitting 1,000 lbs of a pollutant on a <strong>windy Tuesday</strong> causes zero ambient exceedance, while emitting the same 1,000 lbs during a <strong>Tuesday-morning thermal inversion</strong> can be catastrophic. A real-time loop between source and receptor is <em>safer than the permit</em> because it can see the inversion coming.</div>
+    </div>
+    <div class="truth">
+      <div class="roman">III</div>
+      <div class="lbl">Truth Three</div>
+      <div class="ttl">Industry changes for agility. <em>Regulators change for verification.</em></div>
+      <div class="bd">If an operator can prove with defensible real-time data that her facility is not causing ambient degradation or aquatic impact, she earns the operational right to adjust dynamically — running harder on the windy Tuesday and pulling back on the still afternoon. Regulators accept this because it solves their <strong>oldest structural problem</strong>: verification. The role shifts from reactive inspection to high-level audit of a self-correcting system.</div>
+    </div>
+  </div>
+
+  <p>The compliance question — did the facility stay under its annual cap — gives way to a deeper, more honest question: did the biosphere notice. <em>Compliance asks: did you break the rule we wrote. Environmental superintelligence asks: did the biosphere notice. Only one of those questions has ever been the right one.</em></p>
+
+  <p>That is what is on the other side of the work. Not the absence of law. <strong>The arrival of the instruments that law has been waiting for.</strong></p>
+
+  <div class="break">✦ ✦ ✦</div>
+
+  <p>I want to be careful about what I am and am not claiming. The thesis lives on a ladder, and intellectual honesty demands naming which rung carries which weight:</p>
+
+  <div class="ladder">
+    <div class="rung">
+      <span class="level">Level A</span>
+      <div class="body">
+        <div class="claim">AI is a <em>useful</em> tool for environmental work.</div>
+        <div class="status">Settled. Operationally evidenced by GraphCast, Pangu, Aurora, Flood Hub, and dozens of deployed systems. Uncontroversial; no longer the interesting question.</div>
+      </div>
+    </div>
+    <div class="rung strong">
+      <span class="level">Level B</span>
+      <div class="body">
+        <div class="claim">AI-scale information processing is <em>necessary</em> for adequate planetary stewardship.</div>
+        <div class="status">Defensible from verified physics (Landauer, Bennett, Parrondo–Horowitz–Sagawa, Wolpert), peer-reviewed Earth-system science, and the operational record. This is where the strongest evidence is, where the operational stakes are highest, and where this essay plants its flag.</div>
+      </div>
+    </div>
+    <div class="rung">
+      <span class="level">Level C</span>
+      <div class="body">
+        <div class="claim">Environmental superintelligence is the <em>only</em> physically adequate response.</div>
+        <div class="status">A philosophical commitment supported by evidence — Deutschian, constructor-theoretic, and consistent with everything below it — but not a theorem. I hold it. I do not pretend it is proven.</div>
+      </div>
+    </div>
+  </div>
+
+  <p>This is what we are building at EnviroAI, and I write that knowing how it sounds. I write it anyway because I have been inside the environmental regulatory system for twenty-seven years, and I would not be building this if I thought the existing system could close the gap. <strong>It cannot</strong> — not because the people in it are inadequate, because they are not, and not because the laws are poorly written, because most of them are remarkable achievements of mid-twentieth-century craftsmanship. It cannot close the gap because no reform of the procedural surface can fix a mismatch that is, at base, a mismatch between human-speed cognition and planetary-speed physics. The reform that is actually required is the construction of the cognitive layer the planet never had.</p>
+
+  <p>The alternative to building this layer is not managed decline. <strong>It is the unmanaged crossing of irreversible thresholds inside decision loops that are structurally incapable of perceiving them in time.</strong> That is not pessimism. It is what the numbers — the two-to-three-decade health-to-facility loop in NAAQS implementation, the 2030 budget exhaustion, the six of nine planetary boundaries crossed, the 1.55 °C 2024 anomaly — actually say. The numbers do not say the situation is hopeless. They say the existing apparatus cannot, by construction, close the gap. Something at the scale of the gap has to be built.</p>
+
+  <p>Earth was never going to make it on its own. The biosphere has been carpet-bombed five times in 500 million years and the bombs have not stopped falling. Every species that has ever lived here, with the single conspicuous exception of the one writing this, has eventually died. <strong>We are not Earth's problem. We are the part of nature that finally grew old enough to fight back.</strong> The work of this generation — my work, and the work of everyone who reads this and recognizes themselves in it — is to build, in time, the cognitive infrastructure that lets us actually do it.</p>
+
+  <p><em>Bits protect its.</em> Not because it's catchy. Because it's physics. Because in a universe whose deepest substrate appears to be information, the technology that operates at that substrate is the technology that operates at the same layer as the thing being protected. Because every successful environmental intervention in history has been an information substitution in disguise, and we are now arriving at instruments capable of making that substitution at planetary scale. Because the alternative is to keep paying for missing organs of perception with statutes that were never going to be fast enough, on a planet whose clock will not slow down to accommodate us.</p>
+</section>
+
+<!-- ==================== CLOSING ==================== -->
+<section class="closing">
+  <div class="closing-mark">❞   ❞   ❞</div>
+  <div class="closing-line">
+    The arrow is off the page.<br>
+    We are the species that draws<br>
+    <em>the next part of the line.</em><br><br>
+    There is no one else here to draw it.<br><br>
+    <em>Get to work.</em>
+  </div>
+  <div class="closing-sig">
+    Onward. Upward.
+    <span class="nm">— Jed Anderson</span>
+  </div>
+</section>
+
+<!-- ==================== EVIDENCE BACKBONE ==================== -->
+<section class="foot">
+  <h4>Evidence Backbone — Primary Citations</h4>
+  <ul>
+    <li><strong>Dockery, Pope et al.</strong>, An Association between Air Pollution and Mortality in Six U.S. Cities, <em>NEJM</em> 329:1753 (1993)</li>
+    <li><strong>U.S. EPA</strong>, National Ambient Air Quality Standards for Particulate Matter, 62 FR 38652 (1997); 71 FR 61144 (2006); 78 FR 3086 (2013); 89 FR 16202 (2024)</li>
+    <li><strong>Bérut et al.</strong>, Experimental verification of Landauer's principle, <em>Nature</em> 483:187 (2012)</li>
+    <li><strong>Parrondo, Horowitz &amp; Sagawa</strong>, Thermodynamics of information, <em>Nature Physics</em> 11:131 (2015)</li>
+    <li><strong>Wolpert</strong>, The stochastic thermodynamics of computation, <em>J. Phys. A</em> 52:193001 (2019)</li>
+    <li><strong>Landauer</strong>, Irreversibility and heat generation in the computing process, <em>IBM J. Res. Dev.</em> 5:183 (1961)</li>
+    <li><strong>Lenton et al.</strong>, Tipping elements in the Earth's climate system, <em>PNAS</em> 105:1786 (2008)</li>
+    <li><strong>Lenton et al.</strong>, Climate tipping points — too risky to bet against, <em>Nature</em> 575:592 (2019)</li>
+    <li><strong>Armstrong McKay et al.</strong>, Exceeding 1.5 °C…tipping points, <em>Science</em> 377:eabn7950 (2022)</li>
+    <li><strong>Richardson et al.</strong>, Earth beyond six of nine planetary boundaries, <em>Sci. Adv.</em> 9:eadh2458 (2023)</li>
+    <li><strong>IPCC AR6 WG1</strong>, Summary for Policymakers, Table SPM.2 (2021)</li>
+    <li><strong>Friedlingstein et al.</strong>, Global Carbon Budget 2024, <em>ESSD</em> 17:965 (2025)</li>
+    <li><strong>Lam et al.</strong>, GraphCast, <em>Science</em> 382:1416 (2023)</li>
+    <li><strong>Bi et al.</strong>, Pangu-Weather, <em>Nature</em> 619:533 (2023)</li>
+    <li><strong>Bodnar et al.</strong>, Aurora foundation model, <em>Nature</em> (2025)</li>
+    <li><strong>Nearing et al.</strong>, Global prediction of extreme floods, <em>Nature</em> 627:559 (2024)</li>
+    <li><strong>Raissi, Perdikaris &amp; Karniadakis</strong>, Physics-informed neural networks, <em>J. Comp. Phys.</em> 378:686 (2019)</li>
+    <li><strong>Rolnick et al.</strong>, Tackling Climate Change with ML, <em>ACM Comp. Surv.</em> 55:42 (2022)</li>
+    <li><strong>Sevilla et al.</strong>, Compute Trends, IJCNN (2022); Epoch AI updates (2024)</li>
+    <li><strong>METR</strong>, Measuring AI Ability to Complete Long Tasks (2025; v1.1 Jan 2026)</li>
+    <li><strong>NOAA / NASA / WMO</strong>, 2024 global temperature anomaly (Jan 2025)</li>
+    <li><strong>Deutsch</strong>, <em>The Beginning of Infinity</em> (Allen Lane, 2011)</li>
+    <li><strong>Deutsch &amp; Marletto</strong>, Constructor theory of information, <em>Proc. R. Soc. A</em> 471 (2015)</li>
+  </ul>
+</section>
+
+</main>
+</body>
+</html>
