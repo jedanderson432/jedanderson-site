@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Due Diligence AI Audit AI Due Diligence ‌ [](http://r20.rs6.net/tn.jsp?f=001tgUXwkZPPtOhM7-sqduEq3DP9SF8yQmF5fCR4-SIzz5n8qsUFGjZ7-gyBvKa5vNU2QArPRmPtK7tOMmAj-Stqj4VeDbe9CwUyMxzDSJm73cwXxnzr0Q9FrCo5aZA…"
 license: CC-BY-4.0
+pdf: "/pdfs/audit.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ It's really happening!!!"
 license: CC-BY-4.0
+pdf: "/pdfs/its-really-happening.pdf"
 original_source: "Constant Contact campaign"
 ---
 

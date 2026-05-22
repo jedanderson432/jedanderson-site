@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroVerse Copy and Creation of \"Environmental Digital-Twins\" that anyone anytime can audit, inspect, prepare a permit for, conduct due dilligence on, etc. DIGITAL COPIES!"
 license: CC-BY-4.0
+pdf: "/pdfs/copy-of-every-facility-in-the-environmental-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

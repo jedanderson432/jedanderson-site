@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/intelligence-from-nature.pdf"
 tags: ["linkedin", "linkedin-original"]
 abstract: "\"Intelligence from nature.\" - Jed Anderson"
 ---

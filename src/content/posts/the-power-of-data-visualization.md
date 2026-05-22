@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Stimulating human environmental problem solving---Enviro AI --\"For 20 years . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/the-power-of-data-visualization.pdf"
 original_source: "Constant Contact campaign"
 ---
 

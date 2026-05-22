@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Emission Event Ranking for All Facilities in Texas HOW DOES YOUR COMPANY RANK ON EMISSIONS EVENTS?"
 license: CC-BY-4.0
+pdf: "/pdfs/rank.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -22,6 +22,7 @@
   "devDependencies": {
     "@types/node": "^25.6.2",
     "pagefind": "^1.5.2",
+    "playwright": "^1.60.0",
     "remark-custom-heading-id": "^2.0.0"
   }
 }

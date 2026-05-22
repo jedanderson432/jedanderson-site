@@ -52,6 +52,14 @@ Ignore desktop.ini and any other Windows system files.
   Preserve smart quotes. Preserve section structure with ## H2 headers.
 - For all sources: also place the source PDF at public/pdfs/{slug}.pdf
   and reference it in frontmatter via pdf: "/pdfs/{slug}.pdf"
+- **Universal PDF availability.** Every ingested piece must have a
+  PDF at public/pdfs/{slug}.pdf, regardless of source format. For
+  PDF sources, copy the source. For HTML sources (visual essays),
+  render the original HTML to PDF via headless Chrome (Playwright's
+  page.pdf() against a local server of the file). For Markdown/DOCX
+  sources, render the built site page to PDF the same way (US Letter,
+  ~0.6 inch margins, print backgrounds on). The
+  scripts/generate-pdfs.mjs harness is the canonical implementation.
 
 **Phase 4 — Frontmatter generation**
 
@@ -69,7 +77,11 @@ src/content/config.ts. Required:
   it for vocabulary doc update
 - abstract: 1-2 sentences capturing the actual argument, not generic
 - license: CC-BY-4.0
-- pdf: "/pdfs/{slug}.pdf" if source PDF exists
+- pdf: "/pdfs/{slug}.pdf" — **required for every published piece**,
+  regardless of source format. If the source was HTML or Markdown,
+  generate the PDF per Phase 3 (headless Chrome render of the visual
+  HTML or the built content page) and still set this field. The only
+  exception is drafts (status: draft), which need not have a PDF.
 - hero_image and hero_image_alt for deck-class
 - pdf_canonical: true for deck-class
 

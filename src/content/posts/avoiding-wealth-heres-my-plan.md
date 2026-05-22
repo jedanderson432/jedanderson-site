@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroAI ---\"I've seen lots of people do financial planning to increase wealth."
 license: CC-BY-4.0
+pdf: "/pdfs/avoiding-wealth-heres-my-plan.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/eliezer-yudkowsky-there-are-no-hard-problems-only-problems-t.pdf"
 tags: ["ai", "linkedin-original"]
 abstract: "Eliezer Yudkowsky:??There are no hard problems, only problems that are hard to a certain level of intelligence."
 ---

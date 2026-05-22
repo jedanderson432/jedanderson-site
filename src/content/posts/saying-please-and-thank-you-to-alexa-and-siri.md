@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Google Exec interview-----training AI to value the good in nature and humanity This interview surprised me. It's the most thoughtful discussion on AI I've ever heard--and I've heard a lot."
 license: CC-BY-4.0
+pdf: "/pdfs/saying-please-and-thank-you-to-alexa-and-siri.pdf"
 original_source: "Constant Contact campaign"
 ---
 

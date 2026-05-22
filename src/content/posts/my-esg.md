@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Investor? . . . Monitor the environmental performance of your stocks at the facility-level in real-time Are you an . . . Investor? Investment Firm? ‌ HOW IS MY STOCK ENVIRONMENTALLY PERFORMING TODAY?"
 license: CC-BY-4.0
+pdf: "/pdfs/my-esg.pdf"
 original_source: "Constant Contact campaign"
 ---
 

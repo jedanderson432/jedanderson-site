@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Buy your tickets now! Take a virtual tour of any facility or property in the country anytime you want----Phase 1 of the ENVIROVERSE is coming!"
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-tours.pdf"
 original_source: "Constant Contact campaign"
 ---
 

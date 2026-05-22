@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Our Customers . . . Teaching. \"Parenting\". Training AI for good."
 license: CC-BY-4.0
+pdf: "/pdfs/teaching-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

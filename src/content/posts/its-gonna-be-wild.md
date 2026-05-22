@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Artificial Intelligence running directly on Nature's Data Nature Data [](https://r20.rs6.net/tn.jsp?f=001aueaMM6FFOSLQnlU7ogKSc5PjxHebNGp4qHRkr-KgfgPshV5AVA2J0c-wO_Vg-5M2f_nJTsaJeSLYCpx7DIsRNfWbR_B3lN…"
 license: CC-BY-4.0
+pdf: "/pdfs/its-gonna-be-wild.pdf"
 original_source: "Constant Contact campaign"
 ---
 

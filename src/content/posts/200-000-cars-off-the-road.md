@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"The Triangle\"--Regional Environmental Treatment and Climate Change Mitigation ‌ The \"Triangle\" will also be one of the largest industrial community climate change mitigation projects in the world . ."
 license: CC-BY-4.0
+pdf: "/pdfs/200-000-cars-off-the-road.pdf"
 original_source: "Constant Contact campaign"
 ---
 

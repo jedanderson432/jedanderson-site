@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Environmental Sentiment Analysis\"---by EnviroAI Happy? Upset? TRACK ESG SENTIMENT . . . TRACK ENVIRONMENTAL SENTIMENT . . . ‌ . . . \"This is a truly amazing and powerful tool.\" - The Texas Tribune ."
 license: CC-BY-4.0
+pdf: "/pdfs/how-are-people-feeling-about-you-and-your-company.pdf"
 original_source: "Constant Contact campaign"
 ---
 

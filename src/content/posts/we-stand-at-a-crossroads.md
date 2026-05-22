@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/we-stand-at-a-crossroads.pdf"
 tags: ["thermodynamics", "enviroai", "linkedin-original"]
 abstract: "\"We stand at a crossroads. We can continue managing the planet with outdated tools and fragmented data, constantly battling the symptoms of environmental entropy."
 ---

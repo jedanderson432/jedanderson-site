@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "a \"ding in the environmental universe\" ~~Another day . . . another dollar~~ Put an environmental ding in the universe. ﻿ Want your environmental career to mean even more?"
 license: CC-BY-4.0
+pdf: "/pdfs/another-day.pdf"
 original_source: "Constant Contact campaign"
 ---
 

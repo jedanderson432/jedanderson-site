@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"When I see simplicity in the world . . . radical simplicity . . . creative simplicity . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/whitney-houston-and-the-single-electron-postulate.pdf"
 original_source: "Constant Contact campaign"
 ---
 

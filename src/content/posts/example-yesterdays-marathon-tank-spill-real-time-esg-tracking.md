@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Spills happen. Releases happen."
 license: CC-BY-4.0
+pdf: "/pdfs/example-yesterdays-marathon-tank-spill-real-time-esg-tracking.pdf"
 original_source: "Constant Contact campaign"
 ---
 

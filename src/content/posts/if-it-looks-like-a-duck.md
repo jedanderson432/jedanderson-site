@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . the universe ---\"If it looks like a duck, swims like a duck, and quacks like a duck . . . then its . . . not necessarily a duck . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/if-it-looks-like-a-duck.pdf"
 original_source: "Constant Contact campaign"
 ---
 

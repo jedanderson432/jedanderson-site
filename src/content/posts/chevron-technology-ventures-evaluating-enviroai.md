@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "More help arriving ‌ I sent out a request for help. The call was answered . . . as I knew it would be. It's not over-confidence. It's faith. Ask. Receive."
 license: CC-BY-4.0
+pdf: "/pdfs/chevron-technology-ventures-evaluating-enviroai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

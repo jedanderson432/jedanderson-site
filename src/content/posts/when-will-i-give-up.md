@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Trying to Protect Earth When will I quit? I'm often asked, especially by my family, \"When are you going to give up? . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/when-will-i-give-up.pdf"
 original_source: "Constant Contact campaign"
 ---
 

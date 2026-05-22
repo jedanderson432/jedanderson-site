@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Which will you choose?--------An opportunity to see the environment's deeper reality in order to better protect her at less cost."
 license: CC-BY-4.0
+pdf: "/pdfs/red-pill-blue-pill.pdf"
 original_source: "Constant Contact campaign"
 ---
 

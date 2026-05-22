@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Companies should view Environmental Departments more as \"Profit-Centers\" or integral parts of Operations ‌ Esteem for Environmental Staff Companies should view their environmental departments more as…"
 license: CC-BY-4.0
+pdf: "/pdfs/esteem-for-environmental-staff.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Companies paying for emissions . . . $$$$$$$$$ ---\"Companies would pay for treatment capacity in the Centers for Environmental Excellence and pay per pound for pollution treatment."
 license: CC-BY-4.0
+pdf: "/pdfs/per-pound.pdf"
 original_source: "Constant Contact campaign"
 ---
 

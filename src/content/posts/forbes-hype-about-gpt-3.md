@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"EnviroAI to use new language generator to help write permits\" ‌ ---\"GPT-3 can write books and social media posts. . ."
 license: CC-BY-4.0
+pdf: "/pdfs/forbes-hype-about-gpt-3.pdf"
 original_source: "Constant Contact campaign"
 ---
 

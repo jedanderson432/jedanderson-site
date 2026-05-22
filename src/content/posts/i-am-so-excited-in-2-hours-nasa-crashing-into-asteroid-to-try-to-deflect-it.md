@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Humanity holds nature's only hope for long-term survival. So ironic. So redemptive. So beautiful.\" - Jed Anderson, EnviroAI"
 license: CC-BY-4.0
+pdf: "/pdfs/i-am-so-excited-in-2-hours-nasa-crashing-into-asteroid-to-try-to-deflect-it.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . AI and Defending Nature ---\"Without AI, nature and humanity has no chance at long-term survival."
 license: CC-BY-4.0
+pdf: "/pdfs/i-got-my-nasa-certification-as-a-planetary-defender.pdf"
 original_source: "Constant Contact campaign"
 ---
 

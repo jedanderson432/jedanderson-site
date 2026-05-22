@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Faith. Faith. Faith------Building a system to help protect earth and humanity---EnviroAI Another $60,000 from my retirement account . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/another-60-000-from-my-retirement-account.pdf"
 original_source: "Constant Contact campaign"
 ---
 

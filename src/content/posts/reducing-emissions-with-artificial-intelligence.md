@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Information is Power ---\"Information is power . . .\" --Jed Anderson, Creator, Ceres AI REDUCE EMISSIONS WITH ARTIFICIAL INTELLIGENCE INTELLIGENCE.DATA. POWER."
 license: CC-BY-4.0
+pdf: "/pdfs/reducing-emissions-with-artificial-intelligence.pdf"
 original_source: "Constant Contact campaign"
 ---
 

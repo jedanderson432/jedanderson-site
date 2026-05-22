@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Cow-verse? Human productivity? Microsoft $70 Billion Acquisition of Activision----WSJ Article . Yes . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/metaverse-for-cows.pdf"
 original_source: "Constant Contact campaign"
 ---
 

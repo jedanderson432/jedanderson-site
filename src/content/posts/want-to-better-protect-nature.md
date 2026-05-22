@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/want-to-better-protect-nature.pdf"
 tags: ["enviroai", "ai", "physics", "linkedin-original"]
 abstract: "Want to better protect nature?   \"Think\" more like her.   Design systems to think more like she \"thinks\" (i.e. processes information) . . . (e.g."
 ---

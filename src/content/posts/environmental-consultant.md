@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Save your Client Money and Time [](http://r20.rs6.net/tn.jsp?f=001wKbC3TSlq6ly0Zda3lA3SPGjY03BGoMbGFZShskidzPmG9yiqcDFIl8epiXDz8AeKf2Unce3xUM6pJ4jV31kDq5QWJlxSO1qOApH0Aq-WZoK_99ujUzzYKqRpw5-q0prBug39I…"
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-consultant.pdf"
 original_source: "Constant Contact campaign"
 ---
 

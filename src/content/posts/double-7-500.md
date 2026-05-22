@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "No risk. EnviroAI will give your money back if our environmental artificial intelligence and data service doesn't help you identify at least $15,000 in environmental cost savings for your company."
 license: CC-BY-4.0
+pdf: "/pdfs/double-7-500.pdf"
 original_source: "Constant Contact campaign"
 ---
 

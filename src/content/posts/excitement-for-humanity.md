@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"We're saving this thing! Until recently I thought us humans might be an overall destructive force to earth. Now I realized we were just learning."
 license: CC-BY-4.0
+pdf: "/pdfs/excitement-for-humanity.pdf"
 original_source: "Constant Contact campaign"
 ---
 

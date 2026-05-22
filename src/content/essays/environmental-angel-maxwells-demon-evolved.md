@@ -8,7 +8,7 @@ tags: ['foundational', 'thermodynamics', 'maxwell', 'enviroai', 'paper', 'causal
 abstract: 'Adapts Maxwell''s demon—the 19th-century thought experiment of an information-driven agent that locally reduces entropy—into a rigorous proposal for an ''Environmental Angel'': an information-driven entity that controls environmental entropy to protect natural systems. Establishes the conceptual character that subsequent essays continue to develop into ''Jed''s Angel'' and Environmental Superintelligence.'
 license: CC-BY-4.0
 co_authors: ['Google Gemini Pro 2.5 Deep Research']
-pdf: '/pdfs/environmental-angel-maxwells-demon-evolved.pdf'
+pdf: "/pdfs/environmental-angel-maxwells-demon-evolved.pdf"
 hero_image: '/images/environmental-angel-maxwells-demon-evolved-hero.png'
 hero_image_alt: 'First page of The Environmental Angel: Information, Entropy, and the Thermodynamic Limits of Ecological Control'
 ---

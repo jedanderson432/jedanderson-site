@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ Create an \"Environmental App\" You bring the idea . . . . . . we bring the AI."
 license: CC-BY-4.0
+pdf: "/pdfs/build-an-app.pdf"
 original_source: "Constant Contact campaign"
 ---
 

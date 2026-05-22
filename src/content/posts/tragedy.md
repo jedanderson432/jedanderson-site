@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Site of devastating 2014 human and environmental tragedy becomes home to world's largest environmental improvement center Site of devastating 2014 human and environmental tragedy now to become home to…"
 license: CC-BY-4.0
+pdf: "/pdfs/tragedy.pdf"
 original_source: "Constant Contact campaign"
 ---
 

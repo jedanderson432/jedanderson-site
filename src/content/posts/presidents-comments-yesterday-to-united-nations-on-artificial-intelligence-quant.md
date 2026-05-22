@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Reshape every aspect of human existence\" President's speech yesterday to United Nations . . . New technologies (artificial intelligence and quantum computing specifically) have the potential to . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/presidents-comments-yesterday-to-united-nations-on-artificial-intelligence-quant.pdf"
 original_source: "Constant Contact campaign"
 ---
 

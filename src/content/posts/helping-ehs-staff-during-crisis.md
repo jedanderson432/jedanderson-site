@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Allowing environmental professionals to remotely access data and automate certain environmental research/review tasks HELPING EHS STAFF DURING CRISIS Ceres AI is helping environmental professionals du…"
 license: CC-BY-4.0
+pdf: "/pdfs/helping-ehs-staff-during-crisis.pdf"
 original_source: "Constant Contact campaign"
 ---
 

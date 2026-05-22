@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "massive AI and Quantum spending increase-----Trump increased budget by $1 billion . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/they-agree-biden-and-trump-pushing.pdf"
 original_source: "Constant Contact campaign"
 ---
 

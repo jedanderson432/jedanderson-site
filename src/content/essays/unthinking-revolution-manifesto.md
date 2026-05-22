@@ -8,7 +8,7 @@ tags: ['enviroai', 'whitehead', 'legal-reform', 'paper', 'treatise']
 abstract: 'A manifesto addressed to environmental professionals confronting the ethical trilemma of the Agentic Shift: embrace irrelevance, embrace poverty, or embrace deception. Names the resolution as the Expert-in-the-Loop (EEL)—strategist, orchestrator, and arbiter of quality and ethics—and outlines a value-based engagement model in which honesty and best-tool-use is the most direct path to profitability.'
 license: CC-BY-4.0
 co_authors: ['Grok 4 Thinking', 'ChatGPT-5 Thinking', 'Google Gemini Pro 2.5 Deep Research']
-pdf: '/pdfs/unthinking-revolution-manifesto.pdf'
+pdf: "/pdfs/unthinking-revolution-manifesto.pdf"
 hero_image: '/images/unthinking-revolution-manifesto-hero.png'
 hero_image_alt: 'First page of The Unthinking Revolution: A Manifesto for the Environmental Profession'
 ---

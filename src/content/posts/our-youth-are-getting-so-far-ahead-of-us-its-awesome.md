@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "My talks with young men from Kingwood High School about AI and information theory ﻿. . . some of these young men were so far ahead of my thinking . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/our-youth-are-getting-so-far-ahead-of-us-its-awesome.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ WORDS and IDEAS ---\"No matter what people tell you, words and ideas can change the world.\"- Robin Williams ‌ ---\"Go change the world.\" - Jed Anderson, Creator, EnviroAI [](http://r20.rs6.net/tn.jsp?"
 license: CC-BY-4.0
+pdf: "/pdfs/lots-of-emails.pdf"
 original_source: "Constant Contact campaign"
 ---
 

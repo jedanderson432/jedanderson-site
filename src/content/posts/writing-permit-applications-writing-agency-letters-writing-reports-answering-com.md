@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "MINDBOGGLING ADVANCEMENTS HAPPENING!!!! Micrsoft . . . Google . . . ChatGPT . . . \"BingChat\" . . . GPT4 . . . DeepMind . . . Sparrow/LaMDA . . . Baidu's Ernie . . .\"TUNDRA-CHAT\""
 license: CC-BY-4.0
+pdf: "/pdfs/writing-permit-applications-writing-agency-letters-writing-reports-answering-com.pdf"
 original_source: "Constant Contact campaign"
 ---
 

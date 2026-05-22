@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Follow our newest accounts to stay in the know with Enviro.AI's biggest and brightest updates!"
 license: CC-BY-4.0
+pdf: "/pdfs/protecting-the-environment-on-social-media.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Come find out . . . October Speaking Events: TAEP, AWMA, HBA, BIC Magazine Speaking events in October . . . . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/can-i-teach-quantum-physics-quantum-computing-and-artificial-intelligence-in-les.pdf"
 original_source: "Constant Contact campaign"
 ---
 

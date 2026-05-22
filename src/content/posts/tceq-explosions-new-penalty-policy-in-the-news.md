@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Deviations, Audit Findings, Corrective Actions, Upsets, Enforcement Orders, Consent Decree Conditions-----Track them with EnviroAI!"
 license: CC-BY-4.0
+pdf: "/pdfs/tceq-explosions-new-penalty-policy-in-the-news.pdf"
 original_source: "Constant Contact campaign"
 ---
 

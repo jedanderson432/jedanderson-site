@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "a magical night tonight . . . . . . The universe is magical. And where there is magic . . . there must be a magician. The universe is computing."
 license: CC-BY-4.0
+pdf: "/pdfs/a-magical-night-tonight.pdf"
 original_source: "Constant Contact campaign"
 ---
 

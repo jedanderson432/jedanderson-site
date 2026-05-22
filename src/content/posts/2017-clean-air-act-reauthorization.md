@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2017/02/01/2017-clean-air-act-
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/2017-clean-air-act-reauthorization.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: 'Here are slides from the draft legislation to reauthorize the U.S. Clean Air Act.'
 ---

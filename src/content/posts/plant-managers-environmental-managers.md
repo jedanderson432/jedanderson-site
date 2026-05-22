@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Protected? Increase legal protection. Give your company and employees more peace of mind. PROTECT?"
 license: CC-BY-4.0
+pdf: "/pdfs/plant-managers-environmental-managers.pdf"
 original_source: "Constant Contact campaign"
 ---
 

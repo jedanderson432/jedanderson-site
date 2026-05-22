@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental Protection in the \"Environmental Metaverse\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/audits-inspections-due-dilligence-in-the-enviroverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Augmenting Human EHS Intelligence Think of Ceres AI almost as a smart external hard-drive."
 license: CC-BY-4.0
+pdf: "/pdfs/can-we-give-your-brain-more-data.pdf"
 original_source: "Constant Contact campaign"
 ---
 

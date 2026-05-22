@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Faithing\" New Olympic Event? \"FAITHING\" ‌ I was thinking this morning that if there was a new Olympic event called \"faithing\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/new-olympic-event.pdf"
 original_source: "Constant Contact campaign"
 ---
 

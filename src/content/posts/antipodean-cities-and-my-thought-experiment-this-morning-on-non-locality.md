@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Is there anything that's really \"non-local\"? ‌ I woke about at 3:30 this morning thinking about Bell's inequality theorem. I don't know why."
 license: CC-BY-4.0
+pdf: "/pdfs/antipodean-cities-and-my-thought-experiment-this-morning-on-non-locality.pdf"
 original_source: "Constant Contact campaign"
 ---
 

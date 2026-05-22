@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Universe is over a billion times smaller than it is big . . . MACHINE LEARNING ON THE PLANCK SCALE? Machine-learning on the Planck scale? . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/the-amount-of-space-in-space-is-incredible.pdf"
 original_source: "Constant Contact campaign"
 ---
 

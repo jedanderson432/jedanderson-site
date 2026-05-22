@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "It's now the most powerful environmental compliance system in the world . . . IT'S NOW THE MOST POWERFUL ENVIRONMENTAL PROTECTION SYSTEM IN THE WORLD."
 license: CC-BY-4.0
+pdf: "/pdfs/indisputable.pdf"
 original_source: "Constant Contact campaign"
 ---
 

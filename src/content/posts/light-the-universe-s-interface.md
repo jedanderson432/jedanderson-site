@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/light-the-universe-s-interface.pdf"
 tags: ["physics", "faith", "linkedin-original"]
 abstract: "LIGHT = the universe’s interface.  ? Quantum: wave when observed one way, particle the other.  ? Relativistic: the one constant that clocks spacetime.  ? Biological: fuel for life, canvas for sight, spark for thought."
 ---

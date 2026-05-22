@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Is it positive?"
 license: CC-BY-4.0
+pdf: "/pdfs/what-are-people-saying-about-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

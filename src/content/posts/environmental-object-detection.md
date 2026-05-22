@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How do we do it? ---\"Similar to an MRI machine using AI object detection to look for anomalies in your body . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-object-detection.pdf"
 original_source: "Constant Contact campaign"
 ---
 

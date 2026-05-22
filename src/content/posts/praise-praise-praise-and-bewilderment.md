@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Job's Response in light of Quantum Field Theory ‌ I just get giddy with excitement reading passages like this . . . Praise. Praise. Praise. ‌ \"God doesn't even mention quantum field theory to Job . ."
 license: CC-BY-4.0
+pdf: "/pdfs/praise-praise-praise-and-bewilderment.pdf"
 original_source: "Constant Contact campaign"
 ---
 

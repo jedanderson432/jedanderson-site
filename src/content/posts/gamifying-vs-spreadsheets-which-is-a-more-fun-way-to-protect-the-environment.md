@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"The Clean Air Act would be much more fun as a video game.\" - Jed Anderson, CEO of EnviroAI and Creator of the EnviroVerse"
 license: CC-BY-4.0
+pdf: "/pdfs/gamifying-vs-spreadsheets-which-is-a-more-fun-way-to-protect-the-environment.pdf"
 original_source: "Constant Contact campaign"
 ---
 

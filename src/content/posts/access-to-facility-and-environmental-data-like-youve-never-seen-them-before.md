@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "THIS WILL SHOCK EVERYONE IN INDUSTRY . . . and everyone in the environmental regulatory and compliance business . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/access-to-facility-and-environmental-data-like-youve-never-seen-them-before.pdf"
 original_source: "Constant Contact campaign"
 ---
 

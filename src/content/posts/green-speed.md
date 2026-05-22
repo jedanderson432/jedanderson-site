@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Speeding up the human-nature data exchange rate---EnviroAI ‌ \"Green Speed\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/green-speed.pdf"
 original_source: "Constant Contact campaign"
 ---
 

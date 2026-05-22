@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "President Asks AI Companies to Comb through Research on Covid-19 Artificial Intelligence battling COVID-19 (finding uses in both environmental & health protection) --\"Pattern recognition across volumi…"
 license: CC-BY-4.0
+pdf: "/pdfs/white-house-call-out-to-artificial-intelligence-companies.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "AI and Quantum Technologies in Environmental Protection ‌ World's Leading Thinker & Developer AI & Quantum Tech in Environmental Protection --\"Artificial intelligence and quantum technologies will sig…"
 license: CC-BY-4.0
+pdf: "/pdfs/worlds-leading-thinker-developer-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Godel's Incompleteness Theorem . . . Heisenberg's Uncertainty Principle . . . Turing's Halting Problem ‌ I'm so thankful today for friends and family . . . and black holes."
 license: CC-BY-4.0
+pdf: "/pdfs/thanksgiving-for-black-holes.pdf"
 original_source: "Constant Contact campaign"
 ---
 

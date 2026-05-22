@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/the-1-9t-ai-boom-isn-t-killing-earth.pdf"
 tags: ["thermodynamics", "ai", "physics", "monitoring", "linkedin-original"]
 abstract: "The $1.9T AI Boom Isn't Killing Earth. It's Building Earth's Brain. The environmental crisis isn't a failure of will. It's a failure of architecture."
 ---

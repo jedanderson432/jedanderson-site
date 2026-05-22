@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "$17.95 a month for EnviroAI access STATES USING ARTIFICIAL INTELLIGENCE Facing Limited Resources, States Eye AI To Boost Air, Water Enforcement March 18, 2021 States are weighing the potential for usi…"
 license: CC-BY-4.0
+pdf: "/pdfs/insideepa-article-facing-limited-resources-states-eye-ai-to-boost-air-water-enfo.pdf"
 original_source: "Constant Contact campaign"
 ---
 

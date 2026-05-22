@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "What does it Webb mean to ENVIRONMENTAL PROTECTION???"
 license: CC-BY-4.0
+pdf: "/pdfs/hip-hip-hooray-launch-of-humanitys-christmas-gift.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Go the distance. Building a machine to protect nature. Build it and he will come. I often feel like this guy . . . building a \"machine\" to protect nature."
 license: CC-BY-4.0
+pdf: "/pdfs/field-of-dreams-whitesox-vs-yankees.pdf"
 original_source: "Constant Contact campaign"
 ---
 

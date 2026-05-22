@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"$20k a month . . . that's all the resources God has given me at this point\" ---\"Nature smiles. \" - Jed Anderson Why can't I build this machine to protect humanity and nature faster?"
 license: CC-BY-4.0
+pdf: "/pdfs/why-not-faster-development.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2015/06/16/clean-air-act-heade
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/clean-air-act-headed-for-simplicity.pdf"
 tags: ['clean-air-act', 'simplicity']
 abstract: '> ## ***Sentiment:*** **“Life was simpler a 100 years ago.”**'
 ---

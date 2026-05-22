@@ -7,6 +7,7 @@ original_source: 'https://www.linkedin.com/feed/'
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/both-things-are-true-at-once.pdf"
 tags: ['enviroai', 'cosmic-ledger', 'causal-sovereignty']
 abstract: "Most children's books about the planet tell kids a true thing, but not the whole truth—that humans have hurt the Earth. They often leave out the harder, more hopeful truth: humans are also the only species that can choose to protect the rest of life on purpose."
 ---

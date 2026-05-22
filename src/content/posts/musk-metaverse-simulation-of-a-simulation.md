@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Include nature in the simulation? ‌ Metaverse . . . \"Simulation of a Simulation\"?"
 license: CC-BY-4.0
+pdf: "/pdfs/musk-metaverse-simulation-of-a-simulation.pdf"
 original_source: "Constant Contact campaign"
 ---
 

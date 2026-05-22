@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Why? Why improve environmental protection? Why make earth safer? Why do more to protect people, planet, and profits? Love. Love. Love. Love. Love. Love. Love. Love. Love. Love. Love. Love. Love. Love."
 license: CC-BY-4.0
+pdf: "/pdfs/people-planet-and-profits.pdf"
 original_source: "Constant Contact campaign"
 ---
 

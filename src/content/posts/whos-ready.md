@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Joy. Fun. Adventure. Joy. Fun.Adventure. Who's ready for adventure? . . . something fresh? something new? something bold?"
 license: CC-BY-4.0
+pdf: "/pdfs/whos-ready.pdf"
 original_source: "Constant Contact campaign"
 ---
 

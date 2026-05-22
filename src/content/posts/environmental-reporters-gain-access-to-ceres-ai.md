@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Texas Tribune Reporter . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-reporters-gain-access-to-ceres-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

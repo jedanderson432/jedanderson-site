@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"Be light.\" - Jed Anderson, Creator, EnviroAI “Let light shine out of darkness.” Anonymous “Look at how a single candle can both defy and define the darkness.” – Anne Frank “Darkness cannot drive o…"
 license: CC-BY-4.0
+pdf: "/pdfs/be-light.pdf"
 original_source: "Constant Contact campaign"
 ---
 

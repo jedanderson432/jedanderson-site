@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Advanced environmental diagnostics---EnviroAI Apps ‌ Keep your workers and the community safe! Use advanced environmental diagnostics! Stay healthy!"
 license: CC-BY-4.0
+pdf: "/pdfs/healthy-stay-healthy.pdf"
 original_source: "Constant Contact campaign"
 ---
 

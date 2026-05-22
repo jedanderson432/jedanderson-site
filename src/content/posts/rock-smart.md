@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Computational power of nature-------2 lb rock = a million trillion trillion trillon bits per second ---\"Nature is computing. Everything is essentially making 'yes/no' decisions."
 license: CC-BY-4.0
+pdf: "/pdfs/rock-smart.pdf"
 original_source: "Constant Contact campaign"
 ---
 

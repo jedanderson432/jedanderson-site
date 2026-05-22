@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "The bigger picture . . . ‌ AUDITING . . . HOW DO YOU LOOK?"
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-performance.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "“Find a group of people who challenge and inspire you, spend a lot of time with them, and it will change your life forever.”– Amy Poehler"
 license: CC-BY-4.0
+pdf: "/pdfs/picture-of-our-team-working-this-morning.pdf"
 original_source: "Constant Contact campaign"
 ---
 

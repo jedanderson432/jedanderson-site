@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . without even walking through the fence. Handy tool for environmental professionals and others. \"Handy\" tor environmental professionals and others . . . Go to your customer's facility . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/go-to-any-chemical-plant.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A metaverse for environmental work . . . \"The EnviroVerse\" ﻿Citi report says metaverse economy could be worth $13 trillion by 2030."
 license: CC-BY-4.0
+pdf: "/pdfs/citi-says-metaverse-economy-could-be-worth-13-trillion-by-2030.pdf"
 original_source: "Constant Contact campaign"
 ---
 

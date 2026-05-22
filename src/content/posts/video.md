@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"The Powers of AI Air\" MORE FUN!"
 license: CC-BY-4.0
+pdf: "/pdfs/video.pdf"
 original_source: "Constant Contact campaign"
 ---
 

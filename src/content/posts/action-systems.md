@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "New Promo Video! Play! Latest video!"
 license: CC-BY-4.0
+pdf: "/pdfs/action-systems.pdf"
 original_source: "Constant Contact campaign"
 ---
 

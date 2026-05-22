@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Companies offering automated drone environmental artificial intelligence services Airobotics & EnviroAI Sign Agreement for Environmental Drone AI Services August 26, 2020 - Houston Airobotics, a Wall…"
 license: CC-BY-4.0
+pdf: "/pdfs/breaking-news-airobotics-enviroai-sign-agreement.pdf"
 original_source: "Constant Contact campaign"
 ---
 

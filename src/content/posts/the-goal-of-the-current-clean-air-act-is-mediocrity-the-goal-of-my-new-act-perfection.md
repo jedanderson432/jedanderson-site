@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2017/12/29/the-goal-of-the-cur
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/the-goal-of-the-current-clean-air-act-is-mediocrity-the-goal-of-my-new-act-perfection.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: 'The goal of the current Clean Air Act of 1970-1990 is mediocrity. The purpose is to find a “safe” level of pollution using an increasing amount of regulations. Mediocrity. Like a student setting a goal of getting a “C”.'
 ---

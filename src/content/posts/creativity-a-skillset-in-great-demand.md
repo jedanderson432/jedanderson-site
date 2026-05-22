@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Job's and Anderson's comments on \"creativity\" CREATIVITY. Connecting . . .AI. Nature. Environmental Protection. ---“Creativity is just connecting things. All is data. It’s patterns in data."
 license: CC-BY-4.0
+pdf: "/pdfs/creativity-a-skillset-in-great-demand.pdf"
 original_source: "Constant Contact campaign"
 ---
 

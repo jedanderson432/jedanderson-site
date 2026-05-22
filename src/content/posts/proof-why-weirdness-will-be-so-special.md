@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Quantum AI Environmental Protection Machine \"Normal\" Classical Physics is Just as Weird as Quantum Physics . . . let's be honest with ourselves about this fact."
 license: CC-BY-4.0
+pdf: "/pdfs/proof-why-weirdness-will-be-so-special.pdf"
 original_source: "Constant Contact campaign"
 ---
 

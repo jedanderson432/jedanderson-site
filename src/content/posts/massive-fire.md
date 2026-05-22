@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Chemical facility in Channelview Massive fire at chemical storage facility in Channelview . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/massive-fire.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental reaction? Google CEO's recent comment . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/google-ceo-ai-is-more-profound-than-the-internet-fire-or-electricity.pdf"
 original_source: "Constant Contact campaign"
 ---
 

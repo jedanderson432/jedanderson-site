@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Is my activity legal?\"----New Environmental Legal Services Offering with Machine-Learning---Help Protect Yourself and Your Company . . . It's a brand new environmental legal services offering! . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/legal-opinion-letter.pdf"
 original_source: "Constant Contact campaign"
 ---
 

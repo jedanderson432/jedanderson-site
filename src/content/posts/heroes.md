@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"We need environmental heroes.\" - Jed Anderson, Environmental Entrepreneur One trait all heroes have in common is that they are nonconformists."
 license: CC-BY-4.0
+pdf: "/pdfs/heroes.pdf"
 original_source: "Constant Contact campaign"
 ---
 

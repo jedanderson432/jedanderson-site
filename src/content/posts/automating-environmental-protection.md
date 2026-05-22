@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How many tasks can EnviroAI automate? ‌ How many tasks can EnviroAI automate?"
 license: CC-BY-4.0
+pdf: "/pdfs/automating-environmental-protection.pdf"
 original_source: "Constant Contact campaign"
 ---
 

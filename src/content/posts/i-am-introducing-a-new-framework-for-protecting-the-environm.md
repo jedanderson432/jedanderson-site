@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/i-am-introducing-a-new-framework-for-protecting-the-environm.pdf"
 tags: ["linkedin", "linkedin-original"]
 abstract: "I am introducing a new framework for protecting the environment called the \"Holographic Negentropic Framework\"."
 ---

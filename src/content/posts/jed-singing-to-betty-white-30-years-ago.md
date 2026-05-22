@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"I'm not throwing away my shot . . . ﻿Betty White . . . A picture of me and my friends singing to Betty White . . .30 years ago . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/jed-singing-to-betty-white-30-years-ago.pdf"
 original_source: "Constant Contact campaign"
 ---
 

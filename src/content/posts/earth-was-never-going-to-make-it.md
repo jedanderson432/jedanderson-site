@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/earth-was-never-going-to-make-it.pdf"
 tags: ["enviroai", "linkedin-original"]
 abstract: "Earth was never going to make it. We are why it might. That's the closing line of a children's book I just wrote. Same thesis I've been working on for years: Environmental Superintelligence, Earth Rules, why minds matter to a planet . . ."
 ---

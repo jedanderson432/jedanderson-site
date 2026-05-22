@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Virtual Environmental Tour\" . . . with Ceres AI ﻿Take a \"Virtual Environmental Tour\" with Ceres AI . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/houston-chronicle-article-virtual-reality-tour-lets-you-peek-inside-a-refinery.pdf"
 original_source: "Constant Contact campaign"
 ---
 

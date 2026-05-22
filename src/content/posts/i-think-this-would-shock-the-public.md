@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"When is the last time you saw your facility?????????\" \"I know environmental managers who haven't seen their facilities in months . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/i-think-this-would-shock-the-public.pdf"
 original_source: "Constant Contact campaign"
 ---
 

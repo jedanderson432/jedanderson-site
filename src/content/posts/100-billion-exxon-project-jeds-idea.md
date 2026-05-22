@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Regardess . . . it's a great idea! Bravo ExxonMobil!!! It's all over the news today . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/100-billion-exxon-project-jeds-idea.pdf"
 original_source: "Constant Contact campaign"
 ---
 

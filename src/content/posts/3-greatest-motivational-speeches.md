@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . and my take-aways in building a \"machine\" to protect earth 3 Greatest ﻿Motivational Speeches My list of the 3 greatest motivational speeches of all time . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/3-greatest-motivational-speeches.pdf"
 original_source: "Constant Contact campaign"
 ---
 

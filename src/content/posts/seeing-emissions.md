@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Can we? Environmental intelligence. Enviro AI. See Emissions Can Enviro AI?"
 license: CC-BY-4.0
+pdf: "/pdfs/seeing-emissions.pdf"
 original_source: "Constant Contact campaign"
 ---
 

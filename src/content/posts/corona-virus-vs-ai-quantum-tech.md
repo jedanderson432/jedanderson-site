@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "If technology could save you . . . would you let it? If technology could save you or the environment . . . would you let it? Corona Virus vs."
 license: CC-BY-4.0
+pdf: "/pdfs/corona-virus-vs-ai-quantum-tech.pdf"
 original_source: "Constant Contact campaign"
 ---
 

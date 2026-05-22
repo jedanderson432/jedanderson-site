@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . in Texas and Louisiana environmental agency files \"Environmental Justice\"?"
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-justice-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

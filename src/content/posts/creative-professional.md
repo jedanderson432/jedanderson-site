@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Scientific American Article . . . and Quotes for You Creative professional? ‌ Are you still this girl?"
 license: CC-BY-4.0
+pdf: "/pdfs/creative-professional.pdf"
 original_source: "Constant Contact campaign"
 ---
 

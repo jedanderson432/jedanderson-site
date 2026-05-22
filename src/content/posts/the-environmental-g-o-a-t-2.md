@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . I'm the greatest environmental problem solver of all time Ali wasn't scared to tell people he was the greatest. I'm not either."
 license: CC-BY-4.0
+pdf: "/pdfs/the-environmental-g-o-a-t-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How much environmental data can you access in 3 seconds? ‌ Ready???. . . Go! How much environmental data can you access in less than 3 seconds? EnvironmentalKnowledge. Intelligence. Power."
 license: CC-BY-4.0
+pdf: "/pdfs/ready-go.pdf"
 original_source: "Constant Contact campaign"
 ---
 

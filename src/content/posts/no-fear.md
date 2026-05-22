@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Faith. $3 million invested. Courage. NO FEAR. FAITH. Too much fear in the world right now. Faith. Courage."
 license: CC-BY-4.0
+pdf: "/pdfs/no-fear.pdf"
 original_source: "Constant Contact campaign"
 ---
 

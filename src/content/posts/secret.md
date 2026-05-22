@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How is EnviroAI getting so powerful . . . so fast? No secret . . . Picasso, Emerson, Twain, T.S. Eliot . . . I was asked yesterday how EnviroAI is getting so powerful so fast."
 license: CC-BY-4.0
+pdf: "/pdfs/secret.pdf"
 original_source: "Constant Contact campaign"
 ---
 

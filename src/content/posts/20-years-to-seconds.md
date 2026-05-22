@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Speeding up environmental protection by speeding up the human-to-nature information exchange rate---EnviroAI Speeding up environmental protection by speeding up the human-to-nature information exchang…"
 license: CC-BY-4.0
+pdf: "/pdfs/20-years-to-seconds.pdf"
 original_source: "Constant Contact campaign"
 ---
 

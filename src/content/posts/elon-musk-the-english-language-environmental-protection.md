@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Improving Data Transfer Improving Data Transfer Humans & Nature 1. LANGUAGE WILL IMPROVE Recent Elon Musk tweet: Musk sometimes overplays the future. Here I think he's underplayed it."
 license: CC-BY-4.0
+pdf: "/pdfs/elon-musk-the-english-language-environmental-protection.pdf"
 original_source: "Constant Contact campaign"
 ---
 

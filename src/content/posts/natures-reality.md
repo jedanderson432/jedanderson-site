@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Simulating and Protecting the Environment ENVIRONMENTAL REALITY [](http://r20.rs6.net/tn.jsp?f=001qZeuz_Mz6JAFAKyxXIfLwU_uYH2wHh_8kKyp6cN0NqHE8DOMGMnpXJ9wQ46NtsWr2xrQhuFOMA0z-7oBmzOUh7bTdL5Ugx7KetKJVV…"
 license: CC-BY-4.0
+pdf: "/pdfs/natures-reality.pdf"
 original_source: "Constant Contact campaign"
 ---
 

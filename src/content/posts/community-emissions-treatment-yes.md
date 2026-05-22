@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Our initial $224,400 investment . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/community-emissions-treatment-yes.pdf"
 original_source: "Constant Contact campaign"
 ---
 

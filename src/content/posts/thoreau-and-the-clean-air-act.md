@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2013/08/19/thoreau-and-the-cle
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/thoreau-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/thoreau-and-the-clean-air-act2.png)I wonder what Thoreau would think about the Clean Air Act?'
 ---

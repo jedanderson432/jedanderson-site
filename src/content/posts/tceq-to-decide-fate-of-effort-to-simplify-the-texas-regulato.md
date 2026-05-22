@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/pulse/tceq-decide-fate-effort-simplif
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/tceq-to-decide-fate-of-effort-to-simplify-the-texas-regulato.pdf"
 tags: ["clean-air-act", "policy", "tceq", "simplicity", "linkedin-original"]
 abstract: "![](https://media.licdn.com/mediaC5112AQHvX0VxMo7Arg) ## **Will TCEQ choose to incorporate regulatory self-discipline into their lives on Wednesday . . ."
 ---

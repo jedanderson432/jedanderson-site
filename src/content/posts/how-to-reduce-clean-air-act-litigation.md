@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2012/08/20/how-to-reduce-clean
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/how-to-reduce-clean-air-act-litigation.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/legal.jpg)One of the central focuses of the Congressional Clean Air Act Forums so far has been the crazy amount of litigation on air quality matters.'
 ---

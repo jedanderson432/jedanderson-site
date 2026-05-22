@@ -8,7 +8,7 @@ status: published
 tags: ["cornerstone", "foundational", "environmental-superintelligence", "deutsch", "hard-to-vary", "cosmic-ledger", "enviroai"]
 abstract: "An essay—and the founding case for environmental superintelligence. The four-billion-year arc from extinction-vulnerable biosphere to knowledge-creating defender, and why the species that built fossil-fuel infrastructure is also the only species that has ever solved a planetary problem."
 license: CC-BY-4.0
-pdf: "/pdfs/the-first-defender.pdf"
+pdf: "/pdfs/first-defender.pdf"
 hero_image: "/images/the-first-defender-cover.jpg"
 hero_image_alt: "A luminous human figure with arms outstretched, body merged into the trunk of a massive ancient tree. Golden light radiates from the trunk and through the canopy above, where birds are in flight."
 pdf_canonical: true

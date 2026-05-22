@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/for-anyone-who-loves-nature-information-technology-has-revea.pdf"
 tags: ["enviroai", "physics", "causal-sovereignty", "linkedin-original"]
 abstract: "For anyone who loves nature:  Information technology has revealed a profound truth hidden in physics about a new way to protect her. Bit protect it. Paper in comments."
 ---

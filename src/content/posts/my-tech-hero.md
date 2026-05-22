@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "labeled as \"delusional\" and a \"woman\" (in a derogatory tone) by society in the 1800's (by both men and women)"
 license: CC-BY-4.0
+pdf: "/pdfs/my-tech-hero.pdf"
 original_source: "Constant Contact campaign"
 ---
 

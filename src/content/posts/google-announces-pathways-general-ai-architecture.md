@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Google's new \"General Intelligence\" AI Architecture---The \"Pathway\" to General Intelligence and what it means to EnviroAI's goals and environmental capabilities . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/google-announces-pathways-general-ai-architecture.pdf"
 original_source: "Constant Contact campaign"
 ---
 

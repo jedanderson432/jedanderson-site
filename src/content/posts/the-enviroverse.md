@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "The \"Environmental Metaverse\" ."
 license: CC-BY-4.0
+pdf: "/pdfs/the-enviroverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

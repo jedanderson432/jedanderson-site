@@ -4,18 +4,23 @@ const year = new Date().getUTCFullYear();
 ---
 
 <footer class="border-t border-rule mt-20">
-  <div class="mx-auto max-w-3xl px-4 py-8 text-sm text-muted flex flex-wrap items-center justify-between gap-3">
-    <div>
-      &copy; {year} {SITE.author}. Content licensed
-      <a href="https://creativecommons.org/licenses/by/4.0/" class="underline hover:text-ink"
-        >CC-BY-4.0</a
-      > unless otherwise noted.
+  <div class="mx-auto max-w-3xl px-4 py-8 text-sm text-muted space-y-3">
+    <div class="flex flex-wrap items-center justify-between gap-3">
+      <div>
+        &copy; {year} {SITE.author}. Content licensed
+        <a href="https://creativecommons.org/licenses/by/4.0/" class="underline hover:text-ink"
+          >CC-BY-4.0</a
+        > unless otherwise noted.
+      </div>
+      <div class="flex items-center gap-4">
+        <a href="/archive" class="hover:text-ink">Archive</a>
+        <a href={SITE.github} class="hover:text-ink">GitHub</a>
+        <a href="/feed.xml" class="hover:text-ink">RSS</a>
+        <a href="/llms.txt" class="hover:text-ink">llms.txt</a>
+      </div>
     </div>
-    <div class="flex items-center gap-4">
-      <a href="/archive" class="hover:text-ink">Archive</a>
-      <a href={SITE.github} class="hover:text-ink">GitHub</a>
-      <a href="/feed.xml" class="hover:text-ink">RSS</a>
-      <a href="/llms.txt" class="hover:text-ink">llms.txt</a>
+    <div class="text-xs">
+      {SITE.author} · <a href={`mailto:${SITE.email}`} class="underline hover:text-ink">{SITE.email}</a>
     </div>
   </div>
 </footer>

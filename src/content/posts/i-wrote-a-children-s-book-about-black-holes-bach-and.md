@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/i-wrote-a-children-s-book-about-black-holes-bach-and.pdf"
 tags: ["enviroai", "ai", "physics", "monitoring", "simplicity", "linkedin-original"]
 abstract: "I wrote a children's book about black holes, Bach, and why nothing can know itself completely. It's also about why I believe environmental superintelligence is possible and necessary."
 ---

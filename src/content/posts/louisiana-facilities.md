@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Louisiana Facilities . . . like you've never seen them before . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/louisiana-facilities.pdf"
 original_source: "Constant Contact campaign"
 ---
 

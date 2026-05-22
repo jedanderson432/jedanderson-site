@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Video Machine Learning and EnviroAI Intelligence Platform [](http://r20.rs6.net/tn.jsp?f=0011WXk6xDGinZHDF6lu2ZFRob-mGnrQe8gtMPN7RlFjk1iexUxbZ8yaVwsA2ecUdBJrsp4fALPXVdNLBISRORO59-bMFY_wiaAMwsnP6qwupUK…"
 license: CC-BY-4.0
+pdf: "/pdfs/drone-trained-to-recognize-pollution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

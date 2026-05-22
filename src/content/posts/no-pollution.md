@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"The greatest environmental entrepreneur in the world says he will 'end pollution'.\" ---\"By 2050 there will be no more pollution.\" - Jed Anderson, Environmental Entrepreneur The greatest environmental…"
 license: CC-BY-4.0
+pdf: "/pdfs/no-pollution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

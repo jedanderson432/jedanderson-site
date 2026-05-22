@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Metaverse . . . ALL LIVING THINGS!!! . . . (not just a domain for human interests) BUILDING A METAVERSE INCLUSIVE OF ALL LIFE . . . . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/human-only.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Thanks for the quick responses I'm receiving. All glory . . . and investment decisions . . . to God. :) 1st pitch deck in human history ever written to God . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/lots-of-people-write-letters-to-god-im-pretty-sure-this-is-the-1st-pitch-deck-go.pdf"
 original_source: "Constant Contact campaign"
 ---
 

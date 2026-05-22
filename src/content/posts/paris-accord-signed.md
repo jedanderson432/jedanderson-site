@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2015/12/14/paris-accord-signed
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/paris-accord-signed.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/whitfield-and-clean-air-act-reform.jpg)President wants climate change legacy protected. Congressional Republicans want a better working environmental protection system.'
 ---

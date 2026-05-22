@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/there-has-always-been-only-one-substance.pdf"
 tags: ["information-theory", "thermodynamics", "causal-sovereignty", "linkedin-original"]
 abstract: "There has always been only one substance. It has spent 13.8 billion years learning what to do with itself. That substance is information. And progress . . . every step from the first chemical bond to the latest scientific revolution . . ."
 ---

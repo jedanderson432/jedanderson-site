@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . there must be a magician Another recent confirmation of the delayed choice quantum erasure experiment . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/where-there-is-magic.pdf"
 original_source: "Constant Contact campaign"
 ---
 

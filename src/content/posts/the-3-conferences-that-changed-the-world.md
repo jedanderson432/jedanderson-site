@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Dartmouth 1956 . . . Solvay 1927 . . . Endicott House 1981 I generally don't like attending conferences . . . but how about these 3?!!! . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/the-3-conferences-that-changed-the-world.pdf"
 original_source: "Constant Contact campaign"
 ---
 

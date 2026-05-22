@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Pollution events ‌ Where exactly? Can you see exactly where a pollution event is occurring? Yes."
 license: CC-BY-4.0
+pdf: "/pdfs/where-exactly.pdf"
 original_source: "Constant Contact campaign"
 ---
 

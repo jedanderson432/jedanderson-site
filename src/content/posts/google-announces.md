@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "perhaps the greatest scientific discovery of this century---Time Crystal created in a Quantum Computer ‌ Google and Standford just announced perhaps the greatest scientific discovery of this century s…"
 license: CC-BY-4.0
+pdf: "/pdfs/google-announces.pdf"
 original_source: "Constant Contact campaign"
 ---
 

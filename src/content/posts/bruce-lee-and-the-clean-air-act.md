@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2013/08/19/bruce-lee-and-the-c
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/bruce-lee-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/bruce-lee-and-the-clean-air-act.png)I wonder what Bruce Lee would think about the Clean Air Act?'
 ---

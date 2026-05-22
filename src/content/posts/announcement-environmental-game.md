@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Minecraft . . . Facebook . . . PUBG . . . \"SaveEarthCraft\" ‌ VR: “The Environmental Protection Social-Media Game” Coming in 2022! EnviroAI's inspiration . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/announcement-environmental-game.pdf"
 original_source: "Constant Contact campaign"
 ---
 

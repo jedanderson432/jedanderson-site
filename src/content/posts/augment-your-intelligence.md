@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "More Data and Faster Access for Your Brain to Solve Environmental Problems----that's Ceres AI More Data and Faster Access for Your Brain to Solve Environmental Problems----that's Ceres AI."
 license: CC-BY-4.0
+pdf: "/pdfs/augment-your-intelligence.pdf"
 original_source: "Constant Contact campaign"
 ---
 

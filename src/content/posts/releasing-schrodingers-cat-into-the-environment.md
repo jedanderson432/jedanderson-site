@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental Optimization Problems using Quantum Computing and Artificial Intelligence----EnviroAI ‌ Releasing Schrodinger's Cat into the Environment Environmental Optimization Problems using Quantum…"
 license: CC-BY-4.0
+pdf: "/pdfs/releasing-schrodingers-cat-into-the-environment.pdf"
 original_source: "Constant Contact campaign"
 ---
 

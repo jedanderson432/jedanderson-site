@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Acquistion News: \"EnviroAI to acquire Emerge/E-notify in 7-Figure Deal to Bolster Environmental & Emergency Information Services\" Announcement . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/youre-the-1st-to-see-this-announcement.pdf"
 original_source: "Constant Contact campaign"
 ---
 

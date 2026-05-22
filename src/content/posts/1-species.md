@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "or ALL SPECIES? The Metaverse and the Future Interests of Earth . . . should the Metaverse serve the interests of only human beings?"
 license: CC-BY-4.0
+pdf: "/pdfs/1-species.pdf"
 original_source: "Constant Contact campaign"
 ---
 

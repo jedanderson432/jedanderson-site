@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "October 21st---Texas Association of Environmental Professionals October 21st Texas Association of Environmental Professionals \"Application of Artificial Intelligence to Environmental Issues\" Jed Ander…"
 license: CC-BY-4.0
+pdf: "/pdfs/im-also-speaking.pdf"
 original_source: "Constant Contact campaign"
 ---
 

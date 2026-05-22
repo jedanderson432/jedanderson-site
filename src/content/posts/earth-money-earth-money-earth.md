@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Save. Save. Save. Save. Save. SAVE IT ALL!"
 license: CC-BY-4.0
+pdf: "/pdfs/earth-money-earth-money-earth.pdf"
 original_source: "Constant Contact campaign"
 ---
 

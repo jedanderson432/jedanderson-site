@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "AI & the Environment Volume III, March 2, 2020 ---\"Protecting the environment. Simpler."
 license: CC-BY-4.0
+pdf: "/pdfs/latest-news-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

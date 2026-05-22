@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . environmental expert overall in the nation right now? ---\"I probably only have an IQ of about 100 . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/whos-the-smartest.pdf"
 original_source: "Constant Contact campaign"
 ---
 

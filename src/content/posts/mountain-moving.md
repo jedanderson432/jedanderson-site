@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Although I'm building projects like a quantum AI environmental protection systemand an environmental treatment center . . . I still realize I'm \"not putting enough weight on the bar\"."
 license: CC-BY-4.0
+pdf: "/pdfs/mountain-moving.pdf"
 original_source: "Constant Contact campaign"
 ---
 

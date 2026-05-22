@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "﻿ White House establishes . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/white-house-establishes-national-artificial-intelligence-office.pdf"
 original_source: "Constant Contact campaign"
 ---
 

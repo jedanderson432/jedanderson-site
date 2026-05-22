@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Pipelines. Fugitives. Environment Intelligence. ---\"Any sufficiently advanced technology is equivalent to magic.\"– Sir Arthur C."
 license: CC-BY-4.0
+pdf: "/pdfs/technology-magic.pdf"
 original_source: "Constant Contact campaign"
 ---
 

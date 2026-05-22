@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "WATCH!"
 license: CC-BY-4.0
+pdf: "/pdfs/pfas.pdf"
 original_source: "Constant Contact campaign"
 ---
 

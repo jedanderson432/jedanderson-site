@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/i-can-t-find-any-law-in-physics-that-would-prevent.pdf"
 tags: ["enviroai", "physics", "linkedin-original"]
 abstract: "\"I can't find any law in physics that would prevent us from one day programming environmental protection directly into nature.\" - Jed Anderson, Creator & CEO, EnviroAI"
 ---

@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/i-hate-the-word-sustainability.pdf"
 tags: ["thermodynamics", "physics", "policy", "simplicity", "linkedin-original"]
 abstract: "I hate the word sustainability. Before everyone starts picking up rocks to throw . . . please consider the physics. The Second Law of Thermodynamics forbids stasis. Earth produces 23 times more entropy than it receives from the Sun."
 ---

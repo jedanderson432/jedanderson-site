@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . fear you might be in this position at some point?"
 license: CC-BY-4.0
+pdf: "/pdfs/looking-for-work-or-more-work.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"The odds of humanity surviving without AI is 0%.\"---NASA rocket all fueled and ready for November 25th launch--Double Asteroid Redirection Test Mission----Autonomous SMART Nav (Small-body Maneuvering…"
 license: CC-BY-4.0
+pdf: "/pdfs/odds-0.pdf"
 original_source: "Constant Contact campaign"
 ---
 

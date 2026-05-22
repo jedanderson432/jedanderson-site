@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "This 30 second video I made will fill you with hope, faith, trust . . . and joy in humanity this morning."
 license: CC-BY-4.0
+pdf: "/pdfs/want-a-smile-this-morning.pdf"
 original_source: "Constant Contact campaign"
 ---
 

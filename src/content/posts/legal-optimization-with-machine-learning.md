@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Optimizing your company's environmental legal performance using machine-learning and the experts at the AL Law Group [](http://r20.rs6.net/tn.jsp?f=001c0ZwTy2ymd40NkTTp2dtNe1GcYqjKqCfJ4lCahLg_jxuebUiw…"
 license: CC-BY-4.0
+pdf: "/pdfs/legal-optimization-with-machine-learning.pdf"
 original_source: "Constant Contact campaign"
 ---
 

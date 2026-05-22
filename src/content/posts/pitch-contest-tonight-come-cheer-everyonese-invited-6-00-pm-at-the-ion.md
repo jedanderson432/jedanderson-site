@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Come Cheer EnviroAI as we compete in the \"Houston Startup Showcase\" . . . and check out Houston's New Innovation District! ‌ COME WATCH! CHEER LOUDLY PLEASE! ﻿ EnviroAI competes tonight!"
 license: CC-BY-4.0
+pdf: "/pdfs/pitch-contest-tonight-come-cheer-everyonese-invited-6-00-pm-at-the-ion.pdf"
 original_source: "Constant Contact campaign"
 ---
 

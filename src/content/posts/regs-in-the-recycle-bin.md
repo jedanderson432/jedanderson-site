@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Electric car's impact on fuel and engine regulations Electric car's impact on fuel and engine regulations . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/regs-in-the-recycle-bin.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Fenceline Protection A brand new app in the EnviroAI App Store! Protect yourself!"
 license: CC-BY-4.0
+pdf: "/pdfs/new-app-3.pdf"
 original_source: "Constant Contact campaign"
 ---
 

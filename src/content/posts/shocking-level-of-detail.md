@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Operating rates . . . Emissions rates . . . Permit levels . . . CHECK IT OUT!"
 license: CC-BY-4.0
+pdf: "/pdfs/shocking-level-of-detail.pdf"
 original_source: "Constant Contact campaign"
 ---
 

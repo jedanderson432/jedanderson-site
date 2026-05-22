@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How much can we give you? . . . Augmenting environmental human intelligence . . . that's EnviroAI. Environmental POWER. INTELLIGENCE. SPEED. ‌ Contact us at ceres@enviro.ai."
 license: CC-BY-4.0
+pdf: "/pdfs/power-intelligence-speed.pdf"
 original_source: "Constant Contact campaign"
 ---
 

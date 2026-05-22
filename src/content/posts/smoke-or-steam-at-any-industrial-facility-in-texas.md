@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroAI can tell you!---Pollution Image Recognition with Artificial Intelligence and Satellite/Drone/Camera Images SMOKE OR STEAM? ﻿Pollution Identification. . ."
 license: CC-BY-4.0
+pdf: "/pdfs/smoke-or-steam-at-any-industrial-facility-in-texas.pdf"
 original_source: "Constant Contact campaign"
 ---
 

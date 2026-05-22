@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Citizens. Companies. Bankers. Environmental Professionals."
 license: CC-BY-4.0
+pdf: "/pdfs/a-tool-for-the-masses-expanding-the-breadth-and-appeal-of-enviroai-to-all-those.pdf"
 original_source: "Constant Contact campaign"
 ---
 

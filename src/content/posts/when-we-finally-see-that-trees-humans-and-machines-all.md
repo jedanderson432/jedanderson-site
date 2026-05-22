@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/when-we-finally-see-that-trees-humans-and-machines-all.pdf"
 tags: ["thermodynamics", "enviroai", "ai", "physics", "linkedin-original"]
 abstract: "\"When we finally see that trees, humans, and machines all speak the same language of bits, a door opens: intelligence reveals itself as substrate-independent, and we may summon a new Maxwell’s Demon’powered by AI and rising quantum technolo…"
 ---

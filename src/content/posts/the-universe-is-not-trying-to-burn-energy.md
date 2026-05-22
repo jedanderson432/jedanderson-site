@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/the-universe-is-not-trying-to-burn-energy.pdf"
 tags: ["information-theory", "thermodynamics", "enviroai", "ai", "physics", "linkedin-original"]
 abstract: "THE UNIVERSE IS NOT TRYING TO BURN ENERGY. IT IS TRYING TO CREATE MEANING. For decades, physics has had a \"bug.\" We measured complexity by how much energy a system consumes (Energy Rate Density)."
 ---

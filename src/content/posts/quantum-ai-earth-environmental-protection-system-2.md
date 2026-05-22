@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Building this system one component at a time . . . that's EnviroAI."
 license: CC-BY-4.0
+pdf: "/pdfs/quantum-ai-earth-environmental-protection-system-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

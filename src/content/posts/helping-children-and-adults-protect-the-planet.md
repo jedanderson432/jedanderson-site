@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How simple can we make it to obtain environmental information and help protect the planet?\""
 license: CC-BY-4.0
+pdf: "/pdfs/helping-children-and-adults-protect-the-planet.pdf"
 original_source: "Constant Contact campaign"
 ---
 

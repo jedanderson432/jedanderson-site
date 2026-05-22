@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "I've offered $750,000 . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/flood.pdf"
 original_source: "Constant Contact campaign"
 ---
 

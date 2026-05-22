@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . how did I miss this? The limits of physics . . . The limits of faith . . . ‌ How did I miss this? . . . OUR . . .faith How did I miss this??? OUR FAITH."
 license: CC-BY-4.0
+pdf: "/pdfs/fysics-sic-faith.pdf"
 original_source: "Constant Contact campaign"
 ---
 

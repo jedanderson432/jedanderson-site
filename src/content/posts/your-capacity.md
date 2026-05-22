@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "for boldness! Be Bold Today! Your capacity for boldness is much higher than you think. Bold love. Bold action. Bold faith."
 license: CC-BY-4.0
+pdf: "/pdfs/your-capacity.pdf"
 original_source: "Constant Contact campaign"
 ---
 

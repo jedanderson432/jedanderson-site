@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2013/08/19/isaac-newton-and-th
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/isaac-newton-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith', 'policy']
 abstract: '[](/images/sip/isaac-newton-and-the-clean-air-act.png)I wonder what Isaac Newton would think about the Clean Air Act?'
 ---

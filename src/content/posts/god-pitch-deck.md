@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"I hope God like's the pitch.\" ---1st Pitch Deck in Human History Ever Prepared for God's Investment Consideration 1st pitch deck in human history ever written to God . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/god-pitch-deck.pdf"
 original_source: "Constant Contact campaign"
 ---
 

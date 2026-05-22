@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "12,376.94 pounds released . . . See EnviroAI details. Chevron Pasadena Refinery Fire Yesterday See the intelligence you can find in just seconds with EnviroAI."
 license: CC-BY-4.0
+pdf: "/pdfs/chevron-refinery-fire-yesterday.pdf"
 original_source: "Constant Contact campaign"
 ---
 

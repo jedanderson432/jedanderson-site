@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Greatness. ‌ No small thinking. Pursue greatness. \"Go big\" today. Challenge: Make my thinking and efforts look blah, mundane, and pedestrian. Inspire me!"
 license: CC-BY-4.0
+pdf: "/pdfs/inspire.pdf"
 original_source: "Constant Contact campaign"
 ---
 

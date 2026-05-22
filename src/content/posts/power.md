@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How much do you have? How much can EnviroAI give you? “ ----\"War is ninety percent information.\"-Napoleon Bonaparte POWER. GET ENVIRONMENTAL REGULATORY INFORMATION."
 license: CC-BY-4.0
+pdf: "/pdfs/power.pdf"
 original_source: "Constant Contact campaign"
 ---
 

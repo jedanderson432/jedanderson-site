@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Here's the candles I'm blowing out . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/my-birthday-is-tomorrow-ill-be-51.pdf"
 original_source: "Constant Contact campaign"
 ---
 

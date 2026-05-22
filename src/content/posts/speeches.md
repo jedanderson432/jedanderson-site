@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "HBA, TAEP, AWMA, BIC Magazine Events What's the excitement about a jump in intelligence? . . . Nature as we know it cannot survive billions of years more without us. Humans are her hope."
 license: CC-BY-4.0
+pdf: "/pdfs/speeches.pdf"
 original_source: "Constant Contact campaign"
 ---
 

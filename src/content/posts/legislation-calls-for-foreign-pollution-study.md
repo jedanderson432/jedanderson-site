@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2015/12/17/legislation-calls-f
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/legislation-calls-for-foreign-pollution-study.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/olson-bill.png)Fantastic! What bold Congressional leadership! Hopefully this helps lead to comprehensive improvements to the Clean Air Act. Thank you Congressmen Olson, Latta, Cuellar, and Kirkpatrick!'
 ---

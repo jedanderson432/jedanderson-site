@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . \"creatives\" out there!!! ‌ ENCOURAGEMENT! . . . FOR ALL OF YOU \"CREATIVES\" OUT THERE WITH HUGE IMAGINATIONS AND DREAMS! Get ready! The world is becoming your kind of place!"
 license: CC-BY-4.0
+pdf: "/pdfs/encouraging-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

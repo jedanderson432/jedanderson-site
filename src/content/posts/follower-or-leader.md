@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental Leaders for the 21st Century Follower or Leader? Are you an environmental leader for the 21st century? You have the ability. It's dangerous work, but oh so joyous. Choose to be a leader."
 license: CC-BY-4.0
+pdf: "/pdfs/follower-or-leader.pdf"
 original_source: "Constant Contact campaign"
 ---
 

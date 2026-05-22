@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "An ironic twist of fate A planetary twist of fate . . . Irony? Foe turned Friend . . . Nature's enemy will now be what saves her Technology in the 1st industrial revolution started pollution."
 license: CC-BY-4.0
+pdf: "/pdfs/what-hurt-nature-will-now-save-it.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Billions of Dollars to Cents on the Dollar: Tracking ESG Value in \"Real-Time\" with EnviroAI's ESG Tracker --\"The ESG value of a company is dynamic . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/hero-to-zero-esg-value-of-a-company-can-plummet-in-less-than-1-hour.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/10-exercises-designed-to-help-you-see-information-where-you.pdf"
 tags: ["enviroai", "linkedin-original"]
 abstract: "10 Exercises Designed to Help You See Information Where You See Biology."
 ---

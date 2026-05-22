@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Outsourcing environmental treatment ‌ This goes out to 10,000 of you. Get out of the pollution business Send your emissions, wastewater, and solid/hazardous waste offsite."
 license: CC-BY-4.0
+pdf: "/pdfs/make-chemicals-not-pollution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . \"AI is world altering\" --\"The AL Law Group and EnviroAI are keenly aware of the recent findings of the National Security Commission on Artificial Intelligence."
 license: CC-BY-4.0
+pdf: "/pdfs/fed-gov.pdf"
 original_source: "Constant Contact campaign"
 ---
 

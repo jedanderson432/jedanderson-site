@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Gravity is easy. Consciousness is hard. ﻿---\"Gravity is easy."
 license: CC-BY-4.0
+pdf: "/pdfs/unified-theory-and-environmental-protection.pdf"
 original_source: "Constant Contact campaign"
 ---
 

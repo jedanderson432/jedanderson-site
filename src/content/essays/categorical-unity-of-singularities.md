@@ -8,7 +8,7 @@ status: published
 tags: ['foundational', 'holography', 'physics', 'godel', 'turing', 'bekenstein', 'paper', 'treatise']
 abstract: 'Identifies a common categorical structure (Lawvere''s fixed-point theorem) underlying four classes of fundamental limits: gravitational singularities, the Bekenstein–Hawking entropy bound, the diagonal-argument family (Gödel, Turing, Cantor), and the uncertainty relations of quantum mechanics. Formalizes the Boundary Dominance Principle and argues that singularities, across all domains, are saturation points where a system''s capacity for self-description is exhausted.'
 license: CC-BY-4.0
-pdf: '/pdfs/categorical-unity-of-singularities.pdf'
+pdf: "/pdfs/categorical-unity-of-singularities.pdf"
 hero_image: '/images/categorical-unity-of-singularities-hero.png'
 hero_image_alt: 'First page of On the Categorical Unity of Singularities'
 ---

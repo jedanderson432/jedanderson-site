@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Our customers are the best in the world.\" - Jed Anderson, CEO, EnviroAI ‌ . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/emergency-environmental-communications.pdf"
 original_source: "Constant Contact campaign"
 ---
 

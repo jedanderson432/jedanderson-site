@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Not physics, law, quantum information theory, artificial intelligence, . . . but this \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ ‌ Asking I realize . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/skill-set-i-work-on-the-most.pdf"
 original_source: "Constant Contact campaign"
 ---
 

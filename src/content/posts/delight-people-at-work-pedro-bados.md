@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Employee's digital experience protecting the environment . . . ---\"Delight people at work. It is that simple."
 license: CC-BY-4.0
+pdf: "/pdfs/delight-people-at-work-pedro-bados.pdf"
 original_source: "Constant Contact campaign"
 ---
 

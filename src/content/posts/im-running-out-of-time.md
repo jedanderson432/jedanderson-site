@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . why I'm pushing so hard ---\"I'm running out of time.\"- Jed Anderson ---\"For the present is the point at which time touches eternity.\" - C.S. Lewis --\"I've got little time left on earth."
 license: CC-BY-4.0
+pdf: "/pdfs/im-running-out-of-time.pdf"
 original_source: "Constant Contact campaign"
 ---
 

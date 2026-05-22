@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "oh the environmental places we'll go . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/thneeds-a-boot-up.pdf"
 original_source: "Constant Contact campaign"
 ---
 

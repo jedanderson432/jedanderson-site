@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . in the EnviroVerse Environmental Site Assessments in the EnviroVerse . . . ---\"Travel 'back in time' to perform an environmental site review.\" - Jed Anderson, EnviroAI ﻿ ---\"Hey Vanessa . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/time-travel.pdf"
 original_source: "Constant Contact campaign"
 ---
 

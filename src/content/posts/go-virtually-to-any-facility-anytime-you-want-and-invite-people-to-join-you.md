@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Zoom. Teams. GoogleMeet. . . . \"Why not meet virtually in the actual environment we are trying to protect.\""
 license: CC-BY-4.0
+pdf: "/pdfs/go-virtually-to-any-facility-anytime-you-want-and-invite-people-to-join-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "build a machine to protect earth BUILDING A MACHINE TO PROTECT EARTH ‌ Approach (click here) Game-Plan (click here) 5 ways you can help us . . . 1. Pray - this is the most powerful 2."
 license: CC-BY-4.0
+pdf: "/pdfs/5-ways-to-help.pdf"
 original_source: "Constant Contact campaign"
 ---
 

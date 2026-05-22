@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroVerse by EnviroAI ﻿Welcome to the [](https://r20.rs6.net/tn.jsp?f=001KROVSIhAg7VRv0q49IboW9eemJjJ4qKDcOMxdxlWdkpOHSLXGQlVolSvaEfVFU3xrcw0SrICcWXNqBHDBoqXGKpfItcvvGfaRnXXDzssUrC_jPs15RMH1xmubco0q…"
 license: CC-BY-4.0
+pdf: "/pdfs/the-environmental-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

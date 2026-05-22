@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Several of the 10,000 of you sent me this article: \"Humans Won't Be Able to Control Artificial Intelligence, Scientists Warn\" Of course not."
 license: CC-BY-4.0
+pdf: "/pdfs/your-hidden-power-revealed.pdf"
 original_source: "Constant Contact campaign"
 ---
 

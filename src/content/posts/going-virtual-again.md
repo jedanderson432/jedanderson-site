@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Build your remote environmental capabilities. Going more virtual again? Increase your remote environmental capabilities."
 license: CC-BY-4.0
+pdf: "/pdfs/going-virtual-again.pdf"
 original_source: "Constant Contact campaign"
 ---
 

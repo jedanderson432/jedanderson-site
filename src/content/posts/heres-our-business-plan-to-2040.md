@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . build-out of advanced quantum/AI system over the next 20 years . . . here's our 20-year business plan/save-nature-humanity plan (link)."
 license: CC-BY-4.0
+pdf: "/pdfs/heres-our-business-plan-to-2040.pdf"
 original_source: "Constant Contact campaign"
 ---
 

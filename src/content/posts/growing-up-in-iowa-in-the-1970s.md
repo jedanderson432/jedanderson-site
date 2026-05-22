@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "no one told me about quantum physics. ---\"I wish I was taught the basic principles of quantum physics back in elementary school.\" Imagine dying and not knowing that the world was round."
 license: CC-BY-4.0
+pdf: "/pdfs/growing-up-in-iowa-in-the-1970s.pdf"
 original_source: "Constant Contact campaign"
 ---
 

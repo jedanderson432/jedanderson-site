@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental Drone Demo at Houston Petrochemical Complex \"We're flying!\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/this-friday-were-flying.pdf"
 original_source: "Constant Contact campaign"
 ---
 

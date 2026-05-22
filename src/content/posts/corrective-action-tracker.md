@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "App \"Track your company's . . . and every company's . . . . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/corrective-action-tracker.pdf"
 original_source: "Constant Contact campaign"
 ---
 

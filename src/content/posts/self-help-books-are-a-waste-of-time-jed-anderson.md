@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Greatness requires self-abandonment. ‌ Self-help books are a waste of time . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/self-help-books-are-a-waste-of-time-jed-anderson.pdf"
 original_source: "Constant Contact campaign"
 ---
 

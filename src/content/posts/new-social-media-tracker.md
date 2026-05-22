@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . connecting \"Social\" with \"Environmental\" into Governance . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/new-social-media-tracker.pdf"
 original_source: "Constant Contact campaign"
 ---
 

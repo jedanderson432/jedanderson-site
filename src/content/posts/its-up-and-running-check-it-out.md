@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Fenceline Emissions System The Fenceline Pollution System is up and running! Check it out!"
 license: CC-BY-4.0
+pdf: "/pdfs/its-up-and-running-check-it-out.pdf"
 original_source: "Constant Contact campaign"
 ---
 

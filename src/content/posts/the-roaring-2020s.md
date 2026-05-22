@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Post-Election, Post-Covid . . . \"The Roaring 2020's\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/the-roaring-2020s.pdf"
 original_source: "Constant Contact campaign"
 ---
 

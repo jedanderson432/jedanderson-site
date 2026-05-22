@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Track environmental and ESG sentiment in agency files . . . social media . . . internet . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/sentiment-analyzer-by-enviroai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

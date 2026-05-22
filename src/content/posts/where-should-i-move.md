@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Green Factor\" ---EnviroAI's Real-Estate Assessment Tool [](https://r20.rs6.net/tn.jsp?f=001iU907ud7MTF7gUc7xtYfcqYUB4gh70hoB_y7xdiUdLBcy0kDBbDv11VnY2fWh-E0snOokAUupI-g88v_TEvkJRrUHqjlExy9dljXExnwdvJK…"
 license: CC-BY-4.0
+pdf: "/pdfs/where-should-i-move.pdf"
 original_source: "Constant Contact campaign"
 ---
 

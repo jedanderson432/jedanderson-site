@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/we-are-paying-a-100-million-tax-on-ignorance.pdf"
 tags: ["information-theory", "thermodynamics", "physics", "linkedin-original"]
 abstract: "We are paying a $100 Million Tax on Ignorance. For 100 years, industrial civilization has been fighting the Second Law of Thermodynamics in environmental protection. And we are losing."
 ---

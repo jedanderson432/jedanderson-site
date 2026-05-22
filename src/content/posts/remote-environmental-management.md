@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "See down to the \"equipment\" level! \"Unprecedented . . .\" Ceres AI to provide customers \"never seen before\" access to facility environmental data at the equipment level."
 license: CC-BY-4.0
+pdf: "/pdfs/remote-environmental-management.pdf"
 original_source: "Constant Contact campaign"
 ---
 

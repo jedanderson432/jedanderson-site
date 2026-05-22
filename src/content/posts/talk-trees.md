@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Improving the data exchange rate between humans and their environment---EnviroAI ‌ Improving the Data Exchange Rate Between Humans and Nature ---\"Nature doesn't speak English."
 license: CC-BY-4.0
+pdf: "/pdfs/talk-trees.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ THANKSGIVING We are all thankful for friends, family, and good things today."
 license: CC-BY-4.0
+pdf: "/pdfs/thankful-for.pdf"
 original_source: "Constant Contact campaign"
 ---
 

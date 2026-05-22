@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/tuesday-night-i-had-the-privilege-of-presenting-enviroai-s-v.pdf"
 tags: ["enviroai", "linkedin-original"]
 abstract: "Tuesday night I had the privilege of presenting EnviroAI's vision for the future of environmental permitting at Rice University's SSPEED Center--and it was an incredible evening. A huge thank you to Jim Blackburn for hosting us."
 ---

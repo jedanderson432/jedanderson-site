@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EHS in a Post-Covid 19 World AUTOMATE. DIGITALIZE. Ceres AI is further automating and digitalizing environmental compliance.﻿ ﻿INTELLIGENCE.DATA. POWER."
 license: CC-BY-4.0
+pdf: "/pdfs/automate-digitalize.pdf"
 original_source: "Constant Contact campaign"
 ---
 

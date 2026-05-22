@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Appraisal info. Environmental info. ‌ What's the value of your house? Property environmental concerns? Ask EnviroAI."
 license: CC-BY-4.0
+pdf: "/pdfs/value-of-your-house.pdf"
 original_source: "Constant Contact campaign"
 ---
 

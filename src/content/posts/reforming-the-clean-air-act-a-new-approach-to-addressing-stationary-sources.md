@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2012/05/07/reforming-the-clean
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/reforming-the-clean-air-act-a-new-approach-to-addressing-stationary-sources.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'simplicity', 'policy']
 abstract: '[](/images/sip/future2.png)How about working to build something new together? Here is an idea. If we succeeded in this endeavor we could greatly reduce costs to industry and the public–and improve environmental quality.'
 ---

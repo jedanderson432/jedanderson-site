@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . and I thought learning quantum physics and machine-learning was hard :) EnviroAI's capital raise has now jumped from $10 Million to $100 Million."
 license: CC-BY-4.0
+pdf: "/pdfs/ebitda-cap-table.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/pulse/secret-genius-environmental-sol
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/the-secret-to-genius-in-environmental-solutions.pdf"
 tags: ["simplicity", "legal-reform", "linkedin-original"]
 abstract: "![](https://media.licdn.com/mediaC5112AQG0ywOliDImeQ) The power of simplicity in environmental law is untapped.  We are unleashing this power at the AL Law Group."
 ---

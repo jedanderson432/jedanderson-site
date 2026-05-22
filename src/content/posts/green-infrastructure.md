@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"It's a complete environmental remodeling of Houston\" . . . Industrial Environmental Centers of Excellence----Houston Area ---\"Completely changes the face of Houston . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/green-infrastructure.pdf"
 original_source: "Constant Contact campaign"
 ---
 

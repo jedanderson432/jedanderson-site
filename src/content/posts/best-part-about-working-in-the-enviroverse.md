@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Workbreaks!!! . Refinery Tennis! Workbreaks . . . EnviroAI is designing gaming options for workbreaks, team-building, and creative environmental problem solving in the EnviroVerse."
 license: CC-BY-4.0
+pdf: "/pdfs/best-part-about-working-in-the-enviroverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

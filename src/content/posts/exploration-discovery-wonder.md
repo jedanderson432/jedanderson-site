@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"With less physical exploration due to Covid . . . humans are using different exploration methods to in some ways climb to much heigher heights.\" \"With less physical exploration due to Covid . ."
 license: CC-BY-4.0
+pdf: "/pdfs/exploration-discovery-wonder.pdf"
 original_source: "Constant Contact campaign"
 ---
 

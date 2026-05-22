@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/it-s-almost-christmas.pdf"
 tags: ["ai", "linkedin-original"]
 abstract: "It's almost Christmas . . . and I think now is a good time to reveal \"AI Shepherd\" (see attached concept piece)."
 ---

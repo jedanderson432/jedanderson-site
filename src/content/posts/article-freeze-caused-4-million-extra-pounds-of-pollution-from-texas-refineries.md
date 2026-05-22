@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "WON'T HAPPEN AGAIN . . . Houston Building \"The World's Largest Industrial Environmental Treatment Center\" The Freeze . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/article-freeze-caused-4-million-extra-pounds-of-pollution-from-texas-refineries.pdf"
 original_source: "Constant Contact campaign"
 ---
 

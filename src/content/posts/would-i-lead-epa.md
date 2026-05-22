@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "No. I appreciate that some of the 10,000 of you would like me to lead EPA. The answer is no . . . I would not accept such an appointment. A seismic shift is occurring in environmental policy."
 license: CC-BY-4.0
+pdf: "/pdfs/would-i-lead-epa.pdf"
 original_source: "Constant Contact campaign"
 ---
 

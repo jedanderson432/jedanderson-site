@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Building a \"machine\" to simulate nature and environmental protection efforts Simplicity of Simulating Nature A calculation performed by MIT found that the universe has performed the equivalent of 1012…"
 license: CC-BY-4.0
+pdf: "/pdfs/simple-equations-simple-computations.pdf"
 original_source: "Constant Contact campaign"
 ---
 

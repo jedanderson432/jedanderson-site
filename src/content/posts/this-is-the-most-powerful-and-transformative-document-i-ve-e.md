@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/this-is-the-most-powerful-and-transformative-document-i-ve-e.pdf"
 tags: ["ai", "faith", "linkedin-original"]
 abstract: "This is the most powerful and transformative document I've ever written. What can we learn from Black Holes about protecting the environment?  EVERYTHING. I'll attribute the magnitude of the thoughts and ideas in this paper 98.999% to God."
 ---

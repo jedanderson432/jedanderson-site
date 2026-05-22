@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Zoom meeting this morning ‌ The EnviroAI development team is coding almost around the clock . . . creating new environmental AI and IoT applications for our customers."
 license: CC-BY-4.0
+pdf: "/pdfs/team-picture.pdf"
 original_source: "Constant Contact campaign"
 ---
 

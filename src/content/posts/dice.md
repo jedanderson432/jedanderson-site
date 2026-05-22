@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Protecting nature in games of probability ‌ One of the most fascinating scientific exchanges in human history , , , [](http://r20.rs6.net/tn.jsp?f=00198Bv9yp8XPfKzb-L82wUIm9K5Iy8SkFNM0gUa4_gG68FfnskF4…"
 license: CC-BY-4.0
+pdf: "/pdfs/dice.pdf"
 original_source: "Constant Contact campaign"
 ---
 

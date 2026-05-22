@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "What questions can you ask Ceres AI with the new \"Bounding Box\" tool? What questions can you ask Ceres AI with the new \"bounding box\" tool?"
 license: CC-BY-4.0
+pdf: "/pdfs/bounding-box.pdf"
 original_source: "Constant Contact campaign"
 ---
 

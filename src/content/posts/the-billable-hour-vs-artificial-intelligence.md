@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Work Faster. Do more work. Make more money for yourselves and your clients using EnviroAI."
 license: CC-BY-4.0
+pdf: "/pdfs/the-billable-hour-vs-artificial-intelligence.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ ‌ ---\"We're automating many environmental audit, investigation, due diligence, and ESG review functions."
 license: CC-BY-4.0
+pdf: "/pdfs/audits.pdf"
 original_source: "Constant Contact campaign"
 ---
 

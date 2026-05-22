@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . to Save Earth!"
 license: CC-BY-4.0
+pdf: "/pdfs/1-search-engine.pdf"
 original_source: "Constant Contact campaign"
 ---
 

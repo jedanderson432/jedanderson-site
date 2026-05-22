@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Gifts for the Environmental Professional on Your List\" . . . Shop the Environmental \"App Store\" Today! ‌ Over 10,000 Viewers . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/green-cyber-monday.pdf"
 original_source: "Constant Contact campaign"
 ---
 

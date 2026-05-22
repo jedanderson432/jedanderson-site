@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"Questions can lead us as well as any answer\" . . . One of you wrote back to me, \"Questions can lead us as well as any answer.\" Powerful. Wise. Indeed."
 license: CC-BY-4.0
+pdf: "/pdfs/1-of-the-10-000-of-you-wrote.pdf"
 original_source: "Constant Contact campaign"
 ---
 

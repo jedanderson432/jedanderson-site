@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Einstein discovered relativity with a Piano\" Music. Nature. Physics. AI."
 license: CC-BY-4.0
+pdf: "/pdfs/music-nature-physics-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

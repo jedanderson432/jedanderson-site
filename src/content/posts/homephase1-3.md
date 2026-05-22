@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Know before you buy . . . ‌ HOME OWNERS Is there an environmental concern at or near your home?"
 license: CC-BY-4.0
+pdf: "/pdfs/homephase1-3.pdf"
 original_source: "Constant Contact campaign"
 ---
 

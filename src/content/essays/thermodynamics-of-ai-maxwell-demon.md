@@ -8,7 +8,7 @@ tags: ['thermodynamics', 'information-theory', 'physics', 'maxwell', 'landauer',
 abstract: 'Asks whether AI agents operating via feedback loops—RL agents, autonomous control systems—function as Maxwell''s demons in a first-principles physical sense, and reconciles their internal computational thermodynamic costs with the work they extract from stochastic environments. Traverses the Sagawa–Ueda equality, SGD energetics, and recent experimental realizations of autonomous demons in solid-state and quantum systems.'
 license: CC-BY-4.0
 co_authors: ['Grok-4.1 Deep Research', 'Gemini 3.0 Pro Deep Research', 'ChatGPT 5.1', 'Claude 4.5 Deep Research']
-pdf: '/pdfs/thermodynamics-of-ai-maxwell-demon.pdf'
+pdf: "/pdfs/thermodynamics-of-ai-maxwell-demon.pdf"
 hero_image: '/images/thermodynamics-of-ai-maxwell-demon-hero.png'
 hero_image_alt: 'First page of The Thermodynamics of Artificial Intelligence: A First-Principles Analysis of the Maxwellian Demon Hypothesis'
 ---

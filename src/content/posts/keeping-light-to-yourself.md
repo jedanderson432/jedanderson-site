@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2018/01/02/keeping-light-to-yo
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/keeping-light-to-yourself.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: 'Most of the forces around us tell us to keep any light we perceive to ourselves–or that the light we see is in truth darkness, or at most only light to ourselves.'
 ---

@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/we-are-fighting-entropy-with-the-wrong-tools-10-20-times.pdf"
 tags: ["information-theory", "thermodynamics", "physics", "policy", "linkedin-original"]
 abstract: "WE ARE FIGHTING ENTROPY WITH THE WRONG TOOLS (10^20 TIMES WRONG). This paper makes a claim that will strike many as radical: THE MARGINAL COST OF ENVIRONMENTAL PROTECTION IS CONVERGING TOWARD ZERO.  This is not policy advocacy."
 ---

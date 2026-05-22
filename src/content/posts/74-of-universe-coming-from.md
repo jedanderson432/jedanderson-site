@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Scientific community abuzz . . . 1st evidence . . . majority if not all our universe potentially coming from this . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/74-of-universe-coming-from.pdf"
 original_source: "Constant Contact campaign"
 ---
 

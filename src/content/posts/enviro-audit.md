@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Watch how fast! Audit? Due Diligence? Watch how fast I can perform an external environmental audit or external environmental due diligence using artificial intelligence! LESS THAN 3 MINUTES!"
 license: CC-BY-4.0
+pdf: "/pdfs/enviro-audit.pdf"
 original_source: "Constant Contact campaign"
 ---
 

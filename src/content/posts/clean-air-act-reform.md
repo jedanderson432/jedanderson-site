@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2012/09/13/clean-air-act-refor
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/clean-air-act-reform.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'simplicity']
 abstract: '[](/images/sip/caa1.png)'
 ---

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "BUILDING A MACHINE TO PROTECT EARTH USING AI & QUANTUM TECHNOLOGIES [](https://r20.rs6.net/tn.jsp?f=001UFXtx77Zn1uVgE5mZlsiB2nMGxBTOYTPjFrguJHnXhD9y-lII32poiSwFyZIlMkXlI6In-SkUv5lJ7d5ZctWohkSJrobkhw_p…"
 license: CC-BY-4.0
+pdf: "/pdfs/quantum-ai-environmental-protection-system.pdf"
 original_source: "Constant Contact campaign"
 ---
 

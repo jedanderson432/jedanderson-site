@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Love your suffering yet? . . . Love the training? . . . You're getting stronger! ‌ Checking in on you. Loving your suffering yet? Love the training and discipline?"
 license: CC-BY-4.0
+pdf: "/pdfs/checking-in-on-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

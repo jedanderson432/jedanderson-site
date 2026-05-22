@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Building a Machine that Protects the Environment PLEASE HELP INNOVATION. Quantum. Nature. AI. ---\"Building a machine to protect the environment . . . one commercialized application at a time . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/can-you-help-me-please.pdf"
 original_source: "Constant Contact campaign"
 ---
 

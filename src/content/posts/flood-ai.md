@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Status Report Building a Flood Intelligence System: Status Report No one is interested in a building a flood intelligence system. We can't build it if no one wants it."
 license: CC-BY-4.0
+pdf: "/pdfs/flood-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

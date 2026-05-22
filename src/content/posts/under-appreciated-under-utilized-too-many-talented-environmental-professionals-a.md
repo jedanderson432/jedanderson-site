@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A Message of Hope . . . and a Job Offer \"It's a travesty . . . and it's a travesty to the environmental profession that I'm gonna help rectify.\" - Jed Anderson, Creator, EnviroAI ‌ . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/under-appreciated-under-utilized-too-many-talented-environmental-professionals-a.pdf"
 original_source: "Constant Contact campaign"
 ---
 

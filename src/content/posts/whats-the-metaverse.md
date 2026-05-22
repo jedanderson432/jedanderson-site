@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Nvidia's \"Omniverse\" and \"Enviroverse\" WHAT'S THE METAVERSE?"
 license: CC-BY-4.0
+pdf: "/pdfs/whats-the-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

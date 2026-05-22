@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental Modelling \"Orb\" for \"EHS Avatars\" Environmental Modelling \"EHS Avatar\" \"Orb for Environmental Modelling\" \"Virtual . . . Reality . . . Virtual . . . Reality\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/predicting-the-future-the-metaverse-environmental-modelling-in-the-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Coast Guard, Harris County Pollution Control, Harris County Emergency Management, and Fortune 500 Companies in the Region ‌ Multi-Agency Drone Demonstration Dec."
 license: CC-BY-4.0
+pdf: "/pdfs/multi-agency-drone-demo-dec-1-houston-ship-channel.pdf"
 original_source: "Constant Contact campaign"
 ---
 

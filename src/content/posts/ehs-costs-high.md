@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Lower environmental compliance costs with automation ‌ ‌ ‌ Yesterday i did a job for a client that would have taken me 50 hours without EnviroAI search."
 license: CC-BY-4.0
+pdf: "/pdfs/ehs-costs-high.pdf"
 original_source: "Constant Contact campaign"
 ---
 

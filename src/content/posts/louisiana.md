@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "[](http://r20.rs6.net/tn.jsp?f=001JvwX1eS7tALRRWwMh_xU8G0_RJz4jrTonqcgDe-MVQ7QKDqGvnIoJ2Llu9NwrK9MLXZZbQhidRNnMV9qLv55bu9hGbzEXW58Rpl4CdK8AewgaBqW12RXBrvvHytWINkhAnFDjF5rGGxTxsEcDvwR0g==&c=&ch=) ---\"W…"
 license: CC-BY-4.0
+pdf: "/pdfs/louisiana.pdf"
 original_source: "Constant Contact campaign"
 ---
 

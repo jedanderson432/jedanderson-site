@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "One job . . . environmental simplicity."
 license: CC-BY-4.0
+pdf: "/pdfs/baker-botts-v-e.pdf"
 original_source: "Constant Contact campaign"
 ---
 

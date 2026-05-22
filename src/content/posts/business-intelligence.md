@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Competitors. Feedstocks. Permit Terms. Operational Parameters. Environmental Compliance Strategies-----EnviroAI's Regulatory Agency File Tracker ‌ TRACK Track your competition . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/business-intelligence.pdf"
 original_source: "Constant Contact campaign"
 ---
 

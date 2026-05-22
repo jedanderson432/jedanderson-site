@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Congressional Artificial Intelligence----------Definition of \"Waters of the U.S.\" What is \"Water\"? Congressionally it's unclear. We know what water is. We know what it does."
 license: CC-BY-4.0
+pdf: "/pdfs/whats-water.pdf"
 original_source: "Constant Contact campaign"
 ---
 

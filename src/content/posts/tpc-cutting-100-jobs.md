@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "HBJ's article this morning . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/tpc-cutting-100-jobs.pdf"
 original_source: "Constant Contact campaign"
 ---
 

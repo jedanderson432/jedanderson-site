@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "What are customers and others saying about Ceres Environmental AI? What are customers and others saying about Ceres Environmental AI?"
 license: CC-BY-4.0
+pdf: "/pdfs/latest-customer-testimonials-reactions.pdf"
 original_source: "Constant Contact campaign"
 ---
 

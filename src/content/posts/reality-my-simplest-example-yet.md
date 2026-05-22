@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Blue Bell Ice Cream. Mozart. Quantum Physics."
 license: CC-BY-4.0
+pdf: "/pdfs/reality-my-simplest-example-yet.pdf"
 original_source: "Constant Contact campaign"
 ---
 

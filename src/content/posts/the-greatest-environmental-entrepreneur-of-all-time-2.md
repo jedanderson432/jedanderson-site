@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Jed Anderson Projects World's Largest Industrial Environmental Treatment Center ‌ Earth Quantum AI Environmental Protection System"
 license: CC-BY-4.0
+pdf: "/pdfs/the-greatest-environmental-entrepreneur-of-all-time-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

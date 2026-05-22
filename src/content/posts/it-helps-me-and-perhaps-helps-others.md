@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/it-helps-me-and-perhaps-helps-others.pdf"
 tags: ["thermodynamics", "linkedin-original"]
 abstract: "It helps me . . . and perhaps helps others to think in terms of first principles when it comes to environmental protection. What is entropy and what is it doing in nature?"
 ---

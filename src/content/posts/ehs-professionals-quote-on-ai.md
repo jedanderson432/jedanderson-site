@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "----\"Artificial intelligence is mostly hype.\" EHS Professional----\"Artificial intelligence is mostly hype.\" Most EHS professionals I talk with say that artificial intelligence is mostly hype and won't…"
 license: CC-BY-4.0
+pdf: "/pdfs/ehs-professionals-quote-on-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

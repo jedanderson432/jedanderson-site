@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "IPhone and Android . . . Check the environmental safety around your home with our free app today!"
 license: CC-BY-4.0
+pdf: "/pdfs/homephase1-app-now-in-the-google-store.pdf"
 original_source: "Constant Contact campaign"
 ---
 

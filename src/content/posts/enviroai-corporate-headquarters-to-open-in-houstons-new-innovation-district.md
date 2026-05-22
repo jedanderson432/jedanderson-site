@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Over 200 employees, building a machine to protect earth--we are going to have so much fun!\" - Jed Anderson, CEO, EnviroAI ‌ ‌ ---\"Initially we were hoping for $10 million in investment."
 license: CC-BY-4.0
+pdf: "/pdfs/enviroai-corporate-headquarters-to-open-in-houstons-new-innovation-district.pdf"
 original_source: "Constant Contact campaign"
 ---
 

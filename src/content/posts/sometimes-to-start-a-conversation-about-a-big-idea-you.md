@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/sometimes-to-start-a-conversation-about-a-big-idea-you.pdf"
 tags: ["thermodynamics", "ai", "simplicity", "linkedin-original"]
 abstract: "Sometimes, to start a conversation about a big idea, you don't begin with a dense scientific paper. You begin with a story. And that story begins 13.8 billion years ago. I've tried to tell that story in the presentation attached."
 ---

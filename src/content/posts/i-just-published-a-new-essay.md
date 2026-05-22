@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/i-just-published-a-new-essay.pdf"
 tags: ["physics", "linkedin-original"]
 abstract: "I just published a new essay:?Reframing the Environmental Movement. The central argument is simple: the environmental movement has spent 50 years operating from a paradigm built in the 1960s and 70s . . ."
 ---

@@ -8,7 +8,7 @@ tags: ['enviroai', 'information-theory']
 abstract: 'Frames AI as a planetary translator—a ''listening angel'' that decodes the non-redundant bits emitted by living systems (forests, bees, dolphins, whales) and lets human civilization respond in a thermodynamically coherent symphony with nature, rather than transmitting chaos and refusing to listen to feedback.'
 license: CC-BY-4.0
 co_authors: ['Grok 4 Deep Thinking', 'ChatGPT-5 Thinking', 'Google Gemini Pro 2.5 Deep Research']
-pdf: '/pdfs/when-ai-speaks-natures-language.pdf'
+pdf: "/pdfs/when-ai-speaks-natures-language.pdf"
 hero_image: '/images/when-ai-speaks-natures-language-hero.png'
 hero_image_alt: 'First page of When AI Speaks Nature''s Language: Decoding the Planetary Conversation and Encoding Planetary Thriving'
 ---

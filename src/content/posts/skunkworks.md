@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . the \"environmental metaverse\" and a peek at other applications in the development queue at EnviroAI . . . building the \"EnviroVerse\" for environmental interaction and collaboration . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/skunkworks.pdf"
 original_source: "Constant Contact campaign"
 ---
 

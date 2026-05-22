@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A.I. cannot pray. We can pray. This is the limit that will come to define us as human beings. It is our access to God."
 license: CC-BY-4.0
+pdf: "/pdfs/prayer.pdf"
 original_source: "Constant Contact campaign"
 ---
 

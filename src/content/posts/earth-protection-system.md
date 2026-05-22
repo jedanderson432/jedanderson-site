@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . why and how are we incrementally building toward an automated ML system to protect nature? ‌ ---\"There's nothing like a mission to save the world to liven up a vacation.\" -Donita K."
 license: CC-BY-4.0
+pdf: "/pdfs/earth-protection-system.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Call to Schedule ‌ ﻿ DEMO DAY IN HOUSTON Watch 10 second video clip. Schedule private demo today."
 license: CC-BY-4.0
+pdf: "/pdfs/drone-demo-day-in-houston.pdf"
 original_source: "Constant Contact campaign"
 ---
 

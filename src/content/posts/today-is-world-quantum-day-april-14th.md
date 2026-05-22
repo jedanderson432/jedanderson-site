@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "HAPPY \"QUANTUM DAY\"!!!! HAPPY QUANTUM DAY! April 14th - \"World Quantum Day\" How to celebrate? LEARN IT. [It's not that difficult."
 license: CC-BY-4.0
+pdf: "/pdfs/today-is-world-quantum-day-april-14th.pdf"
 original_source: "Constant Contact campaign"
 ---
 

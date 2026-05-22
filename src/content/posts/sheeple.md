@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Aldo Leopold, one of the greatest environmental writers of all time, wrote: ---\"Nonconformity is the highest evolutionary attainment of social animals.\" - Aldo Leopold We must be people."
 license: CC-BY-4.0
+pdf: "/pdfs/sheeple.pdf"
 original_source: "Constant Contact campaign"
 ---
 

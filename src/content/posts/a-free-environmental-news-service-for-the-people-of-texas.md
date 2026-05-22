@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "TexasEnvironmentalNews.com ----\"A Free Service for the People of Texas.\" Breaking . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/a-free-environmental-news-service-for-the-people-of-texas.pdf"
 original_source: "Constant Contact campaign"
 ---
 

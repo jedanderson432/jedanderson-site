@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Intelligent EMIS\"---A More Powerful Environmental Management Information System It's arrived! We just keep building and delivering new environmental AI applications to make people's lives better!"
 license: CC-BY-4.0
+pdf: "/pdfs/its-arrived.pdf"
 original_source: "Constant Contact campaign"
 ---
 

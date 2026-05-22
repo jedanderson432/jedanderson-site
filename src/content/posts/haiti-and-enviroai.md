@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Why is EnviroAI developing a \"machine\" to protect humanity and nature? ---\"As always, there's good news and there's bad news."
 license: CC-BY-4.0
+pdf: "/pdfs/haiti-and-enviroai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

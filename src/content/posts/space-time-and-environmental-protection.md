@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Building a Quantum AI Environmental Protection Machine --\"There is no space-time inside the atom, so why should there be space-time outside the atom?\" - Jed Anderson, EnviroAI Scientists largely seem…"
 license: CC-BY-4.0
+pdf: "/pdfs/space-time-and-environmental-protection.pdf"
 original_source: "Constant Contact campaign"
 ---
 

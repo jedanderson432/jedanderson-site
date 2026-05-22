@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Amazing! Amazing! Amazing!\" ---\"This will completely blow people away . . . including environmental agencies . . . ACCESS TO SENTIMENT ANALYSIS OF ALL ELECTRONIC AGENCY FILES AVAILABLE NOW!"
 license: CC-BY-4.0
+pdf: "/pdfs/tceq-and-ldeq-files-sentiment-analysis.pdf"
 original_source: "Constant Contact campaign"
 ---
 

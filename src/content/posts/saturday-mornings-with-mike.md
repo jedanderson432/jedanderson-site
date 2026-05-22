@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Coding and protecting earth . . . while drinkings lots of coffee and trying to make each other laugh Beginnings . . . Laughs. Coffee. Code."
 license: CC-BY-4.0
+pdf: "/pdfs/saturday-mornings-with-mike.pdf"
 original_source: "Constant Contact campaign"
 ---
 

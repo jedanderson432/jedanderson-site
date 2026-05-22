@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Here's what we are building . . . ‌ Here's what we're building . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/build-plan.pdf"
 original_source: "Constant Contact campaign"
 ---
 

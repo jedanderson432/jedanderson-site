@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "New level of detail in Texas and Louisiana New level of detail in Texas and Louisiana . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/emissions-and-equipment-details.pdf"
 original_source: "Constant Contact campaign"
 ---
 

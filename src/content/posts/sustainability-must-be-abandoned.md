@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/sustainability-must-be-abandoned.pdf"
 tags: ["physics", "simplicity", "linkedin-original"]
 abstract: "Sustainability must be abandoned. Not the planet. Not the future. The’word. The’framework. The’mindset. \"Sustainability\" asks us to preserve what exists. To manage limits. To prevent collapse. To be less. That's not a vision. That's a retreat."
 ---

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "$30 trillion being \"greenwashed\"? Accountability critical to corporate and investor success . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/greenwashing.pdf"
 original_source: "Constant Contact campaign"
 ---
 

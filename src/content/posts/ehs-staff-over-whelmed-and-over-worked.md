@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/pulse/ehs-staff-over-whelmed-over-wor
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/ehs-staff-over-whelmed-and-over-worked.pdf"
 tags: ["simplicity", "linkedin-original"]
 abstract: "![](https://media.licdn.com/mediaC5112AQGEAU7VURCu2Q) Many EHS personnel are over-whelmed and over-worked at the moment.  One manager I recently heard about is now attempting to track and comply with over ***50,000 requirements***."
 ---

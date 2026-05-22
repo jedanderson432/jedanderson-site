@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "1969 - \\_\\_\\_\\_\\_ 1969 - Jed Anderson \"He worked on building a machine to protect earth and humanity.\" [](https://r20.rs6.net/tn.jsp?f=001MTuhrcmD53AaSP63smm76xyLsc6mj18Q7sU0nvFX3re0PbCUr7eaDGc5l8NeBr…"
 license: CC-BY-4.0
+pdf: "/pdfs/short-dance.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "New \"Quantum AI Campus\" in Santa Barbara and Plan to Build 1 Million Qubit Error-Free Machine by 2029 [](https://r20.rs6.net/tn.jsp?f=001mCz6ewHlYmz5qM1sVKgbMCV4iOsatM7_3uCjWsX3z87EipiPSdnGtw0kBdKd2s9…"
 license: CC-BY-4.0
+pdf: "/pdfs/wsj-google-announces.pdf"
 original_source: "Constant Contact campaign"
 ---
 

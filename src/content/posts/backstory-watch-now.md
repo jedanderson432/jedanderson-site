@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Earth First\"- a documentary by award-winning filmmaker Peter von Puttkamer about the simplification of environmental protection. WATCH THIS BACKSTORY!"
 license: CC-BY-4.0
+pdf: "/pdfs/backstory-watch-now.pdf"
 original_source: "Constant Contact campaign"
 ---
 

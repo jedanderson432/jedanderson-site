@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "TCEQ unveils new emergency response technologies and assets . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/channel-2-news-story-last-night.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Debottlenecking Environmental Data---EnviroAI \"Digital Twin\" ‌ ‌ EXTERNAL DATA. INTERNAL MONEY."
 license: CC-BY-4.0
+pdf: "/pdfs/where-is-the-bottleneck.pdf"
 original_source: "Constant Contact campaign"
 ---
 

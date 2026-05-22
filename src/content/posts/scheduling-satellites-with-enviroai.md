@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Schedule Your Flight Today . . . Environmental Source Imaging and Processing with Satellites and Artificial Intelligence--EnviroAI ‌ Schedule your satellite flight today . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/scheduling-satellites-with-enviroai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

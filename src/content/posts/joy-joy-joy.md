@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Humans & Nature . . . Talking to Each Other Directly . . . It's Simpler. Withtoday's drone flight . . . and all of the other apps we are building . . . this is the \"game-plan\" we are following."
 license: CC-BY-4.0
+pdf: "/pdfs/joy-joy-joy.pdf"
 original_source: "Constant Contact campaign"
 ---
 

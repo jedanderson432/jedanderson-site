@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Hey TrackBot . . . . . . tell me when a company gets an exemption . . . tell me when an \"alternative method\" is approved . . . tell me when there is a failure to report something . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/trackbot.pdf"
 original_source: "Constant Contact campaign"
 ---
 

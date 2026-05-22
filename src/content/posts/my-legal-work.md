@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"Machine-learning and big regulatory data has augmented my abilities as an environmental professional. I can now do most of my environmental legal work about 10 times faster that I could before."
 license: CC-BY-4.0
+pdf: "/pdfs/my-legal-work.pdf"
 original_source: "Constant Contact campaign"
 ---
 

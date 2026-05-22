@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Your environmental work is taking on new life at Ceres AI------helping future generations of environmental problem solvers ﻿ ﻿KEEPING YOUR WORK ALIVE Your environmental work is taking on new life at C…"
 license: CC-BY-4.0
+pdf: "/pdfs/keeping-your-work-alive.pdf"
 original_source: "Constant Contact campaign"
 ---
 

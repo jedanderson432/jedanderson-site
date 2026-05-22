@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"FYSICS\" (sic.) & \"PHAITH\" (sic.) ---\"Life and religion are one, or neither is anything.\" - George MacDonald People have told me to separate my faith from my scientific understanding of the world."
 license: CC-BY-4.0
+pdf: "/pdfs/fysics-and-phaith-sic.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Check it out! New website . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/new-website-yes.pdf"
 original_source: "Constant Contact campaign"
 ---
 

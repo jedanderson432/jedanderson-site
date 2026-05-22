@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Proposes EPA Budget Cut of 26% The Whitehouse proposed yesterday to double spending on AI and Quantum Computing.Read WSJ article."
 license: CC-BY-4.0
+pdf: "/pdfs/wsj-trump-wants-to-double-spending-on-ai-quantum-computing.pdf"
 original_source: "Constant Contact campaign"
 ---
 

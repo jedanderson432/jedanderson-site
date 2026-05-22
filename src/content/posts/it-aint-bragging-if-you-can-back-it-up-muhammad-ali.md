@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "We're the best at protecting air quality. ‌ We're the best. PROTECTING AIR QUALITY EnviroAI has the . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/it-aint-bragging-if-you-can-back-it-up-muhammad-ali.pdf"
 original_source: "Constant Contact campaign"
 ---
 

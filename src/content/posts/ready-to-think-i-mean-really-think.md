@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "2 QUESTIONS that will alter the course of environmental history ‌ The answers to these 2 questions will alter the course of environmental history. 1. Is pollution a wave or a particle? ﻿ 2."
 license: CC-BY-4.0
+pdf: "/pdfs/ready-to-think-i-mean-really-think.pdf"
 original_source: "Constant Contact campaign"
 ---
 

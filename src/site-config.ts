@@ -8,7 +8,7 @@ export const SITE = {
     'Writing on environmental superintelligence, information physics, and the causal sovereignty of knowledge over matter and energy.',
   url: 'https://jedanderson.org',
   author: 'Jed Anderson',
-  email: 'jedanderson432@gmail.com',
+  email: 'jed@jedanderson.org',
   github: 'https://github.com/jedanderson432/jedanderson-site',
   defaultLicense: 'CC-BY-4.0',
   intro:

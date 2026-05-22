@@ -8,7 +8,7 @@ status: published
 tags: ['enviroai', 'information-theory', 'wheeler', 'holography', 'paper']
 abstract: 'Frames environmental protection as a corollary of physical simplicity: nature''s complexity arises from single binary observations accumulated through irreversible interactions, and configuring matter with information costs orders of magnitude less than configuring it with force. Introduces the Boundary Dominance Conjecture extending the holographic principle from black holes to general environmental systems—sense the boundary, reconstruct the interior, steer with information.'
 license: CC-BY-4.0
-pdf: '/pdfs/nature-and-simplicity.pdf'
+pdf: "/pdfs/nature-and-simplicity.pdf"
 hero_image: '/images/nature-and-simplicity-hero.png'
 hero_image_alt: 'First page of Nature & Simplicity: How Information Protects Nature'
 ---

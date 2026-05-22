@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2017/05/21/tceq-out-of-touch-w
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/tceq-out-of-touch-with-simplicity.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'simplicity', 'policy']
 abstract: 'TCEQ believes their rules are written with the goal of simplicity in mind.'
 ---

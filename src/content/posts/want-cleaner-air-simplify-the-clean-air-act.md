@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2012/10/01/want-cleaner-air-si
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/want-cleaner-air-simplify-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: 'Is your life too busy? Are you having problems getting everything done? As counterintuitive as this might seem, one of the easiest ways to get more done is to try to do less. Reduce the clutter. Simplify.'
 ---

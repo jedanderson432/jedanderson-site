@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "$ Trillions in ESG Money---Texas Petrochemical Industry to Attract the Green to Go Green to Make Green ‌ \"Show us the money.\"---Texas Industry $Trillions in ESG ﻿--\"I'm gonna see how much of this tril…"
 license: CC-BY-4.0
+pdf: "/pdfs/green-to-green-to-green.pdf"
 original_source: "Constant Contact campaign"
 ---
 

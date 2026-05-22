@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . just in last 3 weeks . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/its-a-brand-new-environmental-profession.pdf"
 original_source: "Constant Contact campaign"
 ---
 

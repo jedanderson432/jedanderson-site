@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/below-is-thermodynamic-proof-that-the-billable-hour-model-as.pdf"
 tags: ["thermodynamics", "enviroai", "ai", "linkedin-original"]
 abstract: "Below is thermodynamic proof that the \"billable hour\" model as we now know it in the environmental profession is dead."
 ---

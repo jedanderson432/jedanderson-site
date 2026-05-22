@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2018/02/27/tceq-commissioner-j
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/tceq-commissioner-job-is-opening.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'policy']
 abstract: '## Jed Anderson says . . . “I’m running”'
 ---

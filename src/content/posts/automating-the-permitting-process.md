@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "What can we help you automate? NEED TO WORK SMARTER AND FASTER? ‌ The Emissions Reduction \"Generator\" is now scheduled for customer deployment this Friday."
 license: CC-BY-4.0
+pdf: "/pdfs/automating-the-permitting-process.pdf"
 original_source: "Constant Contact campaign"
 ---
 

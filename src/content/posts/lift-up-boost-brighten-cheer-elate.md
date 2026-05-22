@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How does your search engine make you feel? About the planet? About the future? About your contribution each day?"
 license: CC-BY-4.0
+pdf: "/pdfs/lift-up-boost-brighten-cheer-elate.pdf"
 original_source: "Constant Contact campaign"
 ---
 

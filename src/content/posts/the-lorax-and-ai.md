@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Covid. Oil Prices. Earth Day. Hope. Covid. Oil prices. Earth Day. Hope."
 license: CC-BY-4.0
+pdf: "/pdfs/the-lorax-and-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "TCEQ & RRC . . . Truly Comprehensive Environmental Intelligence from EnviroAI: TCEQ Data . . . RRC Data . . . EPA Data . . . Social Media Data . . . Internet Data . . . Lawsuit Data . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/oil-gas.pdf"
 original_source: "Constant Contact campaign"
 ---
 

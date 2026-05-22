@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "increasing the connection speed between humans and the environment---EnviroAI Astounding. This will fill you with hope . . . and make you smile."
 license: CC-BY-4.0
+pdf: "/pdfs/talking-to-nature.pdf"
 original_source: "Constant Contact campaign"
 ---
 

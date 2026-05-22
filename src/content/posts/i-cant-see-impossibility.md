@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"I can't see impossibility.\"- Jed Anderson, Environmental Entrepreneur ---\"I just can't see impossibility. This can drive my family and everyone else nuts sometimes. But I just can't see it."
 license: CC-BY-4.0
+pdf: "/pdfs/i-cant-see-impossibility.pdf"
 original_source: "Constant Contact campaign"
 ---
 

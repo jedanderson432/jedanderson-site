@@ -8,7 +8,7 @@ status: published
 tags: ['enviroai', 'information-theory', 'yudkowsky', 'paper', 'thermodynamics', 'causal-sovereignty']
 abstract: 'Argues that the AI alignment problem remains unsolved because dominant approaches (RLHF, Constitutional AI, mechanistic interpretability, scalable oversight, AI control, BCI merger) share an anthropocentric frame that lacks physically grounded optimization targets. Proposes Environmental Superintelligence—AI that models, predicts, and optimizes Earth''s physical systems—as the missing foundation layer, supported by seven independent lines of first-principles evidence.'
 license: CC-BY-4.0
-pdf: '/pdfs/esi-as-missing-foundation-of-ai-alignment.pdf'
+pdf: "/pdfs/esi-as-missing-foundation-of-ai-alignment.pdf"
 hero_image: '/images/esi-as-missing-foundation-of-ai-alignment-hero.png'
 hero_image_alt: 'First page of Environmental Superintelligence as the Missing Foundation of AI Alignment'
 ---

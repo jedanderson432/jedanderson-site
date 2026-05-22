@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/read-report-below.pdf"
 tags: ["thermodynamics", "linkedin-original"]
 abstract: "Read report below . . . \"Nature fights entropy by creating complex, ordered systems. The Law of Unthinking is our discovery of this same thermodynamic principle for civilization."
 ---

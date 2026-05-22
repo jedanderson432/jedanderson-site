@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Human-only? Anthropocentric?"
 license: CC-BY-4.0
+pdf: "/pdfs/metaverse-will-nature-get-left-behind-and-left-out.pdf"
 original_source: "Constant Contact campaign"
 ---
 

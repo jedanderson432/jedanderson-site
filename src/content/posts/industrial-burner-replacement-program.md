@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Joint-Venture with ClearSign Capital-Free Industrial Burner Replacement Program ClearSign Technologies (NASDAQ:CLIR) and EnviroMonetizers, a subsidiary of AL Law Investments, have entered into a joint…"
 license: CC-BY-4.0
+pdf: "/pdfs/industrial-burner-replacement-program.pdf"
 original_source: "Constant Contact campaign"
 ---
 

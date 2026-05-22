@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Is this possible? Yes. No more flares in the Houston Ship Channel skyline? . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/no-more-flares-in-the-houston-skyline.pdf"
 original_source: "Constant Contact campaign"
 ---
 

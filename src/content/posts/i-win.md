@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "I've got more intelligence. ‌ Muhammad Ali had no qualms with telling people when he became the greatest. I don't either. I Win."
 license: CC-BY-4.0
+pdf: "/pdfs/i-win.pdf"
 original_source: "Constant Contact campaign"
 ---
 

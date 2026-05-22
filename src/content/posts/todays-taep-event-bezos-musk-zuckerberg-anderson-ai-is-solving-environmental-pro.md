@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . 12:00 today----virtual event Artificial Intelligence . . . is changing the world! . . . and the way in which we protect the world!"
 license: CC-BY-4.0
+pdf: "/pdfs/todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro.pdf"
 original_source: "Constant Contact campaign"
 ---
 

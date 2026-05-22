@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "[](https://r20.rs6.net/tn.jsp?f=001S5ZNDyYezGpzGi9k2QD_3Qvv7URp08aLtKkg6dg1vU4aaxkrZy3OYKayTPE5AnVJ7Q9gD8lcAxrepHYO27RQeq8JGmZQgK0b-a24_7JBzE7XvUnsDRkemKVJckzi8k8vv79bx_BgGhU=&c=&ch=) ---\"I like my ch…"
 license: CC-BY-4.0
+pdf: "/pdfs/i-like-my-chances.pdf"
 original_source: "Constant Contact campaign"
 ---
 

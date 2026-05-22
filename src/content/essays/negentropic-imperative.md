@@ -8,7 +8,7 @@ tags: ['foundational', 'physics', 'information-theory', 'thermodynamics', 'envir
 abstract: "Defines 'Earth Rules'—the organizing principles of the biosphere—as evolved computational algorithms that optimize negentropy generation under physical constraints, and redefines Natural Law as the physical imperative for any persistent complex adaptive system to align with these strategies. Quantifies the HCN bandwidth (~40–100 bps) and the >10¹⁹ leverage of informational over physical control as the basis for a thermodynamically coherent ESG framework."
 license: CC-BY-4.0
 co_authors: ['Grok-4.1 Deep Research', 'Gemini 3.0 Pro Deep Think & Research', 'ChatGPT 5.1 Deep Research', 'Claude 4.5 Deep Research']
-pdf: '/pdfs/negentropic-imperative.pdf'
+pdf: "/pdfs/negentropic-imperative.pdf"
 hero_image: "/images/negentropic-imperative-hero.jpg"
 hero_image_alt: "Cover page of The Negentropic Imperative: Earth Rules as Algorithms of Persistence and the Physics of Planetary Governance"
 ---

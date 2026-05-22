@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . I refuse to become wealthy. ‌ That is where I intend to \"one-up\" Bezos, Musk, and other technological entrepreneurs. I will succeed without becoming wealthy."
 license: CC-BY-4.0
+pdf: "/pdfs/i-refuse-to-become-wealthy.pdf"
 original_source: "Constant Contact campaign"
 ---
 

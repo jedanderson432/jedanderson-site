@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Zero-Emissions\" Industry??? Zero-emissions cars . . . now zero-emissions industry? Zero emissions. Zero liabilities. Zero regulations. \"No pollution? . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/cars-now-industry.pdf"
 original_source: "Constant Contact campaign"
 ---
 

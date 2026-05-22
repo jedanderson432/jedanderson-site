@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Outsourcing\" . . . environmental treatment . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/outsourcing-pollution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

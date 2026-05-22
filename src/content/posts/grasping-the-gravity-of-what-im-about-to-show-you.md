@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Emissions Profiles and Rankings for All Facilities in Texas--including Today's Emissions Levels Grasping the Gravity of what I'm about to show you . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/grasping-the-gravity-of-what-im-about-to-show-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

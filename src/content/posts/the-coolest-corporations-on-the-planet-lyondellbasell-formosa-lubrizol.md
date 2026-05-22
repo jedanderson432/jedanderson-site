@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Fortune 500 Companies cooling the planet with their choice in internet search engines . . . and improving the world's access to environmental information to help the planet!"
 license: CC-BY-4.0
+pdf: "/pdfs/the-coolest-corporations-on-the-planet-lyondellbasell-formosa-lubrizol.pdf"
 original_source: "Constant Contact campaign"
 ---
 

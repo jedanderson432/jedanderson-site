@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroVerse Nature's metaverse . . . The EnviroVerse. ﻿---\"The metaverse must benefit all of creation.\" - Jed Anderson, EnviroAI Contact to Help Build this Metaverse Component ‌"
 license: CC-BY-4.0
+pdf: "/pdfs/its-natures-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

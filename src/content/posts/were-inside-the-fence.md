@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Artificial Intelligence---Enviro AI ﻿We're inside the fence! Explore emissions points for Texas facilities. \"Zoom-in\" and see the unit, control, and emissions details."
 license: CC-BY-4.0
+pdf: "/pdfs/were-inside-the-fence.pdf"
 original_source: "Constant Contact campaign"
 ---
 

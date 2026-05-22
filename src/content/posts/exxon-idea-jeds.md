@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "ExxonMobil $100 Billion Houston Climate Project ‌ ---I've been developing this project for the last few years called the \"Independence Project\" or \"Centers for Environmental Excellence\"."
 license: CC-BY-4.0
+pdf: "/pdfs/exxon-idea-jeds.pdf"
 original_source: "Constant Contact campaign"
 ---
 

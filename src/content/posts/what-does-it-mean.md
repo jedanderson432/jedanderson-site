@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "to be a search engine that can help save the world? ‌ SEARCH ENGINE What does it mean to be a search engine that can help save the world . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/what-does-it-mean.pdf"
 original_source: "Constant Contact campaign"
 ---
 

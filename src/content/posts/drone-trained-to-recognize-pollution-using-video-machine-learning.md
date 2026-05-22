@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroAI continuing to expand its AI powers and capabilities using satellite, aerial, and ground-based camera imaging ‌ Drone trained to analyze emission images using video machine learning."
 license: CC-BY-4.0
+pdf: "/pdfs/drone-trained-to-recognize-pollution-using-video-machine-learning.pdf"
 original_source: "Constant Contact campaign"
 ---
 

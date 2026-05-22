@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Louisiana vs. Texas ---\"The power of artificial intelligence.\" BEST PERMITS? WHAT STATE HAS THE MOST STRINGENT? QUICKLY COMPARE TERMS MOST STRINGENT? LEAST STRINGENT?"
 license: CC-BY-4.0
+pdf: "/pdfs/what-state-has-the-best-environmental-permits.pdf"
 original_source: "Constant Contact campaign"
 ---
 

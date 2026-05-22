@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/it-s-not-google.pdf"
 tags: ["enviroai", "ai", "linkedin-original"]
 abstract: "It's not Google . . . or OpenAI . . . or Microsoft . . . CAN YOU GUESS WHO'S THE BEST????  . . . Who has the best AI system designed specifically for environmental compliance, management, and protection work? See for yourself."
 ---

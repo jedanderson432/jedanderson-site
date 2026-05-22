@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "I've been asked for details from some of the thousands of you about the design of Permit.AI . . . ‌ Semi-automated permitting . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/semi-automated-permitting.pdf"
 original_source: "Constant Contact campaign"
 ---
 

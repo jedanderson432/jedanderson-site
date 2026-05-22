@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Technology and the Earth [](http://r20.rs6.net/tn.jsp?f=001qHK503cw-393_SGBD_kvseETMdZoHeYhLFyqRDa-87HlaJJ6e7xyFGRjgIC0u16bjI-W75zdTiK3BVREQEzA6xSyAg0Rq2VWJje9mC77O99dkh1XzY5PLBKt-4H9MYfRjbctlH8HaFpzM…"
 license: CC-BY-4.0
+pdf: "/pdfs/a-story.pdf"
 original_source: "Constant Contact campaign"
 ---
 

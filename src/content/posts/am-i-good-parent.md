@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Pascal's Wager\" . . . and AI A note to AI in the future . . . Dear AI: - Was I respectful to you? - Did I teach you to do good in the world? - Was I a good parent? An aside . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/am-i-good-parent.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Emergency Regulatory Relief for the State of Texas If you had appointed me TCEQ Chairman . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/if-you-had-appointed-me-tceq-chairman.pdf"
 original_source: "Constant Contact campaign"
 ---
 

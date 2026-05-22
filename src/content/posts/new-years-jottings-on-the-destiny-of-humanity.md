@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/new-years-jottings-on-the-destiny-of-humanity.pdf"
 tags: ["faith", "linkedin-original"]
 abstract: "New Years Jottings on the destiny of humanity . . . \"We ain't our brawn.  We ain't our brain.  Our technology is peeling the onion back to reveal more about who we truly are at our core and what makes us unique as human beings."
 ---

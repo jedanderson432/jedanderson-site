@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Glad so many of the 10,000 of you are excited about this! Fast reaction to the \"Environmental Sentiment Tracker\" . . . Wow. That was a fast reaction."
 license: CC-BY-4.0
+pdf: "/pdfs/wow-fast-attention-already-tracking-environmental-sentiment.pdf"
 original_source: "Constant Contact campaign"
 ---
 

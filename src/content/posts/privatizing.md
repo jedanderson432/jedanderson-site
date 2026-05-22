@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . environmental protection Will companies start to protect the environment on their own accord? \\\\ Yes! Privatization of Environmental Protection?"
 license: CC-BY-4.0
+pdf: "/pdfs/privatizing.pdf"
 original_source: "Constant Contact campaign"
 ---
 

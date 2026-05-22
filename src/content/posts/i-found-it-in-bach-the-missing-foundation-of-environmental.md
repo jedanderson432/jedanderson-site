@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/i-found-it-in-bach-the-missing-foundation-of-environmental.pdf"
 tags: ["information-theory", "thermodynamics", "enviroai", "ai", "physics", "linkedin-original"]
 abstract: "I found it. In Bach. The missing foundation of environmental superintelligence. Compression. Maximum compression with maximum logical depth. ? ? ? Give me Bach and the Guadalupe River. Hide the axis labels. I could not always tell them apart."
 ---

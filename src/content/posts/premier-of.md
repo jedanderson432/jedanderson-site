@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "2021: \"An Earth Odyssey\"-----Watch now! 2021: An Earth Odyssey ‌ Watch now."
 license: CC-BY-4.0
+pdf: "/pdfs/premier-of.pdf"
 original_source: "Constant Contact campaign"
 ---
 

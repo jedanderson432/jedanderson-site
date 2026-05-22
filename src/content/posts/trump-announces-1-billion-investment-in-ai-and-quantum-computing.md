@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental Quantum AI Quantum. Nature. AI. I've written extensively on the relationship between quantum physics, artificial intelligence, and nature (see example links below)."
 license: CC-BY-4.0
+pdf: "/pdfs/trump-announces-1-billion-investment-in-ai-and-quantum-computing.pdf"
 original_source: "Constant Contact campaign"
 ---
 

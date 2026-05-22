@@ -8,6 +8,7 @@ status: published
 tags: ["visual-essay", "training", "deutsch", "exponential", "cognitive-bias", "enviroai"]
 abstract: "A daily five-to-ten-minute training exercise to retrain the two reflexes that cost the most right now: the instinct to call something impossible, and the instinct to assume change is linear. Both were usually right for most of human history. Both are now usually wrong."
 license: CC-BY-4.0
+pdf: "/pdfs/possibility-exponentiality-training.pdf"
 hero_image: "/images/possibility-exponentiality-training-hero.jpg"
 interactive_url: "/visual-essays/possibility-exponentiality-training/"
 interactive_cta: "Begin the training →"

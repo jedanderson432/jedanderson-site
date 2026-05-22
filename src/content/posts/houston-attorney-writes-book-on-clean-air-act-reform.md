@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2016/07/20/houston-attorney-wr
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/houston-attorney-writes-book-on-clean-air-act-reform.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: '*Jed Anderson, nationally known expert on the Clean Air Act and partner at AL Law Group, PLLC, has written a book about leading U.S.'
 ---

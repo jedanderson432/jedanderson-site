@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Anyone? Insights on this? . . . Air Pollution & Black Holes-----What would happen to air pollution information in a Black Hole?"
 license: CC-BY-4.0
+pdf: "/pdfs/a-thought-experiment-for-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

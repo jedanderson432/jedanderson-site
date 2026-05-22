@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"It's these company's commitment to sustainability and environmental innovation that's making this environmental search engine possible.\" - Cassidy Schnell, EnviroAI"
 license: CC-BY-4.0
+pdf: "/pdfs/a-planetary-thank-you-to-the-coolest-companies-in-the-world.pdf"
 original_source: "Constant Contact campaign"
 ---
 

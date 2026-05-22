@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Thomas Merton . . . “Love is, in fact, an intensification of life, a completeness, a fullness, a wholeness of life.”– Thomas Merton"
 license: CC-BY-4.0
+pdf: "/pdfs/i-feel-that-i-must-protect-you-and-your-family-regardless-of-whether-you-want-me.pdf"
 original_source: "Constant Contact campaign"
 ---
 

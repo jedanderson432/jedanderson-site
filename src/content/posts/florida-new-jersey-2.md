@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "All environmental intelligence from all 50 states . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/florida-new-jersey-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

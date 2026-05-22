@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Come Watch! . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/enviroai-was-selected-houston-startup-showcase.pdf"
 original_source: "Constant Contact campaign"
 ---
 

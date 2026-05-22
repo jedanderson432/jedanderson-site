@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Unveiling of 1st Module Sneak-peek at \"Air AI\" Ceres AI's first \"Air AI\" module, focused on permitting documents and emission events, is scheduled to be released on March 1st."
 license: CC-BY-4.0
+pdf: "/pdfs/a-sneak-peek-at-air-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

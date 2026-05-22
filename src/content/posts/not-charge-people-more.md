@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . ."
 license: CC-BY-4.0
+pdf: "/pdfs/not-charge-people-more.pdf"
 original_source: "Constant Contact campaign"
 ---
 

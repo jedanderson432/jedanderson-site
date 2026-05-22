@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . ."
 license: CC-BY-4.0
+pdf: "/pdfs/audits-2-gigantic-improvements-for-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 
