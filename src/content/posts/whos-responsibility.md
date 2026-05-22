@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Mine. I wrote yesterday on computational environmental protection."
 license: CC-BY-4.0
+pdf: "/pdfs/whos-responsibility.pdf"
 original_source: "Constant Contact campaign"
 ---
 

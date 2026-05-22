@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . its people that are important!\" It's PEOPLE that are important! It's us!!! It's not the \"game-board\" that's ultimately important (the physics). I believe you are the \"variable\"."
 license: CC-BY-4.0
+pdf: "/pdfs/its-not-the-game-board.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Seeing in the EnviroVerse Glimpsing the EnviroVerse is much easier with some \"Carl Sagan-ism\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/carl-sagan-2d-3d-10d.pdf"
 original_source: "Constant Contact campaign"
 ---
 

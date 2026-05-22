@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "My gift I would like to give industry . . . Merry Christmas! Industry . . . a gift I would like to give you (look under the tree) . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/industry-x-mas-gift.pdf"
 original_source: "Constant Contact campaign"
 ---
 

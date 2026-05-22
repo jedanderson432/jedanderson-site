@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Out-Greening\" Green---Centers for Environmental Excellence #GreenHoustonStrong [](http://r20.rs6.net/tn.jsp?f=0011uuVRJVR_1Z8VjRO8qQWzYsEhHY328kLy1WhSrzuHUZ7BsK1wDNaM2LZOQwxTG_ucxTczWcPk_Q82Ub-H30moJ…"
 license: CC-BY-4.0
+pdf: "/pdfs/houstonstrong.pdf"
 original_source: "Constant Contact campaign"
 ---
 

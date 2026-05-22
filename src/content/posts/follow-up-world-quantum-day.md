@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Do you now see the \"magic\"? Imagine not knowing that the world was round . . . ---\"I was 50 years old . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/follow-up-world-quantum-day.pdf"
 original_source: "Constant Contact campaign"
 ---
 

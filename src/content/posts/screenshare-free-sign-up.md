@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "8 am - noon tomorrow ‌ TOWARD AN EVEN BRIGHTER FUTURE . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/screenshare-free-sign-up.pdf"
 original_source: "Constant Contact campaign"
 ---
 

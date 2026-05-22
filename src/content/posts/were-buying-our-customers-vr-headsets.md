@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "ENVIRONMENTAL METAVERSE---\"We're building the EnviroVerse for our customers, nature, and humanity as fast as we can!\" Moving quickly . . . ﻿EnviroAI's oversea's team codes at night and the U.S."
 license: CC-BY-4.0
+pdf: "/pdfs/were-buying-our-customers-vr-headsets.pdf"
 original_source: "Constant Contact campaign"
 ---
 

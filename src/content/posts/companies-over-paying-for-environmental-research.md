@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Not using artificial intelligence [](http://r20.rs6.net/tn.jsp?f=001mPX33cjXNCBfRpShy_dGM6uE0VHjal4KuG_BoRjKK2tFzFG_cMpuB4siJVQED5x4XjaXVmNB1P27LKLuo2oRrLBZlHZnvNkwyP5Q_yzhkk4E8oXS4I0JjTwVsqV_sKuDb_hn…"
 license: CC-BY-4.0
+pdf: "/pdfs/companies-over-paying-for-environmental-research.pdf"
 original_source: "Constant Contact campaign"
 ---
 

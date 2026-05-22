@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Helping environmental professionals serve more people . . . better . . . faster. ‌ Don't get left behind! AI is here."
 license: CC-BY-4.0
+pdf: "/pdfs/our-customers-have-a-huge-intelligence-advantage.pdf"
 original_source: "Constant Contact campaign"
 ---
 

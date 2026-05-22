@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "I'm 51 today! . . . blowing out these \"candles\" in the Houston Ship Channel area It's my birthday. I'm blowing out \"candles\"."
 license: CC-BY-4.0
+pdf: "/pdfs/birthday.pdf"
 original_source: "Constant Contact campaign"
 ---
 

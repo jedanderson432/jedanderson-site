@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "You are needed. You are wanted. Join us on an \"apollo-like\" environmental mission at EnviroAI. ‌ Need work? . . . or bored? . . . or just tired of the same routine as an environmental professional?"
 license: CC-BY-4.0
+pdf: "/pdfs/need-work-or-bored-or-just-tired-of-the-same-routine-as-an-environmental-profess.pdf"
 original_source: "Constant Contact campaign"
 ---
 

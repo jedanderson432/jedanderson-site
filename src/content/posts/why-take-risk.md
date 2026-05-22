@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\" . . . it's safer . . . it's almost always safer.\" Risking to find better ways to protect humanity and the earth. Risk? Earth? Livelihood? Reputation? I keep training my 3 boys to take risk."
 license: CC-BY-4.0
+pdf: "/pdfs/why-take-risk.pdf"
 original_source: "Constant Contact campaign"
 ---
 

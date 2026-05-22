@@ -8,7 +8,7 @@ status: published
 tags: ['cornerstone', 'foundational', 'thermodynamics', 'information-theory', 'landauer', 'enviroai', 'treatise']
 abstract: 'Public-facing presentation of the Intelligence Leverage Equation Λ = Mc² / (I·k_BT·ln 2), which captures the bond-bit asymmetry as a single dimensionless quantity. Names ''Jed''s Angel'' as the practical realization of Maxwell''s demon and reframes the environmental professional''s role from boulder-pushing to designing the intelligence that keeps the boulders from rolling.'
 license: CC-BY-4.0
-pdf: '/pdfs/intelligence-leverage-equation.pdf'
+pdf: "/pdfs/intelligence-leverage-equation.pdf"
 hero_image: '/images/intelligence-leverage-equation-hero.png'
 hero_image_alt: 'First page of The Intelligence Leverage Equation'
 ---

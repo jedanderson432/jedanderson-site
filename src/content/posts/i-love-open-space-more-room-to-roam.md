@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "South Dakota . . . prairies & universe(s) . . . South Dakota . . . Space. ---\"The notion of just one universe feels claustrophobic to me."
 license: CC-BY-4.0
+pdf: "/pdfs/i-love-open-space-more-room-to-roam.pdf"
 original_source: "Constant Contact campaign"
 ---
 

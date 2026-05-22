@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/you-can-t-negotiate-with-entropy-but-you-can-out-compute-it.pdf"
 tags: ["thermodynamics", "enviroai", "linkedin-original"]
 abstract: "?You can’t negotiate with entropy, but you can out-compute it. Every Joule of waste we capture is just a negentropic victory scored in binary.? - Jed Anderson, CEO, EnviroAI \"ENVIRONMENTAL\" ENTROPY . . ."
 ---

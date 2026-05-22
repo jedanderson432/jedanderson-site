@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "It will be this firm . . . ‌ Whoever has the fastest access to the most data. ‌ --\"We essentially have thousands of environmental consultants and hundreds of companies working for us generating data ."
 license: CC-BY-4.0
+pdf: "/pdfs/whos-the-best-environmental-consultant-in-tx-la.pdf"
 original_source: "Constant Contact campaign"
 ---
 

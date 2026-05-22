@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Ask Ceres------draw a bounding box on \"AI Earth\" and then ask Ceres what's in it. WHAT'S IN THE BOX? Draw a bounding box on \"AI Earth\" and then ask Ceres what's in it. - \"Ceres . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/whats-in-the-box.pdf"
 original_source: "Constant Contact campaign"
 ---
 

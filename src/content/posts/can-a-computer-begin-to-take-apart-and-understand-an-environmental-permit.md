@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . not only 1 of them . . . all of them. Watch! ‌ Seeing is believing . . . ﻿ Watch our robot begin to take apart and understand an environmental permit. ﻿Scary huh? Incredibly cool huh?"
 license: CC-BY-4.0
+pdf: "/pdfs/can-a-computer-begin-to-take-apart-and-understand-an-environmental-permit.pdf"
 original_source: "Constant Contact campaign"
 ---
 

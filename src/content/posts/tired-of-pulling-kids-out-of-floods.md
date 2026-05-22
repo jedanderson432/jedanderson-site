@@ -7,6 +7,7 @@ original_source: 'https://www.linkedin.com/feed/'
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/tired-of-pulling-kids-out-of-floods.pdf"
 tags: ['enviroai', 'faith', 'ai']
 abstract: "I'm tired of pulling kids and families out of floods. As I did back in 2019, I'll offer again to build an AI system for free and give it to my community. It's the least I can do for all God has given me."
 ---

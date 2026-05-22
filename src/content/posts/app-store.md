@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Pricing list . . . Shop today! ‌ Over 10,000 Viewers . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/app-store.pdf"
 original_source: "Constant Contact campaign"
 ---
 

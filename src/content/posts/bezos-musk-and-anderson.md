@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Who is the least crazy? ‌ Bezos, Musk . . . . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/bezos-musk-and-anderson.pdf"
 original_source: "Constant Contact campaign"
 ---
 

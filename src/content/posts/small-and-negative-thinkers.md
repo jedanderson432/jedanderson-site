@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ \"Small\" and \"Negative\" Thinkers . . . ---\"The biggest challenge I have every day with bringing about an environmental renaissance in Houston and America is dealing with small and negative thinkers."
 license: CC-BY-4.0
+pdf: "/pdfs/small-and-negative-thinkers.pdf"
 original_source: "Constant Contact campaign"
 ---
 

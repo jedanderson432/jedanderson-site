@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A New Era in Environmental Protection . . . A New Era in Environmental Protection."
 license: CC-BY-4.0
+pdf: "/pdfs/ding-in-the-universe.pdf"
 original_source: "Constant Contact campaign"
 ---
 

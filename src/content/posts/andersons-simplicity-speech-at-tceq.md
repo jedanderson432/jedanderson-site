@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2017/06/08/andersons-simplicit
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/andersons-simplicity-speech-at-tceq.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'simplicity', 'faith']
 abstract: 'Below is a copy of yesterday’s speech imploring TCEQ to begin simplifying the environmental regulatory system in the State of Texas.'
 ---

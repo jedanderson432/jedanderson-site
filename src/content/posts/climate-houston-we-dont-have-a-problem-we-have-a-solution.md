@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Proud problem-solving Texans.\" - Jed Anderson, Environmental Entrepreneur ‌ President Biden's ambitious climate agenda in the news today---and a bold Blackrock ($9 trillion) investment letter calling…"
 license: CC-BY-4.0
+pdf: "/pdfs/climate-houston-we-dont-have-a-problem-we-have-a-solution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/nvidia-s-earth-digital-twin.pdf"
 tags: ["enviroai", "ai", "linkedin-original"]
 abstract: "Nvidia's Earth Digital Twin . . . + . . . EnviroAI's Agentic Multi-LLM . . . = . . .  \"Happy Environment\" ? ? ? ? ??? ? ????? ? ? ? ? ? ? ? ? ? ? ? ?"
 ---

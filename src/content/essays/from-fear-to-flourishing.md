@@ -8,7 +8,7 @@ tags: ['enviroai', 'thermodynamics', 'faith', 'paper', 'treatise']
 abstract: 'Reframes the environmental movement around ''The Environmental Happiness Movement''—a deliberate departure from a 20th-century paradigm powered by fear and toward an architecture for planetary thriving grounded in the negentropic mandate of life. Treats the Anthropocene crises as the predictable physical consequence of unconscious goal-setting and proposes a conscious replacement aimed at flourishing rather than mere protection.'
 license: CC-BY-4.0
 co_authors: ['Grok 4 Thinking', 'ChatGPT-5 Thinking', 'Google Gemini Pro 2.5 Deep Research']
-pdf: '/pdfs/from-fear-to-flourishing.pdf'
+pdf: "/pdfs/from-fear-to-flourishing.pdf"
 hero_image: '/images/from-fear-to-flourishing-hero.png'
 hero_image_alt: 'First page of From Fear to Flourishing: An Architecture for Planetary Thriving in the Information Age'
 ---

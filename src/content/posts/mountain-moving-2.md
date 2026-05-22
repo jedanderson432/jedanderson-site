@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Although I'm building a quantum AI environmental protection system, a drone environmental object detection app, and an environmental treatment center for outsourcing pollution . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/mountain-moving-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

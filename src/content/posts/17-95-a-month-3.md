@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Building a machine to help protect the environment . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/17-95-a-month-3.pdf"
 original_source: "Constant Contact campaign"
 ---
 

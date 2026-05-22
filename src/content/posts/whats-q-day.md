@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Q-Day\" --\"I can't wait.\" - Jed Anderson Lots of concern with the federal government and institutions about\"Q-Day\"in the arena of encryptionfor banks and national security."
 license: CC-BY-4.0
+pdf: "/pdfs/whats-q-day.pdf"
 original_source: "Constant Contact campaign"
 ---
 

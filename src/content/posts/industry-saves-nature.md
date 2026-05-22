@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"We're writing the greatest planetary plot-twist of all-time.\"---Jed Anderson, CEO, EnviroAI INDUSTRY SAVES NATURE ---\"We're writing the greatest planetary plot-twist of all time.\" - Jed Anderson, Env…"
 license: CC-BY-4.0
+pdf: "/pdfs/industry-saves-nature.pdf"
 original_source: "Constant Contact campaign"
 ---
 

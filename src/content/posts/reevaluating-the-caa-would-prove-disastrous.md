@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2015/10/05/reevaluating-the-ca
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/reevaluating-the-caa-would-prove-disastrous.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/clean-air-act-and-courage.jpg)Many Republican and Democrat leaders think that reevaluating the Clean Air Act would prove “disastrous” (see quotes in last Friday’s Politico)'
 ---

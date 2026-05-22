@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Better serve your company and clients ‌ Prices now starting as low as $17 a month."
 license: CC-BY-4.0
+pdf: "/pdfs/prices-now-starting-17.pdf"
 original_source: "Constant Contact campaign"
 ---
 

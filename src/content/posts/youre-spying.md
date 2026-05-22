@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "on us and our environmental impacts\"---Industry Comment It never fails . . . people are aghast when they first see our system . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/youre-spying.pdf"
 original_source: "Constant Contact campaign"
 ---
 

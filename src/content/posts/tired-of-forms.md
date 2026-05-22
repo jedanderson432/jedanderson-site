@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"AutoConsultant\"------TCEQ Form-Filling and Application Preparation----New App in Development! ‌ Tired of TCEQ forms? Tired of filling in forms?"
 license: CC-BY-4.0
+pdf: "/pdfs/tired-of-forms.pdf"
 original_source: "Constant Contact campaign"
 ---
 

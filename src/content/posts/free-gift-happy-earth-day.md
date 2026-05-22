@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Happy Earth Day!---This gift every year will get better . . . and better . . . and better . . . and bigger . . . and bigger. . ."
 license: CC-BY-4.0
+pdf: "/pdfs/free-gift-happy-earth-day.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "We just completed \"Trackbot\" this weekend Question . . . what else can we build to help protect you and the planet? your children? the animals, plants, and trees in your life?"
 license: CC-BY-4.0
+pdf: "/pdfs/question-what-else-can-we-build-to-help-protect-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

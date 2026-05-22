@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Dartmouth 1956 . . . Solvay 1927 . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/computational-environmental-protection.pdf"
 original_source: "Constant Contact campaign"
 ---
 

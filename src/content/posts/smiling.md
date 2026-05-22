@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "after initially cringing at this new article: \"AI can't replace humans at environmental compliance\" ‌ There is so much fear out there about environmental job loss from artificial intelligence."
 license: CC-BY-4.0
+pdf: "/pdfs/smiling.pdf"
 original_source: "Constant Contact campaign"
 ---
 

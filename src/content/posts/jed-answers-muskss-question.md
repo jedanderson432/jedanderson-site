@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"What's outside . . . ‌ Jed's Answer to Musk's Question Why is the following relevant? ---People will tell me, what does God and love have to do with what you are doing Jed?"
 license: CC-BY-4.0
+pdf: "/pdfs/jed-answers-muskss-question.pdf"
 original_source: "Constant Contact campaign"
 ---
 

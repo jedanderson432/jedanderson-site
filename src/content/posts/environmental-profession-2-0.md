@@ -7,6 +7,7 @@ original_source: 'https://www.linkedin.com/feed/'
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-profession-2-0.pdf"
 tags: ['enviroai', 'ai', 'cosmic-ledger', 'causal-sovereignty']
 abstract: "We are the only species in history that can prevent a mass extinction. The sixth. The seventh. Every one that follows. That is what this profession is being reborn to do."
 ---

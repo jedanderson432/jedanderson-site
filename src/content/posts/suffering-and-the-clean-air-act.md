@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2015/03/23/suffering-and-the-c
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/suffering-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: '***[](/images/sip/harmful-and-the-clean-air-act.png)Sentiment: “***I don’t want to suffer.'
 ---

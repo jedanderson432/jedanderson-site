@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Simpler. Faster. Cheaper."
 license: CC-BY-4.0
+pdf: "/pdfs/all-emission-inventories-should-be-real-time.pdf"
 original_source: "Constant Contact campaign"
 ---
 

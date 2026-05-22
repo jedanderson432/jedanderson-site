@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "All environmental sites in Texas now displaying . . . with Ceres Artificial Intelligence Insights VERY EXCITING! Ceres AI is now displaying all environmental sites in Texas . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/very-exciting.pdf"
 original_source: "Constant Contact campaign"
 ---
 

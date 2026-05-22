@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . change over time. ‌ ‌ Professional Tools Change Over Time Farming Environmental ---\"EnviroAI has become my 'go-to' tool as an environmental professional."
 license: CC-BY-4.0
+pdf: "/pdfs/tools-change.pdf"
 original_source: "Constant Contact campaign"
 ---
 

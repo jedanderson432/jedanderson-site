@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "HBA, TAEP, AWMA, BIC Magazine OCTOBER SPEAKING EVENTS October 20th, Houston Bar Association Environmental Law Section Event Registration October 21st, Texas Association of Environmental Professionals…"
 license: CC-BY-4.0
+pdf: "/pdfs/4-speaking-events-in-october.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2013/08/19/winston-churchill-a
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/winston-churchill-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/churchill-and-the-clean-air-act.jpg)I wonder what Churchill would think about the Clean Air Act?'
 ---

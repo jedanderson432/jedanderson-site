@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ Mission: \"Machine\" that Protects Nature \"Houston . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/mission-build-a-machine-that-protects-nature.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroVerse Welcome Video . . .\"Welcome to the Environmental Metaverse\" Just released . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/just-released.pdf"
 original_source: "Constant Contact campaign"
 ---
 

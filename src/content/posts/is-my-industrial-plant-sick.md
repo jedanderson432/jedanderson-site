@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Advanced environmental diagnostics---The latest EnviroAI Apps to soon be unveiled! ‌ Is my industrial plant sick? How can I help make sure its healthy and stays healthy?"
 license: CC-BY-4.0
+pdf: "/pdfs/is-my-industrial-plant-sick.pdf"
 original_source: "Constant Contact campaign"
 ---
 

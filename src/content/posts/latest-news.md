@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "AI & the Environment Volume IV, May 4, 2020 ---\"Protecting the environment. Simpler. Faster.\" --Ceres AI Environmental AI Updates and recent headlines on artificial intelligence and the environment."
 license: CC-BY-4.0
+pdf: "/pdfs/latest-news.pdf"
 original_source: "Constant Contact campaign"
 ---
 

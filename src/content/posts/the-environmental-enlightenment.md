@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Stars have aligned . . . ‌ ﻿---\"I picked the best time in the world to become an environmental entrepreneur.\" - Jed Anderson The Environmental Enlightenment . . . The Environmental Renaissance."
 license: CC-BY-4.0
+pdf: "/pdfs/the-environmental-enlightenment.pdf"
 original_source: "Constant Contact campaign"
 ---
 

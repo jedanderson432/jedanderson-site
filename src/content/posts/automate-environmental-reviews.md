@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Audits, Due Diligence, Phase 1s ‌ AUTOMATE ENVIRONMENTAL REVIEWS ‌ [](http://r20.rs6.net/tn.jsp?f=001o3HtK1sF--xZH30voU-Q0r9jG1tmMP4w8-5TOSg7czxYwVEyUztBRdTZ1qvZy5UW2GVAaduJGAmk4OYy_5Dfv4bG8FOxO7YKImh…"
 license: CC-BY-4.0
+pdf: "/pdfs/automate-environmental-reviews.pdf"
 original_source: "Constant Contact campaign"
 ---
 

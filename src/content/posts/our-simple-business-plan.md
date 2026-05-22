@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "1. Augment Intelligence 2. Automate Work Our business planis extremely simple . . . 1. Augment intelligence 2."
 license: CC-BY-4.0
+pdf: "/pdfs/our-simple-business-plan.pdf"
 original_source: "Constant Contact campaign"
 ---
 

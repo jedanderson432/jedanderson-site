@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Attracting Trillions in ESG Investments and Verifying its Effectiveness at the Neighborhood Level----EnviroAI $7 Trillion BlackRock and other Environmental Social Governance (ESG) investment companies…"
 license: CC-BY-4.0
+pdf: "/pdfs/blackrock-9-trillion.pdf"
 original_source: "Constant Contact campaign"
 ---
 

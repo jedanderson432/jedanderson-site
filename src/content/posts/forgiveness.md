@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ . . . the challenge of forgiving each other . . . and most of all . . . ourselves. My wife thinks I will either revolutionize how we protect the environment . . . or become a monk."
 license: CC-BY-4.0
+pdf: "/pdfs/forgiveness.pdf"
 original_source: "Constant Contact campaign"
 ---
 

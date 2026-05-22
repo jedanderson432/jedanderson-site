@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "What do you think? . What do you think? $$$? What's the potential value of the EnviroVerse . . . a metaverse that adds nature and environmental protection to the metaverse???"
 license: CC-BY-4.0
+pdf: "/pdfs/metaverse-1trillion-enviroverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

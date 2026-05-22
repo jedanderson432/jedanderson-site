@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Covid--Artificial Intelligence . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/cbs-60-minutes.pdf"
 original_source: "Constant Contact campaign"
 ---
 

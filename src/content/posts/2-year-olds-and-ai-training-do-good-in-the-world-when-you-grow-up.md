@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . teaching AI to value and PROTECT LIFE ON EARTH PROTECT LIFE ON EARTH."
 license: CC-BY-4.0
+pdf: "/pdfs/2-year-olds-and-ai-training-do-good-in-the-world-when-you-grow-up.pdf"
 original_source: "Constant Contact campaign"
 ---
 

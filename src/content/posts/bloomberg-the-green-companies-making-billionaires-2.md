@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Going green is increasingly a way to make bank\"---Bloomberg ‌ Bloomberg article . . . \"The Green Companies Making Billionaires\" ﻿ . ."
 license: CC-BY-4.0
+pdf: "/pdfs/bloomberg-the-green-companies-making-billionaires-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

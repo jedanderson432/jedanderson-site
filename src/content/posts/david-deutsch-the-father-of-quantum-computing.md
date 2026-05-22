@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Calculating in different universes Why is EnviroAI so focused on quantum computing to build its environmental protection system . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/david-deutsch-the-father-of-quantum-computing.pdf"
 original_source: "Constant Contact campaign"
 ---
 

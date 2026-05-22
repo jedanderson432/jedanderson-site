@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/for-eight-years-we-ve-been-building-an-environmental-brain.pdf"
 tags: ["ai", "physics", "linkedin-original"]
 abstract: "For eight years we've been building an environmental brain. 12 million documents. Three AI models. 14 states. The brain understands environmental law, permits, compliance, science."
 ---

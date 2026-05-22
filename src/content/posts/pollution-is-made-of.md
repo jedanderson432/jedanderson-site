@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . and trillion dollar advice for a chemical company. Pollution is made of . . . data. ---\"Building toward a quantum AI environmental protection system . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/pollution-is-made-of.pdf"
 original_source: "Constant Contact campaign"
 ---
 

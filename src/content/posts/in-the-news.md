@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "technology breakthroughs supporting EnviroAI's mission . . . Some big recent developments . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/in-the-news.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/human-environmental-regulations-will-largely-become-obsolete.pdf"
 tags: ["enviroai", "faith", "linkedin-original"]
 abstract: "\"Human environmental regulations will largely become obsolete.  We simply won't need them anymore.\"- Jed Anderson, Creator & CEO, EnviroAI ???????You never change things by fighting the existing reality."
 ---

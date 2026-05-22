@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "This is how I will change the environmental regulatory world forever . . . I hope to purchase my first chemical plant next year . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/jeds-elon-musk-approach-to-environmental-protection.pdf"
 original_source: "Constant Contact campaign"
 ---
 

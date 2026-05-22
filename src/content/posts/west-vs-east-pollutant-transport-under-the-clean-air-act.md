@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2013/03/25/west-vs-east-pollut
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/west-vs-east-pollutant-transport-under-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/eastern-vs-western-states-and-transported-pollution1.png)Eastern States are now suing to get Western States to address Eastern State’s pollution in Western State’s SIPs (see headlines below). Absurd?'
 ---

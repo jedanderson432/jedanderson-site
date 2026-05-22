@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Especially to . . . ---\"Especially to all those praying for us . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/thank-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

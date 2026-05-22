@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "AI protecting the environment ‌ ---\"Because the people who are crazy enough to think they can change the world, are the ones who do.” - Rob Siltanen PROTECTING YOU. PROTECTING NATURE."
 license: CC-BY-4.0
+pdf: "/pdfs/how-close.pdf"
 original_source: "Constant Contact campaign"
 ---
 

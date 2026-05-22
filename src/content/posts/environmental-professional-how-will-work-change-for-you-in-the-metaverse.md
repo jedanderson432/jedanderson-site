@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. FUN. . FUN!"
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-professional-how-will-work-change-for-you-in-the-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

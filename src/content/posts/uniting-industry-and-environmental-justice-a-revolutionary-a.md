@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/uniting-industry-and-environmental-justice-a-revolutionary-a.pdf"
 tags: ["ai", "linkedin-original"]
 abstract: "\"Uniting Industry and Environmental Justice: A Revolutionary Approach to Emissions Control\" . . . by Jim Blackburn and Jed Anderson . . . a new day . . . a new Trump administration seeking efficiency and change . . ."
 ---

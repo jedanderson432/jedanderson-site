@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Headlines yesterday . . . \"AI Poses Risk of Extinction, Industry Leaders Warn\"---NY Times Article . . . MY REACTION . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/extinction-ai-article-in-new-york-times.pdf"
 original_source: "Constant Contact campaign"
 ---
 

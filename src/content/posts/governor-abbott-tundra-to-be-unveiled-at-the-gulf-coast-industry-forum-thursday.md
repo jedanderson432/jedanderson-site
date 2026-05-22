@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "BE COOL! . . . Offset a kilogram of carbon every time you search the internet! TUNDRA: \"The Cooler Search Engine\""
 license: CC-BY-4.0
+pdf: "/pdfs/governor-abbott-tundra-to-be-unveiled-at-the-gulf-coast-industry-forum-thursday.pdf"
 original_source: "Constant Contact campaign"
 ---
 

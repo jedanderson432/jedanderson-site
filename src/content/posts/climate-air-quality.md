@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"It's been a thrill! . . . We are so excited about this latest artificial intelligence application!\"---Jed Anderson, Creator, EnviroAI Climate . . . Air quality . . . ‌ ---\"It's been a thrill . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/climate-air-quality.pdf"
 original_source: "Constant Contact campaign"
 ---
 

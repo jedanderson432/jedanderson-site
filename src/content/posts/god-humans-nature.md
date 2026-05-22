@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "GOD. NATURE. HUMANITY. God created humans potentially not to hurt nature . . . but to evolve to save her. Now that's a story-line! Harnessing Probability to Protect Nature (click here) [](https://r20."
 license: CC-BY-4.0
+pdf: "/pdfs/god-humans-nature.pdf"
 original_source: "Constant Contact campaign"
 ---
 

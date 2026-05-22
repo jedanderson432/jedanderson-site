@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How close are we to successfully builiding a machine to protect the environment?"
 license: CC-BY-4.0
+pdf: "/pdfs/1-complete.pdf"
 original_source: "Constant Contact campaign"
 ---
 

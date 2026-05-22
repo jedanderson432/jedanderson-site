@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/here-s-an-assessment-of-our-ai-company-s-mission-and-progres.pdf"
 tags: ["enviroai", "ai", "linkedin-original"]
 abstract: "Here's an assessment of our AI company's mission and progress in building toward \"Environmental Super-Intelligence\".   We are approximately 9% complete.  Only about 91% to go!!!!!!!!!!!"
 ---

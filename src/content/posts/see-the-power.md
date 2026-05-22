@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "See the facility. ‌ EnviroAI . . . take me to the facility SEEING IS POWER."
 license: CC-BY-4.0
+pdf: "/pdfs/see-the-power.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ Privatized Environmental Protection AI & Quantum Tech in Environmental Protection ---\"The artificial intelligence system we are building will essentially begin to privatize environmental protection…"
 license: CC-BY-4.0
+pdf: "/pdfs/epa-privatized.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Enforcement Agencies & EnviroAI An enforcement agency is now using EnviroAI . . . DATA. INTELLIGENCE. SPEED."
 license: CC-BY-4.0
+pdf: "/pdfs/i-will-not-discriminate.pdf"
 original_source: "Constant Contact campaign"
 ---
 

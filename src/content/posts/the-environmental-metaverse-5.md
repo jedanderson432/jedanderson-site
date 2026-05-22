@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroVerse---The Universe for Environmental Work . A metaverse for environmental work . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/the-environmental-metaverse-5.pdf"
 original_source: "Constant Contact campaign"
 ---
 

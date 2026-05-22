@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/if-humanity-is-building-bcis-to-interface-with-ai-then.pdf"
 tags: ["enviroai", "ai", "monitoring", "linkedin-original"]
 abstract: "\"If humanity is building BCIs to interface with AI, then perhaps it's time to ask’can nature interface too? We're exploring a future where the forest itself might whisper through sensors, and AI listens, learns, and responds."
 ---

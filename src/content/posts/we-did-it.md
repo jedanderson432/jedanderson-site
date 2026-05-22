@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Formal Launch of the \"Corrective Action Tracker\"----Track Company's Environmental Problems and Solutions in Real-Time Track Company's Environmental Problems and Solutions Below is a screenshot video o…"
 license: CC-BY-4.0
+pdf: "/pdfs/we-did-it.pdf"
 original_source: "Constant Contact campaign"
 ---
 

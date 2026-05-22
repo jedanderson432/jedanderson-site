@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "﻿---\"I've only had one career . . . simplicity.\" - Jed Anderson, Environmental Attorney and Entrepreneur ---\"The laws of nature are simple."
 license: CC-BY-4.0
+pdf: "/pdfs/only-1-career.pdf"
 original_source: "Constant Contact campaign"
 ---
 

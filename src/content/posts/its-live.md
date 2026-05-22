@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental Social Media Tracker IT'S LIVE!!!! . . .We finished the live-feed for \"EnviroAI Social\" at about 12:15 last night and pushed it to the main site."
 license: CC-BY-4.0
+pdf: "/pdfs/its-live.pdf"
 original_source: "Constant Contact campaign"
 ---
 

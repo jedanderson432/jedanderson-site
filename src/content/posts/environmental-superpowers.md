@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How powerful can we make other people? . ."
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-superpowers.pdf"
 original_source: "Constant Contact campaign"
 ---
 

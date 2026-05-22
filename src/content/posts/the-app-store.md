@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Shop now!"
 license: CC-BY-4.0
+pdf: "/pdfs/the-app-store.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Fenceline Pollution Protection---Purchase now in the \"EnviroAI App Store\" IS SOMEONE POLLUTING ME? Protect yourself."
 license: CC-BY-4.0
+pdf: "/pdfs/new-app.pdf"
 original_source: "Constant Contact campaign"
 ---
 

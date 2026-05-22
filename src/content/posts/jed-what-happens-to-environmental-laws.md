@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . the God Pitch Deck . . . Fielding Potential Investor Questions Preparing for potential questions from God on the pitch deck . . . Jed . . . what happens to environmental laws? . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/jed-what-happens-to-environmental-laws.pdf"
 original_source: "Constant Contact campaign"
 ---
 

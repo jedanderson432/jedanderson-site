@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Protecting your children and grandchildren . . . ---\"It's the most powerful and most advanced air quality protection system in the world.\" It's truth . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/protecting-your-children-and-grandchildren.pdf"
 original_source: "Constant Contact campaign"
 ---
 

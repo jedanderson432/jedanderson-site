@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "$10M investment money forthcoming . . . we hope . . . ---\"With an initial investment, I'll be firing myself as CEO--as well as from the role of marketing/sales director (no more Jed emails!!!)."
 license: CC-BY-4.0
+pdf: "/pdfs/ill-be-firing-myself-as-ceo-jed-anderson.pdf"
 original_source: "Constant Contact campaign"
 ---
 

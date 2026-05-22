@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "ex./ 187,866 air permits in Texas as of this hour . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/war-is-90-information-google.pdf"
 original_source: "Constant Contact campaign"
 ---
 

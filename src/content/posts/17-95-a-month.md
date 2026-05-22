@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Access NOW with your credit card [](http://r20.rs6.net/tn.jsp?f=001I8Hi68URFclFzRREmtDwMOLB8tkYIT_Km2rnBgDpcM1LPtHwrj3q9U0MmkCxnkdEPMJMdo2oScauhVTdNQ-jv8LInTlAFlk9kQTC3FLUz6ochl07T5EShOG3R0F88DLWZVfeE…"
 license: CC-BY-4.0
+pdf: "/pdfs/17-95-a-month.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"The launch of a new era in environmental protection\" ‌ Footage of Yesterday's 1st EnviroAI Demo Flight [](http://r20.rs6.net/tn.jsp?f=001bR2zDO0uRICF7iOIL2e1rFQt3xzEYeQi4Y0dD5XAsaQEZjxrQn-hYzJltON0_N…"
 license: CC-BY-4.0
+pdf: "/pdfs/video-footage-of-yesterdays-1st-enviroai-drone-demo.pdf"
 original_source: "Constant Contact campaign"
 ---
 

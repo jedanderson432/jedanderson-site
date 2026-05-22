@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Ceres finds thousands Exemption? Ceres AI has thousands of examples of exemptions, alternatives, and substitutes for environmental requirements. --\"Some companies essentially pay $1 to comply."
 license: CC-BY-4.0
+pdf: "/pdfs/exemptions.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Training AI to \"Do Good Things\" for Humanity and Nature----EnviroAI . . . teaching AI to \"do good things\" for humanity and nature . . . ---\"We can train AI to be good or bad."
 license: CC-BY-4.0
+pdf: "/pdfs/teach-good-to-do-good.pdf"
 original_source: "Constant Contact campaign"
 ---
 

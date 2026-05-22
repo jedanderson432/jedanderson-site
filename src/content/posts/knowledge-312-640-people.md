@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Size of EnviroAI's Knowledge Base Currently in Texas ﻿As of this hour, EnviroAI's system indicates there are approximately 312, 640 people working on environmental matters in Texas. www.enviro.ai"
 license: CC-BY-4.0
+pdf: "/pdfs/knowledge-312-640-people.pdf"
 original_source: "Constant Contact campaign"
 ---
 

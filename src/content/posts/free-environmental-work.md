@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Billions of dollars in free environmental work\"----EnviroAI ‌ IT'S FREE ENVIRONMENTAL WORK I'm smiling ear-to-ear!!! The light bulb went off for a bunch of the 10,000 of you this morning . . . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/free-environmental-work.pdf"
 original_source: "Constant Contact campaign"
 ---
 

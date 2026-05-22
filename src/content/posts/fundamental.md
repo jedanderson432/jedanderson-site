@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Quantum physics? ‌ ---\"Is quantum physics fundamental? . . . I highly doubt it.\" - Jed Anderson, EnviroAI \"Aristotelian and Newtonian physics wasn't found to be fundamental . . . . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/fundamental.pdf"
 original_source: "Constant Contact campaign"
 ---
 

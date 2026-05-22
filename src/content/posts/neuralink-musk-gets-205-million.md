@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"I plan to be the '2nd in line' to get one\". . . pursuing EnviroAI's mission to increase the human to nature connection speed. . . Neuralink . . . Musk gets $205 Million In the news . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/neuralink-musk-gets-205-million.pdf"
 original_source: "Constant Contact campaign"
 ---
 

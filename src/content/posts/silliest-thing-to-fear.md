@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"The silliest thing to fear is death. It's just more life."
 license: CC-BY-4.0
+pdf: "/pdfs/silliest-thing-to-fear.pdf"
 original_source: "Constant Contact campaign"
 ---
 

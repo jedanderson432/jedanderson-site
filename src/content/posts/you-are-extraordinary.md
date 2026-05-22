@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "My biggest challenge is convincing others they are extraordinary. I think they are looking at themselves and seeing themselves. I'm looking at them and seeing God. One has limits."
 license: CC-BY-4.0
+pdf: "/pdfs/you-are-extraordinary.pdf"
 original_source: "Constant Contact campaign"
 ---
 

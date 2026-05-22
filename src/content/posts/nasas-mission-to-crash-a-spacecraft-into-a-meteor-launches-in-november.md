@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "November 24th Launch Date to test Planetary Defense System\". . . . . . . . \"Humans will save nature.\" - Jed Anderson, EnviroAI ---\"Our intelligence is nature's hope."
 license: CC-BY-4.0
+pdf: "/pdfs/nasas-mission-to-crash-a-spacecraft-into-a-meteor-launches-in-november.pdf"
 original_source: "Constant Contact campaign"
 ---
 

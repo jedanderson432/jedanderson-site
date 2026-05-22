@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Growing our environmental ideas after we are gone ﻿ ﻿----\"I write environmental ideas not only for people to read . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/legacy-in-an-algorithm.pdf"
 original_source: "Constant Contact campaign"
 ---
 

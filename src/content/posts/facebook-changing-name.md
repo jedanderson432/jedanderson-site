@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---and the \"Environmental Metaverse\" Facebook is changing its name next week. Becoming a metaverse company. Hired 10,000 new metaverse developers."
 license: CC-BY-4.0
+pdf: "/pdfs/facebook-changing-name.pdf"
 original_source: "Constant Contact campaign"
 ---
 

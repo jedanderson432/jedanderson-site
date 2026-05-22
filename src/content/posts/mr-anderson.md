@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "The Environmental Matrix ---\"A-C-T-G . . . it's code.\" ---\"Language . . . it's code.\" ---\"Binary . . . it's code.\" ---\"Qubits . . . it's code.\" ‌ ---\"The environment is running code."
 license: CC-BY-4.0
+pdf: "/pdfs/mr-anderson.pdf"
 original_source: "Constant Contact campaign"
 ---
 

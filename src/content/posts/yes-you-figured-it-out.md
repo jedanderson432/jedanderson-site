@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Projects are all connected! You're just linking physical and data systems to build an environmental protection system."
 license: CC-BY-4.0
+pdf: "/pdfs/yes-you-figured-it-out.pdf"
 original_source: "Constant Contact campaign"
 ---
 

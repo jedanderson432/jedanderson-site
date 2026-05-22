@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . this morning I'm helping another client being interviewed by environmental criminal investigators.The incident occurred at a Fortune 500 company."
 license: CC-BY-4.0
+pdf: "/pdfs/criminal-investigation.pdf"
 original_source: "Constant Contact campaign"
 ---
 

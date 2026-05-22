@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . \"back in time\" . . . . (relative to me!) ---\"My brain is limited . ."
 license: CC-BY-4.0
+pdf: "/pdfs/moving-my-coffee-cup.pdf"
 original_source: "Constant Contact campaign"
 ---
 

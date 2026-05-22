@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Our partners ‌ Build an App with EnviroAI ‌ Current collaborations with other companies under development or review: - Drone app - EMIS app - Emissions Inventory app - Permit app - Waste AI app [](htt…"
 license: CC-BY-4.0
+pdf: "/pdfs/want-to-build-an-app.pdf"
 original_source: "Constant Contact campaign"
 ---
 

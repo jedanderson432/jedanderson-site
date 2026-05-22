@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Protect your employees while they protect you PROTECT YOUR EMPLOYEES while they protect you and the environment."
 license: CC-BY-4.0
+pdf: "/pdfs/employee-protection-protecting-the-environment-while-increasing-social-distancin.pdf"
 original_source: "Constant Contact campaign"
 ---
 

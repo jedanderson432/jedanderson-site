@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ See slide-deck."
 license: CC-BY-4.0
+pdf: "/pdfs/harnessing-the-power-of-probability.pdf"
 original_source: "Constant Contact campaign"
 ---
 

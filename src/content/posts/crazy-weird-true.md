@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "University of Texas Professor: Grasping Quantum Entanglement will Change You ‌ ‌ Article in Forbes a few days ago about one way we are starting to use quantum entanglement. Quantum Entanglement. You."
 license: CC-BY-4.0
+pdf: "/pdfs/crazy-weird-true.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Freedom from pollution. Freedom from law. We are intended to be free--in every sense of the word. We are intended to live by grace. Each of us must aspire and work toward this complete freedom."
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-freedom.pdf"
 original_source: "Constant Contact campaign"
 ---
 

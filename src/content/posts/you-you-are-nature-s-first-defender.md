@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/you-you-are-nature-s-first-defender.pdf"
 tags: ["linkedin", "linkedin-original"]
 abstract: "You.  You are nature's first defender.  My proof is in the essay below. Humans are the first species in 4 billion years of evolution capable of protecting all the rest."
 ---

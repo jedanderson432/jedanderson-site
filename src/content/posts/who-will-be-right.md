@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Musk vs. Anderson---\"Artificial General Intelligence\" Prediction WHO'S PREDICTION WILL BE RIGHT?"
 license: CC-BY-4.0
+pdf: "/pdfs/who-will-be-right.pdf"
 original_source: "Constant Contact campaign"
 ---
 

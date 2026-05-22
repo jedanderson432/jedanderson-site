@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A planetary twist of fate . . . humans becoming the reason nature survives . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/cold-pandemic-hope-joy.pdf"
 original_source: "Constant Contact campaign"
 ---
 

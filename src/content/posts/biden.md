@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "New Environmental Game Plan? . . . or back to \"Old Regulatory Playbook\"? ‌ ---\"Innovation forward. Regulation backward. Forward. Innovate."
 license: CC-BY-4.0
+pdf: "/pdfs/biden.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Now displaying . . . Now displaying pipelines and oil wells . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/pipelines-oil-wells.pdf"
 original_source: "Constant Contact campaign"
 ---
 

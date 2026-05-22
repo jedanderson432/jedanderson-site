@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Computer-Written Environmental Professional Work ---\"This is highly, highly disruptive . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/disruptive-but-incredible.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"United States launches new website to expand the use and development of artificial intelligence\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/ai-gov.pdf"
 original_source: "Constant Contact campaign"
 ---
 

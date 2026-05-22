@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Brookings Institute Report ‌ Will Houston lead? . . . especially in environmental applications? ---\"I've got no problem being behind Austin in artificial intelligence . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/houston-lagging-even-lincoln-nebraska-in-artificial-intelligence.pdf"
 original_source: "Constant Contact campaign"
 ---
 

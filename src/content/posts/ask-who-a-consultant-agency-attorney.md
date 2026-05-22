@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Announcing EnviroAI's New Question Answering System ‌ ASK WHO? . . . Environmental consultants can cost $150 an hour. . . . Environmental attorneys can cost $500 an hour. . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/ask-who-a-consultant-agency-attorney.pdf"
 original_source: "Constant Contact campaign"
 ---
 

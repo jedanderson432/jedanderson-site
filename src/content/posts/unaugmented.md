@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental Intelligence. . . . \"I've realized I'm not that smart when it comes to almost everything."
 license: CC-BY-4.0
+pdf: "/pdfs/unaugmented.pdf"
 original_source: "Constant Contact campaign"
 ---
 

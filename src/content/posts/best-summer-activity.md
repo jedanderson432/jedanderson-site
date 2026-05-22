@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Best Summer Activity In my opinion, this is the best way to prepare for the future, protect humanity, and find peace. And all of you will smile . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/best-summer-activity.pdf"
 original_source: "Constant Contact campaign"
 ---
 

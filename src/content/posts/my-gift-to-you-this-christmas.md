@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "To: Humanity From: Jed I'm giving you my machine to help protect you. Sorry, but its not done yet! And for some of you, this gift won't be free for a while (although it will return a high ROI)."
 license: CC-BY-4.0
+pdf: "/pdfs/my-gift-to-you-this-christmas.pdf"
 original_source: "Constant Contact campaign"
 ---
 

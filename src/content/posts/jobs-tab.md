@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Create jobs in EnviroAI ‌ New \"Jobs\" Tab Tell EnviroAI what job you want to perform and where . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/jobs-tab.pdf"
 original_source: "Constant Contact campaign"
 ---
 

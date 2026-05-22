@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Earth First\"---Documentary by Famed Filmmaker Peter von Puttkamer about EnviroAI's Grand Vision and Mission to Protect Earth Watch \"Earth First\" movie promo . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/watch-movie.pdf"
 original_source: "Constant Contact campaign"
 ---
 

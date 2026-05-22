@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Understanding and protecting nature. ---\"Science and technology are merely tools for chipping away at externalities."
 license: CC-BY-4.0
+pdf: "/pdfs/love-industry-love-nature.pdf"
 original_source: "Constant Contact campaign"
 ---
 

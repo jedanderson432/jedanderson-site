@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Applying AI to 50 State's Environmental Files . . . with One Click . . . Simplicity. Imagine if you could search all 50 state's environmental files with 1 simple click?"
 license: CC-BY-4.0
+pdf: "/pdfs/1-click.pdf"
 original_source: "Constant Contact campaign"
 ---
 

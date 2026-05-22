@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Microsoft----Best video I've found describing underpinnings of the metaverse . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/churchill-the-environmental-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

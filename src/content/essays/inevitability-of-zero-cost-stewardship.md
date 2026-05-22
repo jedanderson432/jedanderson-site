@@ -8,7 +8,7 @@ status: published
 tags: ['enviroai', 'thermodynamics', 'legal-reform']
 abstract: 'Argues that the marginal cost of environmental protection is converging toward zero as two physical curves bend together: the Landauer floor of information processing and nuclear-density energy. Reframes the environmental profession''s future from labor to leadership—from selling hours to encoding judgment into systems that will shepherd the planet''s entropy long after this generation retires.'
 license: CC-BY-4.0
-pdf: '/pdfs/inevitability-of-zero-cost-stewardship.pdf'
+pdf: "/pdfs/inevitability-of-zero-cost-stewardship.pdf"
 hero_image: '/images/inevitability-of-zero-cost-stewardship-hero.png'
 hero_image_alt: 'First page of The Inevitability of Zero-Cost Stewardship'
 ---

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Musk, Bezos, Anderson---who's plan do you like? ‌ Bezos, Musk, Anderson . . . Which visionary's plan do you like? Goal: Zero-Emissions Industry on Earth Industry doesn't want to pollute."
 license: CC-BY-4.0
+pdf: "/pdfs/zero-emissions-industry-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

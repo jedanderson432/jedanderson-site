@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"The dinosaurs became extinct because they didn't have a space program.\" - Larry Niven ---\"It's so incredibly beautiful now in almost retrospect."
 license: CC-BY-4.0
+pdf: "/pdfs/dinosaurs-spaceships-nature-pollution-humanity.pdf"
 original_source: "Constant Contact campaign"
 ---
 

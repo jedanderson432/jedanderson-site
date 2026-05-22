@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/the-analysis-presented-in-this-paper-leads-to-a-series.pdf"
 tags: ["thermodynamics", "enviroai", "ai", "monitoring", "linkedin-original"]
 abstract: "The analysis presented in this paper leads to a series of interconnected conclusions."
 ---

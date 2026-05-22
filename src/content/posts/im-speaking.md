@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "October 20th . . . Houston Bar Association Environmental Law Section . . . \"Protecting the Environment in the Age of Artificial Intelligence & Quantum Computing\" I'm speaking October 20th."
 license: CC-BY-4.0
+pdf: "/pdfs/im-speaking.pdf"
 original_source: "Constant Contact campaign"
 ---
 

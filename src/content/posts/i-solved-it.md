@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2018/02/06/i-solved-it/'
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/i-solved-it.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: 'I solved one of our nation’s biggest challenges.'
 ---

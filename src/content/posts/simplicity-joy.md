@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Uniting Natural Laws and Environmental Laws Simplicity . . . joy. Uniting the laws of nature and the laws of humankind. Why are these equations so short? Why are they so simple?"
 license: CC-BY-4.0
+pdf: "/pdfs/simplicity-joy.pdf"
 original_source: "Constant Contact campaign"
 ---
 

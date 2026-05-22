@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/observation-is-protection-2026-04.pdf"
 tags: ["physics", "monitoring", "linkedin-original"]
 abstract: "Observation IS protection. Not \"observation enables protection.\" Not \"observation correlates with protection.\" Observation. Is. Protection. That sounds wrong. I know. It took me eight years to see it. Here's the physics."
 ---

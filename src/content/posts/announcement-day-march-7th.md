@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Announcement Day!"
 license: CC-BY-4.0
+pdf: "/pdfs/announcement-day-march-7th.pdf"
 original_source: "Constant Contact campaign"
 ---
 

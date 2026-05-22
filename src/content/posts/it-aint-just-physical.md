@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ To more effectively protect the environment, we must move past our understanding of the environment as fundamentally and merely physical , , , ---\"Is the world fundamentally physical?\" - Jed Anderso…"
 license: CC-BY-4.0
+pdf: "/pdfs/it-aint-just-physical.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ ---\"It will be fun in the following weeks to offer people not only jobs and money, but the opportunity to participate in a mission that's much bigger than any of us . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/60-people-60-days.pdf"
 original_source: "Constant Contact campaign"
 ---
 

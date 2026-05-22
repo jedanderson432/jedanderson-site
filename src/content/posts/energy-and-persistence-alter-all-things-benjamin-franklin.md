@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/pulse/energy-persistence-alter-all-th
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/energy-and-persistence-alter-all-things-benjamin-franklin.pdf"
 tags: ["linkedin", "linkedin-original"]
 abstract: "![](https://media.licdn.com/mediaC5112AQFH0EijX6Q5bA) [![](https://media.licdn.com/dms/image/v2/C5112AQEAdBaEyVvbiQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1520193289272?e=1779926400&v=beta&t=m02u1iEaBU…"
 ---

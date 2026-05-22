@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Conduct an environmental review or take an \"environmental tour\" of any facility in Texas without leaving your computer----Ceres AI's latest features."
 license: CC-BY-4.0
+pdf: "/pdfs/virtual-environmental-management.pdf"
 original_source: "Constant Contact campaign"
 ---
 

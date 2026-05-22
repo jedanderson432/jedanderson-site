@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Augmented . . . Environmental Management Information System . . . Intelligence ‌ Augmented Environmental Intelligence Once completed, selecting this button will pull up your facility(s) in EnviroAI ."
 license: CC-BY-4.0
+pdf: "/pdfs/plug-and-play.pdf"
 original_source: "Constant Contact campaign"
 ---
 

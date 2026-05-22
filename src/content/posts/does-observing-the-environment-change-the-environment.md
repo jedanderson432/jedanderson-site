@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/does-observing-the-environment-change-the-environment.pdf"
 tags: ["thermodynamics", "physics", "linkedin-original"]
 abstract: "DOES OBSERVING THE ENVIRONMENT CHANGE THE ENVIRONMENT? A new finding from information physics says yes . . . and it turns environmental protection on its head.  Look at this image carefully. Both sides receive the same input. Same wind. Same water."
 ---

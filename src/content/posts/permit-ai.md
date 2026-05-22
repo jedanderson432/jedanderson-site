@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Push a button . . . get a permit\" ‌ Permit AI ---\"Push a button . . . get a permit.\" EnviroAI has commenced work on a new artificial intelligence application called \"Permit AI\"."
 license: CC-BY-4.0
+pdf: "/pdfs/permit-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

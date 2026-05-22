@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "It's this \\_\\_\\_\\_\\_\\_\\_ ‌ Gravitation is not responsible for people falling in love. ﻿Albert Einstein The greatest science in the world; in heaven and on earth; is love."
 license: CC-BY-4.0
+pdf: "/pdfs/the-most-powerful-force-not-gravity-or-electromagnetic-or-strong-or-weak-nuclear.pdf"
 original_source: "Constant Contact campaign"
 ---
 

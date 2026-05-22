@@ -8,6 +8,7 @@ status: published
 tags: ["visual-essay", "physics", "bond-bit-asymmetry", "accessible", "enviroai", "on-ramp"]
 abstract: "Twelve verified physics observations, each takeable in ten seconds on a thirty-minute walk, ending at the bond-bit asymmetry. The most accessible on-ramp to the corpus's central claim: knowing where to put an atom is incomprehensibly cheaper than holding it there."
 license: CC-BY-4.0
+pdf: "/pdfs/walk-youve-never-taken.pdf"
 hero_image: "/images/walk-youve-never-taken-hero.jpg"
 interactive_url: "/visual-essays/walk-youve-never-taken/"
 interactive_cta: "Begin the walk →"

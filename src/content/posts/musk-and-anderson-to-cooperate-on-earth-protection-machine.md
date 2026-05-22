@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "[](http://r20.rs6.net/tn.jsp?f=001sUQxYZGag_bd5-rinqQ69IVnfazVE4efn2mvDXKyCmoBjNmW-3ixrKlLI7i1nL0ymRjPI71rNzxtXQJ6pVrUX67c0J3ih9k0FugU6EtASUYXVxEDvMJGgk7Fa2XdQNb4pQ6G_gEEO19NAgUpGHYKja9ukUdoOZdR7DRTPF…"
 license: CC-BY-4.0
+pdf: "/pdfs/musk-and-anderson-to-cooperate-on-earth-protection-machine.pdf"
 original_source: "Constant Contact campaign"
 ---
 

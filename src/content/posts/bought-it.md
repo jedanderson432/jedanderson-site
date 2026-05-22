@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Former Dupont Site for World's Largest Industrial Pollution Reduction Project We bought it!"
 license: CC-BY-4.0
+pdf: "/pdfs/bought-it.pdf"
 original_source: "Constant Contact campaign"
 ---
 

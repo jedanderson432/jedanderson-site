@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Lawyers. Bankers. Consultants. Companies. Purchase now. Enhanced environmental due diligence reviews using artificial intelligence and external data. In just seconds, Ceres AI found . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/due-diligence-with-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

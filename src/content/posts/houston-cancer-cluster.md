@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Is your home located near an environmental threat? Find out in less than 2 seconds with the HomePhase1 app."
 license: CC-BY-4.0
+pdf: "/pdfs/houston-cancer-cluster.pdf"
 original_source: "Constant Contact campaign"
 ---
 

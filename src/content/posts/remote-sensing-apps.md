@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Shop the Store! Virtual Environmental Tools Protect your employees . . . while they protect you."
 license: CC-BY-4.0
+pdf: "/pdfs/remote-sensing-apps.pdf"
 original_source: "Constant Contact campaign"
 ---
 

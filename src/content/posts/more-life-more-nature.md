@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/more-life-more-nature.pdf"
 tags: ["enviroai", "linkedin-original"]
 abstract: "More life. More nature. More environment. That’s our mission at EnviroAI.  Sustainability is mediocrity."
 ---

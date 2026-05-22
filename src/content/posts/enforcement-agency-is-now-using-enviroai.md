@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Are you? An enforcement agency is now using EnviroAI . . . See what they can now see. Purchase EnviroAI. DATA. INTELLIGENCE. SPEED."
 license: CC-BY-4.0
+pdf: "/pdfs/enforcement-agency-is-now-using-enviroai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

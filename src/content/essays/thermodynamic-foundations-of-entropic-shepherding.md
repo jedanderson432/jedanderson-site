@@ -9,7 +9,7 @@ tags: ['foundational', 'thermodynamics', 'landauer', 'paper', 'enviroai', 'treat
 abstract: 'Derives the Intelligence Leverage Equation from first principles by synthesizing Landauer''s bound, the Sagawa–Ueda generalized second law, bond-energy quantum constraints, boundary observability theory, and mass-energy equivalence. Proves the Bond-Bit Asymmetry—that information processing can substitute for physical intervention at leverage ratios approaching 10³⁷ per kilogram of matter at room temperature—and grounds the asymptote of zero-cost stewardship in physics rather than economics.'
 license: CC-BY-4.0
 co_authors: ['Grok-4.1 Deep Research', 'Gemini 3.0 Pro Deep Think', 'ChatGPT 5.2', 'Claude Opus 4.5 Research']
-pdf: '/pdfs/thermodynamic-foundations-of-entropic-shepherding.pdf'
+pdf: "/pdfs/thermodynamic-foundations-of-entropic-shepherding.pdf"
 hero_image: '/images/thermodynamic-foundations-of-entropic-shepherding-hero.png'
 hero_image_alt: 'First page of The Thermodynamic Foundations of Entropic Shepherding'
 ---

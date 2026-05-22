@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Fear is the stupidist thing in the universe(s). I got a devotional about fear yesterday (see below). Got me thinking about antidotes. Faith, yes. Courage, yes."
 license: CC-BY-4.0
+pdf: "/pdfs/fear-time-travel-education.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Here's what I wanted to be . . . . ‌ I wanted to be a \"W\" . . . ‌ Growing up I was asked what I wanted to be when I grew up. I said I wanted to be a \"W\". Why did I want to be a \"W\"? I don't know."
 license: CC-BY-4.0
+pdf: "/pdfs/what-did-you-want-to-be-growing-up.pdf"
 original_source: "Constant Contact campaign"
 ---
 

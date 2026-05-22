@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Apparently the President couldn't wait until tomorrow . . . WOW. The President just released this image from the James Webb . . . It's the farthest we've ever seen into the universe."
 license: CC-BY-4.0
+pdf: "/pdfs/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it.pdf"
 original_source: "Constant Contact campaign"
 ---
 

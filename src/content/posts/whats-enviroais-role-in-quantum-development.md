@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "ANNOUNCEMENT: \"1st Environmental Quantum AI Company in the World\" ﻿---\"EnviroAI is not building quantum hardware or software."
 license: CC-BY-4.0
+pdf: "/pdfs/whats-enviroais-role-in-quantum-development.pdf"
 original_source: "Constant Contact campaign"
 ---
 

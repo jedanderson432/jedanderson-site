@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Data. Machine-learning."
 license: CC-BY-4.0
+pdf: "/pdfs/im-sometimes-not-convinced-that-companies-like-money.pdf"
 original_source: "Constant Contact campaign"
 ---
 

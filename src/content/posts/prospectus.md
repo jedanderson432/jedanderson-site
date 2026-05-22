@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Investors or Buyers of Ceres AI LLC A prospectus for investors, licensees, or potential buyers of Ceres AI LLC."
 license: CC-BY-4.0
+pdf: "/pdfs/prospectus.pdf"
 original_source: "Constant Contact campaign"
 ---
 

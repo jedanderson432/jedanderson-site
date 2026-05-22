@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Metamorphosis Humans & Nature --\"We are perhaps at the most significant inflection point in the history of humans and nature. Never before have humans been here. And never after will we be here again."
 license: CC-BY-4.0
+pdf: "/pdfs/numenous.pdf"
 original_source: "Constant Contact campaign"
 ---
 

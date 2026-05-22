@@ -8,7 +8,7 @@ status: published
 tags: ['cornerstone', 'foundational', 'physics', 'information-theory', 'causal-sovereignty', 'wheeler', 'deutsch', 'hard-to-vary', 'cosmic-ledger']
 abstract: 'Information accumulates causal sovereignty over matter and energy across six phases—from bare bits at the Big Bang to the self-improving knowledge systems of the present decade. Wheeler said ''It from Bit''; the second half of the cycle is ''Bits protect Its.'' The site''s thesis, stated as compactly as physics allows.'
 license: CC0-1.0
-pdf: '/pdfs/the-universe-is-information.pdf'
+pdf: "/pdfs/the-universe-is-information.pdf"
 hero_image: '/images/universe-is-information-cover.png'
 hero_image_alt: 'Cover of "The Universe is Information." A serif title in cream and gold over deep ink, with six small phase symbols I–VI arranged vertically on the right margin—a scattered field, a hexagonal lattice, a helix, a model-and-action sketch, a cross-braced polyhedron, and a closing spiral.'
 pdf_canonical: true

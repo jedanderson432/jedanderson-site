@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "The EnviroVerse---A \"Universe for Environmental Professionals\" . VALUE? $500 Million? $1 Billion? $50 Billion?"
 license: CC-BY-4.0
+pdf: "/pdfs/download.pdf"
 original_source: "Constant Contact campaign"
 ---
 

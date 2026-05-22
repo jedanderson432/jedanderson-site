@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "2 emergencies at once? Is Houston prepared? Enter artificial intelligence. IS HOUSTON PREPARED? Enter Artificial Intelligence. Ceres AI met with Houston Mayor Pro Tem Martin and Rep."
 license: CC-BY-4.0
+pdf: "/pdfs/flood-hurricane-and-covid-19.pdf"
 original_source: "Constant Contact campaign"
 ---
 

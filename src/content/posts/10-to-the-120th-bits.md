@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/10-to-the-120th-bits.pdf"
 tags: ["information-theory", "ai", "physics", "linkedin-original"]
 abstract: "\"10 to the 120th bits . . . 10 to the 10th to the 90th bits . . . Building a computational system to better understand and protect nature . . . We are at about 10 to the 20th bits right now."
 ---

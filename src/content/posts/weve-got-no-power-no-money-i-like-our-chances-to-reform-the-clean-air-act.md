@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2012/06/19/weve-got-no-power-n
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/weve-got-no-power-no-money-i-like-our-chances-to-reform-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: 'What? How can I like our chances? Because when the weak charge headlong into a challenge, acknowledging their weakness, and doing so in an manner that does not conform to the norms around them, they usually win.'
 ---

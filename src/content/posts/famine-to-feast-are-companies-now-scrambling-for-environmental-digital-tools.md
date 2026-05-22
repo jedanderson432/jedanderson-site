@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Is this the surge we've been expecting? . . . Are companies trying to use more digital tools to increase global competitiveness and satisfy regulatory/ESG burdens?"
 license: CC-BY-4.0
+pdf: "/pdfs/famine-to-feast-are-companies-now-scrambling-for-environmental-digital-tools.pdf"
 original_source: "Constant Contact campaign"
 ---
 

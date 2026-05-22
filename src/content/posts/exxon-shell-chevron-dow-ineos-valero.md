@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Watch this!!!! . . . . . . . Over 10,000 receive these emails. ALL 10,000 0F YOU CAN WATCH THIS!!! SEE WHAT ENVIROAI CAN NOW SEE!!! ‌ EXXON. SHELL. CHEVRON. DOW. INEOS. VALERO. Ex."
 license: CC-BY-4.0
+pdf: "/pdfs/exxon-shell-chevron-dow-ineos-valero.pdf"
 original_source: "Constant Contact campaign"
 ---
 

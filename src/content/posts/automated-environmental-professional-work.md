@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Faster. Cheaper. Better. Tired of routine intellectual tasks? \"Environmental professionals will love the future that is quickly appearing . . . Less forms. Less paperwork. Less boxes to check."
 license: CC-BY-4.0
+pdf: "/pdfs/automated-environmental-professional-work.pdf"
 original_source: "Constant Contact campaign"
 ---
 

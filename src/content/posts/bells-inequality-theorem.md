@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Again . . . how did I get through the educational system without learning this?"
 license: CC-BY-4.0
+pdf: "/pdfs/bells-inequality-theorem.pdf"
 original_source: "Constant Contact campaign"
 ---
 

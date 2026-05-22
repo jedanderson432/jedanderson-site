@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "New entrepreneurial investment to pay companies for reducing polllution--\"EnviroMonetizers\" Get Paid to Reduce Pollution!"
 license: CC-BY-4.0
+pdf: "/pdfs/get-paid-to-reduce-pollution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

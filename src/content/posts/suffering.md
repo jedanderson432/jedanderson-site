@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Love it. ‌ I hope my efforts if anything encourages people to attempt the highest mountains in life--be they spiritual or worldly--and to see the climbing and suffering as the reward."
 license: CC-BY-4.0
+pdf: "/pdfs/suffering.pdf"
 original_source: "Constant Contact campaign"
 ---
 

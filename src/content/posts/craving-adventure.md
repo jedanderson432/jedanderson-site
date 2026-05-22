@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "CRAVING ﻿ADVENTURE?"
 license: CC-BY-4.0
+pdf: "/pdfs/craving-adventure.pdf"
 original_source: "Constant Contact campaign"
 ---
 

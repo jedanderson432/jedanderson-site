@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "The \"machine\" you are building to protect the environment . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/how-will-it-work-jed.pdf"
 original_source: "Constant Contact campaign"
 ---
 

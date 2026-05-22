@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "AI and Quantum Technologies in Environmental Protection ‌ World's Leading Thinker & Developer . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/worlds-leading-thinker-developer.pdf"
 original_source: "Constant Contact campaign"
 ---
 

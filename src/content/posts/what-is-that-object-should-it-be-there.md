@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Identifying equipment, emission sources, and environmental anomalies using drone imagery, satellite imagery, and deep learning neural networks---EnviroAI ﻿EnviroAI trained drone identifies objects, em…"
 license: CC-BY-4.0
+pdf: "/pdfs/what-is-that-object-should-it-be-there.pdf"
 original_source: "Constant Contact campaign"
 ---
 

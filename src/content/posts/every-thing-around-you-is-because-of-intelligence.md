@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"Every thing around you is because of intelligence.\" - Jed Anderson, EnviroAI - California - Florida - New Jersey - Texas - Louisiana - Illinois - Ohio - Alabama - New York - Georgia . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/every-thing-around-you-is-because-of-intelligence.pdf"
 original_source: "Constant Contact campaign"
 ---
 

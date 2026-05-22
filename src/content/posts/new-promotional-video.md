@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Check it out! ‌ CHECK IT OUT!"
 license: CC-BY-4.0
+pdf: "/pdfs/new-promotional-video.pdf"
 original_source: "Constant Contact campaign"
 ---
 

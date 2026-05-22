@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Tomorrow at Deer Park Fire Training Center ‌ [](http://r20.rs6.net/tn.jsp?f=001JdFJtuHWy-TXMzRsYpjahxTI-CDDgZRF-l2PK9yVxuiFpFtHIeW8ruaEEz00WZH-m-hLMhznO5d1Cp91_YuZRr6msfp9ErbevDGoGHWmyhz1qTCSid9k89esR…"
 license: CC-BY-4.0
+pdf: "/pdfs/invitation-to-drone-gas-detection-demo.pdf"
 original_source: "Constant Contact campaign"
 ---
 

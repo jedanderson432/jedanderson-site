@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . a mind-sparking article in the New York Times this morning (see below)."
 license: CC-BY-4.0
+pdf: "/pdfs/article-in-the-new-york-times-this-morning.pdf"
 original_source: "Constant Contact campaign"
 ---
 

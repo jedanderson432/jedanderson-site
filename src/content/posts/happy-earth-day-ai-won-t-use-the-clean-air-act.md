@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/happy-earth-day-ai-won-t-use-the-clean-air-act.pdf"
 tags: ["information-theory", "thermodynamics", "enviroai", "ai", "physics", "linkedin-original"]
 abstract: "Happy Earth Day. AI won't use the Clean Air Act or Clean Water Act to protect earth.  It's not that dumb. Fifty-six years ago today, Earth Day launched the modern environmental movement. The Clean Air Act followed. Then the Clean Water Act."
 ---

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . unveiling both \"AI Air\" and \"Intelligent EMIS\" ‌ -------\"We are so incredibly thankful and blessed. Our partnering companies and development staff is incredible."
 license: CC-BY-4.0
+pdf: "/pdfs/huge-day-for-us.pdf"
 original_source: "Constant Contact campaign"
 ---
 

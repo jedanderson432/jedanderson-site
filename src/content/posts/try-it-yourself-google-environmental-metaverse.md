@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "It's not Microsoft . . . Facebook (Meta) . . . Apple . . . IBM . . . or Nividia . . . Google \"Environmental Metaverse\" ----\"EnviroAI is the leader of this vision . . . the inclusion of nature . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/try-it-yourself-google-environmental-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

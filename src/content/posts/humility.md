@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "The Key to Unleashing Technological Power in Environmental Problem Solving The key to letting technology make you extremely powerful and able to do more things faster and better I believe is first and…"
 license: CC-BY-4.0
+pdf: "/pdfs/humility.pdf"
 original_source: "Constant Contact campaign"
 ---
 

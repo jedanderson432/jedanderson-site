@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Health records . . . Environmental records: Training AI to recognize symptoms in data, diagnose problems, and prescribe solutions"
 license: CC-BY-4.0
+pdf: "/pdfs/medical-ai-environmental-ai-were-doing-the-same-thing.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "How many living things is our AI system being designed to protect? How many living things is our artificial intelligence system being designed to protect? Trillions ."
 license: CC-BY-4.0
+pdf: "/pdfs/how-many-people-plants-and-animals.pdf"
 original_source: "Constant Contact campaign"
 ---
 

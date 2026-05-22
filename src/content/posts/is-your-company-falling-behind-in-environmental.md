@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Gartner. Forbes. McKinsey. PWC. Forbes report . . .PwC report. . . McKinsey report . . .Gartner report﻿ - Are you using artificial intelligence for environmental compliance and permitting?"
 license: CC-BY-4.0
+pdf: "/pdfs/is-your-company-falling-behind-in-environmental.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "AL Law & Ceres AI are teaming to help companies obtain environmental regulatory relief during health/financial crisis Need Regulatory Relief?"
 license: CC-BY-4.0
+pdf: "/pdfs/regulatory-relief.pdf"
 original_source: "Constant Contact campaign"
 ---
 

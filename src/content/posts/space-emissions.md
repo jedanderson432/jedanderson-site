@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Simpler. Faster. Cheaper.------EnviroAI Google can already see your swimming pool . . . By 2035 we will be able to \"see\" every molecule of pollution from space."
 license: CC-BY-4.0
+pdf: "/pdfs/space-emissions.pdf"
 original_source: "Constant Contact campaign"
 ---
 

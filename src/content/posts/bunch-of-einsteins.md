@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "solving environmental problems."
 license: CC-BY-4.0
+pdf: "/pdfs/bunch-of-einsteins.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Microsoft's \"Planetary Computer\" . . . should it be classically-based or quantum-based? If I thought the following was above anyone's head . . . I wouldn't write it."
 license: CC-BY-4.0
+pdf: "/pdfs/quantum-should-it-be.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A Community Alternative---\"The Triangle\" Regional Environmental Treatment Center Of the 10,000 of you . . . a number of you will be interested in this project and concept. No more flaring?"
 license: CC-BY-4.0
+pdf: "/pdfs/no-more-flaring-deer-park-and-la-porte.pdf"
 original_source: "Constant Contact campaign"
 ---
 

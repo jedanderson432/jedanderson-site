@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "terabytes of new data from more states . . . districts . . . counties . . . and soon cities! All public environmental data with artificial intelligence applied . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/california.pdf"
 original_source: "Constant Contact campaign"
 ---
 

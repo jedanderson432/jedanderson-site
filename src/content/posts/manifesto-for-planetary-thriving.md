@@ -7,6 +7,7 @@ original_source: 'https://www.linkedin.com/feed/'
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/manifesto-for-planetary-thriving.pdf"
 tags: ['enviroai', 'ai', 'information-theory']
 abstract: "We belong to a talking planet. For too long, we have not heard its voice. We have built machines that compute at light speed; now let them listen at life's speed."
 ---

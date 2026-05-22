@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Drones, AI, Satellites, Cameras, Data, IoT, Software---Get the Latest Environmental Technology [](http://r20.rs6.net/tn.jsp?f=001uxuSph-6u03p8Sd-BTntogMfx1p6YNTIoWCaaLtNZgDD3yJ4oxKGGNka9T8tPpidv_hdMag…"
 license: CC-BY-4.0
+pdf: "/pdfs/shop-the-app-store.pdf"
 original_source: "Constant Contact campaign"
 ---
 

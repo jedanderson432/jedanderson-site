@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EMISSIONS INVENTORY ﻿ in less than 10 MINUTES EnviroAI is building an app with its partners to deliver an emissions inventory ready for review and signature in less than 10 minutes."
 license: CC-BY-4.0
+pdf: "/pdfs/emissions-inventory-in-less-than-10-minutes.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "changed forever! Air modelling is being built into EnviroAI's Quantum AI Environmental Protection System as a real-time, continuous, dynamic look into system change. ‌ REAL-TIME. CONTINUOUS. DYNAMIC."
 license: CC-BY-4.0
+pdf: "/pdfs/air-modelling.pdf"
 original_source: "Constant Contact campaign"
 ---
 

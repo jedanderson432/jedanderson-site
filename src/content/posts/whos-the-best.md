@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . at treating pollution? ‌ Who's the best? Who will be the best at treating pollution? It will be us. Why? Because treating pollution is the business. It's our core competency."
 license: CC-BY-4.0
+pdf: "/pdfs/whos-the-best.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Take a peek under the hood of Ceres AI It's just math! A peek under the hood of Ceres Environmental AI ---\"When I show people how neural networks and machine learning work at a fundamental level . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/its-just-math.pdf"
 original_source: "Constant Contact campaign"
 ---
 

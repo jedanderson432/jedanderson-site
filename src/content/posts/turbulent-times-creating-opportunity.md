@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Businesses heading into the harbor for safety . . . Ceres AI is heading out to sea NO FEAR. ‌ Businesses are heading into the harbor for safety . . . Ceres AI is heading out to sea!"
 license: CC-BY-4.0
+pdf: "/pdfs/turbulent-times-creating-opportunity.pdf"
 original_source: "Constant Contact campaign"
 ---
 

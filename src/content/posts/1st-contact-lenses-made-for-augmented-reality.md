@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Environmental Superheroes\" and the Environmental Metaverse ‌ The future is coming faster . . . and faster . . . and faster . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/1st-contact-lenses-made-for-augmented-reality.pdf"
 original_source: "Constant Contact campaign"
 ---
 

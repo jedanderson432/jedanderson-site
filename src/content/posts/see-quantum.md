@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Here's how to \"see\" it in nature . . . Quantum Technology in Environmental Protection Can we \"see\" some of these weird, powerful quantum effects ourselves? Yes."
 license: CC-BY-4.0
+pdf: "/pdfs/see-quantum.pdf"
 original_source: "Constant Contact campaign"
 ---
 

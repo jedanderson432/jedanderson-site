@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Automated environmental due diligence and audit tasks with Ceres AI Digital Environmental Due Diligence & Auditing AI. Automated. Virtual. Remote. Digital."
 license: CC-BY-4.0
+pdf: "/pdfs/due-diligence-auditing.pdf"
 original_source: "Constant Contact campaign"
 ---
 

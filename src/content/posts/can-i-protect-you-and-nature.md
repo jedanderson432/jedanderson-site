@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Yes . . . I already am! . . . OUR MACHINE IS ALREADY WORKING . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/can-i-protect-you-and-nature.pdf"
 original_source: "Constant Contact campaign"
 ---
 

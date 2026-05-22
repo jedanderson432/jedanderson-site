@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . \"Sharpen the axe\" or come up with a better way to get more work done? Getting more work done?"
 license: CC-BY-4.0
+pdf: "/pdfs/abraham-lincoln-or-jed-anderson.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroAI---The Power of Artificial Intelligence ---\"Our company found a better permit condition . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/louisiana-2.pdf"
 original_source: "Constant Contact campaign"
 ---
 

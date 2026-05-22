@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"The power of this tool is getting ridiculous.\" MILLIONS AND MILLIONS AND MILLIONS AND MILLIONS OF DOCUMENTS THIS INTELLIGENCE TOOL IS NOW DRAWING DATA AND LEARNING FROM ---\"Part of our approach to…"
 license: CC-BY-4.0
+pdf: "/pdfs/millions-millions-millions-of-documents.pdf"
 original_source: "Constant Contact campaign"
 ---
 

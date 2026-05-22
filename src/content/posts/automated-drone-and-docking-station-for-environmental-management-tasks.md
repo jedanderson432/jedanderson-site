@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Airobotics - EnviroAI ﻿Automated Drone and Docking Station for Environmental Management Tasks Environmental Drone Simulation [](http://r20.rs6.net/tn.jsp?f=001BP-woHiI63isrb604XgIaeEGUmmM-2qQC-A6MZk6S…"
 license: CC-BY-4.0
+pdf: "/pdfs/automated-drone-and-docking-station-for-environmental-management-tasks.pdf"
 original_source: "Constant Contact campaign"
 ---
 

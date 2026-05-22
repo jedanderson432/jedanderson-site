@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Yes or no? I will help EnviroAI end pollution--if only through my prayers. Yes Select No Select ---“Prayer is the most powerful action. AI can't pray. We can pray."
 license: CC-BY-4.0
+pdf: "/pdfs/poll.pdf"
 original_source: "Constant Contact campaign"
 ---
 

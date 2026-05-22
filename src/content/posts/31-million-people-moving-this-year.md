@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Move \"Green\" --\"Brilliant! - Leading Environmental Consulting Company \"Green ﻿Factor\" Moving? Know the \"Green Factor\"."
 license: CC-BY-4.0
+pdf: "/pdfs/31-million-people-moving-this-year.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Nvidia. Intel. Cerebras. Nvidia. Intel. Cerebras. Alphabet. Samba Nova. IBM. ---\"AI chips have a different architecture.\" - Jed Anderson, EnviroAI Five years ago AI chips didn't exist."
 license: CC-BY-4.0
+pdf: "/pdfs/ai-chipmakers.pdf"
 original_source: "Constant Contact campaign"
 ---
 

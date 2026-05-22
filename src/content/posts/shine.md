@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"SHINE.\" - Jed Anderson, Environmental Entrepreneur ---\"Shine your light into the world. Putting a bushel on the light isn’t modesty, it's selfishness. It's seeing the light as yourself."
 license: CC-BY-4.0
+pdf: "/pdfs/shine.pdf"
 original_source: "Constant Contact campaign"
 ---
 

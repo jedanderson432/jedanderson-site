@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Life expectancy. Home value. Mental health. EnviroAI announces the\"green factor\" real-estate assessment tool."
 license: CC-BY-4.0
+pdf: "/pdfs/home-owner-ever-move.pdf"
 original_source: "Constant Contact campaign"
 ---
 

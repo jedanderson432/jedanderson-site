@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Everything. I've been told that when I mention God in an email about environmental artificial intelligence . . . I lose credibility. When I mention love . . . I lose credibility. When I mention faith."
 license: CC-BY-4.0
+pdf: "/pdfs/sacred.pdf"
 original_source: "Constant Contact campaign"
 ---
 

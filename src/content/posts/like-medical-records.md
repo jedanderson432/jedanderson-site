@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Checking company's \"Environmental Health\" ENVIRONMENTALLY HEALTHY?"
 license: CC-BY-4.0
+pdf: "/pdfs/like-medical-records.pdf"
 original_source: "Constant Contact campaign"
 ---
 

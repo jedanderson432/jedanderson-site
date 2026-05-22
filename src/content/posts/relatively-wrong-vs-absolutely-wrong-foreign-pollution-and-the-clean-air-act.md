@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2013/04/01/relatively-wrong-vs
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/relatively-wrong-vs-absolutely-wrong-foreign-pollution-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/transpacific-pollution.png)Just because foreign pollution is hard to measure doesn’t mean that we can continue assuming for SIP purposes that it does not exist.'
 ---

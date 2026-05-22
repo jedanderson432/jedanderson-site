@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "The Finish Line . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/can-anyone-help-with-a-connection-please.pdf"
 original_source: "Constant Contact campaign"
 ---
 

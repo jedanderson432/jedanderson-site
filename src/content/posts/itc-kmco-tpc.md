@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Using Artificial intelligence and Environmental Data to Help Predict and Prevent Against Another Plant Explosion . . . Ceres AI ITC . . . KMCO . . . TPC . . . ?"
 license: CC-BY-4.0
+pdf: "/pdfs/itc-kmco-tpc.pdf"
 original_source: "Constant Contact campaign"
 ---
 

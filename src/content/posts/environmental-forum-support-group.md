@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Texas EHS Managers and Environmental Professionals COVID-19 ENVIRONMENTAL Forum & Support Group Tuesday, 8:00 am cst (sharescreen link) EHS managers, staff, and all environmental professionals are wel…"
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-forum-support-group.pdf"
 original_source: "Constant Contact campaign"
 ---
 

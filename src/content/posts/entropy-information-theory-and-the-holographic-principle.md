@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"The Environmental Metaverse\" Lately I've been studying more on Information Theory and related topics such as entropy and the holographic principle."
 license: CC-BY-4.0
+pdf: "/pdfs/entropy-information-theory-and-the-holographic-principle.pdf"
 original_source: "Constant Contact campaign"
 ---
 

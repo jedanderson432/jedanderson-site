@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"You were both right\" . . . Einstein: \"God doesn't play dice with the universe.\" (comment to Neils Bohr on his initial impressions of quantum physics) Bohr: \"Stop telling God what to do with his dice."
 license: CC-BY-4.0
+pdf: "/pdfs/jed-settles-einstein-bohr-theological-debate-on-the-implications-of-quantum-phys.pdf"
 original_source: "Constant Contact campaign"
 ---
 

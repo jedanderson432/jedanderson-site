@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A documentary about EnviroAI's efforts to build a machine to end pollution ---\"A story of redemption\" ﻿ \"Early human technology hurt earth."
 license: CC-BY-4.0
+pdf: "/pdfs/earth-first.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Artificial Intelligence Identifying Emission Reduction Opportunities for Texas Companies----EnviroAI's \"The Generator\" ﻿Bloomberg News (Sept."
 license: CC-BY-4.0
+pdf: "/pdfs/investors-with-47-trillion-take-aim-at-big-polluters-bloomberg-news.pdf"
 original_source: "Constant Contact campaign"
 ---
 

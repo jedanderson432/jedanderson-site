@@ -7,6 +7,7 @@ original_source: 'https://www.linkedin.com/feed/'
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/we-are-not-natures-enemy.pdf"
 tags: ['enviroai', 'cosmic-ledger', 'causal-sovereignty']
 abstract: 'The environmental movement has built its moral architecture around one idea: that human activity is the problem and reducing it is the solution. That frame feels humble. It is also, in the deepest geological sense, wrong.'
 ---

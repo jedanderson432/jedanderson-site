@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"It's not Congress and EPA driving environmental change anymore . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/exxon-board.pdf"
 original_source: "Constant Contact campaign"
 ---
 

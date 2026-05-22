@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Faith."
 license: CC-BY-4.0
+pdf: "/pdfs/why-so-optmistic-why-so-enthusiastic-about-the-future-of-environmental-protectio.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Latest NASA/NOAA Study---Earth's Energy Imbalance Doubled Since 2005 Climate Change is just a Symptom of the Larger Problem ---\"Some people have trouble understanding climate change."
 license: CC-BY-4.0
+pdf: "/pdfs/energy-imbalance-problem-climate-change-is-just-a-symptom-of-the-larger-problem.pdf"
 original_source: "Constant Contact campaign"
 ---
 

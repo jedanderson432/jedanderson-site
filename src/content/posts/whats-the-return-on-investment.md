@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Environmental Metaverse\" . EnviroAI is currently delivering an 11,000% return-on-investment (ROI) to our large Fortune 500 customers [with complicated environmental programs]."
 license: CC-BY-4.0
+pdf: "/pdfs/whats-the-return-on-investment.pdf"
 original_source: "Constant Contact campaign"
 ---
 

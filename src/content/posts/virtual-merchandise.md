@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . for the \"EnviroVerse\" Virtual merchandise . . . that performs real-world functions . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/virtual-merchandise.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "by 2035 Why do we care about your children? Earth's future depends on them. [And they are eternal beings] We're a \"for-profit company\" with a \"non-profit mission\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/protecting-your-children.pdf"
 original_source: "Constant Contact campaign"
 ---
 

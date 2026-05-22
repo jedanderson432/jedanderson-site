@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Our Customers will Get Paid to Reduce Emissions----Ceres AI's \"Generator\" Our customers convert environmental data into money . . . with the help of artificial intelligence."
 license: CC-BY-4.0
+pdf: "/pdfs/money-from-pollution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

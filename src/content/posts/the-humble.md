@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . and the over-achievers. ---\"I'm just not that smart.\" - Jed Anderson ---\"There are thousands of people out there who are smarter than I am. The more I use EnviroAI, the more I'm realizing this."
 license: CC-BY-4.0
+pdf: "/pdfs/the-humble.pdf"
 original_source: "Constant Contact campaign"
 ---
 

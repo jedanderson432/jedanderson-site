@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/i-found-something-and-i-can-t-unsee-it.pdf"
 tags: ["thermodynamics", "ai", "physics", "monitoring", "linkedin-original"]
 abstract: "I found something and I can't unsee it. Hidden in a chasm between physics and environmental science. It redefines what environmental protection means. And AI will do it at 200,000?. A question is not passive. A question is a physical act."
 ---

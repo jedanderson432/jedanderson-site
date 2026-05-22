@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "All glory to God, but thanks for acknowledging what this could mean for all of us. I just hope it helps protect your children and grandchildren into the future . . . and all of God's Kingdom."
 license: CC-BY-4.0
+pdf: "/pdfs/yes-its-genius.pdf"
 original_source: "Constant Contact campaign"
 ---
 

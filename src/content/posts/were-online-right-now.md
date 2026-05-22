@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Free Trial Access to Ceres AI ‌ We're online right now! Come join us! Screenshare!. . . It's Covid-19 safe!"
 license: CC-BY-4.0
+pdf: "/pdfs/were-online-right-now.pdf"
 original_source: "Constant Contact campaign"
 ---
 

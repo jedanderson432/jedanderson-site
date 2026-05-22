@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Video demonstration of Ceres AI's latest powers --\"This artificial intelligence tool will fundamentally change the environmental profession.\"-Former CEO of the one of the World's Largest Independent P…"
 license: CC-BY-4.0
+pdf: "/pdfs/this-will-thrill-you.pdf"
 original_source: "Constant Contact campaign"
 ---
 

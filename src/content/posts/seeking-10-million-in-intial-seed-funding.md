@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "---\"Building a system to protect earth . . . one commercialized application at a time\" ‌ . . . \"we're building a system to protect earth . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/seeking-10-million-in-intial-seed-funding.pdf"
 original_source: "Constant Contact campaign"
 ---
 

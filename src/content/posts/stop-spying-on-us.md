@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Fortune 100 Plant Manager Comment to EnviroAI . . . \"Stop Spying on Us.\"---Fortune 100 Plant Manager Comment to EnviroAI EnviroAI is not spying on you . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/stop-spying-on-us.pdf"
 original_source: "Constant Contact campaign"
 ---
 

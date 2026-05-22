@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Out of clutter, find simplicity.\" - Albert Einstein Electromagnetic Force \"I just find myself sometimes just staring and thinking about this chart. It's just so weird. It's just so weirdly simple."
 license: CC-BY-4.0
+pdf: "/pdfs/staring-at-the-elecromagnetism-chart.pdf"
 original_source: "Constant Contact campaign"
 ---
 

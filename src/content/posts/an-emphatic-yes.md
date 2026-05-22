@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Can we save earth?????????"
 license: CC-BY-4.0
+pdf: "/pdfs/an-emphatic-yes.pdf"
 original_source: "Constant Contact campaign"
 ---
 

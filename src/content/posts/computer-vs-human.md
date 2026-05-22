@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Who's faster at environmental due dilligence? Here's screenshots of the latest environmental assessment tools in EnviroAI's automated Phase product: Topos . . . Aerials . . . Automated property data ."
 license: CC-BY-4.0
+pdf: "/pdfs/computer-vs-human.pdf"
 original_source: "Constant Contact campaign"
 ---
 

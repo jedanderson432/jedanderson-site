@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "AI & Quantum Environmental Protection Company in the World 1st Environmental Protection AI Company in the World [](https://r20.rs6.net/tn.jsp?f=001plNhphcMOenBn7U2wzw9WTVP6ki4sKeb9xSuf0fp9Uq-m5B_7ieSx…"
 license: CC-BY-4.0
+pdf: "/pdfs/1sts.pdf"
 original_source: "Constant Contact campaign"
 ---
 

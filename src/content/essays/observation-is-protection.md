@@ -9,7 +9,7 @@ tags: ['foundational', 'enviroai', 'information-theory', 'wheeler', 'landauer', 
 abstract: 'Derives—from Landauer''s principle, Sagawa–Ueda mutual-information work extraction, and Bardos–Lebeau–Rauch boundary observability theory—the proposition that observation is not a precondition of environmental protection but is itself the protective act. Every catastrophic environmental event was preceded by physically encoded information that was never promoted to the epistemic boundary; the universe''s spontaneous processes, given a question, configure themselves toward order.'
 license: CC-BY-4.0
 co_authors: ['Claude Opus 4.6']
-pdf: '/pdfs/observation-is-protection.pdf'
+pdf: "/pdfs/observation-is-protection.pdf"
 hero_image: '/images/observation-is-protection-hero.png'
 hero_image_alt: 'First page of The Epistemic Boundary: Observation IS Protection'
 ---

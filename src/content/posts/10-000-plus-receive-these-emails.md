@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Love and Innovation. Over 10,000 people receive these emails. -----\"Technology is best when it brings people together.” -Matt Mullenweg ----\"We love. That's the human directive."
 license: CC-BY-4.0
+pdf: "/pdfs/10-000-plus-receive-these-emails.pdf"
 original_source: "Constant Contact campaign"
 ---
 

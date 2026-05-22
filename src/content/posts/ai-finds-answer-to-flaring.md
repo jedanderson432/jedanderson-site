@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Saving companies millions of dollars in the Houston Ship Channel area and reducing hundreds of tons of additional pollution Houston Flares all going off at same time? Never! . . . according to AI."
 license: CC-BY-4.0
+pdf: "/pdfs/ai-finds-answer-to-flaring.pdf"
 original_source: "Constant Contact campaign"
 ---
 

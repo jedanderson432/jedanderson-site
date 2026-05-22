@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2012/04/27/distinction-between
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/distinction-between-ozone-attainment-and-nonattainment-areas-disappearing.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: 'The NAAQS-SIP process is focused on the distinction between attainment areas and nonattainment areas. I’m just not seeing these distinctions much anymore. Here are just a few points on this:'
 ---

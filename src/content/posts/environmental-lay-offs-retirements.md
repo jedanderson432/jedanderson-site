@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Come join us. Come work on the environmental future. We welcome you. Environmental Lay-Offs . . . Retirements Laid off? . . . Retiring? . . . or just want to do something fresh and new? . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-lay-offs-retirements.pdf"
 original_source: "Constant Contact campaign"
 ---
 

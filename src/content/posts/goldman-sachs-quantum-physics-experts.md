@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Harvard Business Review article . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/goldman-sachs-quantum-physics-experts.pdf"
 original_source: "Constant Contact campaign"
 ---
 

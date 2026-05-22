@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "permitting and reporting apps It's like \"turbotax\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/like-turbotax.pdf"
 original_source: "Constant Contact campaign"
 ---
 

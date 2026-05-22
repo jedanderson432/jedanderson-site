@@ -8,7 +8,7 @@ tags: ['enviroai', 'thermodynamics', 'whitehead', 'paper']
 abstract: 'Reads Willett et al. (2025)''s imagined-speech BCI breakthrough as the high-fidelity output channel that resolves the human brain''s communication bottleneck and locates it inside the ''Inverting the Stack'' architecture. Synthesizes BCI, an ecocentric Environmental General Intelligence, and the Holographic Negentropic Framework into a planetary cybernetic loop operating on the common currency of bits.'
 license: CC-BY-4.0
 co_authors: ['Grok 4 Thinking', 'ChatGPT-5 Thinking', 'Google Gemini Pro 2.5 Deep Research']
-pdf: '/pdfs/negentropic-channel.pdf'
+pdf: "/pdfs/negentropic-channel.pdf"
 hero_image: '/images/negentropic-channel-hero.png'
 hero_image_alt: 'First page of The Negentropic Channel: A First-Principles Synthesis of Recent Developments in Direct Neural Communication and Environmental General Intelligence for Universal Communication'
 ---

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "----\"Houston industry is building the biggest green infrastructure, ESG, EJ project in the country\" Houston Industrial Complexes Centers for Environmental Excellence Environmental justice . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-justice.pdf"
 original_source: "Constant Contact campaign"
 ---
 

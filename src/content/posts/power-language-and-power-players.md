@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . in environmental files . . . \"Environmental Sentiment Analysis\"---by EnviroAI Not ONLY CAN WE TRACK ENVIRONMENTAL SENTIMENT . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/power-language-and-power-players.pdf"
 original_source: "Constant Contact campaign"
 ---
 

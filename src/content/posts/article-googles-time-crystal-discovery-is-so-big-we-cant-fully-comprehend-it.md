@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . I can comprehend it though I don't understand it . . . and its illogical, weird, absurd . . . and true."
 license: CC-BY-4.0
+pdf: "/pdfs/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it.pdf"
 original_source: "Constant Contact campaign"
 ---
 

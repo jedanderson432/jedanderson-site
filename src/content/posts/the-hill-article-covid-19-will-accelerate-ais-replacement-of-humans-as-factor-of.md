@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Ceres AI ramping up as demand for automation, virtual, remote, and digitial environmental management increases Ceres AI spending 33% more . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/the-hill-article-covid-19-will-accelerate-ais-replacement-of-humans-as-factor-of.pdf"
 original_source: "Constant Contact campaign"
 ---
 

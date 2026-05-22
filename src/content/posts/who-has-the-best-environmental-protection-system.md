@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Exxon . . . Shell . . . Chevron . . . PROTECTING NEIGHBORHOODS Exxon? Shell? Chevron? WHO'S THE BEST?"
 license: CC-BY-4.0
+pdf: "/pdfs/who-has-the-best-environmental-protection-system.pdf"
 original_source: "Constant Contact campaign"
 ---
 

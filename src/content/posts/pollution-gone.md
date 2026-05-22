@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "turning regulatory system \"on its head\" Pollution﻿ ‌ ---\"This project removes almost all pollution off-site.\" ---\"This project re-configures the regulatory playing field.\" --\"Instead of continuing to…"
 license: CC-BY-4.0
+pdf: "/pdfs/pollution-gone.pdf"
 original_source: "Constant Contact campaign"
 ---
 

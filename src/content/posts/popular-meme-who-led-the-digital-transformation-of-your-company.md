@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Remote Environmental Management Tools using Ceres AI A popular meme that's circulating . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/popular-meme-who-led-the-digital-transformation-of-your-company.pdf"
 original_source: "Constant Contact campaign"
 ---
 

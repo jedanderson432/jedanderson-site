@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . and adding Illionois It's a fact!"
 license: CC-BY-4.0
+pdf: "/pdfs/20-more-state-data.pdf"
 original_source: "Constant Contact campaign"
 ---
 

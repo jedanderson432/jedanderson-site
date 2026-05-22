@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "You be the judge! . . . Google vs. EnviroAI . . . Who's better? #1 Search Engine for Environmental? Google vs. EnviroAI You be the judge. Watch this 35 second video."
 license: CC-BY-4.0
+pdf: "/pdfs/1-search-engine-for-environmental.pdf"
 original_source: "Constant Contact campaign"
 ---
 

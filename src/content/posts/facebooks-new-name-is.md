@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Meta Facebook just announced its new name . . . Meta [as in metaverse] The focus of the company is building a metaverse."
 license: CC-BY-4.0
+pdf: "/pdfs/facebooks-new-name-is.pdf"
 original_source: "Constant Contact campaign"
 ---
 

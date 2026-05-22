@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . on a Digital Twin of Earth ---\"We can already create digital twins . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/simulating-environmental-policy-changes.pdf"
 original_source: "Constant Contact campaign"
 ---
 

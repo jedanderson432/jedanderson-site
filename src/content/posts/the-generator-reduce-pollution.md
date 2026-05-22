@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Ceres A.I. identifying pollution reduction and Emission Reduction Credit opportunities buried in data Looking for Emissions Reduction Opportunities?"
 license: CC-BY-4.0
+pdf: "/pdfs/the-generator-reduce-pollution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

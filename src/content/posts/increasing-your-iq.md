@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "(120 IQ +1,500) + (145 IQ +1,500) + (131 IQ + 1,500) + (95 IQ + 1,500) + (108 IQ + 1,500) . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/increasing-your-iq.pdf"
 original_source: "Constant Contact campaign"
 ---
 

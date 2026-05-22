@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "I won't be intimidated. As a follow-up to yesterday's message on love and beauty . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/death-threat-will-i-receive-another-one.pdf"
 original_source: "Constant Contact campaign"
 ---
 

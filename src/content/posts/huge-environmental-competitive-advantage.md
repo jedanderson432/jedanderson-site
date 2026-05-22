@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Artificial Intelligence & Data--------Our Customers Gaining a Huge Competitive Advantage Our customers know what everyone is doing . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/huge-environmental-competitive-advantage.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "to Presidential Executive Order 13859---\"Maintaining American Leadership in Artificial Intelligence\" Presidential Executive Order 13859 directed EPA and other federal agencies to answer 5 questions on…"
 license: CC-BY-4.0
+pdf: "/pdfs/epas-response.pdf"
 original_source: "Constant Contact campaign"
 ---
 

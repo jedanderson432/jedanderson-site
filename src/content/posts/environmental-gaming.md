@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EarthCraft \"The Environmental Protection Game” Coming in 2022!"
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-gaming.pdf"
 original_source: "Constant Contact campaign"
 ---
 

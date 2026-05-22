@@ -8,7 +8,7 @@ tags: ['holography', 'enviroai', 'bekenstein', 'information-theory', 'paper']
 abstract: 'Examines whether environmental information could be encoded and manipulated in a lower-dimensional framework analogous to the holographic principle in physics. Surveys quantum sensing, quantum networks, and AI as engineering pathways and argues for control at boundaries rather than throughout volumes—an early, narrower precursor to the Holographic Negentropic Framework that arrives later that year.'
 license: CC-BY-4.0
 co_authors: ['ChatGPT 4o1 Deep Reasoning']
-pdf: '/pdfs/environmental-protection-holographic-information-framework.pdf'
+pdf: "/pdfs/environmental-protection-holographic-information-framework.pdf"
 hero_image: '/images/environmental-protection-holographic-information-framework-hero.png'
 hero_image_alt: 'First page of Environmental Protection in a Holographic Information Framework'
 ---

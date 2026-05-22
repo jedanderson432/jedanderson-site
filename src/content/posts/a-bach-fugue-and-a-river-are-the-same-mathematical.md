@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/a-bach-fugue-and-a-river-are-the-same-mathematical.pdf"
 tags: ["thermodynamics", "enviroai", "ai", "linkedin-original"]
 abstract: "A Bach fugue and a river are the same mathematical object. Not similar. The same. Hide the axis labels on a Bach recording and a plot of Guadalupe River discharge. A spectrum analyzer cannot tell them apart. Neither can I."
 ---

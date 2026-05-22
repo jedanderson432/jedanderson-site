@@ -8,7 +8,7 @@ status: published
 tags: ['information-theory', 'holography', 'physics', 'bekenstein', 'paper', 'enviroai']
 abstract: 'Argues that music and nature share a statistical signature—long-range correlation, multifractal scaling, characteristic 1/f compressibility—and that this is not aesthetic coincidence but a reflection of the informational substrate of physical reality. Proposes an information-theoretic formulation of environmental ethics: ecological damage is Kolmogorov disordering; protection is the preservation of logical depth. The same principle that lets the ear hear a fugue lets a well-designed model hear a watershed.'
 license: CC-BY-4.0
-pdf: '/pdfs/compression-that-sings.pdf'
+pdf: "/pdfs/compression-that-sings.pdf"
 hero_image: '/images/compression-that-sings-hero.png'
 hero_image_alt: 'First page of The Compression That Sings'
 ---

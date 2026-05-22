@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/ai-agents-will-dramatically-increase-the-environmental-produ.pdf"
 tags: ["enviroai", "ai", "linkedin-original"]
 abstract: "\"AI agents will dramatically increase the environmental productivity of environmental workers throughout our profession.\"  - Jed Anderson, CEO, EnviroAI"
 ---

@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/in-1944-schr-dinger-asked-what-is-life.pdf"
 tags: ["information-theory", "thermodynamics", "physics", "policy", "linkedin-original"]
 abstract: "In 1944, Schr’dinger asked \"What is Life?\" His answer launched molecular biology. 80 years later, we can finally write the sequel: \"What is Life... and How to Protect It.\" The answer hiding in plain sight: Knowing is 10?? times cheaper than moving."
 ---

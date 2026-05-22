@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Instant access to facility's environmental problems and improvement opportunities ---\"People have no idea how powerful this system has become.\" Instant access to facility's environmental problems and…"
 license: CC-BY-4.0
+pdf: "/pdfs/problems.pdf"
 original_source: "Constant Contact campaign"
 ---
 

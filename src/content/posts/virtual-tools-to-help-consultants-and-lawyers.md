@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Virtual. Covid. Remote working. Yes. . . . but we in the environmental profession still have a job to do."
 license: CC-BY-4.0
+pdf: "/pdfs/virtual-tools-to-help-consultants-and-lawyers.pdf"
 original_source: "Constant Contact campaign"
 ---
 

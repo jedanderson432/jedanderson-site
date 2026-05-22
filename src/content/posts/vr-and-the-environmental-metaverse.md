@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Demo [](https://r20.rs6.net/tn.jsp?f=001XMNtUJpMvDDyemLELPqoz4iOTpXWNyY--UvDrGje6uHPc3reXx3w4HYeF6zcaRogKR6UNDnGi3q9JX-NTI1vGiogSdz26xhpql9Cd9RtIpB0274G-7MmB4MKlQOYskfgp3P481_rYJ_4kprBfOujCQ==&c=&ch=)…"
 license: CC-BY-4.0
+pdf: "/pdfs/vr-and-the-environmental-metaverse.pdf"
 original_source: "Constant Contact campaign"
 ---
 

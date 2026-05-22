@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Facility Changes . . . New Timelapse Feature ‌ New Time-lapse Feature . . . available TODAY! PERMITTED? Facility Changes over Time . . . was the change PERMITTED?"
 license: CC-BY-4.0
+pdf: "/pdfs/permitted.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Nature and why we protect it LOVE ﻿The reason I'm working to build the world's largest environmental pollution reduction project and a machine to protect earthis ultimately love."
 license: CC-BY-4.0
+pdf: "/pdfs/ive-cried.pdf"
 original_source: "Constant Contact campaign"
 ---
 

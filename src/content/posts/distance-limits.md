@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Using AI and Satellites---\"Keeping the Public Safe\" DISTANCE LIMIT? ﻿WE KNOW THEM ALL INSTANTLY. 1."
 license: CC-BY-4.0
+pdf: "/pdfs/distance-limits.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -8,7 +8,7 @@ tags: ['enviroai', 'whitehead', 'legal-reform', 'paper', 'treatise']
 abstract: 'Strategic analysis applying Whitehead''s Law of Unthinking as a predictive lens on environmental management''s three-act trajectory: Unthinking Exploitation (industrial era), Automated Protection (the current cognitively burdensome regulatory paradigm undergoing the ''Agentic Shift''), and the emerging regenerative paradigm in which the Law of Unthinking serves planetary thriving.'
 license: CC-BY-4.0
 co_authors: ['Google Gemini Pro 2.5 Deep Research']
-pdf: '/pdfs/law-of-unthinking-strategic-analysis.pdf'
+pdf: "/pdfs/law-of-unthinking-strategic-analysis.pdf"
 hero_image: '/images/law-of-unthinking-strategic-analysis-hero.png'
 hero_image_alt: 'First page of The Law of Unthinking: A Strategic Analysis of the Next Paradigm in Environmental Management'
 ---

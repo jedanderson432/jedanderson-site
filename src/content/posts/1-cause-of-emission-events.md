@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "﻿#1 Cause of Emission Events? Answer: According to Ceres AI it's power failures. For more environmental intelligence, see Ceres AI. . ---\"Information is power . ."
 license: CC-BY-4.0
+pdf: "/pdfs/1-cause-of-emission-events.pdf"
 original_source: "Constant Contact campaign"
 ---
 

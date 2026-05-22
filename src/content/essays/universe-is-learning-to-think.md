@@ -8,7 +8,7 @@ tags: ['physics', 'thermodynamics', 'enviroai', 'information-theory']
 abstract: 'Short, accessible companion to the Generalized Functional Efficiency paper. Reads the cosmos''s 13.8-billion-year arc as 50 orders of magnitude of rising functional efficiency rather than as a straight march toward heat death—a bonfire vs. a laser, both releasing heat but only one carrying signal.'
 license: CC-BY-4.0
 co_authors: ['Google Gemini 3.0 Pro Deep Think', 'Grok-4.1 Deep Research', 'ChatGPT 5.2 Deep Research', 'Claude 4.5 Deep Research']
-pdf: '/pdfs/universe-is-learning-to-think.pdf'
+pdf: "/pdfs/universe-is-learning-to-think.pdf"
 hero_image: '/images/universe-is-learning-to-think-hero.png'
 hero_image_alt: 'First page of The Universe Is Learning to Think'
 ---

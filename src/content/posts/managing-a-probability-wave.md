@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "AI and Quantum Technology in Protecting Nature ‌ ‌ A quantum computer is based in probability. Artificial intelligence is based in probability. Nature is based in probability."
 license: CC-BY-4.0
+pdf: "/pdfs/managing-a-probability-wave.pdf"
 original_source: "Constant Contact campaign"
 ---
 

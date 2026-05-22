@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Identifying pollution using Google's AutoML Video Intelligence API in EnviroAI This power should shock you. Is this flare smoking? Are any flares smoking?"
 license: CC-BY-4.0
+pdf: "/pdfs/cathartic-transformative-fun.pdf"
 original_source: "Constant Contact campaign"
 ---
 

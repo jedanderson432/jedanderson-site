@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A data-driven environmental business model Amazon is obsessed with data. Decisions just track the data. No hunches. No intuition. No adherence to a past decision."
 license: CC-BY-4.0
+pdf: "/pdfs/amazon-insperity-outsourcing-pollution.pdf"
 original_source: "Constant Contact campaign"
 ---
 

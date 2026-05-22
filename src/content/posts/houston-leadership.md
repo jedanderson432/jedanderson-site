@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"CO2 Reduction Capital of the World\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/houston-leadership.pdf"
 original_source: "Constant Contact campaign"
 ---
 

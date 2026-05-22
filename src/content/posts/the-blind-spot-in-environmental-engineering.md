@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/the-blind-spot-in-environmental-engineering.pdf"
 tags: ["information-theory", "thermodynamics", "clean-air-act", "regulatory-reform", "tceq", "linkedin-original"]
 abstract: "The \"Blind Spot\" in Environmental Engineering . . . Re-Engineering Environmental Engineering based on the Laws of Thermodynamics and Information Theory . . ."
 ---

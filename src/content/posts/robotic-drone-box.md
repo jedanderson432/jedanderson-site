@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Automated Environmental Protection System . . . 3-4 Week Delivery Time Take delivery in just 3-4 weeks."
 license: CC-BY-4.0
+pdf: "/pdfs/robotic-drone-box.pdf"
 original_source: "Constant Contact campaign"
 ---
 

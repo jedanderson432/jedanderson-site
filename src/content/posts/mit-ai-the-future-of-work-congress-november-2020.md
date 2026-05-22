@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Environmental work . . . will it change??? Dramatically!"
 license: CC-BY-4.0
+pdf: "/pdfs/mit-ai-the-future-of-work-congress-november-2020.pdf"
 original_source: "Constant Contact campaign"
 ---
 

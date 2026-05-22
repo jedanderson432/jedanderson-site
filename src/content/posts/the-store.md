@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Grand Opening! . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/the-store.pdf"
 original_source: "Constant Contact campaign"
 ---
 

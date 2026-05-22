@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Jed Anderson Two projects. More to come. Click to Review World's Largest Industrial Environmental Treatment Center ‌ Earth Quantum AI Environmental Protection System"
 license: CC-BY-4.0
+pdf: "/pdfs/zero-emissions-industry.pdf"
 original_source: "Constant Contact campaign"
 ---
 

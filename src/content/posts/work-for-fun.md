@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Inspire people with your work! WORK. HAVE FUN. INSPIRE. 1.\"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
 license: CC-BY-4.0
+pdf: "/pdfs/work-for-fun.pdf"
 original_source: "Constant Contact campaign"
 ---
 

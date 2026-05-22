@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Protecting nature . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/a-digital-bang-in-the-universe-jed-anderson-enviroai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

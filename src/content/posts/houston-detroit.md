@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ Houston will not become \"The New Detroit\". We are wildcatters. We change. And we profit from change. That's our history. That's our future."
 license: CC-BY-4.0
+pdf: "/pdfs/houston-detroit.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Data is the new shale play . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/wsj-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-training.pdf"
 original_source: "Constant Contact campaign"
 ---
 

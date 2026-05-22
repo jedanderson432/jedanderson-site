@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "A story from my run the other night . . . ‌ My wife and boys know where I'm at . . . . . . if they can't find me . . . . . . I'm running. \"Gumping it\". \"Running on Empty\". Thinking. Praying."
 license: CC-BY-4.0
+pdf: "/pdfs/campfires-and-imagination.pdf"
 original_source: "Constant Contact campaign"
 ---
 

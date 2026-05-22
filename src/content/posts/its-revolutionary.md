@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "COMMUNITY emissions treatment \"The Triangle\"---a proposed regionalemissions and wastewater treatment facility. ﻿. . . \"it's revolutionary.\" . . . \"it will set a new bar for best practices.\" . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/its-revolutionary.pdf"
 original_source: "Constant Contact campaign"
 ---
 

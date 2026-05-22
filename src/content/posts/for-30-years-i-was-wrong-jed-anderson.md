@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Humans and Nature ---\"Humans are the only reason nature might still exist in the future.\" - Jed Anderson, EnviroAI . . . and it's not just advanced intelligence protecting nature from meteors."
 license: CC-BY-4.0
+pdf: "/pdfs/for-30-years-i-was-wrong-jed-anderson.pdf"
 original_source: "Constant Contact campaign"
 ---
 

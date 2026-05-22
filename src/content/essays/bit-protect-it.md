@@ -8,7 +8,7 @@ status: published
 tags: ['foundational', 'causal-sovereignty', 'enviroai', 'information-theory', 'wheeler', 'faith']
 abstract: 'The site''s thesis distilled to its accessible core. Walks the reader through Wheeler''s ''it from bit,'' Landauer''s limit, and the bond-bit asymmetry in plain prose, ending at the proposition that gives the site its subtitle: bit protect it—knowing is cheaper than moving by a factor that grows every year, and that gap is the physical foundation of environmental stewardship.'
 license: CC-BY-4.0
-pdf: '/pdfs/bit-protect-it.pdf'
+pdf: "/pdfs/bit-protect-it.pdf"
 hero_image: '/images/bit-protect-it-hero.png'
 hero_image_alt: 'First page of Bit Protect It'
 ---

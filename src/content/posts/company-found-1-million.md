@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "REGULATORY RELIEF . . . Does your company need money? Company found $1 million in regulatory relief. Does your company need money right now?"
 license: CC-BY-4.0
+pdf: "/pdfs/company-found-1-million.pdf"
 original_source: "Constant Contact campaign"
 ---
 

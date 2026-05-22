@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Here's why I'm so excited . . . IT WILL THINK SO DIFFERENTLY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 license: CC-BY-4.0
+pdf: "/pdfs/so-excited-about-artificial-general-intelligence.pdf"
 original_source: "Constant Contact campaign"
 ---
 

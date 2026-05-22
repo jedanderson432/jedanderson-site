@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Agency personnel now using artificial intelligence system MORE. FASTER. . . . it's coming!!! Environmental Agency Personnel are now using EnviroAI."
 license: CC-BY-4.0
+pdf: "/pdfs/faster-enforcement-with-enviroai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

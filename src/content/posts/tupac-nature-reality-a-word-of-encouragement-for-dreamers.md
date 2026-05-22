@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "‌ ---“Reality is wrong. Dreams are for real.”—Tupac Shakur A word of encouragement for all of you dreamers out there . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/tupac-nature-reality-a-word-of-encouragement-for-dreamers.pdf"
 original_source: "Constant Contact campaign"
 ---
 

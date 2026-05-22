@@ -7,6 +7,7 @@ original_source: 'https://sipreform.wordpress.com/2015/06/04/recommendation-set-
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/recommendation-set-the-ozone-standard-at-0-0-ppb.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/set-ozone-standard-at-zero.gif)I would recommend setting the ozone standard at 0.0 ppb.'
 ---

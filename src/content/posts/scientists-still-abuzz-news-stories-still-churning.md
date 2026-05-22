@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Are we living in a black hole? . . . How does this relate to information processing? \"Living in a black hole and not expecting to see quantum entanglement . . . . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/scientists-still-abuzz-news-stories-still-churning.pdf"
 original_source: "Constant Contact campaign"
 ---
 

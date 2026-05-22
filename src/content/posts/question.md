@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Answered. ‌ QUESTION? a ANSWERED."
 license: CC-BY-4.0
+pdf: "/pdfs/question.pdf"
 original_source: "Constant Contact campaign"
 ---
 

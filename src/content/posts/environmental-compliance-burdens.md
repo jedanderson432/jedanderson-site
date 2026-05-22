@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/pulse/environmental-compliance-burden
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/environmental-compliance-burdens.pdf"
 tags: ["simplicity", "linkedin-original"]
 abstract: "![](https://media.licdn.com/mediaC5112AQG7_9lSFjWyYg) The AL Law Group is unleashing the power of simplicity and removing unnecessary environmental compliance burdens from our client's shoulders. Freeing resources. Improving lives."
 ---

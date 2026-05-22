@@ -8,7 +8,7 @@ status: published
 tags: ['enviroai', 'thermodynamics', 'information-theory', 'landauer', 'paper', 'maxwell']
 abstract: 'Identifies a second economic channel that every major AI-impact forecast (Goldman, McKinsey, PwC) has missed: the bond-bit asymmetry. Channel A asks what happens when AI substitutes for cognitive labor; Channel B asks what happens when information substitutes for physical manipulation across the entire material economy. The second channel is roughly twice the size of the first and reframes the path to a $1-quadrillion economy.'
 license: CC-BY-4.0
-pdf: '/pdfs/missing-quadrillion.pdf'
+pdf: "/pdfs/missing-quadrillion.pdf"
 hero_image: '/images/missing-quadrillion-hero.png'
 hero_image_alt: 'First page of The Missing $Quadrillion'
 ---

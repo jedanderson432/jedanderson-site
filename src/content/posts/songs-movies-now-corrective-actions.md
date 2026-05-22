@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "EnviroAI suggests corrective actions for your company's environmental deviations, violations, and audit findings Songs. Movies. . . . now Corrective Actions."
 license: CC-BY-4.0
+pdf: "/pdfs/songs-movies-now-corrective-actions.pdf"
 original_source: "Constant Contact campaign"
 ---
 

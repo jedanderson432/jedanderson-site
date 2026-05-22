@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Computer-Performed Environmental Professional Work 100x More Work ---\"Our goal with this AI tool is that a single consultant can perform hundreds of environmental Phase 1 assessments in a day.\" - Jed…"
 license: CC-BY-4.0
+pdf: "/pdfs/100x-more-work.pdf"
 original_source: "Constant Contact campaign"
 ---
 

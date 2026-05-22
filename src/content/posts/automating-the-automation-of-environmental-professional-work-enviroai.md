@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Google DeepMind's New \"AlphaCode\"----\"We're not only automating environmental work, but automating ourselves from automating more environmental work.\" - Jed Anderson, EnviroAI \"Automating the automati…"
 license: CC-BY-4.0
+pdf: "/pdfs/automating-the-automation-of-environmental-professional-work-enviroai.pdf"
 original_source: "Constant Contact campaign"
 ---
 

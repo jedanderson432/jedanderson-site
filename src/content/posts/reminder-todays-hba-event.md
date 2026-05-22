@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Space City's new mission will be to save earth.\" - Jed Anderson, EnviroAI The Texas Environmental Profession will lead this new mission . . . Watch launch today at 12:00!"
 license: CC-BY-4.0
+pdf: "/pdfs/reminder-todays-hba-event.pdf"
 original_source: "Constant Contact campaign"
 ---
 

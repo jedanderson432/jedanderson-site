@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Where does your company rank on routine emissions and emission events? See trends. See competitor's trends."
 license: CC-BY-4.0
+pdf: "/pdfs/facility-rankings.pdf"
 original_source: "Constant Contact campaign"
 ---
 

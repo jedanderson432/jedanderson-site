@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Google & Microsoft's ambitious plans to map nature Microsoft Announcement: \"We're building a Planetary Computer\" [](http://r20.rs6.net/tn.jsp?f=0016TnpZ5bEtNa5ImGrpJMJr4xAJFemZy2KO7jUAkY4zDCrbh6fSHY3M…"
 license: CC-BY-4.0
+pdf: "/pdfs/microsofts-planetary-computer.pdf"
 original_source: "Constant Contact campaign"
 ---
 

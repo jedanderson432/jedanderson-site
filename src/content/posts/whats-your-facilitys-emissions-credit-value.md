@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Find out with \"The Generator\"! What's your Facility's Emission Value? This will capture people's attention . . . WOW! ﻿ Ceres AI has just completed yet another artificial intelligence application . ."
 license: CC-BY-4.0
+pdf: "/pdfs/whats-your-facilitys-emissions-credit-value.pdf"
 original_source: "Constant Contact campaign"
 ---
 

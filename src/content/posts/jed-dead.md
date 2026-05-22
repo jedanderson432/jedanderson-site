@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Trying as hard as I can try . . . Jed dead."
 license: CC-BY-4.0
+pdf: "/pdfs/jed-dead.pdf"
 original_source: "Constant Contact campaign"
 ---
 

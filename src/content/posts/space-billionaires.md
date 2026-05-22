@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "and a \"Mission to Protect Earth\" Space vs. Earth ---\"These visionaries want to go to space. They want to get things into space."
 license: CC-BY-4.0
+pdf: "/pdfs/space-billionaires.pdf"
 original_source: "Constant Contact campaign"
 ---
 

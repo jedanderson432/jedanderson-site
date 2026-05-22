@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Here's my working hypothesis . . . ---\"Physics isn't the most important thing. Love is.\" - Richard Feynman"
 license: CC-BY-4.0
+pdf: "/pdfs/what-is-a-more-fundamental-force-in-the-universe-if-its-not-quantum-physics.pdf"
 original_source: "Constant Contact campaign"
 ---
 

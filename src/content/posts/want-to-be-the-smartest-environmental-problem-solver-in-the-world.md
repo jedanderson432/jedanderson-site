@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: ". . . augment your internal intellectual capabilities with more access to external data and processing systems. I find this frustrating and annoying . . . I've only got . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/want-to-be-the-smartest-environmental-problem-solver-in-the-world.pdf"
 original_source: "Constant Contact campaign"
 ---
 

@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "TCEQ and consultant's reaction . . . NO FEAR! I'm hearing fear amongst consultants and TCEQ regarding the development of \"AutoConsultant\" (see below). The tractor didn't replace the farmer."
 license: CC-BY-4.0
+pdf: "/pdfs/loud-reaction-to-autoconsultant.pdf"
 original_source: "Constant Contact campaign"
 ---
 

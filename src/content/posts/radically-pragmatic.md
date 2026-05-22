@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "\"Pollution centers change EVERYTHING.\" ‌ ---\"Pragmatically radical.\" ---\"It's almost hard to wrap your mind around it's so simple.\" INDUSTRY WOULD NO LONGER HAVE EMISSION EVENTS!!! . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/radically-pragmatic.pdf"
 original_source: "Constant Contact campaign"
 ---
 

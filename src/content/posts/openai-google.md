@@ -7,6 +7,7 @@ original_source: "https://www.linkedin.com/in/jedanderson432/"
 type: post
 status: published
 license: CC-BY-4.0
+pdf: "/pdfs/openai-google.pdf"
 tags: ["enviroai", "ai", "linkedin-original"]
 abstract: "OpenAI . . . Google . . . Microsoft . . . Meta . . . Anthropic . . . . . all are pursuing Artificial General Intelligence (AGI).  EnviroAI will build on these company's base-systems . . ."
 ---

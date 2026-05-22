@@ -7,6 +7,7 @@ status: published
 tags: ["faith", "constant-contact-archive"]
 abstract: "Drone Flight ‌ OCTOBER 16TH . . ."
 license: CC-BY-4.0
+pdf: "/pdfs/october-16th.pdf"
 original_source: "Constant Contact campaign"
 ---
 
