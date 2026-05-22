@@ -15,6 +15,7 @@ pdf_canonical: true
 pdf_pages: 13
 show_toc: true
 original_date: 2026-05-05
+start_here_order: 3
 ---
 
 > **Build what entropy cannot undo.**

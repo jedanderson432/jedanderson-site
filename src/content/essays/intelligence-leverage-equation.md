@@ -11,6 +11,7 @@ license: CC-BY-4.0
 pdf: "/pdfs/intelligence-leverage-equation.pdf"
 hero_image: '/images/intelligence-leverage-equation-hero.png'
 hero_image_alt: 'First page of The Intelligence Leverage Equation'
+start_here_order: 4
 ---
 
 Executive Summary (For Decision-Makers)

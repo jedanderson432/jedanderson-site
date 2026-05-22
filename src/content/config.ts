@@ -53,6 +53,11 @@ const baseSchema = z.object({
   interactive_url: z.string().optional(),
   interactive_cta: z.string().optional(),
 
+  // Explicit ordering for the homepage "Start here" section. When set,
+  // cornerstone essays sort by this integer ascending (1, 2, 3, ...).
+  // Cornerstones without the field fall to the bottom in date-desc order.
+  start_here_order: z.number().int().positive().optional(),
+
   // Decks, videos, charts, posters, and other materials that attach
   // to the writing they serve. The writing is canonical; supporting
   // files are downloadable companions, never standalone collections.
