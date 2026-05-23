@@ -19,3 +19,12 @@ keywords:
   - hard-to-vary
   - cosmic-ledger
   - enviroai
+references:
+  - type: data
+    title: "Canonical Claims Dataset — jedanderson.org"
+    abstract: "Build-time deterministic extraction of every numerical claim (scientific values, ratios, percentages, durations, counts) from the published essay corpus, with stable identifiers, source-essay slugs, sentence-level context, and curated epistemic status / uncertainty / citation overlays. Refreshed on every deploy."
+    url: "https://jedanderson.org/data/canonical-claims.json"
+    license: CC-BY-4.0
+    authors:
+      - family-names: Anderson
+        given-names: Jed

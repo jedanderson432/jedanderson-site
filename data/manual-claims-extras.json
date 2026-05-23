@@ -1,0 +1,193 @@
+[
+  // ============================================================================
+  //  data/manual-claims-extras.json
+  // ============================================================================
+  //
+  //  Hand-maintained companion to the deterministic claims extractor at
+  //  scripts/extract-claims.mjs. Two purposes:
+  //
+  //    1. ADD claims the auto-extractor cannot catch (prose claims,
+  //       composite claims, claims without a regex-compatible value/unit
+  //       form). Give these IDs prefixed with "manual-".
+  //
+  //    2. OVERRIDE auto-extracted rows with epistemic_status, uncertainty
+  //       notes, or richer derivation/citation context. Set the id to the
+  //       exact "auto-..." id of the row you want to enrich; the merge in
+  //       extract-claims.mjs does a shallow field-level overlay.
+  //
+  //  Schema (per row):
+  //
+  //    {
+  //      "id":                "manual-<slug>" | "auto-<hash>"        REQUIRED
+  //      "essay_slug":        "bond-bit-ratio"                       REQUIRED for new
+  //      "value":             "240×"                                 REQUIRED for new
+  //      "unit":              "ratio" | "J/bit" | "%" | ...          REQUIRED for new
+  //      "type":              "manual" | "scientific" | ...          recommended
+  //      "claim":             "<sentence>"                           REQUIRED for new
+  //      "context":           "<surrounding ±200 chars>"             optional
+  //      "line":              <int>                                  optional
+  //      "epistemic_status":  "established" | "framework-dependent"
+  //                            | "estimated" | "bet" | "needs_review"
+  //      "uncertainty":       "<free-text note>"
+  //      "last_verified":     "YYYY-MM-DD"
+  //      "citation":          "<optional source citation string>"
+  //    }
+  //
+  //  This file uses JSON-with-comments. The extractor strips // line
+  //  comments before parsing, so you can annotate inline. Do NOT use
+  //  /* block comments */ — the stripper only handles //.
+  //
+  //  License: CC-BY-4.0, like the rest of the corpus.
+  //
+  // ============================================================================
+  //  EXAMPLE OVERRIDES — auto-extracted rows enriched with epistemic_status
+  // ============================================================================
+
+  {
+    "id": "auto-b413e5927b04",
+    "epistemic_status": "established",
+    "uncertainty": "Floor ratio; exact value 239× using C–H at 413 kJ/mol. Robust to bond choice within the 200–300× window.",
+    "citation": "Anderson 2026, The Bond-Bit Ratio. https://jedanderson.org/essays/bond-bit-ratio"
+  },
+  {
+    "id": "auto-2ba1213569c9",
+    "epistemic_status": "established",
+    "uncertainty": "Exact under 2019 SI redefinition of k. Landauer's principle verified by Bérut et al. 2012.",
+    "citation": "Landauer 1961; Bérut et al. 2012, Nature 483:187."
+  },
+
+  // ============================================================================
+  //  NEW MANUAL ROWS — claims the auto-extractor cannot catch
+  // ============================================================================
+
+  {
+    "id": "manual-six-of-nine-planetary-boundaries",
+    "essay_slug": "bits-protect-its",
+    "value": "6 of 9",
+    "unit": "planetary boundaries",
+    "type": "manual",
+    "claim": "Six of nine planetary boundaries have been transgressed as of 2023.",
+    "context": "Richardson and twenty-eight co-authors documented in Science Advances in 2023 that six of nine planetary boundaries have been transgressed: climate change, biosphere integrity, biogeochemical flows of nitrogen and phosphorus, land-system change, freshwater, and novel entities.",
+    "epistemic_status": "established",
+    "uncertainty": "Per Richardson et al. 2023; specific boundary definitions are framework-dependent but the count is uncontested in the Stockholm Resilience Centre formulation.",
+    "last_verified": "2026-05-22",
+    "citation": "Richardson et al. 2023, Science Advances 9:eadh2458."
+  },
+  {
+    "id": "manual-bond-bit-asymmetry-corpus-canonical",
+    "essay_slug": "bond-bit-ratio",
+    "value": "240×",
+    "unit": "ratio",
+    "type": "manual",
+    "claim": "The canonical bond-bit asymmetry: information is at least 240× cheaper than force at the thermodynamic floor (C–H bond, 300 K, Landauer's bound).",
+    "context": "Derived from k = 1.380649×10⁻²³ J/K, T = 300 K, ln 2 ≈ 0.6931, ΔH_C–H ≈ 413 kJ/mol, N_A = 6.02214×10²³ /mol.",
+    "epistemic_status": "established",
+    "uncertainty": "Floor ratio. Real-world operational ratio is 10^8 to 10^12; 240× is the irreducible minimum.",
+    "last_verified": "2026-05-23",
+    "citation": "Anderson 2026, The Bond-Bit Ratio. https://jedanderson.org/essays/bond-bit-ratio"
+  },
+  {
+    "id": "manual-dart-dimorphos-deflection",
+    "essay_slug": "bits-protect-its",
+    "value": "32 minutes",
+    "unit": "orbital period change",
+    "type": "manual",
+    "claim": "In September 2022 the DART spacecraft's collision with Dimorphos shortened the moonlet's orbital period by 32 minutes — first time in 4.5 billion years a species has moved a celestial body off its orbit.",
+    "context": "DART/Dimorphos kinetic impactor test. The 32-minute period change is >25× the mission success threshold (73 seconds).",
+    "epistemic_status": "established",
+    "uncertainty": "Measured directly post-impact; uncertainty ±2 minutes per NASA confirmation.",
+    "last_verified": "2026-05-22",
+    "citation": "Thomas et al. 2023, Nature 616:448."
+  },
+  {
+    "id": "manual-naaqs-implementation-loop",
+    "essay_slug": "bits-protect-its",
+    "value": "two to three decades",
+    "unit": "loop time",
+    "type": "manual",
+    "claim": "The full loop from health discovery to actual change in the air people breathe under NAAQS implementation runs two to three decades.",
+    "context": "From the 1993 Harvard Six Cities Study to physical attainment at most facilities was 16 to 27 years across multiple NAAQS revision cycles (1997, 2006, 2012, 2024).",
+    "epistemic_status": "established",
+    "uncertainty": "Composite empirical observation over four NAAQS cycles; precise loop time varies by pollutant and facility class.",
+    "last_verified": "2026-05-22",
+    "citation": "Dockery et al. 1993, NEJM 329:1753; EPA NAAQS rulemaking dockets 1997–2024."
+  },
+  {
+    "id": "manual-genome-cost-collapse",
+    "essay_slug": "bits-protect-its",
+    "value": "$95M → $200",
+    "unit": "per genome",
+    "type": "manual",
+    "claim": "DNA sequencing cost fell from $95 million per genome in 2001 to a few hundred dollars by 2024 — roughly 5 orders of magnitude.",
+    "context": "Cost-per-genome curve maintained by NHGRI; the collapse outpaces Moore's Law by ~3 orders of magnitude over the same period.",
+    "epistemic_status": "established",
+    "uncertainty": "NHGRI numbers; minor methodological breaks (raw sequencing vs. fully assembled and validated) make the exact endpoint a small range, not a single number.",
+    "last_verified": "2026-05-22",
+    "citation": "NHGRI Cost of Sequencing a Human Genome data series."
+  },
+  {
+    "id": "manual-1point5C-budget-exhaustion",
+    "essay_slug": "bits-protect-its",
+    "value": "~2030",
+    "unit": "year (carbon budget exhaustion)",
+    "type": "manual",
+    "claim": "The IPCC's 67%-confidence 1.5°C remaining carbon budget (400 GtCO₂ from January 2020) will be exhausted around 2030 at current emission rates near 41.6 GtCO₂/yr.",
+    "context": "Per Global Carbon Project 2024 inventory; the 50%-confidence budget extends the window only modestly.",
+    "epistemic_status": "framework-dependent",
+    "uncertainty": "Depends on the budget confidence level (67% vs 50%), the assumed non-CO₂ forcing trajectory, and TCRE distribution; central year is robust to ±2 years.",
+    "last_verified": "2026-05-22",
+    "citation": "Friedlingstein et al. 2024, Earth System Science Data; IPCC AR6 SYR Table SPM.2."
+  },
+  {
+    "id": "manual-koomey-law-doubling",
+    "essay_slug": "esi-as-missing-foundation-of-ai-alignment",
+    "value": "every 2.3 years",
+    "unit": "compute efficiency doubling",
+    "type": "manual",
+    "claim": "Koomey's Law: computational efficiency per joule has doubled approximately every 2.3 years since 1950, with the doubling time lengthening to ~2.6 years post-Dennard scaling.",
+    "context": "Earlier 1.57-year doubling pre-2000 (Dennard scaling era); ~2.6 years after Dennard scaling broke down in mid-2000s. Used in the bond-bit asymmetry's divergence proof: chemistry cost is constant, computation cost halves.",
+    "epistemic_status": "established",
+    "uncertainty": "Trend curve; near-term doubling rate is sensitive to whether you measure at the device, package, or system level.",
+    "last_verified": "2026-05-22",
+    "citation": "Koomey et al. 2011, IEEE Annals of the History of Computing 33:46."
+  },
+  {
+    "id": "manual-tropomi-resolution",
+    "essay_slug": "bits-protect-its",
+    "value": "3.5×5.5",
+    "unit": "km (per-pixel resolution)",
+    "type": "manual",
+    "claim": "TROPOMI on Sentinel-5P images NO₂ plumes from individual industrial facilities at 3.5 by 5.5 km per-pixel resolution from orbit.",
+    "context": "Operational since 2017; the resolution improvement over predecessor missions (OMI at 13×24 km) enables facility-level attribution of emissions for the first time.",
+    "epistemic_status": "established",
+    "uncertainty": "Nominal resolution; effective per-pixel SNR varies with cloud cover and solar zenith.",
+    "last_verified": "2026-05-22",
+    "citation": "Veefkind et al. 2012, Remote Sensing of Environment 120:70."
+  },
+  {
+    "id": "manual-bekenstein-bound",
+    "essay_slug": "bits-protect-its",
+    "value": "boundary-area, not volume",
+    "unit": "information bound",
+    "type": "manual",
+    "claim": "The Bekenstein bound and the holographic principle indicate the total information content of any region of spacetime is bounded by its boundary area, not its volume.",
+    "context": "Originally a black-hole entropy bound (Bekenstein 1973); generalized to the holographic principle by 't Hooft 1993 and Susskind 1995. A philosophical reading of contemporary physics, not yet experimentally falsifiable outside the gravitational regime.",
+    "epistemic_status": "framework-dependent",
+    "uncertainty": "Bekenstein bound is established in the gravitational regime; the holographic principle's extension to non-gravitational systems is a theoretical conjecture, not a measurement.",
+    "last_verified": "2026-05-22",
+    "citation": "Bekenstein 1973, Phys. Rev. D 7:2333; 't Hooft 1993 (gr-qc/9310026); Susskind 1995, J. Math. Phys. 36:6377."
+  },
+  {
+    "id": "manual-environmental-superintelligence-thesis",
+    "essay_slug": "bits-protect-its",
+    "value": "AI scale necessary, AI-only sufficient",
+    "unit": "epistemic strength",
+    "type": "manual",
+    "claim": "Three versions of the environmental superintelligence thesis: weak (AI is useful — settled); middle (AI-scale information processing is necessary — defensible from verified physics); strong (superintelligent AI is the only physically adequate response — philosophical, supported by evidence but not derived).",
+    "context": "The author explicitly distinguishes these three commitments in Bits Protect Its. The middle version is the load-bearing one; the strong version provides direction; the weak is no longer interesting.",
+    "epistemic_status": "bet",
+    "uncertainty": "Strong version is a philosophical commitment, not a verified theorem. Middle version is defensible from current physics + Earth-system science. Weak is settled.",
+    "last_verified": "2026-05-22",
+    "citation": "Anderson 2026, Bits Protect Its. https://jedanderson.org/essays/bits-protect-its"
+  }
+]
