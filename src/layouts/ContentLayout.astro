@@ -47,33 +47,75 @@ const dateLong = longFmt.format(data.date);
 const originalDateLong = data.original_date ? longFmt.format(data.original_date) : null;
 
 const isPaper = data.type === 'paper';
-const articleSchema = {
-  '@context': 'https://schema.org',
-  '@type': isPaper ? 'ScholarlyArticle' : 'Article',
-  headline: data.title,
-  description: data.abstract,
-  datePublished: data.date.toISOString(),
-  ...(data.original_date
-    ? { dateCreated: data.original_date.toISOString() }
-    : {}),
-  inLanguage: 'en',
-  url: canonicalUrl,
-  mainEntityOfPage: canonicalUrl,
-  keywords: data.tags?.join(', '),
-  license: data.license?.startsWith('CC0')
-    ? 'https://creativecommons.org/publicdomain/zero/1.0/'
-    : 'https://creativecommons.org/licenses/by/4.0/',
-  author: [data.author, ...(data.co_authors ?? [])].map((name: string) => ({
-    '@type': 'Person',
-    name,
-    url: SITE.url,
-  })),
-  publisher: {
-    '@type': 'Person',
-    name: SITE.author,
-    url: SITE.url,
-  },
-};
+const isScholarlyArticle = data.schema_type === 'ScholarlyArticle' || isPaper;
+
+const licenseUrl = data.license?.startsWith('CC0')
+  ? 'https://creativecommons.org/publicdomain/zero/1.0/'
+  : 'https://creativecommons.org/licenses/by/4.0/';
+
+let articleSchema: Record<string, any>;
+
+if (data.schema_type === 'ScholarlyArticle') {
+  // Canonical-citation-grade schema. Distinct from the default Article
+  // (and from the `type === 'paper'` ScholarlyArticle) in three ways:
+  // uses `abstract` not `description`, `publisher` is an Organization
+  // not a Person, and we wire DOI as an identifier + sameAs when set.
+  const doiUrl = data.doi ? `https://doi.org/${data.doi}` : null;
+  articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ScholarlyArticle',
+    headline: data.title,
+    ...(data.subtitle ? { alternativeHeadline: data.subtitle } : {}),
+    abstract: data.abstract,
+    author: {
+      '@type': 'Person',
+      name: 'Jed Anderson',
+      url: 'https://jedanderson.org/about',
+    },
+    datePublished: data.date.toISOString(),
+    ...(data.original_date
+      ? { dateCreated: data.original_date.toISOString() }
+      : {}),
+    url: canonicalUrl,
+    identifier: doiUrl ? [canonicalUrl, doiUrl] : canonicalUrl,
+    ...(doiUrl ? { sameAs: [doiUrl] } : {}),
+    license: licenseUrl,
+    publisher: {
+      '@type': 'Organization',
+      name: 'Jed Anderson',
+      url: 'https://jedanderson.org',
+    },
+    keywords: data.tags?.join(', '),
+    inLanguage: 'en',
+    isAccessibleForFree: true,
+  };
+} else {
+  articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': isPaper ? 'ScholarlyArticle' : 'Article',
+    headline: data.title,
+    description: data.abstract,
+    datePublished: data.date.toISOString(),
+    ...(data.original_date
+      ? { dateCreated: data.original_date.toISOString() }
+      : {}),
+    inLanguage: 'en',
+    url: canonicalUrl,
+    mainEntityOfPage: canonicalUrl,
+    keywords: data.tags?.join(', '),
+    license: licenseUrl,
+    author: [data.author, ...(data.co_authors ?? [])].map((name: string) => ({
+      '@type': 'Person',
+      name,
+      url: SITE.url,
+    })),
+    publisher: {
+      '@type': 'Person',
+      name: SITE.author,
+      url: SITE.url,
+    },
+  };
+}
 ---
 
 <BaseLayout

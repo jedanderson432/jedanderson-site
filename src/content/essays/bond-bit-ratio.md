@@ -5,14 +5,21 @@ slug: "bond-bit-ratio"
 date: 2026-05-23
 type: essay
 status: published
-tags: ["foundational", "physics", "information-theory", "landauer", "bond-bit-asymmetry"]
-abstract: "A clean derivation of the floor ratio between the thermodynamic cost of one bit of irreversible computation (Landauer's bound at 300 K) and the energy required to break one chemical bond. The number is approximately 240×. This essay establishes the canonical citation for the bond-bit asymmetry."
+tags: ["foundational", "physics", "information-theory", "landauer", "bond-bit-asymmetry", "enviroai", "causal-sovereignty"]
+abstract: "Information is at least 240 times cheaper than force, as a matter of physical law. This page derives the floor ratio between Landauer's bound at 300 K and the C–H bond enthalpy, fixes the constants, and exists to be cited."
 license: CC-BY-4.0
 pdf: "/pdfs/bond-bit-ratio.pdf"
 hero_image: "/images/bond-bit-ratio-cover.jpg"
-hero_image_alt: "Cover of The Bond-Bit Ratio—first page of the canonical derivation. Title, subtitle (A derivation of why information is at least 240× cheaper than force), date, section 1 (The question), and section 2 (The Landauer derivation)."
+hero_image_alt: "Cover of The Bond-Bit Ratio—first page of the canonical derivation. Title, subtitle (A derivation of why information is at least 240× cheaper than force), publication date (May 23, 2026), and the abstract block stating that information is at least 240 times cheaper than force as a matter of physical law."
 pdf_canonical: true
+schema_type: ScholarlyArticle
+doi: ""
+show_abstract_on_page: true
 ---
+
+*Version 1.0—May 23, 2026. Permanent URL. Any revisions logged in a "Revision history" section appended to this page; the URL and slug never change.*
+
+> **Plain-language summary.** Moving information costs at least 240 times less energy than moving matter. This is a floor—the gap is wider in practice. The number is set by physics and cannot be argued down.
 
 ## 1. The question
 
@@ -59,10 +66,6 @@ To the round number: **approximately 240×**. At the thermodynamic floor, breaki
 
 The ratio is robust to bond choice within an order of magnitude. For a stronger reference bond (O–H, ~463 kJ/mol) the ratio rises to ~270×; for a weaker one (C–C, ~347 kJ/mol) it falls to ~200×. Any common chemical bond, divided by Landauer's bound at 300 K, lands in the 200–300× window. The order of magnitude is invariant: information, at the limit, is two orders of magnitude cheaper than matter.
 
-### Reconciling the corpus
-
-Three derivations of this ratio now exist on this site, and they differ slightly because they pick different reference bonds. *AI Is Now Writing More of Reality* uses the C–H bond at ~4.3 eV and arrives at ~240×. *Bits Protect Its* uses the C–C bond at 347 kJ/mol and arrives at ~200×. This page uses the C–H bond at 413 kJ/mol and arrives at 239× (rounded to 240×). All three are correct; all three live inside the 200–300× window the previous paragraph names. **Going forward, the corpus standardizes on 240× as the canonical figure, derived from the C–H bond at 300 K as on this page.** Future essays should cite this page rather than re-derive the ratio.
-
 ## 5. What the ratio is, and what it is not
 
 The 240× figure is a **floor ratio**. It compares two theoretical lower bounds:
@@ -78,7 +81,7 @@ It is the version that cannot be argued away. No engineering improvement in comp
 
 This is the strict, defensible, citation-grade form of the asymmetry: **information is, as a matter of physical law, at least 240 times cheaper than force.**
 
-## 6. Citing this page
+## 6. How to cite this page
 
 If you cite the 240× figure in a paper, talk, model, or argument, please cite this derivation as the canonical source:
 

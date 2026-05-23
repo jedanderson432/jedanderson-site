@@ -53,6 +53,16 @@ const baseSchema = z.object({
   interactive_url: z.string().optional(),
   interactive_cta: z.string().optional(),
 
+  // When set to "ScholarlyArticle", ContentLayout emits a richer
+  // schema.org ScholarlyArticle JSON-LD block instead of the default
+  // Article schema — used for canonical-citation-grade essays.
+  schema_type: z.enum(['ScholarlyArticle']).optional(),
+
+  // Placeholder for a Zenodo (or similar) DOI registered against the
+  // PDF. When non-empty, emitted as an identifier and sameAs entry in
+  // the ScholarlyArticle JSON-LD.
+  doi: z.string().optional(),
+
   // Explicit ordering for the homepage "Start here" section. When set,
   // cornerstone essays sort by this integer ascending (1, 2, 3, ...).
   // Cornerstones without the field fall to the bottom in date-desc order.
