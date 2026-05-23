@@ -102,6 +102,8 @@ If we knew the trajectory of every SO₂ molecule leaving a smokestack, capture 
 
 ## Part II. The Bond-Bit Asymmetry {#bond-bit-asymmetry}
 
+*Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).*
+
 ### The Twenty Orders of Magnitude
 
 Here is the insight at the heart of this paper:

@@ -85,7 +85,7 @@ EnviroAI | Houston, Texas | The energy to break one chemical bond (O–H bond in
 
 The energy to process one bit of information (Landauer limit at 300K): 2.87 × 10⁻²¹ Joules
 
-E_bond / E_bit = 7.71 × 10⁻¹⁹ / 2.87 × 10⁻²¹ ≈ 268 Knowing is 268 times cheaper than moving, at the single-molecule level.
+E_bond / E_bit = 7.71 × 10⁻¹⁹ / 2.87 × 10⁻²¹ ≈ 268 Knowing is 268 times cheaper than moving, at the single-molecule level. (Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).)
 
 This number is set by the laws of physics—the Landauer limit sits at the thermal fluctuation scale, chemical bond energies sit at the quantum mechanical binding scale—and it will never change. It is as permanent as the speed of light.
 

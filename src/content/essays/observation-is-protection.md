@@ -354,6 +354,8 @@ The distinction between Tier 3 and Tier 4 is not degree. It is kind. Tier 3 exec
 
 ### 5.1 Derivation of the Bond-Bit Asymmetry
 
+*Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).*
+
 Consider preventing 1 kg of dispersed hydrocarbon contamination by observation, versus remediating it after the fact.
 
 Physical remediation energy: 1 kg of hydrocarbons (CH₂ units): ~1.3 × 10²⁶ bonds × 6.9 × 10⁻¹⁹

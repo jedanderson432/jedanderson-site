@@ -248,7 +248,7 @@ The thermodynamic work required to extract very dilute pollutants is substantial
 
 Comparing bond energies to the Landauer limit yields the fundamental Bond-Bit ratio:
 
-E_bond / E_bit = (7 × 10⁻¹⁹ J) / (2.9 × 10⁻²¹ J) ≈ 240 At the per-operation level, breaking one chemical bond requires approximately 240 times more energy than processing one bit at the Landauer limit. This ratio, while significant, understates the practical asymmetry for several reasons:
+E_bond / E_bit = (7 × 10⁻¹⁹ J) / (2.9 × 10⁻²¹ J) ≈ 240 At the per-operation level, breaking one chemical bond requires approximately 240 times more energy than processing one bit at the Landauer limit. (Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).) This ratio, while significant, understates the practical asymmetry for several reasons:
 
 ## 1. Current computers operate 10⁹× above Landauer: Today, the ratio is approximately
 

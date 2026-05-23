@@ -165,7 +165,7 @@ E_bit = k_B T ln(2) = 2.87 × 10⁻²¹ J/bit (at 300 K)
 
 E_bond(C–H) = 6.86 × 10⁻¹⁹ J/bond (fixed by α = 1/137.036)
 
-Per-operation ratio: E_bond / E_bit ≈ 240 Macroscopic ratio (1 kg hydrocarbon): ~10²⁰ at Landauer limit; ~10¹⁰ today
+Per-operation ratio: E_bond / E_bit ≈ 240 Macroscopic ratio (1 kg hydrocarbon): ~10²⁰ at Landauer limit; ~10¹⁰ today (full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio)).
 
 ### 3.2.1 The Divergence Proof
 

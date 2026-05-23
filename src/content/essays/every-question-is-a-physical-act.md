@@ -65,7 +65,7 @@ The questions are being asked. The answers exist. The wire between the answer an
 
 That wire is everything. In the Szilard engine—the experimentally verified system that proves a question is a physical act—observation and gate configuration are one event. No gap. The circuit is complete. In environmental management, the circuit is broken. Questions are asked by one system, answers stored in another, gates operated by a third. Without the wire, an observation is data. With the wire, an observation is protection.
 
-The cost of this disconnection is staggering. The Bond-Bit Asymmetry—the ratio between the energy cost of moving a molecule and the energy cost of knowing where it is—is approximately 10 billion to 1 at current technology (derived from
+The cost of this disconnection is staggering. The Bond-Bit Asymmetry ([canonical derivation](/essays/bond-bit-ratio))—the ratio between the energy cost of moving a molecule and the energy cost of knowing where it is—is approximately 10 billion to 1 at current technology (derived from
 
 Landauer’s principle and C–H bond energies; check the arithmetic in the companion paper). Every answer that reaches a gate saves ten billion times more than the answer cost. Every answer that goes to a database instead saves nothing. And that ratio doubles every 2.6 years (Koomey, IEEE, 2011) while chemistry costs remain fixed forever.
 
