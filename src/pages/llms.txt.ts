@@ -99,6 +99,11 @@ export const GET: APIRoute = async () => {
   sections.push(`## About`);
   sections.push(`- [About](${SITE.url}/about): ${SITE.description}\n`);
 
+  sections.push(`## Datasets`);
+  sections.push(
+    `- [Canonical Claims Dataset (JSON)](${SITE.url}/data/canonical-claims.json): Build-time deterministic extraction of every numerical claim in the published essay corpus — scientific values, ratios, percentages, durations, counts — each with stable identifier, source-essay slug, sentence-level context, and (where curated) epistemic status, uncertainty, and citation. Browseable at [${SITE.url}/data](${SITE.url}/data). Schema and pipeline notes at [${SITE.url}/docs/CLAIMS_EXTRACTION.md](${SITE.github}/blob/main/docs/CLAIMS_EXTRACTION.md). CC-BY-4.0.\n`,
+  );
+
   const lines = loadLines();
   if (lines.length > 0) {
     sections.push(`## Lines`);

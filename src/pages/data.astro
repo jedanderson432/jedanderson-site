@@ -1,0 +1,324 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../site-config';
+import { getCollection } from 'astro:content';
+import { readFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const dataPath = join(__dirname, '..', '..', 'public', 'data', 'canonical-claims.json');
+const dataset = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+const essays = await getCollection('essays', ({ data }) => data.status === 'published');
+const titleBySlug = new Map(essays.map((e) => [e.slug, e.data.title]));
+
+const datasetUrl = `${SITE.url}/data/canonical-claims.json`;
+
+// Schema.org/Dataset JSON-LD.
+const datasetSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'Canonical Claims Dataset — jedanderson.org',
+  description:
+    "Build-time, deterministically extracted numerical claims from the published essay corpus at jedanderson.org. Includes scientific values, ratios, percentages, durations, and counts, each with stable identifier, source-essay slug, sentence-level context, and (where curated) epistemic status.",
+  url: `${SITE.url}/data`,
+  identifier: datasetUrl,
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+  creator: {
+    '@type': 'Person',
+    name: SITE.author,
+    url: SITE.url,
+  },
+  isAccessibleForFree: true,
+  distribution: [
+    {
+      '@type': 'DataDownload',
+      encodingFormat: 'application/json',
+      contentUrl: datasetUrl,
+    },
+  ],
+  keywords: [
+    'environmental superintelligence',
+    'information physics',
+    'bond-bit asymmetry',
+    'numerical claims',
+    'corpus dataset',
+  ],
+  variableMeasured: Object.keys(dataset.schema || {}),
+};
+
+// Status color classes. Kept as Tailwind utilities so the JIT picks them up.
+const STATUS_STYLES = {
+  established: 'bg-emerald-100 text-emerald-900 border-emerald-300',
+  'framework-dependent': 'bg-sky-100 text-sky-900 border-sky-300',
+  estimated: 'bg-amber-100 text-amber-900 border-amber-300',
+  bet: 'bg-rose-100 text-rose-900 border-rose-300',
+  needs_review: 'bg-stone-100 text-stone-700 border-stone-300',
+};
+function statusClass(s) {
+  return STATUS_STYLES[s] ?? STATUS_STYLES.needs_review;
+}
+
+// Build a deterministic citation string per row for the copy-to-clipboard.
+function citationFor(row) {
+  const title = titleBySlug.get(row.essay_slug) ?? row.essay_slug;
+  const url = `${SITE.url}/essays/${row.essay_slug}`;
+  const date = row.last_verified || '';
+  const valuePart = row.value && row.unit ? `${row.value} ${row.unit}` : (row.value || '');
+  const cite = row.citation ? ` Source: ${row.citation}.` : '';
+  return `"${row.claim.replace(/"/g, '\\"')}" [${valuePart}] — Anderson, Jed${date ? ` (${date})` : ''}. ${title}. ${url}.${cite}`;
+}
+
+// Combined searchable string per row.
+function searchableFor(row) {
+  return [row.claim, row.context, row.value, row.unit, row.essay_slug, row.epistemic_status, row.uncertainty]
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase();
+}
+
+const STATUS_ORDER = ['established', 'framework-dependent', 'estimated', 'bet', 'needs_review'];
+const statusBreakdown = STATUS_ORDER
+  .filter((s) => dataset.counts.by_status?.[s])
+  .map((s) => ({ name: s, count: dataset.counts.by_status[s] }));
+---
+
+<BaseLayout
+  title="Data"
+  description="Canonical claims dataset — build-time-extracted numerical claims from the jedanderson.org corpus, with stable identifiers, source-essay links, and curated epistemic status."
+  jsonLd={datasetSchema}
+>
+  <article class="mx-auto max-w-6xl px-4 py-12">
+    <header class="mb-10">
+      <p class="text-xs uppercase tracking-widest text-muted mb-2">Dataset</p>
+      <h1 class="font-serif text-4xl leading-tight text-ink mb-3">
+        Canonical Claims Dataset
+      </h1>
+      <p class="font-serif italic text-2xl text-muted leading-snug mb-6">
+        Every number on this site, with a stable identifier and a source.
+      </p>
+
+      <div class="prose prose-base max-w-none text-ink">
+        <p>
+          Every published essay on this site is scanned at build time by a
+          deterministic regex extractor (<a href={`${SITE.github}/blob/main/scripts/extract-claims.mjs`}><code>scripts/extract-claims.mjs</code></a>)
+          that pulls numerical claims — scientific values, ratios, percentages,
+          durations, counts — and assigns each a stable hash-based identifier.
+          A hand-maintained companion file
+          (<a href={`${SITE.github}/blob/main/data/manual-claims-extras.json`}><code>data/manual-claims-extras.json</code></a>)
+          adds prose claims the extractor cannot catch and overlays
+          epistemic-status / uncertainty / citation enrichment on auto-extracted
+          rows. The merged dataset is published at
+          <a href="/data/canonical-claims.json"><code>/data/canonical-claims.json</code></a>
+          and refreshed on every deploy.
+        </p>
+        <p>
+          No LLM calls at extraction time. Same input → identical output on
+          every build. Pipeline notes:
+          <a href={`${SITE.github}/blob/main/docs/CLAIMS_EXTRACTION.md`}><code>docs/CLAIMS_EXTRACTION.md</code></a>.
+          License: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.
+        </p>
+      </div>
+    </header>
+
+    {/* Counts strip */}
+    <section class="mb-8 grid grid-cols-2 sm:grid-cols-4 gap-3 not-prose">
+      <div class="border border-rule rounded p-3">
+        <div class="text-xs uppercase tracking-wide text-muted">Total claims</div>
+        <div class="font-serif text-2xl text-ink">{dataset.counts.total}</div>
+      </div>
+      <div class="border border-rule rounded p-3">
+        <div class="text-xs uppercase tracking-wide text-muted">Auto-extracted</div>
+        <div class="font-serif text-2xl text-ink">{dataset.counts.auto_extracted}</div>
+      </div>
+      <div class="border border-rule rounded p-3">
+        <div class="text-xs uppercase tracking-wide text-muted">Manual entries</div>
+        <div class="font-serif text-2xl text-ink">{dataset.counts.manual_entries}</div>
+      </div>
+      <div class="border border-rule rounded p-3">
+        <div class="text-xs uppercase tracking-wide text-muted">Essays scanned</div>
+        <div class="font-serif text-2xl text-ink">{dataset.counts.essays_scanned}</div>
+      </div>
+    </section>
+
+    {/* Epistemic-status breakdown */}
+    <section class="mb-8 flex flex-wrap gap-2 not-prose" aria-label="Epistemic status breakdown">
+      {
+        statusBreakdown.map(({ name, count }) => (
+          <button
+            type="button"
+            class={`text-xs uppercase tracking-wide border rounded px-2 py-1 ${statusClass(name)} hover:opacity-80 transition-opacity`}
+            data-status-filter={name}
+          >
+            {name.replace(/_/g, ' ')} · {count}
+          </button>
+        ))
+      }
+      <button
+        type="button"
+        class="text-xs uppercase tracking-wide border border-rule rounded px-2 py-1 text-muted hover:text-ink hover:bg-rule/20"
+        data-status-filter="all"
+      >
+        all · {dataset.counts.total}
+      </button>
+    </section>
+
+    {/* Search */}
+    <section class="mb-6 not-prose">
+      <label class="block">
+        <span class="sr-only">Filter claims</span>
+        <input
+          type="search"
+          id="claims-search"
+          placeholder="Filter by claim, value, unit, essay slug, status, uncertainty…"
+          class="w-full border border-rule rounded px-3 py-2 text-base text-ink bg-paper focus:outline-none focus:border-accent"
+          autocomplete="off"
+        />
+      </label>
+      <p class="mt-2 text-xs text-muted">
+        <span id="claims-visible-count">{dataset.counts.total}</span> of {dataset.counts.total} rows shown.
+      </p>
+    </section>
+
+    {/* Table */}
+    <section class="not-prose overflow-x-auto">
+      <table class="w-full text-sm border border-rule">
+        <thead class="bg-rule/20 text-left text-xs uppercase tracking-wide text-muted">
+          <tr>
+            <th class="px-3 py-2 font-normal w-[44%]">Claim</th>
+            <th class="px-3 py-2 font-normal whitespace-nowrap">Value</th>
+            <th class="px-3 py-2 font-normal whitespace-nowrap">Unit</th>
+            <th class="px-3 py-2 font-normal whitespace-nowrap">Source</th>
+            <th class="px-3 py-2 font-normal whitespace-nowrap">Status</th>
+            <th class="px-3 py-2 font-normal whitespace-nowrap">Cite</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            dataset.claims.map((row) => {
+              const cite = citationFor(row);
+              const searchable = searchableFor(row);
+              const title = titleBySlug.get(row.essay_slug) ?? row.essay_slug;
+              const essayUrl = `/essays/${row.essay_slug}`;
+              const status = row.epistemic_status || 'needs_review';
+              return (
+                <tr
+                  class="border-t border-rule align-top hover:bg-rule/10"
+                  data-row
+                  data-search={searchable}
+                  data-status={status}
+                  data-citation={cite}
+                  id={row.id}
+                >
+                  <td class="px-3 py-2 text-ink">
+                    <p class="leading-snug">{row.claim}</p>
+                    {row.uncertainty && (
+                      <p class="mt-1 text-xs italic text-muted">{row.uncertainty}</p>
+                    )}
+                  </td>
+                  <td class="px-3 py-2 font-mono text-xs text-ink whitespace-nowrap">{row.value}</td>
+                  <td class="px-3 py-2 text-xs text-muted whitespace-nowrap">{row.unit}</td>
+                  <td class="px-3 py-2 text-xs whitespace-nowrap">
+                    <a href={essayUrl} class="text-ink underline hover:text-accent" title={title}>
+                      {row.essay_slug}
+                    </a>
+                    {typeof row.line === 'number' && (
+                      <span class="text-muted"> :L{row.line}</span>
+                    )}
+                  </td>
+                  <td class="px-3 py-2 whitespace-nowrap">
+                    <span class={`inline-block text-[10px] uppercase tracking-wide border rounded px-1.5 py-0.5 ${statusClass(status)}`}>
+                      {status.replace(/_/g, ' ')}
+                    </span>
+                  </td>
+                  <td class="px-3 py-2 whitespace-nowrap">
+                    <button
+                      type="button"
+                      data-copy-citation
+                      class="text-xs text-muted hover:text-ink underline"
+                      title="Copy citation to clipboard"
+                    >
+                      Copy
+                    </button>
+                  </td>
+                </tr>
+              );
+            })
+          }
+        </tbody>
+      </table>
+    </section>
+
+    <footer class="mt-12 text-sm text-muted not-prose">
+      <p>
+        Raw JSON: <a href="/data/canonical-claims.json" class="underline hover:text-ink"><code>/data/canonical-claims.json</code></a>.
+        Schema and pipeline: <a href={`${SITE.github}/blob/main/docs/CLAIMS_EXTRACTION.md`} class="underline hover:text-ink"><code>docs/CLAIMS_EXTRACTION.md</code></a>.
+        Found a misclassification or missed claim? Open a PR to
+        <a href={`${SITE.github}/blob/main/data/manual-claims-extras.json`} class="underline hover:text-ink"><code> data/manual-claims-extras.json</code></a>.
+      </p>
+    </footer>
+  </article>
+</BaseLayout>
+
+<script>
+  // Filter rows by free-text search + status chip. Both filters AND.
+  const rows = Array.from(document.querySelectorAll<HTMLTableRowElement>('[data-row]'));
+  const search = document.getElementById('claims-search') as HTMLInputElement | null;
+  const visible = document.getElementById('claims-visible-count') as HTMLElement | null;
+  const statusBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-status-filter]'));
+  let currentQuery = '';
+  let currentStatus = 'all';
+
+  function apply() {
+    let shown = 0;
+    for (const row of rows) {
+      const hay = row.dataset.search ?? '';
+      const status = row.dataset.status ?? '';
+      const okQuery = currentQuery === '' || hay.includes(currentQuery);
+      const okStatus = currentStatus === 'all' || status === currentStatus;
+      const ok = okQuery && okStatus;
+      row.style.display = ok ? '' : 'none';
+      if (ok) shown += 1;
+    }
+    if (visible) visible.textContent = String(shown);
+  }
+
+  if (search) {
+    search.addEventListener('input', () => {
+      currentQuery = search.value.trim().toLowerCase();
+      apply();
+    });
+  }
+
+  for (const btn of statusBtns) {
+    btn.addEventListener('click', () => {
+      const val = btn.dataset.statusFilter ?? 'all';
+      currentStatus = currentStatus === val ? 'all' : val;
+      for (const b of statusBtns) {
+        const isActive = (b.dataset.statusFilter ?? 'all') === currentStatus
+          || (currentStatus === 'all' && (b.dataset.statusFilter ?? '') === 'all');
+        b.setAttribute('aria-pressed', String(isActive));
+        b.style.outline = isActive ? '2px solid currentColor' : '';
+      }
+      apply();
+    });
+  }
+
+  // Copy-to-clipboard per row.
+  document.querySelectorAll<HTMLButtonElement>('[data-copy-citation]').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const row = btn.closest<HTMLTableRowElement>('[data-row]');
+      const cite = row?.dataset.citation ?? '';
+      if (!cite) return;
+      try {
+        await navigator.clipboard.writeText(cite);
+        const original = btn.textContent;
+        btn.textContent = 'Copied';
+        setTimeout(() => { btn.textContent = original; }, 1200);
+      } catch {
+        // ignore — clipboard permission denied
+      }
+    });
+  });
+</script>

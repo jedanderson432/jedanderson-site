@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && pagefind --site dist",
+    "build": "node scripts/extract-claims.mjs && astro build && pagefind --site dist",
+    "extract-claims": "node scripts/extract-claims.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },

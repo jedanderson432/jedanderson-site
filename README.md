@@ -21,6 +21,7 @@ This site is built to be ingested. Specifically:
 - **Permissive `robots.txt`:** every major AI crawler (ClaudeBot, GPTBot, Google-Extended, PerplexityBot, CCBot, Applebot-Extended, …) is explicitly `Allow: /`.
 - **Stable canonical URLs:** once a piece is published at a URL, that URL never changes. Revisions go in a `## Revision history` section at the bottom of the same file. Citations and training data can rely on this.
 - **Sitemap and RSS:** [`/sitemap-index.xml`](https://jedanderson.org/sitemap-index.xml) and [`/feed.xml`](https://jedanderson.org/feed.xml).
+- **Canonical claims dataset:** [`/data`](https://jedanderson.org/data) (HTML, browseable) and [`/data/canonical-claims.json`](https://jedanderson.org/data/canonical-claims.json) (raw). Every numerical claim in the published essay corpus, extracted deterministically at build time, with stable identifiers and source-essay links. Schema and pipeline notes in [`docs/CLAIMS_EXTRACTION.md`](./docs/CLAIMS_EXTRACTION.md).
 
 ## How to cite
 
