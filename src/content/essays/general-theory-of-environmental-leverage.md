@@ -71,7 +71,7 @@ You get a singularity.
 
 ## 3. The Bond-Bit Asymmetry: The Advantage
 
-At room temperature, information is roughly 10²⁰ times cheaper than mass. This is the Bond-Bit Asymmetry—the most important number in environmental physics.
+At room temperature, information is roughly 10²⁰ times cheaper than mass. This is the Bond-Bit Asymmetry—the most important number in environmental physics. (Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).)
 
 The Physics of the "Bond" (The Old Way)
 

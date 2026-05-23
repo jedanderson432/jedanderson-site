@@ -129,7 +129,7 @@ You do not need to know what every cubic meter of soil or air is doing. You need
 
 ## Part 4: The Bond-Bit Asymmetry
 
-Configuring Matter with Information vs. Force The most consequential number in this paper is a ratio. It is derived entirely from thermodynamics, and it quantifies the fundamental advantage of working at the information level versus the material level.
+Configuring Matter with Information vs. Force The most consequential number in this paper is a ratio. It is derived entirely from thermodynamics, and it quantifies the fundamental advantage of working at the information level versus the material level. (Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).)
 
 The energy required to process one bit of information at the theoretical minimum—the
 

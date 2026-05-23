@@ -160,7 +160,7 @@ We can now calculate the fundamental ratio between these two approaches:
 
 > E_bond / E_bit = (7.3 × 10⁻¹⁹ J) / (2.9 × 10⁻²¹ J) ≈ 250
 
-At the molecular level, moving one bond costs about 250 times more energy than knowing one bit at the Landauer limit.
+At the molecular level, moving one bond costs about 250 times more energy than knowing one bit at the Landauer limit. (Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).)
 
 But this microscopic ratio drastically understates the macroscopic reality.
 

@@ -67,7 +67,7 @@ E_bond ≈ 413 kJ/mol = 6.86 × 10⁻¹⁹ joules per bond This value derives fr
 
 1/137) and electron mass, which together determine all chemical bond energies. It has been measured to high precision for over a century (CRC Handbook of Chemistry and Physics). The energy required to break a C-H bond in 2025 is identical to what it was in 1900 and will be in
 3000. These are fundamental constants of nature.
-The Ratio E_bond / E_bit = (6.86 × 10⁻¹⁹ J) / (2.87 × 10⁻²¹ J) ≈ 239 At the molecular level, moving one bond costs approximately 240 times more energy than knowing one bit at the thermodynamic limit.
+The Ratio E_bond / E_bit = (6.86 × 10⁻¹⁹ J) / (2.87 × 10⁻²¹ J) ≈ 239 At the molecular level, moving one bond costs approximately 240 times more energy than knowing one bit at the thermodynamic limit. (Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).)
 
 This is the Bond-Bit Asymmetry at the atomic scale, derived from measured physical constants.
 

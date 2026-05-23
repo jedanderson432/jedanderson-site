@@ -216,7 +216,7 @@ The Regime of Mass concerns what it costs to move something—to physically relo
 
 The ratio between these floors is stunning: (Bond energy) / (Landauer limit) = (7 × 10⁻¹⁹ J) / (2.87 × 10⁻²¹ J) ≈ 240
 
-At the molecular level, moving one bond costs about 240 times more than knowing one bit at the thermodynamic limit.
+At the molecular level, moving one bond costs about 240 times more than knowing one bit at the thermodynamic limit. (Full constants and reconciliation across the corpus: [the canonical bond-bit ratio derivation](/essays/bond-bit-ratio).)
 
 But this understates the practical asymmetry by many orders of magnitude. Consider a real-world scenario:
 
