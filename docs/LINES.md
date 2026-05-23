@@ -11,6 +11,14 @@ Order below is the curated response/interest order, top to bottom.
 
 ---
 
+- line: "Information is, as a matter of physical law, at least 240 times cheaper than force."
+  anchor: information-cheaper-than-force
+  from: bond-bit-ratio
+
+- line: "Bits protect its. The ratio is the reason."
+  anchor: ratio-is-the-reason
+  from: bond-bit-ratio
+
 - line: "The Clean Air Act was the best a paper civilization could do. We are not a paper civilization anymore."
   anchor: paper-civilization
   from: standalone
