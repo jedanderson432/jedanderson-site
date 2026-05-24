@@ -135,3 +135,20 @@ DO NOT pause for confirmation between phases. If you hit a blocker
 that requires a human decision (e.g., a source PDF is unreadable, a
 title is ambiguous beyond resolution, the build fails in a way you
 can't fix), stop and report — but only then. Default to forward motion.
+
+## Canonical citation rules for recurring physical claims
+
+The corpus has recurring physical claims that should always cite a single canonical derivation rather than be re-derived in each essay. When ingesting or drafting new essays, check whether the essay invokes any of the following and link to the canonical derivation rather than re-deriving:
+
+| Claim | Canonical citation | Canonical figure |
+|-------|--------------------|------------------|
+| Bond-bit floor ratio | /essays/bond-bit-ratio | 240× (C–H bond at 300 K, Landauer floor) |
+| Operational bond-bit gap in deployed systems | /essays/bond-bit-ratio §5 | 10⁸ to 10¹² |
+| Generalized Functional Efficiency rise across cosmic history | /essays/generalized-functional-efficiency | 50+ orders of magnitude over 13.8B years |
+| HCN bandwidth | /essays/negentropic-imperative | 40–100 bps |
+| Maximum informational-over-physical leverage (mass-scaled) | /essays/thermodynamic-foundations-of-entropic-shepherding | up to 10³⁷ per kg at 300 K |
+| Intelligence Leverage Equation | /essays/intelligence-leverage-equation | Λ = Mc² / (I·k_BT·ln 2) |
+
+Drafting rule: if an essay invokes one of these claims, link to the canonical page at first mention. Do not re-derive. The canonical page does the derivation work; the citing essay does the application work.
+
+**Phase 8 — Canonical-citation check.** After Phase 7 (archive) and before Phase 9 (report), grep the newly ingested essays for the discovery patterns in `docs/BOND_BIT_CITATION_AUDIT.md` (or the analogous audit doc for whichever canonical claim is in play) and flag any matches for citation conversion before the build commit. Specifically: any new essay that mentions Landauer's bound, the bond-bit ratio numerically (200×/239/240×/270×), C–H/C–C/O–H bond enthalpy, `kT ln 2`, "orders of magnitude cheaper", or HCN bandwidth must either (a) link to the relevant canonical page at first mention, or (b) be explicitly flagged as deriving a new canonical figure that supersedes one of the entries in the table above. Anything in between gets reclassified per the audit doc's class (a)/(b)/(c)/(d)/(e) scheme and resolved before the commit goes through.
