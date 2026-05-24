@@ -1,4 +1,10 @@
 ---
+// Canonical site header. Single source of truth for the primary nav.
+// Imported by BaseLayout.astro, which is wrapped (directly or via
+// ContentLayout) by every route under src/pages. Do NOT duplicate
+// this markup inline on any page — when the nav needs to change,
+// it changes here once and propagates to every built page on rebuild.
+// Item order is editorial: Essays · Posts · Books · Talks · Lines · About.
 import { SITE } from '../site-config';
 ---
 
