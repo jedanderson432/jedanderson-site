@@ -208,6 +208,17 @@ export const jedPersonSchema = {
       },
     },
     {
+      '@type': 'Article',
+      headline: 'The Disappearing Distinction',
+      url: 'https://www.eli.org/the-environmental-forum/disappearing-distinction',
+      publisher: {
+        '@type': 'Organization',
+        name: 'Environmental Law Institute',
+        url: 'https://www.eli.org',
+      },
+      author: { '@id': JED_ID },
+    },
+    {
       '@type': 'Event',
       name: 'AFPM 2023 Environmental Conference',
       url: 'https://www.afpm.org/events/ENV23',
