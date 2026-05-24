@@ -1,42 +1,49 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { SITE } from '../site-config';
+import { JED_ID } from '../lib/site-entities';
 
-const personSchema = {
+// The Person/Organization/WebSite schemas are emitted site-wide by
+// BaseLayout. Here we add a ProfilePage node declaring that /about
+// IS Jed Anderson's canonical entity page (mainEntity points at the
+// Person node by @id), so entity-resolution systems treat this as
+// the authoritative profile rather than merely a page mentioning him.
+const profilePageSchema = {
   '@context': 'https://schema.org',
-  '@type': 'Person',
-  name: SITE.author,
-  url: SITE.url,
-  description: SITE.description,
-  email: `mailto:${SITE.email}`,
-  jobTitle:
-    'Creator and CEO of EnviroAI; Environmental Attorney; Adjunct Professor of Law, University of Houston Law Center',
-  worksFor: {
-    '@type': 'Organization',
-    name: 'EnviroAI',
-    url: 'https://enviro.ai',
-  },
-  sameAs: [SITE.github].filter(Boolean),
+  '@type': 'ProfilePage',
+  url: `${SITE.url}/about`,
+  mainEntity: { '@id': JED_ID },
 };
+
+const aboutMetaDescription =
+  'Environmental attorney, Creator and CEO of EnviroAI, Adjunct Professor of Law at the University of Houston, originator of environmental superintelligence.';
 ---
 
-<BaseLayout title="About" description={`About ${SITE.author}.`} jsonLd={personSchema}>
+<BaseLayout
+  title="About"
+  description={aboutMetaDescription}
+  jsonLd={profilePageSchema}
+>
   <article class="mx-auto max-w-3xl px-4 py-16 prose prose-lg max-w-none">
-    <h1>About</h1>
+    <h1 id="jed-anderson">About</h1>
     <p>
       Jed Anderson is the Creator and CEO of EnviroAI, a Houston-based company
       building environmental superintelligence—a physics-grounded, real-time
       information infrastructure for the biosphere. Before EnviroAI, he spent
       twenty-seven years as an environmental attorney, practicing at Baker
-      Botts and Vinson & Elkins before co-founding the AL Law Group in 2009.
-      He served as Adjunct Professor at the University of Houston Law School,
-      where he taught the Clean Air Act. He holds a degree in biology from
-      St. Olaf College and is the author of <em>A Victorious Defeat</em> (2016),
-      a memoir of a decade spent trying to reform the Clean Air Act from the
-      inside. The work on this site is what happens after twenty-seven years
-      inside a system that couldn't close the gap—the conclusion that no system
-      that operates by moving atoms can, and that the rest of his life's work
-      is building the one that will.
+      Botts L.L.P. (1998–2001) and Vinson & Elkins L.L.P. (2001–2003) before
+      co-founding The AL Law Group PLLC in 2009. He serves as Adjunct
+      Professor of Law at the University of Houston Law School, where he
+      teaches the Clean Air Act. He holds a J.D. from Baylor Law School
+      (1998) and a B.A. in Biology with an Environmental Studies concentration
+      from St. Olaf College (1992), and has been a member of the Texas State
+      Bar since 1998. He is the author of <em>A Victorious Defeat: 10 Years
+      Reforming the Clean Air Act</em> (2016), a memoir of a decade spent
+      trying to reform the Clean Air Act from the inside. The work on this
+      site is what happens after twenty-seven years inside a system that
+      couldn't close the gap—the conclusion that no system that operates
+      by moving atoms can, and that the rest of his life's work is
+      building the one that will.
     </p>
 
     <p>
@@ -61,6 +68,14 @@ const personSchema = {
       information system can help her thrive. The deeper I get into the physics,
       the closer it brings me to questions of meaning, faith, and what we are
       for—so those threads run through the work too.
+    </p>
+
+    <p>
+      Current work includes a complete redraft of the Clean Air Act—potentially
+      the first such complete redraft in U.S. history—and continued speaking on
+      environmental AI at venues including the Air & Waste Management
+      Association (AWMA), the Rice University SSPEED Center, and the
+      Environmental Law Institute podcast series.
     </p>
 
     <p>
@@ -91,6 +106,22 @@ const personSchema = {
       Creator and CEO of <a href="https://enviro.ai">EnviroAI</a>—applying
       environmental superintelligence to planetary-scale problems.
     </p>
+
+    <h2>Selected press</h2>
+    <ul>
+      <li>
+        <a
+          href="https://news.rice.edu/news/2026/can-ai-reshape-how-we-regulate-air-and-water-rice-event-explores-future-environmental"
+        >Can AI reshape how we regulate air and water? Rice event explores future
+        of environmental superintelligence</a> — Rice News, February 2026
+      </li>
+      <li>
+        <a
+          href="https://wp.stolaf.edu/news/supporting-the-environment-one-internet-search-at-a-time"
+        >Supporting the environment, one internet search at a time</a> —
+        St. Olaf College News, January 2023
+      </li>
+    </ul>
 
     <h2>How to cite</h2>
     <p>

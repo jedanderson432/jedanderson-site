@@ -4,6 +4,7 @@ import CiteThis from '../components/CiteThis.astro';
 import { getCollection } from 'astro:content';
 import { SITE, TYPE_LABELS } from '../site-config';
 import { canonicalFor, canonicalPath } from '../lib/canonical';
+import { JED_ID, WEBSITE_ID } from '../lib/site-entities';
 
 interface Props {
   entry: any;
@@ -54,10 +55,20 @@ const isFoundationalEssay =
   data.type === 'essay' && Array.isArray(data.tags) && data.tags.includes('foundational');
 const useScholarlyArticle =
   data.schema_type === 'ScholarlyArticle' || isFoundationalEssay || isPaper;
+const isPost = data.type === 'post';
 
 const licenseUrl = data.license?.startsWith('CC0')
   ? 'https://creativecommons.org/publicdomain/zero/1.0/'
   : 'https://creativecommons.org/licenses/by/4.0/';
+
+// Date semantics: `datePublished` must reflect the original publication
+// date of the underlying work, not the date the piece appeared on
+// jedanderson.org. The frontmatter `date` field is the most recent
+// revision date here — used as `dateModified` unless an explicit
+// `date_modified` override is set. `original_date`, when present, is
+// the canonical first-publication date.
+const datePublishedIso = (data.original_date ?? data.date).toISOString();
+const dateModifiedIso = (data.date_modified ?? data.date).toISOString();
 
 let articleSchema: Record<string, any>;
 
@@ -65,8 +76,7 @@ if (useScholarlyArticle) {
   // Canonical-citation-grade schema. Author and publisher are both
   // Person (Jed Anderson is the publisher of his own corpus). Keywords
   // come from frontmatter `keywords` when set, otherwise fall back to
-  // tags. `about` becomes an array of Thing entities. `dateModified`
-  // is only emitted when frontmatter `date_modified` is set.
+  // tags. `about` becomes an array of Thing entities.
   const doiUrl = data.doi ? `https://doi.org/${data.doi}` : null;
   const keywordsValue =
     Array.isArray(data.keywords) && data.keywords.length > 0
@@ -75,18 +85,13 @@ if (useScholarlyArticle) {
   articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'ScholarlyArticle',
+    '@id': `${canonicalUrl}#article`,
     headline: data.title,
     ...(data.subtitle ? { alternativeHeadline: data.subtitle } : {}),
     abstract: data.abstract,
-    author: {
-      '@type': 'Person',
-      name: data.author ?? SITE.author,
-      url: 'https://jedanderson.org/about',
-    },
-    datePublished: data.date.toISOString(),
-    ...(data.date_modified
-      ? { dateModified: data.date_modified.toISOString() }
-      : {}),
+    author: { '@id': JED_ID },
+    datePublished: datePublishedIso,
+    dateModified: dateModifiedIso,
     ...(data.original_date
       ? { dateCreated: data.original_date.toISOString() }
       : {}),
@@ -95,11 +100,8 @@ if (useScholarlyArticle) {
     identifier: doiUrl ? [canonicalUrl, doiUrl] : canonicalUrl,
     ...(doiUrl ? { sameAs: [doiUrl] } : {}),
     license: licenseUrl,
-    publisher: {
-      '@type': 'Person',
-      name: data.author ?? SITE.author,
-      url: SITE.url,
-    },
+    publisher: { '@id': JED_ID },
+    isPartOf: { '@id': WEBSITE_ID },
     keywords: keywordsValue,
     ...(Array.isArray(data.about) && data.about.length > 0
       ? {
@@ -113,30 +115,29 @@ if (useScholarlyArticle) {
     isAccessibleForFree: true,
   };
 } else {
+  // Posts get BlogPosting; everything else (books, letters, speeches,
+  // and non-foundational essays) gets Article.
+  const articleType = isPost ? 'BlogPosting' : 'Article';
+  const imageUrl = data.hero_image
+    ? new URL(data.hero_image, SITE.url).toString()
+    : new URL('/og-default.png', SITE.url).toString();
   articleSchema = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': articleType,
+    '@id': `${canonicalUrl}#article`,
     headline: data.title,
     description: data.abstract,
-    datePublished: data.date.toISOString(),
-    ...(data.original_date
-      ? { dateCreated: data.original_date.toISOString() }
-      : {}),
-    inLanguage: 'en',
+    author: { '@id': JED_ID },
+    datePublished: datePublishedIso,
+    dateModified: dateModifiedIso,
     url: canonicalUrl,
-    mainEntityOfPage: canonicalUrl,
-    keywords: data.tags?.join(', '),
+    image: imageUrl,
+    inLanguage: 'en',
+    isPartOf: { '@id': WEBSITE_ID },
     license: licenseUrl,
-    author: [data.author, ...(data.co_authors ?? [])].map((name: string) => ({
-      '@type': 'Person',
-      name,
-      url: SITE.url,
-    })),
-    publisher: {
-      '@type': 'Person',
-      name: SITE.author,
-      url: SITE.url,
-    },
+    ...(Array.isArray(data.tags) && data.tags.length > 0
+      ? { keywords: data.tags.join(', ') }
+      : {}),
   };
 }
 ---
