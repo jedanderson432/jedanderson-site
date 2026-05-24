@@ -3,14 +3,14 @@
   "generated": "deterministic build-time extraction from src/content/essays + data/manual-claims-extras.json",
   "license": "CC-BY-4.0",
   "counts": {
-    "total": 1070,
-    "auto_extracted": 1083,
+    "total": 1071,
+    "auto_extracted": 1084,
     "manual_entries": 12,
     "manual_overrides": 2,
     "manual_new": 10,
     "essays_scanned": 64,
     "by_status": {
-      "needs_review": 1058,
+      "needs_review": 1059,
       "framework-dependent": 2,
       "established": 9,
       "bet": 1
@@ -14998,6 +14998,21 @@
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-29"
+    },
+    {
+      "id": "auto-92d6d4ab74c1",
+      "essay_slug": "walk-youve-never-taken",
+      "value": "240×",
+      "unit": "ratio",
+      "type": "multiplier",
+      "pattern": "multiplier",
+      "match": "240×",
+      "claim": "- **2026-05-24.** Bond-bit ratio citation standardized to 240×; linked to canonical derivation at .",
+      "context": "ng. That's the mountain. This walk is the first switchback. Best experienced full-screen. Scroll slowly. Look closely. - **2026-05-24.** Bond-bit ratio citation standardized to 240×; linked to canonical derivation at . - **2026-05-12.** Initial publication.",
+      "line": 13,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-05-12"
     },
     {
       "id": "auto-5029cfce147e",
