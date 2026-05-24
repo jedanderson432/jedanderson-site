@@ -9,8 +9,8 @@ tags: ["foundational", "physics", "information-theory", "landauer", "bond-bit-as
 abstract: "Information is at least 240 times cheaper than force, as a matter of physical law. This page derives the floor ratio between Landauer's bound at 300 K and the C–H bond enthalpy, fixes the constants, and exists to be cited."
 license: CC-BY-4.0
 pdf: "/pdfs/bond-bit-ratio.pdf"
-hero_image: "/images/bond-bit-ratio-cover.jpg"
-hero_image_alt: "Cover of The Bond-Bit Ratio—first page of the canonical derivation. Title, subtitle (A derivation of why information is at least 240× cheaper than force), publication date (May 23, 2026), and the abstract block stating that information is at least 240 times cheaper than force as a matter of physical law."
+hero_image: "/images/bond-bit-ratio-hero.jpg"
+hero_image_alt: "Landscape hero for The Bond-Bit Ratio—deep navy background with cyan, gold, and cream typography. Eyebrow: An essay by Jed Anderson. Two-line serif title: 'THE BOND-BIT' set in gold, italic cyan 'Ratio' beneath. The visual hero is a large cream '≥ 240×' marked 'THE FLOOR.' Subtitle: Why information is, as a matter of physical law, at least 240 times cheaper than force. Footer: No. 02 · Foundational · jedanderson.org · Houston · 2026."
 pdf_canonical: true
 schema_type: ScholarlyArticle
 doi: ""
