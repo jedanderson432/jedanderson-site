@@ -213,10 +213,19 @@ export const jedPersonSchema = {
       url: 'https://www.eli.org/the-environmental-forum/disappearing-distinction',
       publisher: {
         '@type': 'Organization',
-        name: 'Environmental Law Institute',
+        name: 'Environmental Law Institute Environmental Forum',
         url: 'https://www.eli.org',
       },
+      datePublished: '2012-11',
       author: { '@id': JED_ID },
+      isPartOf: {
+        '@type': 'PublicationVolume',
+        volumeNumber: '29',
+        isPartOf: {
+          '@type': 'Periodical',
+          name: 'The Environmental Forum',
+        },
+      },
     },
     {
       '@type': 'Event',
