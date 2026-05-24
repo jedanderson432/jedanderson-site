@@ -37,7 +37,7 @@ I didn't have the framing then. I just had the feeling that something wasn't wor
 
 So I did what lawyers do. I tried to fix it from the inside.
 
-I spent the next twelve years arguing that the system needed structural reform. First as an attorney at Vinson & Elkins. Then as a founding partner of the AL Law Group, with an Of Counsel relationship to Bracewell & Giuliani. I taught the Clean Air Act as an adjunct professor at the University of Houston Law School. I started the SIP Transformation Workgroup. I wrote articles, gave talks, testified before the Texas Senate Committee on Natural Resources, met with the EPA.
+I spent the next twelve years arguing that the system needed structural reform. I had begun my career at Baker Botts in 1998, moved to Vinson & Elkins in 2001, and in 2003 became a founding partner of the AL Law Group with an Of Counsel relationship to Bracewell & Giuliani. I taught the Clean Air Act as an adjunct professor at the University of Houston Law School. I started the SIP Transformation Workgroup. I wrote articles, gave talks, testified before the Texas Senate Committee on Natural Resources, met with the EPA.
 
 In 2016, after a decade of this work, I did something nobody had done before: I rewrote the Clean Air Act from its foundations. The first complete redraft of the Act in U.S. history. I published the legislative text, an executive summary, and a book about the effort called *A Victorious Defeat*.
 
