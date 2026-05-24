@@ -152,3 +152,15 @@ The corpus has recurring physical claims that should always cite a single canoni
 Drafting rule: if an essay invokes one of these claims, link to the canonical page at first mention. Do not re-derive. The canonical page does the derivation work; the citing essay does the application work.
 
 **Phase 8 — Canonical-citation check.** After Phase 7 (archive) and before Phase 9 (report), grep the newly ingested essays for the discovery patterns in `docs/BOND_BIT_CITATION_AUDIT.md` (or the analogous audit doc for whichever canonical claim is in play) and flag any matches for citation conversion before the build commit. Specifically: any new essay that mentions Landauer's bound, the bond-bit ratio numerically (200×/239/240×/270×), C–H/C–C/O–H bond enthalpy, `kT ln 2`, "orders of magnitude cheaper", or HCN bandwidth must either (a) link to the relevant canonical page at first mention, or (b) be explicitly flagged as deriving a new canonical figure that supersedes one of the entries in the table above. Anything in between gets reclassified per the audit doc's class (a)/(b)/(c)/(d)/(e) scheme and resolved before the commit goes through.
+
+## Adding talks and press entries
+
+Include in /talks if all four are true: (1) named institutional venue—national professional association, university, government, established podcast or magazine; (2) public-facing; (3) durable URL exists; (4) the talk is actually about Jed's published work or expertise.
+
+Include in /about Selected press if all four are true: (1) named outlet—regional newspaper or higher; (2) durable URL; (3) named coverage of Jed or his work; (4) not paywalled or behind login.
+
+Exclude in both: corporate or private audiences; internal trainings; data-aggregator sites (TheOrg, RocketReach, ZoomInfo, ContactOut, Avvo, Justia); narrow trade-association speaker bios (FENG, TAEP, TexasChemistry.org); vanity metrics; vague "recognized as expert" framing without a specific named source.
+
+Target steady state: /talks at 8–15 entries, Selected press at 5–10 entries. Above those counts, signal dilution exceeds marginal credibility added.
+
+When in doubt, omit. A curated list of strong entries beats an exhaustive list that includes weak ones.
