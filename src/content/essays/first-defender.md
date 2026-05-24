@@ -5,7 +5,7 @@ subtitle: "Four Billion Years of Evolution Produced One Species Capable of Savin
 date: 2026-05-09
 type: essay
 status: published
-tags: ["cornerstone", "foundational", "environmental-superintelligence", "deutsch", "hard-to-vary", "cosmic-ledger", "enviroai"]
+tags: ["cornerstone", "environmental-superintelligence", "deutsch", "hard-to-vary", "cosmic-ledger", "enviroai"]
 abstract: "An essay—and the founding case for environmental superintelligence. The four-billion-year arc from extinction-vulnerable biosphere to knowledge-creating defender, and why the species that built fossil-fuel infrastructure is also the only species that has ever solved a planetary problem."
 license: CC-BY-4.0
 pdf: "/pdfs/first-defender.pdf"

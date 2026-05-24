@@ -5,7 +5,7 @@ subtitle: "Every Measurement, Every Bit, Every Beginning"
 date: 2026-05-18
 type: essay
 status: published
-tags: ["foundational", "physics", "information-theory", "holography", "wheeler", "treatise", "paper"]
+tags: ["physics", "information-theory", "holography", "wheeler", "treatise", "paper"]
 abstract: "Identifies every measurement event as a literal white-hole emission—not as metaphor but as the same geometry and dynamics. Six independent first-principles arguments (CPT symmetry, the Born rule as emission spectrum, Wheeler's 'It from Bit,' the Two-State Vector Formalism, ER=EPR, and Penrose's Weyl Curvature Hypothesis) converge on the claim that the Big Bang is the one white hole and every observation since is a local replay of its emission. The Boundary Dominance Principle reads measurement as boundary inscription at the smallest scale."
 license: CC-BY-4.0
 pdf: "/pdfs/one-white-hole.pdf"

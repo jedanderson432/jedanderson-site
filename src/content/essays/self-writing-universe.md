@@ -5,7 +5,7 @@ slug: 'self-writing-universe'
 date: 2026-03-12
 type: essay
 status: published
-tags: ['foundational', 'holography', 'physics', 'wheeler', 'bekenstein', 'godel', 'treatise', 'paper']
+tags: ['holography', 'physics', 'wheeler', 'bekenstein', 'godel', 'treatise', 'paper']
 abstract: 'Argues from five experimentally confirmed pillars—Bekenstein–Hawking entropy, holography / AdS-CFT, decoherence, Landauer, and Lawvere''s fixed-point theorem—that the universe writes itself into existence through irreversible physical interactions, each of which inscribes information on the holographic boundary. Tiers physical systems by self-referential depth and locates Gödelian limits at the horizon of self-description.'
 license: CC-BY-4.0
 pdf: "/pdfs/self-writing-universe.pdf"

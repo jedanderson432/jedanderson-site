@@ -4,7 +4,7 @@ slug: 'generalized-functional-efficiency'
 date: 2026-01-18
 type: essay
 status: published
-tags: ['foundational', 'thermodynamics', 'physics', 'paper', 'enviroai', 'information-theory', 'treatise']
+tags: ['thermodynamics', 'physics', 'paper', 'enviroai', 'information-theory', 'treatise']
 abstract: 'Proposes Generalized Functional Efficiency (GFE = functional output per unit entropy production per unit mass) as a successor metric to Energy Rate Density for tracking the evolution of complex systems. Demonstrates that GFE rises monotonically by 50+ orders of magnitude across a 13.8-billion-year cosmological arc and resolves the apparent ''efficiency paradox'' that ERD encounters at the frontier of biological and technological evolution.'
 license: CC-BY-4.0
 co_authors: ['Google Gemini 3.0 Pro Deep Think', 'Grok-4.1 Deep Research', 'ChatGPT 5.2 Deep Research', 'Claude 4.5 Deep Research']

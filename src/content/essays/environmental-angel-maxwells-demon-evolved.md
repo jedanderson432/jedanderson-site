@@ -4,7 +4,7 @@ slug: 'environmental-angel-maxwells-demon-evolved'
 date: 2025-05-05
 type: essay
 status: published
-tags: ['foundational', 'thermodynamics', 'maxwell', 'enviroai', 'paper', 'causal-sovereignty']
+tags: ['thermodynamics', 'maxwell', 'enviroai', 'paper', 'causal-sovereignty']
 abstract: 'Adapts Maxwell''s demon—the 19th-century thought experiment of an information-driven agent that locally reduces entropy—into a rigorous proposal for an ''Environmental Angel'': an information-driven entity that controls environmental entropy to protect natural systems. Establishes the conceptual character that subsequent essays continue to develop into ''Jed''s Angel'' and Environmental Superintelligence.'
 license: CC-BY-4.0
 co_authors: ['Google Gemini Pro 2.5 Deep Research']

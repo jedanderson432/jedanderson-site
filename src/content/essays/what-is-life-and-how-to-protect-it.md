@@ -5,7 +5,7 @@ slug: 'what-is-life-and-how-to-protect-it'
 date: 2026-01-30
 type: essay
 status: published
-tags: ['foundational', 'information-theory', 'thermodynamics', 'physics', 'treatise', 'paper', 'enviroai']
+tags: ['information-theory', 'thermodynamics', 'physics', 'treatise', 'paper', 'enviroai']
 abstract: 'Picks up Schrödinger''s 1944 question with eighty years of information-thermodynamics in hand and answers it: life is the universe''s optimization process for converting dissipation into function, traceable as a 50-order-of-magnitude rise in Generalized Functional Efficiency over 13.8 billion years. The same physics that explains what life is also explains how to protect it—by engineering the bond-bit asymmetry rather than fighting entropy with mass.'
 license: CC-BY-4.0
 co_authors: ['Grok-4.1 Deep Research', 'Gemini 3.0 Pro Deep Think', 'ChatGPT 5.2', 'Claude Opus 4.5 Research']

@@ -5,7 +5,7 @@ slug: 'observation-is-protection'
 date: 2026-04-13
 type: essay
 status: published
-tags: ['foundational', 'enviroai', 'information-theory', 'wheeler', 'landauer', 'causal-sovereignty', 'paper', 'treatise']
+tags: ['enviroai', 'information-theory', 'wheeler', 'landauer', 'causal-sovereignty', 'paper', 'treatise']
 abstract: 'Derives—from Landauer''s principle, Sagawa–Ueda mutual-information work extraction, and Bardos–Lebeau–Rauch boundary observability theory—the proposition that observation is not a precondition of environmental protection but is itself the protective act. Every catastrophic environmental event was preceded by physically encoded information that was never promoted to the epistemic boundary; the universe''s spontaneous processes, given a question, configure themselves toward order.'
 license: CC-BY-4.0
 co_authors: ['Claude Opus 4.6']

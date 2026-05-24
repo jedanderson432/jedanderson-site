@@ -4,7 +4,7 @@ slug: 'law-of-unthinking-holographic-negentropic-framework'
 date: 2025-08-08
 type: essay
 status: published
-tags: ['foundational', 'holography', 'thermodynamics', 'whitehead', 'enviroai', 'treatise', 'paper']
+tags: ['holography', 'thermodynamics', 'whitehead', 'enviroai', 'treatise', 'paper']
 abstract: 'Synthesizes Whitehead''s Law of Unthinking with a Holographic Negentropic Framework into a single blueprint for moving from reactive environmental protection to proactive planetary thriving. Formalizes ''unthinking'' (the externalization of routine cognition) as a thermodynamic imperative and grounds the holographic principle in the architecture of an Environmental General Intelligence.'
 license: CC-BY-4.0
 co_authors: ['ChatGPT-5']
