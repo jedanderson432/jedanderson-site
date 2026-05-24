@@ -34,25 +34,11 @@ const foundational = sorted.filter(
   (e) => e.data.tags?.includes('foundational') && !e.data.tags?.includes('cornerstone'),
 );
 const recent = sorted.slice(0, 6);
-
-const personSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'Person',
-  name: SITE.author,
-  url: SITE.url,
-  description: SITE.description,
-  jobTitle:
-    'Creator and CEO of EnviroAI; Environmental Attorney; Adjunct Professor of Law, University of Houston Law Center',
-  worksFor: {
-    '@type': 'Organization',
-    name: 'EnviroAI',
-    url: 'https://enviro.ai',
-  },
-  sameAs: [SITE.github].filter(Boolean),
-};
+// Site-wide Person/Organization/WebSite JSON-LD is emitted by
+// BaseLayout via lib/site-entities; no page-scoped schema needed here.
 ---
 
-<BaseLayout title={undefined} description={SITE.description} jsonLd={personSchema}>
+<BaseLayout title={undefined} description={SITE.description}>
   {/* Masthead. Tightened vertical rhythm so the first row of
       Foundational treatises sits above the fold on a standard
       1080px desktop viewport. */}

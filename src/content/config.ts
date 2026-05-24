@@ -1,6 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 
-const CONTENT_TYPES = ['essay', 'post', 'book', 'letter'] as const;
+const CONTENT_TYPES = ['essay', 'post', 'book', 'letter', 'speech'] as const;
 
 const SUPPORTING_FILE_TYPES = [
   'pdf',
@@ -79,6 +79,14 @@ const baseSchema = z.object({
   // a schema.org Thing in the ScholarlyArticle `about` array.
   about: z.array(z.string()).optional(),
 
+  // Speech/talk-specific fields. The talk happens off-site; this site
+  // hosts a stub page that links to the canonical recording.
+  external_url: z.string().url().optional(),
+  host_org: z.string().optional(),
+  host_url: z.string().url().optional(),
+  video_embed: z.string().optional(), // YouTube video ID
+  audio_embed: z.string().url().optional(), // Transistor.fm / podcast embed URL
+
   // Explicit ordering for the homepage "Start here" section. When set,
   // cornerstone essays sort by this integer ascending (1, 2, 3, ...).
   // Cornerstones without the field fall to the bottom in date-desc order.
@@ -111,6 +119,7 @@ export const collections = {
   posts: baseCollection,
   books: bookCollection,
   letters: baseCollection,
+  speeches: baseCollection,
 };
 
 export type ContentFrontmatter = z.infer<typeof baseSchema>;

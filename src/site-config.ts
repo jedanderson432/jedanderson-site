@@ -24,6 +24,7 @@ export const TYPE_TO_COLLECTION = {
   post: 'posts',
   book: 'books',
   letter: 'letters',
+  speech: 'speeches',
 } as const;
 
 export const COLLECTION_TO_TYPE = {
@@ -31,19 +32,21 @@ export const COLLECTION_TO_TYPE = {
   posts: 'post',
   books: 'book',
   letters: 'letter',
+  speeches: 'speech',
 } as const;
 
-export const COLLECTIONS = ['essays', 'posts', 'books', 'letters'] as const;
+export const COLLECTIONS = ['essays', 'posts', 'books', 'letters', 'speeches'] as const;
 
 export const TYPE_LABELS: Record<string, string> = {
   essay: 'Essay',
   post: 'Post',
   book: 'Book',
   letter: 'Letter',
+  speech: 'Talk',
 };
 
 // Order in which collections appear in the homepage Browse section
 // and the header nav.
-export const NAV_COLLECTIONS = ['essays', 'posts', 'books', 'letters'] as const;
+export const NAV_COLLECTIONS = ['essays', 'posts', 'books', 'speeches', 'letters'] as const;
 
 export type CollectionName = (typeof COLLECTIONS)[number];
