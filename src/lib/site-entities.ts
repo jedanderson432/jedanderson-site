@@ -14,10 +14,14 @@
 
 import { SITE } from '../site-config';
 
-// First paragraph of /about, used as the canonical description on
-// the Person node. Kept in sync with the visible About copy.
-export const JED_BIO_PARAGRAPH =
-  'Jed Anderson is the Creator and CEO of EnviroAI, a Houston-based company building environmental superintelligence—a physics-grounded, real-time information infrastructure for the biosphere. Before EnviroAI, he spent twenty-seven years as an environmental attorney, practicing at Baker Botts and Vinson & Elkins before co-founding The AL Law Group in 2009. He serves as Adjunct Professor of Law at the University of Houston Law School, where he teaches the Clean Air Act, and is the author of A Victorious Defeat: 10 Years Reforming the Clean Air Act (2016).';
+// Canonical Person.description — short, entity-anchored, three-phase
+// framing. Mirrors the "Arc" timeline on /about: working within the
+// system (1998–2005), reforming it (2005–2017), transforming it via
+// EnviroAI (2017–present). Replaces an earlier long-form bio
+// paragraph; kept terse so search engines and AI ingest pipelines
+// surface the credential structure, not prose.
+export const JED_DESCRIPTION =
+  '27-year arc across three phases—working within the environmental regulatory system, attempting to reform it through the first complete U.S. redraft of the Clean Air Act, and now building environmental superintelligence at EnviroAI.';
 
 export const JED_ID = `${SITE.url}/about#jed-anderson`;
 export const ENVIROAI_ID = 'https://enviro.ai/#enviroai';
@@ -40,7 +44,7 @@ export const jedPersonSchema = {
   '@id': JED_ID,
   name: SITE.author,
   url: SITE.url,
-  description: JED_BIO_PARAGRAPH,
+  description: JED_DESCRIPTION,
   jobTitle:
     'Creator and CEO, EnviroAI; Environmental Attorney, The AL Law Group; Adjunct Professor of Law, University of Houston Law School',
   email: `mailto:${SITE.email}`,
