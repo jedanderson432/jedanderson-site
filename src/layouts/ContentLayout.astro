@@ -47,7 +47,13 @@ const dateLong = longFmt.format(data.date);
 const originalDateLong = data.original_date ? longFmt.format(data.original_date) : null;
 
 const isPaper = data.type === 'paper';
-const isScholarlyArticle = data.schema_type === 'ScholarlyArticle' || isPaper;
+// Auto-promote foundational essays (type=essay AND tags includes
+// "foundational") to ScholarlyArticle JSON-LD, in addition to any
+// piece with explicit `schema_type: ScholarlyArticle` or type=paper.
+const isFoundationalEssay =
+  data.type === 'essay' && Array.isArray(data.tags) && data.tags.includes('foundational');
+const useScholarlyArticle =
+  data.schema_type === 'ScholarlyArticle' || isFoundationalEssay || isPaper;
 
 const licenseUrl = data.license?.startsWith('CC0')
   ? 'https://creativecommons.org/publicdomain/zero/1.0/'
@@ -55,12 +61,17 @@ const licenseUrl = data.license?.startsWith('CC0')
 
 let articleSchema: Record<string, any>;
 
-if (data.schema_type === 'ScholarlyArticle') {
-  // Canonical-citation-grade schema. Distinct from the default Article
-  // (and from the `type === 'paper'` ScholarlyArticle) in three ways:
-  // uses `abstract` not `description`, `publisher` is an Organization
-  // not a Person, and we wire DOI as an identifier + sameAs when set.
+if (useScholarlyArticle) {
+  // Canonical-citation-grade schema. Author and publisher are both
+  // Person (Jed Anderson is the publisher of his own corpus). Keywords
+  // come from frontmatter `keywords` when set, otherwise fall back to
+  // tags. `about` becomes an array of Thing entities. `dateModified`
+  // is only emitted when frontmatter `date_modified` is set.
   const doiUrl = data.doi ? `https://doi.org/${data.doi}` : null;
+  const keywordsValue =
+    Array.isArray(data.keywords) && data.keywords.length > 0
+      ? data.keywords.join(', ')
+      : data.tags?.join(', ');
   articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'ScholarlyArticle',
@@ -69,30 +80,42 @@ if (data.schema_type === 'ScholarlyArticle') {
     abstract: data.abstract,
     author: {
       '@type': 'Person',
-      name: 'Jed Anderson',
+      name: data.author ?? SITE.author,
       url: 'https://jedanderson.org/about',
     },
     datePublished: data.date.toISOString(),
+    ...(data.date_modified
+      ? { dateModified: data.date_modified.toISOString() }
+      : {}),
     ...(data.original_date
       ? { dateCreated: data.original_date.toISOString() }
       : {}),
     url: canonicalUrl,
+    mainEntityOfPage: canonicalUrl,
     identifier: doiUrl ? [canonicalUrl, doiUrl] : canonicalUrl,
     ...(doiUrl ? { sameAs: [doiUrl] } : {}),
     license: licenseUrl,
     publisher: {
-      '@type': 'Organization',
-      name: 'Jed Anderson',
-      url: 'https://jedanderson.org',
+      '@type': 'Person',
+      name: data.author ?? SITE.author,
+      url: SITE.url,
     },
-    keywords: data.tags?.join(', '),
+    keywords: keywordsValue,
+    ...(Array.isArray(data.about) && data.about.length > 0
+      ? {
+          about: data.about.map((name: string) => ({
+            '@type': 'Thing',
+            name,
+          })),
+        }
+      : {}),
     inLanguage: 'en',
     isAccessibleForFree: true,
   };
 } else {
   articleSchema = {
     '@context': 'https://schema.org',
-    '@type': isPaper ? 'ScholarlyArticle' : 'Article',
+    '@type': 'Article',
     headline: data.title,
     description: data.abstract,
     datePublished: data.date.toISOString(),

@@ -36,6 +36,12 @@ const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] 
     essay: 'essays/thermodynamic-foundations-of-entropic-shepherding',
   },
   {
+    name: 'Bond-Bit Ratio',
+    definition:
+      'The canonical floor ratio (240×) between the Landauer bound at 300 K and one C–H bond enthalpy. The citation-grade form of the Bond-Bit Asymmetry.',
+    essay: 'essays/bond-bit-ratio',
+  },
+  {
     name: 'Environmental Superintelligence',
     definition:
       "AI that models, predicts, and optimizes Earth's physical systems — the species-scale defender that closes the four-billion-year gap between a biosphere repeatedly cleared by extinction events and one that can finally read the clock.",

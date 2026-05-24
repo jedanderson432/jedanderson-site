@@ -55,13 +55,29 @@ const baseSchema = z.object({
 
   // When set to "ScholarlyArticle", ContentLayout emits a richer
   // schema.org ScholarlyArticle JSON-LD block instead of the default
-  // Article schema — used for canonical-citation-grade essays.
+  // Article schema. Foundational essays (type: essay AND tags
+  // including "foundational") auto-promote to ScholarlyArticle even
+  // without this field set.
   schema_type: z.enum(['ScholarlyArticle']).optional(),
 
   // Placeholder for a Zenodo (or similar) DOI registered against the
   // PDF. When non-empty, emitted as an identifier and sameAs entry in
   // the ScholarlyArticle JSON-LD.
   doi: z.string().optional(),
+
+  // Most recent substantive revision date. When present, emitted as
+  // schema.org `dateModified` in the ScholarlyArticle JSON-LD. The
+  // canonical publication date (`date`) is never overwritten.
+  date_modified: z.coerce.date().optional(),
+
+  // SEO/search keywords for ScholarlyArticle JSON-LD. Distinct from
+  // `tags` (which drive on-site organization). When present, used in
+  // place of tags as the `keywords` field of the schema block.
+  keywords: z.array(z.string()).optional(),
+
+  // Subject-matter entities the page is "about". Each string becomes
+  // a schema.org Thing in the ScholarlyArticle `about` array.
+  about: z.array(z.string()).optional(),
 
   // Explicit ordering for the homepage "Start here" section. When set,
   // cornerstone essays sort by this integer ascending (1, 2, 3, ...).
