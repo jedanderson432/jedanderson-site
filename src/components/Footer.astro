@@ -1,4 +1,9 @@
 ---
+// Canonical site footer. Single source of truth for the secondary
+// link row (Archive · Data · GitHub · RSS · llms.txt) and the
+// license/copyright/contact stripe. Imported by BaseLayout.astro
+// and propagated to every route on rebuild. Do NOT duplicate this
+// markup inline on any page — change it here once.
 import { SITE } from '../site-config';
 const year = new Date().getUTCFullYear();
 ---
