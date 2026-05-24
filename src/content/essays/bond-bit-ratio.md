@@ -15,11 +15,22 @@ pdf_canonical: true
 schema_type: ScholarlyArticle
 doi: ""
 show_abstract_on_page: true
+date_modified: 2026-05-24
+keywords:
+  - "Landauer's principle"
+  - "bond-bit asymmetry"
+  - "information physics"
+  - "environmental superintelligence"
+  - "thermodynamics"
+about:
+  - "Landauer's principle"
+  - "chemical bond energy"
+  - "information theory"
 ---
 
-*Version 1.0—May 23, 2026. Permanent URL. Any revisions logged in a "Revision history" section appended to this page; the URL and slug never change.*
+*Version 1.1—May 24, 2026 (originally published May 23, 2026). Permanent URL. Revisions logged in the "Revision history" section at the bottom of this page; the URL and slug never change.*
 
-> **Plain-language summary.** Moving information costs at least 240 times less energy than moving matter. This is a floor—the gap is wider in practice. The number is set by physics and cannot be argued down.
+> **Plain-language summary.** Erasing one bit of information costs at least 240 times less energy than breaking one chemical bond. This is a floor set by the second law of thermodynamics—no future engineering can push the ratio below it. In deployed systems the gap is already 10⁸ to 10¹² times wider. The number is set by physics and cannot be argued down.
 
 ## 1. The question
 
@@ -43,6 +54,8 @@ E_bit ≈ (1.380649 × 10⁻²³ J/K) × (300 K) × (0.6931)
       ≈ **2.870 × 10⁻²¹ J/bit**
 
 This is the *Landauer bound at 300 K*. It is the floor—the smallest physically possible energetic cost of irreversibly handling one bit of information in our atmosphere.
+
+**A note on conventions.** Landauer's bound applies strictly to logically irreversible operations; reversible computation in principle has no such floor, which would only widen the asymmetry further. The bound also scales linearly with temperature—at cryogenic temperatures (4 K) the floor drops by roughly 75×. We evaluate at 300 K because every chemical transformation a biosphere cares about happens near planetary surface temperature, which is the relevant regime for environmental claims.
 
 ## 3. The bond comparison
 
@@ -96,3 +109,19 @@ If you cite the 240× figure in a paper, talk, model, or argument, please cite t
 ```
 
 APA and MLA forms are rendered in the *Cite this* block below.
+
+## 7. Where this ratio is used in the corpus
+
+This page is the canonical derivation. The 240× figure is load-bearing in:
+
+- [Bits Protect Its](/essays/bits-protect-its)—the full treatise behind the site's thesis
+- [The Intelligence Leverage Equation](/essays/intelligence-leverage-equation)—Λ = Mc² / (I·k_BT·ln 2), the dimensionless form of the asymmetry
+- [AI Is Now Writing More of Reality Than We Are](/essays/ai-is-now-writing-more-of-reality)—bit-rate estimates built on the Landauer floor
+- [The Missing $Quadrillion](/essays/missing-quadrillion)—the economic channel that the bond-bit asymmetry opens
+- [The Physics of Zero-Cost Stewardship](/essays/the-physics-of-zero-cost-stewardship)—the asymptotic case
+- [The Thermodynamic Foundations of Entropic Shepherding](/essays/thermodynamic-foundations-of-entropic-shepherding)—the first-principles derivation of the leverage equation
+
+## Revision history
+
+- **v1.1—2026-05-24.** Clarifications and forward-reference section. Tightened the plain-language summary to specify bits and bonds explicitly and to surface the 10⁸–10¹² operational gap. Added a *note on conventions* at the end of section 2 covering reversible computation and the temperature dependence of the bound. Added section 7 listing the essays in which the 240× figure is load-bearing.
+- **v1.0—2026-05-23.** Initial publication.
