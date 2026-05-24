@@ -86,7 +86,7 @@ The 240× figure is a **floor ratio**. It compares two theoretical lower bounds:
 - *Numerator:* the minimum energy to dissociate one chemical bond, set by chemistry.
 - *Denominator:* the minimum dissipation of one irreversible bit operation, set by the second law.
 
-Neither bound describes what real systems pay. Real CMOS computation in 2024 dissipates on the order of 10⁻¹⁵ J per bit operation—roughly six orders of magnitude above Landauer. Real industrial chemistry typically expends 10² to 10³ times the bare bond enthalpy on activation energy, heat losses, and process inefficiencies. The two real-world gaps do not cancel; they compound in information's favor.
+Neither bound describes what real systems pay. Real CMOS computation as of 2024 dissipates on the order of 10⁻¹⁵ J per bit operation—roughly six orders of magnitude above Landauer. Real industrial chemistry typically expends 10² to 10³ times the bare bond enthalpy on activation energy, heat losses, and process inefficiencies. The two real-world gaps do not cancel; they compound in information's favor.
 
 The end-to-end *operational* ratio of "real cost to move a bit" versus "real cost to break a bond" is therefore not 240. In deployed systems it is typically in the range of **10⁸ to 10¹²**—eight to twelve orders of magnitude. The 240× figure is the **narrowest, most conservative, irreducible version** of the bond-bit asymmetry.
 

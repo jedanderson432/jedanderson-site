@@ -37,8 +37,39 @@ function surnameFirst(name: string): string {
   return `${last}, ${parts.join(' ')}`;
 }
 
+// Per-slug BibTeX overrides. When a piece carries a hand-authored
+// inline BibTeX block in its body (typically in a "How to cite this
+// page" section), the auto-generated Cite-this widget must reproduce
+// it verbatim so the two never drift. Register the canonical form
+// here; APA and MLA continue to derive from the default fields.
+const BIBTEX_OVERRIDES: Record<
+  string,
+  { key: string; title: string; author: string; note: string }
+> = {
+  'bond-bit-ratio': {
+    key: 'anderson2026bondbit',
+    title:
+      'The Bond-Bit Ratio: A derivation of why information is at least 240{\\texttimes} cheaper than force',
+    author: 'Anderson, Jed',
+    note:
+      "Derives the floor ratio between Landauer's bound at 300 K and one C--H bond enthalpy.",
+  },
+};
+
 export function bibtex(c: CitationInput, today: Date = new Date()): string {
   const year = c.date.getUTCFullYear();
+  const override = BIBTEX_OVERRIDES[c.slug];
+  if (override) {
+    return [
+      `@misc{${override.key},`,
+      `  author = {${override.author}},`,
+      `  title  = {${override.title}},`,
+      `  year   = {${year}},`,
+      `  url    = {${c.canonicalUrl}},`,
+      `  note   = {${override.note}}`,
+      `}`,
+    ].join('\n');
+  }
   const todayIso = today.toISOString().slice(0, 10);
   const authors = authorList(c).join(' and ');
   const key = `anderson_${year}_${c.slug.replace(/-/g, '_')}`;

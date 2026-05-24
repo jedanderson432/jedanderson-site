@@ -5,7 +5,7 @@ subtitle: "Two trajectories meet, only once, right now"
 date: 2026-05-13
 type: essay
 status: published
-tags: ["foundational", "visual-essay", "enviroai", "cosmic-ledger", "ai", "deutsch"]
+tags: ["visual-essay", "enviroai", "cosmic-ledger", "ai", "deutsch"]
 abstract: "Companion to The First Defender. After 3.8 billion years, life on Earth produced a species capable of teaching a planet to know itself. After 76 years, the student—machine intelligence—arrived. The two timelines meet in a window measured in years. The humans alive today who carry biosphere knowledge are the only humans, in 3.8 billion years, who will ever get to be the teachers of the system the biosphere needs."
 license: CC-BY-4.0
 pdf: "/pdfs/convergence.pdf"
