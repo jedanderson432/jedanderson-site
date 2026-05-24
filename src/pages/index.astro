@@ -34,6 +34,13 @@ const foundational = sorted.filter(
   (e) => e.data.tags?.includes('foundational') && !e.data.tags?.includes('cornerstone'),
 );
 const recent = sorted.slice(0, 6);
+// "About this work" surfaces the personal/narrative on-ramp essay
+// (The Arc) above Start here. Distinct from Start here, which holds
+// the conceptual cornerstones. Resolved by slug so the section auto-
+// hides if the essay is unpublished.
+const aboutThisWork = sorted.find(
+  (e: any) => e.collection === 'essays' && e.slug === 'the-arc',
+);
 // Site-wide Person/Organization/WebSite JSON-LD is emitted by
 // BaseLayout via lib/site-entities; no page-scoped schema needed here.
 ---
@@ -55,6 +62,19 @@ const recent = sorted.slice(0, 6);
       of nature.
     </p>
   </section>
+
+  {aboutThisWork && (
+    <section class="mx-auto max-w-5xl px-4 pt-10 pb-4">
+      <h2 class="font-serif text-2xl text-accent mb-2">About this work</h2>
+      <hr class="border-accent/40 mb-6" />
+      <p class="text-base text-ink">
+        <a href={canonicalPath(aboutThisWork)} class="font-serif text-lg hover:text-accent">
+          {aboutThisWork.data.title}
+        </a>
+        <span class="text-muted"> — {aboutThisWork.data.subtitle ?? aboutThisWork.data.abstract}.</span>
+      </p>
+    </section>
+  )}
 
   {cornerstone.length > 0 && (
     <section class="mx-auto max-w-5xl px-4 pt-10 pb-16">

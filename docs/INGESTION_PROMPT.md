@@ -164,3 +164,8 @@ Exclude in both: corporate or private audiences; internal trainings; data-aggreg
 Target steady state: /talks at 8–15 entries, Selected press at 5–10 entries. Above those counts, signal dilution exceeds marginal credibility added.
 
 When in doubt, omit. A curated list of strong entries beats an exhaustive list that includes weak ones.
+
+For paywalled or member-only publications where Jed is the author or subject:
+- Do NOT create a visible essay, talks, or Selected press entry
+- DO include in Person schema subjectOf array as Article metadata
+- If Jed later obtains republication rights, the visible entry can be added at that time with canonical_url pointing to the original venue

@@ -19,6 +19,9 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - tceq — Texas Commission on Environmental Quality, state-level air regulation
 - simplicity — the philosophical argument that complex statutes fail by complexity itself
 - ai — applied AI to environmental regulation (CERES, the pre-EnviroAI project)
+- environmental-superintelligence — the long-form term for the ESI project; reserved for pieces where ESI is the headline subject, not a passing reference
+- personal — pieces grounded in first-person experience or autobiography rather than abstract argument
+- narrative — pieces structured as a story/arc rather than a treatise; often paired with `personal`
 
 ## Thinker tags (engages a specific argument)
 - deutsch, wheeler, yudkowsky, whitehead, landauer, bekenstein

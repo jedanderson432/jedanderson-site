@@ -15,6 +15,16 @@ const profilePageSchema = {
   mainEntity: { '@id': JED_ID },
 };
 
+const arcImageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ImageObject',
+  contentUrl: `${SITE.url}/images/the-arc.png`,
+  name: 'The Arc',
+  description:
+    'Three-phase career timeline: Work within the System (1998-2005), Reform the System (2005-2017), Transform the System (2017-present, projected to 2045).',
+  creator: { '@id': JED_ID },
+};
+
 const aboutMetaDescription =
   'Environmental attorney, Creator and CEO of EnviroAI, Adjunct Professor of Law at the University of Houston, originator of environmental superintelligence.';
 ---
@@ -22,10 +32,30 @@ const aboutMetaDescription =
 <BaseLayout
   title="About"
   description={aboutMetaDescription}
-  jsonLd={profilePageSchema}
+  jsonLd={[profilePageSchema, arcImageSchema]}
 >
   <article class="mx-auto max-w-3xl px-4 py-16 prose prose-lg max-w-none">
     <h1 id="jed-anderson">About</h1>
+
+    {/* Arc timeline. Wide-format graphic; render at full container width
+        on desktop, and use overflow-x-auto on mobile so the timeline
+        keeps its labels legible rather than shrinking text to nothing. */}
+    <figure class="not-prose my-6 -mx-4 sm:mx-0 overflow-x-auto">
+      <img
+        src="/images/the-arc.png"
+        alt="The Arc—a timeline showing three career phases from 1998 to 2045: Work within the System, Reform the System, and Transform the System, marking the path toward environmental superintelligence."
+        class="block w-full min-w-[720px] max-w-none h-auto"
+        loading="eager"
+      />
+      <figcaption class="text-sm italic text-muted text-center mt-3 px-4">
+        Three phases—working within the environmental regulatory system, attempting to reform it, and now building the successor framework at EnviroAI.
+      </figcaption>
+    </figure>
+
+    <p class="text-sm text-muted">
+      The long-form version of this arc is at <a href="/essays/the-arc">The Arc</a>.
+    </p>
+
     <p>
       Jed Anderson is the Creator and CEO of EnviroAI, a Houston-based company
       building environmental superintelligence—a physics-grounded, real-time
