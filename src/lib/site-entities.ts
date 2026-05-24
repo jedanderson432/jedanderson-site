@@ -128,6 +128,40 @@ export const jedPersonSchema = {
     },
     {
       '@type': 'NewsArticle',
+      headline: "TCEQ won't pursue foreign smog relief",
+      url: 'https://www.chron.com/news/houston-texas/article/tceq-won-t-pursue-foreign-smog-relief-2081036.php',
+      publisher: {
+        '@type': 'Organization',
+        name: 'Houston Chronicle',
+        url: 'https://www.chron.com',
+      },
+      datePublished: '2011-05',
+    },
+    {
+      '@type': 'NewsArticle',
+      headline:
+        'Lawyer wants Texans not to pay for smog from Mexico, elsewhere',
+      url: 'https://www.beaumontenterprise.com/news/sciencehealth/article/lawyer-wants-texans-not-to-pay-for-smog-from-1391461.php',
+      publisher: {
+        '@type': 'Organization',
+        name: 'Beaumont Enterprise',
+        url: 'https://www.beaumontenterprise.com',
+      },
+      datePublished: '2011-05',
+    },
+    {
+      '@type': 'NewsArticle',
+      headline: 'Texas lawyer wants extra pollution controls nixed',
+      url: 'https://victoriaadvocate.com/2011/05/23/texas-lawyer-wants-extra-pollution-controls-nixed/',
+      publisher: {
+        '@type': 'Organization',
+        name: 'Victoria Advocate',
+        url: 'https://victoriaadvocate.com',
+      },
+      datePublished: '2011-05-23',
+    },
+    {
+      '@type': 'NewsArticle',
       headline:
         'Can AI reshape how we regulate air and water? Rice event explores future of environmental superintelligence',
       url: 'https://news.rice.edu/news/2026/can-ai-reshape-how-we-regulate-air-and-water-rice-event-explores-future-environmental',
@@ -156,6 +190,33 @@ export const jedPersonSchema = {
       publisher: {
         '@type': 'Organization',
         name: 'Economic Alliance Houston Port Region',
+      },
+    },
+    {
+      '@type': 'Event',
+      name: 'AI in the Environmental Field (AWMA Webinar)',
+      url: 'https://www.awma.org/content.asp?contentid=943',
+      startDate: '2025-12-03',
+      organizer: {
+        '@type': 'Organization',
+        name: 'Air & Waste Management Association',
+        url: 'https://www.awma.org',
+      },
+    },
+    {
+      '@type': 'Event',
+      name: 'AFPM 2023 Environmental Conference',
+      url: 'https://www.afpm.org/events/ENV23',
+      startDate: '2023-10-15',
+      endDate: '2023-10-17',
+      location: {
+        '@type': 'Place',
+        name: 'The Westin Riverwalk, San Antonio, TX',
+      },
+      organizer: {
+        '@type': 'Organization',
+        name: 'American Fuel and Petrochemical Manufacturers',
+        url: 'https://www.afpm.org',
       },
     },
   ],
