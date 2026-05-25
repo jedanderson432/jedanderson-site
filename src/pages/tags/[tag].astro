@@ -1,9 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { COLLECTIONS, TYPE_LABELS } from '../../site-config';
+import { COLLECTIONS, SITE, TYPE_LABELS } from '../../site-config';
 import { canonicalPath } from '../../lib/canonical';
 import { effectiveDate } from '../../lib/dates';
+import { JED_ID, WEBSITE_ID } from '../../lib/site-entities';
 
 export async function getStaticPaths() {
   const all: any[] = [];
@@ -27,11 +28,37 @@ export async function getStaticPaths() {
 }
 
 const { tag, entries } = Astro.props as { tag: string; entries: any[] };
+
+const tagDescription = `All pieces tagged "${tag}".`;
+const tagUrl = `${SITE.url}/tags/${tag}`;
+const tagSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${tagUrl}#page`,
+  url: tagUrl,
+  name: `Tagged: ${tag}`,
+  description: tagDescription,
+  isPartOf: { '@id': WEBSITE_ID },
+  author: { '@id': JED_ID },
+  inLanguage: 'en',
+  about: { '@type': 'Thing', name: tag },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: entries.length,
+    itemListElement: entries.map((e: any, idx: number) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      name: e.data.title,
+      url: `${SITE.url}${canonicalPath(e)}`,
+    })),
+  },
+};
 ---
 
 <BaseLayout
   title={`Tagged: ${tag}`}
-  description={`All pieces tagged "${tag}".`}
+  description={tagDescription}
+  jsonLd={tagSchema}
 >
   <section class="mx-auto max-w-3xl px-4 py-12">
     <p class="text-xs uppercase tracking-widest text-muted mb-2">Tag</p>
