@@ -56,6 +56,7 @@ const isFoundationalEssay =
 const useScholarlyArticle =
   data.schema_type === 'ScholarlyArticle' || isFoundationalEssay || isPaper;
 const isPost = data.type === 'post';
+const isBook = data.type === 'book';
 
 const licenseUrl = data.license?.startsWith('CC0')
   ? 'https://creativecommons.org/publicdomain/zero/1.0/'
@@ -69,6 +70,33 @@ const licenseUrl = data.license?.startsWith('CC0')
 // the canonical first-publication date.
 const datePublishedIso = (data.original_date ?? data.date).toISOString();
 const dateModifiedIso = (data.date_modified ?? data.date).toISOString();
+
+// Image and encoding are shared across all article variants (lifted
+// out so ScholarlyArticle also gets them, not just the Article branch).
+const imageUrl = data.hero_image
+  ? new URL(data.hero_image, SITE.url).toString()
+  : new URL('/og-default.png', SITE.url).toString();
+
+const pdfAbsoluteUrl = data.pdf ? new URL(data.pdf, SITE.url).toString() : null;
+
+// MediaObject array exposes the alternate retrieval surfaces for AI
+// ingestion: the `.md` endpoint for raw markdown, and the PDF when one
+// exists. Makes both schema-discoverable rather than only
+// HTML-affordance-discoverable.
+const encodingArr: Record<string, any>[] = [
+  {
+    '@type': 'MediaObject',
+    encodingFormat: 'text/markdown',
+    contentUrl: `${canonicalUrl}.md`,
+  },
+];
+if (pdfAbsoluteUrl) {
+  encodingArr.push({
+    '@type': 'MediaObject',
+    encodingFormat: 'application/pdf',
+    contentUrl: pdfAbsoluteUrl,
+  });
+}
 
 let articleSchema: Record<string, any>;
 
@@ -89,6 +117,7 @@ if (useScholarlyArticle) {
     headline: data.title,
     ...(data.subtitle ? { alternativeHeadline: data.subtitle } : {}),
     abstract: data.abstract,
+    description: data.abstract,
     author: { '@id': JED_ID },
     datePublished: datePublishedIso,
     dateModified: dateModifiedIso,
@@ -97,11 +126,14 @@ if (useScholarlyArticle) {
       : {}),
     url: canonicalUrl,
     mainEntityOfPage: canonicalUrl,
+    citation: canonicalUrl,
+    image: imageUrl,
     identifier: doiUrl ? [canonicalUrl, doiUrl] : canonicalUrl,
     ...(doiUrl ? { sameAs: [doiUrl] } : {}),
     license: licenseUrl,
     publisher: { '@id': JED_ID },
     isPartOf: { '@id': WEBSITE_ID },
+    encoding: encodingArr,
     keywords: keywordsValue,
     ...(Array.isArray(data.about) && data.about.length > 0
       ? {
@@ -114,13 +146,41 @@ if (useScholarlyArticle) {
     inLanguage: 'en',
     isAccessibleForFree: true,
   };
+} else if (isBook) {
+  // Book schema for type=book. Uses schema.org Book vocabulary
+  // (`name` instead of `headline`, optional isbn / bookFormat). Author
+  // and publisher reference the site-wide Person entity by @id.
+  articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Book',
+    '@id': `${canonicalUrl}#book`,
+    name: data.title,
+    ...(data.subtitle ? { alternativeHeadline: data.subtitle } : {}),
+    description: data.abstract,
+    author: { '@id': JED_ID },
+    publisher: { '@id': JED_ID },
+    datePublished: datePublishedIso,
+    dateModified: dateModifiedIso,
+    url: canonicalUrl,
+    mainEntityOfPage: canonicalUrl,
+    citation: canonicalUrl,
+    image: imageUrl,
+    encoding: encodingArr,
+    inLanguage: 'en',
+    isPartOf: { '@id': WEBSITE_ID },
+    license: licenseUrl,
+    ...(data.isbn ? { isbn: data.isbn } : {}),
+    ...(data.bookFormat
+      ? { bookFormat: `https://schema.org/${data.bookFormat}` }
+      : {}),
+    ...(Array.isArray(data.tags) && data.tags.length > 0
+      ? { keywords: data.tags.join(', ') }
+      : {}),
+  };
 } else {
-  // Posts get BlogPosting; everything else (books, letters, speeches,
-  // and non-foundational essays) gets Article.
+  // Posts get BlogPosting; letters, speeches, and non-foundational
+  // essays get Article.
   const articleType = isPost ? 'BlogPosting' : 'Article';
-  const imageUrl = data.hero_image
-    ? new URL(data.hero_image, SITE.url).toString()
-    : new URL('/og-default.png', SITE.url).toString();
   articleSchema = {
     '@context': 'https://schema.org',
     '@type': articleType,
@@ -131,7 +191,10 @@ if (useScholarlyArticle) {
     datePublished: datePublishedIso,
     dateModified: dateModifiedIso,
     url: canonicalUrl,
+    mainEntityOfPage: canonicalUrl,
+    citation: canonicalUrl,
     image: imageUrl,
+    encoding: encodingArr,
     inLanguage: 'en',
     isPartOf: { '@id': WEBSITE_ID },
     license: licenseUrl,

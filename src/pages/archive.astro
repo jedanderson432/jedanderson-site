@@ -1,9 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { COLLECTIONS, TYPE_LABELS } from '../site-config';
+import { COLLECTIONS, SITE, TYPE_LABELS } from '../site-config';
 import { canonicalPath } from '../lib/canonical';
 import { effectiveDate } from '../lib/dates';
+import { JED_ID, WEBSITE_ID } from '../lib/site-entities';
 
 const all: any[] = [];
 for (const c of COLLECTIONS) {
@@ -20,9 +21,33 @@ for (const e of all) {
   grouped.get(y)!.push(e);
 }
 const years = [...grouped.keys()].sort((a, b) => b - a);
+
+const archiveDescription = 'Full chronological index of every published piece.';
+const archiveUrl = `${SITE.url}/archive`;
+const archiveSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${archiveUrl}#page`,
+  url: archiveUrl,
+  name: 'Archive',
+  description: archiveDescription,
+  isPartOf: { '@id': WEBSITE_ID },
+  author: { '@id': JED_ID },
+  inLanguage: 'en',
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: all.length,
+    itemListElement: all.map((e: any, idx: number) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      name: e.data.title,
+      url: `${SITE.url}${canonicalPath(e)}`,
+    })),
+  },
+};
 ---
 
-<BaseLayout title="Archive" description="Full chronological index of every published piece.">
+<BaseLayout title="Archive" description={archiveDescription} jsonLd={archiveSchema}>
   <section class="mx-auto max-w-3xl px-4 py-12">
     <h1 class="font-serif text-4xl text-ink mb-2">Archive</h1>
     <p class="text-muted mb-10">Every published piece, newest first.</p>

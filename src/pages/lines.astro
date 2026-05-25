@@ -2,6 +2,8 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { loadLines } from '../lib/lines';
+import { SITE } from '../site-config';
+import { JED_ID, WEBSITE_ID } from '../lib/site-entities';
 
 const lines = loadLines();
 
@@ -37,12 +39,39 @@ const resolved: Resolved[] = lines.map((l) => {
 });
 
 const description = 'Sentences that carry the thesis. Each links to the essay it distills.';
+
+// CollectionPage wrapping an ItemList where each line is a ListItem.
+// Each line's anchor URL is its addressable identity for the schema
+// graph — same anchors the copy-link UI uses.
+const linesUrl = `${SITE.url}/lines`;
+const linesSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${linesUrl}#page`,
+  url: linesUrl,
+  name: 'Lines',
+  description,
+  isPartOf: { '@id': WEBSITE_ID },
+  author: { '@id': JED_ID },
+  inLanguage: 'en',
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: resolved.length,
+    itemListElement: resolved.map((l, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      name: l.text,
+      url: `${linesUrl}#${l.anchor}`,
+    })),
+  },
+};
 ---
 
 <BaseLayout
   title="Lines"
   description={description}
   ogImage="/og-lines.png"
+  jsonLd={linesSchema}
 >
   <article class="mx-auto max-w-3xl px-4 py-12">
     <h1 class="font-serif text-4xl text-ink mb-3">Lines</h1>

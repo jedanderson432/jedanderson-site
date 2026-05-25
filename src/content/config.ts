@@ -98,10 +98,15 @@ const baseSchema = z.object({
   supporting_files: z.array(supportingFileSchema).default([]),
 });
 
-// Books extend the base schema with two book-specific fields.
+// Books extend the base schema with book-specific fields. `bookFormat`
+// (when set) is emitted into the Book JSON-LD as schema.org's
+// BookFormatType — accepted values match the schema.org enum.
 const bookSchema = baseSchema.extend({
   external_url: z.string().url().optional(),
   isbn: z.string().optional(),
+  bookFormat: z
+    .enum(['Paperback', 'Hardcover', 'EBook', 'AudiobookFormat', 'GraphicNovel'])
+    .optional(),
 });
 
 const baseCollection = defineCollection({

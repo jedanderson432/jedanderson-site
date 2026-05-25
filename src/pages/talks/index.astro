@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { canonicalPath } from '../../lib/canonical';
 import { effectiveDate } from '../../lib/dates';
+import { SITE } from '../../site-config';
+import { JED_ID, WEBSITE_ID } from '../../lib/site-entities';
 
 const entries = await getCollection('speeches', ({ data }: any) => data.status === 'published');
 entries.sort((a: any, b: any) => +effectiveDate(b) - +effectiveDate(a));
@@ -12,11 +14,37 @@ const longFmt = new Intl.DateTimeFormat('en-US', {
   month: 'long',
   timeZone: 'UTC',
 });
+
+const talksDescription =
+  'Podcasts, lectures, and presentations on environmental superintelligence, AI, and the Clean Air Act.';
+const talksUrl = `${SITE.url}/talks`;
+const talksSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${talksUrl}#page`,
+  url: talksUrl,
+  name: 'Talks',
+  description: talksDescription,
+  isPartOf: { '@id': WEBSITE_ID },
+  author: { '@id': JED_ID },
+  inLanguage: 'en',
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: entries.length,
+    itemListElement: entries.map((e: any, idx: number) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      name: e.data.title,
+      url: `${SITE.url}${canonicalPath(e)}`,
+    })),
+  },
+};
 ---
 
 <BaseLayout
   title="Talks"
-  description="Podcasts, lectures, and presentations on environmental superintelligence, AI, and the Clean Air Act."
+  description={talksDescription}
+  jsonLd={talksSchema}
 >
   <section class="mx-auto max-w-3xl px-4 py-12">
     <h1 class="font-serif text-4xl text-ink mb-2">Talks</h1>
