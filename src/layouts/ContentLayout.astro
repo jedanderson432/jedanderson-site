@@ -289,15 +289,25 @@ if (useScholarlyArticle) {
               loading="eager"
             />
           </a>
-          {/* Three small affordances: the cover is the canonical artifact,
-              these are the alternate surfaces for AI ingestion / source
-              inspection. */}
-          <div class="mt-6 flex justify-center gap-x-6 gap-y-2 flex-wrap text-sm text-muted">
-            <a href={data.pdf} target="_blank" rel="noopener" class="hover:text-accent">
-              Read PDF{data.pdf_pages && ` · ${data.pdf_pages} pages`}
+          {/* The cover is the canonical artifact. Download is the
+              primary affordance — encourages saving the PDF locally
+              (some browsers' built-in PDF viewers don't render every
+              embedded image faithfully). View-in-browser, raw
+              markdown, and GitHub remain as secondary alternates for
+              AI ingestion and source inspection. */}
+          <div class="mt-6 flex justify-center items-center gap-x-5 gap-y-3 flex-wrap">
+            <a
+              href={data.pdf}
+              download
+              class="inline-flex items-center px-5 py-2 bg-accent text-paper rounded-[3px] font-sans text-sm no-underline tracking-wide hover:bg-ink transition-colors duration-200 shadow-sm hover:shadow-md"
+            >
+              Download PDF{data.pdf_pages && ` · ${data.pdf_pages} pages`}
             </a>
-            <a href={mdPath} class="hover:text-accent">Raw markdown</a>
-            <a href={githubUrl} target="_blank" rel="noopener" class="hover:text-accent">View on GitHub</a>
+            <a href={data.pdf} target="_blank" rel="noopener" class="text-sm text-muted hover:text-accent">
+              View in browser
+            </a>
+            <a href={mdPath} class="text-sm text-muted hover:text-accent">Raw markdown</a>
+            <a href={githubUrl} target="_blank" rel="noopener" class="text-sm text-muted hover:text-accent">View on GitHub</a>
           </div>
         </div>
         <hr class="border-rule mb-10" />
