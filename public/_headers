@@ -1,0 +1,20 @@
+# Netlify _headers — security headers for all routes.
+# Content-Type rules for .md / llms.txt / robots.txt / humans.txt live in
+# netlify.toml; Netlify merges both sources, so those endpoints keep their
+# correct Content-Type AND receive these security headers.
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: interest-cohort=()
+  # CSP exceptions (verified locally against /, /essays/first-defender,
+  # /letters/magnifica-vita, /llms.txt, /feed.xml — 0 violations):
+  #   script-src needs 'unsafe-inline' — every page emits inline
+  #     <script type="application/ld+json"> schema.org blocks, plus one
+  #     inline module that bootstraps the Pagefind search UI.
+  #   script-src needs 'unsafe-eval' — the Pagefind bootstrap uses
+  #     new Function() to dynamically import /pagefind/pagefind-ui.js
+  #     (evades bundler static analysis), and Pagefind instantiates WASM.
+  #   style-src needs 'unsafe-inline' per the baseline directive set.
+  Content-Security-Policy: default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; font-src 'self' data:; connect-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self'
