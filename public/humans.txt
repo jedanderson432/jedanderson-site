@@ -1,0 +1,11 @@
+/* TEAM */
+Author: Jed Anderson
+Site: https://jedanderson.org
+Contact: jedanderson432@gmail.com
+Location: Houston, Texas
+
+/* SITE */
+Last update: 2026-05-26
+Standards: HTML5, CSS3
+License: CC-BY-4.0
+Source: https://github.com/jedanderson432/jedanderson-site
