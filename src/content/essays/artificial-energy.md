@@ -1,16 +1,16 @@
 ---
 title: "Artificial Energy"
-subtitle: "A First-Principles Essay"
+subtitle: "The Next Civilizational Technology Layer"
 slug: "artificial-energy"
 date: 2026-05-28
 type: essay
 status: published
 tags: ["physics", "thermodynamics", "information-theory", "landauer", "causal-sovereignty", "artificial-energy"]
-abstract: "Energy has been misnamed for two hundred years. This essay names a second physics regime—gradient harvesting by informationally-structured matter, the strategy the biosphere has run on for 3.5 billion years—and argues that engineering it deliberately in non-biological substrates is Artificial Energy, the natural peer of Artificial Intelligence as a civilizational technology layer."
+abstract: "Energy has been misnamed for two hundred years. Names three tiers—mass-destruction (combustion, fission, fusion), passive gradient harvesting (solar, wind, hydro), and the information-rich frontier it calls Artificial Energy: matter engineered to harvest free-energy gradients selectively, as the biosphere has for 3.5 billion years—and argues AE is the natural peer of Artificial Intelligence as a civilizational technology layer."
 license: CC-BY-4.0
 pdf: "/pdfs/artificial-energy.pdf"
-hero_image: "/images/artificial-energy-cover.jpg"
-hero_image_alt: "Cover of \"Artificial Energy: A First-Principles Essay\" by Jed Anderson, 2026."
+hero_image: "/images/artificial-energy-hero.jpg"
+hero_image_alt: "Cover of \"Artificial Energy: The Next Civilizational Technology Layer\" by Jed Anderson, 2026 (second edition)."
 show_abstract_on_page: true
 keywords:
   - "Artificial Energy"
@@ -39,7 +39,7 @@ about:
 
 *The argument in two pages.*
 
-The essay is not about traditional energy production. It is not about coal, oil, gas, nuclear fission, or familiar renewables like solar, wind, and hydro as competing entries on the same fuel menu. For two hundred years, the predominant way humans have produced energy has been a single operation: disassembling matter. We break chemical bonds in combustion, split heavy nuclei in fission, and now attempt to fuse light ones. In every case, the fuel and the apparatus are the same matter; the substrate is sacrificed and waste accumulates. Recent shifts toward renewables change the fuels and devices but not the category of energy they belong to. This essay steps outside that frame entirely. It is about a different regime of energy: not consuming matter, but structuring it with information so that it can harvest work from the free-energy gradients the universe already provides.
+The essay is not about traditional energy production. It is not about coal, oil, gas, nuclear fission, or familiar renewables like solar, wind, and hydro as competing entries on the same fuel menu. For two hundred years, the predominant way humans have produced energy has been a single operation: disassembling matter. We break chemical bonds in combustion, split heavy nuclei in fission, and now attempt to fuse light ones. In every case, the fuel and the apparatus are the same matter; the substrate is sacrificed and waste accumulates. Recent shifts toward renewables change the fuels and devices but not the category of energy they belong to. This essay steps outside that frame entirely. It is about a different regime of energy: not consuming matter, not pointing passive apparatus at a gradient, but engineering matter with enough information to harvest work from the free-energy gradients the universe already provides.
 
 For billions of years, a planetary-scale information-structured energy architecture has been running without being recognized as a coherent system. Its working demonstration is the biosphere. The biosphere does not consume its own apparatus; it uses informationally structured matter—chlorophyll, enzymes, evolved molecular machines—to harvest gradients that already exist. We have been looking at that architecture the whole time without seeing what we were looking at.
 
@@ -67,11 +67,23 @@ A second distinction must be drawn immediately, because without it the argument 
 
 This essay is about the move beyond that crude form, not a defense of it. The deeper opportunity is the high-information end of the regime: matter engineered with enough structure to harvest gradients selectively, at the molecular and quantum scale. A designed catalyst chooses one reaction among millions. An engineered enzyme assembles a specific molecule at ambient temperature. An artificial reaction center routes individual quanta of energy along a chosen path. These devices reach gradients that no panel or turbine can touch, chemical disequilibria, specific molecular bonds, diffuse and low-grade differences, and they produce not merely electricity but fuels, fertilizers, and designed materials, because the apparatus performs chemistry rather than bulk conversion. The distinction is not which gradient is tapped. It is how much design intelligence is built into the matter that taps it, and therefore how much of the available world it can reach. The first harvesters were the beginning of the regime. They are not its destination, and they are not the subject of this essay.
 
+### Two Divides, Not One
+
+The confusion between passive gradient energy and Artificial Energy is strategic, not merely semantic. The first divide between substrate-consuming and gradient-harvesting energy is the basis for most clean energy advocacy. The second divide, less recognized but equally important, separates passive gradient coupling from information-rich gradient steering. A solar farm and a natural-gas plant look like opposites: one burns nothing, the other burns continuously. But they share a conceptual architecture: passive apparatus pointed at a resource, producing undifferentiated output. Artificial Energy belongs to a different category entirely. Its apparatus selects, routes, and transforms. It performs chemistry. It reads the molecular environment and responds to it. Naming solar and wind 'renewable' was accurate and useful . . . it freed them from the carbon frame. Naming AE 'Artificial Energy' is the next move . . . freeing the information-rich frontier from the passive-device frame that renewable energy still inhabits.
+
+| Tier | Name | Examples | Defining characteristic |
+| --- | --- | --- | --- |
+| 1 | Mass-Destruction Energy | Coal, oil, gas, nuclear fission, fusion | Substrate consumed; apparatus is the fuel; waste is intrinsic to the reaction |
+| 2 | Passive Gradient Energy | Solar PV, wind turbines, hydroelectric dams, geothermal | Gradient harvested; apparatus is fixed and passive; near-zero information; single-mode output; bounded by device physics |
+| 3 | Artificial Energy (AE) | Artificial photosynthesis, AI-designed catalysts, engineered enzymes, thermophotovoltaics, biomimetic membranes | Gradient harvested by information-rich engineered matter; selective, molecular-scale, multi-output; the subject of this essay |
+
 Industrial civilization, beginning around 1800, leaned overwhelmingly toward mass-disassembly. The biosphere, beginning around 3.5 billion years ago, ran entirely on gradient harvesting. The biosphere's track record is staggering at the level of system architecture, though the comparison to industrial energy requires care. Net primary productivity, the rate at which biological gradient harvesting converts sunlight into chemical bonds, runs on the order of 130 terawatts globally. This is not directly comparable to industrial civilization's roughly 20 terawatts of delivered, high-exergy power, because most biospheric throughput is low-grade chemical storage that cycles back to CO₂ within months. What the comparison does establish is that gradient harvesting is feasible at planetary scale. A system of distributed, informationally-structured matter has been operating for billions of years, at ambient temperature, with no combustion, no fission, no fusion. It is not waste-free: biology produces carbon dioxide, methane, and reactive nitrogen, and redistributes matter constantly. What distinguishes it is that a mature biosphere recycles these material flows rather than accumulating them, while its energy balance closes by radiating low-grade heat to space. The biosphere captures only about a tenth of one percent of the roughly 90,000 to 115,000 terawatts of solar exergy that reaches Earth's surface. Even at that low capture rate, the system runs.
 
-The argument of this essay is simple. The mass-destruction regime is the primitive form of energy strategy. The gradient-harvesting regime is the mature form. Most of what is now called “clean energy” occupies only the early, low-information edge of that mature regime: primitive apparatus coupled to a few bulk gradients, not the information-rich frontier this essay is about. Industrial civilization has been doing the primitive version for two hundred years and is approaching its limits: climatic, geopolitical, thermodynamic. The biosphere has been doing the mature version since before there were continents. The next civilizational technology layer is to engineer the mature version deliberately. The name proposed for it here is Artificial Energy, and the case for that name rests on first principles.
+The argument of this essay is simple, and it requires drawing two divides, not one. The first divide separates mass-destruction energy—combustion, fission, fusion—from gradient-harvesting energy. The second divide, less widely recognized but equally consequential, separates passive gradient harvesters from information-rich gradient harvesters. Solar panels, wind turbines, and hydroelectric dams belong to the middle tier: they harvest gradients rather than consuming a fuel, which is progress, but they do so with near-zero information in the apparatus. They select nothing. They route nothing. They transform nothing at the molecular scale. Most of what is now called 'clean energy' occupies this middle tier—one step beyond mass-destruction, but still operating at the low-information floor of what gradient harvesting can do. Artificial Energy names the third tier: matter engineered with enough structure to harvest gradients selectively, at the molecular and quantum scale, producing not merely electricity but fuels, fertilizers, and designed materials—the way biology has done for 3.5 billion years. Industrial civilization has been doing Tier 1 for two hundred years and is approaching its limits: climatic, geopolitical, thermodynamic. The biosphere has been doing Tier 3 since before there were continents. The next civilizational technology layer is to engineer Tier 3 deliberately. The name proposed for it here is Artificial Energy, and the case for that name rests on first principles.
 
-*Figure 1. The two physics regimes available for doing work. Mass destruction follows E = mc². Gradient harvesting uses structured matter to extract work from existing free-energy differences. Both obey conservation laws; only one scales without poisoning the host.*
+![Three side-by-side panels comparing the three energy tiers: Tier 1 Mass-Destruction Energy (E=mc²; combustion, fission, fusion; substrate consumed, centralized, in use since ~1800), Tier 2 Passive Gradient Energy (solar, wind, hydro, geothermal; apparatus fixed and bounded by device physics), and Tier 3 Artificial Energy (information-rich engineered matter; selective, molecular-scale, distributed).](/images/artificial-energy-fig1.png)
+
+*Figure 1. The three energy tiers. Tier 1 (Mass-Destruction): combustion, fission, fusion—substrate consumed, apparatus sacrificed, waste intrinsic. Tier 2 (Passive Gradient Energy): solar panels, wind turbines, hydro—gradient harvested, but apparatus is fixed, passive, and near-zero-information. Tier 3 (Artificial Energy): information-rich engineered matter harvesting gradients selectively at molecular scale—the subject of this essay. Both gradient tiers obey conservation laws; only Tier 3 can scale without poisoning the host.*
 
 ## II. Artificial Intelligence Is Not Artificial
 
@@ -99,9 +111,13 @@ One boundary must be drawn at the outset, because it defines what this essay is 
 
 The unit appropriate to single events is the electron-volt: the energy required to move one electron through a potential difference of one volt. In this unit, the entire energy hierarchy fits in one column. The numbers span eleven orders of magnitude. From the bit to the bond is a factor of at least 240, [the bond-bit ratio](/essays/bond-bit-ratio). From the bond to the nuclear event is a factor of several million.
 
+![Horizontal bar chart of energy released per single event on a logarithmic eV scale. Gradient-harvesting events sit far below mass-destruction events: one bit at the Landauer bound (17.8 meV), one 500 nm photon (2.48 eV), and one C-H bond (4.28 eV) versus electron-positron annihilation (1.0 MeV), one D-T fusion event (17.6 MeV), and one U-235 fission event (200 MeV).](/images/artificial-energy-fig2.png)
+
 *Figure 2. Energy released per single event, on a logarithmic scale. The lower three bars are gradient-harvesting territory; the upper three are mass destruction. A C-H bond, a single fission event, and a single fusion event are separated by roughly a million-fold each.*
 
 What governs these magnitudes is the fraction of rest mass that is converted to energy in each event. Chemistry rearranges electrons; the nuclei are spectators and their mass is essentially preserved; fewer than four parts in ten billion is converted. Nuclear reactions rearrange nucleons inside the nucleus itself; a measurable fraction of mass (about 0.1% for fission, 0.4% for fusion) disappears as binding energy. Matter-antimatter annihilation converts 100% of the participating rest mass. The deeper the disassembly, the larger the mass fraction released.
+
+![Horizontal bar chart of the fraction of rest mass converted to energy on a logarithmic axis: a C-H bond converts 3.76×10⁻⁸ percent, U-235 fission 0.091 percent, D-T fusion 0.378 percent, solar pp-chain fusion 0.717 percent, and matter-antimatter annihilation 100 percent.](/images/artificial-energy-fig3.png)
 
 *Figure 3. Fraction of rest mass converted to energy. Chemistry touches the skin of the atom. Nuclear physics touches the spine. Annihilation touches everything.*
 
@@ -149,6 +165,8 @@ The three experiments together establish, beyond reasonable dispute, that inform
 
 The strongest evidence that gradient harvesting is a mature regime is that an entire planetary-scale system has been running on it, continuously, for approximately 3.5 billion years. The biosphere processes about 130 terawatts of free energy in net primary productivity, converting sunlight into chemical bonds at a rate that is not directly comparable to industrial electricity but is unambiguously planetary in scope. It does this entirely at ambient temperature, with no combustion, no fission, no fusion. It is not waste-free, but it recycles its material flows rather than accumulating them, and its energy balance closes by radiating low-grade heat to space. The biosphere captures only about a tenth of one percent of the available solar exergy reaching Earth's surface; the relevant point is not that biology operates at high efficiency, but that the harvesting regime works at planetary scale at all. No civilization had to invent it; evolution found it billions of years before humans existed.
 
+![Bar chart of continuous power on a logarithmic terawatt axis: industrial civilization delivers about 20 TW, the biosphere's net primary productivity about 130 TW, and solar exergy reaching Earth's surface about 115,000 TW—roughly 5,800 times human demand.](/images/artificial-energy-fig4.png)
+
 *Figure 4. Three power scales, on a logarithmic axis. Industrial civilization delivers ~20 TW of high-exergy power. The biosphere generates ~130 TW of gross chemical-bond formation (most of which cycles back to CO₂). Solar exergy at Earth's surface is roughly 115,000 TW after albedo, about 5,800× human energy consumption. Energy is not the bottleneck. Harvesting technology is.*
 
 The mechanism is precisely what one would build if one set out, with full knowledge of thermodynamics, to engineer a gradient harvester. A photon arrives carrying approximately 2.5 electron-volts of available work. A chlorophyll molecule, structured by roughly 10⁴ bits of evolved protein information per reaction center, selectively absorbs the photon and channels its energy into a quantum-coherent excitation. An electron transport chain, again structured by information, ratchets the excitation through a sequence of redox potentials. The terminal output is a chemical bond (ATP, NADPH, glucose) at room temperature, in water, with no flame, no plasma, and no waste byproduct that the planet cannot absorb.
@@ -173,6 +191,8 @@ The reservoir is therefore much larger than sunlight. The common feature across 
 
 *Artificial Intelligence is to biological brains what Artificial Energy is to biological photosynthesis. This is not metaphor. It is a structural parallel: a shared logical form between two domains that does not require identical implementations.*
 
+![Two-column table aligning Artificial Intelligence and Artificial Energy row by row: natural prior (biological brains vs. biological photosynthesis), substrate (silicon and software vs. engineered catalysts and semiconductors), operation (structured information processing vs. structured gradient harvesting), same physics as biology (yes vs. yes), outperforms biology (yes, on speed and scale vs. yes, on efficiency, density, and flexibility), and the leverage (bits cheaper than neurons vs. engineered apparatus beating evolved).](/images/artificial-energy-fig5.png)
+
 *Figure 5. The point-for-point correspondence between AI and AE at the categorical level. Two civilizational technology layers, each beginning with an evolved biological precedent and proceeding through engineered non-biological substrates. The technological families differ; the logical form is the same.*
 
 The parallel between AI and AE is not a slogan, and it is not a perfect isomorphism. It is a structural correspondence between two domains that share a common logical form. Both have an evolved biological precedent. Both are now being engineered in non-biological substrates. Both perform the same underlying physical operation as their biological prior, by the same physics, in different matter. Both have demonstrated, in their early forms, that engineered apparatus can outperform evolved apparatus on specific axes. Both are reaching a moment of civilizational scale.
@@ -193,11 +213,13 @@ Most importantly, both AI and AE in their engineered forms can outperform their 
 
 *AE is not at a single point on its development curve; its layers are at different stages. The first layer is already scaling. The layers above it sit roughly where AI sat in its pre-takeoff years.*
 
+![Line chart of technological maturity (0 = thought experiment, 100 = civilizational layer) versus year, tracing two curves. The Artificial Intelligence curve climbs from the 1950 Turing test through Deep Blue and ChatGPT to frontier models; the Artificial Energy curve climbs more slowly from the 1839 photovoltaic effect through mass-market PV to lab Maxwell demons and AI-designed catalysts, sitting near AI's 2010-2012 position at the highlighted 'NOW' band around 2025.](/images/artificial-energy-fig6.png)
+
 *Figure 6. Two civilizational technology curves. AI has had its public moment, beginning around 2012 with deep learning and reaching mass awareness with ChatGPT. The low-information harvesters (photovoltaics, wind) are already scaling, but the information-rich AE technologies that the thesis is actually about have not yet had their public moment. The technical pieces are emerging: laboratory Maxwell demons, artificial photosynthesis prototypes, AI-designed catalysts. The framing is the missing piece.*
 
 A precise statement of where AE stands requires separating two things that are easy to conflate: the regime and its first crude instruments. Photovoltaics and wind belong to the gradient-harvesting regime, and they have already scaled. But they sit at the very floor of it. A bare solar panel is a fixed band gap; a wind turbine is a shaped blade. Each harvests a single gradient in a single way, with almost no information in the apparatus, and each runs quickly into a hard physical ceiling: silicon photovoltaics convert about 22 percent of incoming sunlight at mass-market scale, against a single-junction limit near 34 percent, leaving perhaps a factor of two of headroom and no more. That bounded ceiling is the ceiling of a near-zero-information harvester, and it is the reason the future of this field does not lie in larger panels. Artificial Energy is what happens when the harvesting apparatus becomes informationally rich: when designed catalysts, engineered enzymes, and AI-specified materials begin to select, route, and transform energy flows with the precision that a chlorophyll molecule brings to a photon, and reach gradients that no panel or turbine can touch. Those technologies sit at roughly the equivalent of AI's 2010 to 2012 moment: the underlying capabilities exist in laboratories, the public framing has not yet formed, and the exponential has not yet begun.
 
-Wind and first-generation solar, then, are not the substance of this argument. They are the proof that engineered matter can draw work from an ambient gradient at industrial scale, and the lowest rung of a ladder whose upper reaches have barely been built. They are likely to be remembered as early and transitional, the way the steam engine was transitional within the broader electrification of work.
+Tier 2—wind and first-generation solar—is not the substance of this argument. These technologies are Passive Gradient Energy: they proved that engineered matter can draw work from an ambient gradient at industrial scale, and they occupy the lowest rung of what gradient harvesting can become. They are likely to be remembered as transitional, the way the steam engine was transitional within the broader electrification of work—necessary, important, and not the destination. The destination is Tier 3: information-rich engineered matter that selects, routes, and transforms gradients the way biology does. That is the ladder whose upper reaches have barely been built.
 
 ### The Information-Rich AE: What Comes Next
 
@@ -214,6 +236,8 @@ Multijunction and concentrator photovoltaics. Each junction in a multijunction P
 Thermophotovoltaics. Devices that convert any source of heat (concentrated sunlight, geothermal, industrial waste heat) into electricity via tuned photon absorption. MIT demonstrated 40 percent efficiency in 2022. This is gradient harvesting from thermal sources rather than direct solar.
 
 Heat pumps. The clearest industrial-scale example of information directing energy. A heat pump uses information about a temperature gradient to move heat against the gradient, delivering 3 to 5 joules of heat for each joule of electrical work input. A natural-gas furnace delivers approximately 0.95 joules of heat per joule of fuel. The heat pump is 3 to 5 times more thermodynamically efficient because it does not generate heat. It harvests heat that already exists. This is a working, industrial-scale Maxwell's demon already deployed in millions of buildings.
+
+![A four-layer stack diagram of Artificial Energy. Ambient gradients (photons, heat, chemistry) enter at the bottom and useful work exits at the top: Layer 1 primary harvester (multijunction PV, artificial photosynthesis, thermophotovoltaics, biomimetic systems), Layer 2 informational steering (AI-designed catalysts, engineered enzymes, process AI), Layer 3 storage and transport (hydrogen, ammonia, organic carriers, batteries, thermal mass), and Layer 4 consumption (heat pumps, smart motors, reversible computing).](/images/artificial-energy-fig7.png)
 
 *Figure 7. The Artificial Energy stack. AE is not a single device. It is a four-layer architecture in which information is structured into every layer, from primary harvest to end-use consumption.*
 
@@ -241,7 +265,7 @@ Artificial Intelligence is intelligence engineered in non-biological substrates.
 
 ### Reason 2: It De-Categorizes the Topic from 'Fuel Choice'
 
-When the public hears 'solar energy,' they place it in a mental category labeled 'energy sources,' one option in a list including coal, gas, nuclear, wind. It is a fuel choice. It sits next to coal in the cognitive map. When the public hears 'Artificial Intelligence,' they do not place it in a category of 'kinds of calculation.' They place it in a category called 'civilizational technology layers,' alongside electricity, the internet, the printing press. 'Artificial Energy' forces the same cognitive move. AE is not a fuel choice. It is a domain, peer to AI.
+When the public hears 'solar energy,' they place it in a mental category labeled 'energy sources,' one option in a list including coal, gas, nuclear, wind. It is a fuel choice. It sits next to coal in the cognitive map—and solar panels, correctly understood, are Tier 2: passive gradient harvesters that are better than Tier 1 but are not the civilizational leap the energy transition requires. When the public hears 'Artificial Intelligence,' they do not place it in a category of 'kinds of calculation.' They place it in a category called 'civilizational technology layers,' alongside electricity, the internet, the printing press. 'Artificial Energy' forces the same cognitive move. AE is not a fuel choice. It is not a better solar panel. It is a domain, peer to AI, operating at Tier 3: the information-rich frontier that solar and wind cannot reach.
 
 ### Reason 3: It Rides the AI Mindshare
 
@@ -298,6 +322,8 @@ Two civilizational technology layers are being built in this generation. One pro
 *The two regimes can be compared directly, on numbers that hold. Some of the comparison is fixed by physical law; some is empirical and current. Both are stated here, with the difference between them marked.*
 
 Throughout this essay, traditional energy means the substrate-consuming regime: combustion of coal, oil, and gas, and the fission of heavy nuclei. Artificial Energy means the substrate-preserving regime: engineered gradient harvesting. The contrast below runs across four measurable dimensions. The first two are governed by physical law and are not matters of opinion or forecast. The second two are empirical, drawn from current measured data, and could shift as technology and markets move; they are flagged accordingly in the notes.
+
+![Four comparison panels, traditional energy in red versus Artificial Energy in blue. Resource ceiling (log terawatts): human demand 20, biosphere 130, solar at surface 115,000. Efficiency (useful output over input): coal 37 percent, gas 58 percent, solar PV 22 percent, heat pump 400 percent. Lifecycle carbon (grams CO₂-equivalent per kWh): coal 820, gas 490, solar 48, wind 11. Levelized cost (dollars per MWh, unsubsidized): nuclear 142-222, coal 69-168, gas 45-108, wind 27-73, solar 29-92.](/images/artificial-energy-fig8.png)
 
 *Figure 8. Four comparisons between the regimes. Resource ceiling and efficiency are fixed by physics; lifecycle carbon and levelized cost are empirical (IPCC AR5 medians and Lazard 2024, respectively). Red marks traditional energy; blue marks Artificial Energy.*
 
@@ -365,21 +391,19 @@ This is the find. Not a new law, but a new name for an old and enormous thing th
 
 ## XIV. The Short Version
 
-*Artificial Energy in one page.*
+*Artificial Energy in two pages.*
 
 For 200 years, we drew most of our energy from disassembling matter. We burned coal. We burned oil. We split atoms. We tried to fuse them. In combustion, fission, and fusion alike, the fuel and the apparatus were always the same matter. The fuel was always consumed. Life runs by a different method, and has for 3.5 billion years.
 
 The biosphere does not consume its apparatus. It uses informationally-structured matter (chlorophyll, enzymes, evolved molecular machines) to harvest gradients that already exist: sunlight, heat, chemistry. At ambient temperature. With no combustion. Recycling its materials rather than accumulating waste. At 130 terawatts of continuous net primary productivity, planetary in scope.
 
-Industry has been doing the substrate-consuming form of energy. Biology has been doing the substrate-preserving form. We have only just noticed.
-
-We are now beginning to engineer the substrate-preserving form deliberately for the first time. Its name is Artificial Energy.
+Energy comes in three tiers. Tier 1 is mass-destruction: combustion, fission, fusion—the substrate is consumed, waste accumulates. Tier 2 is passive gradient energy: solar panels, wind turbines, hydro—the apparatus is passive, selects nothing, and hits a hard physical ceiling. Tier 3 is what biology has been doing for 3.5 billion years, and what industrial civilization has not yet done deliberately: information-rich gradient harvesting, where engineered matter selects, routes, and transforms energy at the molecular scale. We are now beginning to engineer the substrate-preserving form deliberately for the first time. Its name is Artificial Energy.
 
 Artificial Intelligence is intelligence engineered in non-biological substrates (silicon, software) doing what biological brains do by the same physics in different matter. Artificial Energy is gradient harvesting engineered in non-biological substrates (designed materials, engineered catalysts, artificial reaction centers) doing what biological photosynthesis does by the same physics in different matter.
 
-This is not a better way to capture sunlight. It is access to a deeper reservoir: the free-energy gradients that fill the universe, harvested by matter structured with enough information to steer them. Solar panels and wind turbines are the crudest first instruments, the lowest rung. Its real forms, artificial photosynthesis and AI-designed enzymes and catalysts and biomimetic infrastructure, barely exist yet. They are the next civilizational technology layer, parallel to AI in significance.
+This is not a better way to capture sunlight. It is access to a deeper reservoir: the free-energy gradients that fill the universe, harvested by matter structured with enough information to steer them. They are the next civilizational technology layer, parallel to AI in significance.
 
-Stop overinvesting in consuming matter. Start building Artificial Energy.
+Stop overinvesting in mass-destruction. Stop mistaking passive solar and wind for the destination. Start building Artificial Energy—the third tier, the one that barely exists yet, and the one that matters.
 
 ## References
 
@@ -408,3 +432,7 @@ Stop overinvesting in consuming matter. Start building Artificial Energy.
 ## A Note on Method
 
 This essay was developed with the assistance of artificial intelligence, used as a tool for derivation, verification, drafting, and critique. Every quantitative claim was independently checked; the argument, the judgments, and the conclusions are the author's own. That AI served as an instrument in building the case for Artificial Energy is fitting: the same class of tool that designs the catalysts and harvesting systems described here also helped articulate why they matter.
+
+## Revision history
+
+**Second edition—2026-05-29.** Expanded from the original first-principles essay to make the three-tier taxonomy explicit—Tier 1 mass-destruction, Tier 2 passive gradient energy, Tier 3 information-rich Artificial Energy—and to frame the argument around two divides rather than one; the limits section and the explicit marking of which claims are physics, which are forecast, and which are advocacy were sharpened accordingly.

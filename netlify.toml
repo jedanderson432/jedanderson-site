@@ -7,7 +7,7 @@
   # Bump CACHE_BUST to force Astro content-layer cache invalidation when
   # only frontmatter has changed in a content collection (Astro's cache
   # can otherwise carry stale tags/dates across builds on Netlify).
-  CACHE_BUST = "2026-05-12-v1"
+  CACHE_BUST = "2026-05-29-v1"
 
 # Magnifica Vita was re-typed from letter to essay on 2026-05-29. Its
 # canonical URL moved from /letters/ to /essays/. Permanent redirects
