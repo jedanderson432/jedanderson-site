@@ -22,6 +22,7 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - environmental-superintelligence — the long-form term for the ESI project; reserved for pieces where ESI is the headline subject, not a passing reference
 - personal — pieces grounded in first-person experience or autobiography rather than abstract argument
 - narrative — pieces structured as a story/arc rather than a treatise; often paired with `personal`
+- artificial-energy — the AE thesis: gradient harvesting engineered in non-biological substrates, framed as the energy peer of AI
 
 ## Thinker tags (engages a specific argument)
 - deutsch, wheeler, yudkowsky, whitehead, landauer, bekenstein
