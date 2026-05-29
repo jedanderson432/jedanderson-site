@@ -31,7 +31,7 @@ original_source: "Constant Contact campaign"
 
 “Whoever follows me will never walk in darkness, but will have the light of life.” - John 8:12
 
-"From within or from behind, a light shines through us upon things, and makes us aware that we are nothing, but the light is all." —Ralph Waldo Emerson
+"From within or from behind, a light shines through us upon things, and makes us aware that we are nothing, but the light is all."—Ralph Waldo Emerson
 
 "Nothing can dim the light that shines from within.” Maya Angelou
 

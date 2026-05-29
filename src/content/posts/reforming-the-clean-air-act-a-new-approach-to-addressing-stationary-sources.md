@@ -22,4 +22,4 @@ Remote sensing offers a win-win opportunity—saving companies substantial amoun
 
 We must simplify our system.  We have an opportunity to do so.  With simplicity will come better transparency. With transparency will come better accountability.  The more simple things are, the more everyone understands them.  The more everyone understands them, the better they can comply with them.  It’s that simple.
 
-*—–“Progress lies not in enhancing what is, but in advancing toward what will be.”* —-Kahlil Gibran
+*—–“Progress lies not in enhancing what is, but in advancing toward what will be.”*—-Kahlil Gibran

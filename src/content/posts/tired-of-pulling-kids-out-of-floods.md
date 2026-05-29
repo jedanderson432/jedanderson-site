@@ -24,7 +24,7 @@ BTW—the first image is from Hurricane Harvey. The next day I was pulling my fa
 
 All is well. All will be well. God has a plan. This I believe in by faith. Surrender. Faith. Trust. Do as much good as you can do with the good you've been given.
 
-> "Fear knocked at the door. Faith answered. There was nobody there." — MLK, *A Strength to Love*
+> "Fear knocked at the door. Faith answered. There was nobody there."—MLK, *A Strength to Love*
 
 ---
 

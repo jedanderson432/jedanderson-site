@@ -17,7 +17,7 @@ Blue Bell Ice Cream. Mozart. Quantum Physics.
 
 ---“When things get tough, there are two things that make life worth living: Mozart, and quantum mechanics.”
 
-— Victor Frederick Weisskopf
+—Victor Frederick Weisskopf
 
 ![](/images/posts/reality-my-simplest-example-yet/img-01.jpg)
 
@@ -401,7 +401,7 @@ SIMPLICITY
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
-- “When the solution is simple, God is answering.” —Albert Einstein
+- “When the solution is simple, God is answering.”—Albert Einstein
 - “Nature is pleased with simplicity. And nature is no dummy.” ― Isaac Newton
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
@@ -409,15 +409,15 @@ SIMPLICITY
 ![](/images/posts/reality-my-simplest-example-yet/img-77.png)
 
 - "To be simple is to be great."—Emerson
-- “Rudiments or principles must not be unnecessarily multiplied —Immanuel Kant
+- “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
 - “There is no greatness where there is not simplicity.” ― Leo Tolstoy
-- “All the great things are simple.” —Winston Churchill
-- “Out of clutter, find simplicity.” —Albert Einstein
+- “All the great things are simple.”—Winston Churchill
+- “Out of clutter, find simplicity.”—Albert Einstein
 - "AI is about making machines more fathomable and more under the control of human beings, not less. Conventional technology has indeed been making our environment more complex and more incomprehensible . . ." - Donald Michie
 - "Plurality should not be assumed without necessity." --William of Ockham
 - “Knowledge is a process of piling up facts; wisdom lies in their simplification.” ~ Martin H. Fischer
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
-- “The definition of genius is taking the complex and making it simple.” —Albert Einstein
+- “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
 ![](/images/posts/reality-my-simplest-example-yet/img-78.png)
 

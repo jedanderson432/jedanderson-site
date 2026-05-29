@@ -1,5 +1,5 @@
 ---
-title: "Forbes article today: \"Artificial Intelligence Is Improving Energy Companies — Not Replacing Workers"
+title: "Forbes article today: \"Artificial Intelligence Is Improving Energy Companies—Not Replacing Workers"
 slug: "forbes-article-today-artificial-intelligence-is-improving-energy-companies-not-r"
 date: 2021-07-13
 type: post

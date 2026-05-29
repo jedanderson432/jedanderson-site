@@ -25,6 +25,6 @@ The problem of course is that if a State acknowledges foreign pollution impacts 
 
 I know that accepting new truths is painful—but living in untruths is even more painful.  I bet everyone of us in our personal lives have come to this realization.
 
-> “Truth, like surgery, may hurt, but it cures.” —Hans Suyin
+> “Truth, like surgery, may hurt, but it cures.”—Hans Suyin
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

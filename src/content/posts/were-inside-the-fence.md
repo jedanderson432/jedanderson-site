@@ -17,7 +17,7 @@ Artificial Intelligence---Enviro AI
 
 Explore emissions points for Texas facilities. "Zoom-in" and see the unit, control, and emissions details.
 
----“The greatest value of a picture is when it forces us to notice what we never expected to see.” —John W. Tukey
+---“The greatest value of a picture is when it forces us to notice what we never expected to see.”—John W. Tukey
 
 --"This feature really got people's attention. I think the Texas environmental professional community just woke up to the power of artificial intelligence. Simpler. Faster. Better. It's augmented human environmental intelligence for those who choose to wield it." --Jed Anderson, Creator, Enviro AI
 

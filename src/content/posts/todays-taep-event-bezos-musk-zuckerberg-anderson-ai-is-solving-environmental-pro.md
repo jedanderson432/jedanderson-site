@@ -41,4 +41,4 @@ Texas Association of Environmental Professionals
 
 Aside:  My personal challenge is to successfully use AI like the icons above, and save nature and humanity, but without becoming wealthy, or preferably known any more than I already am. I use self because its what I've been given. I'd prefer not to. How to get a toe-hold and then succeed without become successful? That's the challenge that the icons above could not avoid, but one in which I plan to succeed. Impossible? I don't think so. Everything is possible. "The world's most successful unsuccessful person." Now that would be a title! . . . that hopefully no one would ever read.
 
----“David could bear persecution and murmuring, but when he came to prosperity he could not turn his eyes away from vanity.” —Sir Richard Baker
+---“David could bear persecution and murmuring, but when he came to prosperity he could not turn his eyes away from vanity.”—Sir Richard Baker

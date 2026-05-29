@@ -22,6 +22,6 @@ Exact same strategy with air quality litigation.  Right now you can sue on where
 
 Anyone re-reviewed the recommendations in “Breaking the Logjam” (see attached)?  If not, I would encourage you to look at it again.  Just think about the decreases in potential litigation this simplified air quality management process would provide versus our current paradigm.  A significant portion of the recommendation is a Federal multi-pollutant market based system.  Lawyers by the way hate programs like the Acid Rain Program.  Why?  Too simple.  Not enough complexity, ambiguity, and steps in the process to argue over.
 
-> “*Any intelligent fool can make things bigger, more complex, and more violent.  It takes a touch of genius—and a lot of courage—to move in the opposite direction.*” ——E.F Schumacher
+> “*Any intelligent fool can make things bigger, more complex, and more violent.  It takes a touch of genius—and a lot of courage—to move in the opposite direction.*”——E.F Schumacher
 
 Time to reduce the number of opportunities for time-consuming and resource-intensive litigation.  Time to transform the SIP process.  We can make it happen.

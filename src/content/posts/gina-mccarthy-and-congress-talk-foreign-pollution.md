@@ -17,7 +17,7 @@ In the video Administrator McCarthy says the following:
 
 > ## “**The Clean Air Act does not ask States to reduce background levels.”**
 >
-> #### —Gina McCarthy, U.S. EPA Administrator
+> ####—Gina McCarthy, U.S. EPA Administrator
 
 I can’t find any legal support for this statement.  According to Section 107,  States are ultimately responsible for achieving the NAAQS regardless of where the NAAQS is set, and regardless of where the pollution is coming from (i.e. other States, other nations, trees, dust storms, stationary sources, mobile sources).
 

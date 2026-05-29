@@ -310,15 +310,15 @@ I personally think this is the[greatest solo of all time](https://r20.rs6.net/tn
 
 ---“There is no doubt that creativity is the most important human resource of all. Without creativity, there would be no progress, and we would be forever repeating the same patterns.”—Edward de Bono
 
----“The true sign of intelligence is not knowledge, but imagination.” —Albert Einstein
+---“The true sign of intelligence is not knowledge, but imagination.”—Albert Einstein
 
 ---"Everything you can imagine is real." -- Pablo Picasso
 
----“Creativity is seeing something that doesn’t exist already. You need to find out how you can bring it into bein[g](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rRE6g0nlg6JA8SLRuSLBj44zN6NKr-pZNVtNXIuP_LwgoE4nFdM8xXtO6HstVnHzOjn4lxaGiFUzUlxaiCFCLt1uJUjhC89p7G03yvOCeUsuUfow3alXdYieydUzIjylX1V9stSZ57UYBKiblkFAWLI=&c=&ch=) and that way be a playmate with God.” —Michele Shea
+---“Creativity is seeing something that doesn’t exist already. You need to find out how you can bring it into bein[g](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rRE6g0nlg6JA8SLRuSLBj44zN6NKr-pZNVtNXIuP_LwgoE4nFdM8xXtO6HstVnHzOjn4lxaGiFUzUlxaiCFCLt1uJUjhC89p7G03yvOCeUsuUfow3alXdYieydUzIjylX1V9stSZ57UYBKiblkFAWLI=&c=&ch=) and that way be a playmate with God.”—Michele Shea
 
----“Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything.” —George Lois
+---“Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything.”—George Lois
 
----“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.” —Steve Jobs
+---“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.”—Steve Jobs
 
 ---"The desire to create is one of the deepest yearnings of the human soul." -- Dieter F. Uchtdorf
 
@@ -416,7 +416,7 @@ SIMPLICITY
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
-- “When the solution is simple, God is answering.” —Albert Einstein
+- “When the solution is simple, God is answering.”—Albert Einstein
 - “Nature is pleased with simplicity. And nature is no dummy.” ― Isaac Newton
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
@@ -424,15 +424,15 @@ SIMPLICITY
 ![](/images/posts/campfires-and-imagination/img-87.png)
 
 - "To be simple is to be great."—Emerson
-- “Rudiments or principles must not be unnecessarily multiplied —Immanuel Kant
+- “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
 - “There is no greatness where there is not simplicity.” ― Leo Tolstoy
-- “All the great things are simple.” —Winston Churchill
-- “Out of clutter, find simplicity.” —Albert Einstein
+- “All the great things are simple.”—Winston Churchill
+- “Out of clutter, find simplicity.”—Albert Einstein
 - "AI is about making machines more fathomable and more under the control of human beings, not less. Conventional technology has indeed been making our environment more complex and more incomprehensible . . ." - Donald Michie
 - "Plurality should not be assumed without necessity." --William of Ockham
 - “Knowledge is a process of piling up facts; wisdom lies in their simplification.” ~ Martin H. Fischer
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
-- “The definition of genius is taking the complex and making it simple.” —Albert Einstein
+- “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
 ![](/images/posts/campfires-and-imagination/img-88.png)
 

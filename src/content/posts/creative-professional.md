@@ -44,15 +44,15 @@ es you are!
 
 ---“There is no doubt that creativity is the most important human resource of all. Without creativity, there would be no progress, and we would be forever repeating the same patterns.”—Edward de Bono
 
----“The true sign of intelligence is not knowledge, but imagination.” —Albert Einstein
+---“The true sign of intelligence is not knowledge, but imagination.”—Albert Einstein
 
 ---"Everything you can imagine is real." -- Pablo Picasso
 
----“Creativity is seeing something that doesn’t exist already. You need to find out how you can bring it into bein[g](https://r20.rs6.net/tn.jsp?f=001YAAi5nhFqc0RL_k67uFu4dmNdyWJj9V8_w6r-sR3uKnVBcQB0k7qYCez72XcV8rwcDup90xFdtOMqcETgCEO5cADVSOZvFfy1MgDjLUdwu3m-1czAqykLWCCGviCcCHpfhocODE2gA000hZ_ZlWUNG8sG8IjvHeZ5pW7pOS7CwPHLCK4kbbl_VWkwb8WigcXiwmC3a66RKw=&c=&ch=) and that way be a playmate with God.” —Michele Shea
+---“Creativity is seeing something that doesn’t exist already. You need to find out how you can bring it into bein[g](https://r20.rs6.net/tn.jsp?f=001YAAi5nhFqc0RL_k67uFu4dmNdyWJj9V8_w6r-sR3uKnVBcQB0k7qYCez72XcV8rwcDup90xFdtOMqcETgCEO5cADVSOZvFfy1MgDjLUdwu3m-1czAqykLWCCGviCcCHpfhocODE2gA000hZ_ZlWUNG8sG8IjvHeZ5pW7pOS7CwPHLCK4kbbl_VWkwb8WigcXiwmC3a66RKw=&c=&ch=) and that way be a playmate with God.”—Michele Shea
 
----“Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything.” —George Lois
+---“Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything.”—George Lois
 
----“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.” —Steve Jobs
+---“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.”—Steve Jobs
 
 ---"The desire to create is one of the deepest yearnings of the human soul." -- Dieter F. Uchtdorf
 

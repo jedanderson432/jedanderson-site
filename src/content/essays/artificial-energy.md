@@ -5,7 +5,7 @@ slug: "artificial-energy"
 date: 2026-05-28
 type: essay
 status: published
-tags: ["foundational", "physics", "thermodynamics", "information-theory", "landauer", "causal-sovereignty", "artificial-energy"]
+tags: ["physics", "thermodynamics", "information-theory", "landauer", "causal-sovereignty", "artificial-energy"]
 abstract: "Energy has been misnamed for two hundred years. This essay names a second physics regime—gradient harvesting by informationally-structured matter, the strategy the biosphere has run on for 3.5 billion years—and argues that engineering it deliberately in non-biological substrates is Artificial Energy, the natural peer of Artificial Intelligence as a civilizational technology layer."
 license: CC-BY-4.0
 pdf: "/pdfs/artificial-energy.pdf"

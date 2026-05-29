@@ -15,7 +15,7 @@ abstract: '“Cathartic. A cleansing bath in truth.” Schoenbrod’s latest boo
 
 I thought I understood why the Clean Air Act is the way it is.  I didn’t.  Now I do.  I read pages 39-55.  All of the controversies we face with the Clean Air Act make sense in light of this book.  Liberating in its insightfulness.  It will cleanse you better than a day spa.
 
-> ## —“This is an alarming book, and indeed we should be alarmed.”—Governor Howard Dean
+> ##—“This is an alarming book, and indeed we should be alarmed.”—Governor Howard Dean
 
 As David explains in the book, essentially the Clean Air Act was the beginning in the U.S.  of two “tricks” that before had never taken place in Congressional history.  Congress learned how they could take credit for creating something good . . . and then pass the cost on to others (i.e. federal agencies, states, and future generations).  This way people would keep voting for them—and they could just point the finger for the inevitable hard choices at the federal agencies and keep pushing the work on the States under the rally cry of “cooperative federalism”.
 

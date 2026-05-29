@@ -31,9 +31,9 @@ If you love to suffer . . . then you will never have to suffer.
 
 - “I think it is very good when people suffer. To me that is like the kiss of Jesus.”― Mother Teresa
 
-- “Never to suffer would never to have been blessed.”— Edgar Allan Poe
+- “Never to suffer would never to have been blessed.”—Edgar Allan Poe
 
-- “Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.”— Helen Keller
+- “Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.”—Helen Keller
 
 - “Suffering has been stronger than all other teaching, and has taught me to understand what your heart used to be. I have been bent and broken, but – I hope – into a better shape.”― Charles Dickens
 

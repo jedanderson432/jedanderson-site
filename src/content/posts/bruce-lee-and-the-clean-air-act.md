@@ -32,6 +32,6 @@ Comments on the Clean Air Act
 - “The Clean Air Act is a lengthy and complex federal law” –Florida Department of Environmental Protection
 - “The federal Clean Air Act (CAA) alone has been referred to as the most complicated statute in history. The statutory complexity is compounded by the thousands of pages of federal regulations and the overlapping statutes and regulations adopted by each individual state.” –Erich Brich writing for the American Bar Association
 - “The Clean Air Act – one of the most complex and extensive pieces of federal environmental legislation.” –Center on Congress—Indiana University
-- “The Clean Air Act is complicated and contentious”. —Senate Environment and Public Works Committee
+- “The Clean Air Act is complicated and contentious”.—Senate Environment and Public Works Committee
 - “The Clean Air Act (CAA) is a comprehensive and complex piece of environmental legislation”. – NASDA
-- “The statute and its regulatory offshoots are very complicated.”  —U.S. Department of Justice
+- “The statute and its regulatory offshoots are very complicated.”—U.S. Department of Justice

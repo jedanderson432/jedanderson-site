@@ -27,6 +27,9 @@ scripts/_*.json
 # Python bytecode
 scripts/__pycache__/
 
+# Originals saved by scripts/clean-post-encoding.py before rewrite
+_post-cleanup-backup/
+
 # Per-run log + stats from extract-cc-emails.py
 scripts/extract-cc-emails.log
 scripts/cc-ingest-stats.json

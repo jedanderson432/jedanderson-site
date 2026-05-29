@@ -15,7 +15,7 @@ abstract: '***[](/images/sip/harmful-and-the-clean-air-act.png)Sentiment: “***
 ***[![Harmful and the Clean Air Act](/images/sip/harmful-and-the-clean-air-act.png)](/images/sip/harmful-and-the-clean-air-act.png)Sentiment:  “***I don’t want to suffer.  I want to help transform the Clean Air Act for the benefit of the environment and the economy, but I don’t want people to laugh at me, ignore me, or despise me for it.  I understand this is to be expected, and that this is part of the process, but I don’t want to suffer more.   My life is already painful enough.” 
 
 - “I want to suffer so that I may love.”—Fyodor Dostoyevsky
-- “Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.”— Helen Keller
+- “Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.”—Helen Keller
 - “Suffering has been stronger than all other teaching, and has taught me to understand what your heart used to be. I have been bent and broken, but – I hope – into a better shape.”― Charles Dickens
 - “I think it is very good when people suffer. To me that is like the kiss of Jesus.”― Mother Teresa
 - “When it is all over you will not regret having suffered; rather you will regret having suffered so little, and suffered that little so badly.”–St. Sebastian Valfre

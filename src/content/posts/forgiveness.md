@@ -33,13 +33,13 @@ Sometimes I wonder how many negative things that happen in the world stem from a
 
 ![](/images/posts/forgiveness/img-04.gif)
 
-"To forgive is to set a prisoner free and discover that the prisoner was you."— Lewis B. Smedes
+"To forgive is to set a prisoner free and discover that the prisoner was you."—Lewis B. Smedes
 
 "The weak can never forgive. Forgiveness is the attribute of the strong." --Mahatma Gandhi
 
 "It’s not an easy journey, to get to a place where you forgive people. But it is such a powerful place, because it frees you.
 
-— Tyler Perry
+—Tyler Perry
 
 “Forgive because none of us are perfect.” Anonymous
 
@@ -49,7 +49,7 @@ Sometimes I wonder how many negative things that happen in the world stem from a
 
 “Forgiveness is a gift you give yourself.” Tony Robbins
 
-"You can’t forgive without loving. And I don’t mean sentimentality. I don’t mean mush. I mean having enough courage to stand up and say, ‘I forgive. I’m finished with it.’— [Maya Angelou](https://r20.rs6.net/tn.jsp?f=001L9L8DXOkR6ju0uGa7xhmWn_Jm7rH4W7Pd-lYwt6-KtX-abhdqYnzDThttRZKB4QGhYMHtQFnI2XsocNxpug8afC86bp8BUIMi5wBpUjDSYFxr9p6qnt50QUFS26U7WV8J1UW9YkW9zy3rpmeCVTtj7oOHr1ysTx1C0uEpt1-Az0q4UecAXaer-yOGFi42xU4wH0sjb_eQ8WNjkoL-UFuYYNLEqjsvxt3&c=&ch=)
+"You can’t forgive without loving. And I don’t mean sentimentality. I don’t mean mush. I mean having enough courage to stand up and say, ‘I forgive. I’m finished with it.’—[Maya Angelou](https://r20.rs6.net/tn.jsp?f=001L9L8DXOkR6ju0uGa7xhmWn_Jm7rH4W7Pd-lYwt6-KtX-abhdqYnzDThttRZKB4QGhYMHtQFnI2XsocNxpug8afC86bp8BUIMi5wBpUjDSYFxr9p6qnt50QUFS26U7WV8J1UW9YkW9zy3rpmeCVTtj7oOHr1ysTx1C0uEpt1-Az0q4UecAXaer-yOGFi42xU4wH0sjb_eQ8WNjkoL-UFuYYNLEqjsvxt3&c=&ch=)
 
 “It can be hard to forgive and let go but it’s important to remember that harboring the resentment and holding a grudge can hurt you even more. The word ‘forgive’ really means to give something up for yourself not for them.” –Jack Canfield
 

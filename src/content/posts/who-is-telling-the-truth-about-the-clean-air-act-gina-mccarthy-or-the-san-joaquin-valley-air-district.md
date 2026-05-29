@@ -23,6 +23,6 @@ I’m sure Administrator McCarthy is like me in that at the end of the day, it i
 
 We must acknowledge the truth on this issue—and let that guide us.  The Clean Air Act requires States to reduce background if this is necessary to achieve attainment and protect human health.  (42 U.S.C. § 7407(a)).  In fact, States have been knowingly or unknowingly reducing background levels to some degree for years now by offsetting foreign pollution and the climate change penalty.
 
-*——-“Truth, like surgery, may hurt, but it cures.” —Hans Suyin*
+*——-“Truth, like surgery, may hurt, but it cures.”—Hans Suyin*
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

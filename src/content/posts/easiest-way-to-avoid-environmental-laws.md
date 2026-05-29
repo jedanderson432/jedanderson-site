@@ -9,10 +9,10 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/easiest-way-to-avoid-environmental-laws.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '> —“The easiest way to avoid environmental regulation is to create more of them.”'
+abstract: '>—“The easiest way to avoid environmental regulation is to create more of them.”'
 ---
 
-> —“The easiest way to avoid environmental regulation is to create more of them.”
+>—“The easiest way to avoid environmental regulation is to create more of them.”
 
 People ask me what the law says.  Increasingly I ask, “What do you want it to say?”  As environmental regulations grow in size and complexity—the ambiguities, conflicts, and redundancies grow—and therefore the ability to construe them however we want grows.
 
