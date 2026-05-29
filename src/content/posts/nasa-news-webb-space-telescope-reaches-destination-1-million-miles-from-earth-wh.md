@@ -54,7 +54,7 @@ In computer simulations of possible universes, researchers have discovered that 
 
 A group of scientists may have stumbled upon a radical new way to do cosmology.
 
-Cosmologists usually determine the composition of the universe by observing as much of it as possible.But these researchers have found that a machine learning algorithm can scrutinize a single simulated galaxy and predict the overall makeup of the digital universe in which it exists— a feat analogous to analyzing a random grain of sand under a microscope and working out the mass of Eurasia. The machines appear to have found a pattern that might someday allow astronomers to draw sweeping conclusions about the real cosmos merely by studying its elemental building blocks.
+Cosmologists usually determine the composition of the universe by observing as much of it as possible.But these researchers have found that a machine learning algorithm can scrutinize a single simulated galaxy and predict the overall makeup of the digital universe in which it exists—a feat analogous to analyzing a random grain of sand under a microscope and working out the mass of Eurasia. The machines appear to have found a pattern that might someday allow astronomers to draw sweeping conclusions about the real cosmos merely by studying its elemental building blocks.
 
 “This is a completely different idea,” said [Francisco Villaescusa-Navarro](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqNsEeuyk63PgBNjCafN5w-dQyn7ugbENKwiL_b3TNTT5FuJPsezUhGfP_c9dWu9clYmlS-1xnfa4fvsYuAszFICA_YLmVgJ-f2SOmoV3lk5Y5cOuxX1XTNY=&c=&ch=), a theoretical astrophysicist at the Flatiron Institute in New York and lead author of the work. “Instead of measuring these millions of galaxies, you can just take one. It’s really amazing that this works.”
 
@@ -389,7 +389,7 @@ SIMPLICITY
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
-- “When the solution is simple, God is answering.” —Albert Einstein
+- “When the solution is simple, God is answering.”—Albert Einstein
 - “Nature is pleased with simplicity. And nature is no dummy.” ― Isaac Newton
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
@@ -397,15 +397,15 @@ SIMPLICITY
 ![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-83.png)
 
 - "To be simple is to be great."—Emerson
-- “Rudiments or principles must not be unnecessarily multiplied —Immanuel Kant
+- “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
 - “There is no greatness where there is not simplicity.” ― Leo Tolstoy
-- “All the great things are simple.” —Winston Churchill
-- “Out of clutter, find simplicity.” —Albert Einstein
+- “All the great things are simple.”—Winston Churchill
+- “Out of clutter, find simplicity.”—Albert Einstein
 - "AI is about making machines more fathomable and more under the control of human beings, not less. Conventional technology has indeed been making our environment more complex and more incomprehensible . . ." - Donald Michie
 - "Plurality should not be assumed without necessity." --William of Ockham
 - “Knowledge is a process of piling up facts; wisdom lies in their simplification.” ~ Martin H. Fischer
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
-- “The definition of genius is taking the complex and making it simple.” —Albert Einstein
+- “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
 ![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-84.png)
 
@@ -415,7 +415,7 @@ SIMPLICITY
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
 - “Simplicity is the key to brilliance.”–Bruce Lee
 - “Out of intense complexities, intense simplicities emerge.” –Winston Churchill
-- “Simplicity, simplicity, simplicity!” —Henry David Thoreau
+- “Simplicity, simplicity, simplicity!”—Henry David Thoreau
 - “Simplicity is the glory of expression.” ~ Walt Whitman
 - “Nothing is more simple than greatness; indeed, to be simple is to be great.” ~ Ralph Waldo Emerson
 - “The great artist and thinker are the simplifiers.”—Henri Frederic Amiel
@@ -453,19 +453,19 @@ SIMPLICITY
 - “Although there are no textbooks on simplicity, simple systems work and complex don’t.” ––Jim Gray
 - “Simplicity does not precede complexity, but follows it.”- Alan J. Perlis
 - “The simplest things are often the truest.”—Richard Bach
-- “A lady once offered me a mat, but as I had no room to spare within the house, nor time to spare within or without to shake it, I declined it.” —Henry David Thoreau
+- “A lady once offered me a mat, but as I had no room to spare within the house, nor time to spare within or without to shake it, I declined it.”—Henry David Thoreau
 - “Five lines where three are enough is stupidity. Nine pounds where three are sufficient is stupidity.”—Frank Lloyd Wright
 - “Don’t be fooled by the many books on complexity or by the many complex and arcane algorithms you find in this book or elsewhere. Although there are no textbooks on simplicity, simple systems work and complex don’t.” ––Jim Gray
 - “When you first start off trying to solve a problem, the first solutions you come up with are very complex, and most people stop there. But if you keep going, and live with the problem and peel more layers of the onion off, you can often times arrive at some very elegant and simple solutions.”—Steve Jobs
-- “I do believe in simplicity. [. . .] When the mathematician would solve a difficult problem, he first frees the equation of all incumbrances, and reduces it to its simplest terms. So simplify the problem of life, distinguish the necessary and the real. Probe the earth to see where your main roots run.” —Henry David Thoreau
+- “I do believe in simplicity. [. . .] When the mathematician would solve a difficult problem, he first frees the equation of all incumbrances, and reduces it to its simplest terms. So simplify the problem of life, distinguish the necessary and the real. Probe the earth to see where your main roots run.”—Henry David Thoreau
 - “Complexity is a sign of technical immaturity. Simplicity of use is the real sign of a well-designed product whether it is an ATM or a Patriot missile.”– Daniel T. Ling
 - “[T]he grand aim of all science…is to cover the greatest possible number of empirical facts by logical deductions from the smallest possible number of hypotheses or axioms.”—Albert Einstein
-- “Simplicity is the law of nature for men as well as for flowers.” —Henry David Thoreau
+- “Simplicity is the law of nature for men as well as for flowers.”—Henry David Thoreau
 - “In building a statue, a sculptor doesn’t keep adding clay to his subject. Actually, he keeps chiselling away at the inessentials until the truth of its creation is revealed without obstructions.”—Bruce Lee
 - “Simplifications have had a much greater long-range scientific impact than individual feats of ingenuity. The opportunity for simplification is very encouraging, because in all examples that come to mind the simple and elegant systems tend to be easier and faster to design and get right, more efficient in execution, and much more reliable than the more contrived contraptions that have to be debugged into some degree of acceptability…. Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.”– Edsger W. Dijkstra
-- “I’ll tell you what you need to be a great scientist. You don’t have to be able understand very complicated things. It’s just the opposite. You have to be able to see what looks like the most complicated thing in the world and, in a flash, find the underlying simplicity. That’s what you need: a talent for simplicity.”— Mitchell Wilson
-- “Science may be described as the art of systematic over-simplification.”— Karl Popper
-- “The ability to simplify means to eliminate the unnecessary so that the necessary may speak.” —-Hans Hofmann
+- “I’ll tell you what you need to be a great scientist. You don’t have to be able understand very complicated things. It’s just the opposite. You have to be able to see what looks like the most complicated thing in the world and, in a flash, find the underlying simplicity. That’s what you need: a talent for simplicity.”—Mitchell Wilson
+- “Science may be described as the art of systematic over-simplification.”—Karl Popper
+- “The ability to simplify means to eliminate the unnecessary so that the necessary may speak.”—-Hans Hofmann
 - “The field of Artificial Intelligence is set to conquer most of the human disciplines; from art and literature to commerce and sociology; from computational biology and decision analysis to games and puzzles.” –Anand Krish
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton

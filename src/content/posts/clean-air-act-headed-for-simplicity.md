@@ -27,8 +27,8 @@ Ignorance is not simplicity.  As our understanding grows, we as humans keep arra
 > *But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton*
 
 - **“The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller**
-- **“I’ll tell you what you need to be a great scientist. You don’t have to be ableunderstand very complicated things. It’s just the opposite. You have to be able to see what looks like the most complicated thing in the world and, in a flash, find the underlying simplicity. That’s what you need: a talent for simplicity.”— *Mitchell Wilson***
-- **“Sciencemay be described as the art of systematic over-simplification.”— *Karl Popper***
+- **“I’ll tell you what you need to be a great scientist. You don’t have to be ableunderstand very complicated things. It’s just the opposite. You have to be able to see what looks like the most complicated thing in the world and, in a flash, find the underlying simplicity. That’s what you need: a talent for simplicity.”—*Mitchell Wilson***
+- **“Sciencemay be described as the art of systematic over-simplification.”—*Karl Popper***
 - **“[T]he grand aim of all science…is to cover the greatest possible number of empirical facts by logical deductions from the smallest possible number of hypotheses or axioms.”—Albert Einstein**
 - **“Simplicity does not precede complexity, but follows it.”- Alan J. Perlis**
 

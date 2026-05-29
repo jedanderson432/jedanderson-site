@@ -9,6 +9,22 @@
   # can otherwise carry stale tags/dates across builds on Netlify).
   CACHE_BUST = "2026-05-12-v1"
 
+# Magnifica Vita was re-typed from letter to essay on 2026-05-29. Its
+# canonical URL moved from /letters/ to /essays/. Permanent redirects
+# preserve the old URLs (HTML and raw markdown). force = true so the
+# rule applies regardless of any cached artifact at the old path.
+[[redirects]]
+  from = "/letters/magnifica-vita"
+  to = "/essays/magnifica-vita"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/letters/magnifica-vita.md"
+  to = "/essays/magnifica-vita.md"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*.md"
   [headers.values]
@@ -16,6 +32,11 @@
 
 [[headers]]
   for = "/llms.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+
+[[headers]]
+  for = "/llms-full.txt"
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
 

@@ -15,6 +15,6 @@ Complexity builds mountains.  Simplicity moves mountains.
 
 [![CAA and Simplicity](/images/sip/caa-and-simplicity.png)](/images/sip/caa-and-simplicity.png)
 
-> —“That’s been one of my mantras – focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” ***—Steve Jobs***
+>—“That’s been one of my mantras – focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” ***—Steve Jobs***
 
 The world is changing.  We must change with it.  Time to simplify and transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “[The Clean Air and Climate Change Act of 2015](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)”).  We can make it happen.

@@ -31,7 +31,7 @@ Get ready! The world is becoming your kind of place!
 
 "The creative adult is the child who survived." -- Ursula Leguin
 
-“The true sign of intelligence is not knowledge, but imagination.” —Albert Einstein
+“The true sign of intelligence is not knowledge, but imagination.”—Albert Einstein
 
 "The desire to create is one of the deepest yearnings of the human soul." -- Dieter F. Uchtdorf
 
@@ -45,13 +45,13 @@ Get ready! The world is becoming your kind of place!
 
 "The chief enemy of creativity is "good" sense." -- Pablo Picasso
 
-“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.” —Steve Jobs
+“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.”—Steve Jobs
 
 “Creativity is more than just being different. Anybody can plan weird; that’s easy. What’s hard is to be as simple as Bach. Making the simple, awesomely simple, that’s creativity” – Charles Mingus
 
-“There is no doubt that creativity is the most important human resource of all. Without creativity, there would be no progress, and we would be forever repeating the same patterns.” —Edward de Bono
+“There is no doubt that creativity is the most important human resource of all. Without creativity, there would be no progress, and we would be forever repeating the same patterns.”—Edward de Bono
 
-“Creativity is… seeing something that doesn’t exist already. You need to find out how you can bring into being and that way be a playmate with God.” —Michele Shea
+“Creativity is… seeing something that doesn’t exist already. You need to find out how you can bring into being and that way be a playmate with God.”—Michele Shea
 
 ![](/images/posts/encouraging-you/img-02.gif)
 

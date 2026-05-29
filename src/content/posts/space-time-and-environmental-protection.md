@@ -63,7 +63,7 @@ I
 
 "Our imagination is stretched to the utmost, not as in fiction, to imagine things which are not really there, but just to comprehend those things which are there."
 
-— Richard P. Feynman
+—Richard P. Feynman
 
 "What if everything is an illusion and nothing exists? In that case, I definitely overpaid for my carpet." --Woody Allen
 
@@ -71,7 +71,7 @@ I
 
 :"The whole question of imagination in science is often misunderstood by people in other disciplines. ... They overlook the fact that whatever we are allowed to imagine in science must be consistent with everything else we know."
 
-— Richard P. Feynman
+—Richard P. Feynman
 
 “In a world where everything is ridiculous, nothing can be ridiculed. You cannot unmask a mask.” - GK Chesterton
 

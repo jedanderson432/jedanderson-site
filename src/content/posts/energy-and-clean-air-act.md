@@ -17,6 +17,6 @@ Most of the world’s air pollution is related to energy use and production.  En
 
 What a great future we are headed toward!
 
->  —“Progress lies not in enhancing what is, but in advancing toward what will be.”—Kahlil Gibran
+>—“Progress lies not in enhancing what is, but in advancing toward what will be.”—Kahlil Gibran
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

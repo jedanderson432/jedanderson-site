@@ -27,7 +27,7 @@ VISUALIZE
 
 ---“The art and practice of visualizing data is becoming ever more important in bridging the human-computer gap to mediate analytical insight in a meaningful way.” ―Edd Dumbill
 
----“Visualization gives you answers to questions you didn’t know you had.” —Ben Schneiderman
+---“Visualization gives you answers to questions you didn’t know you had.”—Ben Schneiderman
 
 ![](/images/posts/the-power-of-data-visualization/img-01.gif)
 

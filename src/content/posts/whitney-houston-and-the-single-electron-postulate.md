@@ -280,15 +280,15 @@ FIGHT
 
 ENTROPY
 
-"Everything that comes together falls apart. Everything. The chair I’m sitting on. It was built, and so it will fall apart. I’m gonna fall apart, probably before this chair. And you’re gonna fall apart. The cells and organs and systems that make you you—they came together, grew together, and so must fall apart. The Buddha knew one thing science didn’t prove for millennia after his death: Entropy increases. Things fall apart."— [J](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwE-flwLLlZUw980G8ewAN0PyaECMH-S_Cb5SGu3GuIxccvrSKK12AuH8719oiFubSB08l2gDVTIVVn282wnw8T7kh6mQjREsD&c=&ch=)ohn Green
+"Everything that comes together falls apart. Everything. The chair I’m sitting on. It was built, and so it will fall apart. I’m gonna fall apart, probably before this chair. And you’re gonna fall apart. The cells and organs and systems that make you you—they came together, grew together, and so must fall apart. The Buddha knew one thing science didn’t prove for millennia after his death: Entropy increases. Things fall apart."—[J](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwE-flwLLlZUw980G8ewAN0PyaECMH-S_Cb5SGu3GuIxccvrSKK12AuH8719oiFubSB08l2gDVTIVVn282wnw8T7kh6mQjREsD&c=&ch=)ohn Green
 
-"Life, this anti-entropy, ceaselessly reloaded with energy, is a climbing force, toward order amidst chaos, toward light, among the darkness of the indefinite, toward the mystic dream of Love, between the fire which devours itself and the silence of the Cold."— Albert Claude
+"Life, this anti-entropy, ceaselessly reloaded with energy, is a climbing force, toward order amidst chaos, toward light, among the darkness of the indefinite, toward the mystic dream of Love, between the fire which devours itself and the silence of the Cold."—Albert Claude
 
-"Entropy shakes its angry fist at you for being clever enough to organize the world."— Brandon Sanderson
+"Entropy shakes its angry fist at you for being clever enough to organize the world."—Brandon Sanderson
 
 "The organism feeds on negative entropy."
 
-— Erwin Schrodinger
+—Erwin Schrodinger
 
 ﻿
 
@@ -298,23 +298,23 @@ ENTROPY
 
 [J](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwXHdP5a77BZWqbiNdZLsst1Xz_QuYyjQ_uYQwahk3D5bbhswoh5CCSdA3L-D0_F48Y5cmOw7BdKHtrf3Tseoa5JoVTIacSIHFJZEnGvzjcGC83HO7pivGqStb9pOBBim1&c=&ch=)ason Silva
 
-"The total energy of the universe is constant; the total entropy is continually increasing."— Rudolf Clausius
+"The total energy of the universe is constant; the total entropy is continually increasing."—Rudolf Clausius
 
 "[J](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwMyQx8llv_Th6I8P_fhaEOnODlv7--NPOD92tXznYGQUAz27lCeylWV6q6Ro1__zN9_3COf1N-LqlufbRzqUC5GHkv0F8BQ9hLG-mNYhb29NB9CNKSxaqTJUoC5HL9_NC&c=&ch=)[ust as entropy is a measure of disorganization, the information carried by a set of messages is a measure of organization. In fact, it is possible to interpret the information carried by a message as essentially the negative of its entropy, and the negative logarithm of its probability. That is, the more probable the message, the less information it gives. Cliches, for exa](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwMyQx8llv_Th6I8P_fhaEOnODlv7--NPOD92tXznYGQUAz27lCeylWV6q6Ro1__zN9_3COf1N-LqlufbRzqUC5GHkv0F8BQ9hLG-mNYhb29NB9CNKSxaqTJUoC5HL9_NC&c=&ch=)[mple, are less illuminating than great poems.](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwMyQx8llv_Th6I8P_fhaEOnODlv7--NPOD92tXznYGQUAz27lCeylWV6q6Ro1__zN9_3COf1N-LqlufbRzqUC5GHkv0F8BQ9hLG-mNYhb29NB9CNKSxaqTJUoC5HL9_NC&c=&ch=)" -[Norbert Wiener](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRw1uktUWUTdEjaLL4dIGXMOK9OwbM0kmTPFz9Jctylpbsf9kFJaKI1evWp8_E4EZhuwG9wXy-SS45bwfGut3Ay6JA0b0FqriQ5nBWxW9tynqchmpueJDpECw==&c=&ch=)
 
 "If we knew exactly what animal life was like before the fall into sin and knew what nature was like before the law of entropy invaded it, we would already be living in heaven."
 
-— Walter Lang
+—Walter Lang
 
 "I think you should always be aware that entropy is not on your side." - Elon Musk
 
-"It was not easy for a person brought up in the ways of classical thermodynamics to come around to the idea that gain of entropy eventually is nothing more nor less than loss of information."— Gilbert N. Lewis
+"It was not easy for a person brought up in the ways of classical thermodynamics to come around to the idea that gain of entropy eventually is nothing more nor less than loss of information."—Gilbert N. Lewis
 
-"It sometimes seems as if curbing entropy is our quixotic purpose in this universe."— James Gleick
+"It sometimes seems as if curbing entropy is our quixotic purpose in this universe."—James Gleick
 
-"The powerful notion of entropy, which comes from a very special branch of physics … is certainly useful in the study of communication and quite helpful when applied in the theory of language."— J. Robert Oppenheimer
+"The powerful notion of entropy, which comes from a very special branch of physics … is certainly useful in the study of communication and quite helpful when applied in the theory of language."—J. Robert Oppenheimer
 
-"Only entropy comes easy."— Lewis Mumford
+"Only entropy comes easy."—Lewis Mumford
 
 "Information is synonymous with Entropy. While entropy has universal applications, it is merely a measure of uncertainty in discrete packages called ‘bits’, as coined by Claude Shannon. For instance, if you increase your own entropy, you increase uncertainty of something, but if you decrease your own entropy, you reduce uncertainty while increasing your knowledge of something instead."
 
@@ -328,17 +328,17 @@ ENTROPY
 
 "In energy, we try to minimize entropy by limiting how much we consume and how efficiently we consume it. Our goal is to find ordered sources of energy and resist the influence of entropy on our bodies. In communications, we minimize entropy by finding information and reducing uncertainty. In a way, by reducing disorder via communication, we can halt the entropic process of energy; a hunter-gatherer can use language to communicate with another to warn about being eaten by a lion, both reducing the uncertainty of 1. where the lion is (information entropy) and 2. the process of being eaten by a lion (energy entropy). This act of communicating reduces the probability space of all possible events and allows us to act more efficiently and effectively. Understanding the nature of how this powerful law operates in the digital and physical realms is key to understanding the connections between thermodynamics and the information age."
 
-"Death is not necessarily what gives meaning to life LIFE gives meaning to life, and what we do with life, which is to create knowledge like music, art, science To this end, I believe intelligent life might be evolution's secret weapon: the ultimate hack that might help us transcend entropy."— [J](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwKYfLmg5Ls_ibxTo_MHSd2VPSxyTBjjOS7iSSZ4jlkIu1BktMb9uoPZLrFcTC1ZsDQnS8FhxJ33Yijf65ispThDuYOX27XpcFT7SYYZ7PRvg=&c=&ch=)ason Silva
+"Death is not necessarily what gives meaning to life LIFE gives meaning to life, and what we do with life, which is to create knowledge like music, art, science To this end, I believe intelligent life might be evolution's secret weapon: the ultimate hack that might help us transcend entropy."—[J](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwKYfLmg5Ls_ibxTo_MHSd2VPSxyTBjjOS7iSSZ4jlkIu1BktMb9uoPZLrFcTC1ZsDQnS8FhxJ33Yijf65ispThDuYOX27XpcFT7SYYZ7PRvg=&c=&ch=)ason Silva
 
 "I think we defy entropy and impermanence with our films and our poems. We hold onto each other a little harder and say, 'I will not let go. I do not accept the ephemeral nature of this moment. I'm going to extend it...forever. Or at least I'm going to try.'- [J](https://r20.rs6.net/tn.jsp?f=001pHpt3HWFnNNFdOVtv4WWQlKrYCQ_giz3ScJMtHrdakfBWGgXVLhr2eeSg7MRBcRwKYfLmg5Ls_ibxTo_MHSd2VPSxyTBjjOS7iSSZ4jlkIu1BktMb9uoPZLrFcTC1ZsDQnS8FhxJ33Yijf65ispThDuYOX27XpcFT7SYYZ7PRvg=&c=&ch=)ason Silva
 
 "People will try to tell you that all the great opportunities have been snapped up. In reality, the world changes every second, blowing new opportunities in all directions, including yours."
 
-— Ken Hakuta
+—Ken Hakuta
 
 “Courage is fear that has said its prayers.”
 
-— Anne Lamott
+—Anne Lamott
 
 "If we don’t change, we don’t grow. If we don’t grow, we aren’t really living.”
 
@@ -350,23 +350,23 @@ ENTROPY
 
 “Progress is impossible without change, and those who cannot change their minds cannot change anything.”
 
-— George Bernard Shaw
+—George Bernard Shaw
 
 “To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.”
 
-— Henri Bergson
+—Henri Bergson
 
 “For nothing is fixed, forever and forever and forever, it is not fixed; the earth is always shifting, the light is always changing, the sea does not cease to grind down rock.”
 
-— James Baldwin
+—James Baldwin
 
 “Change is the law of life. And those who look only to the past or present are certain to miss the future.”
 
-— John F. Kennedy
+—John F. Kennedy
 
 "We are like eggs at present. And you cannot go on indefinitely being just an ordinary, decent egg. We must be hatched or go bad.”
 
-— C.S. Lewis
+—C.S. Lewis
 
 ![](/images/posts/whitney-houston-and-the-single-electron-postulate/img-37.png)
 
@@ -735,7 +735,7 @@ SIMPLICITY
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
-- “When the solution is simple, God is answering.” —Albert Einstein
+- “When the solution is simple, God is answering.”—Albert Einstein
 - “Nature is pleased with simplicity. And nature is no dummy.” ― Isaac Newton
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
@@ -743,15 +743,15 @@ SIMPLICITY
 ![](/images/posts/whitney-houston-and-the-single-electron-postulate/img-129.png)
 
 - "To be simple is to be great."—Emerson
-- “Rudiments or principles must not be unnecessarily multiplied —Immanuel Kant
+- “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
 - “There is no greatness where there is not simplicity.” ― Leo Tolstoy
-- “All the great things are simple.” —Winston Churchill
-- “Out of clutter, find simplicity.” —Albert Einstein
+- “All the great things are simple.”—Winston Churchill
+- “Out of clutter, find simplicity.”—Albert Einstein
 - "AI is about making machines more fathomable and more under the control of human beings, not less. Conventional technology has indeed been making our environment more complex and more incomprehensible . . ." - Donald Michie
 - "Plurality should not be assumed without necessity." --William of Ockham
 - “Knowledge is a process of piling up facts; wisdom lies in their simplification.” ~ Martin H. Fischer
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
-- “The definition of genius is taking the complex and making it simple.” —Albert Einstein
+- “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
 ![](/images/posts/whitney-houston-and-the-single-electron-postulate/img-130.png)
 
@@ -759,7 +759,7 @@ SIMPLICITY
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
 - “Simplicity is the key to brilliance.”–Bruce Lee
 - “Out of intense complexities, intense simplicities emerge.” –Winston Churchill
-- “Simplicity, simplicity, simplicity!” —Henry David Thoreau
+- “Simplicity, simplicity, simplicity!”—Henry David Thoreau
 - “Simplicity is the glory of expression.” ~ Walt Whitman
 - “Nothing is more simple than greatness; indeed, to be simple is to be great.” ~ Ralph Waldo Emerson
 - “The great artist and thinker are the simplifiers.”—Henri Frederic Amiel
@@ -797,19 +797,19 @@ SIMPLICITY
 - “Although there are no textbooks on simplicity, simple systems work and complex don’t.” ––Jim Gray
 - “Simplicity does not precede complexity, but follows it.”- Alan J. Perlis
 - “The simplest things are often the truest.”—Richard Bach
-- “A lady once offered me a mat, but as I had no room to spare within the house, nor time to spare within or without to shake it, I declined it.” —Henry David Thoreau
+- “A lady once offered me a mat, but as I had no room to spare within the house, nor time to spare within or without to shake it, I declined it.”—Henry David Thoreau
 - “Five lines where three are enough is stupidity. Nine pounds where three are sufficient is stupidity.”—Frank Lloyd Wright
 - “Don’t be fooled by the many books on complexity or by the many complex and arcane algorithms you find in this book or elsewhere. Although there are no textbooks on simplicity, simple systems work and complex don’t.” ––Jim Gray
 - “When you first start off trying to solve a problem, the first solutions you come up with are very complex, and most people stop there. But if you keep going, and live with the problem and peel more layers of the onion off, you can often times arrive at some very elegant and simple solutions.”—Steve Jobs
-- “I do believe in simplicity. [. . .] When the mathematician would solve a difficult problem, he first frees the equation of all incumbrances, and reduces it to its simplest terms. So simplify the problem of life, distinguish the necessary and the real. Probe the earth to see where your main roots run.” —Henry David Thoreau
+- “I do believe in simplicity. [. . .] When the mathematician would solve a difficult problem, he first frees the equation of all incumbrances, and reduces it to its simplest terms. So simplify the problem of life, distinguish the necessary and the real. Probe the earth to see where your main roots run.”—Henry David Thoreau
 - “Complexity is a sign of technical immaturity. Simplicity of use is the real sign of a well-designed product whether it is an ATM or a Patriot missile.”– Daniel T. Ling
 - “[T]he grand aim of all science…is to cover the greatest possible number of empirical facts by logical deductions from the smallest possible number of hypotheses or axioms.”—Albert Einstein
-- “Simplicity is the law of nature for men as well as for flowers.” —Henry David Thoreau
+- “Simplicity is the law of nature for men as well as for flowers.”—Henry David Thoreau
 - “In building a statue, a sculptor doesn’t keep adding clay to his subject. Actually, he keeps chiselling away at the inessentials until the truth of its creation is revealed without obstructions.”—Bruce Lee
 - “Simplifications have had a much greater long-range scientific impact than individual feats of ingenuity. The opportunity for simplification is very encouraging, because in all examples that come to mind the simple and elegant systems tend to be easier and faster to design and get right, more efficient in execution, and much more reliable than the more contrived contraptions that have to be debugged into some degree of acceptability…. Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.”– Edsger W. Dijkstra
-- “I’ll tell you what you need to be a great scientist. You don’t have to be able understand very complicated things. It’s just the opposite. You have to be able to see what looks like the most complicated thing in the world and, in a flash, find the underlying simplicity. That’s what you need: a talent for simplicity.”— Mitchell Wilson
-- “Science may be described as the art of systematic over-simplification.”— Karl Popper
-- “The ability to simplify means to eliminate the unnecessary so that the necessary may speak.” —-Hans Hofmann
+- “I’ll tell you what you need to be a great scientist. You don’t have to be able understand very complicated things. It’s just the opposite. You have to be able to see what looks like the most complicated thing in the world and, in a flash, find the underlying simplicity. That’s what you need: a talent for simplicity.”—Mitchell Wilson
+- “Science may be described as the art of systematic over-simplification.”—Karl Popper
+- “The ability to simplify means to eliminate the unnecessary so that the necessary may speak.”—-Hans Hofmann
 - “The field of Artificial Intelligence is set to conquer most of the human disciplines; from art and literature to commerce and sociology; from computational biology and decision analysis to games and puzzles.” –Anand Krish
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton

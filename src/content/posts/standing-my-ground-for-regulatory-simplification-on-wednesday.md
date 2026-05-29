@@ -14,7 +14,7 @@ abstract: 'I will stand my ground.'
 I will stand my ground.
 
 - *“The simplest things are often the truest.”—Richard Bach*
-- *“All the great things are simple.” —Winston Churchill*
+- *“All the great things are simple.”—Winston Churchill*
 - *“The definition of genius is taking the complex and making it simple.” – Albert Einstein*
 - *“Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton*
 - *“When the solution is simple, God is answering.” – Albert Einstein*

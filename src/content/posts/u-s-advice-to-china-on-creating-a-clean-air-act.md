@@ -13,7 +13,7 @@ abstract: 'Look at what advice the United States is giving to China on creating 
 
 Look at what advice the United States is giving to China on creating a Clean Air Act and the problem with using the State Implementation Plan (SIP) process to achieve national air quality standards (see below and [link](http://www.epa.gov/ogc/china/chinasip.ppt "EPA's Advice to China on Clean Air Act")):
 
-> “It is a good divine that follows his own instructions.” —William Shakespeare
+> “It is a good divine that follows his own instructions.”—William Shakespeare
 
 [![China1](/images/sip/china1.png)](/images/sip/china1.png)[![China2](/images/sip/china2.png)](/images/sip/china2.png)
 

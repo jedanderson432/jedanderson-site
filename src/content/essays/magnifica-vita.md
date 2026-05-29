@@ -3,9 +3,9 @@ title: "Magnifica Vita: Humanitas & Natura"
 slug: "magnifica-vita"
 subtitle: "An open letter on safeguarding all life and helping it to grow, expand, and thrive on Earth and, in time, throughout the cosmos in this age of artificial intelligence"
 date: 2026-05-31
-type: letter
+type: essay
 status: published
-tags: ["foundational", "enviroai", "environmental-superintelligence", "causal-sovereignty", "faith", "cosmic-ledger", "information-theory"]
+tags: ["enviroai", "environmental-superintelligence", "causal-sovereignty", "faith", "cosmic-ledger", "information-theory"]
 abstract: "An open letter in dialogue with Pope Leo XIV's Magnifica Humanitas, arguing that humanity is the biosphere's first defender, that environmental superintelligence is the cognitive layer the planet never had, and that aligning AI with nature is the same act as defending life on Earth."
 license: CC-BY-4.0
 pdf: "/pdfs/magnifica-vita.pdf"

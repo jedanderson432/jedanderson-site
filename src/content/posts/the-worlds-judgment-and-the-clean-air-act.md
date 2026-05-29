@@ -17,6 +17,6 @@ The world is saying that the Clean Air Act can’t be fixed—and even if it cou
 
 Who’s voice are you going to listen to?  The world’s?
 
-> ——“The world is not so excellent that its judgment of greatness unequivocally has great significance – except as unconscious sarcasm.”—**Soren Kierkegaard**
+>——“The world is not so excellent that its judgment of greatness unequivocally has great significance – except as unconscious sarcasm.”—**Soren Kierkegaard**
 
 Time to transform the SIP process.  We can make it happen.

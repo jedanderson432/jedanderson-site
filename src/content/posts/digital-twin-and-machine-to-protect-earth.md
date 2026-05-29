@@ -5,7 +5,7 @@ date: 2021-08-19
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "BUILDING A MACHINE TO PROTECT EARTH ‌ Approach (click here) Game-Plan (click here) ---\"The earth is what we all have in common.” —Wendell Berry"
+abstract: "BUILDING A MACHINE TO PROTECT EARTH ‌ Approach (click here) Game-Plan (click here) ---\"The earth is what we all have in common.”—Wendell Berry"
 license: CC-BY-4.0
 pdf: "/pdfs/digital-twin-and-machine-to-protect-earth.pdf"
 original_source: "Constant Contact campaign"

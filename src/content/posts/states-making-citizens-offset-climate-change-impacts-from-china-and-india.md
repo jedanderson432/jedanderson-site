@@ -22,8 +22,8 @@ abstract: '[](/images/sip/china-india-and-u-s-pollution-impacts.png)Wait until s
 Isn’t this iconoclastic?  And what’s really fascinating is that Congress and EPA have told the States that they do not expect States to offset emissions from other countries:
 
 - **The EPA does not expect States to restrict emissions from domestic sources to offset the impacts of international transport of pollution.”**—–U.S. EPA (64  Fed. Reg. 35714)
-- **“[T]he EPA will not hold States responsible for developing strategies to “compensate” for the effects of emissions from foreign sources”.** —-U.S. EPA (64  Fed. Reg. 35714).
-- **“Congress clearly wanted to avoid penalizing such areas by not making them responsible for control of emissions emanating from a foreign country over which they have no jurisdiction.”**  —U.S. EPA (see <http://www.epa.gov/ttncaaa1/t1/fr_notices/pm-add.pdf>)
+- **“[T]he EPA will not hold States responsible for developing strategies to “compensate” for the effects of emissions from foreign sources”.**—-U.S. EPA (64  Fed. Reg. 35714).
+- **“Congress clearly wanted to avoid penalizing such areas by not making them responsible for control of emissions emanating from a foreign country over which they have no jurisdiction.”**—U.S. EPA (see <http://www.epa.gov/ttncaaa1/t1/fr_notices/pm-add.pdf>)
 
 Time to acknowledge the truth . . . . . . . . . . . .  it’s a “small multi-pollutant world after all”.
 

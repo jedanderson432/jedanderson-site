@@ -30,6 +30,6 @@ The world is changing.  We must change with it.  Time to transform the SIP proce
 
 ### EPA Statements on Foreign Pollution
 
-- “The EPA does not expect States to restrict emissions from domestic sources to offset the impacts of international transport of pollution.”  —–U.S. EPA (64  Fed. Reg. 35714)
-- “[T]he EPA will not hold States responsible for developing strategies to “compensate” for the effects of emissions from foreign sources”.  —-U.S. EPA (64  Fed. Reg. 35714).
-- “Congress clearly wanted to avoid penalizing such areas by not making them responsible for control of emissions emanating from a foreign country over which they have no jurisdiction.” —U.S. EPA (see <http://www.epa.gov/ttncaaa1/t1/fr_notices/pm-add.pdf>)
+- “The EPA does not expect States to restrict emissions from domestic sources to offset the impacts of international transport of pollution.”—–U.S. EPA (64  Fed. Reg. 35714)
+- “[T]he EPA will not hold States responsible for developing strategies to “compensate” for the effects of emissions from foreign sources”.—-U.S. EPA (64  Fed. Reg. 35714).
+- “Congress clearly wanted to avoid penalizing such areas by not making them responsible for control of emissions emanating from a foreign country over which they have no jurisdiction.”—U.S. EPA (see <http://www.epa.gov/ttncaaa1/t1/fr_notices/pm-add.pdf>)

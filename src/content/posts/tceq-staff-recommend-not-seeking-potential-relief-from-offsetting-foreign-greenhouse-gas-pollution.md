@@ -15,8 +15,8 @@ abstract: '[](/images/sip/texas-and-foreign-pollution.png)Looks like Texas won�
 
 ## **Quotes from TCEQ Staff’s Recommended Denial:**
 
-> ### **— “[P]redicted effects of climate change on a local area are uncertain.”**–TCEQ
+> ### **—“[P]redicted effects of climate change on a local area are uncertain.”**–TCEQ
 >
-> ### **— “The petitioner does not indicate specifically how Texas’ current or future ozone regulations will unfairly or unequally burden its citizens or businesses due to greenhouse gas emissions emanating from outside the state.”**–-TCEQ
+> ### **—“The petitioner does not indicate specifically how Texas’ current or future ozone regulations will unfairly or unequally burden its citizens or businesses due to greenhouse gas emissions emanating from outside the state.”**–-TCEQ
 >
 > ### **—“The petitioner has not shown whether there is a scientific consensus about how greenhouse gases emitted from a foreign country may affect ozone concentrations in Texas.”**–TCEQ
