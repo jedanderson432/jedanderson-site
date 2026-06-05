@@ -3,14 +3,14 @@
   "generated": "deterministic build-time extraction from src/content/essays + data/manual-claims-extras.json",
   "license": "CC-BY-4.0",
   "counts": {
-    "total": 1131,
-    "auto_extracted": 1144,
+    "total": 1133,
+    "auto_extracted": 1146,
     "manual_entries": 12,
     "manual_overrides": 2,
     "manual_new": 10,
-    "essays_scanned": 67,
+    "essays_scanned": 72,
     "by_status": {
-      "needs_review": 1119,
+      "needs_review": 1121,
       "framework-dependent": 2,
       "established": 9,
       "bet": 1
@@ -7618,6 +7618,36 @@
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-09-24"
+    },
+    {
+      "id": "auto-a348ed2ebe38",
+      "essay_slug": "human-body-information-spiritual-formation",
+      "value": "1",
+      "unit": "%",
+      "type": "percent",
+      "pattern": "percent",
+      "match": "1%",
+      "claim": "The fact: your body makes 330 billion new cells a day, replaces roughly 1% of its cells daily and 98% of its atoms each year, so that within a decade most of the matter you are made of has been swapped out entirely.",
+      "context": "A deck that runs a single physical fact to its spiritual conclusion. The fact: your body makes 330 billion new cells a day, replaces roughly 1% of its cells daily and 98% of its atoms each year, so that within a decade most of the matter you are made of has been swapped out entirely. The matter changed; you did not. What persisted was the pa",
+      "line": 3,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-06-05"
+    },
+    {
+      "id": "auto-ff6c294ed3ae",
+      "essay_slug": "human-body-information-spiritual-formation",
+      "value": "98",
+      "unit": "%",
+      "type": "percent",
+      "pattern": "percent",
+      "match": "98%",
+      "claim": "The fact: your body makes 330 billion new cells a day, replaces roughly 1% of its cells daily and 98% of its atoms each year, so that within a decade most of the matter you are made of has been swapped out entirely.",
+      "context": "A deck that runs a single physical fact to its spiritual conclusion. The fact: your body makes 330 billion new cells a day, replaces roughly 1% of its cells daily and 98% of its atoms each year, so that within a decade most of the matter you are made of has been swapped out entirely. The matter changed; you did not. What persisted was the pattern—the information that",
+      "line": 3,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-06-05"
     },
     {
       "id": "auto-0355e175ec55",
