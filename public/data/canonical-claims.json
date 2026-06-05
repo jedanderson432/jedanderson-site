@@ -3,14 +3,14 @@
   "generated": "deterministic build-time extraction from src/content/essays + data/manual-claims-extras.json",
   "license": "CC-BY-4.0",
   "counts": {
-    "total": 1133,
-    "auto_extracted": 1146,
+    "total": 1134,
+    "auto_extracted": 1147,
     "manual_entries": 12,
     "manual_overrides": 2,
     "manual_new": 10,
-    "essays_scanned": 72,
+    "essays_scanned": 73,
     "by_status": {
-      "needs_review": 1121,
+      "needs_review": 1122,
       "framework-dependent": 2,
       "established": 9,
       "bet": 1
@@ -15928,6 +15928,21 @@
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-29"
+    },
+    {
+      "id": "auto-a229c91c6bf6",
+      "essay_slug": "vita-omnia",
+      "value": "32",
+      "unit": "minutes",
+      "type": "duration",
+      "pattern": "duration",
+      "match": "32 minutes",
+      "claim": "In 2022, for the first time in 4.5 billion years, a celestial body moved because something on Earth wanted it to: the DART spacecraft redirected the asteroid Dimorphos, shortening its orbital period by 32 minutes.",
+      "context": "2022, for the first time in 4.5 billion years, a celestial body moved because something on Earth wanted it to: the DART spacecraft redirected the asteroid Dimorphos, shortening its orbital period by 32 minutes. We are not only the problem. We are, so far, the only available solution. > \"Humanity is the part of nature that finally grew old enough to defend the rest.\" > > —*Magnifica Vita*, 2026 Artificial",
+      "line": 39,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-06-05"
     },
     {
       "id": "auto-92d6d4ab74c1",
