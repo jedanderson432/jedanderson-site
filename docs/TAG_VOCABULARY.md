@@ -37,6 +37,7 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - linkedin-original — provenance for posts that originated as LinkedIn content
 - email-original — provenance for posts that originated as Constant Contact emails
 - visual — pieces where the image is the primary payload
+- visual-essay — slide decks, carousels, and interactive HTML artifacts that live in essays/ as visual-first pieces (the presentation or carousel is the canonical payload; markdown body is framing). Distinct from `visual` (a single dominant image).
 
 ## Conventions
 - Aim for 3-7 tags per piece

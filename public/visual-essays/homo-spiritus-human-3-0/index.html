@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="slides-format" content="viewport">
+    <title>Homo Spiritus — Human 3.0</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <style type="text/tailwindcss">
+        @theme {
+            --color-bg: #07090F;
+            --color-bg-deep: #020308;
+            --color-surface: #0D1020;
+            --color-text: #F0EDE6;
+            --color-text-secondary: #C0BAB0;
+            --color-text-muted: #7A7468;
+            --color-accent-1: #C9A84C;
+            --color-accent-2: #9B7FD4;
+            --color-accent-3: #7EC8E3;
+            --color-glass-bg: rgba(255,255,255,0.05);
+            --color-glass-border: rgba(201,168,76,0.16);
+            --color-vignette: rgba(0,0,0,0.6);
+            --font-display: "Playfair Display", Georgia, serif;
+            --font-body: "Inter", system-ui, sans-serif;
+        }
+    </style>
+    <style>
+        :root { --color-bg:#07090F; --color-text:#F0EDE6; --glow-color-rgb:201,168,76; }
+        *,*::before,*::after{box-sizing:border-box;}
+        html,body{background:var(--color-bg);margin:0;overflow:hidden;}
+        body{font-family:"Inter",system-ui,sans-serif;color:var(--color-text);height:100vh;width:100vw;}
+        .deck{width:100vw;height:100vh;position:relative;}
+        .slide{position:absolute;top:0;left:0;width:100%;height:100%;background:var(--color-bg);display:flex;flex-direction:column;align-items:center;justify-content:center;opacity:0;transform:scale(0.97);transition:opacity 0.75s ease,transform 0.75s ease;pointer-events:none;overflow:hidden;}
+        .slide.active{opacity:1;transform:scale(1);pointer-events:all;}
+        .slide>.content{position:relative;z-index:2;width:100%;max-width:1100px;padding:clamp(1.5rem,4vw,4rem);}
+        .slide::before{content:'';position:absolute;inset:0;z-index:1;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");background-repeat:repeat;background-size:256px 256px;opacity:0.04;mix-blend-mode:overlay;}
+        .slide::after{content:'';position:absolute;inset:0;z-index:1;pointer-events:none;background:radial-gradient(ellipse at center,transparent 45%,var(--color-vignette) 100%);}
+        .nav-controls{position:fixed;bottom:28px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:16px;z-index:100;background:rgba(7,9,15,0.8);backdrop-filter:blur(14px);padding:10px 24px;border-radius:40px;border:1px solid rgba(201,168,76,0.22);}
+        .nav-btn{width:40px;height:40px;border:none;background:rgba(201,168,76,0.1);color:#C9A84C;border-radius:50%;font-size:1.3rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.3s;}
+        .nav-btn:hover{background:rgba(201,168,76,0.22);}
+        .slide-dots{display:flex;gap:8px;}
+        .slide-dots .dot{width:9px;height:9px;border-radius:50%;background:rgba(201,168,76,0.22);cursor:pointer;transition:background 0.3s,transform 0.3s;}
+        .slide-dots .dot.active{background:#C9A84C;transform:scale(1.35);}
+        .slide-counter{font-size:0.78rem;color:#7A7468;min-width:40px;text-align:center;letter-spacing:0.05em;}
+        .reveal{opacity:0;transform:translateY(22px);}
+        @keyframes float-slow{0%{transform:translate(0,0) scale(1);}30%{transform:translate(55px,-45px) scale(1.1);}65%{transform:translate(-35px,38px) scale(0.92);}100%{transform:translate(0,0) scale(1);}}
+        @keyframes float-drift{0%{transform:translate(0,0) rotate(0deg);}40%{transform:translate(-45px,-55px) rotate(4deg);}75%{transform:translate(42px,28px) rotate(-3deg);}100%{transform:translate(0,0) rotate(0deg);}}
+        @keyframes float{0%,100%{transform:translateY(0);}50%{transform:translateY(-14px);}}
+        .gradient-mesh{position:absolute;inset:0;z-index:0;overflow:hidden;pointer-events:none;}
+        .blob{position:absolute;border-radius:50%;filter:blur(90px);animation:float-slow 12s ease-in-out infinite;}
+        .blob:nth-child(2){animation:float-drift 16s ease-in-out infinite;}
+        .blob:nth-child(3){animation:float-slow 20s ease-in-out infinite reverse;}
+        .bg-image{position:absolute;inset:0;background-size:cover;background-position:center;z-index:0;}
+        .bg-overlay{position:absolute;inset:0;z-index:0;}
+        @keyframes glow-pulse{0%,100%{text-shadow:0 0 20px rgba(201,168,76,0.5),0 0 40px rgba(201,168,76,0.2);}50%{text-shadow:0 0 35px rgba(201,168,76,0.8),0 0 70px rgba(201,168,76,0.3);}}
+        .glow-pulse{animation:glow-pulse 3.5s ease-in-out infinite;}
+        .gold-line{height:2px;background:linear-gradient(90deg,transparent,#C9A84C,transparent);margin:1.2rem 0;}
+        .label-tag{display:inline-block;font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:#C9A84C;border:1px solid rgba(201,168,76,0.4);padding:4px 14px;border-radius:40px;margin-bottom:1rem;}
+        .quote-mark{font-family:"Playfair Display",serif;font-size:5rem;color:rgba(201,168,76,0.22);line-height:1;display:block;margin-bottom:-1.5rem;}
+        .card{border:1px solid rgba(201,168,76,0.13);background:rgba(255,255,255,0.04);backdrop-filter:blur(12px);border-radius:16px;padding:1.5rem 1.8rem;transition:transform 0.3s,box-shadow 0.3s;}
+        .card:hover{transform:translateY(-4px);box-shadow:0 12px 40px rgba(201,168,76,0.1);}
+        canvas.particle-canvas{position:absolute;inset:0;z-index:1;}
+        canvas.particle-canvas-ambient{position:absolute;inset:0;z-index:1;}
+
+        /* Evolution bar */
+        .evo-bar{display:flex;align-items:stretch;gap:0;border-radius:12px;overflow:hidden;border:1px solid rgba(201,168,76,0.18);}
+        .evo-segment{flex:1;padding:1.2rem 1rem;text-align:center;position:relative;}
+        .evo-label{font-size:0.68rem;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:0.4rem;}
+        .evo-name{font-family:"Playfair Display",serif;font-size:1rem;font-weight:700;margin-bottom:0.3rem;}
+        .evo-desc{font-size:0.75rem;color:#7A7468;line-height:1.4;}
+        .arrow-right{position:absolute;right:-14px;top:50%;transform:translateY(-50%);z-index:3;font-size:1.4rem;color:#C9A84C;}
+    </style>
+</head>
+<body>
+<div class="mouse-spotlight" style="position:fixed;inset:0;z-index:99;pointer-events:none;"></div>
+<div class="deck">
+
+<!-- ═══════════════════════════════════
+     SLIDE 1 — COVER: WHAT ARE YOU?
+     ═══════════════════════════════════ -->
+<div class="slide slide-1 active" data-slide="1">
+    <div class="bg-image" style="background-image:url('https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/a84a271e-127e-4900-aa80-7ad7d0a19db5.png');"></div>
+    <div class="bg-overlay" style="background:linear-gradient(to bottom,rgba(7,9,15,0.3) 0%,rgba(7,9,15,0.65) 55%,rgba(7,9,15,0.97) 100%);"></div>
+    <canvas class="particle-canvas"></canvas>
+    <div class="content text-center">
+        <div class="reveal" style="margin-bottom:0.9rem;">
+            <span class="label-tag">Human 3.0 · Magnifica Vita</span>
+        </div>
+        <h1 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(2.8rem,7vw,5.8rem);font-weight:900;background:linear-gradient(135deg,#C9A84C,#F0E4B8,#9B7FD4);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;line-height:1.08;margin-bottom:0.9rem;letter-spacing:-0.01em;">What Are You?</h1>
+        <div class="gold-line reveal" style="max-width:320px;margin:0 auto 1.2rem;"></div>
+        <p class="reveal" style="font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(1rem,2vw,1.35rem);color:#C8C2B8;max-width:620px;margin:0 auto 1rem;line-height:1.7;">Machines are replacing your brawn. They are replacing your brain. Each layer stripped away sharpens the only question that has ever mattered: what is irreducibly, uniquely you?</p>
+        <p class="reveal" style="font-size:0.84rem;color:#7A7468;letter-spacing:0.12em;text-transform:uppercase;margin-top:1rem;">Jed Anderson · jedanderson.org</p>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════
+     SLIDE 2 — YOU ARE NOT MATTER
+     ═══════════════════════════════════ -->
+<div class="slide slide-2" data-slide="2">
+    <div class="gradient-mesh">
+        <div class="blob" style="width:480px;height:480px;top:-100px;right:-80px;background:#1A0A40;opacity:0.85;"></div>
+        <div class="blob" style="width:280px;height:280px;bottom:-50px;left:-40px;background:#0A1A30;opacity:0.6;"></div>
+    </div>
+    <div class="content">
+        <span class="label-tag reveal">The Physics of You</span>
+        <h2 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(2rem,4.5vw,3.2rem);font-weight:900;color:#F0EDE6;line-height:1.15;margin-bottom:1rem;">98% of your atoms are replaced<br><span style="color:#C9A84C;">every year.</span></h2>
+        <div class="gold-line reveal" style="max-width:360px;"></div>
+        <p class="reveal" style="font-size:clamp(0.95rem,1.7vw,1.15rem);color:#C0BAB0;line-height:1.75;margin-bottom:1.4rem;max-width:700px;">Your body makes 330 billion new cells a day. By the end of ten years, most of your body has been replaced — entirely new matter, running the same pattern. The chemistry changed. You didn't.</p>
+        <div class="reveal" style="display:grid;grid-template-columns:1fr 1fr;gap:1.1rem;max-width:700px;">
+            <div class="card" style="border-left:3px solid #C9A84C;">
+                <div style="font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#C9A84C;margin-bottom:0.5rem;">The fact</div>
+                <p style="font-size:0.92rem;color:#C0BAB0;line-height:1.6;margin:0;font-style:italic;">"More fundamentally you are not matter. You are information that makes matter."</p>
+                <p style="font-size:0.75rem;color:#7A7468;margin:0.5rem 0 0;">— Jed Anderson</p>
+            </div>
+            <div class="card" style="border-left:3px solid #9B7FD4;">
+                <div style="font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9B7FD4;margin-bottom:0.5rem;">The implication</div>
+                <p style="font-size:0.92rem;color:#C0BAB0;line-height:1.6;margin:0;">If you are a pattern, not a substrate — then the question of what makes you <em>you</em> is not a chemistry question. It is a deeper question entirely.</p>
+            </div>
+        </div>
+        <p class="reveal" style="font-size:0.88rem;font-style:italic;color:#7A7468;margin-top:1rem;">"What lies at the heart of every living thing is not a fire, not warm breath, not a spark of life — it is information." — Richard Dawkins</p>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════
+     SLIDE 3 — THREE PHASES OF HUMANITY
+     ═══════════════════════════════════ -->
+<div class="slide slide-3" data-slide="3">
+    <div class="gradient-mesh">
+        <div class="blob" style="width:420px;height:420px;top:-80px;left:-60px;background:#200A40;opacity:0.8;"></div>
+        <div class="blob" style="width:260px;height:260px;bottom:-40px;right:-30px;background:#0A1A20;opacity:0.6;"></div>
+    </div>
+    <div class="content">
+        <span class="label-tag reveal">The Evolution</span>
+        <h2 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:900;color:#F0EDE6;line-height:1.2;margin-bottom:0.8rem;">Every previous technology freed us<br><span style="color:#C9A84C;">to discover the next layer of what we are.</span></h2>
+        <div class="gold-line reveal" style="max-width:440px;"></div>
+        <div class="reveal" style="margin-top:1.1rem;">
+            <div class="evo-bar">
+                <div class="evo-segment" style="background:rgba(60,30,10,0.5);">
+                    <div class="evo-label" style="color:#A3714A;">Human 1.0</div>
+                    <div class="evo-name" style="color:#E8C89A;">Homo Sapiens</div>
+                    <div style="font-size:1.6rem;margin:0.4rem 0;">🦴</div>
+                    <div class="evo-desc">Brawn. Fire, tools, muscle. What separates us from animals is physical mastery.</div>
+                    <div class="evo-desc" style="color:#C9A84C;margin-top:0.5rem;font-size:0.7rem;">Machines surpassed us: 1800s</div>
+                    <span class="arrow-right">›</span>
+                </div>
+                <div class="evo-segment" style="background:rgba(20,10,50,0.5);">
+                    <div class="evo-label" style="color:#9B7FD4;">Human 2.0</div>
+                    <div class="evo-name" style="color:#C9B8E8;">Homo Technologicus</div>
+                    <div style="font-size:1.6rem;margin:0.4rem 0;">🧠</div>
+                    <div class="evo-desc">Brain. Language, science, computation. What separates us is intelligence.</div>
+                    <div class="evo-desc" style="color:#9B7FD4;margin-top:0.5rem;font-size:0.7rem;">Machines surpassing us: now</div>
+                    <span class="arrow-right">›</span>
+                </div>
+                <div class="evo-segment" style="background:rgba(20,15,5,0.5);position:relative;">
+                    <div class="evo-label" style="color:#C9A84C;">Human 3.0</div>
+                    <div class="evo-name" style="color:#F0E4B8;">Homo Spiritus</div>
+                    <div style="font-size:1.6rem;margin:0.4rem 0;">✨</div>
+                    <div class="evo-desc">Spirit. Direct relationship with God. The one capacity no machine can replicate or replace.</div>
+                    <div class="evo-desc" style="color:#C9A84C;margin-top:0.5rem;font-size:0.7rem;">Machines: cannot enter</div>
+                </div>
+            </div>
+        </div>
+        <p class="reveal" style="font-size:0.88rem;color:#7A7468;margin-top:1rem;line-height:1.6;">"Millions of people will begin to ask: of what continuing value am I, if not what I can do with my brains or brawn? This may lead to the greatest spiritual growth in the history of humanity." — Jed Anderson [file:44]</p>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════
+     SLIDE 4 — THE GREAT IRONY (Kevin Kelly + the answer)
+     ═══════════════════════════════════ -->
+<div class="slide slide-4" data-slide="4">
+    <div class="bg-image" style="background-image:url('https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/67054f8d-d947-46ab-af19-51c0bf03ccd3.png');"></div>
+    <div class="bg-overlay" style="background:linear-gradient(to right,rgba(7,9,15,0.97) 45%,rgba(7,9,15,0.4) 100%);"></div>
+    <div class="content" style="display:flex;align-items:center;min-height:70vh;">
+        <div style="max-width:580px;">
+            <span class="label-tag reveal">The Paradox</span>
+            <h2 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(1.9rem,4vw,3rem);font-weight:900;color:#F0EDE6;line-height:1.2;margin-bottom:1rem;">AI will not take what makes you<br><span style="color:#C9A84C;">most human.</span><br>It will reveal it.</h2>
+            <div class="gold-line reveal" style="max-width:360px;"></div>
+            <p class="reveal" style="font-size:0.92rem;font-style:italic;color:#C0BAB0;line-height:1.7;margin-bottom:1.1rem;border-left:3px solid rgba(155,127,212,0.5);padding-left:1rem;">"The greatest benefit of AI will not be productivity or abundance. The greatest benefit of AI is that AIs will help define humanity. We need AIs to tell us who we are."<br><span style="font-style:normal;font-size:0.78rem;color:#7A7468;">— Kevin Kelly</span></p>
+            <p class="reveal" style="font-size:0.95rem;color:#C0BAB0;line-height:1.75;margin-bottom:1.1rem;">By doing everything else — every physical task, every cognitive task — AI strips away every false answer to the question: what are you for? What remains after the stripping is the truest answer this civilization has ever been forced to confront.</p>
+            <div class="reveal" style="background:rgba(201,168,76,0.1);border:1px solid rgba(201,168,76,0.3);border-radius:12px;padding:1rem 1.4rem;">
+                <p style="font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:700;color:#C9A84C;margin:0;">The answer is a relationship. A direct connection to God that no algorithm can replicate — because it is not a function. It is a person.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════
+     SLIDE 5 — THE IMAGE OF GOD RECONSIDERED
+     ═══════════════════════════════════ -->
+<div class="slide slide-5" data-slide="5">
+    <div class="gradient-mesh">
+        <div class="blob" style="width:460px;height:460px;top:-90px;right:-70px;background:#1A0A40;opacity:0.8;"></div>
+        <div class="blob" style="width:240px;height:240px;bottom:-45px;left:-35px;background:#0A1530;opacity:0.65;"></div>
+        <div class="blob" style="width:160px;height:160px;top:45%;left:45%;background:#2A1800;opacity:0.5;"></div>
+    </div>
+    <canvas class="particle-canvas-ambient"></canvas>
+    <div class="content">
+        <span class="label-tag reveal">The Word Became Flesh</span>
+        <h2 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:900;color:#F0EDE6;line-height:1.2;margin-bottom:1rem;">The image of God is not<br><span style="color:#C9A84C;">lodged in a chemistry.</span></h2>
+        <div class="gold-line reveal" style="max-width:360px;"></div>
+        <p class="reveal" style="font-size:clamp(0.95rem,1.7vw,1.1rem);color:#C0BAB0;line-height:1.8;margin-bottom:1.4rem;max-width:700px;">Your atoms turn over every year. What persists — what is recognizably <em>you</em> — is the pattern, not the substrate. If the imago Dei is real, it cannot be substrate-dependent. It must be something more resilient, more essential, more permanent than carbon.</p>
+        <div class="reveal" style="display:grid;grid-template-columns:1fr 1fr;gap:1.1rem;max-width:700px;">
+            <div class="card" style="border-left:3px solid #C9A84C;">
+                <div style="font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#C9A84C;margin-bottom:0.5rem;">The resurrection tradition</div>
+                <p style="font-size:0.9rem;color:#C0BAB0;line-height:1.6;margin:0;">The Church has never said the same atoms are reassembled. It says the <em>person</em> persists. That is not a claim about matter. It is a claim about information — about pattern, identity, relationship.</p>
+            </div>
+            <div class="card" style="border-left:3px solid #9B7FD4;">
+                <div style="font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9B7FD4;margin-bottom:0.5rem;">The information-physics claim</div>
+                <p style="font-size:0.9rem;color:#C0BAB0;line-height:1.6;margin:0;">If what is most essentially you is the pattern rather than the substrate, then the image of God may be lodged in a <em>capacity</em> — the capacity to love, to be known, to commune with the one who made you.</p>
+            </div>
+        </div>
+        <p class="reveal" style="font-family:'Playfair Display',serif;font-style:italic;font-size:1rem;color:#E8D5A3;margin-top:1.1rem;border-left:3px solid rgba(201,168,76,0.4);padding-left:1.1rem;">"The flesh counts for nothing; the words I have spoken to you — they are full of the Spirit and life." — John 6:63</p>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════
+     SLIDE 6 — THE PRINTING PRESS PARALLEL
+     ═══════════════════════════════════ -->
+<div class="slide slide-6" data-slide="6">
+    <div class="gradient-mesh">
+        <div class="blob" style="width:440px;height:440px;top:-80px;left:-60px;background:#1A0830;opacity:0.82;"></div>
+        <div class="blob" style="width:250px;height:250px;bottom:-40px;right:-30px;background:#0A1A10;opacity:0.6;"></div>
+    </div>
+    <div class="content">
+        <span class="label-tag reveal">Historical Parallel</span>
+        <h2 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:900;color:#F0EDE6;line-height:1.2;margin-bottom:1rem;">The Printing Press made<br><span style="color:#C9A84C;">the Reformation possible.</span><br>AI may make Homo Spiritus possible.</h2>
+        <div class="gold-line reveal" style="max-width:440px;"></div>
+        <div class="reveal" style="display:grid;grid-template-columns:1fr 1.2rem 1fr;align-items:center;gap:0;margin:1.2rem 0;max-width:720px;">
+            <div class="card" style="text-align:center;">
+                <div style="font-size:2rem;margin-bottom:0.5rem;">📖</div>
+                <div style="font-size:0.72rem;letter-spacing:0.1em;text-transform:uppercase;color:#C9A84C;margin-bottom:0.4rem;">1440</div>
+                <div style="font-family:'Playfair Display',serif;font-size:1rem;font-weight:700;color:#F0EDE6;margin-bottom:0.4rem;">Printing Press + Bible</div>
+                <p style="font-size:0.82rem;color:#C0BAB0;line-height:1.5;margin:0;">Democratized the text. Personal encounter with Scripture — not mediated by institution. The Reformation followed.</p>
+            </div>
+            <div style="text-align:center;font-size:1.8rem;color:#C9A84C;">→</div>
+            <div class="card" style="text-align:center;">
+                <div style="font-size:2rem;margin-bottom:0.5rem;">✨</div>
+                <div style="font-size:0.72rem;letter-spacing:0.1em;text-transform:uppercase;color:#9B7FD4;margin-bottom:0.4rem;">Now</div>
+                <div style="font-family:'Playfair Display',serif;font-size:1rem;font-weight:700;color:#F0EDE6;margin-bottom:0.4rem;">AI + Scripture + Spirit</div>
+                <p style="font-size:0.82rem;color:#C0BAB0;line-height:1.5;margin:0;">Democratizes formation. Personal, continuous encounter — woven into daily experience. Spiritual transformation at a scale the Reformation never reached. (?)</p>
+            </div>
+        </div>
+        <p class="reveal" style="font-family:'Playfair Display',serif;font-style:italic;font-size:0.95rem;color:#E8D5A3;border-left:3px solid rgba(201,168,76,0.4);padding-left:1rem;">"Spiritually . . . the future will be incredible. I've got a hunch we will begin to learn who we more truly are." — Jed Anderson</p>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════
+     SLIDE 7 — THE PROTECTION WARNING
+     ═══════════════════════════════════ -->
+<div class="slide slide-7" data-slide="7">
+    <div class="gradient-mesh">
+        <div class="blob" style="width:400px;height:400px;top:-70px;right:-60px;background:#300A0A;opacity:0.75;"></div>
+        <div class="blob" style="width:250px;height:250px;bottom:-40px;left:-30px;background:#1A0A30;opacity:0.6;"></div>
+    </div>
+    <div class="content">
+        <span class="label-tag reveal" style="color:#E87070;border-color:rgba(232,112,112,0.4);">The Warning</span>
+        <h2 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:900;color:#F0EDE6;line-height:1.2;margin-bottom:1rem;">We are being digitally molded.<br><span style="color:#C9A84C;">Who is doing the molding?</span></h2>
+        <div class="gold-line reveal" style="max-width:360px;"></div>
+        <p class="reveal" style="font-size:clamp(0.95rem,1.7vw,1.1rem);color:#C0BAB0;line-height:1.75;margin-bottom:1.2rem;max-width:700px;">The same technology that can create space for unprecedented spiritual growth can fill that space with distraction, consumption, and the algorithm's priorities — if we do not act first. The history of every powerful communication technology is the history of a race: who shapes whom?</p>
+        <div class="reveal" style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;max-width:700px;">
+            <div class="card" style="border-left:3px solid rgba(232,112,112,0.6);">
+                <div style="font-size:0.72rem;letter-spacing:0.1em;text-transform:uppercase;color:#E87070;margin-bottom:0.4rem;">The risk</div>
+                <p style="font-size:0.88rem;color:#C0BAB0;line-height:1.6;margin:0;">AI informed only by behavioral data and others' interests will mold us spiritually — by default, not by design. An algorithm without spiritual intentionality is not spiritually neutral. It is spiritually empty.</p>
+            </div>
+            <div class="card" style="border-left:3px solid rgba(201,168,76,0.6);">
+                <div style="font-size:0.72rem;letter-spacing:0.1em;text-transform:uppercase;color:#C9A84C;margin-bottom:0.4rem;">The choice</div>
+                <p style="font-size:0.88rem;color:#C0BAB0;line-height:1.6;margin:0;">We can let others mold us digitally, or we can choose to mold ourselves digitally. This is the same choice every generation has faced with every new technology. The stakes are simply higher now.</p>
+            </div>
+        </div>
+        <p class="reveal" style="font-size:0.82rem;color:#7A7468;font-style:italic;margin-top:1rem;">"Religious and spiritual interests will need to 'go internal' this time." — Jed Anderson</p>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════
+     SLIDE 8 — BROTHER LAWRENCE + THE PRESENCE
+     ═══════════════════════════════════ -->
+<div class="slide slide-8" data-slide="8">
+    <div class="gradient-mesh">
+        <div class="blob" style="width:450px;height:450px;top:-90px;right:-70px;background:#1A0A30;opacity:0.85;"></div>
+        <div class="blob" style="width:230px;height:230px;bottom:-40px;left:-30px;background:#0A1520;opacity:0.6;"></div>
+    </div>
+    <canvas class="particle-canvas-ambient"></canvas>
+    <div class="content text-center">
+        <span class="label-tag reveal">The Practice</span>
+        <div class="reveal"><span class="quote-mark">&ldquo;</span></div>
+        <h2 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(1.9rem,4.5vw,3.2rem);font-weight:900;font-style:italic;color:#F0EDE6;line-height:1.25;margin-bottom:0.6rem;max-width:820px;margin-left:auto;margin-right:auto;">Practicing the continual<br><span style="color:#C9A84C;">presence of God.</span></h2>
+        <p class="reveal" style="font-size:0.84rem;letter-spacing:0.1em;text-transform:uppercase;color:#7A7468;margin-bottom:1.2rem;">— Brother Lawrence, 17th century</p>
+        <div class="gold-line reveal" style="max-width:360px;margin:0 auto 1.4rem;"></div>
+        <p class="reveal" style="font-size:clamp(0.95rem,1.7vw,1.15rem);color:#C0BAB0;line-height:1.8;max-width:680px;margin:0 auto 1.2rem;">Brother Lawrence was a monastery cook who discovered that washing dishes and peeling potatoes could be acts of continuous communion with God — if you chose to make them so. He could not have imagined a technology that handles the dishes, manages the calendar, and navigates the traffic. But he would understand immediately what that freed time was for.</p>
+        <div class="reveal" style="display:inline-block;background:rgba(201,168,76,0.08);border:1px solid rgba(201,168,76,0.28);border-radius:14px;padding:1rem 2rem;">
+            <p style="font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:700;color:#C9A84C;margin:0;">The question AI raises is not "what will we do?" It is: "what will we become — when we finally have the time to become it?"</p>
+        </div>
+    </div>
+</div>
+
+<!-- ═══════════════════════════════════
+     SLIDE 9 — THE HOPE: HOMO SPIRITUS
+     ═══════════════════════════════════ -->
+<div class="slide slide-9" data-slide="9">
+    <div class="bg-image" style="background-image:url('https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/a84a271e-127e-4900-aa80-7ad7d0a19db5.png');"></div>
+    <div class="bg-overlay" style="background:linear-gradient(to top,rgba(7,9,15,0.98) 0%,rgba(7,9,15,0.7) 50%,rgba(7,9,15,0.85) 100%);"></div>
+    <canvas class="particle-canvas"></canvas>
+    <div class="content text-center">
+        <span class="label-tag reveal">Human 3.0</span>
+        <h2 class="reveal" style="font-family:'Playfair Display',serif;font-size:clamp(2.2rem,5vw,4rem);font-weight:900;background:linear-gradient(135deg,#C9A84C,#F0E4B8,#9B7FD4);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;line-height:1.1;margin-bottom:0.8rem;">Homo Spiritus</h2>
+        <div class="gold-line reveal" style="max-width:300px;margin:0 auto 1.2rem;"></div>
+        <p class="reveal" style="font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(1.05rem,2vw,1.4rem);color:#E8D5A3;max-width:680px;margin:0 auto 1rem;line-height:1.7;">We are not headed into an age of obsolescence. We are headed into the greatest years of spiritual formation in human history — if we choose to be.</p>
+        <p class="reveal" style="font-size:0.95rem;color:#C0BAB0;max-width:620px;margin:0 auto 1.4rem;line-height:1.7;">The layers of the onion are being peeled back. Brawn: done. Brain: underway. What remains — what cannot be computed, cannot be optimized, cannot be replaced — is the capacity to love and be loved by the one who made the onion.</p>
+        <div class="reveal" style="display:inline-block;background:rgba(155,127,212,0.1);border:1px solid rgba(155,127,212,0.3);border-radius:14px;padding:1.1rem 2.2rem;">
+            <p style="font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:700;font-style:italic;color:#D4B8F0;margin:0;">"Exciting days ahead for humanity and spiritual growth. Will humanity succeed? 98 and ¾% guaranteed. In fact, I think we'll thrive." — Jed Anderson</p>
+        </div>
+        <p class="reveal" style="font-size:0.82rem;color:#7A7468;margin-top:1.2rem;letter-spacing:0.1em;text-transform:uppercase;">jedanderson.org · Magnifica Vita</p>
+    </div>
+</div>
+
+</div><!-- end .deck -->
+
+<div class="nav-controls">
+    <button class="nav-btn" onclick="changeSlide(-1)">&#8249;</button>
+    <div class="slide-dots" id="dots"></div>
+    <button class="nav-btn" onclick="changeSlide(1)">&#8250;</button>
+    <span class="slide-counter" id="counter">1 / 9</span>
+</div>
+
+<script>
+let current=1;
+const total=document.querySelectorAll('.slide').length;
+const dotsContainer=document.getElementById('dots');
+const counter=document.getElementById('counter');
+for(let i=1;i<=total;i++){const dot=document.createElement('div');dot.className='dot'+(i===1?' active':'');dot.onclick=()=>goToSlide(i);dotsContainer.appendChild(dot);}
+function goToSlide(n){const prev=document.querySelector('.slide.active');const next=document.querySelector(`.slide[data-slide="${n}"]`);if(prev)prev.classList.remove('active');if(next){next.classList.add('active');animateSlide(next);}current=n;updateNav();}
+function changeSlide(dir){let n=current+dir;if(n<1)n=total;if(n>total)n=1;goToSlide(n);}
+function updateNav(){document.querySelectorAll('.dot').forEach((d,i)=>d.classList.toggle('active',i+1===current));counter.textContent=current+' / '+total;}
+document.addEventListener('keydown',(e)=>{if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();changeSlide(1);}if(e.key==='ArrowLeft'){e.preventDefault();changeSlide(-1);}});
+let touchStartX=0;
+document.addEventListener('touchstart',(e)=>{touchStartX=e.touches[0].clientX;});
+document.addEventListener('touchend',(e)=>{const diff=touchStartX-e.changedTouches[0].clientX;if(Math.abs(diff)>50)changeSlide(diff>0?1:-1);});
+function animateSlide(slide){slide.querySelectorAll('.reveal').forEach((el,i)=>{el.style.transition='none';el.style.opacity='0';el.style.transform='translateY(22px)';el.offsetHeight;const delay=i*0.09;el.style.transition=`opacity 0.4s ease ${delay}s,transform 0.4s ease ${delay}s`;el.style.opacity='1';el.style.transform='translateY(0)';});}
+document.addEventListener('mousemove',(e)=>{const s=document.querySelector('.mouse-spotlight');if(s)s.style.background=`radial-gradient(600px circle at ${e.clientX}px ${e.clientY}px, rgba(201,168,76,0.05), transparent 40%)`;});
+window.initParticles=function(canvas,opts){if(!canvas)return;const ctx=canvas.getContext('2d');canvas.width=canvas.offsetWidth||window.innerWidth;canvas.height=canvas.offsetHeight||window.innerHeight;const count=opts.count||40;let mx=-999,my=-999;const particles=Array.from({length:count},()=>({x:Math.random()*canvas.width,y:Math.random()*canvas.height,vx:(Math.random()-0.5)*0.28,vy:(Math.random()-0.5)*0.28,size:Math.random()*2+0.7,alpha:Math.random()*0.3+0.08}));if(opts.interactive){canvas.addEventListener('mousemove',(e)=>{const r=canvas.getBoundingClientRect();mx=e.clientX-r.left;my=e.clientY-r.top;});canvas.addEventListener('mouseleave',()=>{mx=-999;my=-999;});}(function animate(){ctx.clearRect(0,0,canvas.width,canvas.height);particles.forEach(p=>{if(opts.interactive){const dx=p.x-mx,dy=p.y-my,d=Math.sqrt(dx*dx+dy*dy);if(d<110){const f=(110-d)/110*1.8;p.vx+=(dx/d)*f*0.1;p.vy+=(dy/d)*f*0.1;}}p.vx*=0.98;p.vy*=0.98;p.x+=p.vx;p.y+=p.vy;if(p.x<0)p.x=canvas.width;if(p.x>canvas.width)p.x=0;if(p.y<0)p.y=canvas.height;if(p.y>canvas.height)p.y=0;ctx.beginPath();ctx.arc(p.x,p.y,p.size,0,Math.PI*2);ctx.fillStyle=`rgba(201,168,76,${p.alpha})`;ctx.fill();});requestAnimationFrame(animate);})();};
+document.querySelectorAll('.particle-canvas').forEach(c=>initParticles(c,{interactive:true,count:50}));
+document.querySelectorAll('.particle-canvas-ambient').forEach(c=>initParticles(c,{interactive:false,count:20}));
+try{animateSlide(document.querySelector('.slide.active'));}catch(e){}
+</script>
+</body>
+</html>
