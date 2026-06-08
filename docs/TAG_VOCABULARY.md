@@ -23,6 +23,8 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - personal — pieces grounded in first-person experience or autobiography rather than abstract argument
 - narrative — pieces structured as a story/arc rather than a treatise; often paired with `personal`
 - artificial-energy — the AE thesis: gradient harvesting engineered in non-biological substrates, framed as the energy peer of AI
+- accessible — on-ramp pieces written for a general or young audience, deliberately plain-language entries into the corpus
+- childrens-book — illustrated children's-book adaptations of corpus essays; pairs with `visual-essay` and `accessible`
 
 ## Thinker tags (engages a specific argument)
 - deutsch, wheeler, yudkowsky, whitehead, landauer, bekenstein

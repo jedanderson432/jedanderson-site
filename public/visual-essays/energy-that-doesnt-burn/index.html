@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Energy That Doesn't Burn</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --cream: #fdf8ef; --warm-white: #fff9f0; --text-dark: #2d1f0e; --text-mid: #5a3e22;
+  --green: #2e7d32; --gold: #e6a817; --orange: #d45a1a; --sky: #1976d2; --red: #c0392b; --teal: #00796b;
+  --shadow: 0 8px 32px rgba(80,40,10,0.13); --radius: 28px;
+  --font-title: 'Fredoka One', cursive; --font-body: 'Nunito', sans-serif;
+}
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+body {
+  background: #e8d5b0;
+  background-image: radial-gradient(ellipse at 20% 20%, #f5e6c8 0%, transparent 60%), radial-gradient(ellipse at 80% 80%, #d4c49a 0%, transparent 60%);
+  min-height: 100vh; font-family: var(--font-body); color: var(--text-dark);
+  display: flex; flex-direction: column; align-items: center;
+}
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  background: rgba(253,248,239,0.94); backdrop-filter: blur(12px);
+  border-bottom: 2px solid rgba(180,130,60,0.18);
+  padding: 10px 24px; display: flex; align-items: center; justify-content: space-between; gap: 12px;
+}
+.nav-title { font-family: var(--font-title); font-size: clamp(0.9rem,2.2vw,1.3rem); color: var(--green); }
+.page-dots { display: flex; gap: 7px; flex-wrap: wrap; justify-content: center; }
+.page-dot { width:10px; height:10px; border-radius:50%; background:rgba(46,125,50,0.22); border:none; cursor:pointer; transition:background 0.2s,transform 0.2s; padding:0; }
+.page-dot.active { background:var(--green); transform:scale(1.4); }
+.nav-author { font-size:0.78rem; color:var(--text-mid); font-weight:700; white-space:nowrap; }
+.book-container { margin-top:68px; width:100%; max-width:860px; padding:32px 16px 64px; }
+.page {
+  background: var(--warm-white); border-radius: var(--radius); box-shadow: var(--shadow), 0 2px 0 rgba(180,130,60,0.10);
+  margin-bottom: 48px; overflow: hidden; position: relative; border: 2px solid rgba(180,130,60,0.10);
+  opacity:0; animation: page-reveal 0.7s cubic-bezier(0.16,1,0.3,1) forwards;
+}
+@keyframes page-reveal { from{opacity:0;transform:translateY(24px)} to{opacity:1;transform:translateY(0)} }
+.page:nth-child(1){animation-delay:0.05s}.page:nth-child(2){animation-delay:0.12s}.page:nth-child(3){animation-delay:0.19s}
+.page:nth-child(4){animation-delay:0.26s}.page:nth-child(5){animation-delay:0.33s}.page:nth-child(6){animation-delay:0.40s}
+.page:nth-child(7){animation-delay:0.47s}.page:nth-child(8){animation-delay:0.54s}.page:nth-child(9){animation-delay:0.61s}
+.page:nth-child(10){animation-delay:0.68s}.page:nth-child(11){animation-delay:0.75s}.page:nth-child(12){animation-delay:0.82s}
+.page::before {
+  content:attr(data-page); position:absolute; top:18px; right:22px;
+  font-family:var(--font-title); font-size:0.9rem; color:rgba(90,62,34,0.3); z-index:2;
+}
+/* Cover */
+.cover { background:linear-gradient(160deg,#2e7d32 0%,#1b5e20 55%,#0d3b1a 100%); color:white; padding:0; min-height:520px; display:flex; flex-direction:column; }
+.cover::before{display:none;}
+.cover-img { width:100%; height:380px; object-fit:cover; object-position:center top; border-radius:26px 26px 0 0; display:block; }
+.cover-text { padding:28px 32px 36px; flex:1; text-align:center; }
+.cover-title { font-family:var(--font-title); font-size:clamp(2rem,6vw,3.2rem); line-height:1.1; color:#fff; text-shadow:0 3px 12px rgba(0,0,0,0.35); margin-bottom:12px; }
+.cover-subtitle { font-size:clamp(0.9rem,2.5vw,1.1rem); color:rgba(255,255,255,0.8); font-weight:700; margin-bottom:14px; }
+.cover-author { font-size:0.95rem; color:rgba(255,255,255,0.6); font-style:italic; }
+.cover-leaf { font-size:2.5rem; display:block; margin:0 auto 8px; animation:float 3s ease-in-out infinite; }
+@keyframes float { 0%,100%{transform:translateY(0) rotate(-5deg)} 50%{transform:translateY(-10px) rotate(5deg)} }
+/* Spreads */
+.spread { display:grid; grid-template-columns:1fr 1fr; min-height:340px; }
+.spread-img { position:relative; overflow:hidden; }
+.spread-img img { width:100%; height:100%; object-fit:cover; display:block; transition:transform 0.6s cubic-bezier(0.16,1,0.3,1); }
+.spread-img:hover img { transform:scale(1.04); }
+.spread-text { padding:36px 32px; display:flex; flex-direction:column; justify-content:center; gap:14px; }
+.spread.reverse .spread-img{order:2} .spread.reverse .spread-text{order:1}
+/* Full page */
+.full-page-img { width:100%; height:280px; object-fit:cover; display:block; }
+.full-text { padding:32px 36px; }
+/* Typography */
+.page-number-label { font-family:var(--font-title); font-size:0.85rem; text-transform:uppercase; letter-spacing:0.08em; margin-bottom:6px; }
+.page-heading { font-family:var(--font-title); font-size:clamp(1.45rem,3.8vw,2.1rem); line-height:1.15; margin-bottom:8px; }
+.page-body { font-size:clamp(0.95rem,2vw,1.08rem); line-height:1.8; color:var(--text-mid); font-weight:600; max-width:50ch; }
+.page-body strong{color:var(--text-dark)} .page-body em{color:var(--green);font-style:normal;font-weight:800;}
+.ch-red .page-heading,.ch-red .page-number-label{color:var(--red)}
+.ch-gold .page-heading,.ch-gold .page-number-label{color:#b06f00}
+.ch-green .page-heading,.ch-green .page-number-label{color:var(--green)}
+.ch-sky .page-heading,.ch-sky .page-number-label{color:var(--sky)}
+.ch-teal .page-heading,.ch-teal .page-number-label{color:var(--teal)}
+.ch-orange .page-heading,.ch-orange .page-number-label{color:var(--orange)}
+/* Callout boxes */
+.fun-fact,.did-you-know,.question-box { border-radius:0 12px 12px 0; padding:13px 17px; margin-top:13px; font-size:0.9rem; font-weight:700; }
+.fun-fact { background:#fffde7; border-left:5px solid var(--gold); color:#5a3e00; }
+.fun-fact::before{content:"🌟 Fun fact: "}
+.did-you-know { background:#e8f5e9; border-left:5px solid var(--green); color:#1b5e20; }
+.did-you-know::before{content:"🌿 Did you know? "}
+.question-box { background:#e3f2fd; border-left:5px solid var(--sky); color:#0d47a1; }
+.question-box::before{content:"🤔 Think about it: "}
+/* Tier stack */
+.tier-stack { display:flex; flex-direction:column; gap:10px; margin-top:12px; }
+.tier { display:flex; align-items:center; gap:14px; padding:12px 16px; border-radius:14px; font-weight:700; font-size:0.9rem; }
+.tier-1{background:#fff3e0;color:#6d3a00;border:2px solid #ffcc80}
+.tier-2{background:#fff9e6;color:#7a5000;border:2px solid #f5e0a0}
+.tier-3{background:#e8f5e9;color:#1b5e20;border:2px solid #a5d6a7}
+.tier-icon{font-size:1.5rem;flex-shrink:0}
+.tier-label{font-family:var(--font-title);font-size:1.05rem}
+.tier-desc{font-size:0.8rem;opacity:0.85;font-weight:600}
+/* Back cover */
+.back-cover {
+  background:linear-gradient(160deg,#1b5e20 0%,#2e7d32 50%,#388e3c 100%);
+  color:white; text-align:center; padding:52px 36px;
+  border-radius:var(--radius); box-shadow:var(--shadow); margin-bottom:48px;
+}
+.back-cover-title{font-family:var(--font-title);font-size:clamp(1.3rem,3.8vw,1.9rem);margin-bottom:18px;color:#c8e6c9}
+.back-cover-text{font-size:clamp(0.9rem,2vw,1.05rem);line-height:1.85;color:rgba(255,255,255,0.85);font-weight:600;max-width:56ch;margin:0 auto 24px}
+.back-cover-author{font-size:0.85rem;color:rgba(255,255,255,0.5);font-style:italic}
+.big-emoji{font-size:3rem;display:block;margin-bottom:16px}
+/* Responsive */
+@media(max-width:640px){
+  .page-dots{display:none}
+  .spread{grid-template-columns:1fr}
+  .spread-img{height:220px}
+  .spread.reverse .spread-img{order:0} .spread.reverse .spread-text{order:1}
+  .spread-text{padding:22px 18px}
+  .full-page-img{height:200px}
+  .full-text{padding:22px 18px}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <span class="nav-title">🌿 The Energy That Doesn't Burn</span>
+  <div class="page-dots" id="dots"></div>
+  <span class="nav-author">Jed Anderson · 2026</span>
+</nav>
+
+<div class="book-container" id="book">
+
+<!-- COVER -->
+<div class="page cover" id="p0" data-page="">
+  <img class="cover-img" src="images/37e3f050-42ee-4f24-87e3-710760811c67.png"
+       alt="Cover: a child in a lab coat holds a glowing green leaf" width="860" height="380" loading="eager">
+  <div class="cover-text">
+    <span class="cover-leaf">🍃</span>
+    <h1 class="cover-title">The Energy That Doesn't Burn</h1>
+    <p class="cover-subtitle">A story about the biggest idea in the universe</p>
+    <p class="cover-author">Written by Jed Anderson &nbsp;·&nbsp; 2026</p>
+  </div>
+</div>
+
+<!-- PAGE 1 -->
+<div class="page ch-orange" id="p1" data-page="1">
+  <div class="spread">
+    <div class="spread-img">
+      <img src="images/d5bee429-2c52-4257-abd5-c13e7814f508.png"
+           alt="A warm campfire and a steam locomotive, powerful and sturdy" width="430" height="340" loading="lazy">
+    </div>
+    <div class="spread-text">
+      <p class="page-number-label">Page 1 · The First Trick</p>
+      <h2 class="page-heading">Humans learned an amazing trick: <em>burning</em>. 🔥</h2>
+      <p class="page-body">
+        Light a fire and you get heat, light, and power. We burned wood, then coal, then oil and gas — and that trick <strong>built cities, ran trains, and lifted rockets off the ground</strong>.<br><br>
+        It is powerful, because a tiny bit of fuel holds a lot of energy packed very tight.<br><br>
+        There is just one catch: the fuel gets <strong>used up</strong> as you go, so you always have to find more.
+      </p>
+      <div class="fun-fact">A handful of coal holds energy the sun stored underground for over 300 million years.</div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 2 -->
+<div class="page ch-gold" id="p2" data-page="2">
+  <div class="spread reverse">
+    <div class="spread-img">
+      <img src="images/6d5b4d55-b662-4867-9200-4cdebc138629.png"
+           alt="A scientist looking at a bonfire on one side and a glowing leaf machine on the other" width="430" height="340" loading="lazy">
+    </div>
+    <div class="spread-text">
+      <p class="page-number-label">Page 2 · Another Trick</p>
+      <h2 class="page-heading">But wait —<br>there's another trick!</h2>
+      <p class="page-body">
+        What if you could get energy without using up any fuel at all?<br><br>
+        Imagine a machine that soaks up sunlight, heat, or the difference between a warm spot and a cool one — and turns that into energy.<br><br>
+        The machine itself is <strong>never used up</strong>. It just keeps going, like a bucket dipped in an endless river. 🪣
+      </p>
+      <div class="question-box">If you had a clever lamp that gave light forever without using any oil — would you use it? That's the start of the idea behind Artificial Energy!</div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 3 -->
+<div class="page ch-green" id="p3" data-page="3">
+  <img class="full-page-img"
+       src="images/76fe0698-e36d-4a60-b77d-917e16fb481c.png"
+       alt="A glowing green leaf with molecular sparkles inside, harvesting sunlight" width="860" height="280" loading="lazy">
+  <div class="full-text">
+    <p class="page-number-label">Page 3 · The World's Oldest Machine</p>
+    <h2 class="page-heading">The leaf figured it out first. 🌿</h2>
+    <p class="page-body">
+      Long before humans existed — <em>3.5 billion years ago</em> — tiny living things invented this trick. They learned to harvest energy from sunlight using something called <strong>chlorophyll</strong>.<br><br>
+      The leaf doesn't burn. It doesn't run out. It just soaks up sunlight, turning it into food and energy — without smoke, without waste, without using up the sunshine.
+    </p>
+    <div class="did-you-know">All the plants on Earth together harvest about 130 trillion watts of power from the sun — without burning a single thing.</div>
+  </div>
+</div>
+
+<!-- PAGE 4 -->
+<div class="page ch-sky" id="p4" data-page="4">
+  <div class="spread">
+    <div class="spread-img">
+      <img src="images/a403e251-ac9e-404d-aec1-617b427b0a0f.png"
+           alt="A cheerful three-rung wooden ladder: smiling coal and campfire on the bottom rung, happy solar panel and wind turbine on the middle rung, glowing molecule on the top rung, with a curious child looking up" width="430" height="340" loading="lazy">
+    </div>
+    <div class="spread-text">
+      <p class="page-number-label">Page 4 · Three Energy Tricks</p>
+      <h2 class="page-heading">Three tricks on the energy ladder.</h2>
+      <div class="tier-stack">
+        <div class="tier tier-1">
+          <span class="tier-icon">🔥</span>
+          <div>
+            <div class="tier-label">The Burning Trick</div>
+            <div class="tier-desc">Coal, oil, and gas. Lots of power packed very tight. The fuel gets used up as you go.</div>
+          </div>
+        </div>
+        <div class="tier tier-2">
+          <span class="tier-icon">☀️</span>
+          <div>
+            <div class="tier-label">The Catching Trick</div>
+            <div class="tier-desc">Solar panels and wind turbines. They sit still and catch whatever energy flows past. They don't choose, and they aren't clever about it. Simple and passive.</div>
+          </div>
+        </div>
+        <div class="tier tier-3">
+          <span class="tier-icon">🌿</span>
+          <div>
+            <div class="tier-label">The Harvesting Trick ✨</div>
+            <div class="tier-desc">Like a leaf — machines that CHOOSE which energy to catch and how to use it. This is Artificial Energy!</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 5 -->
+<div class="page ch-teal" id="p5" data-page="5">
+  <div class="spread reverse">
+    <div class="spread-img">
+      <img src="images/76fe0698-e36d-4a60-b77d-917e16fb481c.png"
+           alt="Glowing leaf harvesting sunlight with sparkles" width="430" height="340" loading="lazy">
+    </div>
+    <div class="spread-text">
+      <p class="page-number-label">Page 5 · Energy Rivers</p>
+      <h2 class="page-heading">The universe is full of energy rivers. 🌊</h2>
+      <p class="page-body">
+        Everywhere around you, there are <em>differences</em> — hot things next to cold things, sunny spots next to shadowy ones, salty water next to fresh water.<br><br>
+        Scientists call these differences <strong>"free-energy gradients."</strong><br><br>
+        Think of it like a river flowing downhill. A clever machine can sit in that river and use the flow — <em>without ever drinking the river dry.</em>
+      </p>
+      <div class="fun-fact">Even the difference between your warm hand and the cool air is a tiny "gradient" — a little river of energy waiting to be used!</div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 6 -->
+<div class="page ch-orange" id="p6" data-page="6">
+  <div class="spread">
+    <div class="spread-img">
+      <img src="images/76fe0698-e36d-4a60-b77d-917e16fb481c.png"
+           alt="Glowing leaf with information sparkles" width="430" height="340" loading="lazy">
+    </div>
+    <div class="spread-text">
+      <p class="page-number-label">Page 6 · The Secret Ingredient</p>
+      <h2 class="page-heading">Information is the secret ingredient. 🔍</h2>
+      <p class="page-body">
+        What makes a leaf so special? It's not just that it catches sunlight. <em>It knows exactly what to do with it.</em><br><br>
+        The leaf is packed with tiny molecular machines that are <strong>incredibly clever</strong>. They grab the right photon, send it the right direction, and turn it into exactly the right food.<br><br>
+        That's the secret: <em>information</em>. The more "smart instructions" built into a machine, the more energy it can harvest — and the less it wastes.<br><br>
+        A plain solar panel has almost none of this. It just sits and grabs whatever light lands on it. A leaf is different: it chooses. That difference (being clever about energy instead of just catching it) is what makes Artificial Energy new. Artificial Energy is not just a better solar panel.
+      </p>
+      <div class="did-you-know">The instructions inside a single leaf's molecules took billions of years of evolution to write. Scientists are now learning to write them on purpose!</div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 7 -->
+<div class="page ch-green" id="p7" data-page="7">
+  <img class="full-page-img"
+       src="images/76fe0698-e36d-4a60-b77d-917e16fb481c.png"
+       alt="Glowing leaf illustration" width="860" height="280" loading="lazy">
+  <div class="full-text">
+    <p class="page-number-label">Page 7 · The Big Name</p>
+    <h2 class="page-heading" style="color:var(--orange)">It's called Artificial Energy. 🤖⚡</h2>
+    <p class="page-body">
+      You've heard of <strong>Artificial Intelligence</strong> — computers that think like brains!<br><br>
+      Well, <em>Artificial Energy</em> is the same idea — but for <strong>power</strong>.<br><br>
+      Just like AI is a brain built in a computer (instead of inside a skull), Artificial Energy is <em>a leaf built in a laboratory</em> — using designed materials instead of evolved ones. Same trick. Different stuff. Real energy.
+    </p>
+    <div class="fun-fact">The word "artificial" doesn't mean fake! From Latin, it means "made by skill." An artificial heart is a REAL heart. Artificial Energy is REAL energy!</div>
+  </div>
+</div>
+
+<!-- PAGE 8 -->
+<div class="page ch-teal" id="p8" data-page="8">
+  <div class="spread reverse">
+    <div class="spread-img">
+      <img src="images/76fe0698-e36d-4a60-b77d-917e16fb481c.png"
+           alt="AI brain and AE leaf side-by-side as siblings" width="430" height="340" loading="lazy">
+    </div>
+    <div class="spread-text">
+      <p class="page-number-label">Page 8 · Two Siblings</p>
+      <h2 class="page-heading">AI and AE —<br>two amazing siblings! 🧠🌱</h2>
+      <p class="page-body">
+        Think of Artificial Intelligence and Artificial Energy as brothers and sisters.<br><br>
+        🧠 <strong>AI:</strong> Brains evolved in biology → humans built brains in computers!<br><br>
+        🌱 <strong>AE:</strong> Energy-harvesting evolved in plants → humans are building energy-harvesters in laboratories!<br><br>
+        Both are doing something incredible: taking what nature invented and <em>building it on purpose, in new materials.</em>
+      </p>
+      <div class="question-box">If humans can build thinking machines (AI), can they build energy-harvesting machines (AE) that work even better than leaves?</div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 9 -->
+<div class="page ch-green" id="p9" data-page="9">
+  <div class="spread">
+    <div class="spread-img">
+      <img src="images/76fe0698-e36d-4a60-b77d-917e16fb481c.png"
+           alt="Leaf glow illustration" width="430" height="340" loading="lazy">
+    </div>
+    <div class="spread-text">
+      <p class="page-number-label">Page 9 · Real Examples Today</p>
+      <h2 class="page-heading">Scientists are already building it! 🔬</h2>
+      <p class="page-body">
+        🌊 <strong>Artificial photosynthesis</strong> — a device using sunlight + water to make clean fuel, just like a leaf!<br><br>
+        🧪 <strong>Engineered enzymes</strong> — tiny molecular machines that do chemistry at room temperature, no giant furnace needed.<br><br>
+        🤖 <strong>AI-designed catalysts</strong> — AI helps design perfect molecules to catch energy we couldn't reach before.<br><br>
+        🔁 <strong>Heat pumps</strong> — they deliver 4 units of heat for every 1 unit of electricity. Already in millions of homes!
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 10 -->
+<div class="page ch-sky" id="p10" data-page="10">
+  <img class="full-page-img"
+       src="images/76fe0698-e36d-4a60-b77d-917e16fb481c.png"
+       alt="Leaf illustration" width="860" height="280" loading="lazy">
+  <div class="full-text">
+    <p class="page-number-label">Page 10 · The Rules</p>
+    <h2 class="page-heading" style="color:var(--sky)">A few important rules. ⚖️</h2>
+    <p class="page-body">
+      Artificial Energy <strong>does NOT</strong> make energy from nothing. That is impossible — not even the cleverest trick can break the laws of physics!<br><br>
+      Artificial Energy <strong>does NOT</strong> mean zero work. You still have to build the machines — that takes effort and materials.<br><br>
+      What AE <em>does</em> mean is: once the machine is built, the <strong>fuel itself is free</strong> — because sunlight, heat, and natural differences in the world <em>never send you a bill.</em> 💌
+    </p>
+    <div class="fun-fact">Burning is still the best trick for some jobs. A rocket needs energy packed super tight to escape Earth, so it still burns fuel!</div>
+  </div>
+</div>
+
+<!-- PAGE 11 -->
+<div class="page ch-green" id="p11" data-page="11">
+  <div class="spread reverse">
+    <div class="spread-img">
+      <img src="images/76fe0698-e36d-4a60-b77d-917e16fb481c.png"
+           alt="Glowing leaf illustration" width="430" height="340" loading="lazy">
+    </div>
+    <div class="spread-text">
+      <p class="page-number-label">Page 11 · The Future</p>
+      <h2 class="page-heading">A world that harvests energy, the way life always has. 🌍</h2>
+      <p class="page-body">
+        Imagine a future where our machines are as clever as leaves. Where energy flows from the sun, the wind, the heat in the ground, and the tiny differences all around us — <em>harvested gently, cleanly, endlessly.</em><br><br>
+        The biosphere — all of life on Earth — has been doing this for <strong>3.5 billion years</strong>.<br><br>
+        Now it's <em>our turn</em> to learn how. 🌿✨
+      </p>
+      <div class="did-you-know">Life on Earth has never needed a power plant. Every cell, every forest, every creature runs entirely on gradient harvesting — the same idea behind Artificial Energy.</div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 12 -->
+<div class="page ch-green" id="p12" data-page="12">
+  <img class="full-page-img"
+       src="images/63ff4df8-bb8b-4dda-8741-70148678aa33.png"
+       alt="A smiling Earth covered in glowing green energy-harvesting machines, powered by the sun" width="860" height="280" loading="lazy">
+  <div class="full-text">
+    <p class="page-number-label">Page 12 · Your Challenge</p>
+    <h2 class="page-heading">This is your generation's adventure. 🚀</h2>
+    <p class="page-body">
+      Artificial Intelligence is already changing everything.<br><br>
+      <em>Artificial Energy</em> is next — and <strong>it's just getting started.</strong><br><br>
+      The scientists, engineers, and dreamers who will build it might be in school right now. They might be reading this book. They might be <em>you.</em><br><br>
+      The universe is full of energy rivers. Let's learn to swim. 🌊
+    </p>
+  </div>
+</div>
+
+</div><!-- /.book-container -->
+
+<div class="back-cover">
+  <span class="big-emoji">🌿</span>
+  <h2 class="back-cover-title">What did we learn?</h2>
+  <p class="back-cover-text">
+    For 200 years, humans powered the world with one amazing trick: <strong>burning</strong>. It built almost everything around you.<br><br>
+    The universe has known a second, older trick far longer: <em>harvesting energy from differences that already exist</em> — the way every leaf and every cell has for billions of years.<br><br>
+    Now we can build machines that do it too. That is <strong>Artificial Energy</strong>. It is the twin sibling of AI, and it changes everything.
+  </p>
+  <p class="back-cover-author">Adapted from "Artificial Energy: A First-Principles Essay" by Jed Anderson &nbsp;·&nbsp; jedanderson.org &nbsp;·&nbsp; 2026</p>
+</div>
+
+<script>
+const pages = document.querySelectorAll('.page[data-page]');
+const dotsContainer = document.getElementById('dots');
+pages.forEach((page, i) => {
+  const dot = document.createElement('button');
+  dot.className = 'page-dot';
+  dot.setAttribute('aria-label', 'Go to page ' + (i + 1));
+  dot.addEventListener('click', () => { page.scrollIntoView({ behavior: 'smooth', block: 'center' }); });
+  dotsContainer.appendChild(dot);
+});
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const idx = Array.from(pages).indexOf(entry.target);
+      document.querySelectorAll('.page-dot').forEach((d, i) => { d.classList.toggle('active', i === idx); });
+    }
+  });
+}, { threshold: 0.35 });
+pages.forEach(p => observer.observe(p));
+document.querySelectorAll('img').forEach(img => {
+  img.addEventListener('error', function() {
+    if (!this.dataset.errored) {
+      this.dataset.errored = '1';
+      this.src = 'images/76fe0698-e36d-4a60-b77d-917e16fb481c.png';
+    }
+  });
+});
+</script>
+</body>
+</html>

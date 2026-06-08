@@ -3,14 +3,14 @@
   "generated": "deterministic build-time extraction from src/content/essays + data/manual-claims-extras.json",
   "license": "CC-BY-4.0",
   "counts": {
-    "total": 1134,
-    "auto_extracted": 1147,
+    "total": 1136,
+    "auto_extracted": 1149,
     "manual_entries": 12,
     "manual_overrides": 2,
     "manual_new": 10,
-    "essays_scanned": 73,
+    "essays_scanned": 76,
     "by_status": {
-      "needs_review": 1122,
+      "needs_review": 1124,
       "framework-dependent": 2,
       "established": 9,
       "bet": 1
@@ -16948,6 +16948,36 @@
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
+    },
+    {
+      "id": "auto-34fbb846b835",
+      "essay_slug": "why-von-neumann-was-right",
+      "value": "1957",
+      "unit": "papers",
+      "type": "count",
+      "pattern": "count",
+      "match": "1957 papers",
+      "claim": "Jaynes, in his landmark 1957 papers, to explain what the identity means.",
+      "context": "The universe had only one answer to give and offered it to whoever asked correctly. The von Neumann anecdote identifies the identity. It took E.T. Jaynes, in his landmark 1957 papers, to explain what the identity means. Jaynes made a claim that was audacious at the time and is now foundational: statistical mechanics is not a special branch of physics. It is a special case of Bay",
+      "line": 25,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-06-07"
+    },
+    {
+      "id": "auto-fd0dfe470b8c",
+      "essay_slug": "why-von-neumann-was-right",
+      "value": "240×",
+      "unit": "ratio",
+      "type": "multiplier",
+      "pattern": "multiplier",
+      "match": "240×",
+      "claim": "The 240× asymmetry is written into the electromagnetic structure of the universe.",
+      "context": "his is the [bond-bit ratio] . The fine-structure constant and electron mass determine bond energies; the Boltzmann constant and temperature determine the information floor. The 240× asymmetry is written into the electromagnetic structure of the universe. Here is where the Shannon-Boltzmann identity becomes economically consequential. The Demon exploits this identity: it uses in",
+      "line": 45,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-06-07"
     },
     {
       "id": "auto-0fc0d2cf1fd1",
