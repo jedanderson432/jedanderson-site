@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vita Omnia — A Children's Book</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --text-xs:   clamp(0.75rem,  0.7rem  + 0.25vw, 0.875rem);
+  --text-sm:   clamp(0.875rem, 0.8rem  + 0.35vw, 1rem);
+  --text-base: clamp(1rem,     0.95rem + 0.25vw, 1.125rem);
+  --text-lg:   clamp(1.125rem, 1rem    + 0.75vw, 1.5rem);
+  --text-xl:   clamp(1.5rem,   1.2rem  + 1.25vw, 2.25rem);
+  --text-2xl:  clamp(2rem,     1.2rem  + 2.5vw,  3.5rem);
+  --text-hero: clamp(2.5rem,   1rem    + 5vw,    5.5rem);
+  --space-2: 0.5rem; --space-3: 0.75rem; --space-4: 1rem;
+  --space-6: 1.5rem; --space-8: 2rem;   --space-10: 2.5rem;
+  --space-12: 3rem;  --space-16: 4rem;
+  --font-display: 'Lora', Georgia, serif;
+  --font-body: 'Nunito', 'Helvetica Neue', sans-serif;
+  --radius-sm: 0.375rem; --radius-lg: 0.75rem;
+  --radius-xl: 1rem; --radius-2xl: 1.5rem; --radius-full: 9999px;
+  --tr: 280ms cubic-bezier(0.16,1,0.3,1);
+  --parchment: #fdf6e8;
+  --parchment-2: #f8efda;
+  --ink: #251a08;
+  --ink-soft: #5a4630;
+  --ink-muted: #8a7660;
+  --teal: #016b70;
+  --teal-lt: #c6e0dc;
+  --gold: #b87700;
+  --gold-lt: #faedc2;
+  --shadow: oklch(0.25 0.04 60/0.18);
+  --shadow-deep: oklch(0.25 0.04 60/0.34);
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-font-smoothing:antialiased;scroll-behavior:smooth}
+body{
+  min-height:100dvh;
+  font-family:var(--font-body);
+  background:#d8cbb4;
+  background-image:
+    radial-gradient(ellipse at 15% 60%,oklch(0.85 0.05 80/0.45) 0%,transparent 55%),
+    radial-gradient(ellipse at 85% 25%,oklch(0.83 0.06 192/0.25) 0%,transparent 50%);
+  overflow-x:hidden;
+}
+/* ===== BOOK LAYOUT ===== */
+.book-wrapper{min-height:100dvh;display:flex;flex-direction:column;align-items:center;padding:var(--space-8) var(--space-4)}
+.book-nav{display:flex;align-items:center;gap:var(--space-4);margin-bottom:var(--space-6)}
+.nav-btn{
+  display:flex;align-items:center;justify-content:center;
+  width:44px;height:44px;border-radius:var(--radius-full);
+  background:var(--parchment);border:2px solid oklch(0.65 0.05 60/0.3);
+  color:var(--ink);font-size:1.2rem;cursor:pointer;
+  transition:all var(--tr);box-shadow:0 2px 8px var(--shadow);
+}
+.nav-btn:hover{background:var(--teal);color:#fff;border-color:var(--teal);transform:scale(1.06)}
+.nav-btn:disabled{opacity:.33;cursor:not-allowed;transform:none}
+.dot{
+  width:8px;height:8px;border-radius:var(--radius-full);
+  background:oklch(0.65 0.05 60/0.4);transition:all var(--tr);
+  cursor:pointer;border:none;
+}
+.dot.active{width:26px;background:var(--teal)}
+.page-indicator,.page-indicator2{display:flex;gap:0.4rem;align-items:center}
+/* ===== SPREAD ===== */
+.book-spread{
+  width:100%;max-width:1100px;
+  background:var(--parchment);border-radius:var(--radius-2xl);
+  box-shadow:0 2px 4px var(--shadow),0 16px 50px var(--shadow-deep),0 0 0 1px oklch(0.65 0.05 60/0.14);
+  overflow:hidden;display:none;
+  animation:pageIn .4s cubic-bezier(0.16,1,0.3,1);
+}
+.book-spread.active{display:block}
+@keyframes pageIn{from{opacity:0;transform:translateY(14px) scale(.985)}to{opacity:1;transform:none}}
+/* ===== COVER ===== */
+.cover{position:relative;min-height:72vh;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;text-align:center;overflow:hidden}
+.cover-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.cover-grad{position:absolute;inset:0;background:linear-gradient(to bottom,oklch(0.08 0.04 250/0.08) 0%,transparent 28%,oklch(0.08 0.04 250/0.62) 68%,oklch(0.05 0.04 60/0.9) 100%)}
+.cover-body{position:relative;z-index:2;padding:var(--space-12) var(--space-8);color:#fff}
+.eyebrow{font-size:var(--text-xs);letter-spacing:.2em;text-transform:uppercase;color:oklch(0.92 0.06 85);font-weight:700;margin-bottom:var(--space-3)}
+.cover-title{font-family:var(--font-display);font-size:var(--text-hero);line-height:1.05;font-style:italic;text-shadow:0 2px 24px oklch(0.05 0.05 60/0.65);margin-bottom:var(--space-3)}
+.cover-sub{font-family:var(--font-display);font-size:var(--text-lg);line-height:1.45;color:oklch(0.93 0.05 85);font-style:italic;margin-bottom:var(--space-4);max-width:52ch;margin-inline:auto}
+.cover-author{font-size:var(--text-xs);color:oklch(0.82 0.03 85);font-weight:600;letter-spacing:.1em;text-transform:uppercase}
+.begin-btn{
+  display:inline-flex;align-items:center;gap:var(--space-2);
+  margin-top:var(--space-6);padding:.75rem 2.5rem;
+  background:var(--teal);color:#fff;border:none;border-radius:var(--radius-full);
+  font-family:var(--font-body);font-size:var(--text-base);font-weight:800;
+  cursor:pointer;transition:all var(--tr);
+  box-shadow:0 4px 24px oklch(0.35 0.1 192/0.48);
+}
+.begin-btn:hover{background:oklch(0.55 0.12 192);transform:translateY(-2px);box-shadow:0 8px 32px oklch(0.35 0.1 192/0.58)}
+/* ===== STORY SPREAD ===== */
+.spread{display:grid;grid-template-columns:1fr 1fr;min-height:68vh}
+.spread.rev .img-side{order:2}
+.spread.rev .txt-side{order:1}
+.img-side{position:relative;overflow:hidden;min-height:380px}
+.img-side img{width:100%;height:100%;object-fit:cover;display:block}
+.txt-side{
+  padding:var(--space-12) var(--space-10);
+  display:flex;flex-direction:column;justify-content:center;
+  position:relative;background:var(--parchment);
+}
+.txt-side::before{
+  content:'';position:absolute;inset:0;pointer-events:none;
+  background-image:repeating-linear-gradient(transparent 0px,transparent 31px,oklch(0.65 0.04 60/0.07) 31px,oklch(0.65 0.04 60/0.07) 32px);
+}
+.pg{
+  font-size:var(--text-xs);color:var(--ink-muted);font-weight:700;
+  letter-spacing:.15em;text-transform:uppercase;
+  margin-bottom:var(--space-4);display:flex;align-items:center;gap:var(--space-2);
+  position:relative;z-index:1;
+}
+.pg::after{content:'';flex:1;height:1px;background:oklch(0.65 0.04 60/0.25)}
+h2.chap{
+  font-family:var(--font-display);font-size:var(--text-xl);font-weight:700;
+  color:var(--ink);line-height:1.2;margin-bottom:var(--space-4);
+  position:relative;z-index:1;
+}
+h2.chap em{color:var(--teal)}
+.body-text{
+  font-family:var(--font-body);font-size:var(--text-base);
+  color:var(--ink-soft);line-height:1.85;margin-bottom:var(--space-3);
+  position:relative;z-index:1;max-width:46ch;
+}
+.pq{
+  font-family:var(--font-display);font-size:var(--text-lg);font-style:italic;
+  color:var(--teal);line-height:1.5;
+  border-left:3px solid var(--teal-lt);padding-left:var(--space-4);
+  margin:var(--space-5) 0;position:relative;z-index:1;
+}
+.big{
+  font-family:var(--font-display);font-size:var(--text-xl);font-weight:700;
+  color:var(--gold);font-style:italic;line-height:1.15;
+  display:block;margin-bottom:var(--space-4);
+  text-shadow:0 2px 12px oklch(0.7 0.12 80/0.28);
+  position:relative;z-index:1;
+}
+.wonder{
+  background:var(--gold-lt);border-radius:var(--radius-lg);
+  padding:var(--space-4) var(--space-6);margin-top:var(--space-5);
+  position:relative;z-index:1;
+  border:1px solid oklch(0.8 0.08 80/0.4);
+}
+.wonder-lbl{
+  font-size:var(--text-xs);font-weight:800;color:var(--gold);
+  letter-spacing:.12em;text-transform:uppercase;
+  margin-bottom:var(--space-2);
+}
+.wonder p{font-size:var(--text-sm);color:var(--ink-soft);line-height:1.7}
+/* ===== CLOSING ===== */
+.closing{position:relative;min-height:72vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden}
+.closing .cover-img{filter:brightness(.72) saturate(1.2)}
+.closing .cover-grad{background:linear-gradient(to bottom,oklch(0.05 0.04 250/0.6) 0%,oklch(0.05 0.04 250/0.3) 40%,oklch(0.05 0.04 250/0.72) 100%)}
+.closing-body{position:relative;z-index:2;padding:var(--space-16) var(--space-8);color:#fff;max-width:680px}
+.verse{font-family:var(--font-display);font-size:var(--text-lg);font-style:italic;line-height:1.75;color:oklch(0.95 0.05 85);margin-bottom:var(--space-8);text-shadow:0 2px 18px oklch(0.05 0.05 250/0.7)}
+.attrib{font-size:var(--text-xs);color:oklch(0.85 0.04 85);font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:var(--space-8)}
+.closing-title{font-family:var(--font-display);font-size:var(--text-2xl);font-weight:700;color:#fff;line-height:1.2;margin-bottom:var(--space-4);text-shadow:0 2px 22px oklch(0.05 0.05 250/0.75)}
+.closing-body p.sub{font-size:var(--text-base);color:oklch(0.9 0.04 85);line-height:1.75;max-width:50ch;margin-inline:auto;margin-bottom:var(--space-6)}
+.closing-body p.sub.ital{font-style:italic;color:oklch(0.95 0.06 85)}
+.stars{position:absolute;inset:0;pointer-events:none;z-index:1}
+.star{position:absolute;width:3px;height:3px;border-radius:50%;background:#fff;animation:twinkle var(--d,3s) ease-in-out infinite;animation-delay:var(--dl,0s)}
+@keyframes twinkle{0%,100%{opacity:.2;transform:scale(1)}50%{opacity:1;transform:scale(1.7)}}
+/* ===== COLOPHON ===== */
+.colophon{padding:var(--space-8) var(--space-10);background:oklch(0.9 0.03 60/0.55);text-align:center;border-top:1px solid oklch(0.65 0.04 60/0.2)}
+.colophon p{font-family:var(--font-display);font-size:var(--text-sm);color:var(--ink-muted);font-style:italic;line-height:1.7;max-width:60ch;margin:auto}
+.colophon strong{color:var(--ink-soft);font-style:normal}
+/* ===== BOTTOM NAV ===== */
+.bottom-nav{margin-top:var(--space-6);display:flex;align-items:center;gap:var(--space-4)}
+/* ===== PROGRESS ===== */
+.progress{position:fixed;top:0;left:0;height:3px;background:linear-gradient(to right,var(--teal),var(--gold));transition:width .4s cubic-bezier(0.16,1,0.3,1);z-index:100}
+/* ===== PARTICLES ===== */
+.ptcl{position:fixed;pointer-events:none;font-size:1.2rem;opacity:0;animation:floatUp 6s ease-in-out forwards;z-index:999}
+@keyframes floatUp{0%{opacity:0;transform:translateY(0) scale(.5) rotate(0deg)}15%{opacity:.9;transform:translateY(-30px) scale(1) rotate(15deg)}85%{opacity:.6;transform:translateY(-160px) scale(.8) rotate(-10deg)}100%{opacity:0;transform:translateY(-200px) scale(.4) rotate(20deg)}}
+/* ===== RESPONSIVE ===== */
+@media(max-width:768px){
+  .book-wrapper{padding:var(--space-4) var(--space-3)}
+  .spread,.spread.rev{grid-template-columns:1fr}
+  .spread .img-side,.spread.rev .img-side{order:0;min-height:220px}
+  .spread .txt-side,.spread.rev .txt-side{order:1;padding:var(--space-8) var(--space-6)}
+  .cover{min-height:85vw}
+  .cover-body{padding:var(--space-8) var(--space-6)}
+  .closing-body{padding:var(--space-12) var(--space-6)}
+}
+@media(max-width:480px){
+  .txt-side{padding:var(--space-6) var(--space-4) !important}
+  h2.chap{font-size:var(--text-lg)}
+  .pq{font-size:var(--text-base)}
+}
+</style>
+</head>
+<body>
+
+<div class="progress" id="pb" style="width:0%"></div>
+
+<div class="book-wrapper">
+
+  <nav class="book-nav">
+    <button class="nav-btn" id="prevBtn" onclick="go(-1)" aria-label="Previous page" disabled>&#8592;</button>
+    <div class="page-indicator" id="pi1"></div>
+    <button class="nav-btn" id="nextBtn" onclick="go(1)" aria-label="Next page">&#8594;</button>
+  </nav>
+
+  <!-- COVER -->
+  <div class="book-spread active" id="p0">
+    <div class="cover">
+      <img class="cover-img" src="images/cdd4b740-cc09-4c68-89b9-6f01b4bd530f.png" alt="Earth glowing in space surrounded by swirling nebulae" width="1100" height="700" loading="eager">
+      <div class="cover-grad"></div>
+      <div class="cover-body">
+        <p class="eyebrow">✦ A Story of Life, Love, and the Cosmos ✦</p>
+        <h1 class="cover-title">Vita Omnia</h1>
+        <p class="cover-sub">On Life, Intelligence, and the Vocation of All at Existence</p>
+        <p class="cover-author">Based on the essay by Jed Anderson · EnviroAI</p>
+        <button class="begin-btn" onclick="go(1)">Open the Book &#8594;</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 1 -->
+  <div class="book-spread" id="p1">
+    <div class="spread">
+      <div class="img-side">
+        <img src="images/c69da705-6738-4391-bd2c-f29d48811080.png" alt="A winding timeline of life from ancient seas to a child gazing at stars" width="550" height="600" loading="lazy">
+      </div>
+      <div class="txt-side">
+        <div class="pg">Chapter I &nbsp;&middot;&nbsp; The Long Journey</div>
+        <h2 class="chap">Four Billion Years<br>of <em>Hello</em></h2>
+        <p class="body-text">A very, very long time ago — longer than any bedtime story can hold — the first tiny spark of life woke up in the ancient sea.</p>
+        <p class="body-text">It had no eyes to see danger coming. No ears to hear the rumble of a volcano. No voice to call for help.</p>
+        <p class="body-text">For four billion years, life grew and filled every corner of Earth. Oceans, skies, jungles, deserts, even deep rock. But it was always <em>blind</em> to the biggest dangers.</p>
+        <div class="pq">"No trilobite saw the end coming. No dinosaur looked up at the asteroid and understood what was about to happen."</div>
+        <p class="body-text">Every species in history has eventually died from causes it could neither see nor name.</p>
+        <p class="body-text"><strong>Until now. Until us.</strong></p>
+        <div class="wonder">
+          <div class="wonder-lbl">&#10024; Wonder Moment</div>
+          <p>If all of Earth's history were squeezed into one day, human beings would appear only in the very last heartbeat before midnight — yet in that tiny moment, something completely new arrived in the universe.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 2 -->
+  <div class="book-spread" id="p2">
+    <div class="spread rev">
+      <div class="img-side">
+        <img src="images/71a02d3d-9804-4c72-9bae-1ce8b8f6f4f9.png" alt="A child connected by golden threads of light to trees, birds, ocean waves, and distant stars" width="550" height="600" loading="lazy">
+      </div>
+      <div class="txt-side">
+        <div class="pg">Chapter II &nbsp;&middot;&nbsp; What You Really Are</div>
+        <span class="big">"You are not<br>your atoms."</span>
+        <p class="body-text">Here is a secret: most of the matter in your body is swapped out every year. Your atoms come and go like leaves on a river.</p>
+        <p class="body-text">But <em>you</em> stay. Your laugh stays. Your love stays. Your memories stay.</p>
+        <p class="body-text">What persists isn't the matter. It is the <strong>pattern</strong> — the shape of who you are, written in information, not chemistry.</p>
+        <p class="body-text">Think of a song. You can hum it, write it, play it on a piano or whistle it in the rain. The notes stay the same. The <em>song</em> is the pattern — not any one instrument it happens to play through.</p>
+        <div class="pq">"What is most essential in us may not be substrate-bound. The image of God is lodged not in chemistry, but in a capacity — and in a love."</div>
+        <p class="body-text">This matters more than ever now, because the tools we are building are asking the deepest question of our age: if you are not fundamentally your matter, what <em>are</em> you?</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 3 -->
+  <div class="book-spread" id="p3">
+    <div class="spread">
+      <div class="img-side">
+        <img src="images/0d846982-c1ba-4661-aa1d-02de4bb93b9b.png" alt="Diverse children standing at the edge of the world as giant guardian shadows, one holds a glowing seedling" width="550" height="600" loading="lazy">
+      </div>
+      <div class="txt-side">
+        <div class="pg">Chapter III &nbsp;&middot;&nbsp; The First Defenders</div>
+        <h2 class="chap">We Are the <em>First</em><br>Who Can See</h2>
+        <p class="body-text">For four billion years, no creature on Earth could understand what an asteroid was, or what pollution does to an ocean, or why a warming sky hurts every living thing.</p>
+        <p class="body-text">We are the first. We are the first species in the history of life that can <strong>see the threats</strong>, understand the patterns, and <strong>choose what happens next</strong>.</p>
+        <p class="body-text">This is not a reason to feel proud and puff out your chest. It is a weight to carry — the way a big sister cares for her brothers and sisters not because she is better, but because she is the one who can.</p>
+        <div class="pq">"Humanity is the part of nature that finally grew old enough to defend the rest."</div>
+        <div class="wonder">
+          <div class="wonder-lbl">&#127807; Think About It</div>
+          <p>A nervous system doesn't protect a body because neurons are more important than liver cells. It protects the body because that is what it is <em>shaped to do</em>. Humanity is becoming the nervous system of our planet — gathering signals, recognizing patterns, initiating protective responses on behalf of the whole.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 4 -->
+  <div class="book-spread" id="p4">
+    <div class="spread rev">
+      <div class="img-side">
+        <img src="images/50662cd7-190f-4513-902b-08be8ae42058.png" alt="A child floats in space cradling a glowing seedling with seeds of light spiraling toward distant stars" width="550" height="600" loading="lazy">
+      </div>
+      <div class="txt-side">
+        <div class="pg">Chapter IV &nbsp;&middot;&nbsp; Seeds to the Stars</div>
+        <h2 class="chap">Be Fruitful.<br>Multiply. <em>Fill.</em></h2>
+        <p class="body-text">In the very first pages of the oldest book, before any laws or temples or countries, a blessing was spoken over all living things:</p>
+        <div class="pq">"Be fruitful and multiply and fill the waters in the seas, and let birds increase on the earth."<br><span style="font-size:.85em;opacity:.75">— Genesis 1:22</span></div>
+        <p class="body-text">Notice: the blessing was not for one ocean, or one forest, or one country. It was for <em>filling</em>. Life is called to fill whatever space life can reach.</p>
+        <p class="body-text">For billions of years, life has filled every nook of this one world. Now, for the very first time, life has the tools to ask a new question:</p>
+        <span class="big" style="font-size:var(--text-xl)">"What if the<br>space is bigger?"</span>
+        <p class="body-text">We are not the authors of life. But we may be its <strong>carriers</strong> — like seeds from a dandelion, blown with love toward new fields beyond the horizon.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- CLOSING PAGE -->
+  <div class="book-spread" id="p5">
+    <div class="closing">
+      <img class="cover-img" src="images/5a77832e-c445-4fa8-939b-2994ee7f55c5.png" alt="A child releases seeds of golden light toward the stars while Earth glows warmly below" width="1100" height="700" loading="lazy">
+      <div class="stars" id="stars"></div>
+      <div class="cover-grad"></div>
+      <div class="closing-body">
+        <div class="verse">
+          "For I am convinced that neither death nor life,<br>
+          neither angels nor demons,<br>
+          neither the present nor the future,<br>
+          nor any powers, neither height nor depth,<br>
+          nor anything else in all creation,<br>
+          will be able to separate us<br>
+          from the love of God."
+        </div>
+        <div class="attrib">&#8212; Romans 8:38&#8211;39</div>
+        <h2 class="closing-title">This Is the Moment</h2>
+        <p class="sub">We are spiritual beings in a temporary home. We have been hard on this Earth while learning what we are. But the learning is real, the tools are arriving, and the calling has never been clearer.</p>
+        <p class="sub ital">The blessing still stands.<br>The work is ours to begin.</p>
+      </div>
+    </div>
+    <div class="colophon">
+      <p><strong>Vita Omnia</strong> is based on the essay <em>"Vita Omnia: On Life, Intelligence, and the Vocation of All at Existence"</em> by Jed Anderson (EnviroAI, June 2025). The ideas here are offered not as speculation but as the consequence of taking seriously what we already know: from physics, from biology, from scripture, and from the hard record of the Earth itself. &nbsp;&#10022;&nbsp; <em>Illustrated children's adaptation, June 2026.</em></p>
+    </div>
+  </div>
+
+  <nav class="bottom-nav">
+    <button class="nav-btn" onclick="go(-1)" aria-label="Previous page">&#8592;</button>
+    <div class="page-indicator2" id="pi2"></div>
+    <button class="nav-btn" onclick="go(1)" aria-label="Next page" id="nextBtn2">&#8594;</button>
+  </nav>
+
+</div>
+
+<script>
+const N = 6;
+let cur = 0;
+const emojis = ["\uD83C\uDF31","\u2B50","\uD83C\uDF0A","\uD83E\uDD8B","\u2728","\uD83C\uDF3F","\uD83D\uDCAB","\uD83C\uDF38"];
+
+function dots(id) {
+  const c = document.getElementById(id);
+  if (!c) return;
+  c.innerHTML = "";
+  for (let i = 0; i < N; i++) {
+    const b = document.createElement("button");
+    b.className = "dot" + (i === cur ? " active" : "");
+    b.setAttribute("aria-label", "Go to page " + (i+1));
+    b.onclick = () => jump(i);
+    c.appendChild(b);
+  }
+}
+
+function updateUI() {
+  document.querySelectorAll(".book-spread").forEach((el,i) => el.classList.toggle("active", i === cur));
+  document.getElementById("prevBtn").disabled = cur === 0;
+  ["nextBtn","nextBtn2"].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.disabled = cur === N-1;
+  });
+  dots("pi1"); dots("pi2");
+  document.getElementById("pb").style.width = (N<=1?100:(cur/(N-1))*100) + "%";
+  if (cur > 0) particles();
+  if (cur === N-1) initStars();
+}
+
+function jump(n) { cur = Math.max(0,Math.min(N-1,n)); updateUI(); window.scrollTo({top:0,behavior:"smooth"}); }
+function go(d) { jump(cur+d); }
+
+document.addEventListener("keydown", e => {
+  if (e.key==="ArrowRight"||e.key==="ArrowDown") go(1);
+  if (e.key==="ArrowLeft"||e.key==="ArrowUp") go(-1);
+});
+
+let tx=0;
+document.addEventListener("touchstart",e=>{tx=e.touches[0].clientX},{passive:true});
+document.addEventListener("touchend",e=>{const dx=e.changedTouches[0].clientX-tx;if(Math.abs(dx)>50)go(dx<0?1:-1)},{passive:true});
+
+function particles() {
+  for(let i=0;i<5;i++){
+    const el=document.createElement("div");
+    el.className="ptcl";
+    el.textContent=emojis[Math.floor(Math.random()*emojis.length)];
+    el.style.left=(20+Math.random()*60)+"%";
+    el.style.bottom="10%";
+    el.style.animationDelay=(Math.random()*.6)+"s";
+    el.style.fontSize=(.9+Math.random()*.8)+"rem";
+    document.body.appendChild(el);
+    setTimeout(()=>el.remove(),7000);
+  }
+}
+
+function initStars() {
+  const c=document.getElementById("stars");
+  if(!c||c.childElementCount>0)return;
+  for(let i=0;i<65;i++){
+    const s=document.createElement("div");
+    s.className="star";
+    s.style.left=Math.random()*100+"%";
+    s.style.top=Math.random()*75+"%";
+    s.style.setProperty("--d",(2+Math.random()*4)+"s");
+    s.style.setProperty("--dl",(Math.random()*4)+"s");
+    c.appendChild(s);
+  }
+}
+
+updateUI();
+</script>
+</body>
+</html>
