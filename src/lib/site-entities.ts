@@ -36,6 +36,10 @@ export const enviroaiOrganizationSchema = {
   founder: { '@id': JED_ID },
   description:
     'Houston-based company building environmental superintelligence—a physics-grounded, real-time information infrastructure for the biosphere.',
+  // Canonical external identity for the Organization. enviro.ai is the
+  // company's primary domain (also its `url`); declaring it under sameAs
+  // gives entity-resolution systems an explicit identity anchor.
+  sameAs: ['https://enviro.ai'],
 };
 
 export const jedPersonSchema = {

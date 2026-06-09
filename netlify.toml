@@ -25,6 +25,29 @@
   status = 301
   force = true
 
+# Sitemap path aliases. The real sitemap is /sitemap-index.xml (emitted by
+# the Astro sitemap integration). Crawlers routinely hard-guess the common
+# conventional names and 404. These permanent redirects funnel every guess
+# to the canonical index. force = true so the rule applies even if a stale
+# artifact ever exists at the guessed path.
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sitemap-index.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sitemap_index.xml"
+  to = "/sitemap-index.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sitemaps.xml"
+  to = "/sitemap-index.xml"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*.md"
   [headers.values]

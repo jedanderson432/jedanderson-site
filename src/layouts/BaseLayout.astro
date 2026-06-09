@@ -36,7 +36,17 @@ const pageScopedJsonLd = jsonLd
 // Site-wide Person/Organization/WebSite entities are emitted on every
 // page so entity-resolution systems build a consistent graph. Page-
 // specific schemas (Article, ScholarlyArticle, ProfilePage) follow.
-const jsonLdNodes = [...siteEntitySchemas, ...pageScopedJsonLd];
+// All nodes are emitted inside a single @graph with one shared @context
+// so the cross-references (@id links between Person, Organization,
+// WebSite, and the per-page Article) resolve within one document.
+const graphNodes = [...siteEntitySchemas, ...pageScopedJsonLd].map((node) => {
+  const { ['@context']: _ctx, ...rest } = node as Record<string, any>;
+  return rest;
+});
+const jsonLdGraph = {
+  '@context': 'https://schema.org',
+  '@graph': graphNodes,
+};
 ---
 
 <!doctype html>
@@ -71,11 +81,7 @@ const jsonLdNodes = [...siteEntitySchemas, ...pageScopedJsonLd];
       <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
     )}
 
-    {
-      jsonLdNodes.map((node) => (
-        <script type="application/ld+json" set:html={JSON.stringify(node)} />
-      ))
-    }
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLdGraph)} />
   </head>
   <body class="bg-paper text-ink font-serif antialiased min-h-screen flex flex-col">
     <Header />
