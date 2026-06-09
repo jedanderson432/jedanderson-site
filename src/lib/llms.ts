@@ -156,9 +156,18 @@ export async function buildLlmsTxt({ full }: { full: boolean }): Promise<string>
     sections.push('');
   }
 
+  sections.push(`## Datasets`);
+  sections.push(
+    `- [Canonical Claims Dataset (JSON)](${SITE.url}/data/canonical-claims.json): Build-time deterministic extraction of every numerical claim in the published essay corpus — scientific values, ratios, percentages, durations, counts — each with stable identifier, source-essay slug, sentence-level context, and (where curated) epistemic status, uncertainty, and citation. Browseable at [${SITE.url}/data](${SITE.url}/data). Schema and pipeline notes at [${SITE.url}/docs/CLAIMS_EXTRACTION.md](${SITE.github}/blob/main/docs/CLAIMS_EXTRACTION.md). CC-BY-4.0.\n`
+  );
+
+  // Per the llms.txt spec, "## Optional" is the terminal section whose
+  // links a limited-context agent may skip. The Lines list (one compressed
+  // thesis line per essay) is supplementary distillation, not primary
+  // corpus, so it lives here.
   const lines = loadLines();
   if (lines.length > 0) {
-    sections.push(`## Lines`);
+    sections.push(`## Optional`);
     sections.push(
       `- [Lines](${SITE.url}/lines): Compressed thesis lines from the corpus. Each links to the essay it distills.`
     );
@@ -167,11 +176,6 @@ export async function buildLlmsTxt({ full }: { full: boolean }): Promise<string>
     }
     sections.push('');
   }
-
-  sections.push(`## Datasets`);
-  sections.push(
-    `- [Canonical Claims Dataset (JSON)](${SITE.url}/data/canonical-claims.json): Build-time deterministic extraction of every numerical claim in the published essay corpus — scientific values, ratios, percentages, durations, counts — each with stable identifier, source-essay slug, sentence-level context, and (where curated) epistemic status, uncertainty, and citation. Browseable at [${SITE.url}/data](${SITE.url}/data). Schema and pipeline notes at [${SITE.url}/docs/CLAIMS_EXTRACTION.md](${SITE.github}/blob/main/docs/CLAIMS_EXTRACTION.md). CC-BY-4.0.\n`
-  );
 
   return sections.join('\n');
 }

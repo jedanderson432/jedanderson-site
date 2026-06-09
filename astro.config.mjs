@@ -5,6 +5,7 @@ import mdx from '@astrojs/mdx';
 import remarkCustomHeadingId from 'remark-custom-heading-id';
 import { validateSlugs } from './scripts/validate-slugs.mjs';
 import { validateClaimsJson } from './scripts/extract-claims.mjs';
+import { indexNow } from './scripts/indexnow.mjs';
 
 // Inline integration that gates dev/build/sync on slug well-formedness
 // and the canonical-claims.json being present + well-formed. Failure
@@ -49,5 +50,8 @@ export default defineConfig({
     sitemap(),
     tailwind({ applyBaseStyles: true }),
     mdx(),
+    // Must run after sitemap() so dist/sitemap-index.xml exists when the
+    // astro:build:done hook fires. Fail-soft: never breaks the build.
+    indexNow(),
   ],
 });

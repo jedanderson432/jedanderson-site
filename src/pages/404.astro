@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// Custom 404. Stray crawler and stale-referrer hits land here instead of
+// dead-ending; the recovery links route them back into the corpus.
+// Minimal by design — matches the masthead's type scale, no decoration.
+---
+
+<BaseLayout
+  title="Page not found"
+  description="The page you were looking for isn't here. Recover from the archive, the essays, or the homepage."
+>
+  <section class="mx-auto max-w-3xl px-4 pt-16 pb-24">
+    <p class="text-xs uppercase tracking-widest text-muted mb-2">404</p>
+    <h1 class="font-serif text-4xl leading-tight text-ink mb-4">Page not found</h1>
+    <p class="text-lg leading-relaxed text-ink mb-8">
+      The page you were looking for isn't here—it may have moved, or the link
+      may be mistaken. Every published piece keeps a permanent URL, so it's
+      likely still in the corpus under a slightly different path.
+    </p>
+    <ul class="space-y-2 text-lg">
+      <li><a href="/archive" class="text-accent underline hover:text-ink">Browse the archive</a> — the full chronological index.</li>
+      <li><a href="/essays" class="text-accent underline hover:text-ink">Read the essays</a> — the long-form corpus.</li>
+      <li><a href="/" class="text-accent underline hover:text-ink">Return home</a> — start from the top.</li>
+    </ul>
+  </section>
+</BaseLayout>
