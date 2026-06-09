@@ -34,6 +34,14 @@ _post-cleanup-backup/
 scripts/extract-cc-emails.log
 scripts/cc-ingest-stats.json
 
+# Hugging Face dataset export. The scaffolding (scripts/export-hf-dataset.mjs)
+# and the dataset card (dataset/README.md) are tracked; the generated data
+# artifacts are regenerable via `npm run export-hf` and stay out of the repo
+# (corpus.jsonl is ~6MB; canonical-claims.json is already versioned under
+# public/data/). Keep the folder structure but ignore the heavy outputs.
+/dataset/corpus.jsonl
+/dataset/canonical-claims.json
+
 # Logs
 npm-debug.log*
 yarn-debug.log*

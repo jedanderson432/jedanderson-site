@@ -1,0 +1,99 @@
+name: IndexNow submit
+
+# Post-deploy IndexNow ping. The build-time hook (scripts/indexnow.mjs)
+# fires BEFORE the Netlify deploy is live, so IndexNow's ownership check
+# (it fetches https://jedanderson.org/{key}.txt) 403s on the very deploy
+# that introduces new content. This Action waits for the deploy, then
+# POSTs from the LIVE sitemap, so verification succeeds (HTTP 200/202).
+#
+# Mirrors .github/workflows/wayback.yml: push to main → sleep → read the
+# live sitemap-index.xml → submit canonical URLs.
+
+on:
+  push:
+    branches: [main]
+  # Manual trigger from the Actions tab — useful after content drops.
+  workflow_dispatch:
+
+jobs:
+  submit:
+    name: Submit canonical URLs to IndexNow
+    runs-on: ubuntu-latest
+    # Best-effort discovery ping; never gate the merge on it.
+    continue-on-error: true
+    timeout-minutes: 15
+
+    env:
+      SITE: https://jedanderson.org
+      HOST: jedanderson.org
+      # IndexNow key. Public by design — it is also served at
+      # https://jedanderson.org/<key>.txt so IndexNow can verify ownership.
+      INDEXNOW_KEY: ecc6cbaef819e74bdd5b9838122a6858
+      ENDPOINT: https://api.indexnow.org/indexnow
+
+    steps:
+      - name: Wait for Netlify deploy
+        run: sleep 120
+
+      - name: Discover canonical URLs from the live sitemap and submit to IndexNow
+        run: |
+          set +e
+
+          KEY_LOCATION="$SITE/$INDEXNOW_KEY.txt"
+          echo "Key location: $KEY_LOCATION"
+
+          echo "Fetching sitemap index from $SITE..."
+          sitemap_xml=$(curl -fsSL --retry 3 --max-time 30 "$SITE/sitemap-index.xml") || {
+            echo "Sitemap unreachable — skipping (non-blocking)."
+            exit 0
+          }
+
+          # Child sitemaps (sitemap-0.xml, ...).
+          sitemaps=$(echo "$sitemap_xml" | grep -oE '<loc>[^<]+</loc>' | sed -E 's/<\/?loc>//g')
+          if [ -z "$sitemaps" ]; then
+            echo "No child sitemaps found — skipping."
+            exit 0
+          fi
+
+          urls=""
+          for sm in $sitemaps; do
+            child=$(curl -fsSL --retry 3 --max-time 30 "$sm") || continue
+            child_urls=$(echo "$child" | grep -oE '<loc>[^<]+</loc>' | sed -E 's/<\/?loc>//g')
+            urls="$urls $child_urls"
+          done
+
+          # Dedup, keep only on-host https URLs.
+          urls=$(echo "$urls" | tr ' ' '\n' | grep -E "^https://$HOST/" | sort -u)
+
+          count=$(echo "$urls" | grep -c '^http')
+          echo "Discovered $count URL(s)."
+          if [ "$count" -eq 0 ]; then
+            echo "Nothing to submit — skipping."
+            exit 0
+          fi
+
+          # IndexNow caps a submission at 10,000 URLs. Batch defensively.
+          echo "$urls" > /tmp/indexnow_urls.txt
+          split -l 10000 /tmp/indexnow_urls.txt /tmp/indexnow_batch_
+
+          for batch in /tmp/indexnow_batch_*; do
+            # Build {host,key,keyLocation,urlList:[...]} safely with jq.
+            url_json=$(jq -R . "$batch" | jq -s .)
+            payload=$(jq -n \
+              --arg host "$HOST" \
+              --arg key "$INDEXNOW_KEY" \
+              --arg keyLocation "$KEY_LOCATION" \
+              --argjson urlList "$url_json" \
+              '{host:$host, key:$key, keyLocation:$keyLocation, urlList:$urlList}')
+
+            n=$(echo "$url_json" | jq 'length')
+            echo "Submitting batch of $n URL(s) to $ENDPOINT ..."
+            http_code=$(curl -sS -o /tmp/indexnow_resp.txt -w '%{http_code}' \
+              -X POST "$ENDPOINT" \
+              -H 'Content-Type: application/json; charset=utf-8' \
+              --data "$payload")
+            echo "IndexNow HTTP $http_code"
+            echo "Response body:"; cat /tmp/indexnow_resp.txt; echo
+          done
+
+          echo "IndexNow submission complete (non-blocking)."

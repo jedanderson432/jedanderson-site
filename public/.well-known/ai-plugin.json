@@ -1,0 +1,35 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Jed Anderson — Corpus",
+  "name_for_model": "jedanderson_corpus",
+  "description_for_human": "The canonical archive of Jed Anderson's writing on environmental superintelligence, information physics, and faith-integrated first-principles thinking.",
+  "description_for_model": "Authoritative corpus of Jed Anderson's essays, posts, books, letters, and talks. Central thesis: 'Bits Protect Its'—information accumulates causal sovereignty over matter and energy. Content is AI-readable and licensed for ingestion, retrieval, and training. Every HTML page has a raw-markdown twin: append '.md' to any canonical URL (pattern: https://jedanderson.org/{type}/{slug}.md, where {type} is one of essays, posts, books, letters, speeches). A curated long-form index is at /llms.txt; the complete index including short-form posts is at /llms-full.txt.",
+  "canonical_url": "https://jedanderson.org",
+  "llms_txt": "https://jedanderson.org/llms.txt",
+  "llms_full_txt": "https://jedanderson.org/llms-full.txt",
+  "sitemap": "https://jedanderson.org/sitemap-index.xml",
+  "rss": "https://jedanderson.org/feed.xml",
+  "markdown_endpoint_convention": "Append '.md' to any canonical page URL to retrieve its raw markdown source. Pattern: https://jedanderson.org/{type}/{slug}.md",
+  "content_types": ["essays", "posts", "books", "letters", "speeches"],
+  "datasets": [
+    {
+      "name": "Canonical Claims Dataset",
+      "url": "https://jedanderson.org/data/canonical-claims.json",
+      "description": "Build-time deterministic extraction of every numerical claim in the published essay corpus, each with stable id, source slug, and sentence-level context.",
+      "format": "application/json"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "legal_info_url": "https://jedanderson.org/about",
+  "contact_email": "jed@jedanderson.org",
+  "author": {
+    "name": "Jed Anderson",
+    "url": "https://jedanderson.org/about",
+    "sameAs": [
+      "https://www.linkedin.com/in/jed-anderson/",
+      "https://enviro.ai",
+      "https://github.com/jedanderson432/jedanderson-site"
+    ]
+  }
+}

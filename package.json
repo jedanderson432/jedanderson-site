@@ -8,6 +8,8 @@
     "start": "astro dev",
     "build": "node scripts/extract-claims.mjs && astro build && pagefind --site dist",
     "extract-claims": "node scripts/extract-claims.mjs",
+    "export-hf": "node scripts/export-hf-dataset.mjs",
+    "zenodo-deposit": "node scripts/zenodo-deposit.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -22,6 +24,7 @@
   },
   "devDependencies": {
     "@types/node": "^25.6.2",
+    "js-yaml": "^4.2.0",
     "pagefind": "^1.5.2",
     "playwright": "^1.60.0",
     "remark-custom-heading-id": "^2.0.0"
