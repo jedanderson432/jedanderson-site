@@ -1,0 +1,10 @@
+{
+  "name": "Jed Anderson — Corpus",
+  "description": "Machine-discoverable capabilities pointer for jedanderson.org. The full manifest lives at /.well-known/ai-plugin.json.",
+  "canonical_url": "https://jedanderson.org",
+  "manifest": "https://jedanderson.org/.well-known/ai-plugin.json",
+  "llms_txt": "https://jedanderson.org/llms.txt",
+  "markdown_endpoint_convention": "https://jedanderson.org/{type}/{slug}.md",
+  "license": "CC-BY-4.0",
+  "contact": "jed@jedanderson.org"
+}

@@ -1,4 +1,12 @@
-// IndexNow deploy-time push.
+// IndexNow build-time push (SECONDARY / belt-and-suspenders).
+//
+// The PRIMARY IndexNow submission now runs post-deploy from the
+// .github/workflows/indexnow.yml GitHub Action, which sleeps for the
+// Netlify deploy and then POSTs from the LIVE sitemap — so ownership
+// verification (IndexNow fetches /{key}.txt from the host) succeeds.
+// This build-time hook is kept as a redundant best-effort ping. It
+// fires before the new deploy is live, so it commonly 403s on the
+// deploy that introduces new content; that is expected and harmless.
 //
 // On every build, after Astro finishes emitting `dist/`, this integration
 // reads the generated sitemap index, follows its child sitemaps, collects

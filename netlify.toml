@@ -53,15 +53,27 @@
   [headers.values]
     Content-Type = "text/markdown; charset=utf-8"
 
+# The llms indexes are regenerated every build. Keep their cache short so
+# a freshly published essay (or a structural change like the ## Optional
+# reorg) propagates within the hour instead of being pinned behind a long
+# max-age at the CDN edge.
 [[headers]]
   for = "/llms.txt"
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
+    Cache-Control = "public, max-age=3600, must-revalidate"
 
 [[headers]]
   for = "/llms-full.txt"
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
+    Cache-Control = "public, max-age=3600, must-revalidate"
+
+[[headers]]
+  for = "/.well-known/*.json"
+  [headers.values]
+    Content-Type = "application/json; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
 
 [[headers]]
   for = "/robots.txt"
