@@ -107,6 +107,17 @@ The terrestrial footprint of compute is, on a long enough timeline, a transition
 
 Anyone who loves the Earth and has been told to fear this development has been told the opposite of the truth.
 
+## The Numbers: Four Constants of the Case
+
+*Four numbers from physics, economics, and the cosmic record. They do not depend on opinion.*
+
+- **413 kJ/mol.** Energy bound in a single C–H bond, the cost of photosynthesis. The accounting unit nature has used for four billion years.
+- **2.9 × 10⁻²¹ joules.** The Landauer limit per bit erased at room temperature. The true floor of computation in this universe.
+- **$1.75 trillion.** SpaceX's June 12, 2026 IPO—the largest in market history—valued the company at $1.75 trillion on an explicit roadmap to move compute off the planet. The market has now priced the orbital-compute future.
+- **1 asteroid deflected.** DART, September 26, 2022. The first time in four billion years that a species defended its planet from the sky.
+
+*Sources: Landauer 1961; Nature on bond enthalpies; SpaceX Starship IPO filings, June 12, 2026; NASA DART mission report, September 26, 2022.*
+
 ## VI. The Real Question
 
 *Not whether. What.*
@@ -197,4 +208,8 @@ Get to work.
 - [The Universe Is Information](/essays/the-universe-is-information). How information acquires causal sovereignty over matter and energy across six phases.
 - [The Physics of Zero-Cost Stewardship](/essays/the-physics-of-zero-cost-stewardship). Why protecting the biosphere costs vanishingly little compared to what generated it.
 
-Facts checked: Landauer kT ln 2 (1961); carbon-hydrogen bond enthalpy, 413 kJ/mol; DART impact, September 26, 2022; Lloyd, *Computational capacity of the universe*, 2002.
+Facts checked: Landauer kT ln 2 (1961); carbon-hydrogen bond enthalpy, 413 kJ/mol; DART impact, September 26, 2022; SpaceX IPO valuation, $1.75 trillion, June 12, 2026; Lloyd, *Computational capacity of the universe*, 2002.
+
+## Revision history
+
+- **2026-06-14** — Revised text and redesigned PDF (Magnifica Vita, Vol. IV).
