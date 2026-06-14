@@ -3,14 +3,14 @@
   "generated": "deterministic build-time extraction from src/content/essays + data/manual-claims-extras.json",
   "license": "CC-BY-4.0",
   "counts": {
-    "total": 1141,
-    "auto_extracted": 1154,
+    "total": 1142,
+    "auto_extracted": 1155,
     "manual_entries": 12,
     "manual_overrides": 2,
     "manual_new": 10,
     "essays_scanned": 77,
     "by_status": {
-      "needs_review": 1129,
+      "needs_review": 1130,
       "framework-dependent": 2,
       "established": 9,
       "bet": 1
@@ -2237,6 +2237,21 @@
       "last_verified": "2026-06-14"
     },
     {
+      "id": "auto-89e1a1dc89bb",
+      "essay_slug": "compute-we-owe-the-earth",
+      "value": "413",
+      "unit": "kJ/mol",
+      "type": "si",
+      "pattern": "si-unit",
+      "match": "413 kJ/mol",
+      "claim": "- **413 kJ/mol.** Energy bound in a single C–H bond, the cost of photosynthesis.",
+      "context": "is development has been told the opposite of the truth. *Four numbers from physics, economics, and the cosmic record. They do not depend on opinion.* - **413 kJ/mol.** Energy bound in a single C–H bond, the cost of photosynthesis. The accounting unit nature has used for four billion years. - **2.9 × 10⁻²¹ joules.** The Landauer limit per bit erased at room tempe",
+      "line": 99,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-06-14"
+    },
+    {
       "id": "auto-12cdf3bc2515",
       "essay_slug": "compute-we-owe-the-earth",
       "value": "300",
@@ -2246,7 +2261,7 @@
       "match": "300 K",
       "claim": "The derivation of why information is at least 240× cheaper than force, set by Landauer's bound at 300 K and the carbon-hydrogen bond enthalpy.",
       "context": "ond-bit asymmetry as a single dimensionless quantity. - [The Bond-Bit Ratio] . The derivation of why information is at least 240× cheaper than force, set by Landauer's bound at 300 K and the carbon-hydrogen bond enthalpy. - [The First Defender] . The four-billion-year arc from extinction-vulnerable biosphere to knowledge-creating defender. The cosmic ledger",
-      "line": 180,
+      "line": 191,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2026-06-14"
@@ -2261,22 +2276,22 @@
       "match": "240×",
       "claim": "The derivation of why information is at least 240× cheaper than force, set by Landauer's bound at 300 K and the carbon-hydrogen bond enthalpy.",
       "context": ". Λ = Mc² / (I·k_BT·ln 2). The bond-bit asymmetry as a single dimensionless quantity. - [The Bond-Bit Ratio] . The derivation of why information is at least 240× cheaper than force, set by Landauer's bound at 300 K and the carbon-hydrogen bond enthalpy. - [The First Defender] . The four-billion-year arc from extinction-vulnerable biosph",
-      "line": 180,
+      "line": 191,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2026-06-14"
     },
     {
-      "id": "auto-79d39d4b92b5",
+      "id": "auto-a583aeefb665",
       "essay_slug": "compute-we-owe-the-earth",
       "value": "413",
       "unit": "kJ/mol",
       "type": "si",
       "pattern": "si-unit",
       "match": "413 kJ/mol",
-      "claim": "Facts checked: Landauer kT ln 2 (1961); carbon-hydrogen bond enthalpy, 413 kJ/mol; DART impact, September 26, 2022; Lloyd, *Computational capacity of the universe*, 2002.",
-      "context": ". Why protecting the biosphere costs vanishingly little compared to what generated it. Facts checked: Landauer kT ln 2 (1961); carbon-hydrogen bond enthalpy, 413 kJ/mol; DART impact, September 26, 2022; Lloyd, *Computational capacity of the universe*, 2002.",
-      "line": 185,
+      "claim": "Facts checked: Landauer kT ln 2 (1961); carbon-hydrogen bond enthalpy, 413 kJ/mol; DART impact, September 26, 2022; SpaceX IPO valuation, $1.75 trillion, June 12, 2026; Lloyd, *Computational capacity of the universe*, 2002.",
+      "context": ". Why protecting the biosphere costs vanishingly little compared to what generated it. Facts checked: Landauer kT ln 2 (1961); carbon-hydrogen bond enthalpy, 413 kJ/mol; DART impact, September 26, 2022; SpaceX IPO valuation, $1.75 trillion, June 12, 2026; Lloyd, *Computational capacity of the universe*, 2002. - **2026-06-14** — Revised text and",
+      "line": 196,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2026-06-14"
