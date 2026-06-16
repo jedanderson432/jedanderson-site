@@ -8,11 +8,15 @@ interface Props {
   canonicalUrl: string;
   author?: string;
   coAuthors?: string[];
+  doi?: string;
 }
 
-const { title, slug, date, canonicalUrl, author, coAuthors } = Astro.props;
+const { title, slug, date, canonicalUrl, author, coAuthors, doi } = Astro.props;
 
-const input = { title, slug, date, canonicalUrl, author, coAuthors };
+const input = { title, slug, date, canonicalUrl, author, coAuthors, doi };
+const doiHref = doi
+  ? `https://doi.org/${doi.replace(/^https?:\/\/doi\.org\//, '')}`
+  : null;
 const formats = [
   { id: 'bibtex', label: 'BibTeX', value: bibtex(input) },
   { id: 'apa', label: 'APA', value: apa(input) },
@@ -23,6 +27,16 @@ const formats = [
 <details class="mt-10 border border-rule rounded p-4 not-prose">
   <summary class="cursor-pointer text-sm font-semibold text-ink">Cite this</summary>
   <div class="mt-4 space-y-4">
+    {
+      doiHref && (
+        <div class="text-xs text-muted">
+          DOI:{' '}
+          <a href={doiHref} class="underline hover:text-ink break-words">
+            {doiHref}
+          </a>
+        </div>
+      )
+    }
     {
       formats.map(({ id, label, value }) => (
         <div>
