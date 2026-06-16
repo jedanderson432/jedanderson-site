@@ -13,7 +13,7 @@ hero_image: "/images/bond-bit-ratio-hero.jpg"
 hero_image_alt: "Landscape hero for The Bond-Bit Ratio—deep navy background with cyan, gold, and cream typography. Eyebrow: An essay by Jed Anderson. Two-line serif title: 'THE BOND-BIT' set in gold, italic cyan 'Ratio' beneath. The visual hero is a large cream '≥ 240×' marked 'THE FLOOR.' Subtitle: Why information is, as a matter of physical law, at least 240 times cheaper than force. Footer: No. 02 · Foundational · jedanderson.org · Houston · 2026."
 pdf_canonical: true
 schema_type: ScholarlyArticle
-doi: ""
+doi: "10.5281/zenodo.20723029"
 show_abstract_on_page: true
 date_modified: 2026-05-24
 keywords:
