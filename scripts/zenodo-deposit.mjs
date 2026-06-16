@@ -63,12 +63,16 @@ const ALLOWED_RELATIONS = new Set([
 // ---------------------------------------------------------------------
 
 function parseArgs(argv) {
-  const flags = new Set(argv.slice(2));
+  const args = argv.slice(2);
+  const flags = new Set(args);
   const production = flags.has('--production');
   const confirmProduction = flags.has('--confirm-production');
   const execute = flags.has('--execute');
+  // --only=<slug> scopes the run to a single record (canary).
+  const onlyArg = args.find((a) => a.startsWith('--only='));
+  const only = onlyArg ? onlyArg.slice('--only='.length) : null;
   // --sandbox is the default and accepted explicitly; --production overrides.
-  return { production, confirmProduction, execute };
+  return { production, confirmProduction, execute, only };
 }
 
 async function loadDotEnv() {
@@ -400,7 +404,7 @@ async function dryRun(records, orcid) {
 // ---------------------------------------------------------------------
 
 async function main() {
-  const { production, confirmProduction, execute } = parseArgs(process.argv);
+  const { production, confirmProduction, execute, only } = parseArgs(process.argv);
   await loadDotEnv();
 
   // Target + production guard.
@@ -420,9 +424,18 @@ async function main() {
   const orcid = process.env.ORCID_ID || '';
 
   const manifest = JSON.parse(await readFile(MANIFEST_PATH, 'utf8'));
-  const records = Object.entries(manifest)
+  let records = Object.entries(manifest)
     .filter(([k]) => !k.startsWith('__'))
     .map(([, v]) => v);
+
+  if (only) {
+    records = records.filter((r) => r.slug === only);
+    if (records.length === 0) {
+      console.error(`REFUSED: --only=${only} matched no record in the manifest.`);
+      process.exit(2);
+    }
+    console.log(`-- CANARY SCOPE: --only=${only} → ${records.length} record (siblings not deposited this run) --`);
+  }
 
   // Dry run is the default. Live requires --execute AND a token.
   const live = execute && !!token;
