@@ -77,8 +77,21 @@ function parseArgs(argv) {
   // community (find/create + inclusion request), then exits. No deposit.
   const addArg = args.find((a) => a.startsWith('--add-to-community='));
   const addToCommunity = addArg ? addArg.slice('--add-to-community='.length) : null;
+  // --reversion=<recid> creates a new version of an existing record whose
+  // only change is replacing the attached .md with its frontmatter-stripped
+  // body. Requires --only=<slug> to identify the source .md. No metadata change.
+  const revArg = args.find((a) => a.startsWith('--reversion='));
+  const reversion = revArg ? revArg.slice('--reversion='.length) : null;
+  // --complete-draft=<draftId> finishes an EXISTING new-version draft (strip
+  // its .md + publish). Recovery path for a draft left by a failed reversion.
+  const cdArg = args.find((a) => a.startsWith('--complete-draft='));
+  const completeDraft = cdArg ? cdArg.slice('--complete-draft='.length) : null;
+  // --expect-concept=<doi> aborts before publish if the draft's concept DOI
+  // differs (guards against accidentally minting a second concept DOI).
+  const ecArg = args.find((a) => a.startsWith('--expect-concept='));
+  const expectConcept = ecArg ? ecArg.slice('--expect-concept='.length) : null;
   // --sandbox is the default and accepted explicitly; --production overrides.
-  return { production, confirmProduction, execute, only, addToCommunity };
+  return { production, confirmProduction, execute, only, addToCommunity, reversion, completeDraft, expectConcept };
 }
 
 async function loadDotEnv() {
@@ -115,6 +128,28 @@ async function liveFrontmatter(slug) {
   const title = (fm.match(/^title:\s*['"]?(.+?)['"]?\s*$/m) || [])[1] || null;
   const date = (fm.match(/^date:\s*['"]?(\d{4}-\d{2}-\d{2})/m) || [])[1] || null;
   return { title, date };
+}
+
+// Strip a leading YAML frontmatter block (--- ... ---) and return only the
+// prose body. The repo source keeps its frontmatter; only the Zenodo-attached
+// .md copy is stripped. No-op if the file has no frontmatter block.
+function stripFrontmatter(raw) {
+  const norm = raw.replace(/^﻿/, '').replace(/\r\n/g, '\n');
+  const m = norm.match(/^---\n[\s\S]*?\n---[ \t]*\n?/);
+  if (!m) return norm;
+  return norm.slice(m[0].length).replace(/^\n+/, '');
+}
+
+// Return {name, body} for an attachment. Markdown is frontmatter-stripped;
+// all other files (PDF) are read verbatim as bytes.
+async function fileToUpload(relPath) {
+  const abs = join(ROOT, relPath);
+  const name = basename(abs);
+  if (name.toLowerCase().endsWith('.md')) {
+    const raw = await readFile(abs, 'utf8');
+    return { name, body: Buffer.from(stripFrontmatter(raw), 'utf8') };
+  }
+  return { name, body: await readFile(abs) };
 }
 
 // ---------------------------------------------------------------------
@@ -355,13 +390,11 @@ async function liveDeposit(base, token, orcid, records) {
       body: JSON.stringify(payload),
     });
     for (const relPath of [rec.files.pdf, rec.files.markdown]) {
-      const abs = join(ROOT, relPath);
-      const buf = await readFile(abs);
-      const name = basename(abs);
-      const put = await fetch(`${bucket}/${name}?access_token=${token}`, { method: 'PUT', body: buf });
+      const { name, body } = await fileToUpload(relPath);
+      const put = await fetch(`${bucket}/${name}?access_token=${token}`, { method: 'PUT', body });
       if (!put.ok) throw new Error(`${rec.slug}: upload ${name} → HTTP ${put.status}: ${await put.text()}`);
     }
-    console.log(`  ✓ metadata + 2 files attached: ${rec.slug}`);
+    console.log(`  ✓ metadata + 2 files attached (md frontmatter-stripped): ${rec.slug}`);
   }
 
   // 3. Publish all (mints DOIs).
@@ -401,6 +434,94 @@ async function liveDeposit(base, token, orcid, records) {
     assert(!!(inc && inc.ok), `community inclusion request created${inc?.requestId ? ` (req ${inc.requestId})` : ''}`);
     console.log(`    record: ${got.links?.html || got.links?.record_html || '(url n/a)'} | concept: ${got.conceptdoi || '(n/a)'} | version: ${got.doi}`);
   }
+}
+
+// InvenioRDM: replace the .md on an existing draft with its frontmatter-
+// stripped body, then publish. All other files (the PDF) are left untouched.
+// The legacy deposit API cannot read/edit InvenioRDM new-version drafts, so
+// the whole file lifecycle uses the InvenioRDM records/draft API.
+async function replaceMdAndPublish(base, token, draftId, rec) {
+  const H = { Authorization: `Bearer ${token}` };
+  const JH = { ...H, 'Content-Type': 'application/json' };
+  const { name: mdName, body: strippedBody } = await fileToUpload(rec.files.markdown);
+
+  // a. Delete the existing .md entry (ignore 404).
+  let r = await fetch(`${base}/records/${draftId}/draft/files/${mdName}`, { method: 'DELETE', headers: H });
+  if (!r.ok && r.status !== 404) throw new Error(`delete ${mdName} → HTTP ${r.status}: ${await r.text()}`);
+  console.log(`  ✓ deleted existing ${mdName} (HTTP ${r.status})`);
+
+  // b. Re-create the file key.
+  r = await fetch(`${base}/records/${draftId}/draft/files`, { method: 'POST', headers: JH, body: JSON.stringify([{ key: mdName }]) });
+  if (!r.ok) throw new Error(`create key ${mdName} → HTTP ${r.status}: ${await r.text()}`);
+
+  // c. Upload the stripped content.
+  r = await fetch(`${base}/records/${draftId}/draft/files/${mdName}/content`, {
+    method: 'PUT', headers: { ...H, 'Content-Type': 'application/octet-stream' }, body: strippedBody,
+  });
+  if (!r.ok) throw new Error(`upload ${mdName} content → HTTP ${r.status}: ${await r.text()}`);
+
+  // d. Commit the file.
+  r = await fetch(`${base}/records/${draftId}/draft/files/${mdName}/commit`, { method: 'POST', headers: JH });
+  if (!r.ok) throw new Error(`commit ${mdName} → HTTP ${r.status}: ${await r.text()}`);
+  console.log(`  ✓ replaced ${mdName} with frontmatter-stripped body (${strippedBody.length} bytes), PDF untouched`);
+
+  // e. Publish (mints a new version DOI; concept DOI preserved).
+  r = await fetch(`${base}/records/${draftId}/draft/actions/publish`, { method: 'POST', headers: JH });
+  if (!r.ok) throw new Error(`publish draft ${draftId} → HTTP ${r.status}: ${await r.text()}`);
+  const published = await r.json();
+  console.log(`  ✓ published v2 → record ${published.id} (doi ${published.pids?.doi?.identifier})`);
+  return published.id;
+}
+
+// Full reversion: open a NEW InvenioRDM version of a published record, import
+// the parent's files, then strip+publish via replaceMdAndPublish. (Used for
+// fresh reversions; the one-off recovery of an existing draft uses
+// replaceMdAndPublish directly — see --complete-draft.)
+async function reversionStripMd(base, token, recid, rec) {
+  const JH = { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' };
+  let r = await fetch(`${base}/records/${recid}/versions`, { method: 'POST', headers: JH });
+  if (!r.ok) throw new Error(`new version of ${recid} → HTTP ${r.status}: ${await r.text()}`);
+  const draft = await r.json();
+  console.log(`  ✓ new-version draft ${draft.id} (parent concept ${draft.conceptdoi})`);
+  r = await fetch(`${base}/records/${draft.id}/draft/actions/files-import`, { method: 'POST', headers: JH });
+  if (!r.ok) throw new Error(`files-import → HTTP ${r.status}: ${await r.text()}`);
+  console.log('  ✓ imported parent files into draft');
+  return replaceMdAndPublish(base, token, draft.id, rec);
+}
+
+// InvenioRDM post-publish verification for a stripped-md reversion. Asserts
+// the user's full checklist against the live v2 record + the v1 record.
+async function verifyReversion(base, token, v2recid, v1recid, rec, expectedStrippedLen) {
+  const H = { Authorization: `Bearer ${token}` };
+  const v2 = await (await fetch(`${base}/records/${v2recid}`, { headers: H })).json();
+  const v1 = await (await fetch(`${base}/records/${v1recid}`, { headers: H })).json();
+  const v2files = await (await fetch(`${base}/records/${v2recid}/files`, { headers: H })).json();
+  const fEntries = v2files.entries || [];
+  const pdf = fEntries.find((f) => f.key.toLowerCase().endsWith('.pdf'));
+  const md = fEntries.find((f) => f.key.toLowerCase().endsWith('.md'));
+  const v1pdf = (v1.files || []).find((f) => (f.key || f.filename || '').toLowerCase().endsWith('.pdf'));
+  // Download the v2 .md to inspect head + exact size.
+  let mdText = '';
+  try { mdText = await (await fetch(md?.links?.content, { headers: H })).text(); } catch { /* */ }
+
+  const communities = v2.parent?.communities?.ids || (v2.metadata?.communities || []).map((c) => c.id || c);
+  const inCommunity = JSON.stringify(communities).includes('environmental-superintelligence') || (communities || []).includes('48f676d9-b2d1-4b61-b892-8c17bdcf8c40');
+
+  const A = (cond, msg) => { console.log(`  ${cond ? '✓' : '✗'} ${msg}`); return !!cond; };
+  console.log('\n== v2 assertions ==');
+  const ok = [
+    A(v2.conceptdoi === '10.5281/zenodo.20723029', `concept DOI unchanged (${v2.conceptdoi})`),
+    A(!!v2.doi && v2.doi !== v1.doi, `new version DOI minted (${v2.doi})`),
+    A(fEntries.length === 2, `two files present (${fEntries.map((f) => f.key).join(', ')})`),
+    A(md && md.size === expectedStrippedLen, `.md is stripped (${md?.size} bytes, expected ${expectedStrippedLen})`),
+    A(!!mdText && !mdText.startsWith('---'), `.md does not start with frontmatter (---)`),
+    A(pdf && v1pdf && pdf.checksum === v1pdf.checksum, `PDF byte-identical to v1 (${pdf?.checksum})`),
+    A(v2.metadata?.title === rec.title, `title carried (${v2.metadata?.title})`),
+    A((v2.metadata?.rights?.[0]?.id || v2.metadata?.license?.id) === 'cc-by-4.0', `license carried (cc-by-4.0)`),
+    A(v2.metadata?.creators?.[0]?.person_or_org?.identifiers?.some((i) => i.identifier === (process.env.ORCID_ID || '')) || v2.metadata?.creators?.[0]?.orcid === (process.env.ORCID_ID || ''), `ORCID carried`),
+    A(inCommunity, `community environmental-superintelligence inherited at parent`),
+  ];
+  return { allOk: ok.every(Boolean), communityInherited: inCommunity, v2, recordHtml: v2.links?.self_html, versionDoi: v2.doi, conceptdoi: v2.conceptdoi };
 }
 
 // ---------------------------------------------------------------------
@@ -461,7 +582,7 @@ async function dryRun(records, orcid) {
 // ---------------------------------------------------------------------
 
 async function main() {
-  const { production, confirmProduction, execute, only, addToCommunity } = parseArgs(process.argv);
+  const { production, confirmProduction, execute, only, addToCommunity, reversion, completeDraft, expectConcept } = parseArgs(process.argv);
   await loadDotEnv();
 
   // Target + production guard.
@@ -498,6 +619,58 @@ async function main() {
     if (sub.errors.length) console.log(`  errors: ${JSON.stringify(sub.errors).slice(0, 400)}`);
     if (!sub.ok && !sub.errors.length) console.log(`  raw: ${sub.raw.slice(0, 400)}`);
     process.exit(sub.ok ? 0 : 1);
+  }
+
+  // Standalone: new version of an existing record with a frontmatter-stripped .md.
+  if (reversion) {
+    if (!token) {
+      console.error(`REFUSED: no ${target === 'sandbox' ? 'ZENODO_SANDBOX_TOKEN' : 'ZENODO_TOKEN'} in env/.env.`);
+      process.exit(2);
+    }
+    if (!only) {
+      console.error('REFUSED: --reversion requires --only=<slug> to identify the source .md.');
+      process.exit(2);
+    }
+    const m = JSON.parse(await readFile(MANIFEST_PATH, 'utf8'));
+    const rec = m[only];
+    if (!rec) { console.error(`REFUSED: --only=${only} matched no manifest record.`); process.exit(2); }
+    console.log(`== New version (strip md) | target=${target} | record=${reversion} | slug=${only} ==`);
+    const v2recid = await reversionStripMd(base, token, reversion, rec);
+    const expLen = (await fileToUpload(rec.files.markdown)).body.length;
+    const v = await verifyReversion(base, token, v2recid, reversion, rec, expLen);
+    console.log(`\n  record: ${v.recordHtml} | concept: ${v.conceptdoi} | new version: ${v.versionDoi}`);
+    if (!v.communityInherited) console.error('\n⚠ STOP: community did NOT inherit at parent — NOT auto-resubmitting. Flag to operator.');
+    process.exit(v.allOk ? 0 : 1);
+  }
+
+  // Standalone: complete an EXISTING new-version draft (strip md + publish).
+  if (completeDraft) {
+    if (!token) { console.error(`REFUSED: no ${target === 'sandbox' ? 'ZENODO_SANDBOX_TOKEN' : 'ZENODO_TOKEN'} in env/.env.`); process.exit(2); }
+    if (!only) { console.error('REFUSED: --complete-draft requires --only=<slug> to identify the source .md.'); process.exit(2); }
+    const m = JSON.parse(await readFile(MANIFEST_PATH, 'utf8'));
+    const rec = m[only];
+    if (!rec) { console.error(`REFUSED: --only=${only} matched no manifest record.`); process.exit(2); }
+    console.log(`== Complete draft (strip md) | target=${target} | draft=${completeDraft} | slug=${only} ==`);
+    // Safety: read the draft and confirm its concept DOI before any write.
+    const dres = await fetch(`${base}/records/${completeDraft}/draft`, { headers: { Authorization: `Bearer ${token}` } });
+    if (!dres.ok) { console.error(`FAILED: cannot read draft ${completeDraft} → HTTP ${dres.status}`); process.exit(1); }
+    const draft = await dres.json();
+    console.log(`  draft concept DOI: ${draft.conceptdoi}`);
+    if (expectConcept && draft.conceptdoi !== expectConcept) {
+      console.error(`STOP: draft concept ${draft.conceptdoi} !== expected ${expectConcept}. No publish, no second concept DOI.`);
+      process.exit(3);
+    }
+    // v1 = the latest PUBLISHED version under this concept right now (captured
+    // before we publish v2, for the PDF byte-identity + new-DOI checks).
+    const conceptRec = await (await fetch(`${base}/records/${draft.conceptrecid}`, { headers: { Authorization: `Bearer ${token}` } })).json();
+    const v1recid = conceptRec.id;
+    console.log(`  current latest published version (v1): ${v1recid}`);
+    const v2recid = await replaceMdAndPublish(base, token, completeDraft, rec);
+    const expLen = (await fileToUpload(rec.files.markdown)).body.length;
+    const v = await verifyReversion(base, token, v2recid, v1recid, rec, expLen);
+    console.log(`\n  record: ${v.recordHtml} | concept: ${v.conceptdoi} | new version: ${v.versionDoi}`);
+    if (!v.communityInherited) console.error('\n⚠ STOP: community did NOT inherit at parent — NOT auto-resubmitting. Flag to operator.');
+    process.exit(v.allOk ? 0 : 1);
   }
 
   const manifest = JSON.parse(await readFile(MANIFEST_PATH, 'utf8'));
