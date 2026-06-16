@@ -25,13 +25,10 @@ const ALL_COLLECTIONS = ['essays', 'posts', 'books', 'letters', 'speeches'] as c
 
 function lineFor(entry: any): string {
   const url = canonicalFor(entry);
-  // Phase 3 DOI surfacing: when entry.data.doi is populated (real Zenodo
-  // concept DOI), append it here so every llms.txt / llms-full.txt line
-  // exposes the citable DOI to crawlers, e.g.:
-  //   const doi = entry.data.doi ? ` (DOI: https://doi.org/${entry.data.doi})` : '';
-  //   return `- [${entry.data.title}](${url}.md): ${entry.data.abstract}${doi}`;
-  // Left out until DOIs are minted to avoid emitting placeholder DOIs.
-  return `- [${entry.data.title}](${url}.md): ${entry.data.abstract}`;
+  // Surface the citable Zenodo concept DOI when present (real, minted
+  // DOIs only — empty frontmatter doi fields append nothing).
+  const doi = entry.data.doi ? ` (DOI: https://doi.org/${entry.data.doi})` : '';
+  return `- [${entry.data.title}](${url}.md): ${entry.data.abstract}${doi}`;
 }
 
 const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] = [
