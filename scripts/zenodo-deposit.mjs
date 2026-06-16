@@ -42,6 +42,8 @@ const SANDBOX_BASE = 'https://sandbox.zenodo.org/api';
 const PRODUCTION_BASE = 'https://zenodo.org/api';
 const COMMUNITY_TITLE = 'Environmental Superintelligence';
 const COMMUNITY_ID = 'environmental-superintelligence';
+const COMMUNITY_DESCRIPTION =
+  'Environmental superintelligence, information physics, and the causal sovereignty of knowledge over matter and energy — the foundational corpus of Jed Anderson / EnviroAI.';
 
 const CREATOR_NAME = 'Anderson, Jed';
 const CREATOR_AFFILIATION = 'EnviroAI';
@@ -71,8 +73,12 @@ function parseArgs(argv) {
   // --only=<slug> scopes the run to a single record (canary).
   const onlyArg = args.find((a) => a.startsWith('--only='));
   const only = onlyArg ? onlyArg.slice('--only='.length) : null;
+  // --add-to-community=<recid> joins an existing published record to the
+  // community (find/create + inclusion request), then exits. No deposit.
+  const addArg = args.find((a) => a.startsWith('--add-to-community='));
+  const addToCommunity = addArg ? addArg.slice('--add-to-community='.length) : null;
   // --sandbox is the default and accepted explicitly; --production overrides.
-  return { production, confirmProduction, execute, only };
+  return { production, confirmProduction, execute, only, addToCommunity };
 }
 
 async function loadDotEnv() {
@@ -254,37 +260,75 @@ async function zfetch(base, path, token, opts = {}, attempt = 0) {
   return text ? JSON.parse(text) : {};
 }
 
+// InvenioRDM communities API (current zenodo.org). Find by exact slug
+// (GET /api/communities/{slug} → 200 or 404); create with the InvenioRDM
+// shape {slug, metadata:{title,description,type:{id}}, access:{...}}.
+// Returns {id (uuid), slug, created} or null on failure.
 async function findOrCreateCommunity(base, token) {
-  // Try to find the community; create it if absent. Community creation via
-  // token may be disallowed on some deployments — degrade gracefully.
-  try {
-    const found = await zfetch(base, `/communities?q=${encodeURIComponent(COMMUNITY_TITLE)}&size=25`, token);
-    const hits = found.hits?.hits || found.hits || [];
-    const match = hits.find((c) => (c.id === COMMUNITY_ID) || (c.metadata?.title === COMMUNITY_TITLE) || (c.title === COMMUNITY_TITLE));
-    if (match) {
-      console.log(`  ✓ community found: ${match.id || COMMUNITY_ID}`);
-      return COMMUNITY_ID;
-    }
-  } catch (e) {
-    console.warn(`  ! community lookup failed: ${e.message}`);
+  const H = { Authorization: `Bearer ${token}` };
+  // Exact find by slug.
+  let res = await fetch(`${base}/communities/${COMMUNITY_ID}`, { headers: H });
+  if (res.status === 200) {
+    const c = await res.json();
+    console.log(`  ✓ community found: ${c.slug} (${c.id})`);
+    return { id: c.id, slug: c.slug, created: false };
   }
-  try {
-    await zfetch(base, '/communities', token, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ identifier: COMMUNITY_ID, title: COMMUNITY_TITLE }),
-    });
-    console.log(`  ✓ community created: ${COMMUNITY_ID}`);
-    return COMMUNITY_ID;
-  } catch (e) {
-    console.warn(`  ! community creation not possible with this token — deferring inclusion to Phase 2 canary. (${e.message})`);
-    return null;
+  if (res.status !== 404) {
+    console.warn(`  ! community lookup HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
   }
+  // Create (InvenioRDM shape).
+  const body = {
+    slug: COMMUNITY_ID,
+    metadata: {
+      title: COMMUNITY_TITLE,
+      description: COMMUNITY_DESCRIPTION,
+      type: { id: 'topic' },
+    },
+    access: {
+      visibility: 'public',
+      member_policy: 'closed',
+      record_policy: 'open',
+      review_policy: 'closed',
+    },
+  };
+  res = await fetch(`${base}/communities`, {
+    method: 'POST',
+    headers: { ...H, 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+  if (res.status === 201) {
+    const c = await res.json();
+    console.log(`  ✓ community created: ${c.slug} (${c.id})`);
+    return { id: c.id, slug: c.slug, created: true };
+  }
+  console.warn(`  ! community creation failed HTTP ${res.status}: ${(await res.text()).slice(0, 400)}`);
+  return null;
+}
+
+// InvenioRDM: submit an already-published record to a community. Creates a
+// community-submission/inclusion request the curator approves in Requests.
+// POST /api/records/{recid}/communities {communities:[{id}]}.
+async function submitRecordToCommunity(base, token, recid, communityId) {
+  const res = await fetch(`${base}/records/${recid}/communities`, {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ communities: [{ id: communityId }] }),
+  });
+  const raw = await res.text();
+  let data = {};
+  try { data = raw ? JSON.parse(raw) : {}; } catch { /* keep raw */ }
+  const processed = data.processed || [];
+  const errors = data.errors || [];
+  const requestId = processed[0]?.request_id || processed[0]?.request?.id || null;
+  return { status: res.status, ok: res.status >= 200 && res.status < 300 && errors.length === 0, requestId, processed, errors, raw };
 }
 
 async function liveDeposit(base, token, orcid, records) {
+  // Resolve the community up front (InvenioRDM). Inclusion happens AFTER
+  // publish via submitRecordToCommunity — the legacy metadata.communities
+  // field is ignored by current Zenodo, so we do not set it.
   const community = await findOrCreateCommunity(base, token);
-  const communities = community ? [community] : [];
+  const communities = [];
 
   // 1. Reserve all DOIs by creating empty drafts.
   const state = {};
@@ -328,12 +372,25 @@ async function liveDeposit(base, token, orcid, records) {
     console.log(`  ✓ published ${rec.slug} → ${pub.doi}`);
   }
 
-  // 4. GET each + assert.
+  // 4. Submit each published record to the community (InvenioRDM inclusion).
+  if (community) {
+    for (const rec of records) {
+      const recid = state[rec.slug].id;
+      const sub = await submitRecordToCommunity(base, token, recid, community.id);
+      state[rec.slug].inclusion = sub;
+      console.log(`  ${sub.ok ? '✓' : '✗'} community submit ${rec.slug}: HTTP ${sub.status}${sub.requestId ? ` req ${sub.requestId}` : ''}${sub.errors.length ? ` errors=${JSON.stringify(sub.errors).slice(0, 200)}` : ''}`);
+    }
+  } else {
+    console.warn('  ! no community resolved — inclusion skipped.');
+  }
+
+  // 5. GET each + assert.
   console.log('\n== Post-publish assertions ==');
   for (const rec of records) {
     const { id } = state[rec.slug];
     const got = await zfetch(base, `/deposit/depositions/${id}`, token);
     const m = got.metadata || {};
+    const inc = state[rec.slug].inclusion;
     const assert = (cond, msg) => console.log(`  ${cond ? '✓' : '✗'} ${rec.slug}: ${msg}`);
     assert(!!got.doi, `DOI minted (${got.doi})`);
     assert(m.title === rec.title, `title matches frontmatter`);
@@ -341,7 +398,7 @@ async function liveDeposit(base, token, orcid, records) {
     assert((got.files || []).length === 2, `both files attached (${(got.files || []).length})`);
     assert((m.related_identifiers || []).length >= 1, `related identifiers present (${(m.related_identifiers || []).length})`);
     assert(m.creators?.[0]?.orcid === orcid, `ORCID round-trips (${m.creators?.[0]?.orcid})`);
-    assert(!!(got.metadata?.communities || got.links?.communities), `community inclusion request created`);
+    assert(!!(inc && inc.ok), `community inclusion request created${inc?.requestId ? ` (req ${inc.requestId})` : ''}`);
     console.log(`    record: ${got.links?.html || got.links?.record_html || '(url n/a)'} | concept: ${got.conceptdoi || '(n/a)'} | version: ${got.doi}`);
   }
 }
@@ -404,7 +461,7 @@ async function dryRun(records, orcid) {
 // ---------------------------------------------------------------------
 
 async function main() {
-  const { production, confirmProduction, execute, only } = parseArgs(process.argv);
+  const { production, confirmProduction, execute, only, addToCommunity } = parseArgs(process.argv);
   await loadDotEnv();
 
   // Target + production guard.
@@ -422,6 +479,26 @@ async function main() {
 
   const token = target === 'sandbox' ? process.env.ZENODO_SANDBOX_TOKEN : process.env.ZENODO_TOKEN;
   const orcid = process.env.ORCID_ID || '';
+
+  // Standalone: join an existing published record to the community. No deposit.
+  if (addToCommunity) {
+    if (!token) {
+      console.error(`REFUSED: no ${target === 'sandbox' ? 'ZENODO_SANDBOX_TOKEN' : 'ZENODO_TOKEN'} in env/.env.`);
+      process.exit(2);
+    }
+    console.log(`== Community inclusion | target=${target} | record=${addToCommunity} ==`);
+    const community = await findOrCreateCommunity(base, token);
+    if (!community) {
+      console.error('FAILED: could not find or create the community.');
+      process.exit(1);
+    }
+    const sub = await submitRecordToCommunity(base, token, addToCommunity, community.id);
+    console.log(`  community: ${community.slug} (${community.id}) — ${community.created ? 'CREATED' : 'found'}`);
+    console.log(`  inclusion: HTTP ${sub.status} — ${sub.ok ? 'request created' : 'NOT created'}${sub.requestId ? ` (req ${sub.requestId})` : ''}`);
+    if (sub.errors.length) console.log(`  errors: ${JSON.stringify(sub.errors).slice(0, 400)}`);
+    if (!sub.ok && !sub.errors.length) console.log(`  raw: ${sub.raw.slice(0, 400)}`);
+    process.exit(sub.ok ? 0 : 1);
+  }
 
   const manifest = JSON.parse(await readFile(MANIFEST_PATH, 'utf8'));
   let records = Object.entries(manifest)
