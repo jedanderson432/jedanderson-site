@@ -50,7 +50,7 @@ const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] 
   {
     name: 'Bond-Bit Asymmetry',
     definition:
-      'The first-principles result that information processing can substitute for physical intervention at leverage ratios approaching 10³⁷ per kilogram of matter at room temperature.',
+      'The first-principles result that information processing can substitute for physical intervention at leverage ratios of approximately 10²⁰ for typical environmental scenarios at room temperature.',
     essay: 'essays/thermodynamic-foundations-of-entropic-shepherding',
   },
   {

@@ -27,26 +27,30 @@ Phase 1 was run under the hard rule: **no calls to zenodo.org (production)**. It
 
 **All five `public/pdfs/{slug}.pdf` exist.** All five raw `.md` sources exist. The script attaches both to each record.
 
-### 🚩 Numeric contradiction — SURFACED, NOT RESOLVED
+### ✅ Numeric contradiction — RESOLVED (fixed at source, 2026-06-16)
 
-The 10²⁰ vs 10³⁷-per-kg contradiction is real and lives in the frontmatter (source of truth), so it survives reconstruction. Quoted verbatim:
+The 10²⁰ vs 10³⁷-per-kg contradiction was real and lived in the Thermo **abstract**, which quoted the I=1-bit theoretical *ceiling* as if it were the leverage figure, contradicting the paper's own body (~10²⁰). The original conflicting lines, verbatim:
 
-- **Intelligence Leverage Equation** — frontmatter `subtitle`:
-  > "Why Knowing Is 10²⁰ Times Cheaper Than Moving—And What This Means for Environmental Protection"
+- **Thermodynamic Foundations** — old frontmatter `abstract`:
+  > "…substitute for physical intervention at leverage ratios approaching **10³⁷ per kilogram** of matter at room temperature"
+- **Thermodynamic Foundations** — its OWN body (line ~269):
+  > "This yields the Bond-Bit Asymmetry of approximately **10²⁰**…"
+- **Intelligence Leverage Equation** — frontmatter `subtitle` (already correct):
+  > "Why Knowing Is **10²⁰** Times Cheaper Than Moving…"
 
-- **Thermodynamic Foundations** — frontmatter `abstract`:
-  > "Proves the Bond-Bit Asymmetry—that information processing can substitute for physical intervention at leverage ratios approaching **10³⁷ per kilogram** of matter at room temperature"
+**Resolution.** The asymmetry is **~10²⁰** (achievable); **3×10³⁷ per kg** is the theoretical *ceiling* at I=1 bit, not the asymmetry. The Thermo abstract (frontmatter line 9 + on-page abstract line 21) and the `src/lib/llms.ts` Bond-Bit Asymmetry definition were corrected to the achievable ~10²⁰ figure, matching the body. The **theoretical-ceiling derivations** (3×10³⁷ per kg, body lines 395/399/611/623/643) were **left intact and labeled as ceiling** — they are load-bearing: the ceiling is what gives the asymmetry's magnitude meaning. The corpus now has **three numbers doing three distinct jobs**, all consistent:
 
-- **Thermodynamic Foundations** — its OWN body (line ~269) says something different again:
-  > "This yields the Bond-Bit Asymmetry of approximately **10²⁰**—information processing at the [Landauer floor]"
-
-So: ILE pins the asymmetry at **~10²⁰** (dimensionless, "times cheaper"); Thermo's abstract pins it at **10³⁷ per kilogram**; Thermo's body pins it at **~10²⁰**. The same `10³⁷ per kilogram` phrasing is also baked into `src/lib/llms.ts` (`KEY_NAMED_CONCEPTS` → "Bond-Bit Asymmetry"). The reconstructed descriptions **faithfully preserve each essay's own number** rather than silently reconciling them. **Your decision** on which figure is canonical; I did not touch it.
+| figure | role | where |
+|---|---|---|
+| **240×** | per-bond thermodynamic *floor* (Landauer at 300 K vs C–H bond) | `bond-bit-ratio` — **unchanged** |
+| **~10²⁰** | per-scenario *achievable* Bond-Bit Asymmetry | ILE subtitle, Thermo body **+ corrected abstract**, llms.ts |
+| **3×10³⁷ per kg** | theoretical *ceiling* at I=1 bit (mc²/k_BT·ln2) | Thermo + ILE derivation bodies — **unchanged, labeled ceiling** |
 
 ### Other reconciliation flags
 
-1. **Thermo co-authors dropped.** `thermodynamic-foundations` frontmatter lists `co_authors: ['Grok-4.1 Deep Research','Gemini 3.0 Pro Deep Think','ChatGPT 5.2','Claude Opus 4.5 Research']`. The Phase 1 spec fixes Zenodo `creators` to **Anderson only**. These four are not promoted to creators. Recommend adding them as Zenodo **contributors** (`type: Researcher`) in Phase 2 if you want them credited.
+1. **Thermo co-authors — RESOLVED: not added.** `thermodynamic-foundations` frontmatter lists `co_authors: ['Grok-4.1 Deep Research','Gemini 3.0 Pro Deep Think','ChatGPT 5.2','Claude Opus 4.5 Research']`. Per decision, Zenodo `creators` stays **Anderson only**; these are **not** emitted as contributors. AI assistance, if noted, belongs in prose, never the structured contributor field.
 2. **Keywords.** Only `bond-bit-ratio` has an explicit frontmatter `keywords` block (used verbatim). The other four derive keywords from `tags` (`keywords_source: derived-from-tags` in the manifest) — review/refine before production.
-3. **`first-defender` is a citation-graph outlier.** It contains **zero** internal hyperlinks to any of the other four essays. To keep the set a connected graph with `bond-bit-ratio` as root, I added **one editorial edge** (`first-defender cites bond-bit-ratio`), flagged `provenance: editorial` in the manifest. Drop it if you want the graph to reflect live citations only.
+3. **`first-defender` editorial edge — RESOLVED: dropped.** It contains **zero** internal hyperlinks to any of the other four essays. Per decision (live cross-citations only), it now carries **no sibling edges** — just its canonical-URL `isVariantFormOf` + community membership. No synthetic edges anywhere in the graph.
 
 ---
 
@@ -55,16 +59,16 @@ So: ILE pins the asymmetry at **~10²⁰** (dimensionless, "times cheaper"); The
 `docs/zenodo/manifest.json`, keyed by slug (plus a `__meta` block the script skips). Each record holds the reconciled fields above + the sibling graph. **Sibling graph (reciprocal, DataCite relation types, `bond-bit-ratio` as root):**
 
 ```
-bond-bit-ratio  ──isCitedBy──▶  ILE, thermo, bits, first-defender
+bond-bit-ratio  ──isCitedBy──▶  ILE, thermo, bits
 ILE             ──cites──────▶  bond-bit-ratio        (live)
 ILE             ──isSupplementedBy▶ thermo            (live, structural)
 thermo          ──cites──────▶  bond-bit-ratio        (live)
 thermo          ──isSupplementTo▶ ILE                 (live, structural)
 bits            ──cites──────▶  bond-bit-ratio        (live)
-first-defender  ──cites──────▶  bond-bit-ratio        (EDITORIAL)
+first-defender  (no sibling edges — canonical URL + community only)
 ```
 
-Provenance per edge: `live-citation` (real internal hyperlink), `live-structural` (thermo's subtitle/body derives ILE), or `editorial` (first-defender). Every record also carries the canonical web page as `isVariantFormOf` (scheme: url), added by the script at runtime.
+Provenance per edge: `live-citation` (real internal hyperlink) or `live-structural` (thermo's subtitle/body derives ILE). **No editorial edges** — `first-defender` has zero live cross-citations and is intentionally left unlinked to siblings. Every record also carries the canonical web page as `isVariantFormOf` (scheme: url), added by the script at runtime.
 
 ---
 
@@ -93,7 +97,7 @@ DRY RUN COMPLETE: 5 records, 0 blocking error(s) total.
 ```
 
 - All five payloads built and printed with exact JSON that would be sent.
-- Reciprocal graph materialized over simulated reserved DOIs (`10.5072/zenodo.DRYRUN-000N`): e.g. root `bond-bit-ratio` shows 4× `isCitedBy`; each sibling shows `cites` back to the root; thermo↔ILE show the supplement pair.
+- Reciprocal graph materialized over simulated reserved DOIs (`10.5072/zenodo.DRYRUN-000N`): root `bond-bit-ratio` shows 3× `isCitedBy` (ILE, thermo, bits); each cites back to the root; thermo↔ILE show the supplement pair; `first-defender` carries only its canonical `isVariantFormOf`.
 - Each payload validated against a local deposit schema (`upload_type=publication`, `publication_type=workingpaper`, exactly one `isVariantFormOf` canonical URL, allowed relation types, DOI/url schemes, license id, 2 attachments present on disk, etc.).
 - Only warning across all five: `creators[0].orcid empty` — expected; fills from `.env` `ORCID_ID` in the real run.
 - Live sandbox network reachability confirmed separately (HTTP 200) — so the live rehearsal will run as soon as a token is added.

@@ -51,11 +51,6 @@ PAYLOAD:
         "identifier": "10.5072/zenodo.DRYRUN-0004",
         "relation": "isCitedBy",
         "scheme": "doi"
-      },
-      {
-        "identifier": "10.5072/zenodo.DRYRUN-0005",
-        "relation": "isCitedBy",
-        "scheme": "doi"
       }
     ],
     "communities": [
@@ -147,7 +142,7 @@ PAYLOAD:
         "affiliation": "EnviroAI"
       }
     ],
-    "description": "<p><strong>Key result.</strong> A first-principles derivation of the Intelligence Leverage Equation Λ = Mc²/(I·k_BT·ln 2), proving the Bond-Bit Asymmetry—that information processing can substitute for physical intervention at leverage ratios approaching 10³⁷ per kilogram of matter at room temperature.</p><p><strong>Method.</strong> Synthesizes Landauer's bound, the Sagawa–Ueda generalized second law, bond-energy quantum constraints, boundary observability theory (PDE boundary observability, compressed sensing, the holographic principle), and mass-energy equivalence into a single derivation. The per-operation bond-bit ratio (~240×) is reconciled with the canonical bond-bit ratio derivation; scenario-dependent ratios span 10¹⁰ to 10²².</p><p><strong>Why it matters.</strong> It grounds the asymptote of zero-cost stewardship in physics rather than economics: prevention through information is thermodynamically favored over remediation through force, and the advantage widens as computation approaches its Landauer floor while chemical intervention stays pinned at its quantum-mechanical ceiling.</p><p>Canonical version of record: <a href=\"https://jedanderson.org/essays/thermodynamic-foundations-of-entropic-shepherding\">https://jedanderson.org/essays/thermodynamic-foundations-of-entropic-shepherding</a></p>",
+    "description": "<p><strong>Key result.</strong> A first-principles derivation of the Intelligence Leverage Equation Λ = Mc²/(I·k_BT·ln 2), proving the Bond-Bit Asymmetry—that information processing can substitute for physical intervention at leverage ratios of approximately 10²⁰ for typical environmental scenarios at room temperature (with a theoretical ceiling of ~3×10³⁷ per kilogram for the 1-bit idealization).</p><p><strong>Method.</strong> Synthesizes Landauer's bound, the Sagawa–Ueda generalized second law, bond-energy quantum constraints, boundary observability theory (PDE boundary observability, compressed sensing, the holographic principle), and mass-energy equivalence into a single derivation. The per-operation bond-bit ratio (~240×) is reconciled with the canonical bond-bit ratio derivation; scenario-dependent ratios span 10¹⁰ to 10²².</p><p><strong>Why it matters.</strong> It grounds the asymptote of zero-cost stewardship in physics rather than economics: prevention through information is thermodynamically favored over remediation through force, and the advantage widens as computation approaches its Landauer floor while chemical intervention stays pinned at its quantum-mechanical ceiling.</p><p>Canonical version of record: <a href=\"https://jedanderson.org/essays/thermodynamic-foundations-of-entropic-shepherding\">https://jedanderson.org/essays/thermodynamic-foundations-of-entropic-shepherding</a></p>",
     "keywords": [
       "intelligence leverage equation",
       "bond-bit asymmetry",
@@ -273,11 +268,6 @@ PAYLOAD:
         "identifier": "https://jedanderson.org/essays/first-defender",
         "relation": "isVariantFormOf",
         "scheme": "url"
-      },
-      {
-        "identifier": "10.5072/zenodo.DRYRUN-0001",
-        "relation": "cites",
-        "scheme": "doi"
       }
     ],
     "communities": [
