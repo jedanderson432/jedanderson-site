@@ -30,7 +30,8 @@
     "siblings_notes": {
       "editorial_edge": "RESOLVED 2026-06-16 — DROPPED. first-defender contains zero internal hyperlinks to any of the other four essays, so it now carries NO sibling edges (only canonical-URL isVariantFormOf + community). No synthetic cross-citations anywhere in the graph.",
       "mutual_root_edges": "bond-bit-ratio mutually links ILE, thermo, and bits in its 'Where this ratio is used' footer; ILE/thermo/bits each link back to bond-bit-ratio in body. Canonical direction encoded as others->cites->root, root->isCitedBy->others.",
-      "structural_edge": "thermo isSupplementTo ILE is grounded in thermo's subtitle ('A First-Principles Derivation of the Intelligence Leverage Equation') and body."
+      "structural_edge": "thermo isSupplementTo ILE is grounded in thermo's subtitle ('A First-Principles Derivation of the Intelligence Leverage Equation') and body.",
+      "cite_the_root_rule": "The deposit rule 'each record cites bond-bit-ratio (concept DOI 10.5281/zenodo.20723029) as the root' is SCOPED to records with a LIVE in-text citation to bond-bit-ratio: bits-protect-its, intelligence-leverage-equation, thermodynamic-foundations-of-entropic-shepherding. It EXPLICITLY EXCLUDES first-defender, which never references the root in its prose and therefore carries NO bond-bit-ratio sibling and gets canonical URL + community only. This keeps the 'cite the root' rule and the 'no synthetic cross-citations / live links only' principle from contradicting each other. The script keys the root-cite (and its assertion) off the presence of a bond-bit-ratio sibling in each record's siblings array."
     },
     "flags": {
       "numeric_contradiction_10e20_vs_10e37": {

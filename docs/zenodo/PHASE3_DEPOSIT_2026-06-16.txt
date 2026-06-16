@@ -1,0 +1,100 @@
+
+*** PRODUCTION TARGET ARMED (zenodo.org) — this mints real, permanent DOIs ***
+
+-- CANARY SCOPE: --only=bits-protect-its → 1 record (siblings not deposited this run) --
+== Zenodo deposit | target=production | mode=LIVE | records=1 ==
+   ORCID_ID = 0009-0003-1807-2459
+  ✓ community found: environmental-superintelligence (48f676d9-b2d1-4b61-b892-8c17bdcf8c40)
+  ✓ reserved bits-protect-its → 10.5281/zenodo.20724188 (dep 20724188)
+  ✓ metadata + 2 files attached (md frontmatter-stripped): bits-protect-its
+  ✓ published bits-protect-its → 10.5281/zenodo.20724188
+  ✓ community submit bits-protect-its: HTTP 200 req 6f7a190a-5795-4137-a24f-5e6dd7f5115a
+
+== Post-publish assertions ==
+  ✓ bits-protect-its: concept DOI minted (10.5281/zenodo.20724187)
+  ✓ bits-protect-its: version DOI minted (10.5281/zenodo.20724188)
+  ✓ bits-protect-its: title matches frontmatter (Bits Protect Its)
+  ✓ bits-protect-its: date matches frontmatter (2026-05-22)
+  ✓ bits-protect-its: license cc-by-4.0
+  ✓ bits-protect-its: ORCID round-trips (0009-0003-1807-2459)
+  ✓ bits-protect-its: both files attached (2)
+  ✓ bits-protect-its: .md is frontmatter-stripped (no leading ---, 31803 bytes)
+  ✓ bits-protect-its: related ids include canonical URL
+  ✓ bits-protect-its: related ids include bond-bit-ratio concept DOI (10.5281/zenodo.20723029)
+  ✓ bits-protect-its: community inclusion request created (req 6f7a190a-5795-4137-a24f-5e6dd7f5115a)
+    record: https://zenodo.org/records/20724188 | concept: 10.5281/zenodo.20724187 | version: 10.5281/zenodo.20724188 | inclusion req: 6f7a190a-5795-4137-a24f-5e6dd7f5115a
+
+*** PRODUCTION TARGET ARMED (zenodo.org) — this mints real, permanent DOIs ***
+
+-- CANARY SCOPE: --only=intelligence-leverage-equation → 1 record (siblings not deposited this run) --
+== Zenodo deposit | target=production | mode=LIVE | records=1 ==
+   ORCID_ID = 0009-0003-1807-2459
+  ✓ community found: environmental-superintelligence (48f676d9-b2d1-4b61-b892-8c17bdcf8c40)
+  ✓ reserved intelligence-leverage-equation → 10.5281/zenodo.20724193 (dep 20724193)
+  ✓ metadata + 2 files attached (md frontmatter-stripped): intelligence-leverage-equation
+  ✓ published intelligence-leverage-equation → 10.5281/zenodo.20724193
+  ✓ community submit intelligence-leverage-equation: HTTP 200 req 26d80aee-9fa1-41ae-9073-7c826b750915
+
+== Post-publish assertions ==
+  ✓ intelligence-leverage-equation: concept DOI minted (10.5281/zenodo.20724192)
+  ✓ intelligence-leverage-equation: version DOI minted (10.5281/zenodo.20724193)
+  ✓ intelligence-leverage-equation: title matches frontmatter (The Intelligence Leverage Equation)
+  ✓ intelligence-leverage-equation: date matches frontmatter (2026-02-06)
+  ✓ intelligence-leverage-equation: license cc-by-4.0
+  ✓ intelligence-leverage-equation: ORCID round-trips (0009-0003-1807-2459)
+  ✓ intelligence-leverage-equation: both files attached (2)
+  ✓ intelligence-leverage-equation: .md is frontmatter-stripped (no leading ---, 31054 bytes)
+  ✓ intelligence-leverage-equation: related ids include canonical URL
+  ✓ intelligence-leverage-equation: related ids include bond-bit-ratio concept DOI (10.5281/zenodo.20723029)
+  ✓ intelligence-leverage-equation: community inclusion request created (req 26d80aee-9fa1-41ae-9073-7c826b750915)
+    record: https://zenodo.org/records/20724193 | concept: 10.5281/zenodo.20724192 | version: 10.5281/zenodo.20724193 | inclusion req: 26d80aee-9fa1-41ae-9073-7c826b750915
+
+*** PRODUCTION TARGET ARMED (zenodo.org) — this mints real, permanent DOIs ***
+
+-- CANARY SCOPE: --only=thermodynamic-foundations-of-entropic-shepherding → 1 record (siblings not deposited this run) --
+== Zenodo deposit | target=production | mode=LIVE | records=1 ==
+   ORCID_ID = 0009-0003-1807-2459
+  ✓ community found: environmental-superintelligence (48f676d9-b2d1-4b61-b892-8c17bdcf8c40)
+  ✓ reserved thermodynamic-foundations-of-entropic-shepherding → 10.5281/zenodo.20724195 (dep 20724195)
+  ✓ metadata + 2 files attached (md frontmatter-stripped): thermodynamic-foundations-of-entropic-shepherding
+  ✓ published thermodynamic-foundations-of-entropic-shepherding → 10.5281/zenodo.20724195
+  ✓ community submit thermodynamic-foundations-of-entropic-shepherding: HTTP 200 req 99612926-2294-4e69-90d8-fc45d1fc2c76
+
+== Post-publish assertions ==
+  ✓ thermodynamic-foundations-of-entropic-shepherding: concept DOI minted (10.5281/zenodo.20724194)
+  ✓ thermodynamic-foundations-of-entropic-shepherding: version DOI minted (10.5281/zenodo.20724195)
+  ✓ thermodynamic-foundations-of-entropic-shepherding: title matches frontmatter (The Thermodynamic Foundations of Entropic Shepherding)
+  ✓ thermodynamic-foundations-of-entropic-shepherding: date matches frontmatter (2026-01-20)
+  ✓ thermodynamic-foundations-of-entropic-shepherding: license cc-by-4.0
+  ✓ thermodynamic-foundations-of-entropic-shepherding: ORCID round-trips (0009-0003-1807-2459)
+  ✓ thermodynamic-foundations-of-entropic-shepherding: both files attached (2)
+  ✓ thermodynamic-foundations-of-entropic-shepherding: .md is frontmatter-stripped (no leading ---, 47542 bytes)
+  ✓ thermodynamic-foundations-of-entropic-shepherding: related ids include canonical URL
+  ✓ thermodynamic-foundations-of-entropic-shepherding: related ids include bond-bit-ratio concept DOI (10.5281/zenodo.20723029)
+  ✓ thermodynamic-foundations-of-entropic-shepherding: community inclusion request created (req 99612926-2294-4e69-90d8-fc45d1fc2c76)
+    record: https://zenodo.org/records/20724195 | concept: 10.5281/zenodo.20724194 | version: 10.5281/zenodo.20724195 | inclusion req: 99612926-2294-4e69-90d8-fc45d1fc2c76
+
+*** PRODUCTION TARGET ARMED (zenodo.org) — this mints real, permanent DOIs ***
+
+-- CANARY SCOPE: --only=first-defender → 1 record (siblings not deposited this run) --
+== Zenodo deposit | target=production | mode=LIVE | records=1 ==
+   ORCID_ID = 0009-0003-1807-2459
+  ✓ community found: environmental-superintelligence (48f676d9-b2d1-4b61-b892-8c17bdcf8c40)
+  ✓ reserved first-defender → 10.5281/zenodo.20724228 (dep 20724228)
+  ✓ metadata + 2 files attached (md frontmatter-stripped): first-defender
+  ✓ published first-defender → 10.5281/zenodo.20724228
+  ✓ community submit first-defender: HTTP 200 req fbd28dc0-0d2e-4ff1-8aeb-00896b1e756b
+
+== Post-publish assertions ==
+  ✓ first-defender: concept DOI minted (10.5281/zenodo.20724227)
+  ✓ first-defender: version DOI minted (10.5281/zenodo.20724228)
+  ✓ first-defender: title matches frontmatter (The First Defender)
+  ✓ first-defender: date matches frontmatter (2026-05-09)
+  ✓ first-defender: license cc-by-4.0
+  ✓ first-defender: ORCID round-trips (0009-0003-1807-2459)
+  ✓ first-defender: both files attached (2)
+  ✓ first-defender: .md is frontmatter-stripped (no leading ---, 41532 bytes)
+  ✓ first-defender: related ids include canonical URL
+  – first-defender: root-cite assertion SKIPPED (no live in-text citation to bond-bit-ratio; canonical URL + community only)
+  ✓ first-defender: community inclusion request created (req fbd28dc0-0d2e-4ff1-8aeb-00896b1e756b)
+    record: https://zenodo.org/records/20724228 | concept: 10.5281/zenodo.20724227 | version: 10.5281/zenodo.20724228 | inclusion req: fbd28dc0-0d2e-4ff1-8aeb-00896b1e756b
