@@ -48,6 +48,23 @@ const COMMUNITY_DESCRIPTION =
 const CREATOR_NAME = 'Anderson, Jed';
 const CREATOR_AFFILIATION = 'EnviroAI';
 
+// CONCEPT DOIs of already-published roots, so records deposited later (when
+// the root is not part of the same run) still cite it across DOIs. Phase 2
+// minted bond-bit-ratio.
+//
+// "Cite the root" is NOT applied uniformly: it applies ONLY to records that
+// LIVE-cite bond-bit-ratio in their prose. The manifest siblings encode this —
+// bits-protect-its, intelligence-leverage-equation, and thermodynamic-
+// foundations each carry a bond-bit-ratio sibling and so cite the concept DOI;
+// first-defender does NOT (it never references the root in text), so it is
+// deposited with canonical URL + community only. Truth-in-metadata, no
+// synthetic cross-citations. buildMetadata adds a root cite only when the
+// record's manifest siblings include bond-bit-ratio.
+const KNOWN_DOIS = {
+  'bond-bit-ratio': '10.5281/zenodo.20723029',
+};
+const ROOT_CONCEPT_DOI = KNOWN_DOIS['bond-bit-ratio'];
+
 // DataCite/Zenodo relation types we emit. Reciprocity is encoded in the
 // manifest; this is the allow-list the local validator enforces.
 const ALLOWED_RELATIONS = new Set([
@@ -168,8 +185,9 @@ function buildMetadata(record, doiBySlug, orcid, communities) {
     },
   ];
   for (const sib of record.siblings || []) {
-    const doi = doiBySlug[sib.slug];
-    if (!doi) continue; // sibling not in this run
+    // Prefer a reserved DOI from this run; fall back to a known published DOI.
+    const doi = doiBySlug[sib.slug] || KNOWN_DOIS[sib.slug];
+    if (!doi) continue; // sibling neither in this run nor already published
     related.push({ identifier: doi, relation: sib.relation, scheme: 'doi' });
   }
 
@@ -417,22 +435,52 @@ async function liveDeposit(base, token, orcid, records) {
     console.warn('  ! no community resolved — inclusion skipped.');
   }
 
-  // 5. GET each + assert.
+  // 5. GET each + assert the full Phase 3 checklist. Fail-fast: throws on the
+  // first record that fails any assertion (so one-at-a-time runs stop).
   console.log('\n== Post-publish assertions ==');
+  const H = { Authorization: `Bearer ${token}` };
   for (const rec of records) {
     const { id } = state[rec.slug];
     const got = await zfetch(base, `/deposit/depositions/${id}`, token);
     const m = got.metadata || {};
     const inc = state[rec.slug].inclusion;
-    const assert = (cond, msg) => console.log(`  ${cond ? '✓' : '✗'} ${rec.slug}: ${msg}`);
-    assert(!!got.doi, `DOI minted (${got.doi})`);
-    assert(m.title === rec.title, `title matches frontmatter`);
-    assert((m.license?.id || m.license) === 'cc-by-4.0' || (m.license === 'CC-BY-4.0'), `license correct`);
-    assert((got.files || []).length === 2, `both files attached (${(got.files || []).length})`);
-    assert((m.related_identifiers || []).length >= 1, `related identifiers present (${(m.related_identifiers || []).length})`);
+    const rels = m.related_identifiers || [];
+    // Fetch the published .md content to confirm it is frontmatter-stripped.
+    let mdHead = '';
+    let mdSize = null;
+    try {
+      const fl = await (await fetch(`${base}/records/${id}/files`, { headers: H })).json();
+      const md = (fl.entries || []).find((f) => f.key.toLowerCase().endsWith('.md'));
+      mdSize = md?.size ?? null;
+      if (md?.links?.content) mdHead = (await (await fetch(md.links.content, { headers: H })).text()).slice(0, 8);
+    } catch { /* leave blank → assertion fails visibly */ }
+
+    let pass = true;
+    const assert = (cond, msg) => { if (!cond) pass = false; console.log(`  ${cond ? '✓' : '✗'} ${rec.slug}: ${msg}`); };
+    assert(!!got.conceptdoi, `concept DOI minted (${got.conceptdoi})`);
+    assert(!!got.doi, `version DOI minted (${got.doi})`);
+    assert(m.title === rec.title, `title matches frontmatter (${m.title})`);
+    assert(m.publication_date === rec.publication_date, `date matches frontmatter (${m.publication_date})`);
+    assert((m.license?.id || m.license) === 'cc-by-4.0' || (m.license === 'CC-BY-4.0'), `license cc-by-4.0`);
     assert(m.creators?.[0]?.orcid === orcid, `ORCID round-trips (${m.creators?.[0]?.orcid})`);
+    assert((got.files || []).length === 2, `both files attached (${(got.files || []).length})`);
+    assert(!!mdHead && !mdHead.startsWith('---'), `.md is frontmatter-stripped (no leading ---, ${mdSize} bytes)`);
+    assert(rels.some((r) => r.relation === 'isVariantFormOf' && r.identifier === rec.canonical_url), `related ids include canonical URL`);
+    // The "cite the root" rule is scoped to records that LIVE-cite bond-bit-ratio
+    // in their prose (bits-protect-its, intelligence-leverage-equation,
+    // thermodynamic-foundations). It EXCLUDES first-defender, which has no
+    // in-text citation to the root — truth-in-metadata, no synthetic edges. The
+    // manifest siblings encode this: only root-citing records carry a
+    // bond-bit-ratio sibling, so the assertion keys off that.
+    const expectsRootCite = (rec.siblings || []).some((s) => s.slug === 'bond-bit-ratio');
+    if (expectsRootCite) {
+      assert(rels.some((r) => r.scheme === 'doi' && r.identifier === ROOT_CONCEPT_DOI), `related ids include bond-bit-ratio concept DOI (${ROOT_CONCEPT_DOI})`);
+    } else {
+      console.log(`  – ${rec.slug}: root-cite assertion SKIPPED (no live in-text citation to bond-bit-ratio; canonical URL + community only)`);
+    }
     assert(!!(inc && inc.ok), `community inclusion request created${inc?.requestId ? ` (req ${inc.requestId})` : ''}`);
-    console.log(`    record: ${got.links?.html || got.links?.record_html || '(url n/a)'} | concept: ${got.conceptdoi || '(n/a)'} | version: ${got.doi}`);
+    console.log(`    record: ${got.links?.html || got.links?.record_html || '(url n/a)'} | concept: ${got.conceptdoi || '(n/a)'} | version: ${got.doi} | inclusion req: ${inc?.requestId || '(none)'}`);
+    if (!pass) throw new Error(`${rec.slug}: one or more assertions FAILED — stopping, not continuing to next record.`);
   }
 }
 
