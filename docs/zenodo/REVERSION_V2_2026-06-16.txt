@@ -1,0 +1,36 @@
+
+*** PRODUCTION TARGET ARMED (zenodo.org) — this mints real, permanent DOIs ***
+
+== Complete draft (strip md) | target=production | draft=20723914 | slug=bond-bit-ratio ==
+  draft concept DOI: 10.5281/zenodo.20723029
+  current latest published version (v1): 20723030
+  ✓ deleted existing bond-bit-ratio.md (HTTP 204)
+  ✓ replaced bond-bit-ratio.md with frontmatter-stripped body (7581 bytes), PDF untouched
+  ✓ published v2 → record 20723914 (doi undefined)
+
+== v2 assertions ==
+  ✓ concept DOI unchanged (10.5281/zenodo.20723029)
+  ✗ new version DOI minted (undefined)
+  ✓ two files present (bond-bit-ratio.md, bond-bit-ratio.pdf)
+  ✓ .md is stripped (7581 bytes, expected 7581)
+  ✓ .md does not start with frontmatter (---)
+  ✓ PDF byte-identical to v1 (md5:7138d68cfd886bffb0938fdf04372cb2)
+  ✓ title carried (The Bond-Bit Ratio)
+  ✓ license carried (cc-by-4.0)
+  ✓ ORCID carried
+  ✓ community environmental-superintelligence inherited at parent
+
+  record: https://zenodo.org/records/20723914 | concept: 10.5281/zenodo.20723029 | new version: undefined
+
+
+=== CORRECTION (independent verification) ===
+The "new version DOI minted (undefined)" line above was an assertion field-path
+bug (read pids.doi.identifier; correct field is .doi). Independently confirmed via
+GET /api/records/20723914:
+  version DOI : 10.5281/zenodo.20723914  (latest=true)
+  concept DOI : 10.5281/zenodo.20723029 (unchanged; resolves to v2 as latest)
+  v1 20723030 : latest=false
+  community   : environmental-superintelligence (inherited at parent; no new request)
+  stripped md : 7581 bytes (UTF-8), md5:42fabba214167f6964c898aadee289c2
+  pdf         : 252412 bytes, md5:7138d68cfd886bffb0938fdf04372cb2 (== v1)
+All 10 checks pass. Script assertion fixed to read .doi.
