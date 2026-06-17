@@ -59,8 +59,8 @@ const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] 
   {
     name: 'Environmental Superintelligence',
     definition:
-      "AI that models, predicts, and optimizes Earth's physical systems — the species-scale defender that closes the four-billion-year gap between a biosphere repeatedly cleared by extinction events and one that can finally read the clock.",
-    essay: 'essays/first-defender',
+      "A continuous, physics-grounded information infrastructure that protects the biosphere by modeling, predicting, and stabilizing Earth's physical systems—a human-wielded system that defends rather than supplants, applying the principle that information is thermodynamically cheaper than force (\"bits protect its\").",
+    essay: 'essays/environmental-superintelligence',
   },
   {
     name: "Jed's Angel",

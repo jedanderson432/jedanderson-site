@@ -4,7 +4,7 @@ import CiteThis from '../components/CiteThis.astro';
 import { getCollection } from 'astro:content';
 import { SITE, TYPE_LABELS } from '../site-config';
 import { canonicalFor, canonicalPath } from '../lib/canonical';
-import { JED_ID, WEBSITE_ID } from '../lib/site-entities';
+import { JED_ID, WEBSITE_ID, GLOSSARY_ID, corpusGlossarySchema } from '../lib/site-entities';
 
 interface Props {
   entry: any;
@@ -203,6 +203,25 @@ if (useScholarlyArticle) {
       : {}),
   };
 }
+
+// Pages that set `defined_term` are the canonical definition of a named
+// concept. Emit a schema.org DefinedTerm (quotable gloss + reciprocal
+// link to the corpus DefinedTermSet) alongside the article schema, so
+// the page is machine-discoverable as the authoritative definition.
+const jsonLdNodes: Record<string, any>[] = [articleSchema];
+if (data.defined_term) {
+  jsonLdNodes.push({
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    '@id': `${canonicalUrl}#term`,
+    name: data.defined_term,
+    description: data.defined_term_description ?? data.abstract,
+    inDefinedTermSet: { '@id': GLOSSARY_ID },
+    url: canonicalUrl,
+    mainEntityOfPage: canonicalUrl,
+  });
+  jsonLdNodes.push(corpusGlossarySchema);
+}
 ---
 
 <BaseLayout
@@ -210,7 +229,7 @@ if (useScholarlyArticle) {
   description={data.abstract}
   canonicalUrl={canonicalUrl}
   ogImage={data.hero_image}
-  jsonLd={articleSchema}
+  jsonLd={jsonLdNodes}
 >
   <article
     class:list={[
