@@ -1,0 +1,152 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{url}
+\usepackage[hidelinks]{hyperref}
+\urlstyle{same}
+% Allow long DOIs/URLs to break so reference lines never overflow the margin.
+\def\UrlBreaks{\do\/\do\.\do\-\do\_\do\:\do\=\do\&\do\?\do\#}
+\Urlmuskip=0mu plus 1mu\relax
+\sloppy
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\renewcommand{\baselinestretch}{1.0}
+
+\begin{document}
+
+\begin{center}
+{\Large\bfseries The Bond-Bit Ratio: A Thermodynamic Lower Bound on the\\[3pt]
+Energetic Cost of Information Relative to Matter\par}
+
+\vspace{1.4em}
+{\large Jed Anderson\par}
+\vspace{0.4em}
+Independent researcher, Houston, Texas\par
+\vspace{0.2em}
+ORCID 0009-0003-1807-2459 $\cdot$ jed@jedanderson.org $\cdot$ jedanderson.org\par
+
+\vspace{1.0em}
+Preprint, Version 1.0 $\cdot$ June 2026 $\cdot$ Licensed CC-BY-4.0\par
+\end{center}
+
+\vspace{0.8em}
+
+\begin{center}\textbf{Abstract}\end{center}
+\begin{quote}
+A single ratio underlies a large class of claims about the energetics of computation, the long-run economics of automation, and the physics of environmental stewardship: the ratio between the minimum energy required to handle one bit of information and the minimum energy required to break one chemical bond. This paper derives that ratio from first principles and fixes its conventions. At a planetary surface temperature of 300 K, the Landauer bound on irreversible bit handling is approximately $2.87 \times 10^{-21}$ J, while the dissociation energy of a single carbon--hydrogen bond is approximately $6.86 \times 10^{-19}$ J. Their quotient is approximately 240. This is a \emph{floor}: a lower bound fixed on one side by the second law of thermodynamics and on the other by the energetics of chemical bonding, and therefore not improvable by any future advance in computing hardware. We show the ratio is invariant in order of magnitude across the choice of reference bond (200--300$\times$), distinguish it carefully from the much larger \emph{operational} gap observed in deployed systems ($10^{8}$--$10^{12}$), and address the two strongest objections to the comparison: that the two processes are not commensurable, and that the comparison ignores the embodied energy of computing infrastructure. We then state, as clearly delimited implications rather than proven results, what follows for computation, economics, and environmental stewardship if the asymmetry holds and continues to widen. The conservative claim is narrow and, we argue, unassailable: information is, as a matter of physical law, at least two orders of magnitude cheaper than force, and the gap can only grow.
+\end{quote}
+
+\textbf{Keywords:} Landauer's principle; thermodynamics of computation; information physics; second law of thermodynamics; chemical bond energy; environmental stewardship
+
+\section*{1.\quad Introduction}
+A number sits quietly underneath a surprising range of arguments: in the thermodynamics of computation, in forecasts of AI's economic effect, and in the emerging question of whether planetary-scale environmental management can be conducted by information rather than by force. The number is the ratio between the cost of knowing and the cost of doing, between the energy needed to process a bit and the energy needed to alter the physical world by one elementary increment. It is frequently invoked, rarely derived in one place, and almost never pinned to explicit conventions. The purpose of this paper is narrow and deliberate: to derive that ratio cleanly, to state exactly what it is and is not, to defend it against its strongest objections, and only then to indicate what would follow if it holds.
+
+The strategy is conservative by design. The headline result is not the largest version of the asymmetry but the smallest defensible one, the version that cannot be argued down because both of its terms are theoretical lower bounds fixed by physical law. We will distinguish this floor sharply from the far larger gaps that appear in real systems, and from grander quantitative claims about leverage that require additional and more contestable assumptions. The reader who accepts only the conservative claim will, we hope, find it already sufficient to reframe several questions that are normally posed in economic or engineering terms as questions of physics.
+
+\section*{2.\quad The Landauer bound at planetary temperature}
+In 1961, Rolf Landauer established that any logically irreversible operation on information (canonically, the erasure of one bit) must dissipate to its surroundings a minimum quantity of energy [1]:
+\[
+E_{\text{bit}} \geq k\,T\,\ln 2
+\]
+where $k$ is Boltzmann's constant and $T$ is the absolute temperature of the surrounding heat bath. The bound was confirmed experimentally by B\'erut and colleagues in 2012 using a colloidal particle in a modulated double-well potential [2], and has since been reproduced across nanomagnetic, superconducting, and biomolecular substrates. It is among the most thoroughly validated results connecting information to thermodynamics [3].
+
+Evaluating at planetary surface temperature, using the exact post-2019-SI value of the Boltzmann constant:
+\begin{itemize}[noitemsep,topsep=0pt]
+\item $k = 1.380649 \times 10^{-23}$ J/K (exact)
+\item $T = 300$ K (approximately the global mean surface temperature)
+\item $\ln 2 \approx 0.6931$
+\end{itemize}
+gives
+\[
+E_{\text{bit}} \approx (1.380649 \times 10^{-23})(300)(0.6931) \approx 2.870 \times 10^{-21}\ \text{J per bit.}
+\]
+This is the smallest physically possible energetic cost of irreversibly handling one bit of information in Earth's surface environment. Two conventions deserve note. First, the bound applies only to logically irreversible operations; reversible computation has no such floor in principle [3], which would only widen the asymmetry developed below. Second, the bound scales linearly with temperature: at cryogenic temperatures the floor falls proportionally. We evaluate at 300 K because the chemical transformations a biosphere depends upon occur near planetary surface temperature, which is the regime relevant to the claims that follow.
+
+\section*{3.\quad The chemical baseline}
+The natural physical unit of matter-state change is the energy required to break a chemical bond. Industrial chemistry, metabolism, agriculture, and environmental remediation are, at base, ordered sequences of bond cleavages and bond formations; the energy budget of the material world is denominated in bonds.
+
+The carbon--hydrogen bond is the canonical reference. It is the most common bond in organic chemistry, the basis of hydrocarbon combustion, and present in nearly every biological molecule. Its mean bond dissociation enthalpy is approximately 413 kJ/mol. Dividing by the Avogadro constant gives the per-bond energy:
+\begin{itemize}[noitemsep,topsep=0pt]
+\item $\Delta H(\text{C--H}) \approx 413 \times 10^{3}$ J/mol
+\item $N_A = 6.02214 \times 10^{23}$ /mol
+\end{itemize}
+\[
+E_{\text{bond}} \approx (413 \times 10^{3}) / (6.02214 \times 10^{23}) \approx 6.86 \times 10^{-19}\ \text{J per bond.}
+\]
+
+\section*{4.\quad The ratio}
+Dividing the chemical baseline by the information floor:
+\[
+R = E_{\text{bond}} / E_{\text{bit}} \approx (6.86 \times 10^{-19}) / (2.870 \times 10^{-21}) \approx 239.
+\]
+To the round figure, approximately 240. At the thermodynamic floor, breaking a single carbon--hydrogen bond costs at least 240 times the energy of erasing a single bit.
+
+The ratio is robust in order of magnitude to the choice of reference bond. A stronger bond (O--H, $\sim$463 kJ/mol) raises it to $\sim$270$\times$; a weaker one (C--C, $\sim$347 kJ/mol) lowers it to $\sim$200$\times$. Any common chemical bond, divided by the Landauer bound at 300 K, falls within the 200--300$\times$ window. The order of magnitude is invariant: at the physical limit, information is roughly two orders of magnitude cheaper than matter.
+
+\section*{5.\quad What the ratio is, and what it is not}
+The 240$\times$ figure compares two theoretical lower bounds. The numerator is the minimum energy to dissociate one bond, set by chemistry; the denominator is the minimum dissipation of one irreversible bit operation, set by the second law. Neither term describes what real systems pay, and the distinction is essential to using the result honestly.
+
+Real systems pay far more, and they pay asymmetrically. Contemporary CMOS computation dissipates on the order of $10^{-15}$ J per bit operation, roughly six orders of magnitude above the Landauer floor. Real industrial chemistry typically expends $10^{2}$ to $10^{3}$ times the bare bond enthalpy on activation energy, heat loss, and process inefficiency. Crucially, these two real-world overheads do not cancel; they compound in information's favor. The end-to-end operational ratio, meaning the real cost to move a bit versus the real cost to break a bond in a deployed process, is therefore not 240 but typically in the range of $10^{8}$ to $10^{12}$.
+
+This yields two distinct and separately useful claims:
+\begin{enumerate}[topsep=0pt]
+\item \textbf{The floor claim (240$\times$).} Narrow, conservative, and fixed by physical law. It cannot be improved by any advance in computing hardware, because the denominator is bounded below by the second law and the numerator by bond energetics. Future efficiency gains only widen it.
+\item \textbf{The operational claim ($10^{8}$--$10^{12}$).} Empirically grounded in the measured efficiencies of present-day computing and chemistry. It is the figure relevant to economic and engineering decisions today.
+\end{enumerate}
+We emphasize the floor claim as the headline because it is the version that cannot be argued away. The operational claim is larger and, for practical purposes, more important, though it is contingent on current technology, whereas the floor is permanent.
+
+\section*{6.\quad Anticipating the two strongest objections}
+A claim that reframes economic and environmental questions in terms of physics invites scrutiny, and two objections are sufficiently serious to address directly.
+
+\subsection*{6.1\quad Commensurability: are a bit operation and a bond break the same kind of thing?}
+The first objection holds that erasing a bit and breaking a bond are not comparable processes, and that their ratio is therefore a category error rather than a meaningful quantity. The objection has force, and we narrow the claim to meet it. We do not assert that one bit of computation performs the work of breaking one bond. We assert something weaker and defensible: that the minimum energetic cost of acquiring, storing, or transforming one bit of information about a physical system is, at the thermodynamic limit, roughly two orders of magnitude below the minimum energetic cost of one elementary act of physical change to that system. The two quantities are commensurable precisely because both are energies, both are fixed by physical law, and both are denominated in joules. The ratio does not claim that information substitutes for force in any particular task; it bounds the relative price of the two currencies. Whether, and how efficiently, information can be converted into directed physical change in a given application is a separate empirical question, addressed below as an explicitly delimited implication rather than as a consequence of the ratio itself.
+
+\subsection*{6.2\quad Embodied energy: does the comparison ignore the cost of the computer?}
+The second objection holds that comparing a single bit operation to a single bond break ignores the embodied energy of building, powering, and cooling the computing infrastructure, and that once amortized, information's advantage shrinks or vanishes. This objection too is partly answered by the operational figure already given: the $10^{-15}$ J/bit operational cost of contemporary CMOS includes the marginal energetic overhead of running the hardware, and the asymmetry survives at $10^{8}$--$10^{12}$ even so. The embodied energy of manufacturing amortizes over the enormous number of operations a device performs across its lifetime (a modern processor executes on the order of $10^{19}$--$10^{21}$ bit operations over its service life), driving the per-operation embodied cost far below the marginal operational cost rather than above it. The objection identifies a real accounting requirement, but the accounting, once performed, widens rather than narrows the gap. We grant that for a specific environmental intervention the relevant comparison is system-level and application-dependent; the ratio is a statement about the price of the currencies, not a guarantee about any particular transaction.
+
+\section*{7.\quad Implications, stated as implications}
+The preceding sections establish a physical fact about relative costs. This section indicates what may follow if the fact holds and continues to hold. These are framed deliberately as conjectures and research directions, not as proven results; each rests on additional assumptions that warrant their own scrutiny.
+
+\textbf{For computation.} If the marginal energetic cost of information lies permanently and by a widening margin below the cost of physical actuation, then the long-run efficient frontier of any process that can substitute sensing, modeling, and prediction for brute physical intervention shifts steadily toward the informational pole. This is a thermodynamic statement of a trend usually described in economic terms.
+
+\textbf{For economics.} Standard forecasts of automation's economic effect concentrate on the substitution of computation for cognitive labor. The bond-bit asymmetry points to a second and arguably larger channel: the substitution of information for physical manipulation across the material economy, wherever a measurement or a model can replace a ton moved, a field tilled by guesswork, or a structure over-built against uncertainty. The magnitude of this second channel is an open and consequential empirical question.
+
+\textbf{For environmental stewardship.} The dominant twentieth-century model of environmental protection is force-based and mass-based: it regulates, remediates, and rebuilds after the fact, at costs denominated in the physical world's expensive currency. If information is permanently two or more orders of magnitude cheaper, then continuous observation and prediction, meaning protection conducted in the cheap currency and before damage occurs, is not merely better policy but the thermodynamically favored configuration. The author has developed this line elsewhere [4, 5, 6, 7, 8].
+
+\textbf{A note on quantifying total leverage.} Attempts to express the asymmetry as a single dimensionless leverage figure per unit mass, for instance by comparing the information required to direct an intervention to the total mass-energy of the matter directed, yield far larger numbers (of order $10^{20}$ per kilogram for physically meaningful information budgets, rising to a theoretical ceiling near $10^{37}$ per kilogram in the limit of a single directing bit). We flag these figures as provisional and more contestable than the floor derived here, because the appropriate numerator (total mass-energy versus rearrangement energy) is itself a modeling choice. They are presented in the cited corpus [4, 6] as framing devices; nothing in the present paper's conservative claim depends on them. We mention them only to mark the boundary between what is here proven and what remains to be established.
+
+\section*{8.\quad Conclusion}
+The conservative result of this paper is a single, narrow, and we believe unassailable claim: at the thermodynamic floor, information is at least approximately 240 times cheaper than the chemical currency of physical change, the gap widens to $10^{8}$--$10^{12}$ in deployed systems, and no advance in hardware can reverse its direction. The bound is fixed on one side by the second law and on the other by the energetics of chemical bonding; it is not an engineering contingency but a feature of the physical world.
+
+If this is correct, then a number of questions ordinarily posed as matters of cost, policy, or engineering preference are at bottom questions of physics. And the physics has a direction. We offer the derivation in its strict form so that the claims that depend on it need not re-derive it, and so that those who would dispute the larger implications must first contend with a floor that does not move.
+
+\vspace{0.8em}
+\begin{center}\rule{0.45\textwidth}{0.4pt}\end{center}
+\vspace{0.4em}
+
+\section*{References}
+\begin{list}{}{\setlength{\leftmargin}{1.6em}\setlength{\itemindent}{-1.6em}\setlength{\itemsep}{0.4em}\setlength{\parsep}{0pt}}
+\item [1] Landauer, R. (1961). Irreversibility and heat generation in the computing process. \emph{IBM Journal of Research and Development}, 5(3), 183--191.
+\item [2] B\'erut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., \& Lutz, E. (2012). Experimental verification of Landauer's principle linking information and thermodynamics. \emph{Nature}, 483, 187--189.
+\item [3] Bennett, C. H. (1982). The thermodynamics of computation---a review. \emph{International Journal of Theoretical Physics}, 21(12), 905--940.
+\item [4] Anderson, J. (2026). The Bond-Bit Ratio: A derivation of why information is at least 240$\times$ cheaper than force. Zenodo. \url{https://doi.org/10.5281/zenodo.20723029}
+\item [5] Anderson, J. (2026). Bits Protect Its. Zenodo. \url{https://doi.org/10.5281/zenodo.20724187}
+\item [6] Anderson, J. (2026). The Intelligence Leverage Equation. Zenodo. \url{https://doi.org/10.5281/zenodo.20724192}
+\item [7] Anderson, J. (2026). The Thermodynamic Foundations of Entropic Shepherding. Zenodo. \url{https://doi.org/10.5281/zenodo.20724194}
+\item [8] Anderson, J. (2026). The First Defender. Zenodo. \url{https://doi.org/10.5281/zenodo.20724227}
+\item [9] Parrondo, J. M. R., Horowitz, J. M., \& Sagawa, T. (2015). Thermodynamics of information. \emph{Nature Physics}, 11, 131--139.
+\item [10] Sagawa, T., \& Ueda, M. (2010). Generalized Jarzynski equality under nonequilibrium feedback control. \emph{Physical Review Letters}, 104, 090602.
+\end{list}
+
+\vspace{0.6em}
+\begin{center}\rule{0.45\textwidth}{0.4pt}\end{center}
+\vspace{0.4em}
+
+\textit{Author's note.} The canonical, continuously maintained version of this derivation, with full revision history, is at \url{https://jedanderson.org/essays/bond-bit-ratio}. The complete corpus of related work is indexed at \url{https://jedanderson.org/llms.txt} and available as a dataset at \url{https://huggingface.co/datasets/jedanderson/environmental-superintelligence-corpus}.
+
+\end{document}
