@@ -1,0 +1,286 @@
+== Zenodo deposit | target=sandbox | mode=DRY RUN | records=5 ==
+   ORCID_ID not set — creators[0].orcid will be empty until .env provides it.
+
+========================================================================
+RECORD: bond-bit-ratio   [reconstructed — needs review]
+========================================================================
+would attach:
+  ✓  public/pdfs/bond-bit-ratio.pdf
+  ✓  src/content/essays/bond-bit-ratio.md
+would request community: environmental-superintelligence
+reserved-DOI (simulated): 10.5072/zenodo.DRYRUN-0001
+PAYLOAD:
+{
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "title": "The Bond-Bit Ratio",
+    "publication_date": "2026-05-23",
+    "creators": [
+      {
+        "name": "Anderson, Jed",
+        "affiliation": "EnviroAI"
+      }
+    ],
+    "description": "<p><strong>Key result.</strong> At the thermodynamic floor, breaking a single chemical bond costs at least 240 times the energy of erasing a single bit of information. This 240× figure is a lower bound fixed by physics—no future engineering can push it below 240×—and in deployed systems the operational gap already runs 10⁸ to 10¹².</p><p><strong>Method.</strong> The ratio is derived in one place from fixed constants: Landauer's bound evaluated at 300 K (E_bit ≈ 2.870×10⁻²¹ J) against the mean carbon–hydrogen bond dissociation enthalpy (≈413 kJ/mol → E_bond ≈ 6.86×10⁻¹⁹ J), giving R ≈ 239. Substituting O–H or C–C reference bonds keeps the floor in a 200–300× window, so the order of magnitude is invariant.</p><p><strong>Why it matters.</strong> The 240× figure is the narrowest, most conservative, citation-grade form of the bond-bit asymmetry that underwrites the Intelligence Leverage Equation, the Thermodynamic Foundations derivation, and the wider environmental-superintelligence thesis. This page exists to be cited as the canonical source.</p><p>Canonical version of record: <a href=\"https://jedanderson.org/essays/bond-bit-ratio\">https://jedanderson.org/essays/bond-bit-ratio</a></p>",
+    "keywords": [
+      "Landauer's principle",
+      "bond-bit asymmetry",
+      "information physics",
+      "environmental superintelligence",
+      "thermodynamics"
+    ],
+    "license": "cc-by-4.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://jedanderson.org/essays/bond-bit-ratio",
+        "relation": "isVariantFormOf",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5072/zenodo.DRYRUN-0002",
+        "relation": "isCitedBy",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5072/zenodo.DRYRUN-0003",
+        "relation": "isCitedBy",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5072/zenodo.DRYRUN-0004",
+        "relation": "isCitedBy",
+        "scheme": "doi"
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "environmental-superintelligence"
+      }
+    ]
+  }
+}
+VALIDATION: 0 error(s), 1 warning(s)
+  ⚠ warn   creators[0].orcid empty (ORCID_ID not set) — will be filled when .env provides it
+
+========================================================================
+RECORD: intelligence-leverage-equation   [reconstructed — needs review]
+========================================================================
+would attach:
+  ✓  public/pdfs/intelligence-leverage-equation.pdf
+  ✓  src/content/essays/intelligence-leverage-equation.md
+would request community: environmental-superintelligence
+reserved-DOI (simulated): 10.5072/zenodo.DRYRUN-0002
+PAYLOAD:
+{
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "title": "The Intelligence Leverage Equation",
+    "publication_date": "2026-02-06",
+    "creators": [
+      {
+        "name": "Anderson, Jed",
+        "affiliation": "EnviroAI"
+      }
+    ],
+    "description": "<p><strong>Key result.</strong> The Intelligence Leverage Equation Λ = Mc² / (I·k_BT·ln 2) captures the bond-bit asymmetry as a single dimensionless quantity, showing that knowing is on the order of 10²⁰ times cheaper than moving for typical environmental scenarios.</p><p><strong>Method.</strong> Λ is assembled as the ratio of the maximum physical energy to force matter (Mc²) to the minimum information energy to know about it (I·k_BT·ln 2), synthesizing five domains of physics: Landauer's thermodynamics of computation, the Sagawa–Ueda generalized second law, quantum-mechanical bond energies, Einstein mass-energy equivalence, and boundary observability theory. The underlying 240× floor constants are taken from the canonical bond-bit ratio derivation.</p><p><strong>Why it matters.</strong> It reframes the environmental professional's role from boulder-pushing (mass forcing) to designing the intelligence that keeps the boulders from rolling—entropic shepherding, the continuous maintenance of low-entropy order through knowledge—and names 'Jed's Angel' as the practical realization of Maxwell's demon for planetary systems.</p><p>Canonical version of record: <a href=\"https://jedanderson.org/essays/intelligence-leverage-equation\">https://jedanderson.org/essays/intelligence-leverage-equation</a></p>",
+    "keywords": [
+      "intelligence leverage equation",
+      "bond-bit asymmetry",
+      "entropic shepherding",
+      "Maxwell's demon",
+      "Landauer's principle",
+      "environmental superintelligence"
+    ],
+    "license": "cc-by-4.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://jedanderson.org/essays/intelligence-leverage-equation",
+        "relation": "isVariantFormOf",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5072/zenodo.DRYRUN-0001",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5072/zenodo.DRYRUN-0003",
+        "relation": "isSupplementedBy",
+        "scheme": "doi"
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "environmental-superintelligence"
+      }
+    ]
+  }
+}
+VALIDATION: 0 error(s), 1 warning(s)
+  ⚠ warn   creators[0].orcid empty (ORCID_ID not set) — will be filled when .env provides it
+
+========================================================================
+RECORD: thermodynamic-foundations-of-entropic-shepherding   [reconstructed — needs review]
+========================================================================
+would attach:
+  ✓  public/pdfs/thermodynamic-foundations-of-entropic-shepherding.pdf
+  ✓  src/content/essays/thermodynamic-foundations-of-entropic-shepherding.md
+would request community: environmental-superintelligence
+reserved-DOI (simulated): 10.5072/zenodo.DRYRUN-0003
+PAYLOAD:
+{
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "title": "The Thermodynamic Foundations of Entropic Shepherding",
+    "publication_date": "2026-01-20",
+    "creators": [
+      {
+        "name": "Anderson, Jed",
+        "affiliation": "EnviroAI"
+      }
+    ],
+    "description": "<p><strong>Key result.</strong> A first-principles derivation of the Intelligence Leverage Equation Λ = Mc²/(I·k_BT·ln 2), proving the Bond-Bit Asymmetry—that information processing can substitute for physical intervention at leverage ratios of approximately 10²⁰ for typical environmental scenarios at room temperature (with a theoretical ceiling of ~3×10³⁷ per kilogram for the 1-bit idealization).</p><p><strong>Method.</strong> Synthesizes Landauer's bound, the Sagawa–Ueda generalized second law, bond-energy quantum constraints, boundary observability theory (PDE boundary observability, compressed sensing, the holographic principle), and mass-energy equivalence into a single derivation. The per-operation bond-bit ratio (~240×) is reconciled with the canonical bond-bit ratio derivation; scenario-dependent ratios span 10¹⁰ to 10²².</p><p><strong>Why it matters.</strong> It grounds the asymptote of zero-cost stewardship in physics rather than economics: prevention through information is thermodynamically favored over remediation through force, and the advantage widens as computation approaches its Landauer floor while chemical intervention stays pinned at its quantum-mechanical ceiling.</p><p>Canonical version of record: <a href=\"https://jedanderson.org/essays/thermodynamic-foundations-of-entropic-shepherding\">https://jedanderson.org/essays/thermodynamic-foundations-of-entropic-shepherding</a></p>",
+    "keywords": [
+      "intelligence leverage equation",
+      "bond-bit asymmetry",
+      "Sagawa-Ueda",
+      "boundary observability",
+      "Landauer's principle",
+      "entropic shepherding"
+    ],
+    "license": "cc-by-4.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://jedanderson.org/essays/thermodynamic-foundations-of-entropic-shepherding",
+        "relation": "isVariantFormOf",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5072/zenodo.DRYRUN-0001",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5072/zenodo.DRYRUN-0002",
+        "relation": "isSupplementTo",
+        "scheme": "doi"
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "environmental-superintelligence"
+      }
+    ]
+  }
+}
+VALIDATION: 0 error(s), 1 warning(s)
+  ⚠ warn   creators[0].orcid empty (ORCID_ID not set) — will be filled when .env provides it
+
+========================================================================
+RECORD: bits-protect-its   [reconstructed — needs review]
+========================================================================
+would attach:
+  ✓  public/pdfs/bits-protect-its.pdf
+  ✓  src/content/essays/bits-protect-its.md
+would request community: environmental-superintelligence
+reserved-DOI (simulated): 10.5072/zenodo.DRYRUN-0004
+PAYLOAD:
+{
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "title": "Bits Protect Its",
+    "publication_date": "2026-05-22",
+    "creators": [
+      {
+        "name": "Anderson, Jed",
+        "affiliation": "EnviroAI"
+      }
+    ],
+    "description": "<p><strong>Key result.</strong> The full treatise behind the site's thesis: environmental superintelligence is a physical necessity, not a preference. Because erasing one bit costs ~2.87×10⁻²¹ J at 300 K while breaking a chemical bond costs roughly two orders of magnitude more, directing matter by information is overwhelmingly cheaper than directing it by force—so every successful environmental intervention in modern history has, on close inspection, been an information substitution in disguise.</p><p><strong>Method.</strong> Walks the planetary regulatory loop (the two-to-three-decade NAAQS implementation tail), the thermodynamics of information (Landauer's bound, the bond-bit asymmetry, Parrondo–Horowitz–Sagawa, Wolpert), and the convergence of exponential AI capability with geophysical urgency (six of nine planetary boundaries crossed; the 1.5°C carbon budget exhausting around 2030; deployed Earth-system models such as GraphCast, Pangu-Weather, Aurora, and Flood Hub).</p><p><strong>Why it matters.</strong> Environmental law is structurally a prosthesis for cognitive limits—compliance is what you do when you cannot see; care is what you do when you can. For the first time the organ that compliance was substituting for is being built.</p><p>Canonical version of record: <a href=\"https://jedanderson.org/essays/bits-protect-its\">https://jedanderson.org/essays/bits-protect-its</a></p>",
+    "keywords": [
+      "environmental superintelligence",
+      "bond-bit asymmetry",
+      "Landauer's principle",
+      "causal sovereignty",
+      "Clean Air Act",
+      "thermodynamics of information"
+    ],
+    "license": "cc-by-4.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://jedanderson.org/essays/bits-protect-its",
+        "relation": "isVariantFormOf",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5072/zenodo.DRYRUN-0001",
+        "relation": "cites",
+        "scheme": "doi"
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "environmental-superintelligence"
+      }
+    ]
+  }
+}
+VALIDATION: 0 error(s), 1 warning(s)
+  ⚠ warn   creators[0].orcid empty (ORCID_ID not set) — will be filled when .env provides it
+
+========================================================================
+RECORD: first-defender   [reconstructed — needs review]
+========================================================================
+would attach:
+  ✓  public/pdfs/first-defender.pdf
+  ✓  src/content/essays/first-defender.md
+would request community: environmental-superintelligence
+reserved-DOI (simulated): 10.5072/zenodo.DRYRUN-0005
+PAYLOAD:
+{
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "title": "The First Defender",
+    "publication_date": "2026-05-09",
+    "creators": [
+      {
+        "name": "Anderson, Jed",
+        "affiliation": "EnviroAI"
+      }
+    ],
+    "description": "<p><strong>Key result.</strong> The founding case for environmental superintelligence: four billion years of evolution produced one species capable of saving the rest, and the species that built fossil-fuel infrastructure is also the only species that has ever solved a planetary problem—demonstrated when the DART spacecraft moved a celestial body off its orbit in 2022.</p><p><strong>Method.</strong> Argues from David Deutsch's epistemology (knowledge as hard-to-vary good explanations with unlimited reach; 'problems are soluble') and Yudkowsky's corollary (hardness is a property of the mind in front of the problem, not the problem itself), set against the cosmic ledger of five mass extinctions and the scheduled threats of asteroid impacts, supervolcanoes, solar storms, gamma-ray bursts, and stellar evolution.</p><p><strong>Why it matters.</strong> It reframes the environmental project from preservation to defense—from sustaining a static configuration to building the explanatory capacity to outpace the rate of new problems—and motivates the information-physics worked out in the rest of the corpus.</p><p>Canonical version of record: <a href=\"https://jedanderson.org/essays/first-defender\">https://jedanderson.org/essays/first-defender</a></p>",
+    "keywords": [
+      "environmental superintelligence",
+      "David Deutsch",
+      "hard-to-vary explanations",
+      "cosmic ledger",
+      "knowledge creation",
+      "planetary defense"
+    ],
+    "license": "cc-by-4.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://jedanderson.org/essays/first-defender",
+        "relation": "isVariantFormOf",
+        "scheme": "url"
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "environmental-superintelligence"
+      }
+    ]
+  }
+}
+VALIDATION: 0 error(s), 1 warning(s)
+  ⚠ warn   creators[0].orcid empty (ORCID_ID not set) — will be filled when .env provides it
+
+========================================================================
+DRY RUN COMPLETE: 5 records, 0 blocking error(s) total.
+No network calls were made. Add a token + run with --execute to deposit to sandbox.
+========================================================================

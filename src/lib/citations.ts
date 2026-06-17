@@ -7,7 +7,17 @@ type CitationInput = {
   canonicalUrl: string;
   author?: string;
   coAuthors?: string[];
+  // Zenodo (or similar) DOI, bare form e.g. "10.5281/zenodo.1234567".
+  // When present, surfaced in every citation format. Empty/undefined
+  // until a real DOI is minted (Phase 3).
+  doi?: string;
 };
+
+// Normalize a bare DOI into its registered https URL.
+function doiUrl(doi: string): string {
+  const bare = doi.replace(/^https?:\/\/doi\.org\//, '').trim();
+  return `https://doi.org/${bare}`;
+}
 
 const LONG_DATE = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
@@ -58,6 +68,7 @@ const BIBTEX_OVERRIDES: Record<
 
 export function bibtex(c: CitationInput, today: Date = new Date()): string {
   const year = c.date.getUTCFullYear();
+  const doiLine = c.doi ? `  doi    = {${c.doi.replace(/^https?:\/\/doi\.org\//, '')}},` : null;
   const override = BIBTEX_OVERRIDES[c.slug];
   if (override) {
     return [
@@ -66,9 +77,10 @@ export function bibtex(c: CitationInput, today: Date = new Date()): string {
       `  title  = {${override.title}},`,
       `  year   = {${year}},`,
       `  url    = {${c.canonicalUrl}},`,
+      doiLine,
       `  note   = {${override.note}}`,
       `}`,
-    ].join('\n');
+    ].filter(Boolean).join('\n');
   }
   const todayIso = today.toISOString().slice(0, 10);
   const authors = authorList(c).join(' and ');
@@ -79,19 +91,22 @@ export function bibtex(c: CitationInput, today: Date = new Date()): string {
     `  title  = {${c.title}},`,
     `  year   = {${year}},`,
     `  url    = {${c.canonicalUrl}},`,
+    doiLine,
     `  note   = {Accessed: ${todayIso}}`,
     `}`,
-  ].join('\n');
+  ].filter(Boolean).join('\n');
 }
 
 export function apa(c: CitationInput): string {
   const year = c.date.getUTCFullYear();
   const authors = authorList(c).map(abbrev).join(', ');
-  return `${authors} (${year}). ${c.title}. Retrieved from ${c.canonicalUrl}`;
+  const where = c.doi ? doiUrl(c.doi) : `Retrieved from ${c.canonicalUrl}`;
+  return `${authors} (${year}). ${c.title}. ${where}`;
 }
 
 export function mla(c: CitationInput): string {
   const authors = authorList(c).map(surnameFirst).join(', ');
   const dateLong = LONG_DATE.format(c.date);
-  return `${authors}. "${c.title}." ${SITE.title}, ${dateLong}, ${c.canonicalUrl}.`;
+  const locator = c.doi ? doiUrl(c.doi) : c.canonicalUrl;
+  return `${authors}. "${c.title}." ${SITE.title}, ${dateLong}, ${locator}.`;
 }
