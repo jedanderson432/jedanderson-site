@@ -1,0 +1,72 @@
+{
+  "name": "environmental-superintelligence-corpus",
+  "record_count": 900,
+  "fields": [
+    {
+      "name": "slug",
+      "type": "string",
+      "nullable": false,
+      "description": "URL-stable kebab-case identifier"
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "nullable": false,
+      "description": "Piece title"
+    },
+    {
+      "name": "type",
+      "type": "string",
+      "nullable": false,
+      "description": "essay | post | book | letter | speech"
+    },
+    {
+      "name": "date",
+      "type": "string",
+      "nullable": false,
+      "description": "Publication date YYYY-MM-DD"
+    },
+    {
+      "name": "tags",
+      "type": "list<string>",
+      "nullable": false,
+      "description": "Topical tags"
+    },
+    {
+      "name": "abstract",
+      "type": "string",
+      "nullable": false,
+      "description": "Abstract / dek (may be empty)"
+    },
+    {
+      "name": "body_markdown",
+      "type": "string",
+      "nullable": false,
+      "description": "Frontmatter-stripped prose body"
+    },
+    {
+      "name": "canonical_url",
+      "type": "string",
+      "nullable": false,
+      "description": "Authoritative page on jedanderson.org"
+    },
+    {
+      "name": "word_count",
+      "type": "int64",
+      "nullable": false,
+      "description": "Whitespace-delimited token count of body_markdown"
+    },
+    {
+      "name": "license",
+      "type": "string",
+      "nullable": false,
+      "description": "Per-record SPDX license: CC-BY-4.0 or CC0-1.0"
+    },
+    {
+      "name": "doi",
+      "type": "string",
+      "nullable": true,
+      "description": "Zenodo concept DOI when present, else null"
+    }
+  ]
+}
