@@ -272,6 +272,7 @@ export const jedPersonSchema = {
     'https://www.linkedin.com/in/jed-anderson/',
     'https://enviro.ai',
     JED_ORCID_URL,
+    'https://www.wikidata.org/wiki/Q140265360',
     SITE.github,
   ].filter(Boolean),
 };
