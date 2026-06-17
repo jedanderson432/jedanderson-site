@@ -1,0 +1,20 @@
+
+*** PRODUCTION TARGET ARMED (zenodo.org) — this mints real, permanent DOIs ***
+
+-- CANARY SCOPE: --only=bond-bit-ratio → 1 record (siblings not deposited this run) --
+== Zenodo deposit | target=production | mode=LIVE | records=1 ==
+   ORCID_ID = 0009-0003-1807-2459
+  ! community creation not possible with this token — deferring inclusion to Phase 2 canary. (Zenodo POST /communities → HTTP 400: {"status": 400, "message": "A validation error occurred.", "errors": [{"field": "slug", "messages": ["Missing data for required field."]}, {"field": "metadata", "messages": ["Missing data for required field."]}, {"field": "access", "messages": ["Missing data for required field."]}]})
+  ✓ reserved bond-bit-ratio → 10.5281/zenodo.20723030 (dep 20723030)
+  ✓ metadata + 2 files attached: bond-bit-ratio
+  ✓ published bond-bit-ratio → 10.5281/zenodo.20723030
+
+== Post-publish assertions ==
+  ✓ bond-bit-ratio: DOI minted (10.5281/zenodo.20723030)
+  ✓ bond-bit-ratio: title matches frontmatter
+  ✓ bond-bit-ratio: license correct
+  ✓ bond-bit-ratio: both files attached (2)
+  ✓ bond-bit-ratio: related identifiers present (1)
+  ✓ bond-bit-ratio: ORCID round-trips (0009-0003-1807-2459)
+  ✗ bond-bit-ratio: community inclusion request created
+    record: https://zenodo.org/records/20723030 | concept: 10.5281/zenodo.20723029 | version: 10.5281/zenodo.20723030

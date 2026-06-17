@@ -25,7 +25,10 @@ const ALL_COLLECTIONS = ['essays', 'posts', 'books', 'letters', 'speeches'] as c
 
 function lineFor(entry: any): string {
   const url = canonicalFor(entry);
-  return `- [${entry.data.title}](${url}.md): ${entry.data.abstract}`;
+  // Surface the citable Zenodo concept DOI when present (real, minted
+  // DOIs only — empty frontmatter doi fields append nothing).
+  const doi = entry.data.doi ? ` (DOI: https://doi.org/${entry.data.doi})` : '';
+  return `- [${entry.data.title}](${url}.md): ${entry.data.abstract}${doi}`;
 }
 
 const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] = [
@@ -44,7 +47,7 @@ const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] 
   {
     name: 'Bond-Bit Asymmetry',
     definition:
-      'The first-principles result that information processing can substitute for physical intervention at leverage ratios approaching 10³⁷ per kilogram of matter at room temperature.',
+      'The first-principles result that information processing can substitute for physical intervention at leverage ratios of approximately 10²⁰ for typical environmental scenarios at room temperature.',
     essay: 'essays/thermodynamic-foundations-of-entropic-shepherding',
   },
   {
