@@ -7,7 +7,7 @@ authors:
   - family-names: Anderson
     given-names: Jed
     email: jedanderson432@gmail.com
-    # orcid: "https://orcid.org/0000-0000-0000-0000"  # Phase 3: fill from .env ORCID_ID
+    orcid: "https://orcid.org/0009-0003-1807-2459"
 url: "https://jedanderson.org"
 repository-code: "https://github.com/jedanderson432/jedanderson-site"
 license: CC-BY-4.0
@@ -21,16 +21,16 @@ identifiers:
     value: "10.5281/zenodo.20723029"
     description: "Concept DOI — The Bond-Bit Ratio"
   - type: doi
-    value: "10.5281/zenodo.PENDING-intelligence-leverage-equation"
+    value: "10.5281/zenodo.20724192"
     description: "Concept DOI — The Intelligence Leverage Equation"
   - type: doi
-    value: "10.5281/zenodo.PENDING-thermodynamic-foundations-of-entropic-shepherding"
+    value: "10.5281/zenodo.20724194"
     description: "Concept DOI — The Thermodynamic Foundations of Entropic Shepherding"
   - type: doi
-    value: "10.5281/zenodo.PENDING-bits-protect-its"
+    value: "10.5281/zenodo.20724187"
     description: "Concept DOI — Bits Protect Its"
   - type: doi
-    value: "10.5281/zenodo.PENDING-first-defender"
+    value: "10.5281/zenodo.20724227"
     description: "Concept DOI — The First Defender"
 keywords:
   - environmental-superintelligence
