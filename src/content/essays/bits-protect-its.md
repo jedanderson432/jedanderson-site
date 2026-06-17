@@ -8,6 +8,7 @@ status: published
 tags: ["cornerstone", "causal-sovereignty", "enviroai", "information-theory", "thermodynamics", "deutsch", "treatise"]
 abstract: "The full treatise behind the site's thesis. Walks the planetary regulatory loop (two-to-three-decade NAAQS implementation), the thermodynamics of information (Landauer's bound, the bond-bit asymmetry), the convergence of AI capability and geophysical urgency, and the inversion that follows: environmental law has always been a prosthesis for cognitive limits, and for the first time the organ it was substituting for is being built."
 license: CC-BY-4.0
+doi: "10.5281/zenodo.20724187"
 pdf: "/pdfs/bits-protect-its.pdf"
 hero_image: "/images/bits-protect-its-hero.jpg"
 hero_image_alt: "Portrait cover of Bits Protect Its—deep navy with cyan and gold typography. Large two-line serif title: 'Bits Protect' set in gold, 'Its' in italic cyan beneath. Eyebrow: An essay by Jed Anderson. Subtitle: Why environmental superintelligence is not a preference, not a prediction, but a physical necessity—derived from the thermodynamics of information, the structure of Earth-system complexity, and the arrival, at long last, of instruments that can match the speed of nature. Marked No. 01 · Foundational; jedanderson.org · Houston · 2026."
