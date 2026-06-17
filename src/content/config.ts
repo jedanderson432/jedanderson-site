@@ -79,6 +79,15 @@ const baseSchema = z.object({
   // a schema.org Thing in the ScholarlyArticle `about` array.
   about: z.array(z.string()).optional(),
 
+  // Canonical glossary definition. When `defined_term` is set, the page
+  // emits a schema.org DefinedTerm node (plus the corpus DefinedTermSet)
+  // in addition to its Article/ScholarlyArticle JSON-LD, marking the page
+  // as the authoritative definition of a named concept. `defined_term` is
+  // the term's display name; `defined_term_description` is the crisp,
+  // quotable gloss (falls back to `abstract` when omitted).
+  defined_term: z.string().optional(),
+  defined_term_description: z.string().optional(),
+
   // Speech/talk-specific fields. The talk happens off-site; this site
   // hosts a stub page that links to the canonical recording.
   external_url: z.string().url().optional(),

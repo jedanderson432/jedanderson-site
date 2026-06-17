@@ -27,6 +27,20 @@ export const JED_ID = `${SITE.url}/about#jed-anderson`;
 export const ENVIROAI_ID = 'https://enviro.ai/#enviroai';
 export const WEBSITE_ID = `${SITE.url}/#website`;
 
+// Canonical glossary of named concepts coined and developed across the
+// corpus. Pages with a `defined_term` frontmatter field emit a
+// schema.org DefinedTerm that points back to this set via
+// `inDefinedTermSet`, binding the term to the corpus and its author.
+export const GLOSSARY_ID = `${SITE.url}/#corpus-glossary`;
+
+// ORCID is the canonical researcher identifier for Jed Anderson. It is
+// the same iD recorded against every Zenodo deposit (scripts/
+// zenodo-deposit.mjs), so declaring it here lets entity-resolution and
+// scholarly-graph systems unify the on-site Person node with the
+// off-site ORCID and Zenodo records.
+export const JED_ORCID = '0009-0003-1807-2459';
+export const JED_ORCID_URL = `https://orcid.org/${JED_ORCID}`;
+
 export const enviroaiOrganizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
@@ -90,6 +104,12 @@ export const jedPersonSchema = {
       '@type': 'PropertyValue',
       propertyID: 'Texas State Bar',
       value: '24006759',
+    },
+    {
+      '@type': 'PropertyValue',
+      propertyID: 'ORCID',
+      value: JED_ORCID,
+      url: JED_ORCID_URL,
     },
   ],
   author: {
@@ -251,8 +271,25 @@ export const jedPersonSchema = {
   sameAs: [
     'https://www.linkedin.com/in/jed-anderson/',
     'https://enviro.ai',
+    JED_ORCID_URL,
     SITE.github,
   ].filter(Boolean),
+};
+
+// The corpus glossary as a schema.org DefinedTermSet. Emitted alongside
+// the per-page DefinedTerm on any page that sets `defined_term`. The
+// reciprocal `DefinedTerm.inDefinedTermSet` link points here by @id.
+export const corpusGlossarySchema = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTermSet',
+  '@id': GLOSSARY_ID,
+  name: 'Key Named Concepts',
+  description:
+    "The controlled vocabulary of concepts coined and developed across Jed Anderson's corpus on environmental superintelligence, information physics, and faith-integrated first-principles thinking.",
+  url: `${SITE.url}/llms.txt`,
+  creator: { '@id': JED_ID },
+  inLanguage: 'en',
+  isPartOf: { '@id': WEBSITE_ID },
 };
 
 export const websiteSchema = {
