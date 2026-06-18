@@ -8,6 +8,7 @@ status: published
 tags: ["environmental-superintelligence", "enviroai", "foundational", "causal-sovereignty"]
 abstract: "The canonical definition of environmental superintelligence: a continuous, physics-grounded information infrastructure that protects the biosphere by modeling, predicting, and stabilizing Earth's physical systems—human-wielded and protective, resting on the principle that information is thermodynamically cheaper than force."
 license: CC-BY-4.0
+hero_image: "/images/environmental-superintelligence-cover.png"
 show_toc: true
 defined_term: "Environmental Superintelligence"
 defined_term_description: "A continuous, physics-grounded information infrastructure that protects the biosphere by modeling, predicting, and stabilizing Earth's physical systems. It is human-wielded and protective, resting on the principle that information is thermodynamically cheaper than force (\"bits protect its\"): steering a system with information costs less than moving it with mass and energy, so a complete and continuous information layer becomes the most efficient defender of planetary order."
