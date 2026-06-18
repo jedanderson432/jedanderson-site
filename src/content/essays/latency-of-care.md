@@ -4,7 +4,7 @@ slug: "latency-of-care"
 subtitle: "For four billion years the time between harm and help was infinite. This is the generation that closes the loop."
 date: 2026-06-18
 type: essay
-status: draft
+status: published
 tags: ["enviroai", "physics", "information-theory", "causal-sovereignty"]
 abstract: "Every failure to protect the biosphere has been a latency failure: dead time in the loop between when a living system is harmed and when anything able to help it registers the harm and acts. Human language moves about thirty-nine bits per second and the institutions built on it settle in decades, while control theory is blunt about the consequence—a regulator slower than the thing it regulates does not steer it weakly, it drives it unstable. This essay shows why the binding constraint was never will or money but loop speed, why that constraint is breaking in this decade and not another, and where the physics points once it breaks: toward a closed planetary control loop running near the hard floors set by thermodynamics and the speed of light."
 license: CC-BY-4.0
