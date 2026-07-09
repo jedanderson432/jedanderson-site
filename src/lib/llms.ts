@@ -28,7 +28,9 @@ function lineFor(entry: any): string {
   // Surface the citable Zenodo concept DOI when present (real, minted
   // DOIs only — empty frontmatter doi fields append nothing).
   const doi = entry.data.doi ? ` (DOI: https://doi.org/${entry.data.doi})` : '';
-  return `- [${entry.data.title}](${url}.md): ${entry.data.abstract}${doi}`;
+  // Surface the alternate-venue working-paper posting (e.g. SSRN) when present.
+  const ssrn = entry.data.ssrn_url ? ` (SSRN: ${entry.data.ssrn_url})` : '';
+  return `- [${entry.data.title}](${url}.md): ${entry.data.abstract}${doi}${ssrn}`;
 }
 
 const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] = [

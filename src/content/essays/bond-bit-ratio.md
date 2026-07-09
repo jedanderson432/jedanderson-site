@@ -14,6 +14,7 @@ hero_image_alt: "Landscape hero for The Bond-Bit Ratio—deep navy background wi
 pdf_canonical: true
 schema_type: ScholarlyArticle
 doi: "10.5281/zenodo.20723029"
+ssrn_url: "https://ssrn.com/abstract=6958708"
 show_abstract_on_page: true
 date_modified: 2026-05-24
 keywords:
@@ -109,6 +110,8 @@ If you cite the 240× figure in a paper, talk, model, or argument, please cite t
 ```
 
 APA and MLA forms are rendered in the *Cite this* block below.
+
+A formal working-paper version is posted at SSRN: https://ssrn.com/abstract=6958708 (posted July 2026).
 
 ## 7. Where this ratio is used in the corpus
 

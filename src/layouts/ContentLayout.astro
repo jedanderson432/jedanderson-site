@@ -106,6 +106,7 @@ if (useScholarlyArticle) {
   // come from frontmatter `keywords` when set, otherwise fall back to
   // tags. `about` becomes an array of Thing entities.
   const doiUrl = data.doi ? `https://doi.org/${data.doi}` : null;
+  const sameAsUrls = [doiUrl, data.ssrn_url].filter(Boolean);
   const keywordsValue =
     Array.isArray(data.keywords) && data.keywords.length > 0
       ? data.keywords.join(', ')
@@ -129,7 +130,7 @@ if (useScholarlyArticle) {
     citation: canonicalUrl,
     image: imageUrl,
     identifier: doiUrl ? [canonicalUrl, doiUrl] : canonicalUrl,
-    ...(doiUrl ? { sameAs: [doiUrl] } : {}),
+    ...(sameAsUrls.length > 0 ? { sameAs: sameAsUrls } : {}),
     license: licenseUrl,
     publisher: { '@id': JED_ID },
     isPartOf: { '@id': WEBSITE_ID },
