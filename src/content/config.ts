@@ -65,6 +65,11 @@ const baseSchema = z.object({
   // the ScholarlyArticle JSON-LD.
   doi: z.string().optional(),
 
+  // Alternate-venue posting for the working-paper version (e.g. an
+  // SSRN abstract URL). When present, emitted as an additional sameAs
+  // entry in the ScholarlyArticle JSON-LD, alongside the DOI.
+  ssrn_url: z.string().url().optional(),
+
   // Most recent substantive revision date. When present, emitted as
   // schema.org `dateModified` in the ScholarlyArticle JSON-LD. The
   // canonical publication date (`date`) is never overwritten.

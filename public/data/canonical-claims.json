@@ -2095,8 +2095,8 @@
       "pattern": "multiplier",
       "match": "240×",
       "claim": "The 240× figure is load-bearing in:",
-      "context": "APA and MLA forms are rendered in the *Cite this* block below. This page is the canonical derivation. The 240× figure is load-bearing in: - [Bits Protect Its] —the full treatise behind the site's thesis - [The Intelligence Leverage Equation] —Λ",
-      "line": 87,
+      "context": "low. A formal working-paper version is posted at SSRN: (posted July 2026). This page is the canonical derivation. The 240× figure is load-bearing in: - [Bits Protect Its] —the full treatise behind the site's thesis - [The Intelligence Leverage Equation] —Λ",
+      "line": 89,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2026-05-23"
@@ -2111,7 +2111,7 @@
       "match": "240×",
       "claim": "Added section 7 listing the essays in which the 240× figure is load-bearing.",
       "context": "0¹² operational gap. Added a *note on conventions* at the end of section 2 covering reversible computation and the temperature dependence of the bound. Added section 7 listing the essays in which the 240× figure is load-bearing. - **v1.0—2026-05-23.** Initial publication.",
-      "line": 98,
+      "line": 100,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2026-05-23"
