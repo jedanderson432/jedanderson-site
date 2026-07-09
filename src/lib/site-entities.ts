@@ -273,6 +273,11 @@ export const jedPersonSchema = {
     'https://enviro.ai',
     JED_ORCID_URL,
     'https://www.wikidata.org/wiki/Q140265360',
+    // Author-identity pages only. SSRN author profile and Hugging Face
+    // user profile are person-level identifiers; dataset/work URLs never
+    // go in Person.sameAs.
+    'https://ssrn.com/author=12031408',
+    'https://huggingface.co/jedanderson',
     SITE.github,
   ].filter(Boolean),
 };
