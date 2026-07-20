@@ -9,6 +9,8 @@ tags: ["physics", "information-theory", "boundary-dominance", "incorruptible-gra
 abstract: "Compression and redundancy look like opposite instructions—shrink the message, or copy it—but they act on different things: compression finds the smallest true description, redundancy writes that description in many independent places. Nature uses both to make a fact knowable and incorruptible at once, which gives a concrete rule for protecting the living world: know it small, keep it everywhere—the first makes truth cheap, the second makes lying expensive."
 license: CC-BY-4.0
 pdf: "/pdfs/small-and-everywhere.pdf"
+hero_image: "/images/small-and-everywhere-hero.jpg"
+hero_image_alt: "A river winding through a valley beneath a satellite, with many independent sensor readings—discharge, water quality, in-stream, river edge, satellite feed—streaming upward into an environmental-superintelligence network. Caption: many measurements, one truth, a better future."
 ---
 
 Look at the nearest solid thing. A chair, a cup, your own hand. You know it is there. You are certain of it. Ask yourself why.
