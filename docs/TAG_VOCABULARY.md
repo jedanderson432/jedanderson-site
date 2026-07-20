@@ -25,6 +25,9 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - artificial-energy — the AE thesis: gradient harvesting engineered in non-biological substrates, framed as the energy peer of AI
 - accessible — on-ramp pieces written for a general or young audience, deliberately plain-language entries into the corpus
 - childrens-book — illustrated children's-book adaptations of corpus essays; pairs with `visual-essay` and `accessible`
+- compression — the information-theoretic move of finding the smallest true description; recurs across the corpus (Shannon, algorithmic complexity, logical depth)
+- boundary-dominance — the Boundary Dominance Principle: a system's interior can be read from a far smaller honest description of its boundary (holography as the physics precedent)
+- incorruptible-grader — the thesis that physical reality is the one objective whose corruption cost rises without bound with measurement fidelity; ties to *Reality as the Only Incorruptible Grader*
 
 ## Thinker tags (engages a specific argument)
 - deutsch, wheeler, yudkowsky, whitehead, landauer, bekenstein
