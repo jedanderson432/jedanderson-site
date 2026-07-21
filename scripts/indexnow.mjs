@@ -111,11 +111,15 @@ export function indexNow() {
             }
           }
 
-          const urls = [...urlSet];
-          if (urls.length === 0) {
+          if (urlSet.size === 0) {
             logger.warn('IndexNow: no URLs collected from sitemaps — nothing to submit.');
             return;
           }
+
+          // Submit the sitemap index itself alongside the page URLs so
+          // engines re-fetch it (and its <lastmod> stamps) immediately.
+          urlSet.add(`https://${HOST}/sitemap-index.xml`);
+          const urls = [...urlSet];
 
           logger.info(`IndexNow: collected ${urls.length} URL(s) from ${childSitemaps.length} sitemap(s).`);
 

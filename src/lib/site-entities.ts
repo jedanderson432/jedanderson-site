@@ -273,12 +273,14 @@ export const jedPersonSchema = {
     'https://enviro.ai',
     JED_ORCID_URL,
     'https://www.wikidata.org/wiki/Q140265360',
-    // Author-identity pages only. SSRN author profile and Hugging Face
-    // user profile are person-level identifiers; dataset/work URLs never
-    // go in Person.sameAs.
+    // Author-identity pages only. SSRN author profile, Hugging Face
+    // user profile, and GitHub account are person-level identifiers;
+    // dataset/work/repo URLs never go in Person.sameAs.
     'https://ssrn.com/author=12031408',
     'https://huggingface.co/jedanderson',
-    SITE.github,
+    'https://github.com/jedanderson432',
+    // TODO: add Google Scholar profile once the account exists, e.g.
+    // 'https://scholar.google.com/citations?user=XXXXXXXXXXXX',
   ].filter(Boolean),
 };
 
@@ -308,6 +310,17 @@ export const websiteSchema = {
   author: { '@id': JED_ID },
   inLanguage: 'en',
   license: 'https://creativecommons.org/licenses/by/4.0/',
+  // Pagefind search, deep-linkable via /?q=term (SearchModal opens and
+  // runs the query on load). The SearchAction makes the site search
+  // machine-discoverable (sitelinks search box, agent navigation).
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: `${SITE.url}/?q={search_term_string}`,
+    },
+    'query-input': 'required name=search_term_string',
+  },
 };
 
 // The three site-wide JSON-LD nodes, in a stable order, emitted on

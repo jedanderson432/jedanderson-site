@@ -129,7 +129,20 @@ if (useScholarlyArticle) {
     mainEntityOfPage: canonicalUrl,
     citation: canonicalUrl,
     image: imageUrl,
-    identifier: doiUrl ? [canonicalUrl, doiUrl] : canonicalUrl,
+    // DOI as a typed PropertyValue so scholarly-graph systems parse it
+    // as a DOI rather than an opaque URL; the canonical URL rides
+    // alongside as the plain identifier.
+    identifier: doiUrl
+      ? [
+          canonicalUrl,
+          {
+            '@type': 'PropertyValue',
+            propertyID: 'DOI',
+            value: data.doi,
+            url: doiUrl,
+          },
+        ]
+      : canonicalUrl,
     ...(sameAsUrls.length > 0 ? { sameAs: sameAsUrls } : {}),
     license: licenseUrl,
     publisher: { '@id': JED_ID },
@@ -168,6 +181,7 @@ if (useScholarlyArticle) {
     image: imageUrl,
     encoding: encodingArr,
     inLanguage: 'en',
+    isAccessibleForFree: true,
     isPartOf: { '@id': WEBSITE_ID },
     license: licenseUrl,
     ...(data.isbn ? { isbn: data.isbn } : {}),
@@ -197,6 +211,7 @@ if (useScholarlyArticle) {
     image: imageUrl,
     encoding: encodingArr,
     inLanguage: 'en',
+    isAccessibleForFree: true,
     isPartOf: { '@id': WEBSITE_ID },
     license: licenseUrl,
     ...(Array.isArray(data.tags) && data.tags.length > 0
@@ -230,6 +245,7 @@ if (data.defined_term) {
   description={data.abstract}
   canonicalUrl={canonicalUrl}
   ogImage={data.hero_image}
+  ogType="article"
   jsonLd={jsonLdNodes}
 >
   <article

@@ -6,6 +6,11 @@ import remarkCustomHeadingId from 'remark-custom-heading-id';
 import { validateSlugs } from './scripts/validate-slugs.mjs';
 import { validateClaimsJson } from './scripts/extract-claims.mjs';
 import { indexNow } from './scripts/indexnow.mjs';
+import { buildLastmodMap } from './scripts/sitemap-lastmod.mjs';
+
+// Content frontmatter dates, keyed by canonical path, so the sitemap
+// can stamp <lastmod> on every content URL. Built once at config time.
+const lastmodMap = await buildLastmodMap();
 
 // Inline integration that gates dev/build/sync on slug well-formedness
 // and the canonical-claims.json being present + well-formed. Failure
@@ -47,7 +52,17 @@ export default defineConfig({
   },
   integrations: [
     slugValidator(),
-    sitemap(),
+    sitemap({
+      // Stamp <lastmod> on content URLs from frontmatter dates
+      // (date_modified ?? date). Non-content pages (home, about, tag
+      // indexes) carry no lastmod rather than a fabricated one.
+      serialize(item) {
+        const pathname = new URL(item.url).pathname.replace(/\/+$/, '') || '/';
+        const lastmod = lastmodMap.get(pathname);
+        if (lastmod) item.lastmod = lastmod;
+        return item;
+      },
+    }),
     tailwind({ applyBaseStyles: true }),
     mdx(),
     // Must run after sitemap() so dist/sitemap-index.xml exists when the
