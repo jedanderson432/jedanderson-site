@@ -65,8 +65,13 @@ jobs:
           # Dedup, keep only on-host https URLs.
           urls=$(echo "$urls" | tr ' ' '\n' | grep -E "^https://$HOST/" | sort -u)
 
+          # Submit the sitemap index itself alongside the page URLs so
+          # engines re-fetch it (and its <lastmod> stamps) immediately.
+          urls=$(printf '%s\n%s\n' "$urls" "$SITE/sitemap-index.xml" | sort -u)
+
           count=$(echo "$urls" | grep -c '^http')
-          echo "Discovered $count URL(s)."
+          echo "Discovered $count URL(s) (including sitemap-index.xml). Full list:"
+          echo "$urls"
           if [ "$count" -eq 0 ]; then
             echo "Nothing to submit — skipping."
             exit 0
