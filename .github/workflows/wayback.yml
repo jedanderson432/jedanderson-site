@@ -13,11 +13,17 @@ jobs:
     # Failures here should never block the merge — this is best-effort
     # archival, not a deploy gate.
     continue-on-error: true
-    timeout-minutes: 30
+    # ~985 URLs at >= 1s each is ~17 min of submissions alone, after a
+    # ~12 min wait for the Netlify deploy. 30 min was hitting the
+    # timeout (run 29844458756 was cancelled mid-snapshot).
+    timeout-minutes: 60
 
     steps:
+      # Netlify builds now take ~10 minutes (the build emits the full
+      # corpus llms-full.txt). Wait long enough that the sitemap we read
+      # is the NEW deploy's, not the previous one.
       - name: Wait for Netlify deploy
-        run: sleep 120
+        run: sleep 720
 
       - name: Discover canonical URLs from sitemap and submit each to Wayback
         env:
