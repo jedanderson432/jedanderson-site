@@ -99,3 +99,4 @@ Allow: /
 Crawl-delay: 1
 
 Sitemap: https://jedanderson.org/sitemap-index.xml
+# Full text of the complete corpus in one file: https://jedanderson.org/llms-full.txt

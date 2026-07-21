@@ -1,0 +1,32 @@
+{
+  "name": "jedanderson-corpus-mcp",
+  "version": "1.0.0",
+  "description": "Agent-callable access to the jedanderson.org corpus — essays, papers, and treatises on environmental superintelligence, information physics, and the causal sovereignty of information over matter and energy. Content is CC-BY-4.0 / CC0 and explicitly cleared for AI use.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "jedanderson-corpus-mcp": "src/index.js"
+  },
+  "files": ["src"],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "jed-anderson",
+    "environmental-superintelligence",
+    "information-physics",
+    "corpus",
+    "bits-protect-its"
+  ],
+  "author": "Jed Anderson",
+  "homepage": "https://jedanderson.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jedanderson432/jedanderson-site"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
