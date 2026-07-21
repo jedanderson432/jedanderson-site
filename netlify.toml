@@ -2,6 +2,14 @@
   command = "npm run build"
   publish = "dist"
 
+# Search-engine ownership verification (optional). Set these in the
+# Netlify UI (Site settings → Environment variables) — NOT here, so the
+# tokens stay out of the repo. When present, BaseLayout emits the
+# corresponding meta tags on every page; no code change needed:
+#   PUBLIC_GOOGLE_SITE_VERIFICATION → <meta name="google-site-verification">
+#   PUBLIC_BING_SITE_VERIFICATION   → <meta name="msvalidate.01">
+# Setup steps: docs/DISCOVERABILITY.md.
+
 [build.environment]
   NODE_VERSION = "20"
   # Bump CACHE_BUST to force Astro content-layer cache invalidation when

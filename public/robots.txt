@@ -99,4 +99,5 @@ Allow: /
 Crawl-delay: 1
 
 Sitemap: https://jedanderson.org/sitemap-index.xml
+# Curated machine-readable index of the corpus: https://jedanderson.org/llms.txt
 # Full text of the complete corpus in one file: https://jedanderson.org/llms-full.txt

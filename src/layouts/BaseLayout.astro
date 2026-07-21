@@ -10,6 +10,7 @@ interface Props {
   description?: string;
   canonicalUrl?: string;
   ogImage?: string;
+  ogType?: 'website' | 'article';
   jsonLd?: Record<string, any> | Record<string, any>[];
 }
 
@@ -18,8 +19,15 @@ const {
   description = SITE.description,
   canonicalUrl,
   ogImage,
+  ogType = 'website',
   jsonLd,
 } = Astro.props;
+
+// Search-engine ownership verification. Tokens live in the Netlify
+// environment (see netlify.toml); the tags are emitted only when set,
+// so local/CI builds without tokens are unaffected.
+const googleVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
+const bingVerification = import.meta.env.PUBLIC_BING_SITE_VERIFICATION;
 
 const fullTitle = title ? `${title}—${SITE.title}` : SITE.title;
 const resolvedCanonical = canonicalUrl ?? new URL(Astro.url.pathname, SITE.url).toString();
@@ -57,6 +65,12 @@ const jsonLdGraph = {
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={resolvedCanonical} />
+    {googleVerification && (
+      <meta name="google-site-verification" content={googleVerification} />
+    )}
+    {bingVerification && (
+      <meta name="msvalidate.01" content={bingVerification} />
+    )}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link
       rel="alternate"
@@ -65,7 +79,7 @@ const jsonLdGraph = {
       href="/feed.xml"
     />
 
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={resolvedCanonical} />

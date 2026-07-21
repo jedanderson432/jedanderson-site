@@ -22,6 +22,7 @@
   const modal = document.getElementById('search-modal') as HTMLDialogElement | null;
   const triggers = document.querySelectorAll<HTMLElement>('[data-search-trigger]');
   let initialized = false;
+  let ui: any = null;
 
   async function ensureInitialized() {
     if (initialized || !modal) return;
@@ -34,8 +35,13 @@
       // analyzer so it doesn't try to bundle a path that doesn't
       // exist at build time.
       const dynImport = new Function('p', 'return import(p)');
-      const { PagefindUI } = await dynImport('/pagefind/pagefind-ui.js');
-      new PagefindUI({
+      const mod = await dynImport('/pagefind/pagefind-ui.js');
+      // pagefind-ui.js is an IIFE, not an ES module — it attaches the
+      // constructor to window rather than exporting it. Importing it
+      // executes the script; the constructor is read from the global.
+      const PagefindUI = mod?.PagefindUI ?? (window as any).PagefindUI;
+      if (!PagefindUI) throw new Error('PagefindUI global not found after import');
+      ui = new PagefindUI({
         element: '#pagefind-search',
         bundlePath: '/pagefind/',
         showSubResults: true,
@@ -71,4 +77,16 @@
       open();
     }
   });
+
+  // Deep link: /?q=term opens the modal pre-searched. This is the
+  // EntryPoint target of the WebSite SearchAction JSON-LD, so the URL
+  // must actually perform a search when loaded.
+  const initialQuery = new URLSearchParams(location.search).get('q');
+  if (initialQuery && modal) {
+    (async () => {
+      await ensureInitialized();
+      modal.showModal();
+      ui?.triggerSearch(initialQuery);
+    })();
+  }
 </script>
