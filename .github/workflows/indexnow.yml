@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     # Best-effort discovery ping; never gate the merge on it.
     continue-on-error: true
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     env:
       SITE: https://jedanderson.org
@@ -32,8 +32,11 @@ jobs:
       ENDPOINT: https://api.indexnow.org/indexnow
 
     steps:
+      # Netlify builds now take ~10 minutes (the build emits the full
+      # corpus llms-full.txt). Wait long enough that the sitemap we read
+      # is the NEW deploy's, not the previous one.
       - name: Wait for Netlify deploy
-        run: sleep 120
+        run: sleep 720
 
       - name: Discover canonical URLs from the live sitemap and submit to IndexNow
         run: |
