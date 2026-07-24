@@ -217,6 +217,13 @@ export const jedPersonSchema = {
       '@type': 'VideoObject',
       name: 'Interview at the 2022 Gulf Coast Industry Forum',
       url: 'https://www.youtube.com/watch?v=gwfOWruLbW0',
+      // uploadDate is YouTube's own recorded date for the video;
+      // thumbnailUrl is the canonical YouTube thumbnail for the ID.
+      // Both required for the node to validate as a Video item in
+      // Google's Rich Results Test.
+      uploadDate: '2022-09-29',
+      thumbnailUrl: 'https://i.ytimg.com/vi/gwfOWruLbW0/hqdefault.jpg',
+      embedUrl: 'https://www.youtube.com/embed/gwfOWruLbW0',
       publisher: {
         '@type': 'Organization',
         name: 'Economic Alliance Houston Port Region',
@@ -227,6 +234,14 @@ export const jedPersonSchema = {
       name: 'AI in the Environmental Field (AWMA Webinar)',
       url: 'https://www.awma.org/content.asp?contentid=943',
       startDate: '2025-12-03',
+      // A webinar has no physical venue: VirtualLocation + online
+      // attendance mode satisfy the Event schema's required location
+      // without inventing a place.
+      eventAttendanceMode: 'https://schema.org/OnlineEventAttendanceMode',
+      location: {
+        '@type': 'VirtualLocation',
+        url: 'https://www.awma.org/content.asp?contentid=943',
+      },
       organizer: {
         '@type': 'Organization',
         name: 'Air & Waste Management Association',
