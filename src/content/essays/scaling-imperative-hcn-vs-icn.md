@@ -4,7 +4,7 @@ slug: 'scaling-imperative-hcn-vs-icn'
 date: 2025-10-25
 type: essay
 status: published
-tags: ['enviroai', 'thermodynamics', 'whitehead', 'paper', 'treatise']
+tags: ['enviroai', 'environmental-intelligence', 'thermodynamics', 'whitehead', 'paper', 'treatise']
 abstract: 'Quantitative first-principles comparison of two architectures for planetary-scale environmental intelligence: the Human-Cognitive Network (HCN), defined by the brain''s ~100-bit-per-second I/O bottleneck, and the Integrated Computational Network (ICN), with petabit-scale backbones. Frames the transition as a thermodynamic imperative driven by Whitehead''s Law of Unthinking and details the architecture of the ''Inverted Stack''—a computer-native intelligence system.'
 license: CC-BY-4.0
 co_authors: ['Grok 4 Deep Research', 'ChatGPT5 Deep Thinking', 'Google Gemini 2.5 Deep Research']
@@ -15,7 +15,7 @@ hero_image_alt: 'First page of The Scaling Imperative: A First-Principles Compar
 
 ## Abstract
 
-This paper presents a first-principles comparative analysis of two architectures for planetary-scale environmental intelligence: the incumbent Human-Cognitive Network
+This paper presents a first-principles comparative analysis of two architectures for planetary-scale [environmental intelligence](/essays/environmental-intelligence): the incumbent Human-Cognitive Network
 
 (HCN) and the emergent Integrated Computational Network (ICN).
 

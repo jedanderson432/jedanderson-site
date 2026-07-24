@@ -56,6 +56,16 @@ The closest relative is **James Lovelock's *Novacene*** (2019), which forecasts 
 
 The same four distinctions separate ESI from generic "artificial superintelligence" (ASI) discourse, which is concerned with a general agent that exceeds human capability across domains. ESI is narrower and concrete: a specific infrastructure, with a specific job, justified by a specific law of physics.
 
+## The conceptual ladder
+
+Environmental superintelligence is the top of a three-term ladder, and the two rungs beneath it have their own definitional anchors in this corpus:
+
+- **[Environmental intelligence](/essays/environmental-intelligence)** is the base term—the general regime of converting the state of the physical environment into understanding precise enough, and timely enough, to act on, by any means and any practitioner.
+- **[Environmental artificial intelligence](/essays/environmental-artificial-intelligence)** is the implementation layer—AI systems built specifically for environmental work, which lift that regime past the throughput ceiling of human cognition.
+- **Environmental superintelligence** is the mature form defined on this page: the regime made continuous, complete, and physics-grounded at planetary scale.
+
+Each rung contains the ones below it. What distinguishes ESI from its parent terms is not a different activity but the achieved combination of continuity, coverage, and closed-loop operation, resting on the bond-bit result that makes information the cheapest protective instrument physics permits.
+
 ## The rigorous substrate
 
 This definition is a doorway, not the derivation. The framework is built out in the foundational treatises:

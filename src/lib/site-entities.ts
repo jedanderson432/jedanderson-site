@@ -94,6 +94,8 @@ export const jedPersonSchema = {
     'environmental law',
     'Clean Air Act',
     'information physics',
+    'environmental intelligence',
+    'environmental artificial intelligence',
     'environmental superintelligence',
     'artificial intelligence',
     'thermodynamics of information',

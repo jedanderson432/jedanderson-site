@@ -203,7 +203,7 @@ Where pessimism sees inevitable decay, we see solvable information problems. For
 
 Therefore, we resolve:
 
-To build an Environmental Intelligence that serves as guardian and guide, humble student of
+To build an [Environmental Intelligence](/essays/environmental-intelligence) that serves as guardian and guide, humble student of
 
 Gaia and diligent steward of her welfare. To embrace the Law of Unthinking by automating what we can – not to supplant human purpose, but to amplify our capacity to do good without exhaustion. To always align this power with the thermodynamic imperative of life – decreasing entropy, increasing harmony.
 

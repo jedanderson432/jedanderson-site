@@ -190,3 +190,11 @@ Order below is the curated response/interest order, top to bottom.
 - line: "The most important number in physics may turn out to be the one we have not finished measuring: the rate at which information becomes harder to lose. That number has been steadily climbing for the entire history of the universe."
   anchor: hardest-to-lose
   from: the-universe-is-information
+
+- line: "Data is the state of the world, recorded. Intelligence is the state of the world, understood in time to matter."
+  anchor: data-and-intelligence
+  from: environmental-intelligence
+
+- line: "Generic AI is graded by benchmarks; environmental AI is graded by the biosphere."
+  anchor: graded-by-the-biosphere
+  from: environmental-artificial-intelligence
