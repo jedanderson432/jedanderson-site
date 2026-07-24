@@ -186,7 +186,7 @@ We are the channel a planet has grown after four billion years of slow chemistry
 
 *Data and materials availability.* No new data were generated. All quantitative claims are drawn from cited primary literature. The framework is developed further in the author's public corpus at https://enviroai.com.
 
-*Competing interests.* The author is the founder of EnviroAI, an environmental intelligence company developing closed-loop environmental monitoring and permitting systems.
+*Competing interests.* The author is the founder of EnviroAI, an [environmental intelligence](/essays/environmental-intelligence) company developing closed-loop environmental monitoring and permitting systems.
 
 ## References and Notes
 

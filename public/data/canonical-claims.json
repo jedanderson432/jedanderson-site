@@ -3,14 +3,14 @@
   "generated": "deterministic build-time extraction from src/content/essays + data/manual-claims-extras.json",
   "license": "CC-BY-4.0",
   "counts": {
-    "total": 1224,
-    "auto_extracted": 1237,
+    "total": 1226,
+    "auto_extracted": 1239,
     "manual_entries": 12,
     "manual_overrides": 2,
     "manual_new": 10,
-    "essays_scanned": 86,
+    "essays_scanned": 88,
     "by_status": {
-      "needs_review": 1212,
+      "needs_review": 1214,
       "framework-dependent": 2,
       "established": 9,
       "bet": 1
@@ -2342,6 +2342,36 @@
       "last_verified": "2025-05-05"
     },
     {
+      "id": "auto-311b67ac10b4",
+      "essay_slug": "environmental-artificial-intelligence",
+      "value": "100",
+      "unit": "bits",
+      "type": "si",
+      "pattern": "si-unit",
+      "match": "100 bits",
+      "claim": "The ceiling is quantified in *[The Scaling Imperative] *: human professionals process environmental information through a channel of roughly 100 bits per second, while the environmental state of a single industrial region changes faster than any assembly of human readers can track.",
+      "context": "of human cognition. The ceiling is quantified in *[The Scaling Imperative] *: human professionals process environmental information through a channel of roughly 100 bits per second, while the environmental state of a single industrial region changes faster than any assembly of human readers can track. *[Inverting the Stack] * draws the arc",
+      "line": 19,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-07-24"
+    },
+    {
+      "id": "auto-f6335a0d6efc",
+      "essay_slug": "environmental-artificial-intelligence",
+      "value": "240×",
+      "unit": "ratio",
+      "type": "multiplier",
+      "pattern": "multiplier",
+      "match": "240×",
+      "claim": "*[The Bond-Bit Ratio] * fixes a floor of roughly 240× between the energy cost of knowing and the energy cost of forcing; as computation cheapens toward the Landauer bound, the practical leverage grows.",
+      "context": "hepherding] *. The economics of this maturation are not speculative. *[The Bond-Bit Ratio] * fixes a floor of roughly 240× between the energy cost of knowing and the energy cost of forcing; as computation cheapens toward the Landauer bound, the practical leverage grows. Each step along the three dimensions buys more prot",
+      "line": 31,
+      "epistemic_status": "needs_review",
+      "uncertainty": "",
+      "last_verified": "2026-07-24"
+    },
+    {
       "id": "auto-ae7938f5e42f",
       "essay_slug": "environmental-latency",
       "value": "39",
@@ -3191,7 +3221,7 @@
       "match": "240×",
       "claim": "- *[The Bond-Bit Ratio] * — the citation-grade floor (240×) underwriting the whole framework.",
       "context": "This definition is a doorway, not the derivation. The framework is built out in the foundational treatises: - *[The Bond-Bit Ratio] * — the citation-grade floor (240×) underwriting the whole framework. DOI [ . - *[Bits Protect Its] * — the central thesis that information is th",
-      "line": 38,
+      "line": 48,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2026-06-17"

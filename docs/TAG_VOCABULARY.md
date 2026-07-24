@@ -20,6 +20,7 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - simplicity — the philosophical argument that complex statutes fail by complexity itself
 - ai — applied AI to environmental regulation (CERES, the pre-EnviroAI project)
 - environmental-superintelligence — the long-form term for the ESI project; reserved for pieces where ESI is the headline subject, not a passing reference
+- environmental-intelligence — the umbrella regime of converting environmental state into decision-grade understanding; the base term of the EI → EAI → ESI ladder. Use for pieces where environmental intelligence (or environmental AI) is the headline subject
 - personal — pieces grounded in first-person experience or autobiography rather than abstract argument
 - narrative — pieces structured as a story/arc rather than a treatise; often paired with `personal`
 - artificial-energy — the AE thesis: gradient harvesting engineered in non-biological substrates, framed as the energy peer of AI

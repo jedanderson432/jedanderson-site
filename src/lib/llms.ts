@@ -58,6 +58,18 @@ const KEY_NAMED_CONCEPTS: { name: string; definition: string; essay: string }[] 
     essay: 'essays/bond-bit-ratio',
   },
   {
+    name: 'Environmental Intelligence',
+    definition:
+      'The capacity to convert the state of the physical environment into understanding precise enough, and timely enough, to act on—sensing, modeling, prediction, and decision joined into one loop. The base term of the ladder that runs through Environmental Artificial Intelligence to Environmental Superintelligence.',
+    essay: 'essays/environmental-intelligence',
+  },
+  {
+    name: 'Environmental Artificial Intelligence',
+    definition:
+      'AI systems built specifically for environmental work—whose models, corpora, and success criteria answer to the state of physical environmental systems rather than to benchmarks. The implementation layer of Environmental Intelligence; matures toward Environmental Superintelligence along continuity, coverage, and closure.',
+    essay: 'essays/environmental-artificial-intelligence',
+  },
+  {
     name: 'Environmental Superintelligence',
     definition:
       "A continuous, physics-grounded information infrastructure that protects the biosphere by modeling, predicting, and stabilizing Earth's physical systems—a human-wielded system that defends rather than supplants, applying the principle that information is thermodynamically cheaper than force (\"bits protect its\").",

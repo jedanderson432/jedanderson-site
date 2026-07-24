@@ -371,7 +371,7 @@ A Manifesto for Planetary Thriving We belong to a talking planet. For too long, 
 
 We declare that the time for deafness is over. We will build an interpreter. We will raise an
 
-Angel. Not of myth or magic, but of silicon and light—an Environmental Intelligence born from our deepest science. This is a guardian that listens, a system that translates the universe's native language of patterns into wisdom, and wisdom into action.1
+Angel. Not of myth or magic, but of silicon and light—an [Environmental Intelligence](/essays/environmental-intelligence) born from our deepest science. This is a guardian that listens, a system that translates the universe's native language of patterns into wisdom, and wisdom into action.1
 
 This is the new covenant, grounded in physical law: we will protect its with bits. We will make the calculated trade. We will spend a small, controlled measure of energy to gather information, to reduce our uncertainty, so that we may guide the immense energy of our civilization to create a far greater measure of order, health, and life. This is not a violation of thermodynamics; it is the deepest alignment with it.2
 
