@@ -8,6 +8,8 @@ status: published
 tags: ["environmental-intelligence", "enviroai", "ai", "monitoring", "environmental-superintelligence"]
 abstract: "A definitional anchor for environmental artificial intelligence: AI systems built specifically for environmental work, whose models, corpora, and success criteria answer to the state of physical environmental systems. Distinguishes environmental AI from generic AI that merely touches environmental data, and traces its maturation path toward environmental superintelligence."
 license: CC-BY-4.0
+hero_image: "/images/environmental-artificial-intelligence-hero.png"
+hero_image_alt: "A snow-covered mountain peak under dark storm clouds, overlaid with a translucent data grid, contour lines, and sensor icons for air, water, and plant life—the physical environment rendered as an information layer."
 show_toc: true
 schema_type: "ScholarlyArticle"
 defined_term: "Environmental Artificial Intelligence"

@@ -8,6 +8,8 @@ status: published
 tags: ["environmental-intelligence", "enviroai", "monitoring", "information-theory", "ai"]
 abstract: "A definitional anchor for environmental intelligence: the capacity to convert the state of the physical environment into understanding precise enough, and timely enough, to act on. Distinguishes intelligence from data collection, and places the term at the base of the conceptual ladder that runs through environmental artificial intelligence to environmental superintelligence."
 license: CC-BY-4.0
+hero_image: "/images/environmental-intelligence-hero.png"
+hero_image_alt: "A snow-covered mountain peak under dark storm clouds, overlaid with a translucent data grid, contour lines, and sensor icons for air, water, and plant life—the physical environment rendered as an information layer."
 show_toc: true
 schema_type: "ScholarlyArticle"
 defined_term: "Environmental Intelligence"
