@@ -1,6 +1,7 @@
 {
   "name": "jedanderson-corpus-mcp",
   "version": "1.0.0",
+  "mcpName": "io.github.jedanderson432/jedanderson-corpus-mcp",
   "description": "Agent-callable access to the jedanderson.org corpus — essays, papers, and treatises on environmental superintelligence, information physics, and the causal sovereignty of information over matter and energy. Content is CC-BY-4.0 / CC0 and explicitly cleared for AI use.",
   "license": "MIT",
   "type": "module",
