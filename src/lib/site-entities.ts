@@ -229,24 +229,24 @@ export const jedPersonSchema = {
         name: 'Economic Alliance Houston Port Region',
       },
     },
+    // Past talks are modeled as Article, never Event: Google requires
+    // Event markup to describe an upcoming attendable happening with a
+    // location, and flags past-talk Event nodes in Search Console. The
+    // @id matches the Article the on-site speech page emits, so the two
+    // nodes unify into one entity in the graph; sameAs keeps the link
+    // to the host organization's event page.
     {
-      '@type': 'Event',
-      name: 'AI in the Environmental Field (AWMA Webinar)',
-      url: 'https://www.awma.org/content.asp?contentid=943',
-      startDate: '2025-12-03',
-      // A webinar has no physical venue: VirtualLocation + online
-      // attendance mode satisfy the Event schema's required location
-      // without inventing a place.
-      eventAttendanceMode: 'https://schema.org/OnlineEventAttendanceMode',
-      location: {
-        '@type': 'VirtualLocation',
-        url: 'https://www.awma.org/content.asp?contentid=943',
-      },
-      organizer: {
-        '@type': 'Organization',
-        name: 'Air & Waste Management Association',
-        url: 'https://www.awma.org',
-      },
+      '@type': 'Article',
+      '@id': `${SITE.url}/speeches/awma-webinar-ai-in-environmental-field#article`,
+      headline: 'AI in the Environmental Field',
+      description:
+        "Webinar for the Air & Waste Management Association on AI's emerging role in environmental compliance, permitting, and protection work.",
+      author: { '@id': JED_ID },
+      datePublished: '2025-12-03',
+      url: `${SITE.url}/speeches/awma-webinar-ai-in-environmental-field`,
+      mainEntityOfPage: `${SITE.url}/speeches/awma-webinar-ai-in-environmental-field`,
+      license: 'https://creativecommons.org/licenses/by/4.0/',
+      sameAs: 'https://www.awma.org/content.asp?contentid=943',
     },
     {
       '@type': 'Article',
@@ -269,20 +269,18 @@ export const jedPersonSchema = {
       },
     },
     {
-      '@type': 'Event',
-      name: 'AFPM 2023 Environmental Conference',
-      url: 'https://www.afpm.org/events/ENV23',
-      startDate: '2023-10-15',
-      endDate: '2023-10-17',
-      location: {
-        '@type': 'Place',
-        name: 'The Westin Riverwalk, San Antonio, TX',
-      },
-      organizer: {
-        '@type': 'Organization',
-        name: 'American Fuel and Petrochemical Manufacturers',
-        url: 'https://www.afpm.org',
-      },
+      '@type': 'Article',
+      '@id': `${SITE.url}/speeches/afpm-2023-environmental-conference#article`,
+      headline:
+        'The Advent of Artificial Intelligence in Environmental Management',
+      description:
+        'General Session at the American Fuel and Petrochemical Manufacturers Environmental Conference on the impacts, opportunities, and risks of AI in environmental management for the fuels refining and petrochemical industry.',
+      author: { '@id': JED_ID },
+      datePublished: '2023-10-17',
+      url: `${SITE.url}/speeches/afpm-2023-environmental-conference`,
+      mainEntityOfPage: `${SITE.url}/speeches/afpm-2023-environmental-conference`,
+      license: 'https://creativecommons.org/licenses/by/4.0/',
+      sameAs: 'https://www.afpm.org/events/ENV23',
     },
   ],
   sameAs: [
