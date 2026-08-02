@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="604.8pt" viewBox="0 0 792 604.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-02T10:40:20.086155</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 604.8 
+L 792 604.8 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 42.768 132.031727 
+Q 42.768 317.519641 42.768 501.554111 
+" style="fill: none; stroke: #6e6e6e; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 44.768 497.554111 
+L 42.768 501.554111 
+L 40.768 497.554111 
+z
+" style="fill: #6e6e6e; stroke: #6e6e6e; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #d55e00" x="502.92" y="104.319425" transform="rotate(-0 502.92 104.319425)">gap between compliance and intent</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 63.36 184.464 
+L 475.2 184.464 
+L 475.2 133.056 
+L 63.36 133.056 
+z
+" clip-path="url(#p680e409b40)" style="fill: #0072b2; opacity: 0.11; stroke: #0072b2; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 11.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="79.2" y="150.343794" transform="rotate(-0 79.2 150.343794)">What we actually want</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.5px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="79.2" y="176.173008" transform="rotate(-0 79.2 176.173008)">A river people and fish can live in. Air that does not shorten a life.</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 63.36 247.968 
+L 475.2 247.968 
+L 475.2 196.56 
+L 63.36 196.56 
+z
+" clip-path="url(#p680e409b40)" style="fill: #0072b2; opacity: 0.195; stroke: #0072b2; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="79.2" y="213.847794" transform="rotate(-0 79.2 213.847794)">The statutory standard</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.5px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="79.2" y="239.677008" transform="rotate(-0 79.2 239.677008)">"Requisite to protect public health with an adequate margin of safety." A sentence, not a number.</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 502.92 244.3392 
+L 529.6896 244.3392 
+L 529.6896 200.1888 
+L 502.92 200.1888 
+z
+" clip-path="url(#p680e409b40)" style="fill: #d55e00; opacity: 0.24"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 63.36 311.472 
+L 475.2 311.472 
+L 475.2 260.064 
+L 63.36 260.064 
+z
+" clip-path="url(#p680e409b40)" style="fill: #56b4e9; opacity: 0.28; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 11.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="79.2" y="277.352239" transform="rotate(-0 79.2 277.352239)">The numeric criterion</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.5px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="79.2" y="303.181008" transform="rotate(-0 79.2 303.181008)">An ambient standard, an effluent limit, a listing threshold. The first real proxy.</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 502.92 307.8432 
+L 570.8736 307.8432 
+L 570.8736 263.6928 
+L 502.92 263.6928 
+z
+" clip-path="url(#p680e409b40)" style="fill: #d55e00; opacity: 0.34"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 63.36 374.976 
+L 475.2 374.976 
+L 475.2 323.568 
+L 63.36 323.568 
+z
+" clip-path="url(#p680e409b40)" style="fill: #e69f00; opacity: 0.365; stroke: #e69f00; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="79.2" y="340.855794" transform="rotate(-0 79.2 340.855794)">The permit condition</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.5px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="79.2" y="366.685008" transform="rotate(-0 79.2 366.685008)">Facility limits, averaging periods, applicability cutoffs, netting baselines, exclusions.</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 502.92 371.3472 
+L 616.176 371.3472 
+L 616.176 327.1968 
+L 502.92 327.1968 
+z
+" clip-path="url(#p680e409b40)" style="fill: #d55e00; opacity: 0.44"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 63.36 438.48 
+L 475.2 438.48 
+L 475.2 387.072 
+L 63.36 387.072 
+z
+" clip-path="url(#p680e409b40)" style="fill: #d55e00; opacity: 0.45; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="79.2" y="404.360239" transform="rotate(-0 79.2 404.360239)">The measurement rule</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.5px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="79.2" y="430.18934" transform="rotate(-0 79.2 430.18934)">Emission factors, test methods, monitor downtime allowances, substitute data.</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 502.92 434.8512 
+L 665.5968 434.8512 
+L 665.5968 390.7008 
+L 502.92 390.7008 
+z
+" clip-path="url(#p680e409b40)" style="fill: #d55e00; opacity: 0.54"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 63.36 501.984 
+L 475.2 501.984 
+L 475.2 450.576 
+L 63.36 450.576 
+z
+" clip-path="url(#p680e409b40)" style="fill: #d55e00; opacity: 0.535; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 11.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="79.2" y="467.863794" transform="rotate(-0 79.2 467.863794)">The reported number</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.5px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="79.2" y="493.692759" transform="rotate(-0 79.2 493.692759)">What actually gets optimised. The only layer an automated system ever sees.</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 502.92 498.3552 
+L 708.84 498.3552 
+L 708.84 454.2048 
+L 502.92 454.2048 
+z
+" clip-path="url(#p680e409b40)" style="fill: #d55e00; opacity: 0.64"/>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #d55e00" transform="translate(720.72 473.356178)">the whole</text>
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #d55e00" transform="translate(720.72 485.216885)">game is here</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(24.369056 406.426641) rotate(-90)">each layer substitutes something measurable</text>
+    <text style="font-size: 9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(37.508616 358.993828) rotate(-90)">for something meant</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="31.68" y="38.562605" transform="rotate(-0 31.68 38.562605)">The proxy stack</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 65.028015)">Environmental law, read as a reward function. An optimiser never sees the top layer.</text>
+    <text style="font-size: 10.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 81.510497)">It sees the bottom one.</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 546.568879)">Every descent down this stack was necessary and every one was fought over: the substitutions are what made the law enforceable,</text>
+    <text style="font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 558.682583)">and each was adjudicated by industry lawyers and agency lawyers arguing against each other. But every substitution opens a space</text>
+    <text style="font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 570.800178)">between satisfying the number and achieving the intent, and a capable optimiser is precisely a machine for finding that space. No</text>
+    <text style="font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 582.915828)">rule is broken at any layer. Nothing in the system is capable of noticing. The gap is a product of the design, not an abuse of it.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p680e409b40">
+   <rect x="0" y="0" width="792" height="604.8"/>
+  </clipPath>
+ </defs>
+</svg>

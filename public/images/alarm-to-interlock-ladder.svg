@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="590.4pt" viewBox="0 0 792 590.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-02T10:40:20.419315</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 590.4 
+L 792 590.4 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 198 467.0064 
+L 594 467.0064 
+L 594 418.5936 
+L 198 418.5936 
+z
+" clip-path="url(#p96a58e78bd)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #56b4e9" x="213.84" y="446.176953" transform="rotate(-0 213.84 446.176953)">L0</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="264.528" y="435.140329" transform="rotate(-0 264.528 435.140329)">Instrumentation</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="264.528" y="458.510117" transform="rotate(-0 264.528 458.510117)">The system can perceive environmental state at all. Sensors, satellites, telemetry, inside the loop.</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 198 407.9664 
+L 594 407.9664 
+L 594 359.5536 
+L 198 359.5536 
+z
+" clip-path="url(#p96a58e78bd)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #56b4e9" x="213.84" y="387.136953" transform="rotate(-0 213.84 387.136953)">L1</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="264.528" y="376.100329" transform="rotate(-0 264.528 376.100329)">Annunciation</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="264.528" y="399.470348" transform="rotate(-0 264.528 399.470348)">An advisory flag. The system says so. Nothing is stopped. This is where the art currently is.</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 198 348.9264 
+L 594 348.9264 
+L 594 300.5136 
+L 198 300.5136 
+z
+" clip-path="url(#p96a58e78bd)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #56b4e9" x="213.84" y="328.096953" transform="rotate(-0 213.84 328.096953)">L2</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="264.528" y="317.0599" transform="rotate(-0 264.528 317.0599)">Deviation logging</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="264.528" y="340.430348" transform="rotate(-0 264.528 340.430348)">An auditable record of every environmental deviation, written where the optimiser cannot reach it.</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 198 289.8864 
+L 594 289.8864 
+L 594 241.4736 
+L 198 241.4736 
+z
+" clip-path="url(#p96a58e78bd)" style="fill: #e69f00; opacity: 0.13; stroke: #e69f00; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #e69f00" x="213.84" y="269.056953" transform="rotate(-0 213.84 269.056953)">L3</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="264.528" y="258.020329" transform="rotate(-0 264.528 258.020329)">Permissive</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="264.528" y="281.390348" transform="rotate(-0 264.528 281.390348)">An affirmative environmental check is required before the action is allowed to proceed.</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 198 230.8464 
+L 594 230.8464 
+L 594 182.4336 
+L 198 182.4336 
+z
+" clip-path="url(#p96a58e78bd)" style="fill: #d55e00; opacity: 0.13; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #d55e00" x="213.84" y="210.016953" transform="rotate(-0 213.84 210.016953)">L4</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="264.528" y="198.980329" transform="rotate(-0 264.528 198.980329)">Interlock</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="264.528" y="222.350348" transform="rotate(-0 264.528 222.350348)">A trip that fires on physical criteria regardless of the task objective, outside the optimiser's reach.</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 198 171.8064 
+L 594 171.8064 
+L 594 123.3936 
+L 198 123.3936 
+z
+" clip-path="url(#p96a58e78bd)" style="fill: #d55e00; opacity: 0.13; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #d55e00" x="213.84" y="150.976953" transform="rotate(-0 213.84 150.976953)">L5</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="264.528" y="139.9399" transform="rotate(-0 264.528 139.9399)">Embedded objective</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="264.528" y="163.310348" transform="rotate(-0 264.528 163.310348)">The environmental criterion sits in the grading signal itself: non-proxiable, held outside the agent.</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #1a1a1a" x="617.76" y="289.001184" transform="rotate(-0 617.76 289.001184)">ABOVE: can stop something</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #6e6e6e" x="617.76" y="305.867456" transform="rotate(-0 617.76 305.867456)">BELOW: can only say so</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="174.24" y="287.848509" transform="rotate(-0 174.24 287.848509)">the alarm / interlock threshold</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 174.277915 383.76 
+Q 182.764897 383.76 189.686633 383.76 
+" style="fill: none; stroke: #d55e00; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 186.086633 381.96 
+L 189.686633 383.76 
+L 186.086633 385.56 
+z
+" style="fill: #d55e00; stroke: #d55e00; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #d55e00" transform="translate(40.099219 380.05708)">state of the art, August 2026</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #d55e00" transform="translate(61.752656 392.316592)">including my own work</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="31.68" y="37.986605" transform="rotate(-0 31.68 37.986605)">The alarm-to-interlock ladder</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 63.732015)">Environmental Safety Mode, stated in the language of process safety.</text>
+    <text style="font-size: 10.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 79.205013)">The entire engineering programme is the distance from L1 to L4.</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 518.992879)">Every plant engineer has watched a safety instrumented system trip a unit over the board operator's objection. That is what L4</text>
+    <text style="font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 531.108529)">means, and it is why the line falls where it does: an alarm is a request, an interlock is not. Environmental capability in AI systems</text>
+    <text style="font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 543.222233)">today sits at L1 — advisory, overridable, and outranked by the task objective whenever the two disagree. Nothing above the line</text>
+    <text style="font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(31.68 555.339828)">exists yet for environmental criteria in any deployed general-purpose system.</text>
+   </g>
+   <g id="line2d_1">
+    <path d="M 178.2 295.2 
+L 613.8 295.2 
+" clip-path="url(#p96a58e78bd)" style="fill: none; stroke: #1a1a1a; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p96a58e78bd">
+   <rect x="0" y="0" width="792" height="590.4"/>
+  </clipPath>
+ </defs>
+</svg>
