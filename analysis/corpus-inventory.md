@@ -212,6 +212,25 @@ Hard cap: **eight** linked self-references across the feature and companion comb
 | 5 | `/essays/why-von-neumann-was-right` | feature | Try to break it | the author's own contrary essay, cited by name |
 | 6 | `/essays/small-and-everywhere` | companion | §5 | independence condition on L0 sensing |
 | 7 | companion → feature | companion | header | reciprocal link |
-| 8 | feature → companion | feature | one place only | the brief's single permitted link |
 
-A reader who has never heard of jedanderson.org loses nothing by skipping all eight.
+**Final tally as shipped: 7 distinct self-referenced URLs across both artifacts, against a cap of 8.** Verified by pattern match over both files. The feature carries two (`/essays/environmental-safety-mode`, `/essays/why-von-neumann-was-right`); the companion carries five (`/essays/it-has-never-read-a-river`, `/essays/bond-bit-ratio`, `/essays/jeds-angel`, `/essays/incorruptible-grader`, `/essays/why-von-neumann-was-right`).
+
+A reader who has never heard of jedanderson.org loses nothing by skipping all seven.
+
+---
+
+## Part F — What the adversarial gate changed
+
+Three red-team passes (`analysis/redteam-{1,2,3}.md`) forced substantive corrections rather than softening. Recorded here because the corpus-provenance question "did the author revise under pressure" should be answerable from the record.
+
+**Corrected in the feature, all three fatal:**
+
+1. **"The footprint risk is reversible" — deleted as false.** Emitted carbon, drawn-down aquifers and thirty-year gas turbines do not decommission with the campus, and those are the same harm classes the essay was claiming exclusively for the allocation side. The four-property asymmetry collapsed to two (measured, priced) and the essay now says so.
+2. **"No permit requires you to report it" — deleted as false.** 40 CFR §70.6(a)(3)(iii)(B) requires prompt cause-agnostic deviation reporting; §122.41(l)(6) requires 24-hour reporting of endangering noncompliance. The finding is a missing *attribution field*, not a missing report. This was in the lede.
+3. **The proxy-stack characterisation — inverted and rewritten.** Part 75 does not permit monitor downtime, it prices it punitively; averaging periods *are* the health endpoint rather than slack around it; netting is an enforceable neutrality test. And *requisite to protect public health with an adequate margin of safety* is the rung that **carries** intent (*Lead Industries*, *Whitman*), not a proxy descending from it. The section heading changed from "the easiest thing in the world to game" to "the hardest reward function we have ever built" — same claim, aimed at the optimiser instead of at the drafters, and legally accurate.
+
+**Also corrected:** "everything sits at L1" was falsified by Google's 2018 autonomous data-centre cooling deployment, now cited in the essay as an interlock that exists but points inward; the ESA and OIG figures were re-scoped ("warranted but precluded" is statutory, the OIG finding is EPA-conducted inspections only); EU AI Act Article 95 was added; a conflict-of-interest disclosure was added under the byline; F1 was made disjunctive so it can actually fire; and Anthropic's reward-tampering base rate is now stated as 45 of 32,768 rather than "a few cases."
+
+**The novelty verdict, printed in the feature verbatim** because the brief committed to it if true: *the environmental-law-as-proxy-stack analysis and the cross-literature identification are new, the rest is synthesis.*
+
+**Objections that could not be answered** are represented in the essay's own box in the objector's strongest form — including the one that most threatens the lede: the incident registries may be empty because nobody counts, or because process industries already run safety instrumented systems that catch this class of excursion, and the author cannot currently distinguish those.
