@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="576pt" viewBox="0 0 792 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-02T10:40:19.084735</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 576 
+L 792 576 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 201.96 394.56 
+L 760.32 394.56 
+L 760.32 109.44 
+L 201.96 109.44 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 201.96 394.56 
+L 201.96 109.44 
+" clip-path="url(#pa80eb82ddb)" style="fill: none; stroke: #dcdcdc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mbbf98c5b37" d="M 0 0 
+L 0 3.5 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mbbf98c5b37" x="201.96" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- $\mathdefault{10^{2}}$ -->
+      <g style="fill: #1a1a1a" transform="translate(194.93 409.16)">
+       <text>
+        <tspan x="0" y="-0.489" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">1</tspan>
+        <tspan x="4.082031" y="-0.489" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">0</tspan>
+        <tspan x="10.00376" y="-4.4125" style="font-size: 6.65px; font-family: 'Georgia'; fill: #1a1a1a">2</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 334.772575 394.56 
+L 334.772575 109.44 
+" clip-path="url(#pa80eb82ddb)" style="fill: none; stroke: #dcdcdc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mbbf98c5b37" x="334.772575" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- $\mathdefault{10^{3}}$ -->
+      <g style="fill: #1a1a1a" transform="translate(327.790075 409.16)">
+       <text>
+        <tspan x="0" y="-0.489" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">1</tspan>
+        <tspan x="4.082031" y="-0.489" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">0</tspan>
+        <tspan x="10.00376" y="-4.4125" style="font-size: 6.65px; font-family: 'Georgia'; fill: #1a1a1a">3</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 467.58515 394.56 
+L 467.58515 109.44 
+" clip-path="url(#pa80eb82ddb)" style="fill: none; stroke: #dcdcdc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mbbf98c5b37" x="467.58515" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- $\mathdefault{10^{4}}$ -->
+      <g style="fill: #1a1a1a" transform="translate(460.55515 409.065)">
+       <text>
+        <tspan x="0" y="-0.510875" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">1</tspan>
+        <tspan x="4.082031" y="-0.510875" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">0</tspan>
+        <tspan x="10.00376" y="-4.434375" style="font-size: 6.65px; font-family: 'Georgia'; fill: #1a1a1a">4</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 600.397725 394.56 
+L 600.397725 109.44 
+" clip-path="url(#pa80eb82ddb)" style="fill: none; stroke: #dcdcdc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mbbf98c5b37" x="600.397725" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- $\mathdefault{10^{5}}$ -->
+      <g style="fill: #1a1a1a" transform="translate(593.462725 408.97)">
+       <text>
+        <tspan x="0" y="-0.587438" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">1</tspan>
+        <tspan x="4.082031" y="-0.587438" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">0</tspan>
+        <tspan x="10.00376" y="-4.510937" style="font-size: 6.65px; font-family: 'Georgia'; fill: #1a1a1a">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 733.2103 394.56 
+L 733.2103 109.44 
+" clip-path="url(#pa80eb82ddb)" style="fill: none; stroke: #dcdcdc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mbbf98c5b37" x="733.2103" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- $\mathdefault{10^{6}}$ -->
+      <g style="fill: #1a1a1a" transform="translate(726.1803 410.205)">
+       <text>
+        <tspan x="0" y="-0.3515" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">1</tspan>
+        <tspan x="4.082031" y="-0.3515" style="font-size: 9.5px; font-family: 'Georgia'; fill: #1a1a1a">0</tspan>
+        <tspan x="10.00376" y="-4.275" style="font-size: 6.65px; font-family: 'Georgia'; fill: #1a1a1a">6</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <defs>
+       <path id="mc5f2a3491a" d="M 0 0 
+L 0 2 
+" style="stroke: #1a1a1a; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="241.940569" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="265.327702" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="281.921138" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="294.792006" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="305.308271" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="314.199647" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="321.901707" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="328.695405" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="374.753144" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="398.140277" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="414.733713" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="427.604581" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="438.120846" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="447.012222" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="454.714281" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="461.50798" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="507.565719" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="530.952852" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="547.546287" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="560.417156" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="570.933421" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="579.824796" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="587.526856" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_29">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="594.320554" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="640.378293" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_31">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="663.765427" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="680.358862" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="693.229731" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="703.745996" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_35">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="712.637371" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="720.339431" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_37">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#mc5f2a3491a" x="727.133129" y="394.56" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="481.14" y="428.979316" transform="rotate(-0 481.14 428.979316)">Annual energy throughput, terawatt-hours per year (logarithmic scale)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_43"/>
+     <g id="text_7">
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(103.807188 136.599404)">Global energy supply</text>
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(124.953063 147.512408)">all sectors, 2023</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_44"/>
+     <g id="text_8">
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(117.126156 174.615404)">Agri-food systems</text>
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(60.927344 185.529006)">~30% of world end-use energy</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_45"/>
+     <g id="text_9">
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(153.372813 212.631105)">Transport</text>
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(56.936594 223.544707)">~29–30% of global final energy</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_46"/>
+     <g id="text_10">
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(71.261219 250.647404)">Global electricity generation</text>
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(175.415969 261.560408)">2025</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_47"/>
+     <g id="text_11">
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(71.71225 288.663105)">Water supply and treatment</text>
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(89.962281 299.576707)">~4% of global electricity</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_48"/>
+     <g id="text_12">
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(112.875625 326.679803)">Data centres, 2030</text>
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(132.438906 337.59201)">IEA projection</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_49"/>
+     <g id="text_13">
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(113.677281 364.695803)">Data centres, 2025</text>
+      <text style="font-size: 10.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(126.499 375.60801)">all, including AI</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 201.96 394.56 
+L 760.32 394.56 
+" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 201.96 148.4064 
+L 631.678864 148.4064 
+L 631.678864 127.4976 
+L 201.96 127.4976 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #6e6e6e"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="646.811974" y="140.649754" transform="rotate(-0 646.811974 140.649754)">172,000</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 201.96 186.4224 
+L 542.579904 186.4224 
+L 542.579904 165.5136 
+L 201.96 165.5136 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 542.579904 186.4224 
+L 562.345666 186.4224 
+L 562.345666 165.5136 
+L 542.579904 165.5136 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #009e73; opacity: 0.35; stroke: #009e73; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="577.478776" y="178.665754" transform="rotate(-0 577.478776 178.665754)">36,700–51,700</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 201.96 224.4384 
+L 540.499687 224.4384 
+L 540.499687 203.5296 
+L 201.96 203.5296 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 540.499687 224.4384 
+L 562.345666 224.4384 
+L 562.345666 203.5296 
+L 540.499687 203.5296 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #009e73; opacity: 0.35; stroke: #009e73; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="577.478776" y="216.681754" transform="rotate(-0 577.478776 216.681754)">35,400–51,700</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 201.96 262.4544 
+L 534.132121 262.4544 
+L 534.132121 241.5456 
+L 201.96 241.5456 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #6e6e6e"/>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="549.265231" y="254.697754" transform="rotate(-0 549.265231 254.697754)">31,700</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 201.96 300.4704 
+L 348.559014 300.4704 
+L 348.559014 279.5616 
+L 201.96 279.5616 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #009e73"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="363.692124" y="292.713754" transform="rotate(-0 363.692124 292.713754)">1,270</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 201.96 338.4864 
+L 331.50961 338.4864 
+L 331.50961 317.5776 
+L 201.96 317.5776 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 331.50961 338.4864 
+L 331.81399 338.4864 
+L 331.81399 317.5776 
+L 331.50961 317.5776 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #d55e00; opacity: 0.35; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="346.9471" y="330.729754" transform="rotate(-0 346.9471 330.729754)">945–950</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 201.96 376.5024 
+L 293.035126 376.5024 
+L 293.035126 355.5936 
+L 201.96 355.5936 
+z
+" clip-path="url(#pa80eb82ddb)" style="fill: #d55e00"/>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="308.168236" y="368.745754" transform="rotate(-0 308.168236 368.745754)">485</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 523.048188 298.528706 
+Q 407.240739 294.502372 298.811737 352.931457 
+" style="fill: none; stroke: #6e6e6e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(518.081984 307.684681)">IEA: energy per AI task has been falling by at least an</text>
+    <text style="font-size: 8.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(518.081984 317.100338)">order of magnitude annually. The numerator shrinks per</text>
+    <text style="font-size: 8.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(518.081984 326.515994)">unit of work even as it grows in total. Shown, not hidden.</text>
+   </g>
+  </g>
+  <g id="patch_15">
+   <path d="M 27.72 92.448 
+L 38.808 92.448 
+L 38.808 86.112 
+L 27.72 86.112 
+z
+" style="fill: #d55e00"/>
+  </g>
+  <g id="patch_16">
+   <path d="M 235.224 92.448 
+L 246.312 92.448 
+L 246.312 86.112 
+L 235.224 86.112 
+z
+" style="fill: #009e73"/>
+  </g>
+  <g id="patch_17">
+   <path d="M 512.424 92.448 
+L 523.512 92.448 
+L 523.512 86.112 
+L 512.424 86.112 
+z
+" style="fill: #6e6e6e"/>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 19px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="27.72" y="34.530605" transform="rotate(-0 27.72 34.530605)">The governor and the governed</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 55.762309)">Computing's own energy use, set against the energy throughput of the systems computing is</text>
+   <text style="font-size: 10.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 67.103895)">being handed authority over. The fight is about the smaller number.</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="43.56" y="91.707891" transform="rotate(-0 43.56 91.707891)">the governor — computing's own footprint</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="251.064" y="91.707627" transform="rotate(-0 251.064 91.707627)">the governed — sectors being handed allocation authority</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="528.264" y="91.707979" transform="rotate(-0 528.264 91.707979)">context totals</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 454.104834)">Sources — Data centres: IEA, Key Questions on Energy and AI (April 2026): 485 TWh in 2025; roughly 950 TWh and just under 3% of</text>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 465.252204)">global electricity by 2030. Global electricity generation 2025: ~31,700 TWh, derived from Ember, Global Electricity Review 2026.</text>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 476.399575)">Water sector: ~4% of global electricity, IEA Water-Energy Nexus (WEO-2016 special report). Agri-food: ~30% of world end-use</text>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 487.546946)">energy, FAO. Transport: ~29–30% of global final energy, IEA and REN21. Global energy supply: ~620 EJ (2023), Energy Institute</text>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 498.692465)">Statistical Review, converted at 277.8 TWh per EJ. Checked 2 August 2026.</text>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 507.710538)"/>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 520.989057)">Method — The agri-food and transport bars are ranges because their published shares are of final energy, which is reported less</text>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 532.136428)">consistently than electricity: the solid portion applies the share to total final consumption (~440 EJ), the pale portion extends it to</text>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 543.283799)">total energy supply (~620 EJ). Data-centre figures are electricity only. The sector bars overlap one another — food-system energy</text>
+   <text style="font-size: 7.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(27.72 554.431169)">already contains food freight and fertiliser — so they must never be summed. This is a comparison of magnitudes, not a budget.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa80eb82ddb">
+   <rect x="201.96" y="109.44" width="558.36" height="285.12"/>
+  </clipPath>
+ </defs>
+</svg>

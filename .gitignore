@@ -52,3 +52,7 @@ pnpm-debug.log*
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+# Transient draft-PDF rendering artifacts (HTML intermediates + verification page images)
+scripts/_draft-pdf-html/
+scripts/_draft-pdf-shots/

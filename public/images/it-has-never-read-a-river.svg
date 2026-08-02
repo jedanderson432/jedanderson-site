@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="792pt" viewBox="0 0 864 792" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-02T10:40:19.613395</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 792 
+L 864 792 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 25.92 696.96 
+L 803.52 696.96 
+L 803.52 589.248 
+L 25.92 589.248 
+z
+" clip-path="url(#pdb209df033)" style="fill: #f2f2f2"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 25.92 530.64 
+L 336.96 530.64 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 25.92 530.64 
+L 25.92 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 95.393213 530.64 
+L 95.393213 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 164.866427 530.64 
+L 164.866427 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 234.33964 530.64 
+L 234.33964 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 303.812853 530.64 
+L 303.812853 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 492.48 530.64 
+L 803.52 530.64 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 492.48 530.64 
+L 492.48 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 561.953213 530.64 
+L 561.953213 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 631.426427 530.64 
+L 631.426427 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 700.89964 530.64 
+L 700.89964 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 770.372853 530.64 
+L 770.372853 538.56 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #b4b4b4; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="25.92" y="37.195996" transform="rotate(-0 25.92 37.195996)">It has read everything we ever wrote.</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #0072b2" x="25.92" y="72.835996" transform="rotate(-0 25.92 72.835996)">It has never read a river.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 109.003939)">The machines being handed decisions about the physical world learned that world from our writing</text>
+    <text style="font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 124.768881)">about it. The machines that can actually read the planet's instruments are hundreds of times smaller —</text>
+    <text style="font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 140.531291)">and they are not connected to the ones making the calls.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #d55e00" x="25.92" y="173.137422" transform="rotate(-0 25.92 173.137422)">TRAINED ON WHAT WE SAID ABOUT THE WORLD</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 198.923991)">General-purpose frontier models — the systems being given</text>
+    <text style="font-size: 9.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 211.594333)">operational authority over food, water, freight and the grid</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0072b2" x="492.48" y="173.137422" transform="rotate(-0 492.48 173.137422)">TRAINED ON WHAT THE WORLD RECORDED</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(492.48 198.923991)">Earth-observation foundation models — the systems that can</text>
+    <text style="font-size: 9.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(492.48 211.592153)">read satellites, rivers, air and land directly</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="25.92" y="289.275529" transform="rotate(-0 25.92 289.275529)">Llama 3.1 405B</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 25.92 330.66 
+L 276.541492 330.66 
+L 276.541492 302.148 
+L 25.92 302.148 
+z
+" clip-path="url(#pdb209df033)" style="fill: #d55e00; stroke: #d55e00; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="25.92" y="358.323984" transform="rotate(-0 25.92 358.323984)">405 billion parameters · 15 trillion tokens of text</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="25.92" y="380.355529" transform="rotate(-0 25.92 380.355529)">GPT-4 class</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 25.92 421.74 
+L 321.547454 421.74 
+L 321.547454 393.228 
+L 25.92 393.228 
+z
+" clip-path="url(#pdb209df033)" style="fill: #d55e00; opacity: 0.38; stroke: #d55e00; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_11">
+    <text style="font-style: italic; font-size: 8.2px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="330.187454" y="409.696158" transform="rotate(-0 330.187454 409.696158)">estimate</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="25.92" y="449.403732" transform="rotate(-0 25.92 449.403732)">~1.8 trillion parameters · third-party estimate, never disclosed</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="492.48" y="243.735529" transform="rotate(-0 492.48 243.735529)">Prithvi-EO-2.0  NASA / IBM</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 492.48 285.12 
+L 546.540668 285.12 
+L 546.540668 256.608 
+L 492.48 256.608 
+z
+" clip-path="url(#pdb209df033)" style="fill: #0072b2; stroke: #0072b2; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="492.48" y="312.783732" transform="rotate(-0 492.48 312.783732)">600 million parameters · 4.2 million satellite time-series samples</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="492.48" y="334.8151" transform="rotate(-0 492.48 334.8151)">Clay v1.5</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 492.48 376.2 
+L 548.108388 376.2 
+L 548.108388 347.688 
+L 492.48 347.688 
+z
+" clip-path="url(#pdb209df033)" style="fill: #0072b2; stroke: #0072b2; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="492.48" y="403.863732" transform="rotate(-0 492.48 403.863732)">632 million parameters · ~70 million global image chips</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="492.48" y="425.895852" transform="rotate(-0 492.48 425.895852)">Aurora  Microsoft</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 492.48 467.28 
+L 569.869224 467.28 
+L 569.869224 438.768 
+L 492.48 438.768 
+z
+" clip-path="url(#pdb209df033)" style="fill: #0072b2; stroke: #0072b2; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #6e6e6e" x="492.48" y="494.943984" transform="rotate(-0 492.48 494.943984)">1.3 billion parameters · &gt;1 million hours of geophysical data</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="25.92" y="552.530781" transform="rotate(-0 25.92 552.530781)">100M</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="95.393213" y="552.530781" transform="rotate(-0 95.393213 552.530781)">1B</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="164.866427" y="552.530781" transform="rotate(-0 164.866427 552.530781)">10B</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="234.33964" y="552.530781" transform="rotate(-0 234.33964 552.530781)">100B</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="303.812853" y="552.530781" transform="rotate(-0 303.812853 552.530781)">1T</text>
+   </g>
+   <g id="text_24">
+    <text style="font-style: italic; font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="181.44" y="571.765686" transform="rotate(-0 181.44 571.765686)">model size — parameters, logarithmic scale</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="492.48" y="552.530781" transform="rotate(-0 492.48 552.530781)">100M</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="561.953213" y="552.530781" transform="rotate(-0 561.953213 552.530781)">1B</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="631.426427" y="552.530781" transform="rotate(-0 631.426427 552.530781)">10B</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="700.89964" y="552.530781" transform="rotate(-0 700.89964 552.530781)">100B</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="770.372853" y="552.530781" transform="rotate(-0 770.372853 552.530781)">1T</text>
+   </g>
+   <g id="text_30">
+    <text style="font-style: italic; font-size: 8.3px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #6e6e6e" x="648" y="571.765686" transform="rotate(-0 648 571.765686)">model size — parameters, logarithmic scale</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 26px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="414.72" y="371.33416" transform="rotate(-0 414.72 371.33416)">675×</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(377.012531 404.394873)">the documented gap</text>
+    <text style="font-size: 8.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(372.463406 416.656494)">405 billion parameters</text>
+    <text style="font-size: 8.4px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(378.503531 428.918115)">against 600 million</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #1a1a1a" x="414.72" y="610.212953" transform="rotate(-0 414.72 610.212953)">NOT WIRED TOGETHER</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(209.189102 658.336654)">As of August 2026, no Earth-observation foundation model sits inside an autonomous decision loop with</text>
+    <text style="font-size: 8.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(220.972563 671.326047)">authority over a physical system. Where the two have been joined at all — Google's Earth AI and its</text>
+    <text style="font-size: 8.9px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(211.708914 684.317527)">Geospatial Reasoning agent — it is limited-release, decision-support, and human-in-the-loop by design.</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 720.397143)">Sources — Llama 3.1 405B: Meta AI, July 2024; 405B parameters, more than 15T training tokens; the largest frontier model with an officially published</text>
+    <text style="font-size: 7.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 731.49099)">parameter count. GPT-4 ~1.8T: SemiAnalysis estimate, 2023, never confirmed by OpenAI, shown faded for that reason. Prithvi-EO-2.0: NASA and IBM,</text>
+    <text style="font-size: 7.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 742.584838)">arXiv:2412.02732; 300M and 600M variants trained on 4.2M global time-series samples from NASA's Harmonized Landsat and Sentinel-2 archive. Clay v1.5:</text>
+    <text style="font-size: 7.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 753.678686)">Clay Foundation, open source. Aurora: Microsoft Research, Nature 641 (2025) — an Earth-system model rather than an imagery model, shown for scale.</text>
+    <text style="font-size: 7.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 764.772533)">Not shown, for cause — AlphaEarth Foundations (Google DeepMind, 2025) and TerraMind (IBM and ESA, 2025) are among the strongest models in this</text>
+    <text style="font-size: 7.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 775.8646)">class, but neither publishes a parameter count, so neither can be honestly placed on this axis. Their absence understates the right-hand column, not the</text>
+    <text style="font-size: 7.6px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(25.92 786.960229)">left. Checked 2 August 2026.</text>
+   </g>
+   <g id="line2d_13">
+    <path d="M 51.84 633.6 
+L 358.56 633.6 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #d55e00; stroke-width: 1.8"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 470.88 633.6 
+L 777.6 633.6 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #0072b2; stroke-width: 1.8"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 362.88 633.6 
+L 376.704 633.6 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #bbbbbb; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 390.528 633.6 
+L 404.352 633.6 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #bbbbbb; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 418.176 633.6 
+L 432 633.6 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #bbbbbb; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 445.824 633.6 
+L 459.648 633.6 
+" clip-path="url(#pdb209df033)" style="fill: none; stroke: #bbbbbb; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdb209df033">
+   <rect x="0" y="0" width="864" height="792"/>
+  </clipPath>
+ </defs>
+</svg>
