@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-08-03T12:53:33.302401</dc:date>
+    <dc:date>2026-08-03T13:38:43.189375</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 594 467.0064
 L 594 418.5936 
 L 198 418.5936 
 z
-" clip-path="url(#pa770dad785)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p72cb0e778e)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #56b4e9" x="213.84" y="446.176953" transform="rotate(-0 213.84 446.176953)">L0</text>
@@ -52,7 +52,7 @@ L 594 407.9664
 L 594 359.5536 
 L 198 359.5536 
 z
-" clip-path="url(#pa770dad785)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p72cb0e778e)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_4">
     <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #56b4e9" x="213.84" y="387.136953" transform="rotate(-0 213.84 387.136953)">L1</text>
@@ -69,7 +69,7 @@ L 594 348.9264
 L 594 300.5136 
 L 198 300.5136 
 z
-" clip-path="url(#pa770dad785)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p72cb0e778e)" style="fill: #56b4e9; opacity: 0.13; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_7">
     <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #56b4e9" x="213.84" y="328.096953" transform="rotate(-0 213.84 328.096953)">L2</text>
@@ -86,7 +86,7 @@ L 594 289.8864
 L 594 241.4736 
 L 198 241.4736 
 z
-" clip-path="url(#pa770dad785)" style="fill: #e69f00; opacity: 0.13; stroke: #e69f00; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p72cb0e778e)" style="fill: #e69f00; opacity: 0.13; stroke: #e69f00; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_10">
     <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #e69f00" x="213.84" y="269.056953" transform="rotate(-0 213.84 269.056953)">L3</text>
@@ -103,7 +103,7 @@ L 594 230.8464
 L 594 182.4336 
 L 198 182.4336 
 z
-" clip-path="url(#pa770dad785)" style="fill: #d55e00; opacity: 0.13; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p72cb0e778e)" style="fill: #d55e00; opacity: 0.13; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_13">
     <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #d55e00" x="213.84" y="210.016953" transform="rotate(-0 213.84 210.016953)">L4</text>
@@ -120,7 +120,7 @@ L 594 171.8064
 L 594 123.3936 
 L 198 123.3936 
 z
-" clip-path="url(#pa770dad785)" style="fill: #d55e00; opacity: 0.13; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p72cb0e778e)" style="fill: #d55e00; opacity: 0.13; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_16">
     <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #d55e00" x="213.84" y="150.976953" transform="rotate(-0 213.84 150.976953)">L5</text>
@@ -170,12 +170,12 @@ z
    <g id="line2d_1">
     <path d="M 178.2 295.2 
 L 613.8 295.2 
-" clip-path="url(#pa770dad785)" style="fill: none; stroke: #1a1a1a; stroke-width: 2.2; stroke-linecap: square"/>
+" clip-path="url(#p72cb0e778e)" style="fill: none; stroke: #1a1a1a; stroke-width: 2.2; stroke-linecap: square"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pa770dad785">
+  <clipPath id="p72cb0e778e">
    <rect x="0" y="0" width="792" height="590.4"/>
   </clipPath>
  </defs>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-08-03T12:53:32.273466</dc:date>
+    <dc:date>2026-08-03T13:38:41.116610</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 794.88 622.08
 L 794.88 442.368 
 L 33.12 442.368 
 z
-" clip-path="url(#p64d7434892)" style="fill: #f2f2f2"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #f2f2f2"/>
    </g>
    <g id="patch_3">
     <path d="M 38.088 115.354252 
@@ -56,7 +56,7 @@ L 471.96 158.7456
 L 471.96 115.4304 
 L 57.96 115.4304 
 z
-" clip-path="url(#p64d7434892)" style="fill: #0072b2; opacity: 0.11; stroke: #0072b2; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #0072b2; opacity: 0.11; stroke: #0072b2; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_2">
     <text style="font-weight: 700; font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="72.864" y="128.941952" transform="rotate(-0 72.864 128.941952)">What we actually want</text>
@@ -70,7 +70,7 @@ L 471.96 211.7376
 L 471.96 168.4224 
 L 57.96 168.4224 
 z
-" clip-path="url(#p64d7434892)" style="fill: #0072b2; opacity: 0.195; stroke: #0072b2; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #0072b2; opacity: 0.195; stroke: #0072b2; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_4">
     <text style="font-weight: 700; font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="72.864" y="181.933952" transform="rotate(-0 72.864 181.933952)">The statutory standard</text>
@@ -84,7 +84,7 @@ L 522.6336 208.2816
 L 522.6336 171.8784 
 L 496.8 171.8784 
 z
-" clip-path="url(#p64d7434892)" style="fill: #d55e00; opacity: 0.24"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #d55e00; opacity: 0.24"/>
    </g>
    <g id="patch_7">
     <path d="M 57.96 264.7296 
@@ -92,7 +92,7 @@ L 471.96 264.7296
 L 471.96 221.4144 
 L 57.96 221.4144 
 z
-" clip-path="url(#p64d7434892)" style="fill: #56b4e9; opacity: 0.28; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #56b4e9; opacity: 0.28; stroke: #56b4e9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_6">
     <text style="font-weight: 700; font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="72.864" y="234.926374" transform="rotate(-0 72.864 234.926374)">The numeric criterion</text>
@@ -106,7 +106,7 @@ L 562.3776 261.2736
 L 562.3776 224.8704 
 L 496.8 224.8704 
 z
-" clip-path="url(#p64d7434892)" style="fill: #d55e00; opacity: 0.34"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #d55e00; opacity: 0.34"/>
    </g>
    <g id="patch_9">
     <path d="M 57.96 317.7216 
@@ -114,7 +114,7 @@ L 471.96 317.7216
 L 471.96 274.4064 
 L 57.96 274.4064 
 z
-" clip-path="url(#p64d7434892)" style="fill: #e69f00; opacity: 0.365; stroke: #e69f00; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #e69f00; opacity: 0.365; stroke: #e69f00; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_8">
     <text style="font-weight: 700; font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="72.864" y="287.917952" transform="rotate(-0 72.864 287.917952)">The permit condition</text>
@@ -128,7 +128,7 @@ L 606.096 314.2656
 L 606.096 277.8624 
 L 496.8 277.8624 
 z
-" clip-path="url(#p64d7434892)" style="fill: #d55e00; opacity: 0.44"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #d55e00; opacity: 0.44"/>
    </g>
    <g id="patch_11">
     <path d="M 57.96 370.7136 
@@ -136,7 +136,7 @@ L 471.96 370.7136
 L 471.96 327.3984 
 L 57.96 327.3984 
 z
-" clip-path="url(#p64d7434892)" style="fill: #d55e00; opacity: 0.45; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #d55e00; opacity: 0.45; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_10">
     <text style="font-weight: 700; font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="72.864" y="340.910374" transform="rotate(-0 72.864 340.910374)">The measurement rule</text>
@@ -150,7 +150,7 @@ L 653.7888 367.2576
 L 653.7888 330.8544 
 L 496.8 330.8544 
 z
-" clip-path="url(#p64d7434892)" style="fill: #d55e00; opacity: 0.54"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #d55e00; opacity: 0.54"/>
    </g>
    <g id="patch_13">
     <path d="M 57.96 423.7056 
@@ -158,7 +158,7 @@ L 471.96 423.7056
 L 471.96 380.3904 
 L 57.96 380.3904 
 z
-" clip-path="url(#p64d7434892)" style="fill: #d55e00; opacity: 0.535; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #d55e00; opacity: 0.535; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_12">
     <text style="font-weight: 700; font-size: 10.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="72.864" y="393.901952" transform="rotate(-0 72.864 393.901952)">The reported number</text>
@@ -172,7 +172,7 @@ L 695.52 420.2496
 L 695.52 383.8464 
 L 496.8 383.8464 
 z
-" clip-path="url(#p64d7434892)" style="fill: #d55e00; opacity: 0.64"/>
+" clip-path="url(#p337b93f7d4)" style="fill: #d55e00; opacity: 0.64"/>
    </g>
    <g id="text_14">
     <text style="font-size: 8.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; fill: #6e6e6e" transform="translate(19.133121 337.206312) rotate(-90)">each layer trades something meant</text>
@@ -220,7 +220,7 @@ z
    <g id="line2d_1">
     <path d="M 57.96 532.224 
 L 281.52 532.224 
-" clip-path="url(#p64d7434892)" style="fill: none; stroke: #d55e00; stroke-width: 3.2"/>
+" clip-path="url(#p337b93f7d4)" style="fill: none; stroke: #d55e00; stroke-width: 3.2"/>
    </g>
    <g id="line2d_2">
     <path d="M 364.32 494.8992 
@@ -263,12 +263,12 @@ L 654.756923 568.934453
 L 662.824615 569.01114 
 L 670.892308 569.078254 
 L 678.96 569.136991 
-" clip-path="url(#p64d7434892)" style="fill: none; stroke: #0072b2; stroke-width: 3.2; stroke-linecap: round"/>
+" clip-path="url(#p337b93f7d4)" style="fill: none; stroke: #0072b2; stroke-width: 3.2; stroke-linecap: round"/>
    </g>
    <g id="line2d_3">
     <path d="M 678.96 569.136991 
 L 732.78 569.136991 
-" clip-path="url(#p64d7434892)" style="fill: none; stroke-dasharray: 9,9; stroke-dashoffset: 0; stroke: #0072b2; stroke-width: 3"/>
+" clip-path="url(#p337b93f7d4)" style="fill: none; stroke-dasharray: 9,9; stroke-dashoffset: 0; stroke: #0072b2; stroke-width: 3"/>
    </g>
    <g id="text_25">
     <text style="font-size: 8.8px; font-family: 'Georgia', 'Palatino Linotype', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="57.96" y="607.86488" transform="rotate(-0 57.96 607.86488)">Lawyers. Hours. Budgets. A loophole hunt competed against a quarterly deadline, so most gaps went unsearched.</text>
@@ -276,7 +276,7 @@ L 732.78 569.136991
   </g>
  </g>
  <defs>
-  <clipPath id="p64d7434892">
+  <clipPath id="p337b93f7d4">
    <rect x="0" y="0" width="828" height="691.2"/>
   </clipPath>
  </defs>
