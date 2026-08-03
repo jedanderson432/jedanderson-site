@@ -1,12 +1,12 @@
 ---
 title: "Environmental Safety Mode: The Proxy Stack, the Interlock, and What Physical Grounding Can and Cannot Do"
 slug: "environmental-safety-mode"
-subtitle: "The technical companion. Carries the denominator calculation, the formal treatment of environmental law as a reward function, the three independent results behind the is/ought separation, the thermodynamic feasibility argument, and the L0–L5 specification with adversary analysis at every level."
+subtitle: "The technical companion to The Latency Bet. Carries the formal treatment of environmental law as a reward function, the perception gap between Earth-observation models and the systems holding authority, the three independent results behind the is/ought separation, the thermodynamic feasibility argument, and the L0–L5 specification with adversary analysis at every level."
 date: 2026-08-02
 type: essay
 status: draft
 tags: ["paper", "environmental-intelligence", "incorruptible-grader", "information-theory", "physics", "regulatory-reform"]
-abstract: "The technical companion to 'It Has Read Everything We Ever Wrote. It Has Never Read a River.' Establishes, with sources and uncertainty bands, the energy throughput of the sectors AI is acquiring allocation authority over; gives a formal treatment of environmental regulation as a layered proxy stack and works it against the measured reward-hacking literature; separates the is-gap from the ought-gap using three independent results (the biosphere specifies no preferred state, entropy is observer-relative, and no system grounds its own objective from inside); derives the thermodynamic feasibility of environmental gating with the three leverage quantities kept strictly apart; and specifies Environmental Safety Mode L0–L5 with requirements, costs, limits, and how an adversary defeats each level."
+abstract: "The technical companion to 'The Latency Bet.' Establishes, with sources and uncertainty bands, the energy throughput of the sectors AI is acquiring allocation authority over; gives a formal treatment of environmental regulation as a layered proxy stack and works it against the measured reward-hacking literature; separates the is-gap from the ought-gap using three independent results (the biosphere specifies no preferred state, entropy is observer-relative, and no system grounds its own objective from inside); derives the thermodynamic feasibility of environmental gating with the three leverage quantities kept strictly apart; and specifies Environmental Safety Mode L0–L5 with requirements, costs, limits, and how an adversary defeats each level."
 license: CC-BY-4.0
 author: "Jed Anderson"
 pdf: "/pdfs/environmental-safety-mode.pdf"
@@ -21,9 +21,9 @@ keywords:
   - "Landauer's principle"
 ---
 
-*Jed Anderson, Independent Researcher, Houston, Texas. ORCID [0009-0003-1807-2459](https://orcid.org/0009-0003-1807-2459). This is the technical companion to the feature essay [It Has Read Everything We Ever Wrote. It Has Never Read a River.](/essays/it-has-never-read-a-river) The feature can be brave because this document is careful. Where the two differ in precision, this one governs.*
+*Jed Anderson, Independent Researcher, Houston, Texas. ORCID [0009-0003-1807-2459](https://orcid.org/0009-0003-1807-2459). This is the technical companion to the feature essay [The Latency Bet](/essays/the-latency-bet). The feature can be brave because this document is careful. Where the two differ in precision, this one governs.*
 
-*All external facts checked 2 August 2026. Claims that could not be verified were deleted rather than softened; the deletions are listed in §7.*
+*All external facts checked 2–3 August 2026. Claims that could not be verified were deleted rather than softened; the deletions are listed in §7.*
 
 ---
 
@@ -349,3 +349,45 @@ Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics* 5, 181–188.
 ---
 
 *Published under CC-BY-4.0. Environmental Safety Mode is an open specification with no associated product, certification, or trademark.*
+
+---
+
+## 9. Material displaced from the feature
+
+The feature carries one thesis: that the compliance–intent gap is irreducible, that fifty years of regulatory stability was an equilibrium in adversary search cost, and that the cost is collapsing. Four supporting arguments were compressed to a paragraph or a clause there and belong here in full.
+
+### 9.1 The perception gap
+
+The systems acquiring operational authority over physical processes learned the physical world overwhelmingly from text about it. Earth-observation foundation models that read instruments directly exist and perform well—Prithvi-EO-2.0 (NASA/IBM, 300M and 600M parameters, trained on 4.2 million time-series samples from the Harmonized Landsat and Sentinel-2 archive, with compressed variants demonstrated in orbit in 2026); AlphaEarth Foundations (Google DeepMind, a 64-dimensional embedding for every 10 m footprint of land and coastal water, refreshed annually); Clay v1.5; TerraMind; Aurora.
+
+They are small. The largest is measured in hundreds of millions of parameters against 405 billion for the largest frontier model with a published count—a documented ratio of roughly 675 to one.
+
+**The narrowed claim.** It is false to say Earth-observation models are not wired into agentic systems: Google's Earth AI and its Geospatial Reasoning agent have had Gemini orchestrating expert sub-agents equipped with such models since April 2025. What does not exist, as of August 2026, is an Earth-observation foundation model inside an autonomous decision loop with authority over a physical system. Every joined instance is limited-release, decision-support, and human-in-the-loop by design.
+
+This matters to the feature's argument in one specific way. Grading against physical state requires perceiving physical state. The perception layer exists, the authority layer exists, and the wire between them has not been run.
+
+![Frontier general-purpose model scale against Earth-observation foundation model scale, with the missing connection between them drawn as an explicit gap.](/images/it-has-never-read-a-river.png)
+
+### 9.2 The values null, in full
+
+Full-text search of the current published values documents of Anthropic, OpenAI, Google/DeepMind, Meta and xAI, conducted 2026-08-02 by exact local text match rather than summarisation:
+
+- **Zero occurrences** across all five: *watershed*, *habitat*, *biodiversity*, *pollution*, *wildlife*.
+- Every occurrence of *ecosystem* is informational or commercial. Every occurrence of *environment* is a sandbox, test harness or enterprise network.
+- The single *species* hit, in Anthropic's constitution, is a hard constraint against destroying the human one.
+- Nearest approach: Anthropic lists "welfare of animals and of all sentient beings" among values to be weighed—a sentience-based commitment, not an ecological one.
+
+The EU AI Act names environmental protection in its purpose clause (Article 1(1)), counts serious environmental harm as a reportable incident (Article 3(49)(d)), and invites voluntary codes of conduct on environmental sustainability (Article 95(2)(b)). It excludes the environment from the Annex III high-risk categories and from the systemic-risk definition governing the largest models. Under Regulation (EU) 2026/1744 (OJ L, 24 July 2026), Annex III high-risk obligations now apply from 2 December 2027.
+
+### 9.3 Control latency, and why the loop must be continuous
+
+Environmental disturbances run faster than the loops built to regulate them. A contaminant in a river moves at order 1 m/s; the 2015 Gold King Mine release covered ~100 km in about a day and a half. Cyanobacteria double on the order of a day. Against that, an Endangered Species Act listing averages more than twelve years against a petition pathway designed to run about two—though that delay is legislated and underfunded before it is technical, since §4 contains a lawful "warranted but precluded" off-ramp and listing rates track appropriations.
+
+The control-theoretic point is independent of the institutional one. Past a threshold, a controller whose loop delay exceeds the timescale of its disturbance does not damp weakly; its corrections arrive out of phase and amplify. No budget buys back phase margin already lost to delay. This is why physical-state grading has to be continuous rather than periodic: a quarterly loop is not a slow version of an hourly loop, it is a loop that does not close.
+
+### 9.4 The taxonomy gap, and the ask that follows from it
+
+Environmental deviations are already reported, cause-agnostically: Title V permits require prompt reporting of every deviation (40 CFR §70.6(a)(3)(iii)(B)); NPDES permits require 24-hour reporting of noncompliance endangering health or the environment (§122.41(l)(6)). What does not exist anywhere is an **attribution field**—no form asks whether an automated system was involved.
+
+Two international AI-incident registries define an incident to include environmental harm and contain no such case. EPA has no category for it. The consequence is that the feature's central claim is currently unmeasurable rather than unmeasured, and a single checkbox on an existing form would change that. This is the cheapest recommendation in either document and the one most likely to settle the argument.
+

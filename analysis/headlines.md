@@ -1,135 +1,102 @@
-# Headlines, decks, pull-quotes and compressions
+# Headlines, compressions and quotables—*The Latency Bet*
 
-For: *It Has Read Everything We Ever Wrote. It Has Never Read a River.*
-Prepared 2026-08-02. **Every headline below is cashable by a line in `analysis/fact-ledger.md`;** the ledger reference is given for each. Nothing here promises something the piece does not deliver.
+Prepared 2026-08-03. Every headline is cashable by a line in `analysis/fact-ledger.md`.
 
 ---
 
 ## Eight headline + deck pairs
 
-Ranked restrained → aggressive. Not picked; that is an editorial decision.
+Beyond the four supplied in the brief (*The Latency Bet*; *Environmental Law Was Never About the Rules*; *We Were Always Slow, and That Was the Point*; *The Price of Legal Search Is Going to Zero*).
 
 ### 1. Restrained
-
-**It Has Read Everything We Ever Wrote. It Has Never Read a River.**
-
-*The AI systems being handed authority over food, water, freight and the grid learned the physical world from our writing about it. The instruments that read the planet directly exist, work well, and are not connected to them. A working environmental lawyer on the two gaps nobody is measuring.* (38 words)
-
-*Cashes: C1–C12. The is-gap, verified and narrowed against the Google Earth AI counterexample.*
+**The Work Factor Nobody Wrote Down**
+*Cryptographers never call a cipher unbreakable—they quote the cost of breaking it and assume that number falls. Environmental law has been running on a work factor for fifty years without anyone recording what it was.*
+Cashes: the search-cost thesis; the cryptographic framing is stated as borrowed.
 
 ### 2. Restrained
-
-**The Environmental Movement Is Auditing AI's Electricity Bill. Nobody Is Asking What the Building Does.**
-
-*Data centres will take just under three per cent of world power by 2030. That fight is real and it should be won. It is also a fight about the meter, while the same machines quietly acquire allocation authority over the systems that are not three per cent.* (46 words—trim to 40 for print)
-
-*Cashes: A1–A10, B1–B8.*
+**I Was the Search, and I Was Slow**
+*A twenty-seven-year environmental lawyer on what he was actually selling: not knowledge of the law, but the speed to hold six layers of it in mind at once and see where they failed to meet.*
+Cashes: the opening NSR scenario; verified against 40 CFR 52.21.
 
 ### 3. Moderate
-
-**Earth Finally Started Keeping Records. Nobody Showed Them to the Machine.**
-
-*Landsat, Sentinel, thirty years of hourly stack chemistry, a constellation of satellites. The planet is better instrumented than at any point in its history, and the models being handed the decisions cannot read any of it.* (35 words)
-
-*Cashes: C1–C8, G5.*
+**Every Rule You Can Enforce Has a Hole in It**
+*Not through carelessness. The moment you replace something you care about with something you can measure, you create a set of world-states that satisfy the measurement and miss the point. That set is the price of a rule a stranger can verify.*
+Cashes: the proxy-stack anatomy; the Part 75, averaging-period and netting corrections.
 
 ### 4. Moderate
-
-**No Frontier AI Has a Conservation Law in It**
-
-*A full-text search of the published values documents of Anthropic, OpenAI, Google DeepMind, Meta and xAI returns zero hits for watershed, habitat, biodiversity, pollution and wildlife. Not excluded after an argument. Never raised.* (33 words)
-
-*Cashes: D1–D6. The strongest single empirical result in the piece. Grep-verified against full documents, not summaries.*
+**The Best Rules We Ever Wrote Were Built Against a Slow Adversary**
+*Part 75 prices monitor downtime punitively. Averaging periods are the health endpoint, not slack. Netting is an enforceable neutrality test. This is the best proxy system anyone has built, and it was designed against a company with lawyers and a quarterly deadline.*
+Cashes: the same corrections, used as strength rather than weakness.
 
 ### 5. Moderate–aggressive
-
-**We Built the Densest Reward Function on Earth and Left It Out of the Benchmark**
-
-*Fifty years of environmental law is the most adversarially tested proxy stack any civilisation has produced. The first benchmark measuring whether AI systems mine regulatory loopholes contains seventy-two environments. None of them is environmental.* (34 words)
-
-*Cashes: E1–E4. The SocioHack domain breakdown, verified from the paper's own figure.*
+**Reinforcement Learning Rediscovered Sixty Per Cent of the Loopholes We Had to Patch by Hand**
+*Nobody asked it to. It was optimising a reward, and there was no exploit-shaped request for a refusal filter to catch.*
+Cashes: E1–E7, with the benchmark's circularity and judge-agreement caveats stated in the body.
 
 ### 6. Aggressive
-
-**The Data Center Is the Wrong Fight**
-
-*Not a fake fight—the wrong one. Computing's whole footprint is under one per cent of what humanity burns. The sectors it is being handed authority over are agriculture, water, freight, chemicals and the grid, and nobody is counting what happens there.* (42 words)
-
-*Cashes: A1–A3, B1–B8. **Editorial warning:** this is the headline most likely to be read as contempt for data-centre campaigners, which the piece explicitly refuses. If used, the deck must carry "not a fake fight" or something doing the same work.*
+**You Cannot Out-Draft a Tireless Searcher**
+*Every fix adds a layer. Every layer is another substitution of the measurable for the meant. Every substitution opens its own gap. The drafting move is exhausted, and only two responses remain.*
+Cashes: the forced turn; the two-moves framing including the enforcement-acceleration alternative.
 
 ### 7. Aggressive
-
-**Nobody Has Ever Recorded an AI Damaging the Environment. That Is the Problem.**
-
-*Two international incident registries have a category for it and nothing in it. No environmental agency anywhere asks whether an automated system was involved. The harm gets counted; the cause never does.* (32 words)
-
-*Cashes: F1–F3, plus the corrected taxonomy-gap framing. **Must not be printed as "no permit requires you to report it"**—that formulation is false and was removed after review.*
+**We Built the Instrument in 1993 and Never Let It Out of One Corner of the Clean Air Act**
+*Part 75 has run continuous physical grading against a motivated adversary for thirty-three years. It has barely spread. Not because it is hard—because outside an allowance market, nobody has a reason to pay for harm that does not happen.*
+Cashes: the Part 75 non-diffusion analysis. **Editorial note:** this is the strongest and least expected argument in the piece.
 
 ### 8. Aggressive
-
-**I Spent Twenty-Seven Years Finding the Gaps in Environmental Law. A Machine Will Do It Faster.**
-
-*Every layer of environmental regulation substitutes something measurable for something meant, and every substitution was built against a slow adversary with lawyers and a filing deadline. None was built against a tireless searcher probing every layer at once, for free, forever.* (41 words)
-
-*Cashes: the first-person practitioner section and E5–E6. **Editorial warning:** the first-person framing is the piece's strongest asset and its biggest liability. A hostile environmental-lawyer reviewer read an earlier draft as contempt for the profession; the section was substantially rewritten. Do not restore an earlier headline formulation ("the easiest thing in the world to game")—it is legally inaccurate and it is a comment-letter epigraph for the deregulatory side.*
+**The Gaps Were Always There. Finding One Used to Take a Lawyer a Week.**
+*Fifty years of environmental compliance rested on a variable that appears in no legislative history, no preamble and no regulatory impact analysis: how long it takes to find the seam.*
+Cashes: the central thesis. Best single pairing of headline and deck on the list.
 
 ---
 
-## Five pull-quotes
+## Five compression candidates
 
-1. > It has read the hydrology textbook, the permit application, the enforcement order, the impact statement, the paper about the plume, the news story about the fish kill. It has, in a meaningful sense, read everything we ever wrote about a river. It has never read a river.
-
-2. > Anyone who tells you their system learned its values from ecology has smuggled a human chooser into the loop and not said where. Ask them where. There is always an answer and it is always a person.
-
-3. > Environmental law is the densest, most adversarially tested proxy stack ever built—and every layer was designed against a slow adversary: a company with lawyers, a budget and a quarterly filing deadline. None of it was designed against a tireless searcher probing every layer at once, for free, forever.
-
-4. > Slow does not mean late. Past the threshold, slow means impossible.
-
-5. > We already know how to build this rung. We have only ever built it pointing inward.
-
-*(Alternate, for the values section: "A watershed is not sentient. Neither is an aquifer.")*
+1. **Environmental law never regulated behaviour. It regulated behaviour at human search speed.**
+   ← **Selected.** In the piece at the hinge of "The bet nobody wrote down," and in the subtitle. Carries the entire thesis in fourteen words and states it as a finding rather than a worry.
+2. The gaps were always there. What kept them shut was that finding one took a lawyer a week.
+   *(Warmest and most concrete; used on the social hero. Slightly narrower—it implies the mechanism without naming the equilibrium.)*
+3. Exploitability is the gap, times the search you can afford, times what it costs you if the agency disagrees.
+   *(The most precise. Also the least quotable—three terms is one too many for a line that travels.)*
+4. We did not build a wall. We built a maze, and assumed the minotaur was slow.
+   *(Rejected. Better as an image than as an argument, and the metaphor implies the drafters were naive, which the piece spends a section refuting.)*
+5. You cannot out-draft a tireless searcher.
+   *(In the piece, and it is the corollary rather than the thesis. Works as a pull-quote, not as the carrier.)*
 
 ---
 
-## Five candidate compression sentences
+## Eight quotables
 
-Per the brief: the sentence that carries the whole thesis for a reader who reads nothing else.
+Sentences that survive with no surrounding context.
 
-1. **We taught the machines every word we ever wrote about the world, and almost nothing the world has written down itself. Now we are handing them the world.**
-   ← **Selected. This is the one in the piece**, placed at the close where it will be quoted. It beats the working version by replacing the abstract "about the world itself" with "written down itself," which carries the Earth-keeps-records idea in three words and sets up the whole is-gap.
-
-2. It has read everything we ever wrote about a river. It has never read a river.
-   *(Strongest as a headline and a figure title, which is where it is used. Slightly too narrow as the thesis carrier—it holds the is-gap and drops the ought-gap.)*
-
-3. Earth finally started keeping records, and nobody showed them to the thing making the decisions.
-   *(Most compressed. Also in the piece, closing the is-gap section. Drops the values half.)*
-
-4. We are auditing the machine's electricity bill while handing it the keys to everything electricity runs.
-   *(Best single-sentence statement of the denominator argument. Rejected as the carrier because "keys" overstates present authority, which the piece is careful not to do.)*
-
-5. The instruments exist, the models that read them exist, and fifty years of contested law exists—and nobody has connected any of it, because it is no one's job.
-   *(Truest to the actual finding. Too long and too flat to be quoted.)*
+1. > Environmental law never regulated behaviour. It regulated behaviour at human search speed.
+2. > That is not legal reasoning. That is search. And I was the slow version of it.
+3. > The gap is not a defect in environmental law. It is the price of having a rule a stranger can verify.
+4. > Constants do not get written down. They get assumed, then forgotten, then they change.
+5. > Cryptographers never make this mistake. They do not call a cipher unbreakable; they quote a work factor and assume it falls.
+6. > You cannot out-draft a tireless searcher. Adding precision adds seams.
+7. > A thousand readings through one vendor's stack is one reading wearing a thousand faces.
+8. > The instrument did not spread because prevention is invisible, not because it is hard.
+9. > We already know how to build this rung. We have only ever built it pointing inward.
+10. > You trade a large population making defensible judgment calls for a small population committing felonies. A very good trade. Not a solution.
+11. > We spent fifty years writing rules against an adversary who had to sleep, and we are about to find out which of them were load-bearing.
 
 ---
 
 ## 280-character version
 
-> Data centres will be ~3% of world power by 2030. The sectors AI is being handed authority over—food, water, freight, chemicals, the grid—are not 3%. And no frontier lab's published values contain a watershed, a species, or a permit limit. I checked all five. (259 characters)
-
-*Alternate, 271 characters:*
-
-> I searched the published values documents of Anthropic, OpenAI, Google, Meta and xAI for "watershed," "habitat," "biodiversity," "pollution," "wildlife." Zero hits, all five. These systems are being handed authority over food, water, freight and the grid.
+> Environmental law never regulated behaviour. It regulated behaviour at human search speed. The gaps were always there and cannot be drafted away; what kept them shut was that finding one took a lawyer a week. That cost is collapsing, and nobody priced what it was holding up. (272 characters)
 
 ---
 
 ## 150-word abstract
 
-> The environmental movement has spent three years fighting AI over its electricity bill—a real, measured, bounded harm heading for just under three per cent of world power by 2030. It is also the wrong denominator. These systems are acquiring allocation authority over agriculture, water, freight, chemicals and electricity dispatch, and two gaps run through them. They learned the physical world almost entirely from text about it: Earth-observation models that read the planet's instruments directly exist and work well, but none sits inside an autonomous decision loop. And no frontier lab's published values document contains a watershed, a species, or a permit limit—verified by full-text search across all five. Meanwhile environmental law, the densest proxy stack ever built, is absent from every benchmark measuring whether AI systems mine regulatory loopholes. A working environmental lawyer of twenty-seven years argues the asymmetry and proposes an open alarm-to-interlock specification. (148 words)
+> Every layer of environmental law substitutes a measurable number for an unmeasurable intent, and every substitution opens a gap between compliance and intent. Those gaps are the price of a rule a stranger can verify, and no drafting closes them. The law's purposive backstops—circumvention rules, dilution prohibitions, economic substance—do reach conduct that satisfies the letter while defeating the intent, but they work case by case, at the speed of adjudication. For fifty years the regime held because finding a gap took a lawyer, a budget, and time that had to beat a quarterly deadline. Regulatory stability was never a property of drafting quality. It was an equilibrium in the cost of adversary search, and reinforcement learning has begun rediscovering patched loopholes while merely optimising a reward. A working environmental lawyer of twenty-seven years argues two responses remain, and that only one of them scales. (149 words)
 
 ---
 
 ## Notes for an editor
 
-- **The piece runs long.** Body is ~5,050 words with a ~1,100-word objections-and-falsifiers sidebar. The sidebar is designed to be broken out as a box; if it runs as a box, the body is the feature.
-- **Three claims were corrected after adversarial review and must not be reverted to their earlier, punchier forms:** (a) the footprint risk is *not* fully reversible; (b) deviations *are* reported—the gap is attribution, not reporting; (c) the statutory standard *carries* intent rather than descending from it. Each earlier version was more quotable and each was wrong.
-- **The strongest travelling artifact is Figure 2**, not the headline. It is designed to be true and self-explanatory with no caption and no article attached.
+- **The strongest section is the Part 75 non-diffusion argument**, not the AI material. It answers the obvious objection (if this works, why hasn't it spread?) and the answer—no payer for invisible prevention—is the real finding.
+- **Do not restore any earlier formulation calling environmental law "easy to game."** The piece argues the opposite: it is the best proxy system ever built and is exploitable anyway, which is the whole point.
+- **The claim that gaps are "irreducible" is scoped.** Purposive anti-circumvention rules exist and work; what is limited is their throughput. Any headline implying the law has no answer misstates the argument and hands ammunition to the deregulatory side.
