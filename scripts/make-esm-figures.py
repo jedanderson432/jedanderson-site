@@ -287,8 +287,14 @@ def figure_2():
 
 # ================================================================ Figure 3
 def figure_3():
-    """The proxy stack."""
-    fig = plt.figure(figsize=(11.0, 8.4))
+    """The proxy stack, carrying the latency thesis.
+
+    Left: the stack of substitutions, each necessary, each opening a gap.
+    Right: the gap widths — fixed, irreducible, unchanged for fifty years.
+    Bottom: the variable that actually moved. Exploitability is the gap times
+    the search you can afford, and the second term is collapsing.
+    """
+    fig = plt.figure(figsize=(11.5, 9.6))
     ax = fig.add_axes([0, 0, 1, 1])
     ax.set_xlim(0, 100)
     ax.set_ylim(0, 100)
@@ -299,69 +305,109 @@ def figure_3():
          "A river people and fish can live in. Air that does not shorten a life.",
          0.00, OI["blue"]),
         ("The statutory standard",
-         "\"Requisite to protect public health with an adequate margin of safety.\" A sentence, not a number.",
+         "\"Requisite to protect public health with an adequate margin of safety.\"",
          0.13, OI["blue"]),
         ("The numeric criterion",
-         "An ambient standard, an effluent limit, a listing threshold. The first real proxy.",
+         "An ambient standard, an effluent limit, a listing threshold.",
          0.33, OI["sky"]),
         ("The permit condition",
-         "Facility limits, averaging periods, applicability cutoffs, netting baselines, exclusions.",
+         "Facility limits, averaging periods, applicability cutoffs, netting baselines.",
          0.55, OI["orange"]),
         ("The measurement rule",
-         "Emission factors, test methods, monitor downtime allowances, substitute data.",
+         "Emission factors, test methods, substitute data for missing hours.",
          0.79, OI["vermil"]),
         ("The reported number",
-         "What actually gets optimised. The only layer an automated system ever sees.",
+         "The only layer an automated system ever sees.",
          1.00, OI["vermil"]),
     ]
 
-    x0, box_w = 8.0, 52.0
-    top, bot = 79.0, 16.0
+    x0, box_w = 7.0, 50.0
+    top, bot = 84.0, 38.0
     h = (top - bot) / len(layers)
-    gx0 = x0 + box_w + 3.5
-    max_gap = 26.0
+    gx0 = x0 + box_w + 3.0
+    max_gap = 24.0
 
-    ax.text(gx0, top + 3.4, "gap between compliance and intent",
-            fontsize=9.8, color=OI["vermil"], fontweight="bold", va="bottom")
+    ax.text(gx0, top + 2.6, "the gap this opens",
+            fontsize=9.6, color=OI["vermil"], fontweight="bold", va="bottom")
 
     for i, (name, desc, drift, colour) in enumerate(layers):
         y = top - (i + 1) * h
-        ax.add_patch(Rectangle((x0, y + 1.0), box_w, h - 2.0,
+        ax.add_patch(Rectangle((x0, y + 0.7), box_w, h - 1.4,
                                facecolor=colour, alpha=0.11 + 0.085 * i,
                                edgecolor=colour, linewidth=1.2, zorder=3))
-        ax.text(x0 + 2.0, y + h / 2 + 1.9, name, fontsize=11.4,
+        ax.text(x0 + 1.8, y + h / 2 + 1.6, name, fontsize=10.8,
                 fontweight="bold", va="center")
-        ax.text(x0 + 2.0, y + h / 2 - 2.5, desc, fontsize=8.5, color=MUTED, va="center")
+        ax.text(x0 + 1.8, y + h / 2 - 2.1, desc, fontsize=8.1, color=MUTED, va="center")
 
         gw = max_gap * drift
         if gw > 0.5:
-            ax.add_patch(Rectangle((gx0, y + 1.6), gw, h - 3.2,
+            ax.add_patch(Rectangle((gx0, y + 1.2), gw, h - 2.4,
                                    facecolor=OI["vermil"], alpha=0.14 + 0.10 * i,
                                    edgecolor="none", zorder=3))
-        if i == len(layers) - 1:
-            ax.text(gx0 + gw + 1.5, y + h / 2, "the whole\ngame is here",
-                    fontsize=9.4, color=OI["vermil"], va="center",
-                    fontweight="bold", linespacing=1.4)
 
-    ax.annotate("", xy=(x0 - 2.6, bot + 0.5), xytext=(x0 - 2.6, top - 0.5),
+    ax.annotate("", xy=(x0 - 2.4, bot + 0.4), xytext=(x0 - 2.4, top - 0.4),
                 arrowprops=dict(arrowstyle="-|>", color=MUTED, linewidth=1.3), zorder=2)
-    ax.text(x0 - 4.4, (top + bot) / 2,
-            "each layer substitutes something measurable\nfor something meant",
-            fontsize=9.0, color=MUTED, rotation=90, va="center", ha="center",
+    ax.text(x0 - 4.2, (top + bot) / 2,
+            "each layer trades something meant\nfor something measurable",
+            fontsize=8.8, color=MUTED, rotation=90, va="center", ha="center",
             linespacing=1.5)
 
-    ax.text(4.0, 96.0, "The proxy stack", fontsize=19, fontweight="bold", va="top")
-    ax.text(4.0, 91.0,
-            "Environmental law, read as a reward function. An optimiser never sees the top layer.\n"
-            "It sees the bottom one.",
-            fontsize=10.6, color=MUTED, va="top", linespacing=1.5)
+    ax.text(gx0 + max_gap + 2.0, bot + h * 1.6,
+            "These widths are\nfixed. They are the\nprice of a rule a\nstranger can verify.\nNo drafting closes\nthem.",
+            fontsize=8.6, color=INK, va="center", ha="left", linespacing=1.6)
 
-    ax.text(4.0, 11.0,
-            "Every descent down this stack was necessary and every one was fought over: the substitutions are what made the law enforceable,\n"
-            "and each was adjudicated by industry lawyers and agency lawyers arguing against each other. But every substitution opens a space\n"
-            "between satisfying the number and achieving the intent, and a capable optimiser is precisely a machine for finding that space. No\n"
-            "rule is broken at any layer. Nothing in the system is capable of noticing. The gap is a product of the design, not an abuse of it.",
-            fontsize=8.3, color=MUTED, ha="left", va="top", linespacing=1.5)
+    # ---- title
+    ax.text(4.0, 96.5, "The proxy stack, and the variable that moved",
+            fontsize=19.5, fontweight="bold", va="top")
+    ax.text(4.0, 91.8,
+            "Every layer of environmental law substitutes a number for an intention. Every substitution opens a gap.\n"
+            "The gaps have been there for fifty years. What kept them shut was never the drafting.",
+            fontsize=10.4, color=MUTED, va="top", linespacing=1.5)
+
+    # ================= lower panel: the latency thesis =================
+    py0, py1 = 10.0, 36.0
+    ax.add_patch(Rectangle((4.0, py0), 92.0, py1 - py0,
+                           facecolor=FAINT, edgecolor="none", zorder=1))
+
+    ax.text(7.0, py1 - 2.0, "EXPLOITABILITY  =  THE GAP  ×  THE SEARCH YOU CAN AFFORD",
+            fontsize=12.4, fontweight="bold", family="sans-serif", va="top", zorder=4)
+
+    base, topy = 17.6, 28.4   # floor and start height for the decay curve
+
+    # left term: fixed
+    ax.text(7.0, py1 - 5.8, "constant since 1970", fontsize=8.6, color=MUTED, va="top")
+    ax.plot([7.0, 34.0], [(base + topy) / 2, (base + topy) / 2],
+            color=OI["vermil"], lw=3.2, solid_capstyle="butt", zorder=4)
+    ax.text(7.0, base - 1.0, "the gaps", fontsize=9.2, color=OI["vermil"],
+            fontweight="bold", va="top")
+
+    # right term: collapsing, drawn as a real decay
+    ax.text(44.0, py1 - 5.8, "collapsing now", fontsize=8.6, color=MUTED, va="top")
+    n = 40
+    xs, ys = [], []
+    for i in range(n):
+        t = i / (n - 1)
+        xs.append(44.0 + t * 38.0)
+        ys.append(base + (topy - base) * math.exp(-5.2 * t))
+    ax.plot(xs, ys, color=OI["blue"], lw=3.2, solid_capstyle="round", zorder=4)
+    ax.plot([82.0, 88.5], [ys[-1], ys[-1]], color=OI["blue"], lw=3.0,
+            linestyle=(0, (3, 3)), solid_capstyle="butt", zorder=4)
+    ax.text(44.0, base - 1.0, "the cost of searching them",
+            fontsize=9.2, color=OI["blue"], fontweight="bold", va="top")
+    ax.text(89.4, ys[-1], "zero", fontsize=10.5, color=OI["blue"],
+            fontweight="bold", va="center", ha="left", family="sans-serif")
+
+    ax.text(7.0, py0 + 2.4,
+            "Lawyers. Hours. Budgets. A loophole hunt competed against a quarterly deadline, so most gaps went unsearched.",
+            fontsize=8.8, color=INK, va="center", zorder=4)
+
+    # ---- caption
+    ax.text(4.0, 7.6,
+            "Fifty years of regulatory stability rested on the second term, not the first. Reinforcement learning has now rediscovered more than sixty per cent\n"
+            "of the loopholes that real regulations had to be amended to close—while merely optimising a reward, with no instruction to look for exploits\n"
+            "(Liu et al., arXiv:2606.04075, June 2026; sandboxed, and evidence for a mechanism rather than a measurement of damage). None of that\n"
+            "benchmark's seventy-two regulatory environments is environmental. Sources and every figure: analysis/fact-ledger.md. Checked 2 August 2026.",
+            fontsize=7.9, color=MUTED, ha="left", va="top", linespacing=1.55)
 
     save(fig, "the-proxy-stack")
 
@@ -461,26 +507,28 @@ def social_hero():
     ax.plot([8, 43], [y, y], color="#E8E4DC", lw=2.0, solid_capstyle="butt")
     ax.plot([57, 92], [y, y], color=OI["orange"], lw=2.0, solid_capstyle="butt")
 
-    ax.text(8, 74, "IT HAS READ EVERYTHING WE EVER WROTE.",
-            color="#E8E4DC", fontsize=19.5, fontweight="bold", va="center",
+    ax.text(8, 74, "THE LATENCY BET",
+            color="#E8E4DC", fontsize=23.0, fontweight="bold", va="center",
             family="sans-serif")
-    ax.text(8, 63, "IT HAS NEVER READ A RIVER.",
-            color=OI["orange"], fontsize=19.5, fontweight="bold", va="center",
+    ax.text(8, 63, "ENVIRONMENTAL LAW NEVER REGULATED BEHAVIOUR.",
+            color=OI["orange"], fontsize=15.0, fontweight="bold", va="center",
             family="sans-serif")
 
     ax.text(8, 38,
-            "We taught the machines everything we ever said about the world,\n"
-            "and almost nothing about the world itself.\n"
-            "Now we are handing them the world.",
+            "It regulated behaviour at human search speed.\n"
+            "The gaps were always there. What kept them shut\n"
+            "was that finding one took a lawyer a week.",
             color="#B9B5AD", fontsize=12.4, va="top", linespacing=1.75)
 
     ax.text(8, 12, "JED ANDERSON   ·   INDEPENDENT RESEARCHER, HOUSTON, TEXAS",
             color="#6C6862", fontsize=8.6, va="center", family="sans-serif")
 
-    save(fig, "environmental-alignment-social-hero")
+    save(fig, "the-latency-bet-social-hero")
 
 
 if __name__ == "__main__":
+    # figure_2 ("it has never read a river") now belongs to the companion only;
+    # it is regenerated by running figure_2() explicitly, not on the default pass.
     figure_1()
     figure_2()
     figure_3()

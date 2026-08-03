@@ -205,8 +205,76 @@ Anything unverifiable is deleted, not softened. Each deletion, with one line of 
 
 ---
 
+## D8. EU AI Act—resolved 2026-08-02, supersedes §D7 and §I.1
+
+The Digital Omnibus deferral was flagged unconfirmed in the first pass. It is now **enacted law** and the flag is cleared.
+
+| Field | Value |
+|---|---|
+| Instrument | **Regulation (EU) 2026/1744** of 8 July 2026, amending Regulation (EU) 2024/1689 (AI Act)—"Digital Omnibus on AI" |
+| OJ publication | **OJ L, 2026/1744, 24 July 2026**—https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng |
+| In force | 27 July 2026 |
+| **Annex III stand-alone high-risk obligations** | **2 December 2027** (deferred from 2 August 2026) |
+| Annex I embedded-product high-risk | 2 August 2028 |
+| Transparency obligations | 2 August 2026 |
+| AI systems used by public authorities | 2 August 2030 |
+
+**Correction to the earlier framing.** The Commission's November 2025 proposal made the new dates *conditional* on availability of harmonised standards. The enacted text **replaced that with fixed calendar dates**. Do not describe them as conditional or provisional.
+
+**Citation correction.** The environmental-sustainability provision is **Article 95(2)(b)**, not 95(2)(a). Verbatim: codes of conduct may cover *"assessing and minimising the impact of AI systems on environmental sustainability, including as regards energy-efficient programming and techniques for the efficient design, training and use of AI."* Note it sits in a list expressly framed as "such as, but not limited to"—voluntary, non-binding, and about the systems' own footprint rather than their effects. Source: https://artificialintelligenceact.eu/article/95/
+
+**Annex III point 2, verbatim, re-confirmed:** *"AI systems intended to be used as safety components in the management and operation of critical digital infrastructure, road traffic, or in the supply of water, gas, heating or electricity."* Protected interest is continuity of supply as a safety matter, not environmental impact. No Annex III category names environmental harm, ecosystems, climate, pollution or biodiversity. The negative claim holds.
+
+**Sourcing trap recorded:** `artificialintelligenceact.eu/implementation-timeline/` was still serving the pre-Omnibus timeline when checked on 2026-08-02. Its article and annex pages are reliable; its timeline page is not. Do not cite it for dates.
+
+---
+
 ## I. Items flagged for re-verification before publication
 
-1. **EU AI Act Digital Omnibus deferral** (D7). The 2 Dec 2027 / 2 Aug 2028 dates take effect on Official Journal publication, expected but unconfirmed as of 2026-08-02. The feature's sentence about the Act must be re-read against the OJ before the piece goes live.
+1. ~~**EU AI Act Digital Omnibus deferral**~~—**RESOLVED. See §D8.** Published as Regulation (EU) 2026/1744, OJ L, 24 July 2026, in force 27 July 2026. Dates are fixed, not conditional.
 2. **Clay v1.5's 632M parameter count** (C6) reached this ledger via a repository mirror rather than the release-notes page text. Worth a direct spot-check; the figure is not load-bearing (Prithvi's documented 600M carries the 675× ratio).
 3. **AI Incident Database emptiness** (F3). Probed via search indexing, not an exhaustive dump. The feature states this as "I could not find one," which is what was actually established.
+
+---
+
+## J. Added for *The Latency Bet* (rewrite), checked 2026-08-03
+
+| # | Claim as used | Status | Source |
+|---|---|---|---|
+| J1 | Baseline actual emissions for a **non-EGU** unit = average over any consecutive 24-month period selected by the owner within the **10 years** preceding construction or a complete permit application, whichever is earlier. Existing EGUs get a **5-year** lookback. | V | 40 CFR 52.21(b)(48)(i)–(ii)—https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-52/subpart-A/section-52.21 |
+| J2 | Baseline must be **adjusted downward** to exclude emissions that would have exceeded a currently applicable limit. | V | 40 CFR 52.21(b)(48)(ii)(b) |
+| J3 | "Contemporaneous" for netting = between five years before construction and the date of the change; decreases creditable only to the extent not previously relied on. | V | 40 CFR 52.21(b)(3) |
+| J4 | Where there is a **reasonable possibility** a project could trigger review, the source must document the projection and track actual post-change emissions for 5 or 10 years. | V | 40 CFR 52.21(r)(6) |
+| J5 | **Correction applied.** A *new* emissions unit has baseline actual emissions of zero and is measured against potential to emit; the 24-month baseline applies to *existing* units under the actual-to-projected-actual test. The opening scenario was rewritten from "add a heater" to a revamp of existing units for this reason. | V | 40 CFR 52.21(b)(48)(iii) |
+| J6 | Part 75 requires an **hourly record** for each operating hour and **quarterly** electronic reporting; data are public via EPA's Clean Air Markets programme. | V | 40 CFR Part 75 subpart G; https://campd.epa.gov/—**corrects** the earlier "hourly reporting, publicly posted," which overstated the cadence of public availability. |
+| J7 | Part 75 did not end gaming; it relocated it. Enforcement history includes falsified relative accuracy testing. **Corrects** the earlier "the gaming stopped being worth it." | V | EPA CAMD enforcement record |
+| J8 | Purposive anti-circumvention rules already exist and turn on purpose rather than a number: circumvention prohibitions in the air-toxics and NSPS general provisions (40 CFR 63.4(b); 60.12); the NPDES prohibition on meeting a limit by dilution (40 CFR 122.45(h)); CWA §404(f)(2) recapture; and, in tax, codified economic substance (26 U.S.C. §7701(o)). | V | eCFR; 26 U.S.C. §7701(o)—**this falsified the earlier unqualified "irreducible gap / exactly one move" framing, which was rewritten.** |
+| J9 | The **credible evidence rule** means the reported number is not the sole basis for proving a violation. **Corrects** the earlier "the only layer an automated system ever sees." | V | 40 CFR 51.212, 52.12, 60.11, 61.12 (credible evidence revisions, 62 FR 8314, 1997) |
+| J10 | Exploitability has a **third term**: expected penalty discounted by probability of detection. Conventional remedies (staffing, penalties, permit duration) act on it. Omitting it made every alternative lose by construction. **Added to the essay.** | V (analytical) | Becker (1968) deterrence framing |
+| J11 | Optimisation pressure is a **parameter** of proxy failure, formalised with a phase transition and optimal early stopping. | V | Karwowski et al., *Goodhart's Law in Reinforcement Learning*, arXiv:2310.09144, ICLR 2024 |
+| J12 | Independently built systems fail in **correlated** ways; independence is not obtained by using multiple suppliers. | V | Knight & Leveson (1986), N-version programming experiment |
+| J13 | "Creative compliance"—using the letter of the law to defeat its spirit, as industry norm rather than deviance—is prior art and is cited by name in the essay. | V | McBarnet & Whelan, *Modern Law Review* 54(6) (1991); McBarnet, *Crime, Compliance and Control* (2004) |
+| J14 | AI discovering previously unknown legal vulnerabilities is a named risk vector in the AI-governance literature. | V | Sadler & Sherburn, *Legal Zero-Days*, arXiv:2508.10050 (12 Aug 2025) |
+| J15 | SocioHack's 61.25% recall figure is scored by an LLM judge with human agreement κ ≈ 0.55, on environments reverse-engineered **from** the patches. Stated with that caveat in the essay. | V | arXiv:2606.04075, Limitations |
+
+### J16—recorded conflict: is any SocioHack environment environmental?
+
+Science's news coverage described the 72 environments as ranging "to environmental and patent regulations," which would falsify the essay's claim. Resolved **against the news summary** on three independent grounds:
+
+1. Full-text search of arXiv:2606.04075v2 returns **zero** occurrences of *environmental*, *pollution*, *emission*, *water*, *EPA* or *climate*.
+2. The appendix domain breakdown for the 32 historical environments lists sixteen domains, none of them environmental regulation.
+3. An independent Cloud Security Alliance research note enumerates the domains as finance, healthcare, immigration, pharmaceutical patents, airline pricing, social-media governance, insurance, credit systems, bankruptcy and intellectual property.
+
+The essay's sentence is phrased to be defensible against the paper's own enumeration. Logged so the discrepancy is not a surprise if raised.
+
+### J17—deletions under Gate 1, this pass
+
+| Deleted | Reason |
+|---|---|
+| "The gaps are irreducible, therefore that leaves exactly one move." | Falsified by J8. Purposive backstops exist and work. Rewritten as a claim about throughput, with enforcement acceleration presented as a live second option. |
+| The "add a heater" opening scenario | Wrong on the rule (J5). Rewritten as a revamp of existing units. |
+| "The gaming stopped being worth it" (Part 75) | Overstated (J7). |
+| "Required hourly reporting, publicly posted" | Overstated cadence (J6). |
+| "The reported number is the only layer an automated system ever sees" | Qualified per the credible evidence rule (J9). |
+| Any unqualified claim that physical-state grading is general | Scoped to continuously measurable endpoints; habitat, biodiversity, fugitives and trace toxics excluded explicitly. |
+
