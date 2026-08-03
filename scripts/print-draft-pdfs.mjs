@@ -18,7 +18,7 @@ const shotDir = path.join(repo, 'scripts', '_draft-pdf-shots');
 fs.mkdirSync(pdfDir, { recursive: true });
 fs.mkdirSync(shotDir, { recursive: true });
 
-const slugs = ['the-latency-bet', 'environmental-safety-mode'];
+const slugs = ['the-daylight', 'environmental-safety-mode'];
 
 const browser = await chromium.launch();
 const page = await browser.newPage({ viewport: { width: 1000, height: 1400 } });

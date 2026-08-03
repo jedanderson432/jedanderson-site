@@ -26,7 +26,7 @@ OUT = os.path.join(REPO, "scripts", "_draft-pdf-html")
 os.makedirs(OUT, exist_ok=True)
 
 PIECES = [
-    ("the-latency-bet", "essays"),
+    ("the-daylight", "essays"),
     ("environmental-safety-mode", "essays"),
 ]
 

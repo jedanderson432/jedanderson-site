@@ -507,23 +507,19 @@ def social_hero():
     ax.plot([8, 43], [y, y], color="#E8E4DC", lw=2.0, solid_capstyle="butt")
     ax.plot([57, 92], [y, y], color=OI["orange"], lw=2.0, solid_capstyle="butt")
 
-    ax.text(8, 74, "THE LATENCY BET",
-            color="#E8E4DC", fontsize=23.0, fontweight="bold", va="center",
-            family="sans-serif")
-    ax.text(8, 63, "ENVIRONMENTAL LAW NEVER REGULATED BEHAVIOUR.",
-            color=OI["orange"], fontsize=15.0, fontweight="bold", va="center",
-            family="sans-serif")
+    # One line of text. Nothing else. The line is the essay.
+    ax.text(8, 60,
+            "We were never protected\nby the rules.",
+            color="#E8E4DC", fontsize=27.0, fontweight="bold", va="center",
+            linespacing=1.45)
+    ax.text(8, 34,
+            "We were protected by how slow we were.",
+            color=OI["orange"], fontsize=19.0, fontweight="bold", va="center")
 
-    ax.text(8, 38,
-            "It regulated behaviour at human search speed.\n"
-            "The gaps were always there. What kept them shut\n"
-            "was that finding one took a lawyer a week.",
-            color="#B9B5AD", fontsize=12.4, va="top", linespacing=1.75)
+    ax.text(8, 12, "THE DAYLIGHT   ·   JED ANDERSON",
+            color="#6C6862", fontsize=8.8, va="center", family="sans-serif")
 
-    ax.text(8, 12, "JED ANDERSON   ·   INDEPENDENT RESEARCHER, HOUSTON, TEXAS",
-            color="#6C6862", fontsize=8.6, va="center", family="sans-serif")
-
-    save(fig, "the-latency-bet-social-hero")
+    save(fig, "the-daylight-social-hero")
 
 
 if __name__ == "__main__":

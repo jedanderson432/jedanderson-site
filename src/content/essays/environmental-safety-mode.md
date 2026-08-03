@@ -1,12 +1,12 @@
 ---
 title: "Environmental Safety Mode: The Proxy Stack, the Interlock, and What Physical Grounding Can and Cannot Do"
 slug: "environmental-safety-mode"
-subtitle: "The technical companion to The Latency Bet. Carries the formal treatment of environmental law as a reward function, the perception gap between Earth-observation models and the systems holding authority, the three independent results behind the is/ought separation, the thermodynamic feasibility argument, and the L0–L5 specification with adversary analysis at every level."
+subtitle: "The technical companion to The Daylight. Carries the formal treatment of environmental law as a reward function, the perception gap between Earth-observation models and the systems holding authority, the three independent results behind the is/ought separation, the thermodynamic feasibility argument, and the L0–L5 specification with adversary analysis at every level."
 date: 2026-08-02
 type: essay
 status: draft
 tags: ["paper", "environmental-intelligence", "incorruptible-grader", "information-theory", "physics", "regulatory-reform"]
-abstract: "The technical companion to 'The Latency Bet.' Establishes, with sources and uncertainty bands, the energy throughput of the sectors AI is acquiring allocation authority over; gives a formal treatment of environmental regulation as a layered proxy stack and works it against the measured reward-hacking literature; separates the is-gap from the ought-gap using three independent results (the biosphere specifies no preferred state, entropy is observer-relative, and no system grounds its own objective from inside); derives the thermodynamic feasibility of environmental gating with the three leverage quantities kept strictly apart; and specifies Environmental Safety Mode L0–L5 with requirements, costs, limits, and how an adversary defeats each level."
+abstract: "The technical companion to 'The Daylight.' Establishes, with sources and uncertainty bands, the energy throughput of the sectors AI is acquiring allocation authority over; gives a formal treatment of environmental regulation as a layered proxy stack and works it against the measured reward-hacking literature; separates the is-gap from the ought-gap using three independent results (the biosphere specifies no preferred state, entropy is observer-relative, and no system grounds its own objective from inside); derives the thermodynamic feasibility of environmental gating with the three leverage quantities kept strictly apart; and specifies Environmental Safety Mode L0–L5 with requirements, costs, limits, and how an adversary defeats each level."
 license: CC-BY-4.0
 author: "Jed Anderson"
 pdf: "/pdfs/environmental-safety-mode.pdf"
@@ -21,7 +21,7 @@ keywords:
   - "Landauer's principle"
 ---
 
-*Jed Anderson, Independent Researcher, Houston, Texas. ORCID [0009-0003-1807-2459](https://orcid.org/0009-0003-1807-2459). This is the technical companion to the feature essay [The Latency Bet](/essays/the-latency-bet). The feature can be brave because this document is careful. Where the two differ in precision, this one governs.*
+*Jed Anderson, Independent Researcher, Houston, Texas. ORCID [0009-0003-1807-2459](https://orcid.org/0009-0003-1807-2459). This is the technical companion to the feature essay [The Daylight](/essays/the-daylight). The feature can be brave because this document is careful. Where the two differ in precision, this one governs.*
 
 *All external facts checked 2–3 August 2026. Claims that could not be verified were deleted rather than softened; the deletions are listed in §7.*
 
