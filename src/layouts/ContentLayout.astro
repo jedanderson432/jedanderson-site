@@ -77,6 +77,22 @@ const imageUrl = data.hero_image
   ? new URL(data.hero_image, SITE.url).toString()
   : new URL('/og-default.png', SITE.url).toString();
 
+// Full ImageObject (rather than a bare URL) so Google Images surfaces
+// "Licensable" metadata: license, acquisition page, credit, and
+// copyright all resolve without leaving the schema graph.
+const copyrightYear = new Date(datePublishedIso).getUTCFullYear();
+const imageObject = {
+  '@type': 'ImageObject',
+  url: imageUrl,
+  contentUrl: imageUrl,
+  license: licenseUrl,
+  acquireLicensePage: canonicalUrl,
+  creditText: 'Jed Anderson',
+  copyrightNotice: `© ${copyrightYear} Jed Anderson`,
+  creator: { '@id': JED_ID },
+  copyrightHolder: { '@id': JED_ID },
+};
+
 const pdfAbsoluteUrl = data.pdf ? new URL(data.pdf, SITE.url).toString() : null;
 
 // MediaObject array exposes the alternate retrieval surfaces for AI
@@ -128,7 +144,7 @@ if (useScholarlyArticle) {
     url: canonicalUrl,
     mainEntityOfPage: canonicalUrl,
     citation: canonicalUrl,
-    image: imageUrl,
+    image: imageObject,
     // DOI as a typed PropertyValue so scholarly-graph systems parse it
     // as a DOI rather than an opaque URL; the canonical URL rides
     // alongside as the plain identifier.
@@ -178,7 +194,7 @@ if (useScholarlyArticle) {
     url: canonicalUrl,
     mainEntityOfPage: canonicalUrl,
     citation: canonicalUrl,
-    image: imageUrl,
+    image: imageObject,
     encoding: encodingArr,
     inLanguage: 'en',
     isAccessibleForFree: true,
@@ -208,7 +224,7 @@ if (useScholarlyArticle) {
     url: canonicalUrl,
     mainEntityOfPage: canonicalUrl,
     citation: canonicalUrl,
-    image: imageUrl,
+    image: imageObject,
     encoding: encodingArr,
     inLanguage: 'en',
     isAccessibleForFree: true,
