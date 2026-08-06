@@ -4,7 +4,7 @@ slug: "missing-chapter-of-ai-safety"
 subtitle: "I went looking for a river in the rulebook the largest AI companies wrote for their own machines. This is the report on what was not there."
 date: 2026-08-05
 type: essay
-status: draft
+status: published
 tags: ["incorruptible-grader", "environmental-intelligence", "boundary-dominance", "regulatory-reform", "monitoring", "accessible"]
 abstract: "A verbatim term search of the five documents that govern frontier AI—OpenAI's Model Spec, Anthropic's Constitution, DeepMind's Frontier Safety Framework, Meta's Frontier AI Framework, and the EU AI Act—returns zero hits for watershed, aquifer, groundwater, wetland, habitat, emissions, conservation of mass, and conservation of energy. Argues that this is not an oversight but an unopened category, and sketches what an environmentally grounded system would commit to: disclosure rather than refusal, hard constraints drawn only from conservation laws, grounding in live measurement rather than recollection, and an auditable log."
 license: CC-BY-4.0
