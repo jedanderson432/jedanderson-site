@@ -9,6 +9,7 @@ tags: ["information-theory", "thermodynamics", "physics", "artificial-energy", "
 abstract: "John von Neumann's 1948 instruction to Shannon—call your information measure entropy—was a statement of mathematical identity, not convenience: Boltzmann's thermodynamic entropy and Shannon's information entropy are the same function. This essay traces that identity through Jaynes, Maxwell's Demon, and the Landauer limit to a single number fixed by fundamental constants: at 298 K, erasing one bit costs about 0.0178 eV, while a single carbon–hydrogen bond holds roughly 240 times as much. The gap between the cost of knowing and the cost of moving matter is written into the electromagnetic structure of the universe."
 license: CC-BY-4.0
 pdf: "/pdfs/why-von-neumann-was-right.pdf"
+pdf_pages: 11
 hero_image: "/images/why-von-neumann-was-right-hero.jpg"
 hero_image_alt: "Cover of Why von Neumann Was Right: Shannon Entropy, Boltzmann Entropy, and the One Formula Underneath Both, by Jed Anderson, 2026."
 ---
