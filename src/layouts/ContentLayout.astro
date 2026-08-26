@@ -2,7 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import CiteThis from '../components/CiteThis.astro';
 import { getCollection } from 'astro:content';
-import { SITE, TYPE_LABELS } from '../site-config';
+import { SITE, TYPE_LABELS, COLLECTIONS } from '../site-config';
 import { canonicalFor, canonicalPath } from '../lib/canonical';
 import { JED_ID, WEBSITE_ID, GLOSSARY_ID, corpusGlossarySchema } from '../lib/site-entities';
 
@@ -21,22 +21,41 @@ const githubUrl = `${SITE.github}/blob/main/src/content/${entry.collection}/${en
 const h2s = headings.filter((h) => h.depth === 2);
 const showAbstract = data.status !== 'published' || data.show_abstract_on_page;
 
-// Resolve related_essay path → display title via collection lookup. The
-// path is expected as /{collection}/{slug}; falls back to the raw path
-// if the entry can't be found.
+// Resolve related_essay → an absolute href plus a display title.
+//
+// The field is authored two ways across the corpus: as a bare slug
+// ("bits-protect-its") and as a rooted path ("/essays/intelligence-leverage-equation").
+// A bare slug used to be emitted as the href verbatim, which the browser
+// resolved *relative to the current essay* — /essays/a/b — a guaranteed
+// 404. Both forms are now normalised to /{collection}/{slug} from the
+// site root, and a bare slug is looked up across every collection so the
+// href and the title come from the entry that actually exists.
 let relatedTitle: string | null = null;
+let relatedHref: string | null = null;
 if (data.related_essay) {
-  const m = (data.related_essay as string).match(/^\/([^\/]+)\/([^\/]+)$/);
-  if (m) {
-    const [_, collection, slug] = m;
+  const raw = (data.related_essay as string).trim().replace(/\/+$/, '');
+  const m = raw.match(/^\/([^\/]+)\/([^\/]+)$/);
+  // Rooted path pins the collection; a bare slug searches all of them,
+  // essays first so the common case resolves on the first lookup.
+  const candidates: string[] = m ? [m[1]] : [...COLLECTIONS];
+  const wanted = m ? m[2] : raw.replace(/^\//, '');
+  for (const collection of candidates) {
     try {
       const all = await getCollection(collection as any);
-      const ref = all.find((e: any) => e.slug === slug);
-      if (ref) relatedTitle = ref.data.title;
+      const ref = all.find((e: any) => e.slug === wanted);
+      if (ref) {
+        relatedTitle = ref.data.title;
+        relatedHref = `/${collection}/${wanted}`;
+        break;
+      }
     } catch {
-      // unknown collection — leave title null and render the URL
+      // unknown collection name — keep looking
     }
   }
+  // Unresolvable reference: still emit a root-absolute href rather than a
+  // relative one, so a stale slug 404s at its own URL instead of nesting
+  // under the current essay.
+  if (!relatedHref) relatedHref = m ? raw : `/essays/${wanted}`;
 }
 const longFmt = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
@@ -389,7 +408,7 @@ if (data.defined_term) {
     {data.related_essay && (
       <p class="text-sm text-muted mt-12">
         Related:{' '}
-        <a href={data.related_essay} class="underline hover:text-accent">
+        <a href={relatedHref} class="underline hover:text-accent">
           {relatedTitle ?? data.related_essay}
         </a>
       </p>
@@ -462,7 +481,7 @@ if (data.defined_term) {
       }
       {
         data.pdf && (
-          <p>
+          <p data-pdf-action>
             <a href={data.pdf} class="underline hover:text-ink">Download PDF</a>
           </p>
         )
@@ -521,5 +540,145 @@ if (data.defined_term) {
      any future sticky header. */
   article .prose h2 {
     scroll-margin-top: 6rem;
+  }
+
+  /* ---------------------------------------------------------------
+     Reusable figure blocks.
+
+     Source documents that arrive as designed HTML carry structures the
+     markdown conversion would otherwise flatten into plain quotes and
+     lists. These three classes give that structure somewhere to land,
+     so any essay can reuse them: mark the block up semantically in the
+     body and it picks these up. Selectors are scoped to article .prose
+     to outrank the typography plugin's :where() defaults.
+     --------------------------------------------------------------- */
+
+  /* .stat-callout — a single figure with its supporting sentence.
+     Large numeral, sentence beneath, accent rule at the left edge. */
+  article .prose .stat-callout {
+    margin: 2.75rem 0;
+    padding: 0.25rem 0 0.25rem 1.5rem;
+    border-left: 3px solid #7a5a3a;
+  }
+  article .prose .stat-callout .stat-value {
+    display: block;
+    margin: 0 0 0.35rem;
+    font-size: clamp(2.5rem, 7vw, 3.5rem);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    color: #7a5a3a;
+    font-variant-numeric: tabular-nums;
+  }
+  article .prose .stat-callout p:last-child {
+    margin: 0;
+    max-width: 34em;
+    color: #6b6b6b;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  /* .ladder — an ordered progression rendered as a stepped sequence:
+     numbered nodes strung on a vertical rail, each rung's label on its
+     own line above the gloss. Still an <ol>; only the presentation
+     changes. */
+  article .prose ol.ladder {
+    position: relative;
+    counter-reset: ladder;
+    list-style: none;
+    margin: 2.75rem 0;
+    padding: 0 0 0 2.5rem;
+  }
+  article .prose ol.ladder::before {
+    content: '';
+    position: absolute;
+    left: 0.6875rem;
+    top: 0.6rem;
+    bottom: 0.9rem;
+    width: 1px;
+    background: #e6e3da;
+  }
+  article .prose ol.ladder > li {
+    counter-increment: ladder;
+    position: relative;
+    margin: 0 0 1.6rem;
+    padding: 0;
+  }
+  article .prose ol.ladder > li:last-child {
+    margin-bottom: 0;
+  }
+  article .prose ol.ladder > li::before {
+    content: counter(ladder);
+    position: absolute;
+    left: -2.5rem;
+    top: 0.1rem;
+    width: 1.375rem;
+    height: 1.375rem;
+    border-radius: 50%;
+    background: #fbfaf6;
+    border: 1px solid #7a5a3a;
+    color: #7a5a3a;
+    font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+    font-size: 0.7rem;
+    line-height: 1.3125rem;
+    text-align: center;
+  }
+  article .prose ol.ladder > li > strong:first-child {
+    display: block;
+    color: #1a1a1a;
+  }
+
+  /* .triptych — three parallel blocks that argue as a set. Three columns
+     on desktop, stacked on mobile, each opening with a hairline rule so
+     the grouping reads even when stacked. */
+  article .prose .triptych {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin: 2.75rem 0;
+  }
+  @media (min-width: 768px) {
+    article .prose .triptych {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2.5rem;
+    }
+  }
+  article .prose .triptych > * {
+    padding-top: 1rem;
+    border-top: 2px solid #7a5a3a;
+  }
+  article .prose .triptych h3 {
+    margin: 0 0 0.6rem;
+    font-size: 1.15rem;
+    line-height: 1.25;
+  }
+  article .prose .triptych p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+  article .prose .triptych .label {
+    margin: 0 0 0.4rem;
+    font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+  }
+
+  /* Inline figures carried over from a designed source. */
+  article .prose figure {
+    margin: 2.75rem 0;
+  }
+  article .prose figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+  article .prose figure figcaption {
+    margin-top: 0.75rem;
+    color: #6b6b6b;
+    font-size: 0.875rem;
+    line-height: 1.55;
   }
 </style>
