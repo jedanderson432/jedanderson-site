@@ -3,6 +3,7 @@ title: "The Compute We Owe the Earth"
 slug: "compute-we-owe-the-earth"
 subtitle: "Why the case against data centers is thermodynamically backwards, and why building more of them, faster, is the most pro-life act available to this species"
 date: 2026-06-14
+date_modified: 2026-06-14
 type: essay
 status: published
 tags: ["enviroai", "environmental-superintelligence", "causal-sovereignty", "cosmic-ledger", "information-theory", "physics"]

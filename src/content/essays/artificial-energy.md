@@ -3,6 +3,7 @@ title: "Artificial Energy"
 subtitle: "The Next Civilizational Technology Layer"
 slug: "artificial-energy"
 date: 2026-05-28
+date_modified: 2026-05-29
 type: essay
 status: published
 tags: ["physics", "thermodynamics", "information-theory", "landauer", "causal-sovereignty", "artificial-energy"]

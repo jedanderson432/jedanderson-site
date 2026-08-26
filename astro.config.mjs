@@ -5,6 +5,7 @@ import mdx from '@astrojs/mdx';
 import remarkCustomHeadingId from 'remark-custom-heading-id';
 import { validateSlugs } from './scripts/validate-slugs.mjs';
 import { validateClaimsJson } from './scripts/extract-claims.mjs';
+import { validateRevisionHistory } from './scripts/validate-revision-history.mjs';
 import { indexNow } from './scripts/indexnow.mjs';
 import { buildLastmodMap } from './scripts/sitemap-lastmod.mjs';
 
@@ -30,6 +31,13 @@ function slugValidator() {
         try {
           await validateClaimsJson();
           logger.info('Claims dataset validation passed.');
+        } catch (err) {
+          logger.error(err.message);
+          throw err;
+        }
+        try {
+          await validateRevisionHistory();
+          logger.info('Revision-history validation passed.');
         } catch (err) {
           logger.error(err.message);
           throw err;

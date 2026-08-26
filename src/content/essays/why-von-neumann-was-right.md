@@ -3,6 +3,7 @@ title: "Why von Neumann Was Right"
 slug: "why-von-neumann-was-right"
 subtitle: "Shannon Entropy, Boltzmann Entropy, and the One Formula Underneath Both"
 date: 2026-06-07
+date_modified: 2026-07-26
 type: essay
 status: published
 tags: ["information-theory", "thermodynamics", "physics", "artificial-energy", "landauer", "causal-sovereignty"]
@@ -11,7 +12,7 @@ license: CC-BY-4.0
 pdf: "/pdfs/why-von-neumann-was-right.pdf"
 pdf_pages: 11
 hero_image: "/images/why-von-neumann-was-right-hero.jpg"
-hero_image_alt: "Cover of Why von Neumann Was Right: Shannon Entropy, Boltzmann Entropy, and the One Formula Underneath Both, by Jed Anderson, 2026."
+hero_image_alt: "Cover for Why von Neumann Was Right: the essay title set in serif type on a pale ground inside a hairline frame."
 ---
 
 *John von Neumann's instruction to Claude Shannon in 1948—to call his information measure entropy—was not a naming convenience. It was a statement of mathematical identity. Boltzmann's thermodynamic entropy and Shannon's information entropy are the same function, counting the same object: the logarithm of the distinguishable configurations compatible with what is known. This essay traces that identity—through Jaynes, Maxwell's Demon, and the Landauer limit—to a single number fixed by the constants of physics. At room temperature, erasing one bit costs about 0.0178 eV. A single chemical bond holds roughly 240 times as much. The gap between the cost of knowing and the cost of moving matter is not an engineering accident. It is written into the structure of matter.*
