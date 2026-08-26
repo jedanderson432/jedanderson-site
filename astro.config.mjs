@@ -6,6 +6,7 @@ import remarkCustomHeadingId from 'remark-custom-heading-id';
 import { validateSlugs } from './scripts/validate-slugs.mjs';
 import { validateClaimsJson } from './scripts/extract-claims.mjs';
 import { validateRevisionHistory } from './scripts/validate-revision-history.mjs';
+import { validateAssets } from './scripts/validate-assets.mjs';
 import { indexNow } from './scripts/indexnow.mjs';
 import { buildLastmodMap } from './scripts/sitemap-lastmod.mjs';
 
@@ -38,6 +39,13 @@ function slugValidator() {
         try {
           await validateRevisionHistory();
           logger.info('Revision-history validation passed.');
+        } catch (err) {
+          logger.error(err.message);
+          throw err;
+        }
+        try {
+          const { files, refs } = await validateAssets();
+          logger.info(`Asset validation passed (${refs} refs across ${files} files).`);
         } catch (err) {
           logger.error(err.message);
           throw err;
