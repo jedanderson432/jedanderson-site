@@ -133,6 +133,13 @@ const jsonLdGraph = {
       display: none !important;
     }
 
+    /* The provenance block's "Download PDF" link is self-referential once
+       the page IS the PDF. The licence and source URLs stay, so a printed
+       copy still says where it came from. */
+    [data-pdf-action] {
+      display: none !important;
+    }
+
     /* Interactive / navigational widgets on content pages.
        - <details> covers the CiteThis collapsible.
        - The Sections nav is the in-page TOC.
@@ -192,6 +199,44 @@ const jsonLdGraph = {
     a[href^="/"]::after,
     a:has(> img)::after {
       content: "" !important;
+    }
+
+    /* Reusable figure blocks (.stat-callout / .ladder / .triptych) keep
+       their structure on paper: rules go black, the triptych collapses
+       to a single column so each block gets full measure, and no block
+       is allowed to break across a page. */
+    article .stat-callout,
+    article ol.ladder > li,
+    article .triptych > * {
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+    article .stat-callout {
+      border-left-color: #000 !important;
+    }
+    article .stat-callout .stat-value {
+      color: #000 !important;
+    }
+    article ol.ladder > li::before {
+      background: #fff !important;
+      border-color: #000 !important;
+      color: #000 !important;
+    }
+    /* Screen greys are too light for paper: darken the callout's
+       supporting sentence, the ladder rail, and the triptych labels. */
+    article .stat-callout p:last-child,
+    article .triptych .label {
+      color: #333 !important;
+    }
+    article ol.ladder::before {
+      background: #999 !important;
+    }
+    article .triptych {
+      grid-template-columns: 1fr !important;
+      gap: 1.5rem !important;
+    }
+    article .triptych > * {
+      border-top-color: #000 !important;
     }
 
     /* Body links: black + underlined, except image-wrapping links. */

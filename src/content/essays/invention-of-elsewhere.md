@@ -9,7 +9,7 @@ tags: ["information-theory", "causal-sovereignty", "environmental-intelligence",
 abstract: "Every new communication substrate—chemistry, nerves, speech, writing, networks—expands the distance across which information can change matter, and each expansion has made a larger scale of coordinated life possible. The argument here is that AI is the next such substrate, that a planet with sensors and archives but no reflex arc between them is the unfinished case, and that connection alone yields a network rather than a self: integration is a governance achievement, not an evolutionary destiny."
 license: CC-BY-4.0
 pdf: "/pdfs/invention-of-elsewhere.pdf"
-pdf_pages: 16
+pdf_pages: 17
 related_essay: "who-closes-the-environmental-protection-loop"
 ---
 
@@ -77,17 +77,22 @@ A larger self is not an erasure of parts. It emerges when differentiated parts b
 
 The new channel does not erase the parts; it changes the radius within which their differences can become coordinated action.
 
-> **4×.** If distance doubles, the characteristic time for ordinary diffusion increases roughly fourfold.
+<aside class="stat-callout">
+  <p class="stat-value">4×</p>
+  <p>If distance doubles, the characteristic time for ordinary diffusion increases roughly fourfold.</p>
+</aside>
 
 ## How far can “I’m hurt” travel?
 
 The history is not simply that messages traveled farther. It is that more distant conditions became capable of changing what a system did next.
 
-1. **Cell, micrometres.** Chemistry carries local state across a living boundary.
-2. **Body, metres.** Nerves make distant tissues part of one response.
-3. **Community, kilometres.** Voice and language move urgency between minds.
-4. **Civilization, centuries.** Writing allows a signal to cross a lifetime.
-5. **Biosphere, planetary.** Sensors, models, institutions, and bounded machine action could connect harm to timely response.
+<ol class="ladder">
+  <li><strong>Cell, micrometres.</strong> Chemistry carries local state across a living boundary.</li>
+  <li><strong>Body, metres.</strong> Nerves make distant tissues part of one response.</li>
+  <li><strong>Community, kilometres.</strong> Voice and language move urgency between minds.</li>
+  <li><strong>Civilization, centuries.</strong> Writing allows a signal to cross a lifetime.</li>
+  <li><strong>Biosphere, planetary.</strong> Sensors, models, institutions, and bounded machine action could connect harm to timely response.</li>
+</ol>
 
 ## When minds became cumulative
 
@@ -131,11 +136,13 @@ The result is a civilization with extraordinary senses but fragmented attention,
 
 Protection exists only when observation can pass through understanding and authority into timely action.
 
-1. **Sense.** What changed?
-2. **Understand.** What does it mean?
-3. **Decide.** What is permitted?
-4. **Act.** What can still help?
-5. **Learn.** Did it work?
+<ol class="ladder">
+  <li><strong>Sense.</strong> What changed?</li>
+  <li><strong>Understand.</strong> What does it mean?</li>
+  <li><strong>Decide.</strong> What is permitted?</li>
+  <li><strong>Act.</strong> What can still help?</li>
+  <li><strong>Learn.</strong> Did it work?</li>
+</ol>
 
 ## AI and the new substrate
 
@@ -153,7 +160,10 @@ A larger system, if it is built, will not live inside a data center. It will con
 
 AI is neither the larger self nor its author. At most, it is a candidate for connective tissue: a substrate that may let observations, models, and bounded actions interact at a new speed and scale. Whether that connective tissue serves care or extraction depends on choices made outside the model—in law, institutions, public legitimacy, material design, and the purposes people choose to encode.
 
-> **\<1 min.** Time reported for GraphCast to produce a 10-day global forecast on one Google TPU v4.
+<aside class="stat-callout">
+  <p class="stat-value">&lt;1 min</p>
+  <p>Time reported for GraphCast to produce a 10-day global forecast on one Google TPU v4.</p>
+</aside>
 
 ## A network is not a self
 
@@ -175,17 +185,23 @@ A biosphere-connected intelligence would need a constitutional architecture, not
 
 ## Humans set the boundary. Machines close the bounded loop.
 
-### Goals and limits
-
-**Human authority.** Set the public purpose, recognize who has standing, define evidence thresholds, protect rights, and prohibit actions that must never be delegated.
-
-### Reversible response
-
-**Machine speed.** Detect, verify, alert, pause, divert, and escalate using the least harmful action allowed by preauthorized, time-limited thresholds.
-
-### Correction and recourse
-
-**Shared accountability.** Preserve independent evidence, uncertainty, audit trails, monitoring, human override, affected-community voice, and the right to challenge or stop the system.
+<div class="triptych">
+  <section>
+    <p class="label">Human authority</p>
+    <h3>Goals and limits</h3>
+    <p>Set the public purpose, recognize who has standing, define evidence thresholds, protect rights, and prohibit actions that must never be delegated.</p>
+  </section>
+  <section>
+    <p class="label">Machine speed</p>
+    <h3>Reversible response</h3>
+    <p>Detect, verify, alert, pause, divert, and escalate using the least harmful action allowed by preauthorized, time-limited thresholds.</p>
+  </section>
+  <section>
+    <p class="label">Shared accountability</p>
+    <h3>Correction and recourse</h3>
+    <p>Preserve independent evidence, uncertainty, audit trails, monitoring, human override, affected-community voice, and the right to challenge or stop the system.</p>
+  </section>
+</div>
 
 ## What must remain human
 
