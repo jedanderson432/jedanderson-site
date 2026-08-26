@@ -10,7 +10,11 @@ abstract: "Every new communication substrate—chemistry, nerves, speech, writin
 license: CC-BY-4.0
 pdf: "/pdfs/invention-of-elsewhere.pdf"
 pdf_pages: 17
-related_essay: "who-closes-the-environmental-protection-loop"
+related_essay: "/essays/who-closes-the-environmental-protection-loop"
+hero_image: "/images/invention-of-elsewhere-hero.jpg"
+hero_image_alt: "A continuous signal moves from a cell through a neuron, a human writer, communications infrastructure, and the living Earth."
+interactive_url: "/visual-essays/invention-of-elsewhere/"
+interactive_cta: "Cross the distance →"
 ---
 
 ## A larger self begins when a signal can cross the distance.
