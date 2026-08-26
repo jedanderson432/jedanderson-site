@@ -197,6 +197,7 @@ const jsonLdGraph = {
        and links that wrap an image (the appendix would crowd the image). */
     a[href^="#"]::after,
     a[href^="/"]::after,
+    a[data-internal-link]::after,
     a:has(> img)::after {
       content: "" !important;
     }

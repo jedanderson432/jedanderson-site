@@ -30,6 +30,16 @@ if (!fs.existsSync(path.join(dist, collection, slug, 'index.html'))) {
   process.exit(1);
 }
 
+// Canonical origin, read from src/site-config.ts so this script and the site
+// cannot drift apart.
+const siteConfig = fs.readFileSync(path.join(repo, 'src', 'site-config.ts'), 'utf-8');
+const originMatch = siteConfig.match(/url:\s*['"`](https?:\/\/[^'"`]+)['"`]/);
+if (!originMatch) {
+  console.error('could not read SITE.url from src/site-config.ts');
+  process.exit(1);
+}
+const SITE_ORIGIN = originMatch[1].replace(/\/+$/, '');
+
 const MIME = {
   '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8',
   '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8',
@@ -70,6 +80,22 @@ await page.evaluate(() => Promise.all(
   [...document.images].filter((i) => !i.complete).map((i) => i.decode().catch(() => {}))
 ));
 
+// Chromium resolves hrefs against the page's own origin when it writes PDF
+// link annotations, so a root-relative href like /essays/foo becomes
+// http://127.0.0.1:<ephemeral-port>/essays/foo — dead the moment the render
+// server exits. Rewrite internal links to the canonical origin first, and
+// mark them so the print stylesheet keeps suppressing the URL appendix (an
+// internal link is now http-scheme, which would otherwise match the rule
+// that prints external URLs inline).
+const rewritten = await page.evaluate((origin) => {
+  const links = [...document.querySelectorAll('a[href^="/"]')];
+  for (const a of links) {
+    a.setAttribute('data-internal-link', '');
+    a.setAttribute('href', origin + a.getAttribute('href'));
+  }
+  return links.length;
+}, SITE_ORIGIN);
+
 const out = path.join(repo, 'public', 'pdfs', `${slug}.pdf`);
 await page.pdf({
   path: out,
@@ -83,5 +109,8 @@ await page.pdf({
 
 await browser.close();
 server.close();
-console.log(JSON.stringify({ slug, out: path.relative(repo, out), bytes: fs.statSync(out).size }));
+console.log(JSON.stringify({
+  slug, out: path.relative(repo, out),
+  bytes: fs.statSync(out).size, internalLinksRewritten: rewritten,
+}));
 process.exit(0);
