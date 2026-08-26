@@ -3,6 +3,7 @@ title: "A Walk You've Never Taken"
 slug: "walk-youve-never-taken"
 subtitle: "Twelve things actually happening to you right now"
 date: 2026-05-12
+date_modified: 2026-05-24
 type: essay
 status: published
 tags: ["visual-essay", "physics", "bond-bit-asymmetry", "accessible", "enviroai", "on-ramp"]
