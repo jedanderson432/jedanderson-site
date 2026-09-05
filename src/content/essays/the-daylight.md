@@ -2,16 +2,18 @@
 title: "The Daylight"
 slug: "the-daylight"
 subtitle: "Environmental law only ever worked because breaking it was expensive. It just got cheap."
-date: 2026-08-03
+date: 2026-09-05
+original_date: 2026-08-03
 type: essay
-status: draft
+status: published
 tags: ["regulatory-reform", "environmental-intelligence", "monitoring", "clean-air-act", "accessible"]
 abstract: "Every environmental law is a number standing in for something we care about. We care about a river a child can swim in; we cannot write swimmable into a statute, so we write a number instead. The space between the number and the thing cannot be closed, because a rule without a number cannot be enforced. For fifty years that did not matter much, because finding the space took a specialist, months, and money. A working environmental lawyer of twenty-seven years on what happens now that it takes an afternoon, and why the answer is to stop grading the paperwork and start grading the river."
 license: CC-BY-4.0
 author: "Jed Anderson"
-hero_image: "/images/the-daylight-social-hero.png"
-hero_image_alt: "Near-black title card. One line of cream text reads: We were never protected by the rules. We were protected by how slow we were."
+hero_image: "/images/the-daylight-hero.jpg"
+hero_image_alt: "Night scene. On the left, a dark wall of fine regulatory text; on the right, a river under a dawn sky with a low ridge and treeline. A thin vertical blade of daylight cuts down between them and lands on the water in a long gold reflection. Title: The Daylight. Lines: We were never protected by the rules. We were protected by how slow we were."
 pdf: "/pdfs/the-daylight.pdf"
+related_essay: "/essays/environmental-safety-mode"
 show_abstract_on_page: true
 ---
 
@@ -139,4 +141,4 @@ We spent fifty years writing rules against an opponent who had to sleep.
 
 ---
 
-*Sources. The forty-hours-to-four figure comes from my own practice. The simulation study is Liu and colleagues, "Large Language Models Hack Rewards, and Society," June 2026; the environments were sealed test versions rather than live regulations, and the authors are careful to call the result evidence that something can happen rather than a measure of damage done. I read it the same way. The search of the five companies' published values documents was run over their full texts on 2 August 2026. Hourly stack monitoring has been required since 1993 under the federal rule known as Part 75, which now covers roughly ninety-six per cent of American coal- and gas-fired generation. The Clean Air Act redraft and* A Victorious Defeat *date from 2016. Every figure here is recorded in an open ledger kept alongside this essay. The engineering — what the instruments would have to measure, what it would cost, and the ways it could be defeated — is set out in a [technical companion](/essays/environmental-safety-mode).*
+*Sources. The forty-hours-to-four figure comes from my own practice. The simulation study is Liu and colleagues, "Large Language Models Hack Rewards, and Society," June 2026; the environments were sealed test versions rather than live regulations, and the authors are careful to call the result evidence that something can happen rather than a measure of damage done. I read it the same way. The search of the five companies' published values documents was run over their full texts on 2 August 2026. Hourly stack monitoring has been required since 1993 under the federal rule known as Part 75, which now covers roughly ninety-six per cent of American coal- and gas-fired generation. The Clean Air Act redraft and* A Victorious Defeat *date from 2016. Every figure here is recorded in [an open ledger kept alongside this essay](https://github.com/jedanderson432/jedanderson-site/blob/main/analysis/fact-ledger.md). The engineering — what the instruments would have to measure, what it would cost, and the ways it could be defeated — is set out in a [technical companion](/essays/environmental-safety-mode).*
