@@ -2,14 +2,18 @@
 title: "Environmental Safety Mode: The Proxy Stack, the Interlock, and What Physical Grounding Can and Cannot Do"
 slug: "environmental-safety-mode"
 subtitle: "The technical companion to The Daylight. Carries the formal treatment of environmental law as a reward function, the perception gap between Earth-observation models and the systems holding authority, the three independent results behind the is/ought separation, the thermodynamic feasibility argument, and the L0–L5 specification with adversary analysis at every level."
-date: 2026-08-02
+date: 2026-09-05
+original_date: 2026-08-02
 type: essay
-status: draft
+status: published
 tags: ["paper", "environmental-intelligence", "incorruptible-grader", "information-theory", "physics", "regulatory-reform"]
 abstract: "The technical companion to 'The Daylight.' Establishes, with sources and uncertainty bands, the energy throughput of the sectors AI is acquiring allocation authority over; gives a formal treatment of environmental regulation as a layered proxy stack and works it against the measured reward-hacking literature; separates the is-gap from the ought-gap using three independent results (the biosphere specifies no preferred state, entropy is observer-relative, and no system grounds its own objective from inside); derives the thermodynamic feasibility of environmental gating with the three leverage quantities kept strictly apart; and specifies Environmental Safety Mode L0–L5 with requirements, costs, limits, and how an adversary defeats each level."
 license: CC-BY-4.0
 author: "Jed Anderson"
 pdf: "/pdfs/environmental-safety-mode.pdf"
+related_essay: "/essays/the-daylight"
+hero_image: "/images/environmental-safety-mode-hero.png"
+hero_image_alt: "Dark forest floor at night. A glowing green shield split down the middle, a fern frond on the left half and circuit traces with chips on the right. Beside it the title Environmental Safety Mode and the line Protecting AI from doing environmental harm. Below the shield, a toggle switch set to ON."
 schema_type: ScholarlyArticle
 show_abstract_on_page: true
 keywords:
@@ -219,7 +223,7 @@ The physics says environmental gating is **not required to be expensive**. It do
 
 ## 5. Environmental Safety Mode: L0–L5
 
-The full specification, including cross-cutting conformance requirements, the conformance-statement template, and falsifiers, is maintained as a standalone document so that it can propagate without either essay: **`analysis/ESM-spec.md`** in this repository. What follows is the summary table and the adversary analysis, which is the part most likely to be skipped and least safe to skip.
+The full specification, including cross-cutting conformance requirements, the conformance-statement template, and falsifiers, is maintained as a standalone document so that it can propagate without either essay: **[`analysis/ESM-spec.md`](https://github.com/jedanderson432/jedanderson-site/blob/main/analysis/ESM-spec.md)** in this repository. What follows is the summary table and the adversary analysis, which is the part most likely to be skipped and least safe to skip.
 
 **Prior art, acknowledged.** The ladder's structure is borrowed deliberately from IEC 61511 / ISA-84 safety integrity levels, from ISA-18.2 alarm management, and from the levels-of-automation genre (SAE J3016). The shape of the ladder is not a contribution. Its application to environmental criteria in general-purpose AI systems is what did not previously exist.
 
@@ -248,7 +252,7 @@ Stated plainly, because a contribution that overstates itself is worth less than
 
 First, **the treatment of environmental regulation as a layered proxy stack and therefore as a reward function with a characterised gap structure**—including the specific claim that the gap is densest at the measurement layer, that it is constitutive rather than abusive, and that fifty years of enforcement litigation constitutes an adversarial survey of it. I have not found this analysis in either the AI-safety or the environmental-law literature.
 
-Second, **the cross-literature identification**—the observation that the AI-safety community's specification-gaming problem and the environmental profession's compliance-versus-intent problem are the same problem, that each field has half the solution (one has the interlock discipline, the other has the adjudicated values corpus), and that neither field currently reads the other. The audit in §D of the fact ledger—five frontier labs' values documents searched in full text, with a near-clean null on every ecological term—is, as far as I know, the first time that has been done and reported.
+Second, **the cross-literature identification**—the observation that the AI-safety community's specification-gaming problem and the environmental profession's compliance-versus-intent problem are the same problem, that each field has half the solution (one has the interlock discipline, the other has the adjudicated values corpus), and that neither field currently reads the other. The audit in §D of the [fact ledger](https://github.com/jedanderson432/jedanderson-site/blob/main/analysis/fact-ledger.md)—five frontier labs' values documents searched in full text, with a near-clean null on every ecological term—is, as far as I know, the first time that has been done and reported.
 
 Everything else in this document is assembly.
 
@@ -258,7 +262,7 @@ Everything else in this document is assembly.
 
 **Deleted rather than softened.** A single clean multiple for governed-versus-governor throughput (sector boundaries overlap; no defensible number exists). The claim that Earth-observation models are not wired into agentic systems at all (false since April 2025; narrowed to the operational-authority claim). Specific recall figures from the chain-of-thought monitoring paper (in the paper body, not re-verified this pass). A regulated-entity count of 834,000 for TCEQ (unsupported; the agency's own figure is ~460,000). An inspection frequency of once per facility per eight years (no source in any EPA, OIG or state document; replaced with the documented Compliance Monitoring Strategy goals and the OIG's finding that even statutory frequencies go unmet). A monitoring cadence of "thirty million times a year" (no source; replaced with the verifiable 8,760 hourly records per parameter per year required under 40 CFR Part 75).
 
-**Disclosures.** The author has spent twenty-seven years in environmental law and has built and sold environmental AI systems. The systems he has built sit at L1 on the ladder specified here, and the essay says so. An argument concluding that the world needs better environmental AI, made by someone whose career is environmental AI, should be discounted accordingly by the reader; the appropriate discount is not zero. Every factual claim in both documents is sourced in the accompanying fact ledger precisely so that the argument can be checked without trusting the arguer.
+**Disclosures.** The author has spent twenty-seven years in environmental law and has built and sold environmental AI systems. The systems he has built sit at L1 on the ladder specified here, and the essay says so. An argument concluding that the world needs better environmental AI, made by someone whose career is environmental AI, should be discounted accordingly by the reader; the appropriate discount is not zero. Every factual claim in both documents is sourced in the accompanying [fact ledger](https://github.com/jedanderson432/jedanderson-site/blob/main/analysis/fact-ledger.md) precisely so that the argument can be checked without trusting the arguer.
 
 **Open items requiring re-verification before formal publication.** The EU AI Act's Digital Omnibus deferral of Annex III high-risk obligations to December 2027 takes effect on Official Journal publication, expected but unconfirmed as of the check date. Clay v1.5's 632M parameter count was obtained via a repository mirror rather than the primary release notes. The emptiness of the AI Incident Database's environmental category was established by search-engine probing rather than an exhaustive dump, and is stated in the feature as "I could not find one" rather than as "none exists."
 
