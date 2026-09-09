@@ -9,8 +9,8 @@ tags: ["paper", "monitoring", "environmental-intelligence", "regulatory-reform",
 abstract: "An inventory of 18 simulation models in routine use for United States permitting finds a median governing-formulation year of 1984, a median structural age of 42 years, and none that ingest observations while running. Decomposing the error of a regulatory prediction into physics, source parameters, and input freshness shows the physics term carries at most 12 percent of total error variance, so halving it removes 3 percent of total error while halving the parameter error removes 29 percent, implying a safety multiplier of about 9.2 under present practice that falls to 1.47 once the terms are measured away."
 license: CC-BY-4.0
 author: "Jed Anderson"
-hero_image: "/images/frozen-instrument-hero.jpg"
-hero_image_alt: "Title-only cover: the words The Frozen Instrument set in dark serif type, centred on a warm off-white ground above a short rule."
+hero_image: "/images/frozen-instrument-hero.png"
+hero_image_alt: "Cover artwork on a deep navy ground in cyan, white and amber, headed ENVIRONMENTAL MODELS. A wide panel is split down the middle: on the left a meandering cyan river labelled LIVING ENVIRONMENT, on the right the same terrain redrawn as a rigid pale grid labelled STATIC MODEL, with a stack emitting concentric arcs across the seam between them. Below, the words FROZEN IN TIME beside a boxed statistic reading 1984, median governing physics, and 0 of 18 ingest observations live."
 pdf: "/pdfs/frozen-instrument.pdf"
 related_essay: "/essays/end-of-the-snapshot"
 show_abstract_on_page: true

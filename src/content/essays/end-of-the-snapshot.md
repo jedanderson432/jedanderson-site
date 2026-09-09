@@ -9,8 +9,8 @@ tags: ["monitoring", "environmental-intelligence", "regulatory-reform", "clean-a
 abstract: "Environmental permits are written from models run once, on chosen inputs, whose outputs become legal facts for five to fifteen years. Seven properties of any one-time model are derived and simulated here: averaging the inputs is not averaging the answer, a design value is one draw from an unreported sampling distribution, stacked maxima are blind to coincidence, a short test of an intermittent source fails to identify a number at all, every frozen model has a half-life, the value of a model is the age of its inputs, and the resulting conservatism has been paid in production every hour for fifty years. The conclusion is not that models are bad but that a model is a state estimator that was mistakenly used as an oracle."
 license: CC-BY-4.0
 author: "Jed Anderson"
-hero_image: "/images/end-of-the-snapshot-hero.jpg"
-hero_image_alt: "Title-only cover: the words The End of the Snapshot set in dark serif type, centred on a warm off-white ground above a short rule."
+hero_image: "/images/end-of-the-snapshot-hero.png"
+hero_image_alt: "Cover artwork on a near-black ground in cream, yellow and red. The title The End of the Snapshot sits above the line 'One picture of a world that never stops moving.' Below, a framed panel labelled MODEL RUN holds a rigid grid with a single vertical bar, red corner brackets clamped to its edges, while a wavy red and yellow ribbon and a stack shape pass behind it and a small node network runs down the right side; the panel is captioned 'A static model inside a living system.' At the foot, 'The picture becomes a feed' over sense, infer, decide, act."
 pdf: "/pdfs/end-of-the-snapshot.pdf"
 related_essay: "/essays/frozen-instrument"
 show_abstract_on_page: true
