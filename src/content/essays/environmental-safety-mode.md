@@ -11,7 +11,6 @@ abstract: "The technical companion to 'The Daylight.' Establishes, with sources 
 license: CC-BY-4.0
 author: "Jed Anderson"
 pdf: "/pdfs/environmental-safety-mode.pdf"
-related_essay: "/essays/the-daylight"
 hero_image: "/images/environmental-safety-mode-hero.png"
 hero_image_alt: "Dark forest floor at night. A glowing green shield split down the middle, a fern frond on the left half and circuit traces with chips on the right. Beside it the title Environmental Safety Mode and the line Protecting AI from doing environmental harm. Below the shield, a toggle switch set to ON."
 schema_type: ScholarlyArticle
@@ -25,7 +24,7 @@ keywords:
   - "Landauer's principle"
 ---
 
-*Jed Anderson, Independent Researcher, Houston, Texas. ORCID [0009-0003-1807-2459](https://orcid.org/0009-0003-1807-2459). This is the technical companion to the feature essay [The Daylight](/essays/the-daylight). The feature can be brave because this document is careful. Where the two differ in precision, this one governs.*
+*Jed Anderson, Independent Researcher, Houston, Texas. ORCID [0009-0003-1807-2459](https://orcid.org/0009-0003-1807-2459). This is the technical companion to the feature essay The Daylight. The feature can be brave because this document is careful. Where the two differ in precision, this one governs.*
 
 *All external facts checked 2–3 August 2026. Claims that could not be verified were deleted rather than softened; the deletions are listed in §7.*
 
