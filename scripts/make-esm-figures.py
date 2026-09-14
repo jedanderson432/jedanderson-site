@@ -529,4 +529,3 @@ if __name__ == "__main__":
     figure_2()
     figure_3()
     figure_4()
-    social_hero()
