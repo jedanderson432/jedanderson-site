@@ -29,6 +29,7 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 - compression — the information-theoretic move of finding the smallest true description; recurs across the corpus (Shannon, algorithmic complexity, logical depth)
 - boundary-dominance — the Boundary Dominance Principle: a system's interior can be read from a far smaller honest description of its boundary (holography as the physics precedent)
 - incorruptible-grader — the thesis that physical reality is the one objective whose corruption cost rises without bound with measurement fidelity; ties to *Reality as the Only Incorruptible Grader*
+- recursive-self-improvement — AI that improves the process that improves it; in the corpus, RESI (recursive environmental self-improvement), which points that recursion at the living world and grades it against physical reality
 
 ## Thinker tags (engages a specific argument)
 - deutsch, wheeler, yudkowsky, whitehead, landauer, bekenstein
