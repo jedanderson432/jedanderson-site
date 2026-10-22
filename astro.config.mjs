@@ -59,7 +59,7 @@ export default defineConfig({
   site: 'https://jedanderson.org',
   output: 'static',
   build: {
-    format: 'directory',
+    format: 'file',
   },
   trailingSlash: 'never',
   markdown: {

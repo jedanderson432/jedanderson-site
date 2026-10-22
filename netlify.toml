@@ -56,6 +56,77 @@
   status = 301
   force = true
 
+# Trailing-slash normalisation. Canonical form is no trailing slash
+# (matches DOI/Zenodo metadata, BibTeX blocks, llms.txt, HF dataset).
+# Pages build as <path>.html (build.format = 'file'), so the slash form
+# has no file behind it and these rules fire. Placed after all other
+# redirects; never redirect "/" itself.
+
+[[redirects]]
+  from = "/essays/:slug/"
+  to = "/essays/:slug"
+  status = 301
+
+[[redirects]]
+  from = "/essays/"
+  to = "/essays"
+  status = 301
+
+[[redirects]]
+  from = "/posts/:slug/"
+  to = "/posts/:slug"
+  status = 301
+
+[[redirects]]
+  from = "/posts/"
+  to = "/posts"
+  status = 301
+
+[[redirects]]
+  from = "/books/:slug/"
+  to = "/books/:slug"
+  status = 301
+
+[[redirects]]
+  from = "/books/"
+  to = "/books"
+  status = 301
+
+[[redirects]]
+  from = "/letters/:slug/"
+  to = "/letters/:slug"
+  status = 301
+
+[[redirects]]
+  from = "/letters/"
+  to = "/letters"
+  status = 301
+
+[[redirects]]
+  from = "/speeches/:slug/"
+  to = "/speeches/:slug"
+  status = 301
+
+[[redirects]]
+  from = "/speeches/"
+  to = "/speeches"
+  status = 301
+
+[[redirects]]
+  from = "/tags/:slug/"
+  to = "/tags/:slug"
+  status = 301
+
+[[redirects]]
+  from = "/tags/"
+  to = "/tags"
+  status = 301
+
+[[redirects]]
+  from = "/:page/"
+  to = "/:page"
+  status = 301
+
 [[headers]]
   for = "/*.md"
   [headers.values]
@@ -92,3 +163,10 @@
   for = "/humans.txt"
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
+
+# Adds Link: <html twin>; rel="canonical" to every .md response.
+# Static asset directories are excluded so the function only runs on pages.
+[[edge_functions]]
+  path = "/*"
+  function = "md-canonical"
+  excludedPath = ["/_astro/*", "/images/*", "/pdfs/*", "/fonts/*", "/data/*", "/decks/*", "/downloads/*", "/visual-essays/*", "/pagefind/*"]
