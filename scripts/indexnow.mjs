@@ -8,9 +8,10 @@
 // fires before the new deploy is live, so it commonly 403s on the
 // deploy that introduces new content; that is expected and harmless.
 //
-// On every build, after Astro finishes emitting `dist/`, this integration
-// reads the generated sitemap index, follows its child sitemaps, collects
-// every https://jedanderson.org/ URL, and POSTs them to the IndexNow API.
+// On production builds only (CONTEXT=production), after Astro finishes
+// emitting `dist/`, this integration reads the generated sitemap, diffs it
+// against the live sitemap (the previous deploy), and POSTs the URLs that
+// are new or whose <lastmod> changed to the IndexNow API.
 // IndexNow fans the submission out to Bing, Yandex, DuckDuckGo, and other
 // participating engines — and Bing's index is what ChatGPT Search rides.
 //
@@ -33,7 +34,21 @@ const ENDPOINT = 'https://api.indexnow.org/indexnow';
 const KEY_LOCATION = `https://${HOST}/${INDEXNOW_KEY}.txt`;
 const MAX_PER_REQUEST = 10000;
 
-// Pull every <loc>…</loc> value out of a sitemap XML string.
+// Map of url -> lastmod ('' when absent) from one sitemap XML string.
+function extractEntries(xml) {
+  const entries = new Map();
+  const re = /<url>([\s\S]*?)<\/url>/g;
+  let m;
+  while ((m = re.exec(xml)) !== null) {
+    const loc = /<loc>\s*([^<\s]+)\s*<\/loc>/.exec(m[1]);
+    if (!loc) continue;
+    const lm = /<lastmod>\s*([^<\s]+)\s*<\/lastmod>/.exec(m[1]);
+    entries.set(loc[1].trim(), lm ? lm[1].trim() : '');
+  }
+  return entries;
+}
+
+// Pull every <loc>…</loc> value out of a sitemap index XML string.
 function extractLocs(xml) {
   const locs = [];
   const re = /<loc>\s*([^<\s]+)\s*<\/loc>/g;
@@ -55,6 +70,23 @@ async function readFromDist(distDir, url) {
   } catch {
     return null;
   }
+}
+
+// url -> lastmod for the sitemap currently live on the site, i.e. the
+// previous deploy. Throws if it cannot be read in full, so a failed
+// fetch skips the submission instead of resubmitting the whole corpus.
+async function fetchLiveEntries() {
+  const entries = new Map();
+  const fetchText = async (url) => {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`${url} → HTTP ${res.status}`);
+    return res.text();
+  };
+  const index = await fetchText(`https://${HOST}/sitemap-index.xml`);
+  for (const child of extractLocs(index)) {
+    for (const [loc, lm] of extractEntries(await fetchText(child))) entries.set(loc, lm);
+  }
+  return entries;
 }
 
 async function postBatch(urlList, logger) {
@@ -86,13 +118,17 @@ export function indexNow() {
     name: 'indexnow',
     hooks: {
       'astro:build:done': async ({ dir, logger }) => {
+        // Production deploys only (Netlify sets CONTEXT). Local and
+        // deploy-preview builds must never ping search engines.
+        if (process.env.CONTEXT !== 'production') {
+          logger.info('IndexNow: CONTEXT is not "production" — skipping submission.');
+          return;
+        }
         try {
           const distDir = fileURLToPath(dir);
-          const indexPath = path.join(distDir, 'sitemap-index.xml');
-
           let indexXml;
           try {
-            indexXml = await readFile(indexPath, 'utf8');
+            indexXml = await readFile(path.join(distDir, 'sitemap-index.xml'), 'utf8');
           } catch {
             logger.warn(
               'IndexNow: sitemap-index.xml not found in build output — skipping submission.'
@@ -100,28 +136,34 @@ export function indexNow() {
             return;
           }
 
-          // The index lists child sitemaps; each child lists page URLs.
+          // Sitemap URLs only: not the sitemap index, .md twins, or PDFs.
+          const next = new Map();
           const childSitemaps = extractLocs(indexXml);
-          const urlSet = new Set();
           for (const child of childSitemaps) {
             const childXml = await readFromDist(distDir, child);
             if (!childXml) continue;
-            for (const loc of extractLocs(childXml)) {
-              if (loc.startsWith(`https://${HOST}/`)) urlSet.add(loc);
+            for (const [loc, lm] of extractEntries(childXml)) {
+              if (loc.startsWith(`https://${HOST}`)) next.set(loc, lm);
             }
           }
-
-          if (urlSet.size === 0) {
+          if (next.size === 0) {
             logger.warn('IndexNow: no URLs collected from sitemaps — nothing to submit.');
             return;
           }
 
-          // Submit the sitemap index itself alongside the page URLs so
-          // engines re-fetch it (and its <lastmod> stamps) immediately.
-          urlSet.add(`https://${HOST}/sitemap-index.xml`);
-          const urls = [...urlSet];
+          // Submit only URLs that are new or whose lastmod changed versus
+          // the sitemap on the live (previous) deploy.
+          let prev;
+          try {
+            prev = await fetchLiveEntries();
+          } catch (err) {
+            logger.warn(`IndexNow: could not read live sitemap, skipping — ${err?.message ?? err}`);
+            return;
+          }
+          const urls = [...next].filter(([loc, lm]) => !prev.has(loc) || prev.get(loc) !== lm).map(([loc]) => loc);
 
-          logger.info(`IndexNow: collected ${urls.length} URL(s) from ${childSitemaps.length} sitemap(s).`);
+          logger.info(`IndexNow: ${next.size} sitemap URL(s), ${urls.length} new or changed.`);
+          if (urls.length === 0) return;
 
           // Cap at 10,000 URLs per request; batch if the corpus is larger.
           for (let i = 0; i < urls.length; i += MAX_PER_REQUEST) {

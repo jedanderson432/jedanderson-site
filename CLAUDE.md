@@ -38,6 +38,7 @@ Do not touch corpus-archive/. It is read-only safekeeping. Never ingest from it.
 - Frontmatter template: docs/essay-frontmatter-template.md
 - Tag vocabulary: docs/TAG_VOCABULARY.md. Reuse existing tags before inventing new ones. When introducing a new tag, add it to the vocabulary file with a one-line definition.
 - URLs: no trailing slash. Every HTML page has a .md twin that carries a Link rel=canonical header pointing at the HTML page. Never noindex anything.
+- Extensionless serving depends on Netlify Pretty URLs being enabled; do not disable it.
 - Stable canonical URLs: once a piece is published at a URL, that URL is permanent. Revisions add a "Revision history" section to the bottom of the piece, never change the URL or slug.
 
 ## Content type placement

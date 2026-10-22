@@ -164,9 +164,24 @@
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
 
-# Adds Link: <html twin>; rel="canonical" to every .md response.
-# Static asset directories are excluded so the function only runs on pages.
+# Adds Link: <html twin>; rel="canonical" to every .md response. Only the
+# content sections have .md twins (src/pages/[type]/[...slug].md.ts).
 [[edge_functions]]
-  path = "/*"
+  path = "/essays/*"
   function = "md-canonical"
-  excludedPath = ["/_astro/*", "/images/*", "/pdfs/*", "/fonts/*", "/data/*", "/decks/*", "/downloads/*", "/visual-essays/*", "/pagefind/*"]
+
+[[edge_functions]]
+  path = "/posts/*"
+  function = "md-canonical"
+
+[[edge_functions]]
+  path = "/books/*"
+  function = "md-canonical"
+
+[[edge_functions]]
+  path = "/speeches/*"
+  function = "md-canonical"
+
+[[edge_functions]]
+  path = "/letters/*"
+  function = "md-canonical"
