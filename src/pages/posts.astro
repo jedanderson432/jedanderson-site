@@ -1,9 +1,9 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { TYPE_LABELS } from '../../site-config';
-import { canonicalPath } from '../../lib/canonical';
-import { effectiveDate } from '../../lib/dates';
+import { TYPE_LABELS } from '../site-config';
+import { canonicalPath } from '../lib/canonical';
+import { effectiveDate } from '../lib/dates';
 
 const entries = await getCollection('posts', ({ data }: any) => data.status === 'published');
 entries.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));

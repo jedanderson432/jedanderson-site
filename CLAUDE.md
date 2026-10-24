@@ -37,6 +37,7 @@ Do not touch corpus-archive/. It is read-only safekeeping. Never ingest from it.
 - Slug validation: kebab-case only, matching ^[a-z0-9]+(?:-[a-z0-9]+)*$. Build fails on invalid slugs.
 - Frontmatter template: docs/essay-frontmatter-template.md
 - Tag vocabulary: docs/TAG_VOCABULARY.md. Reuse existing tags before inventing new ones. When introducing a new tag, add it to the vocabulary file with a one-line definition.
+- URLs: no trailing slash. Every HTML page has a .md twin that carries a Link rel=canonical header pointing at the HTML page. Never noindex anything.
 - Stable canonical URLs: once a piece is published at a URL, that URL is permanent. Revisions add a "Revision history" section to the bottom of the piece, never change the URL or slug.
 
 ## Content type placement
