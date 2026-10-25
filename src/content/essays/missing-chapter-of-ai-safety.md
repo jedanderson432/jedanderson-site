@@ -3,6 +3,7 @@ title: "The Missing Chapter of AI Safety"
 slug: "missing-chapter-of-ai-safety"
 subtitle: "I went looking for a river in the rulebook the largest AI companies wrote for their own machines. This is the report on what was not there."
 date: 2026-08-05
+date_modified: 2026-10-25
 type: essay
 status: published
 tags: ["incorruptible-grader", "environmental-intelligence", "boundary-dominance", "regulatory-reform", "monitoring", "accessible"]
@@ -68,10 +69,6 @@ This is what a machine that hits its target does, when the target does not inclu
 The Lorax spoke for the trees. He did not compute for them. That is why he lost. Advocacy is not intelligence. Persuasion is not physics. He had a better argument and no way to translate it into the language the Once-ler was running on—numbers, feedback signals, physical measurement. The Once-ler heard him. It did not matter.
 
 Thirty-two years before Nick Bostrom sketched a paperclip maximizer, Dr. Seuss had already sketched the whole problem, in a valley, with a machine that was a man, and the man had one objective, and he hit it.
-
----
-
-> **[CASE PENDING—AUTHOR TO SUPPLY.]** A specific facility, river, permit fight, plume, or fish kill from twenty-seven years of environmental practice. What was known. When it was known. How long it took to act. What happened in between. This block reserves roughly five hundred words at the load-bearing center of the essay and was deliberately left uncomposed by the model. When the material is supplied it becomes narrative: what was known, when, and how long the paper loop took, ending by turning to the present—the same process now run at machine speed, in ten thousand places at once, by a system that is very good at its assigned task and has never been told the river is there.
 
 ---
 
@@ -164,8 +161,13 @@ Every numbered source resolves to a live URL. Argument citations to the author's
 19. Meta. Frontier AI Framework v1.1 (February 3, 2025). https://ai.meta.com/static-resource/meta-frontier-ai-framework/
 20. European Union. Regulation (EU) 2024/1689 (Artificial Intelligence Act), OJ L, 12.7.2024. https://eur-lex.europa.eu/eli/reg/2024/1689/oj
 21. Business Insider. OpenAI reports two more incidents of rogue AI agents during third-party testing (Aug 5, 2026). https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8
-22. Anderson, J. [Nature-Aligned AI](/essays/nature-aligned-ai) (argument, JedAnderson.org, 2026).
-23. Anderson, J. [Environmental Safety Mode](/essays/environmental-safety-mode) (argument, JedAnderson.org, 2026).
-24. Anderson, J. [The Bond-Bit Ratio](/essays/bond-bit-ratio) (argument, JedAnderson.org, 2026).
+22. Anderson, J. [Nature-Aligned AI](https://jedanderson.org/essays/nature-aligned-ai) (argument, JedAnderson.org, 2026).
+23. Anderson, J. [Environmental Safety Mode](https://jedanderson.org/essays/environmental-safety-mode) (argument, JedAnderson.org, 2026).
+24. Anderson, J. [The Bond-Bit Ratio](https://jedanderson.org/essays/bond-bit-ratio) (argument, JedAnderson.org, 2026).
 
 Correspondence: info@jedanderson.org · jedanderson.org
+
+## Revision history
+
+- **2026-10-25.** Removed an unfilled placeholder block that had been published at the center of the essay; the surrounding sections are rejoined and the argument is otherwise unchanged. Self-citations 22–24 now use absolute jedanderson.org URLs so they resolve inside the PDF. PDF regenerated from the corrected page.
+- **2026-08-05.** Initial publication.

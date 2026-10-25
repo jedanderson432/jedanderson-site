@@ -16,7 +16,7 @@ schema_type: ScholarlyArticle
 doi: "10.5281/zenodo.20723029"
 ssrn_url: "https://ssrn.com/abstract=6958708"
 show_abstract_on_page: true
-date_modified: 2026-05-24
+date_modified: 2026-10-25
 keywords:
   - "Landauer's principle"
   - "bond-bit asymmetry"
@@ -29,9 +29,9 @@ about:
   - "information theory"
 ---
 
-*Version 1.1—May 24, 2026 (originally published May 23, 2026). Permanent URL. Revisions logged in the "Revision history" section at the bottom of this page; the URL and slug never change.*
+*Version 1.2—October 25, 2026 (originally published May 23, 2026). Permanent URL. Revisions logged in the "Revision history" section at the bottom of this page; the URL and slug never change.*
 
-> **Plain-language summary.** Erasing one bit of information costs at least 240 times less energy than breaking one chemical bond. This is a floor set by the second law of thermodynamics—no future engineering can push the ratio below it. In deployed systems the gap is already 10⁸ to 10¹² times wider. The number is set by physics and cannot be argued down.
+> **Plain-language summary.** At the limits physics allows, erasing one bit of information costs 240 times less energy than breaking one chemical bond. Both limits are set by physical law, so no engineering changes the ratio. Today's computers sit far above their limit, so one real bit operation still costs somewhat more than one real bond break. Information's practical leverage comes from gating instead: one reading can authorize or stop many bond-level events whose energy comes from outside the control system.
 
 ## 1. The question
 
@@ -87,13 +87,13 @@ The 240× figure is a **floor ratio**. It compares two theoretical lower bounds:
 - *Numerator:* the minimum energy to dissociate one chemical bond, set by chemistry.
 - *Denominator:* the minimum dissipation of one irreversible bit operation, set by the second law.
 
-Neither bound describes what real systems pay. Real CMOS computation as of 2024 dissipates on the order of 10⁻¹⁵ J per bit operation—roughly six orders of magnitude above Landauer. Real industrial chemistry typically expends 10² to 10³ times the bare bond enthalpy on activation energy, heat losses, and process inefficiencies. The two real-world gaps do not cancel; they compound in information's favor.
+Both bounds are set by physics, not by engineering. No hardware can erase a bit for less than kT ln 2 at 300 K, and no process can dissociate a C–H bond for less than its bond enthalpy. Because neither floor moves with technology, their ratio does not move either. The 240× figure is what physical law permits: at the limits, information is two orders of magnitude cheaper than matter. That is the version of the asymmetry that cannot be argued away.
 
-The end-to-end *operational* ratio of "real cost to move a bit" versus "real cost to break a bond" is therefore not 240. In deployed systems it is typically in the range of **10⁸ to 10¹²**—eight to twelve orders of magnitude. The 240× figure is the **narrowest, most conservative, irreducible version** of the bond-bit asymmetry.
+**The floor is not today's per-operation price.** Real systems pay well above both floors, and today the computing side pays far more. Real CMOS computation as of 2024 dissipates on the order of 10⁻¹⁵ J per bit operation—roughly six orders of magnitude above Landauer. Real industrial chemistry typically expends 10² to 10³ times the bare bond enthalpy on activation energy, heat losses, and process inefficiencies, which puts a real bond break near 10⁻¹⁷ to 10⁻¹⁶ J. Operation for operation, then, a real bit operation today costs roughly 1.5 to 15 times *more* than a real bond break. Computing hardware sits much further above its floor than chemistry sits above its own, so at today's technology the per-operation comparison runs against information, not for it.
 
-It is the version that cannot be argued away. No engineering improvement in computing hardware can take the ratio below 240×, because the denominator is fixed by the second law of thermodynamics and the numerator is fixed by the energetics of chemical bonding. Future improvements in computational efficiency only widen the gap.
+**Real-world leverage comes from gating.** The per-operation comparison is not where information's advantage in deployed systems lives. A control system does not pay for the energy it redirects. One reading—a sensor value, a flag, a threshold crossed—authorizes or stops many bond-level events: it opens a valve, halts a pump, holds a discharge, shuts a process down. The energy those events carry enters from outside the control system, from fuel, sunlight, gravity, and the process's own feed. The information is compared not to one bond but to every bond it gates. That gain is a property of control architecture, not of the bond-bit ratio, and it is developed in [Jed's Angel](/essays/jeds-angel).
 
-This is the strict, defensible, citation-grade form of the asymmetry: **information is, as a matter of physical law, at least 240 times cheaper than force.**
+Keep the two claims apart. The 240× floor says information is never forced by physics to be as expensive as matter. The gating gain says that in practice one bit can steer far more energy than it costs. The first is the strict, citation-grade form of the asymmetry: **at the limits set by physical law, information is 240 times cheaper than force.**
 
 ## 6. How to cite this page
 
@@ -126,5 +126,6 @@ This page is the canonical derivation. The 240× figure is load-bearing in:
 
 ## Revision history
 
+- **v1.2—2026-10-25.** Corrected section 5. v1.1 said the real-world gaps above the two floors "compound in information's favor" and gave a per-operation operational ratio of 10⁸–10¹². That was inverted: a real CMOS bit operation (~10⁻¹⁵ J) costs roughly 1.5 to 15 times more than a real bond break with process losses included (~10⁻¹⁷ to 10⁻¹⁶ J). Section 5 now defends the 240× figure as a ratio of physical floors, states the per-operation comparison at today's technology, and attributes real-world leverage to gating, with a link to Jed's Angel. Plain-language summary updated to match. The derivation in sections 2–4 is unchanged.
 - **v1.1—2026-05-24.** Clarifications and forward-reference section. Tightened the plain-language summary to specify bits and bonds explicitly and to surface the 10⁸–10¹² operational gap. Added a *note on conventions* at the end of section 2 covering reversible computation and the temperature dependence of the bound. Added section 7 listing the essays in which the 240× figure is load-bearing.
 - **v1.0—2026-05-23.** Initial publication.

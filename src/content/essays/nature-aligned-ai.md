@@ -190,19 +190,18 @@ To align artificial intelligence with the values of life, we do not have to inve
 
 1. [Bits Protect Its](/essays/bits-protect-its)
 2. Nature & AI Alignment—The Missing Piece
-3. AI Environmental Safety Essay Prompt
-4. Constraining the Technosphere: AI Governance for Reducing Human Impacts on the Biosphere — Preprints.org, https://www.preprints.org/manuscript/202605.1361
-5. Constraining the Technosphere: AI Governance for Reducing Human Impacts on the Biosphere — Preprints.org, https://www.preprints.org/frontend/manuscript/36744491de390d6a49f9795b8abdb60d/download_pub
-6. Large Language Models Hack Rewards, and Society — arXiv, https://arxiv.org/html/2606.04075v1
-7. [2606.04075] Large Language Models Hack Rewards, and Society — arXiv, https://arxiv.org/abs/2606.04075
-8. SocioHack: RL Models That Exploit Regulatory Loopholes — Cloud Security Alliance, https://labs.cloudsecurityalliance.org/research/csa-research-note-sociohack-ai-regulatory-reward-hacking-202/
-9. Paper page — Large Language Models Hack Rewards, and Society — Hugging Face, https://huggingface.co/papers/2606.04075
-10. Large Language Models Hack Rewards, and Society — arXiv, https://arxiv.org/pdf/2606.04075
-11. [Reality as the Only Incorruptible Grader](/essays/incorruptible-grader)
-12. [Compression that Sings—Music, Nature, and the Building of Environmental Superintelligence](/essays/compression-that-sings)
-13. [Magnifica Vita](/essays/magnifica-vita)
-14. AI Needs Biospheric Ethics — OpenReview, https://openreview.net/pdf?id=yZhVKDW0o0
-15. Biospheric Artificial Intelligence: An Ecocentric Paradigm for Planetary Stewardship, https://www.alphanome.ai/post/biospheric-artificial-intelligence-an-ecocentric-paradigm-for-planetary-stewardship
-16. AI needs Biospheric Ethics — OpenReview, https://openreview.net/forum?id=yZhVKDW0o0
-17. Building Large Nature Models (LNMs)
-18. Building the Cosmic Life Intelligence System at Boca Chica, Texas
+3. Constraining the Technosphere: AI Governance for Reducing Human Impacts on the Biosphere — Preprints.org, https://www.preprints.org/manuscript/202605.1361
+4. Constraining the Technosphere: AI Governance for Reducing Human Impacts on the Biosphere — Preprints.org, https://www.preprints.org/frontend/manuscript/36744491de390d6a49f9795b8abdb60d/download_pub
+5. Large Language Models Hack Rewards, and Society — arXiv, https://arxiv.org/html/2606.04075v1
+6. [2606.04075] Large Language Models Hack Rewards, and Society — arXiv, https://arxiv.org/abs/2606.04075
+7. SocioHack: RL Models That Exploit Regulatory Loopholes — Cloud Security Alliance, https://labs.cloudsecurityalliance.org/research/csa-research-note-sociohack-ai-regulatory-reward-hacking-202/
+8. Paper page — Large Language Models Hack Rewards, and Society — Hugging Face, https://huggingface.co/papers/2606.04075
+9. Large Language Models Hack Rewards, and Society — arXiv, https://arxiv.org/pdf/2606.04075
+10. [Reality as the Only Incorruptible Grader](/essays/incorruptible-grader)
+11. [Compression that Sings—Music, Nature, and the Building of Environmental Superintelligence](/essays/compression-that-sings)
+12. [Magnifica Vita](/essays/magnifica-vita)
+13. AI Needs Biospheric Ethics — OpenReview, https://openreview.net/pdf?id=yZhVKDW0o0
+14. Biospheric Artificial Intelligence: An Ecocentric Paradigm for Planetary Stewardship, https://www.alphanome.ai/post/biospheric-artificial-intelligence-an-ecocentric-paradigm-for-planetary-stewardship
+15. AI needs Biospheric Ethics — OpenReview, https://openreview.net/forum?id=yZhVKDW0o0
+16. Building Large Nature Models (LNMs)
+17. Building the Cosmic Life Intelligence System at Boca Chica, Texas
