@@ -5,7 +5,8 @@ subtitle: "How nature makes a truth cheap to know and impossible to fake—and w
 date: 2026-07-20
 type: essay
 status: published
-tags: ["physics", "information-theory", "boundary-dominance", "incorruptible-grader", "compression"]
+tags: ["physics", "information-theory", "boundary-dominance", "incorruptible-grader", "compression", "canonical"]
+start_here_order: 11
 abstract: "Compression and redundancy look like opposite instructions—shrink the message, or copy it—but they act on different things: compression finds the smallest true description, redundancy writes that description in many independent places. Nature uses both to make a fact knowable and incorruptible at once, which gives a concrete rule for protecting the living world: know it small, keep it everywhere—the first makes truth cheap, the second makes lying expensive."
 license: CC-BY-4.0
 pdf: "/pdfs/small-and-everywhere.pdf"

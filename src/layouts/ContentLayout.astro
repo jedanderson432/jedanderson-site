@@ -57,6 +57,23 @@ if (data.related_essay) {
   // under the current essay.
   if (!relatedHref) relatedHref = m ? raw : `/essays/${wanted}`;
 }
+
+// Resolve superseded_by → the newer piece's title and href. The field is
+// a bare slug, looked up across every collection (essays first). An
+// unresolvable or unpublished slug renders no banner rather than a dead link.
+let supersededTitle: string | null = null;
+let supersededHref: string | null = null;
+if (data.superseded_by) {
+  for (const collection of COLLECTIONS) {
+    const all = await getCollection(collection, ({ data }: any) => data.status === 'published');
+    const ref = all.find((e: any) => e.slug === data.superseded_by);
+    if (ref) {
+      supersededTitle = ref.data.title;
+      supersededHref = canonicalPath(ref);
+      break;
+    }
+  }
+}
 const longFmt = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
   month: 'long',
@@ -292,6 +309,12 @@ if (data.defined_term) {
     data-pagefind-meta={`title:${data.title}`}
     data-pagefind-filter={`type:${TYPE_LABELS[data.type] ?? data.type}`}
   >
+    {supersededHref && (
+      <p class="border-l-2 border-accent pl-4 py-2 mb-8 text-sm text-muted" data-pagefind-ignore>
+        A newer, clearer version of this argument:{' '}
+        <a href={supersededHref} class="underline text-ink hover:text-accent">{supersededTitle}</a>
+      </p>
+    )}
     {data.hero_image && !data.pdf_canonical && (
       <img
         src={data.hero_image}

@@ -5,7 +5,8 @@ subtitle: "How AI could change our relationship with nature"
 date: 2026-10-07
 type: essay
 status: published
-tags: ["enviroai", "environmental-intelligence", "regulatory-reform", "monitoring", "accessible"]
+tags: ["enviroai", "environmental-intelligence", "regulatory-reform", "monitoring", "accessible", "canonical"]
+start_here_order: 2
 abstract: "A one-page, plain-language case that modern environmental institutions cast us as a guard keeping harm out of the garden, and that sensors, networks and AI could add the gardener's role: noticing what a living system needs, deciding, acting in time within human-set limits, and checking the outcome. The safeguards stay; people still define health, risk and hard boundaries, and care adds the question of whether life is actually doing well."
 license: CC-BY-4.0
 author: "Jed Anderson"

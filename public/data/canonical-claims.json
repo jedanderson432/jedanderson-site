@@ -21414,7 +21414,7 @@
       "match": "50 bits",
       "claim": "Our brains receive ~11 million bits per second of sensory data, yet our conscious minds process only ~50 bits per second.",
       "context": "machines; it’s about augmenting our understanding. Human cognition is woefully inadequate alone. Our brains receive ~11 million bits per second of sensory data, yet our conscious minds process only ~50 bits per second. We simply cannot parse the full spectrum of nature’s signals in real time – our minds are bottlenecks. Meanwhile, global environmental data is exploding (satellite imagery, climate senso",
-      "line": 25,
+      "line": 23,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21429,7 +21429,7 @@
       "match": "15 bps",
       "claim": "By contrast, an integrated computational network (ICN) of AI and machines can scale exponentially, with data bandwidths in the petabits per second (10^15 bps) – trillions of times faster than human communication.",
       "context": "atically doomed to fail” as a processing system. By contrast, an integrated computational network (ICN) of AI and machines can scale exponentially, with data bandwidths in the petabits per second (10^15 bps) – trillions of times faster than human communication. In short, we need machine help to listen to and make sense of the planet’s complex voices. An AI planetary listener is an “urgent and unavoidabl",
-      "line": 27,
+      "line": 25,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21444,7 +21444,7 @@
       "match": "5 bits",
       "claim": "Over a day of intermittent singing, that’s on the order of 10^5 bits/day (hundreds of thousands of bits).",
       "context": "st-modulating notes. Information theory analyses suggest birdsong can reach up to ~100 bits/second in content at peak complexitymdpi.com. Over a day of intermittent singing, that’s on the order of 10^5 bits/day (hundreds of thousands of bits). Much of it may be repetitive (redundant) to other birds, but new variations convey information about identity, fitness, or environment. • Honeybee (Colony): A fo",
-      "line": 41,
+      "line": 39,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21459,7 +21459,7 @@
       "match": "100 bits",
       "claim": "Information theory analyses suggest birdsong can reach up to ~100 bits/second in content at peak complexitymdpi.com.",
       "context": "Songbird (e.g. Nightingale): Birds are prolific communicators. A single male nightingale can sing for hours, with fast-modulating notes. Information theory analyses suggest birdsong can reach up to ~100 bits/second in content at peak complexitymdpi.com. Over a day of intermittent singing, that’s on the order of 10^5 bits/day (hundreds of thousands of bits). Much of it may be repetitive (redundant) to oth",
-      "line": 41,
+      "line": 39,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21474,7 +21474,7 @@
       "match": "7 bits",
       "claim": "direction and distance to food – carries about 7 bits of information (roughly one part in",
       "context": "iations convey information about identity, fitness, or environment. • Honeybee (Colony): A forager bee’s waggle dance – a figure-eight motion encoding direction and distance to food – carries about 7 bits of information (roughly one part in 2^7) per dancefrontiersin.org. A busy colony with dozens of dances and other signals (like pheromones or antennal touches) might generate 10^3–10^4 bits/day of n",
-      "line": 45,
+      "line": 43,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21489,7 +21489,7 @@
       "match": "4 bits",
       "claim": "(like pheromones or antennal touches) might generate 10^3–10^4 bits/day of novel information about food sources and hive status.",
       "context": "es about 7 bits of information (roughly one part in 2^7) per dancefrontiersin.org. A busy colony with dozens of dances and other signals (like pheromones or antennal touches) might generate 10^3–10^4 bits/day of novel information about food sources and hive status. Each dance is essentially a coded message a human could write down as a sentence! • Plant (Tree): Plants communicate primarily through ch",
-      "line": 49,
+      "line": 47,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21504,7 +21504,7 @@
       "match": "2.5 bits",
       "claim": "A well-studied example: when under attack by insects, a cotton plant releases a specific blend of 9 volatile chemicals that identifies the attacking insect species – transmitting about 2.5 bits of information to predatory wasps (enough to distinguish ~5 possible pests)mdpi.com.",
       "context": "ical signals. A well-studied example: when under attack by insects, a cotton plant releases a specific blend of 9 volatile chemicals that identifies the attacking insect species – transmitting about 2.5 bits of information to predatory wasps (enough to distinguish ~5 possible pests)mdpi.com. This might happen a few times in a day if herbivores are active. In general, a single tree’s “external” signals (",
-      "line": 53,
+      "line": 51,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21519,7 +21519,7 @@
       "match": "5 bits",
       "claim": "Those bursts might sum to perhaps 10^4–10^5 bits/day in a busy environment.",
       "context": "du. In practice, much of that signal is a steady carrier (like a dial tone), with occasional “chirps” that convey messages (identity, courtship, aggression). Those bursts might sum to perhaps 10^4–10^5 bits/day in a busy environment. Meanwhile, schooling fish use body language – a quick synchronized turn might be a 1-bit alarm (“predator!”) propagated through hundreds of individuals in a split second. A",
-      "line": 65,
+      "line": 63,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21534,7 +21534,7 @@
       "match": "2 bits",
       "claim": "Weakly electric fish continuously emit an electric field and modulate it to communicate; experiments show they can convey on the order of 10^2 bits/second through nuanced modulations of their electric organ dischargesglab.research.bcm.edu.",
       "context": "re relatively modest communicators, but some are notable. Weakly electric fish continuously emit an electric field and modulate it to communicate; experiments show they can convey on the order of 10^2 bits/second through nuanced modulations of their electric organ dischargesglab.research.bcm.edu. In practice, much of that signal is a steady carrier (like a dial tone), with occasional “chirps” that conv",
-      "line": 65,
+      "line": 63,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21549,7 +21549,7 @@
       "match": "5 bits",
       "claim": "• Birds: ~10^5 bits/day (a singing bird produces massive acoustic data; new patterns signal",
       "context": "safe zones, optimizing habitat conditions), effectively becoming a universal translator and mediator. Information Flow (bits/day) – How much “data” do various living systems generate? • Birds: ~10^5 bits/day (a singing bird produces massive acoustic data; new patterns signal territory, mates, or alarms) • Mammals: ~10^5 bits/day (e.g. dolphins and primates have rich vocabularies; elephant rumbles",
-      "line": 127,
+      "line": 125,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21564,7 +21564,7 @@
       "match": "5 bits",
       "claim": "• Mammals: ~10^5 bits/day (e.g.",
       "context": "s/day) – How much “data” do various living systems generate? • Birds: ~10^5 bits/day (a singing bird produces massive acoustic data; new patterns signal territory, mates, or alarms) • Mammals: ~10^5 bits/day (e.g. dolphins and primates have rich vocabularies; elephant rumbles travel miles) • Fish: ~10^4 bits/day (electric fish signals and schooling behaviors transmit simpler messages) • Insects:",
-      "line": 131,
+      "line": 129,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21579,7 +21579,7 @@
       "match": "4 bits",
       "claim": "• Fish: ~10^4 bits/day (electric fish signals and schooling behaviors transmit simpler",
       "context": "es massive acoustic data; new patterns signal territory, mates, or alarms) • Mammals: ~10^5 bits/day (e.g. dolphins and primates have rich vocabularies; elephant rumbles travel miles) • Fish: ~10^4 bits/day (electric fish signals and schooling behaviors transmit simpler messages) • Insects: ~10^4 bits/day (social insects like bees/ants exchange chemical and dance information about food, danger)",
-      "line": 135,
+      "line": 133,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21594,7 +21594,7 @@
       "match": "4 bits",
       "claim": "• Insects: ~10^4 bits/day (social insects like bees/ants exchange chemical and dance",
       "context": "(e.g. dolphins and primates have rich vocabularies; elephant rumbles travel miles) • Fish: ~10^4 bits/day (electric fish signals and schooling behaviors transmit simpler messages) • Insects: ~10^4 bits/day (social insects like bees/ants exchange chemical and dance information about food, danger) • Plants: ~10^2 bits/day (mostly silent, but bursty: chemical SOS signals when stressed, seasonal cue",
-      "line": 139,
+      "line": 137,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"
@@ -21609,7 +21609,7 @@
       "match": "2 bits",
       "claim": "• Plants: ~10^2 bits/day (mostly silent, but bursty: chemical SOS signals when stressed,",
       "context": "fish signals and schooling behaviors transmit simpler messages) • Insects: ~10^4 bits/day (social insects like bees/ants exchange chemical and dance information about food, danger) • Plants: ~10^2 bits/day (mostly silent, but bursty: chemical SOS signals when stressed, seasonal cues, etc.) (See chart above for visualization.) These streams are mostly imperceptible to us now, but AI can amplify wha",
-      "line": 143,
+      "line": 141,
       "epistemic_status": "needs_review",
       "uncertainty": "",
       "last_verified": "2025-08-22"

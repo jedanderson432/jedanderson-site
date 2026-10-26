@@ -5,7 +5,8 @@ subtitle: "Every objective you can write down gets gamed. This is about the one 
 date: 2026-06-19
 type: essay
 status: published
-tags: ["enviroai", "information-theory", "causal-sovereignty", "physics"]
+tags: ["enviroai", "information-theory", "causal-sovereignty", "physics", "canonical"]
+start_here_order: 9
 abstract: "Alignment's hardest practical failure is that any objective you can specify gets gamed—reward hacking, wireheading, reward tampering. This essay argues that every such grader is corruptible because it is a representation separate from the thing it grades, and that physical reality is the unique candidate objective whose corruption cost rises without bound with measurement fidelity—solving the tampering half of alignment, but only for objectives that can be expressed physically, which is exactly why environmental superintelligence is the clean case."
 license: CC-BY-4.0
 hero_image: "/images/incorruptible-grader-cover.png"

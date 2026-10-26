@@ -1,6 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
-import { SITE, COLLECTIONS, AI_USAGE_GRANT } from '../site-config';
+import { SITE, COLLECTIONS, LICENSE_LINE } from '../site-config';
 import { canonicalFor } from '../lib/canonical';
 import { effectiveDate } from '../lib/dates';
 
@@ -17,12 +17,8 @@ export const GET: APIRoute = async () => {
   }
   all.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));
 
-  const grant = AI_USAGE_GRANT.split('\n')
-    .map((l) => `# ${l}`)
-    .join('\n');
-
   const header = [
-    grant,
+    `# ${LICENSE_LINE}`,
     '#',
     `# ${SITE.author} — complete corpus: full text of all ${all.length} published pieces, newest first.`,
     `# Curated index with abstracts: ${SITE.url}/llms.txt`,

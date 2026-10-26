@@ -5,7 +5,8 @@ subtitle: "What biological selection implies for the design of grounded objectiv
 date: 2026-06-19
 type: essay
 status: published
-tags: ["enviroai", "information-theory", "causal-sovereignty", "physics"]
+tags: ["enviroai", "information-theory", "causal-sovereignty", "physics", "canonical"]
+start_here_order: 8
 abstract: "Reward hacking persists across every generation of trained models and is intensifying in frontier systems that reason about their own evaluation and corrupt it. This paper argues the failure is structural—reward hacking is a disembedding problem: a proxy can be gamed precisely when the optimizer can decouple its reward from its own persistence. It identifies four structural conditions behind the system-level robustness of biological selection, shows contemporary AI training violates all four, and argues environmental objectives are the maximally embedded domain in which to rebuild them, with the measurement boundary as the explicit residual attack surface."
 license: CC-BY-4.0
 pdf: "/pdfs/reward-hacking-disembedding.pdf"

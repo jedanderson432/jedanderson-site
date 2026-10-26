@@ -1,6 +1,6 @@
 import type { APIRoute, GetStaticPaths } from 'astro';
 import { getCollection } from 'astro:content';
-import { COLLECTIONS, AI_USAGE_GRANT } from '../../site-config';
+import { COLLECTIONS, LICENSE_LINE } from '../../site-config';
 import { canonicalFor } from '../../lib/canonical';
 import {
   serializeFrontmatter,
@@ -32,10 +32,10 @@ export const GET: APIRoute = ({ props }) => {
   if (!data.canonical_url) data.canonical_url = canonicalFor(entry);
 
   const yaml = serializeFrontmatter(data, FRONTMATTER_KEY_ORDER);
-  // The grant rides inside the payload as an HTML comment so the model
-  // reading the fetched markdown sees the permission, not just robots.txt.
-  const grant = `<!--\n${AI_USAGE_GRANT}\n-->`;
-  const body = `${grant}\n${yaml}\n\n${entry.body}\n`;
+  // The license line rides inside the payload as an HTML comment so the
+  // terms travel with the fetched markdown, not just robots.txt.
+  const license = `<!-- ${LICENSE_LINE} -->`;
+  const body = `${license}\n${yaml}\n\n${entry.body}\n`;
 
   return new Response(body, {
     headers: {

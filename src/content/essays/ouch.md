@@ -5,7 +5,8 @@ subtitle: "Why the Earth has never had a reflex, and what it takes to give it on
 date: 2026-09-03
 type: essay
 status: published
-tags: ["enviroai", "environmental-intelligence", "information-theory", "whitehead", "regulatory-reform", "accessible"]
+tags: ["enviroai", "environmental-intelligence", "information-theory", "whitehead", "regulatory-reform", "accessible", "canonical"]
+start_here_order: 3
 abstract: "Environmental law is the sound a civilization makes after the burn—ouch without the flinch. This essay argues that the century-long failure to protect the living world was never a failure of caring but of loop speed, shows with control theory why a loop must close roughly eighty times faster than the harm it holds, and argues that the collapse of the understanding stage between 2022 and 2025 makes a planetary flinch buildable for the first time: reflex below, intention above."
 license: CC-BY-4.0
 pdf: "/pdfs/ouch.pdf"

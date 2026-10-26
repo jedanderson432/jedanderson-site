@@ -6,7 +6,8 @@ date: 2026-09-05
 original_date: 2026-08-02
 type: essay
 status: published
-tags: ["paper", "environmental-intelligence", "incorruptible-grader", "information-theory", "physics", "regulatory-reform"]
+tags: ["paper", "environmental-intelligence", "incorruptible-grader", "information-theory", "physics", "regulatory-reform", "canonical"]
+start_here_order: 6
 abstract: "The technical companion to 'The Daylight.' Establishes, with sources and uncertainty bands, the energy throughput of the sectors AI is acquiring allocation authority over; gives a formal treatment of environmental regulation as a layered proxy stack and works it against the measured reward-hacking literature; separates the is-gap from the ought-gap using three independent results (the biosphere specifies no preferred state, entropy is observer-relative, and no system grounds its own objective from inside); derives the thermodynamic feasibility of environmental gating with the three leverage quantities kept strictly apart; and specifies Environmental Safety Mode L0–L5 with requirements, costs, limits, and how an adversary defeats each level."
 license: CC-BY-4.0
 author: "Jed Anderson"
