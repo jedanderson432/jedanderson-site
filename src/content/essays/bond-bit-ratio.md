@@ -5,7 +5,8 @@ slug: "bond-bit-ratio"
 date: 2026-05-23
 type: essay
 status: published
-tags: ["foundational", "physics", "information-theory", "landauer", "bond-bit-asymmetry", "enviroai", "causal-sovereignty"]
+tags: ["foundational", "physics", "information-theory", "landauer", "bond-bit-asymmetry", "enviroai", "causal-sovereignty", "canonical"]
+start_here_order: 12
 abstract: "Information is at least 240 times cheaper than force, as a matter of physical law. This page derives the floor ratio between Landauer's bound at 300 K and the C–H bond enthalpy, fixes the constants, and exists to be cited."
 license: CC-BY-4.0
 pdf: "/pdfs/bond-bit-ratio.pdf"

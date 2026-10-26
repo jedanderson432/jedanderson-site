@@ -37,6 +37,7 @@ Subjects are handled via tags, not via subcategories. The same essay may carry 3
 ## Form tags (what kind of essay within essays)
 - cornerstone — the very top tier of anchor pieces, surfaced first on the homepage as "Start here". Use sparingly (3–4 pieces total). A piece tagged `cornerstone` does not need to also be tagged `foundational`; for homepage display cornerstones are excluded from the Foundational treatises section to avoid duplication.
 - foundational — anchor pieces; surfaced on the homepage's Foundational treatises section. Pieces also tagged `cornerstone` are excluded from this section (they appear only in "Start here").
+- canonical — the current, clearest statement of a core argument; the only essays listed under "Canonical essays" in /llms.txt, ordered by `start_here_order`. A piece with `superseded_by` set drops out even if tagged.
 - treatise — long-form first-principles synthesis
 - paper — formally academic register (the rare case where a piece has abstract + references + co-authors)
 - speech — prepared-remarks-as-essay

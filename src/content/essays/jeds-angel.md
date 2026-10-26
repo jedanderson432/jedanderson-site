@@ -5,7 +5,8 @@ subtitle: "A successor to Maxwell's Demon, and a falsifiable conjecture about th
 date: 2026-06-19
 type: essay
 status: published
-tags: ["physics", "information-theory", "enviroai", "causal-sovereignty"]
+tags: ["physics", "information-theory", "enviroai", "causal-sovereignty", "canonical"]
+start_here_order: 10
 abstract: "Maxwell's Demon proved that information is a lever on energy. Scaled from molecules to the biosphere, the same physics yields Jed's Angel—and a falsifiable conjecture: that steering planetary flows toward life is bounded by the quality of information, not the size of the energy budget, with a thermodynamic floor near 240× and an operational gain of 10⁸–10¹²."
 license: CC-BY-4.0
 hero_image: "/images/jeds-angel-cover.png"

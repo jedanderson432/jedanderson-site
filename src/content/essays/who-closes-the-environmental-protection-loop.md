@@ -5,7 +5,8 @@ subtitle: "Four and a half billion years of a planet learning to answer"
 date: 2026-08-22
 type: essay
 status: published
-tags: ["visual-essay", "accessible", "enviroai", "environmental-intelligence", "monitoring", "regulatory-reform", "information-theory"]
+tags: ["visual-essay", "accessible", "enviroai", "environmental-intelligence", "monitoring", "regulatory-reform", "information-theory", "canonical"]
+start_here_order: 5
 abstract: "Seven eras of the environmental protection loop—sense, infer, decide, act—from a thermostat with no one to set it to a valve that shuts the second a leak opens. The operators changed six times and the four jobs never did; the only variable that ever moved was how fast the loop closes, and for four billion years a bigger domain meant a slower one. The machine loop now being built is the first regulator off that line."
 license: CC-BY-4.0
 pdf: "/pdfs/who-closes-the-environmental-protection-loop.pdf"

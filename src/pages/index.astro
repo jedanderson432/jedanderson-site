@@ -21,7 +21,9 @@ const sorted = all.sort((a, b) => +effectiveDate(b) - +effectiveDate(a));
 // editorial — set per-essay via the `start_here_order` integer in
 // frontmatter (1 = lead). Cornerstones without the field fall to the
 // bottom in date-desc order (the default `sorted` order).
-const cornerstone = sorted
+// Superseded pieces stay addressable but leave the curated sections.
+const current = sorted.filter((e) => !e.data.superseded_by);
+const cornerstone = current
   .filter((e) => e.data.tags?.includes('cornerstone'))
   .sort((a, b) => {
     const ao = a.data.start_here_order ?? Number.POSITIVE_INFINITY;
@@ -30,7 +32,7 @@ const cornerstone = sorted
     // Tie-break: keep date-desc for any unordered cornerstones.
     return +effectiveDate(b) - +effectiveDate(a);
   });
-const foundational = sorted.filter(
+const foundational = current.filter(
   (e) => e.data.tags?.includes('foundational') && !e.data.tags?.includes('cornerstone'),
 );
 const recent = sorted.slice(0, 6);

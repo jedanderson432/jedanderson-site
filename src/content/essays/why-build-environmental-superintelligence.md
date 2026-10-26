@@ -6,7 +6,8 @@ date: 2026-08-20
 original_date: 2026-08-18
 type: essay
 status: published
-tags: ["environmental-superintelligence", "monitoring", "regulatory-reform", "information-theory", "ai", "treatise"]
+tags: ["environmental-superintelligence", "monitoring", "regulatory-reform", "information-theory", "ai", "treatise", "canonical"]
+start_here_order: 4
 abstract: "Derives, from first principles and the measured 2026 record, seven reasons to build environmental superintelligence, ranked across three tiers and each stated alongside what it does not prove. The core finding is an asymmetry of clocks—civilization changes nature at machine speed and answers at paper speed—and the observation that the cost of environmental cognition, the one input that can close that gap, is now falling faster than any cost curve in the history of environmental work."
 license: CC-BY-4.0
 author: "Environmental Superintelligence Project"

@@ -106,6 +106,13 @@ const baseSchema = z.object({
   // Cornerstones without the field fall to the bottom in date-desc order.
   start_here_order: z.number().int().positive().optional(),
 
+  // Slug of a newer piece that makes the same argument more clearly.
+  // When set, ContentLayout shows a banner linking to it, and the piece
+  // drops out of the llms.txt canonical list and the homepage Start here
+  // and Foundational sections. Its URL, .md endpoint, PDF and DOI are
+  // unaffected—a superseded piece stays fully addressable.
+  superseded_by: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/).optional(),
+
   // Decks, videos, charts, posters, and other materials that attach
   // to the writing they serve. The writing is canonical; supporting
   // files are downloadable companions, never standalone collections.
