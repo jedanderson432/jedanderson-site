@@ -63,10 +63,14 @@ export const jedPersonSchema = {
   name: SITE.author,
   url: SITE.url,
   description: JED_DESCRIPTION,
-  jobTitle:
-    'Creator and CEO, EnviroAI; Environmental Attorney, The AL Law Group; Adjunct Professor of Law, University of Houston Law School',
+  jobTitle: 'Creator and CEO',
   email: `mailto:${SITE.email}`,
-  worksFor: { '@id': ENVIROAI_ID },
+  worksFor: {
+    '@type': 'Organization',
+    '@id': ENVIROAI_ID,
+    name: 'EnviroAI',
+    url: 'https://enviro.ai',
+  },
   alumniOf: [
     {
       '@type': 'CollegeOrUniversity',
@@ -81,8 +85,8 @@ export const jedPersonSchema = {
   ],
   affiliation: [
     {
-      '@type': 'Organization',
-      name: 'University of Houston Law School',
+      '@type': 'CollegeOrUniversity',
+      name: 'University of Houston Law Center',
       url: 'https://www.law.uh.edu/',
     },
     {
