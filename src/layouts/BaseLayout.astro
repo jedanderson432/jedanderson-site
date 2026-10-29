@@ -30,7 +30,10 @@ const googleVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 const bingVerification = import.meta.env.PUBLIC_BING_SITE_VERIFICATION;
 
 const fullTitle = title ? `${title}—${SITE.title}` : SITE.title;
-const resolvedCanonical = canonicalUrl ?? new URL(Astro.url.pathname, SITE.url).toString();
+// build.format 'file' makes Astro.url.pathname end in .html; strip it so
+// the canonical stays the extensionless, no-trailing-slash form.
+const canonicalPathname = Astro.url.pathname.replace(/\.html$/, '').replace(/(.)\/+$/, '$1');
+const resolvedCanonical = canonicalUrl ?? new URL(canonicalPathname, SITE.url).toString();
 const resolvedOgImage = ogImage
   ? new URL(ogImage, SITE.url).toString()
   : new URL('/og-default.png', SITE.url).toString();

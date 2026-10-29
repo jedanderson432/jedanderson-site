@@ -1,10 +1,10 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { canonicalPath } from '../../lib/canonical';
-import { effectiveDate } from '../../lib/dates';
-import { SITE } from '../../site-config';
-import { JED_ID, WEBSITE_ID } from '../../lib/site-entities';
+import { canonicalPath } from '../lib/canonical';
+import { effectiveDate } from '../lib/dates';
+import { SITE } from '../site-config';
+import { JED_ID, WEBSITE_ID } from '../lib/site-entities';
 
 const entries = await getCollection('speeches', ({ data }: any) => data.status === 'published');
 entries.sort((a: any, b: any) => +effectiveDate(b) - +effectiveDate(a));
