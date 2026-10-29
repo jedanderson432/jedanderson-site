@@ -32,10 +32,6 @@ const cornerstone = current
     // Tie-break: keep date-desc for any unordered cornerstones.
     return +effectiveDate(b) - +effectiveDate(a);
   });
-const foundational = current.filter(
-  (e) => e.data.tags?.includes('foundational') && !e.data.tags?.includes('cornerstone'),
-);
-const recent = sorted.slice(0, 6);
 // "About this work" surfaces the personal/narrative on-ramp essay
 // (The Arc) above Start here. Distinct from Start here, which holds
 // the conceptual cornerstones. Resolved by slug so the section auto-
@@ -43,6 +39,15 @@ const recent = sorted.slice(0, 6);
 const aboutThisWork = sorted.find(
   (e: any) => e.collection === 'essays' && e.slug === 'the-arc',
 );
+// The Arc carries the foundational tag but already has its own section
+// above, so it is left out of the treatises grid to avoid listing it twice.
+const foundational = current.filter(
+  (e) =>
+    e.data.tags?.includes('foundational') &&
+    !e.data.tags?.includes('cornerstone') &&
+    e !== aboutThisWork,
+);
+const recent = sorted.slice(0, 6);
 // The Concepts block surfaces the three-term definitional ladder
 // (EI → EAI → ESI) one hop from the root, so readers and crawlers reach
 // the canonical definitions directly from the homepage. Resolved by

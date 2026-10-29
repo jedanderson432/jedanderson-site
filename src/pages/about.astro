@@ -4,6 +4,10 @@ import { SITE } from '../site-config';
 import { JED_ID } from '../lib/site-entities';
 import SovereignBridge from '../components/SovereignBridge.astro';
 
+// Outbound link to EnviroAI from the "Current work" section. Single
+// constant so the link can be removed with one edit.
+const ENVIROAI_HREF = 'https://enviro.ai';
+
 // The Person/Organization/WebSite schemas are emitted site-wide by
 // BaseLayout. Here we add a ProfilePage node declaring that /about
 // IS Jed Anderson's canonical entity page (mainEntity points at the
@@ -141,8 +145,13 @@ const aboutMetaDescription =
 
     <h2>Current work</h2>
     <p>
-      Creator and CEO of <a href="https://enviro.ai">EnviroAI</a>—applying
-      environmental superintelligence to planetary-scale problems.
+      Creator and CEO of <a href={ENVIROAI_HREF}>EnviroAI</a>, the commercial
+      application of this work. The platform runs an AI system over more than
+      twenty million environmental permitting and compliance documents, joined
+      to live geospatial environmental data, and is in production use by major
+      petrochemical operators on the Texas Gulf Coast. That is where the theory
+      on this site meets measurement, under permits that carry legal
+      consequences.
     </p>
 
     <h2>Selected press</h2>

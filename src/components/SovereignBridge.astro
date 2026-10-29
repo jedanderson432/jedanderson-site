@@ -1,7 +1,7 @@
 ---
-// "Sovereign Bridge" attribution box. Connects the theoretical archive
-// on this site to its operational foundation at EnviroAI. Rendered at
-// the top of /about and as a footer block on every essay.
+// Attribution box. States authorship of the archive and points to
+// /about for the author's full profile. Rendered at the top of /about
+// and as a footer block on every essay.
 //
 // Deliberately dark against the paper-white site so it reads as a
 // distinct institutional panel rather than body copy. Kept out of the
@@ -21,28 +21,12 @@ const headingId = `sovereign-bridge-${placement}`;
   data-pagefind-ignore
 >
   <p class="sb-eyebrow">Attribution</p>
-  <h2 id={headingId} class="sb-title">
-    About This Archive &amp; The Empirical Engine Behind It
-  </h2>
+  <h2 id={headingId} class="sb-title">About this archive</h2>
   <div class="sb-body">
     <p>
-      <span class="sb-domain">jedanderson.org</span> is the sole-authored
-      theoretical research archive of environmental attorney and
-      physicist-theorist Jed Anderson. It lays out the mathematical and
-      thermodynamic foundations for Environmental Superintelligence and the
-      Large Nature Model (LNM).
-    </p>
-    <p>
-      These frameworks are not purely theoretical. Their commercial
-      foundation is already operational at EnviroAI (<a
-        href="https://www.enviro.ai"
-        target="_blank"
-        rel="noopener">www.enviro.ai</a
-      >)—co-founded and led by Jed as CEO—where an AI architecture connecting
-      20 million+ environmental compliance documents and live geospatial
-      environmental data is deployed today by global industrial leaders
-      including ExxonMobil, LyondellBasell, and Formosa. The LNM is the next
-      frontier actively being built on top of this foundation.
+      This archive is sole-authored by Jed Anderson, environmental attorney
+      and independent researcher. He is the Creator and CEO of EnviroAI, the
+      commercial application of this work. <a href="/about">About the author</a>.
     </p>
   </div>
 </aside>
@@ -105,15 +89,6 @@ const headingId = `sovereign-bridge-${placement}`;
     line-height: 1.65;
     color: var(--sb-text-soft);
   }
-  .sb-body p + p {
-    margin-top: 0.9rem;
-  }
-
-  .sb-domain {
-    font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
-    font-size: 0.92em;
-    color: var(--sb-cyan);
-  }
 
   .sb-body a {
     color: var(--sb-cyan);
@@ -136,6 +111,14 @@ const headingId = `sovereign-bridge-${placement}`;
   @media (min-width: 640px) {
     .sovereign-bridge {
       padding: 2.1rem 2.25rem 2rem;
+    }
+  }
+
+  /* Essay PDFs are prints of the rendered page (scripts/generate-pdfs.mjs,
+     scripts/render-page-pdf.mjs); keep the footer box out of them. */
+  @media print {
+    .sovereign-bridge--footer {
+      display: none;
     }
   }
 </style>
