@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import CiteThis from '../components/CiteThis.astro';
+import SovereignBridge from '../components/SovereignBridge.astro';
 import { getCollection } from 'astro:content';
 import { SITE, TYPE_LABELS, COLLECTIONS } from '../site-config';
 import { canonicalFor, canonicalPath } from '../lib/canonical';
@@ -459,6 +460,8 @@ if (data.defined_term) {
         </ul>
       </section>
     )}
+
+    {entry.collection === 'essays' && <SovereignBridge placement="footer" />}
 
     <hr class="border-rule my-10" />
 

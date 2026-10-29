@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { SITE } from '../site-config';
 import { JED_ID } from '../lib/site-entities';
+import SovereignBridge from '../components/SovereignBridge.astro';
 
 // The Person/Organization/WebSite schemas are emitted site-wide by
 // BaseLayout. Here we add a ProfilePage node declaring that /about
@@ -36,6 +37,8 @@ const aboutMetaDescription =
 >
   <article class="mx-auto max-w-3xl px-4 py-16 prose prose-lg max-w-none">
     <h1 id="jed-anderson">About</h1>
+
+    <SovereignBridge placement="about" />
 
     {/* Arc timeline. Wide-format graphic; render at full container width
         on desktop, and use overflow-x-auto on mobile so the timeline
