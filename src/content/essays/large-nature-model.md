@@ -26,9 +26,9 @@ The proposed Large Environmental Model has a language core that reads the law an
 
 The deck then sets out a three-generation build over 36 months, the case for Texas as the first home, who benefits, and the specific asks for the next 90 days.
 
-*The full deck is in the canonical PDF above. It is the October 2026 original and uses the model's earlier name, Large Nature Model.*
+*The full deck is in the canonical PDF above.*
 
 ## Revision history
 
-- **2026-11-01.** Renamed from The Large Nature Model to The Large Environmental Model, and the name defined as a class of models rather than one product. "Large Nature Model" is a registered name of an unrelated art project. The canonical PDF is unchanged and keeps the earlier name; the URL is unchanged.
+- **2026-11-01.** Renamed from The Large Nature Model to The Large Environmental Model, and the name defined as a class of models rather than one product. "Large Nature Model" is a registered name of an unrelated art project. The deck PDF is updated to the new name, including its three slide graphics; the URL is unchanged.
 - **2026-10-21.** Initial publication.

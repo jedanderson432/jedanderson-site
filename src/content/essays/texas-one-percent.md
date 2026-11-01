@@ -23,9 +23,9 @@ The compute does three jobs as one system. It verifies what data centers report 
 
 The compact is voluntary by design: never a permit condition, announced by the Governor, no new law required. TCEQ gets immediate, no-cost access to the EnviroAI platform on day one and sets the verification requirements. The deck closes with who wins—Texans, the Governor, data centers, TCEQ, Texas universities, and nature—and the asks for the next 90 days.
 
-*The full deck is in the canonical PDF above. It is the October 2026 original and uses the model's earlier name, Large Nature Model.*
+*The full deck is in the canonical PDF above.*
 
 ## Revision history
 
-- **2026-11-01.** "Large Nature Model" renamed "Large Environmental Model" in this summary. The canonical PDF is unchanged and keeps the earlier name.
+- **2026-11-01.** "Large Nature Model" renamed "Large Environmental Model" in this summary and in the deck PDF.
 - **2026-10-24.** Initial publication.
