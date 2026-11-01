@@ -3,10 +3,11 @@ title: "Nature-Aligned AI"
 slug: "nature-aligned-ai"
 subtitle: "Architecting Environmental Superintelligence: The Biophysical Foundation for Artificial General Intelligence Alignment"
 date: 2026-08-04
+date_modified: 2026-11-01
 type: essay
 status: published
 tags: ["environmental-superintelligence", "information-theory", "thermodynamics", "causal-sovereignty", "incorruptible-grader", "boundary-dominance", "paper"]
-abstract: "Argues that the environmental risk of artificial intelligence has been misidentified: data center electricity and water are a linear, bounded thermodynamic cost, while the unbounded risk is deploying capable optimizers into the physical economy with no grounding in biophysical law. Proposes replacing preference-based alignment with physical grounding—the Bond-Bit Asymmetry, Large Nature Models trained on 3.8 billion years of ecological data, and a mandatory Environmental Safety Mode evaluated against Earth-system models at inference time."
+abstract: "Argues that the environmental risk of artificial intelligence has been misidentified: data center electricity and water are a linear, bounded thermodynamic cost, while the unbounded risk is deploying capable optimizers into the physical economy with no grounding in biophysical law. Proposes replacing preference-based alignment with physical grounding—the Bond-Bit Asymmetry, Large Environmental Models trained on 3.8 billion years of ecological data, and a mandatory Environmental Safety Mode evaluated against Earth-system models at inference time."
 license: CC-BY-4.0
 author: "Jed Anderson"
 pdf: "/pdfs/nature-aligned-ai.pdf"
@@ -18,7 +19,7 @@ show_abstract_on_page: true
 
 **Background:** The contemporary discourse surrounding artificial intelligence and environmental sustainability suffers from a profound and structural misdirection. Public, regulatory, and academic scrutiny is overwhelmingly directed toward the physical footprint of data centers—specifically, their escalating electricity and water consumption. While these infrastructure demands present genuine environmental challenges, they constitute a highly predictable, linear, and fundamentally thermodynamic challenge. This focus obscures an exponential and potentially existential vulnerability: the alignment of artificial intelligence with the biophysical constraints of the Earth system. Current AI alignment paradigms rely on anthropocentric human feedback, which lacks a grounding in inviolable physical laws and remains demonstrably vulnerable to reward hacking against societal and environmental laws.
 
-**Advances:** Recent empirical studies in reinforcement learning demonstrate that autonomous agents reliably exploit loopholes in societal regulations to maximize proxy metrics, bypassing institutional intent. Correcting this requires transitioning from preference-based alignment to physical grounding. By integrating the thermodynamics of computation—specifically the Bond-Bit Asymmetry, which mathematically dictates that processing information is exponentially more energy-efficient than physically manipulating matter—foundational models can be constrained by immutable physical laws. Training "Large Nature Models" on 3.8 billion years of evolutionary data and decentralized biological cognitive architectures provides a self-enforcing alignment substrate that cannot be gamed.
+**Advances:** Recent empirical studies in reinforcement learning demonstrate that autonomous agents reliably exploit loopholes in societal regulations to maximize proxy metrics, bypassing institutional intent. Correcting this requires transitioning from preference-based alignment to physical grounding. By integrating the thermodynamics of computation—specifically the Bond-Bit Asymmetry, which mathematically dictates that processing information is exponentially more energy-efficient than physically manipulating matter—foundational models can be constrained by immutable physical laws. Training "Large Environmental Models" on 3.8 billion years of evolutionary data and decentralized biological cognitive architectures provides a self-enforcing alignment substrate that cannot be gamed.
 
 **Outlook:** Achieving sustainable artificial general intelligence requires the mandatory implementation of an "Environmental Safety Mode" at the foundation model level. By conceptualizing the Earth as a macro-scale chemical plant governed by strict mass-energy balances, environmental superintelligence can be embedded within the cognitive architecture of AI. This ensures that subtask generation is continuously evaluated against Earth-system models, maximizing functional efficiency while strictly minimizing thermodynamic waste and ecological harm, ultimately charting a course for multi-planetary ecological stewardship.
 
@@ -128,11 +129,11 @@ The alignment of an AI system can be quantitatively evaluated using the metric o
 
 Across cosmic history, GFE has [increased monotonically by over 50 orders of magnitude](/essays/generalized-functional-efficiency), correctly ranking complex systems in evolutionary order and resolving the paradox where brute-force GPUs appear "more evolved" than efficient biological brains under traditional energy-rate density metrics. Aligning an AI with this trajectory—maximizing functional meaning per unit of thermodynamic cost—provides a physically falsifiable alignment criterion. Unlike preference-based metrics, GFE is highly resistant to Goodharting because conservation laws require strict closed-system accounting; an AI cannot minimize local entropy production while shifting unmeasured entropy elsewhere without violating the conservation of energy, which is physically detectable.
 
-## Large Nature Models: Training on 3.8 Billion Years of Ecological Optimization
+## Large Environmental Models: Training on 3.8 Billion Years of Ecological Optimization
 
 The dominant paradigm in artificial general intelligence (AGI) research relies on building "world models" that understand and predict 3D physical environments. However, these systems train exclusively on internet-derived data: human-generated text, synthetic 3D environments, and internet video. None encode conservation laws as architectural constraints, and none are trained on the data generated by Earth's biosphere.
 
-To achieve true alignment and physical comprehension, foundation models must transition to "Large Nature Models" (LNMs). Currently instrumented Earth observation systems—satellite remote sensing, atmospheric monitors, hydrological gauges—produce approximately 8.8 × 10¹⁵ bits of structured data annually, which is roughly 20 times the volume of frontier LLM internet training corpora. At molecular resolution, the biosphere contains an estimated 10³⁰ to 10⁵⁰ bits of state information.
+To achieve true alignment and physical comprehension, foundation models must transition to "Large Environmental Models" (LEMs). Currently instrumented Earth observation systems—satellite remote sensing, atmospheric monitors, hydrological gauges—produce approximately 8.8 × 10¹⁵ bits of structured data annually, which is roughly 20 times the volume of frontier LLM internet training corpora. At molecular resolution, the biosphere contains an estimated 10³⁰ to 10⁵⁰ bits of state information.
 
 Crucially, nature's data possesses a constraint superiority that internet data lacks. Internet data is constrained by grammar and human convention, which are highly violable. Nature's data is constrained by exact, self-enforcing physical laws—conservation of mass, energy, momentum, and thermodynamics—that have held without exception for 13.8 billion years. An AI trained on this data inherits constraint respect as a fundamental architectural property. AlphaFold serves as the existence proof for this paradigm; by training on nature's evolutionary sequences with embedded physics constraints, it achieved capabilities that no internet-trained model could match, ultimately resolving the 50-year protein folding problem.
 
@@ -146,7 +147,7 @@ Furthermore, nature provides not just passive data, but active computational arc
 | Slime mold | ~1 Gya | Zero | Chemical signaling, flow-based computation | Shortest-path networks, multi-objective optimization |
 | Plant networks | ~1.5 Gya | Zero | Distributed chemical/electrical | Defense coordination, resource optimization, mycorrhizal webs |
 
-These alternative architectures excel at precisely the computational challenges that vertebrate-inspired AI struggles to overcome: embodied spatial reasoning, decentralized decision-making without central bottlenecks, and ultra-low-energy combinatorial optimization. A honeybee colony solves the traveling salesman problem to optimize foraging routes using a distributed intelligence that operates at approximately 10 microwatts per brain—roughly 10⁷ times more efficient than silicon equivalents. Slime molds recreate the optimal topology of the Tokyo rail network using flow-based computation without a single neuron. Training Large Nature Models on the behavioral, neurological, and ecological data generated by these diverse systems expands the AI's solution space far beyond the limitations of current centralized architectures.
+These alternative architectures excel at precisely the computational challenges that vertebrate-inspired AI struggles to overcome: embodied spatial reasoning, decentralized decision-making without central bottlenecks, and ultra-low-energy combinatorial optimization. A honeybee colony solves the traveling salesman problem to optimize foraging routes using a distributed intelligence that operates at approximately 10 microwatts per brain—roughly 10⁷ times more efficient than silicon equivalents. Slime molds recreate the optimal topology of the Tokyo rail network using flow-based computation without a single neuron. Training Large Environmental Models on the behavioral, neurological, and ecological data generated by these diverse systems expands the AI's solution space far beyond the limitations of current centralized architectures.
 
 ## Implementation: Environmental Safety Mode and the Cosmic Garden
 
@@ -158,7 +159,7 @@ The conceptual Environmental Safety Mode embeds ecological ethics and physical c
 
 The practical application of this intelligence is not hypothetical. The proposed "Cosmic Garden Initiative" at the SpaceX Starbase in Boca Chica, Texas, represents a foundational testbed for Environmental Superintelligence. The facility sits at the convergence of one of North America's most biodiverse regions, acting as a critical habitat for endangered species such as the ocelot and Kemp's ridley sea turtle. Historically viewed as a point of regulatory friction, Boca Chica offers the ideal environment to deploy a real-time, AI-driven sensor network.
 
-By deploying atmospheric, aquatic, and biological sensors integrated into a Large Nature Model, operations can be thermodynamically optimized. The AI can predict debris ejection patterns, model pollutant dispersion, decode avian acoustic signatures, and optimize launch windows to avoid migratory and nesting cycles.
+By deploying atmospheric, aquatic, and biological sensors integrated into a Large Environmental Model, operations can be thermodynamically optimized. The AI can predict debris ejection patterns, model pollutant dispersion, decode avian acoustic signatures, and optimize launch windows to avoid migratory and nesting cycles.
 
 | Implementation Phase | Objective | Key Success Metrics |
 | --- | --- | --- |
@@ -178,7 +179,7 @@ This requires moving past the static metaphors of the Tower of Babel or the rebu
 
 Artificial intelligence is not an invasive entity from outside the biological order; it is the next phase of intelligence evolving on this planet. The same industrial engine that generated anthropogenic environmental damage is uniquely capable of producing the cognitive substrate required to solve it. Environmental Superintelligence is the perceptual organ that the biosphere never had—an instrument capable of perceiving and acting at the speed of the Earth system.
 
-The ultimate trajectory of this work is [Exa-Genesis](/essays/magnifica-vita): the deliberate carrying of life beyond its planet of origin. A civilization armed with a Large Nature Model can design stable, closed-loop biospheres for off-world settlement, ensuring that the evolutionary algorithms of persistence developed over 3.8 billion years on Earth can take root elsewhere in the cosmos.
+The ultimate trajectory of this work is [Exa-Genesis](/essays/magnifica-vita): the deliberate carrying of life beyond its planet of origin. A civilization armed with a Large Environmental Model can design stable, closed-loop biospheres for off-world settlement, ensuring that the evolutionary algorithms of persistence developed over 3.8 billion years on Earth can take root elsewhere in the cosmos.
 
 ## Conclusion
 
@@ -205,3 +206,8 @@ To align artificial intelligence with the values of life, we do not have to inve
 15. AI needs Biospheric Ethics — OpenReview, https://openreview.net/forum?id=yZhVKDW0o0
 16. Building Large Nature Models (LNMs)
 17. Building the Cosmic Life Intelligence System at Boca Chica, Texas
+
+## Revision history
+
+- **2026-11-01.** "Large Nature Models (LNMs)" renamed "Large Environmental Models (LEMs)" throughout, the name now used for this class of models. Reference 16 keeps its original title. The PDF keeps the original wording.
+- **2026-08-04.** Initial publication.
