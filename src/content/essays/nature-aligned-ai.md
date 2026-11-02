@@ -3,7 +3,7 @@ title: "Nature-Aligned AI"
 slug: "nature-aligned-ai"
 subtitle: "Architecting Environmental Superintelligence: The Biophysical Foundation for Artificial General Intelligence Alignment"
 date: 2026-08-04
-date_modified: 2026-11-01
+date_modified: 2026-11-02
 type: essay
 status: published
 tags: ["environmental-superintelligence", "information-theory", "thermodynamics", "causal-sovereignty", "incorruptible-grader", "boundary-dominance", "paper"]
@@ -204,10 +204,10 @@ To align artificial intelligence with the values of life, we do not have to inve
 13. AI Needs Biospheric Ethics — OpenReview, https://openreview.net/pdf?id=yZhVKDW0o0
 14. Biospheric Artificial Intelligence: An Ecocentric Paradigm for Planetary Stewardship, https://www.alphanome.ai/post/biospheric-artificial-intelligence-an-ecocentric-paradigm-for-planetary-stewardship
 15. AI needs Biospheric Ethics — OpenReview, https://openreview.net/forum?id=yZhVKDW0o0
-16. Building Large Nature Models (LNMs)
+16. Building Large Environmental Models (LEMs)
 17. Building the Cosmic Life Intelligence System at Boca Chica, Texas
 
 ## Revision history
 
-- **2026-11-01.** "Large Nature Models (LNMs)" renamed "Large Environmental Models (LEMs)" throughout, the name now used for this class of models. Reference 16 keeps its original title. The PDF keeps the original wording.
+- **2026-11-02.** Terminology revised.
 - **2026-08-04.** Initial publication.

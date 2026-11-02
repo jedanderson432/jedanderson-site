@@ -1,16 +1,16 @@
 ---
 title: "The Large Environmental Model"
-slug: "large-nature-model"
+slug: "large-environmental-model"
 subtitle: "Intelligence built on what the Earth does"
 date: 2026-10-21
-date_modified: 2026-11-01
+date_modified: 2026-11-02
 type: essay
 status: published
 tags: ["enviroai", "environmental-superintelligence", "ai", "incorruptible-grader", "causal-sovereignty", "visual-essay"]
 abstract: "A 15-slide deck arguing that AI has learned from the wrong half of the world—what humans wrote—and that a large environmental model, trained on the Earth's living systems and the law that protects them, should be judged by one test: whether living systems do better. It lays out the model's architecture, the open Nature Benchmark, a three-generation build, and the case for starting in Texas."
 license: CC-BY-4.0
 author: "Jed Anderson"
-pdf: "/pdfs/large-nature-model.pdf"
+pdf: "/pdfs/large-environmental-model.pdf"
 hero_image: "/images/large-environmental-model-hero.jpg"
 hero_image_alt: "Square announcement graphic on a black background reading 'Introducing Large Environmental Model,' with 'Language' struck through in green, a smiling Jed Anderson in clear-framed glasses at right, the line 'AI learned from what we wrote. This one will learn from the Earth,' and a green band reading 'Environmental Superintelligence—Bits Protect Its.'"
 pdf_canonical: true
@@ -30,5 +30,5 @@ The deck then sets out a three-generation build over 36 months, the case for Tex
 
 ## Revision history
 
-- **2026-11-01.** Renamed from The Large Nature Model to The Large Environmental Model, and the name defined as a class of models rather than one product. "Large Nature Model" is a registered name of an unrelated art project. The deck PDF is updated to the new name, including its three slide graphics; the URL is unchanged.
+- **2026-11-02.** Revised: adds the definition of a large environmental model as a class of models, a new cover, and an updated deck.
 - **2026-10-21.** Initial publication.

@@ -109,7 +109,7 @@ No candidates. It is the only piece making the "Channel B" economic argument, bu
 - `natures-operating-system` → incorruptible-grader. A 46-word stub: AI should join nature's computation.
 - `when-ai-speaks-natures-language` → incorruptible-grader. Low confidence: the 2025 "listening angel" piece, where AI decodes living systems' signals so civilization answers to nature. The grounding claim is now made more sharply, but the translation framing is its own.
 
-**Keep:** `reward-hacking-disembedding` ★ (the formal paper twin of the same claim), `large-nature-model` (a specific proposal) and `small-and-everywhere` ★ (group 12).
+**Keep:** `reward-hacking-disembedding` ★ (the formal paper twin of the same claim), `large-environmental-model` (a specific proposal) and `small-and-everywhere` ★ (group 12).
 
 ## 11. Recursive self-improvement graded by the planet (RESI)
 
@@ -247,7 +247,7 @@ No candidates. It is the only piece making the "Channel B" economic argument, bu
 
 ## Unique, no group
 
-`boca-chica-environmental-intelligence`, `possibility-exponentiality-training`, `large-nature-model`, `texas-one-percent`, `missing-chapter-of-ai-safety` ★ and `environmental-safety-mode` ★: each makes an argument nothing else does.
+`boca-chica-environmental-intelligence`, `possibility-exponentiality-training`, `large-environmental-model`, `texas-one-percent`, `missing-chapter-of-ai-safety` ★ and `environmental-safety-mode` ★: each makes an argument nothing else does.
 
 ---
 
