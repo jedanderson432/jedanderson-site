@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '**[](/images/sip/volkswagen-and-defeat-device-on-new-ozone-standard.jpg) Ah . . . if the public only realized there is a defeat device on the new ozone standard** (see link).'
+abstract: '** Ah . . . if the public only realized there is a defeat device on the new ozone standard** (see link).'
 ---
 
 **  

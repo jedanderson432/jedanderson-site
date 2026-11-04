@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/childrens-health-and-air-pollution.png)'
+abstract: 'Children’s Health and Air Pollution'
 ---
 
 

@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/canada3.png)Three great things to come out of Canada. The first two will not surprise you . . . but the third one sure will! That’s right! Canada has reformed the SIP process!!!'
+abstract: 'Three great things to come out of Canada. The first two will not surprise you . . . but the third one sure will! That’s right! Canada has reformed the SIP process!!!'
 ---
 
 Three great things to come out of Canada.  The first two will not surprise you . . . but the third one sure will!  That’s right!  Canada has reformed the SIP process!!!

@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/steve-jobs-and-the-clean-air-act-2.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
-abstract: '[](/images/sip/steve-jobs-and-the-clean-air-act.png)I wonder what Steve Jobs would think about the Clean Air Act?'
+abstract: 'I wonder what Steve Jobs would think about the Clean Air Act?'
 ---
 
 I wonder what Steve Jobs would think about the Clean Air Act?

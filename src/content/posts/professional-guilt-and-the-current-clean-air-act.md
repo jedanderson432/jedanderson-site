@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
-abstract: '**[](/images/sip/professional-guilt-and-the-clean-air-act.png)**Anyone feel guilty for taking people’s money to do a bunch of this unnecessarily complicated and procedurally laden work under the current Clean Air Act?'
+abstract: '****Anyone feel guilty for taking people’s money to do a bunch of this unnecessarily complicated and procedurally laden work under the current Clean Air Act?'
 ---
 
 ****Anyone feel guilty for taking people’s money to do a bunch of this unnecessarily complicated and procedurally laden work under the current Clean Air Act?

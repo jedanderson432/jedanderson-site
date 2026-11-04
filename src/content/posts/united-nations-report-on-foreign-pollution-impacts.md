@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '**[](/images/sip/htap_topbar2.jpg)**'
+abstract: '****'
 ---
 
 ****

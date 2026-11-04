@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/einstein-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith', 'policy']
-abstract: '[](/images/sip/einstein-and-the-clean-air-act.png)I wonder what Einstein would think about the Clean Air Act?'
+abstract: 'I wonder what Einstein would think about the Clean Air Act?'
 ---
 
 I wonder what Einstein would think about the Clean Air Act?

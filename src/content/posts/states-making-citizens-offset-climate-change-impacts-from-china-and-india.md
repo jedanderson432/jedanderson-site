@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/china-india-and-u-s-pollution-impacts.png)Wait until someone figures this out other than me:'
+abstract: 'Wait until someone figures this out other than me:'
 ---
 
 Wait until someone figures this out other than me:

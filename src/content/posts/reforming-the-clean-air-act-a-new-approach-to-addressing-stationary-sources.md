@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/reforming-the-clean-air-act-a-new-approach-to-addressing-stationary-sources.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'simplicity', 'policy']
-abstract: '[](/images/sip/future2.png)How about working to build something new together? Here is an idea. If we succeeded in this endeavor we could greatly reduce costs to industry and the public–and improve environmental quality.'
+abstract: 'How about working to build something new together? Here is an idea. If we succeeded in this endeavor we could greatly reduce costs to industry and the public–and improve environmental quality.'
 ---
 
 How about working to build something new together?  Here is an idea.  If we succeeded in this endeavor we could greatly reduce costs to industry and the public–and improve environmental quality.  There is a win-win future out there if we have the courage to seek it.

@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/how-to-reduce-clean-air-act-litigation.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/legal.jpg)One of the central focuses of the Congressional Clean Air Act Forums so far has been the crazy amount of litigation on air quality matters.'
+abstract: 'One of the central focuses of the Congressional Clean Air Act Forums so far has been the crazy amount of litigation on air quality matters.'
 ---
 
 One of the central focuses of the Congressional Clean Air Act Forums so far has been the crazy amount of litigation on air quality matters.  At one point the question came up about what we could do to reduce litigation.  The room was silent.

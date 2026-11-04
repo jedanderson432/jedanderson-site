@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'policy']
-abstract: '[](/images/sip/foreign-pollution-responsibility.png)'
+abstract: 'EPA Indicates Willingness to Acknowledge Foreign Pollution Impacts on States'
 ---
 
 

@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/pollutant-transport-and-the-clean-air-act.jpg)The U.S. Supreme Court heard oral arguments today on the cross-state air pollution rule.'
+abstract: 'The U.S. Supreme Court heard oral arguments today on the cross-state air pollution rule.'
 ---
 
 The U.S. Supreme Court heard oral arguments today on the cross-state air pollution rule.  Governors from the Eastern States also have filed a petition with EPA seeking additional emission reductions from the Midwestern States.

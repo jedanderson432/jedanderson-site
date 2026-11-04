@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/gina-mccarthy-answer-to-senate-committee-regarding-foreign-pollution.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '> **[](/images/sip/mccarthy-and-foreign-pollution.png)Senate Question: According to recent NOAA reports, half of all the current ozone exceedances in many areas in the Western US are due to emissions from Asia.'
+abstract: '> **Senate Question: According to recent NOAA reports, half of all the current ozone exceedances in many areas in the Western US are due to emissions from Asia.'
 ---
 
 > **Senate Question:   According to recent NOAA reports, half of all the current ozone exceedances in many areas in the Western US are due to emissions from Asia.  How do you plan to address this important problem?**

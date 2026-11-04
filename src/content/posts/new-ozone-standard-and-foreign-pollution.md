@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/world-pollution.png)Can anyone help me understand this? I can’t figure it out. Seems non-sensical. It’s from EPA’s proposed ozone rule:'
+abstract: 'Can anyone help me understand this? I can’t figure it out. Seems non-sensical. It’s from EPA’s proposed ozone rule:'
 ---
 
 Can anyone help me understand this?  I can’t figure it out.  Seems non-sensical.  It’s from EPA’s proposed ozone rule:

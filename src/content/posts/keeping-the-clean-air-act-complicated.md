@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
-abstract: '**[](/images/sip/the-clean-air-act.png)**Does anyone else sense this?'
+abstract: '****Does anyone else sense this?'
 ---
 
 ****Does anyone else sense this?

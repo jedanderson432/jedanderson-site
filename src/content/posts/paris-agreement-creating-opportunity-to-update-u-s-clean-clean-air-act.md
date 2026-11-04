@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/obama-and-paris.gif)'
+abstract: 'Paris Agreement Creating Opportunity to Update U.S. Clean Clean Air Act'
 ---
 
 

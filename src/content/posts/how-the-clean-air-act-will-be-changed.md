@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/how-the-clean-air-act-will-be-changed.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/art-buchwald.png)When we think of how the Clean Air Act will be changed I think we envision some powerful and influential person, who understands the Clean Air Act much better than we do, giving a rousing speech before…'
+abstract: 'When we think of how the Clean Air Act will be changed I think we envision some powerful and influential person, who understands the Clean Air Act much better than we do, giving a rousing speech before…'
 ---
 
 When we think of how the Clean Air Act will be changed I think we envision some powerful and influential person, who understands the Clean Air Act much better than we do, giving a rousing speech before Congress that convinces Congress than an update is needed. That’s not however how the Clean Air Act will be changed. Here is a much more likely scenario:

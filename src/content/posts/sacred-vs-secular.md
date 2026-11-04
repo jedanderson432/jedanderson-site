@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '> ***[](/images/sip/sacred-vs-secular.jpg)Sentiment:*** Jed, you seem to jumble up religion and science and philosophy and public policy and theology.'
+abstract: '> ***Sentiment:*** Jed, you seem to jumble up religion and science and philosophy and public policy and theology.'
 ---
 
 > ***Sentiment:***  Jed, you seem to jumble up religion and science and philosophy and public policy and theology.

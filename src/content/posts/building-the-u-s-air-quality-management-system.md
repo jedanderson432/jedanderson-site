@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/building-the-u-s-air-quality-management-system1.png)This is largely how we are building our air quality management system—one structure next to or on top of another structure on top of another structure on top of anothe…'
+abstract: 'This is largely how we are building our air quality management system—one structure next to or on top of another structure on top of another structure on top of anothe…'
 ---
 
 This is largely how we are building our air quality management system—one structure next to or on top of another structure on top of another structure on top of another structure.  Questions:

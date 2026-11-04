@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/foreign-pollution-and-cost.jpg)'
+abstract: 'Who should pay for foreign pollution?'
 ---
 
 

@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/babe-ruth-and-the-clean-air-act.png)'
+abstract: 'Playing “Small Ball” with the Clean Air Act'
 ---
 
 

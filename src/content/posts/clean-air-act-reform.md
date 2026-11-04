@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/clean-air-act-reform.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'simplicity']
-abstract: '[](/images/sip/caa1.png)'
+abstract: 'Clean Air Act Reform'
 ---
 
 

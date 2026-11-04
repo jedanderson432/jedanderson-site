@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '**[](/images/sip/sailboat-and-clean-air-act2.png)“I admire your idealism . . .”**'
+abstract: '**“I admire your idealism . . .”**'
 ---
 
 **“I admire your idealism . . .”**

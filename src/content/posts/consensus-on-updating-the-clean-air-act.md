@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/waldo1.png)How do we get consensus on how to update the Clean Air Act? Quite easy. Just a matter of personally searching for the truth as best we can see it. I will explain.'
+abstract: 'How do we get consensus on how to update the Clean Air Act? Quite easy. Just a matter of personally searching for the truth as best we can see it. I will explain.'
 ---
 
 How do we get consensus on how to update the Clean Air Act?  Quite easy.  Just a matter of personally searching for the truth as best we can see it.  I will explain.

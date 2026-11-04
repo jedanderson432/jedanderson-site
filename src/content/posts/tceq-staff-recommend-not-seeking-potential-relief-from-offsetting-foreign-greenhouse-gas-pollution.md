@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'policy']
-abstract: '[](/images/sip/texas-and-foreign-pollution.png)Looks like Texas won’t seek potential EPA relief from offsetting foreign greenhouse gas pollution (see TCEQ Docket No. 2014-1017-PET). The hearing is on the 10th.'
+abstract: 'Looks like Texas won’t seek potential EPA relief from offsetting foreign greenhouse gas pollution (see TCEQ Docket No. 2014-1017-PET). The hearing is on the 10th.'
 ---
 
 Looks like Texas won’t seek potential EPA relief from offsetting foreign greenhouse gas pollution (see [TCEQ Docket No. 2014-1017-PET](http://www7.tceq.state.tx.us/uploads/eagendas/Agendas/2014/9-10-2014/1017PET.pdf)).  The hearing is on the 10th.

@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/simplicity-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith', 'policy']
-abstract: '[](/images/sip/clean-air-act-and-simplicity.png)The reason things are still complicated is that we do not fully understand them. Once we fully understand them . . . they will become simple.'
+abstract: 'The reason things are still complicated is that we do not fully understand them. Once we fully understand them . . . they will become simple.'
 ---
 
 The reason things are still complicated is that we do not fully understand them.  Once we fully understand them . . . they will become simple.

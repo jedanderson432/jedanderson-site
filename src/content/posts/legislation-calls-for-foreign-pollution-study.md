@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/legislation-calls-for-foreign-pollution-study.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/olson-bill.png)Fantastic! What bold Congressional leadership! Hopefully this helps lead to comprehensive improvements to the Clean Air Act. Thank you Congressmen Olson, Latta, Cuellar, and Kirkpatrick!'
+abstract: 'Fantastic! What bold Congressional leadership! Hopefully this helps lead to comprehensive improvements to the Clean Air Act. Thank you Congressmen Olson, Latta, Cuellar, and Kirkpatrick!'
 ---
 
 Fantastic!  What bold Congressional leadership!  Hopefully this helps lead to comprehensive improvements to the Clean Air Act.  Thank you Congressmen Olson, Latta, Cuellar, and Kirkpatrick!

@@ -24,6 +24,6 @@ It’s become “a small multi-pollutant world after all.”  Time for a new, bi
 
 I’ve incorporated this new international agreement with a domestic program so that it should all work more simply and seamlessly.  The new Clean Air Act re-authorization reduces the need for approximately 75% of the current Clean Air Act.
 
-For a summary of the “Clean Air Act Reauthorization of 2017”, click [here](/pdfs/sip/Clean_Air_Act_Reauthorization_of_2017.pdf).
+For a summary of the “Clean Air Act Reauthorization of 2017”, click here.
 
-For the actual draft legislative text of the “Clean Air Act Reauthorization of 2017”, click [here](/pdfs/sip/The_Clean_Air_Act_Reauthorization_of_2017.pdf).
+For the actual draft legislative text of the “Clean Air Act Reauthorization of 2017”, click here.

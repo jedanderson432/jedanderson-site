@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/new-ozone-standard.jpg)The new ozone standard in 2 weeks won’t be 70 ppb––or 65 ppb. That’s just a number for people who don’t understand how the NAAQS/SIP process works.'
+abstract: 'The new ozone standard in 2 weeks won’t be 70 ppb––or 65 ppb. That’s just a number for people who don’t understand how the NAAQS/SIP process works.'
 ---
 
 The new ozone standard in 2 weeks won’t be 70 ppb––or 65 ppb.  That’s just a number for people who don’t understand how the NAAQS/SIP process works.
@@ -19,4 +19,4 @@ I wish I could explain this in some way that someone else other than me could un
 
 Someday someone else will figure this out other than me.  It’s got little to do with me.  That’s just how truth works.  Always pushing toward the light.
 
-The world is changing.  We must change with it.  Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “[The Clean Air and Climate Change Act of 2015](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)”).  We can make it happen.
+The world is changing.  We must change with it.  Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “The Clean Air and Climate Change Act of 2015”).  We can make it happen.

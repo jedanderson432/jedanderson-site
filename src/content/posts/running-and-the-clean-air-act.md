@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/running-and-the-clean-air-act.png)How can we keep running toward the goal of a more simplified Clean Air Act? Don’t make the end our joy.'
+abstract: 'How can we keep running toward the goal of a more simplified Clean Air Act? Don’t make the end our joy.'
 ---
 
 How can we keep running toward the goal of a more simplified Clean Air Act?  Don’t make the end our joy.

@@ -21,4 +21,4 @@ The reason why the easiest way to avoid environmental regulation perhaps is to c
 
 Time to simplify and transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world.  We can make it happen.
 
-To view a summary of the “21st Century Clean Air Act”, click [here](/pdfs/sip/Clean_Air_Act_Reauthorization_of_2017.pdf).  For the text of the new Act click [here](/pdfs/sip/The_Clean_Air_Act_Reauthorization_of_2017.pdf).
+To view a summary of the “21st Century Clean Air Act”, click here.  For the text of the new Act click here.

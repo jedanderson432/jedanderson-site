@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/courtroom-or-the-field-we-solve-environmental-problems.pdf"
 tags: ["linkedin", "linkedin-original"]
-abstract: "![](https://media.licdn.com/mediaC5112AQHD58JD3DNA_Q) Wherever we need to go to get the job done.  That's the AL Law Group. For more information on comprehensive environmental solutions, see [www.allawgp.com](http://www.allawgp.com/)."
+abstract: "Wherever we need to go to get the job done.  That's the AL Law Group. For more information on comprehensive environmental solutions, see [www.allawgp.com](http://www.allawgp.com/)."
 ---
 
 

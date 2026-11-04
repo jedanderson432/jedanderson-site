@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
-abstract: '> **[](/images/sip/mccarthy-and-foreign-pollution.png)————“I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a neuroscientist to figure it out”.**—Gina McCarthy, U.S.'
+abstract: '> **————“I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a neuroscientist to figure it out”.**—Gina McCarthy, U.S.'
 ---
 
 > **————“I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a neuroscientist to figure it out”.**—Gina McCarthy, U.S. EPA Administrator

@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'policy']
-abstract: '[](/images/sip/epa-and-the-states.png)State keeps ignoring EPA guidance and accepting responsibility for foreign pollution and other background pollution that States can’t control.'
+abstract: 'State keeps ignoring EPA guidance and accepting responsibility for foreign pollution and other background pollution that States can’t control.'
 ---
 
 State keeps ignoring EPA guidance and accepting responsibility for foreign pollution and other background pollution that States can’t control.

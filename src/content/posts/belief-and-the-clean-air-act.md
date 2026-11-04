@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/mountains-and-the-clean-air-act.png)“I believe I can change the Clean Air Act.” When I tell people this they look at me like I just told them I believed I could fly to Neptune.'
+abstract: '“I believe I can change the Clean Air Act.” When I tell people this they look at me like I just told them I believed I could fly to Neptune.'
 ---
 
 “I believe I can change the Clean Air Act.”  When I tell people this they look at me like I just told them I believed I could fly to Neptune.  Some people mistakenly think that belief is a feeling.  That one must feel like they believe in order to believe.  Belief is not a feeling.  Belief is a choice.  Feelings come and go.  Feelings are fickle.  Nothing can be built on a feeling of belief.  Mountains can be built on a choice of belief.

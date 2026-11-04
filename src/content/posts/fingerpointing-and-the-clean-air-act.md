@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/fingerpointing-and-the-clean-air-act.png)The goal now seems to be what State can do the best finger-pointing (see article below). “It wasn’t my pollution . . . it was hers!”'
+abstract: 'The goal now seems to be what State can do the best finger-pointing (see article below). “It wasn’t my pollution . . . it was hers!”'
 ---
 
 The goal now seems to be what State can do the best finger-pointing (see article below).  “It wasn’t my pollution . . . it was hers!”

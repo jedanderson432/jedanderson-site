@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/foreign-pollution-and-the-naaqs.png)'
+abstract: 'Foreign Pollution and the NAAQS'
 ---
 
 

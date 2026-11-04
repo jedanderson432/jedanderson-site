@@ -13,4 +13,4 @@ abstract: 'Foreign pollution is impacting the health and attainment efforts of H
 
 Foreign pollution is impacting the health and attainment efforts of Houston . . . to the tune of billions of dollars.
 
-Here is a presentation given yesterday to the Regional Air Quality Planning Committee:  “[Houston and Foreign Pollution](/pdfs/sip/RAQPC_-_Foreign_Pollution_Presentation_-_Jed_Anderson.pdf)“
+Here is a presentation given yesterday to the Regional Air Quality Planning Committee:  “Houston and Foreign Pollution“

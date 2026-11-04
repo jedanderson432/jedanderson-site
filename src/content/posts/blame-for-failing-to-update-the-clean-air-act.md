@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/roosevelt-and-the-clean-air-act.png)Who do I mostly blame for failing to update the Clean Air Act?'
+abstract: 'Who do I mostly blame for failing to update the Clean Air Act?'
 ---
 
 Who do I mostly blame for failing to update the Clean Air Act?

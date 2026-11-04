@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/california-citizens-paying-fine-for-foreign-pollution.png)Most of the time in our society we do not penalize someone until they are found guilty. Here it is the opposite.'
+abstract: 'Most of the time in our society we do not penalize someone until they are found guilty. Here it is the opposite.'
 ---
 
 Most of the time in our society we do not penalize someone until they are found guilty.  Here it is the opposite.  The Clean Air Act says to the local community that you didn’t achieve the standard and it’s your fault (Section 185).  It’s then up to the community to prove otherwise.  In the meantime you will be fined $29 million per year.

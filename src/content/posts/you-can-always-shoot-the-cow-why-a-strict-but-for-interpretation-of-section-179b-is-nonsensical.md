@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/you-can-always-shoot-the-cow-why-a-strict-but-for-interpretation-of-section-179b-is-nonsensical.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/clean-air-act-section-179b.png)For some reason States seem to think that Section 179B is a strict “but for” demonstration.'
+abstract: 'For some reason States seem to think that Section 179B is a strict “but for” demonstration.'
 ---
 
 For some reason States seem to think that Section 179B is a strict “but for” demonstration.  In other words, that foreign pollution is inconsequential unless it’s the only reason why the State is in nonattainment.

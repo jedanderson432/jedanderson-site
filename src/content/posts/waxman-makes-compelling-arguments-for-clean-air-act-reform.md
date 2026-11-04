@@ -15,4 +15,4 @@ Henry Waxman today made compelling arguments for updating the Clean Air Act agai
 
 
 
-Time to simplify and transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “[The Clean Air and Climate Change Act of 2015](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)”).  We can make it happen.
+Time to simplify and transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “The Clean Air and Climate Change Act of 2015”).  We can make it happen.

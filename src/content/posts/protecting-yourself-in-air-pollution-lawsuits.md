@@ -9,6 +9,6 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/protecting-yourself-in-air-pollution-lawsuits.pdf"
 tags: ["linkedin", "linkedin-original"]
-abstract: "![](https://media.licdn.com/mediaC5112AQH4cSqpe1Wn-w)"
+abstract: "Protecting Yourself in Air Pollution Lawsuits"
 ---
 

@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/clean-air-act-and-history.png)Take a look at the timeline above. The Clean Air Act is a dot. One day the dot will be gone. It’s just a fact. As they say, “History repeats itself . . .'
+abstract: 'Take a look at the timeline above. The Clean Air Act is a dot. One day the dot will be gone. It’s just a fact. As they say, “History repeats itself . . .'
 ---
 
 Take a look at the timeline above.  The Clean Air Act is a dot.  One day the dot will be gone.  It’s just a fact.  As they say, “History repeats itself . . . and that’s one of the things wrong with history”.  We are often time-blinded and give undue weight to the present circumstances and the institutions around us that appear immovable—not seeing the finiteness of the moment and the infinity in which we are engulfed.  The effect can be paralyzing.  One way to regain perspective is to remember that historical events come and go, that you will outlive the Clean Air Act, and that the people you see each day at the bus stop or grocery store carry far more power than institutions such as the Clean Air Act.

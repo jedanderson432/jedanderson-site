@@ -8,6 +8,6 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/fight-or-build.png)'
+abstract: 'CPP and Ozone Fights'
 ---
 

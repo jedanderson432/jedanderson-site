@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/reevaluating-the-caa-would-prove-disastrous.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/clean-air-act-and-courage.jpg)Many Republican and Democrat leaders think that reevaluating the Clean Air Act would prove “disastrous” (see quotes in last Friday’s Politico)'
+abstract: 'Many Republican and Democrat leaders think that reevaluating the Clean Air Act would prove “disastrous” (see quotes in last Friday’s Politico)'
 ---
 
 Many Republican and Democrat leaders think that reevaluating the Clean Air Act would prove “disastrous” (see quotes in last Friday’s [Politico](http://www.politico.com/tipsheets/morning-energy/2015/10/pro-morning-energy-wolff-210516))
@@ -26,4 +26,4 @@ I’ve got a one word response to this:
 
 All will be well.
 
-Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “[The Clean Air and Climate Change Act of 2015](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)”).  We can make it happen.
+Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “The Clean Air and Climate Change Act of 2015”).  We can make it happen.

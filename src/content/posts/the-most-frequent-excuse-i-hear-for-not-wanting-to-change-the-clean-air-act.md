@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/the-most-frequent-excuse-i-hear-for-not-wanting-to-change-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/general-washington.png)Probably the most frequent excuse I hear for not wanting to try to improve the Clean Air Act is if we give this thing to Congress you never know what they will do with it.'
+abstract: 'Probably the most frequent excuse I hear for not wanting to try to improve the Clean Air Act is if we give this thing to Congress you never know what they will do with it.'
 ---
 
 Probably the most frequent excuse I hear for not wanting to try to improve the Clean Air Act is if we give this thing to Congress you never know what they will do with it.  I imagine George Washington was thinking the same thing when he thought about keeping his powers to himself after the war of independence.  His first thought had to have been to look over at Congress and think to himself, “Look at all these yahoos”.  Fortunately Washington replied, “I didn¹t fight George III to become George I.”

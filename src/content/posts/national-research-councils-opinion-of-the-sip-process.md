@@ -8,6 +8,6 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/nrc.png)'
+abstract: 'National Research Council’s Opinion of the SIP Process'
 ---
 

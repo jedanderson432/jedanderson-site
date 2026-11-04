@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/energy-and-the-clean-air-act.png)Important to remember that one day all these climate change and air quality regulatory arguments will largely be moot. It won’t be tomorrow . . . but it will be some tomorrow.'
+abstract: 'Important to remember that one day all these climate change and air quality regulatory arguments will largely be moot. It won’t be tomorrow . . . but it will be some tomorrow.'
 ---
 
 Important to remember that one day all these climate change and air quality regulatory arguments will largely be moot.  It won’t be tomorrow . . . but it will be some tomorrow.

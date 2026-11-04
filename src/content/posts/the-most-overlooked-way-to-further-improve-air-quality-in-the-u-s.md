@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
-abstract: '[](/images/sip/twain-and-clean-air-act.png)Probably the easiest and most overlooked way to improve air quality in the U.S. is to simplify the Clean Air Act.'
+abstract: 'Probably the easiest and most overlooked way to improve air quality in the U.S. is to simplify the Clean Air Act.'
 ---
 
 Probably the easiest and most overlooked way to improve air quality in the U.S. is to simplify the Clean Air Act.
@@ -17,4 +17,4 @@ With simplicity comes  transparency.  With transparency comes accountability.  T
 
 > “The more you explain it, the more I don’t understand it.”—-**Mark Twain** 
 
-Time to simplify the Clean Air Act **(see [link](/pdfs/sip/HBA_Section_-_CAA_Improvements_Presentation_-_January_2014.pdf) and [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).**We can make it happen.
+Time to simplify the Clean Air Act **(see link and [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).**We can make it happen.

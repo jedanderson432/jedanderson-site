@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/policy-relevant-background-ozone-and-epa.png)Which is the Truth about Background Pollution?'
+abstract: 'Which is the Truth about Background Pollution?'
 ---
 
 Which is the Truth about Background Pollution?

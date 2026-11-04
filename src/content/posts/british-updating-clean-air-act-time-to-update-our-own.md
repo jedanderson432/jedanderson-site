@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/british.jpg)Guess who else is updating their Clean Air Act? The British!'
+abstract: 'Guess who else is updating their Clean Air Act? The British!'
 ---
 
 Guess who else is updating their Clean Air Act?  The British!  Even though the Clean Air Act in the UK is 3 years newer than the Clean Air Act in the U.S., here is what the UK’s Department for Environment, Food, and Rural Affairs said in an initial review of their Clean Air Act:

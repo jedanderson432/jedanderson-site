@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/kierkegaard-and-the-clean-air-act.png)'
+abstract: 'The World’s Judgment and the Clean Air Act'
 ---
 
 

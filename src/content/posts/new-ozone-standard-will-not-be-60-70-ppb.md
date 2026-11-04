@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/ozone.jpg)The ozone NAAQS in reality will not be 60-70 ppb. That’s just a number for people who don’t understand how the NAAQS/SIP process works.'
+abstract: 'The ozone NAAQS in reality will not be 60-70 ppb. That’s just a number for people who don’t understand how the NAAQS/SIP process works.'
 ---
 
 The ozone NAAQS in reality will not be 60-70 ppb.  That’s just a number for people who don’t understand how the NAAQS/SIP process works.

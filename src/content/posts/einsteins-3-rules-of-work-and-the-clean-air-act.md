@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
-abstract: '[](/images/sip/einstein-and-the-clean-air-act.png)As Picasso said, “Good artists copy, great artists steal”.'
+abstract: 'As Picasso said, “Good artists copy, great artists steal”.'
 ---
 
 As Picasso said, “Good artists copy, great artists steal”.  So how might Einstein approach the Clean Power Plan, New Ozone Standard, and other challenges we face under the Clean Air Act?  Easy to find.  Here are Einstein’s 3 rules of work:
@@ -21,4 +21,4 @@ Anyone want to try applying his 3 rules to the Clean Air Act?  Does anyone else 
 
 What an incredible world we live in.  What an incredible journey we are on.  All will be well.
 
-The world is changing.  We must change with it.  Time to simplify and transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “[The Clean Air and Climate Change Act of 2015](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)”).  We can make it happen.
+The world is changing.  We must change with it.  Time to simplify and transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “The Clean Air and Climate Change Act of 2015”).  We can make it happen.

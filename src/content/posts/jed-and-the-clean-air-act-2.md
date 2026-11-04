@@ -8,6 +8,6 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/jed-and-clean-air-act-2.png)'
+abstract: 'Jed and the Clean Air Act'
 ---
 

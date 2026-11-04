@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'faith']
-abstract: '[](/images/sip/courage-and-the-clean-air-act.png)The main reason most people don’t want to change the Clean Air Act is because they’re scared.'
+abstract: 'The main reason most people don’t want to change the Clean Air Act is because they’re scared.'
 ---
 
 The main reason most people don’t want to change the Clean Air Act is because they’re scared.  

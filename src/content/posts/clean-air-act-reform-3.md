@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/clean-air-act-reform-3.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'faith']
-abstract: '> ***[](/images/sip/air-quality.png)Sentiment:*** *“You folks are a failure. The Clean Air Act can’t be simplified and transformed. It’s politically impossible. You are wasting your time.”*'
+abstract: '> ***Sentiment:*** *“You folks are a failure. The Clean Air Act can’t be simplified and transformed. It’s politically impossible. You are wasting your time.”*'
 ---
 
 > ***Sentiment:*** *“You folks are a failure.  The Clean Air Act can’t be simplified and transformed.  It’s politically impossible.  You are wasting your time.”*

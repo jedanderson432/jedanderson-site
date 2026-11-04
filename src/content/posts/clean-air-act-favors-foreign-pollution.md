@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](/images/sip/domestic-vs-foreign-pollution.png)'
+abstract: 'Clean Air Act Favors Foreign Pollution'
 ---
 
 

@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/tj1.png)'
+abstract: 'Should we change the Clean Air Act to address the problems with the SIP process?'
 ---
 
 

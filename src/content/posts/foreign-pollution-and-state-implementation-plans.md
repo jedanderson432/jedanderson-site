@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/cow-and-the-clean-air-act.png)'
+abstract: 'Foreign Pollution and State Implementation Plans'
 ---
 
 

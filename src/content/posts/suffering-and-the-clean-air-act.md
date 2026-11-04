@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/suffering-and-the-clean-air-act.pdf"
 tags: ['clean-air-act', 'regulatory-reform', 'faith']
-abstract: '***[](/images/sip/harmful-and-the-clean-air-act.png)Sentiment: “***I don’t want to suffer.'
+abstract: '***Sentiment: “***I don’t want to suffer.'
 ---
 
 ***Sentiment:  “***I don’t want to suffer.  I want to help transform the Clean Air Act for the benefit of the environment and the economy, but I don’t want people to laugh at me, ignore me, or despise me for it.  I understand this is to be expected, and that this is part of the process, but I don’t want to suffer more.   My life is already painful enough.” 

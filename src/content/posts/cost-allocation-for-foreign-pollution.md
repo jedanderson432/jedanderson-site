@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/cost-of-foreign-pollution.png)'
+abstract: 'Cost Allocation for Foreign Pollution'
 ---
 
 

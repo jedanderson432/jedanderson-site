@@ -9,7 +9,7 @@ status: published
 license: CC-BY-4.0
 pdf: "/pdfs/tceq-loading-your-docs-onto-world-wide-web.pdf"
 tags: ["clean-air-act", "regulatory-reform", "tceq", "legal-reform", "linkedin-original"]
-abstract: "![](https://media.licdn.com/mediaC5112AQGzf63eB8id_A) ![](https://media.licdn.com/dms/image/v2/C5112AQHuFvISfSsRCg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1520170265347?e=1779926400&v=beta&t=S0jHf_lBkSw…"
+abstract: "TCEQ Loading Your Docs onto World-wide Web"
 ---
 
 

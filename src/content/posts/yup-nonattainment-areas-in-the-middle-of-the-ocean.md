@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/ocean1.png)'
+abstract: 'Yup . . . Nonattainment Areas in the Middle of the Ocean'
 ---
 
 

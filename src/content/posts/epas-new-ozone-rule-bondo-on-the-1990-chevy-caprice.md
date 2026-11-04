@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/refurbish-1990-clean-air-act-or-get-a-2013-tesla.png)Everyone review EPA’s proposed 8-hour ozone implementation rule (see link)? Commendable and admirable. I am reminded however of the following C.S. Lewis quote:'
+abstract: 'Everyone review EPA’s proposed 8-hour ozone implementation rule (see link)? Commendable and admirable. I am reminded however of the following C.S. Lewis quote:'
 ---
 
 Everyone review EPA’s proposed 8-hour ozone implementation rule (see [link](http://www.epa.gov/glo/pdfs/Ozone%20SIP%20Req_Proposal_FRN_5-28-13%20disclaimer.pdf))?  Commendable and admirable.  I am reminded however of the following C.S. Lewis quote:

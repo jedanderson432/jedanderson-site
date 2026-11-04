@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '> [](/images/sip/democrats-republicans-and-the-clean-air-act.jpg)Liberals are not thinking liberal enough on this issue yet. And the conservatives are not thinking conservative enough.'
+abstract: '>Liberals are not thinking liberal enough on this issue yet. And the conservatives are not thinking conservative enough.'
 ---
 
 > Liberals are not thinking liberal enough on this issue yet.  And the conservatives are not thinking conservative enough. 
@@ -17,4 +17,4 @@ abstract: '> [](/images/sip/democrats-republicans-and-the-clean-air-act.jpg)Libe
 >
 > It’s not idealism.  Just pragmatism with an extended timeline.
 
-Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “[The Clean Air and Climate Change Act of 2015](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)”).  We can make it happen.
+Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “The Clean Air and Climate Change Act of 2015”).  We can make it happen.

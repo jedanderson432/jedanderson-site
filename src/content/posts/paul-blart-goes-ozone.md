@@ -15,10 +15,10 @@ This is pretty darn funny (see [article](http://thehill.com/policy/energy-enviro
 
 The video however unfairly blames the Obama Administration.  The “morning lawn-mowing ban” and driving restrictions were also raised during the Bush administration.
 
-The source of the problem is the Clean Air Act itself (see [link](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)).
+The source of the problem is the Clean Air Act itself (see link).
 
 > The video I’d like to see is Paul Blart on his Segway . . .  racing through the Hall of the Dirksen Building . . . breaking up a scuffle between McCarthy, McConnell, Reid, Pelosi, and Boehner over the ozone standard . . . and hauling all of them off to the nearest Orange Julius to negotiate a modernized Clean Air Act.
 
 A true **“Mall”** Cop (sorry, could not resist).
 
-Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “[The Clean Air and Climate Change Act of 2015](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)”).  We can make it happen.
+Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (ex. “The Clean Air and Climate Change Act of 2015”).  We can make it happen.

@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
-abstract: '[](/images/sip/keep-it-simple.png)Want to know the best way to protect nature? Look at nature.'
+abstract: 'Want to know the best way to protect nature? Look at nature.'
 ---
 
 Want to know the best way to protect nature?  Look at nature.

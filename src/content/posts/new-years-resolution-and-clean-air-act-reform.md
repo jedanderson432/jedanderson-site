@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'faith']
-abstract: '[](/images/sip/caa-reform-resolution.jpg)Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”'
+abstract: 'Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”'
 ---
 
 Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”

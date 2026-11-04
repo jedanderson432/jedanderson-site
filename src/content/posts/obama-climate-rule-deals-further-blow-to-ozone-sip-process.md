@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/obama-and-climate-rule.png)'
+abstract: 'Obama Climate Rule Deals Further Blow to Ozone SIP Process'
 ---
 
 

@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](/images/sip/climate-change-and-ozone.png)L.A. Times reporting today that climate change is now expected to **worsen ozone levels by 70% by 2050** according to a new study (see link).'
+abstract: 'L.A. Times reporting today that climate change is now expected to **worsen ozone levels by 70% by 2050** according to a new study (see link).'
 ---
 
 L.A. Times reporting today that climate change is now expected to **worsen ozone levels by 70% by 2050** according to a new study (see [link](http://www.latimes.com/science/sciencenow/la-sci-sn-climate-change-ozone-smog-20140505-story.html "Climate Change Assessment and Ozone")).
