@@ -21,11 +21,8 @@ I realize . . . we all might get to heaven and have a great laugh at Jed believi
 
 But I asked.
 
-![](/images/posts/skill-set-i-work-on-the-most/img-01.jpg)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-02.jpg)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-03.gif)
 
 Can it be as simple as asking? . . . and the boldness to believe?
 
@@ -33,15 +30,12 @@ We will all find out won't we!!!
 
 I can tell you this though, it's crazy how many times asking and faith is mentioned in the Gospels. Crazy. It's crazy. It's just crazy.
 
-![](/images/posts/skill-set-i-work-on-the-most/img-04.gif)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-05.png)
 
 ---"Yes, we can begin to build a machine to protect nature and humanity."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/skill-set-i-work-on-the-most/img-06.gif)
 
 Impossibility?
 
@@ -49,12 +43,8 @@ Reality?
 
 ﻿
 
-![](/images/posts/skill-set-i-work-on-the-most/img-07.gif)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-08.png)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-09.gif)
-![](/images/posts/skill-set-i-work-on-the-most/img-10.gif)
 
 2 questions I ask myself . . . when someone or the world tells me something is impossible (like building a quantum AI machine to protect humanity and nature) . . .
 
@@ -64,12 +54,8 @@ Reality?
 
 It almost always falls out under question #1 before I even get to question #2.
 
-![](/images/posts/skill-set-i-work-on-the-most/img-11.gif)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-12.jpg)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-13.gif)
-![](/images/posts/skill-set-i-work-on-the-most/img-14.gif)
 
 “Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.”
 
@@ -77,23 +63,17 @@ It almost always falls out under question #1 before I even get to question #2.
 
 ---“It is simply a statement of fact. The Romans could have had the telephone; the Greeks could have had the cinema; the Babylonians could have had the automobile—had they been mentally ready. The laws of nature were the same in those ages as in ours, the same materials were in the ground—but the minds of the Ancients were not ready for those things, and so they had to go without them.” ― Emmet Fox
 
-[![](/images/posts/skill-set-i-work-on-the-most/img-15.gif)](https://r20.rs6.net/tn.jsp?f=001YKc2HZiJcPKXGJsaoQRRDL7o7seAzs-cpUqxeJaw5zZMYMLIXoLKWzaM8bAXQOcFrdCr_EOkJ9w8N6fCds9cOTly5kn8RG-t8MtayCzaQAmF7HROIEoM1NfvI3bdiX-IVrccAusNCSNWM_VbQ4WOIg==&c=&ch=)
 
 ‌
 
 Increasing Our Scope of Reality and What is Truly Possible
 
-![](/images/posts/skill-set-i-work-on-the-most/img-16.gif)
 
-[![](/images/posts/skill-set-i-work-on-the-most/img-17.png)](https://r20.rs6.net/tn.jsp?f=001YKc2HZiJcPKXGJsaoQRRDL7o7seAzs-cpUqxeJaw5zZMYMLIXoLKWztL2GUWp0xy_o5-FxcTIhnz4m6l5Yg6FEfbNUGfE7uKnzzKd-yyfahqfSR9lY_bKXJAyXWCA65z-ZliPyHWsZgvbQKE-lgnINu0Wdo7CY7F&c=&ch=)
 
-[![](/images/posts/skill-set-i-work-on-the-most/img-18.png)](https://r20.rs6.net/tn.jsp?f=001YKc2HZiJcPKXGJsaoQRRDL7o7seAzs-cpUqxeJaw5zZMYMLIXoLKWztL2GUWp0xy4g8guVNEiOMoVsla8R2JR_f3ttEEAmFzvFYLD8or80bODUW9WJw6GTUeIbg1KbrrTDXnnfYvbQSF8cp9rjQOxR6soMeHpDFf-XKwO3uOtIA=&c=&ch=)
 
-[![](/images/posts/skill-set-i-work-on-the-most/img-19.png)](https://r20.rs6.net/tn.jsp?f=001YKc2HZiJcPKXGJsaoQRRDL7o7seAzs-cpUqxeJaw5zZMYMLIXoLKWztL2GUWp0xy7ZjLPCpAIrmalI7bPskath7QENM4EdepDjIr7md8QHwQ-0NtS27U0ulYlU2n2URDgthXUTPyfGYd0m0xBbuFdBpbB4ukS3JZpdQ__Fx2NOyPXWgmVZKLHdWxycC90kek&c=&ch=)
 
 ‌
 
-![](/images/posts/skill-set-i-work-on-the-most/img-20.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -109,29 +89,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/skill-set-i-work-on-the-most/img-21.gif)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-22.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/skill-set-i-work-on-the-most/img-23.png)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-24.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/skill-set-i-work-on-the-most/img-25.gif)](https://r20.rs6.net/tn.jsp?f=001YKc2HZiJcPKXGJsaoQRRDL7o7seAzs-cpUqxeJaw5zZMYMLIXoLKW9l7_VkHWkop2EqZBFW4XqlrY8037MOO0JwVpcxQsZO5JSJzefjiWYZ-TiiLQPJrJnGF6muTCdWDoq53ZqtErknEhVnOERRZjfNJdcnEB5P2CNwovI4oU5KkHJHSzixxNQ==&c=&ch=)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-26.gif)
 
 SIMPLICITY
 
-![](/images/posts/skill-set-i-work-on-the-most/img-27.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -140,7 +113,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/skill-set-i-work-on-the-most/img-28.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -153,9 +125,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/skill-set-i-work-on-the-most/img-29.png)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-30.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -170,7 +140,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/skill-set-i-work-on-the-most/img-31.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -224,15 +193,11 @@ in the Metaverse
 
 ﻿Using Probabilistic Systems within Probabilistic Systems to Better Understand Probabilistic Systems
 
-![](/images/posts/skill-set-i-work-on-the-most/img-32.png)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-33.gif)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-34.gif)
 
 ‌
 
-![](/images/posts/skill-set-i-work-on-the-most/img-35.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -604,8 +569,5 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-[![](/images/posts/skill-set-i-work-on-the-most/img-36.gif)](https://r20.rs6.net/tn.jsp?f=001YKc2HZiJcPKXGJsaoQRRDL7o7seAzs-cpUqxeJaw5zZMYMLIXoLKW10SY-YC6q-I2TbGjdqP96xCISmUhsFCJvoD9IXd_wv_DMcnKQHd8JOY_4KXjw5_TXj8PKPQo66FuKgflYL7d5s=&c=&ch=)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-37.gif)
 
-![](/images/posts/skill-set-i-work-on-the-most/img-38.gif)

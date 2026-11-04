@@ -15,7 +15,6 @@ or ALL SPECIES? The Metaverse and the Future Interests of Earth
 
 . . . should the Metaverse serve the interests of only human beings?
 
-[![](/images/posts/1-species/img-01.gif)](https://r20.rs6.net/tn.jsp?f=001QySZwCCKnXl7gkb1Zv-mIUuIfFKWdF_ohpcO2tZlg5q-ZzwvWpMM-0ZN8_pKZfowYXTfgeSKO4sR_nv-7e7-NE-1gWCsJwhvO_zkXXJnc8_apIRGpfTvj8RV7qYkEbgzwJCLjRKFN5gzEeUv4sLp3A==&c=&ch=)
 
 . . or all living things?
 

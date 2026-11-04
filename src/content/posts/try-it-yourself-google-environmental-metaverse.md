@@ -33,9 +33,7 @@ One creator.
 
 EnviroAI
 
-[![](/images/posts/try-it-yourself-google-environmental-metaverse/img-01.png)](https://r20.rs6.net/tn.jsp?f=001-FOllndoRuJP9uj-ix_dGPeKuhA7wAUtCM8asmzsKvcNCGbn3xs514ZC2r1PTA0lEnD2JPpchzfM5FRLknr680Cm3oD3IZLpAAXrh-v9l249f84S_HSuKL_8aj7P2enSW0eLknnXDAcR0xHrBy54_Hy1e4gslz44v4fD7lNxWNGOjovmbvcjEciRr1Fca5ebtJkHb2VAbyprvNO2myTPbYAnYBQAH8Yq4_2vUD0sYmaSXnkDGLCVGKhqcqD5M80kMlbQ52pVmt1EE3oGwmn7_9mqAu71lbeNBQceqUC_KvAAmj_D7B8e6wmJIzOQ-T6lmWtn0xIsiHBNdHDe9sK_Wlt0HSA7xU21z1VnAY5FtPg7vEw6ISCJss-owPKYzX7zlDv1RKU0rlfe9Z_pc8FilffjJvK0yBOXGjNWAEeT18s5NYIpFJMOzQ==&c=&ch=)
 
-[![](/images/posts/try-it-yourself-google-environmental-metaverse/img-02.png)](https://r20.rs6.net/tn.jsp?f=001-FOllndoRuJP9uj-ix_dGPeKuhA7wAUtCM8asmzsKvcNCGbn3xs51wUdB1OGKsJBzEY8QxD64E5lAge1xBYYslh1m1JPpNtCUbYorUvlmKFFdBnCGJIGVuj0RW7UtxzbJ7DNCB71_O31Gyv9ATUmtw==&c=&ch=)
 
 VISIONARY.
 
@@ -45,4 +43,3 @@ HELPING TO SAVE NATURE & HUMANITY . . . AND KEEP ALL LIFE CONNECTED.
 
 [Visit our website](https://r20.rs6.net/tn.jsp?f=001-FOllndoRuJP9uj-ix_dGPeKuhA7wAUtCM8asmzsKvcNCGbn3xs51zxSV2_NNMTgyvhQaiVe7OmiVp12HOwvuuBs8gr_3PyIP8QQHXSL7NWz1jpadr_xBcc4I6UlyifImLqAGuv7Oznq5ouiccg0dPM7FuuT6oQp&c=&ch=)
 
-![](/images/posts/try-it-yourself-google-environmental-metaverse/img-03.gif)

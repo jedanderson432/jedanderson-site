@@ -13,7 +13,7 @@ abstract: '> ***——-“Nature is pleased with simplicity. And nature is no du
 
 > ***——-“Nature is pleased with simplicity. And nature is no dummy.”***― **Isaac Newton**
 
-It is ironic that a syste[![Nature and the Clean Air Act](/images/sip/nature-and-the-clean-air-act.png)](/images/sip/nature-and-the-clean-air-act.png)m we have designed to protect nature strays so far from emulating nature.
+It is ironic that a system we have designed to protect nature strays so far from emulating nature.
 
 > *“I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a neuroscientist to figure it out”**.* *–Gina McCarthy, U.S. EPA Assistant Administrator for Air*
 

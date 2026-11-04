@@ -15,11 +15,8 @@ More Data and Faster Access for Your Brain to Solve Environmental Problems----th
 
 More Data and Faster Access for Your Brain to Solve Environmental Problems----that's Ceres AI.
 
-![](/images/posts/augment-your-intelligence/img-01.gif)
 
-![](/images/posts/augment-your-intelligence/img-02.png)
 
-![](/images/posts/augment-your-intelligence/img-03.gif)
 
 ---"Augmented intelligence is a design pattern for a human-centered partnership model of people and artificial intelligence (AI) working together to enhance cognitive performance, including learning, decision making and new experiences."--Gartner
 
@@ -27,20 +24,14 @@ More Data and Faster Access for Your Brain to Solve Environmental Problems----th
 
 --- “Augmented intelligence is all about people taking advantage of AI.” ---Vice-President of Research, Gartner
 
-![](/images/posts/augment-your-intelligence/img-04.png)
 
-![](/images/posts/augment-your-intelligence/img-05.gif)
 
-![](/images/posts/augment-your-intelligence/img-06.gif)
 
 INTELLIGENCE.DATA. POWER. SPEED
 
-![](/images/posts/augment-your-intelligence/img-07.png)
 
-![](/images/posts/augment-your-intelligence/img-08.gif)
 
 [Access Ceres AI](http://r20.rs6.net/tn.jsp?f=001jFhxdrazgfyr4WLDrVQPqNxleUkPHZ6QnO_tkjswMGtCwY1-3OKwml8Ws6LoVIFeHq7zZeVCeuf-3vyij0-Eaz9HgsMgXiqGS9vZSksdxNquZ_z6osiOw4rsoUSuHa1JwMguH5OHuWOpR7Z1Ap3wrw==&c=&ch=)
 
-![](/images/posts/augment-your-intelligence/img-09.gif)
 
 This is an advertisement for Ceres AI LLC

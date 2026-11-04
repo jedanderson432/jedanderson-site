@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: '**[](/images/sip/professional-guilt-and-the-clean-air-act.png)**Anyone feel guilty for taking people’s money to do a bunch of this unnecessarily complicated and procedurally laden work under the current Clean Air Act?'
 ---
 
-**[![Professional Guilt and the Clean Air Act](/images/sip/professional-guilt-and-the-clean-air-act.png)](/images/sip/professional-guilt-and-the-clean-air-act.png)**Anyone feel guilty for taking people’s money to do a bunch of this unnecessarily complicated and procedurally laden work under the current Clean Air Act?
+****Anyone feel guilty for taking people’s money to do a bunch of this unnecessarily complicated and procedurally laden work under the current Clean Air Act?
 
 I’ve made hundreds of thousands of dollars for example just performing common control analyses and netting exercises.  I’m happy to help  clients with these issues—but part of me feels guilty for taking people’s money to perform what I know has become unnecessarily complicated—and then turning around and trying to convince my conscience . . . “Well . . . that’s just the way the system works”.
 

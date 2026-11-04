@@ -11,7 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'policy']
 abstract: '[](/images/sip/foreign-pollution-responsibility.png)'
 ---
 
-[![Foreign Pollution Responsibility](/images/sip/foreign-pollution-responsibility.png)](/images/sip/foreign-pollution-responsibility.png)
 
 Here is a recent quote from the San Joaquin Valley Air District:
 

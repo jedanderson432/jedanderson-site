@@ -11,7 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/weather.png)'
 ---
 
-[![](/images/sip/weather.png "Weather")](/images/sip/weather.png)
 
 Take a look at these maps.  One shows ozone the other weather.  Similar looking huh?  Looks like pollution and clouds are blowing all over the place and not respecting geo-political boundaries.
 

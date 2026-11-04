@@ -13,4 +13,3 @@ abstract: 'Both sides want improvements to the Clean Air Act. Excellent! Let’s
 
 Both sides want improvements to the Clean Air Act.  Excellent!  Let’s make it happen.
 
-[![NRDC and Doniger](/images/sip/nrdc-and-doniger.png)](/images/sip/nrdc-and-doniger.png)[![NAM](/images/sip/nam.png)](/images/sip/nam.png)[![Slide2](/images/sip/slide2.png)](/images/sip/slide2.png)[![Slide7](/images/sip/slide7.png)](/images/sip/slide7.png)

@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '# *Advice to China on Clean Air ActDear China:*'
 ---
 
-# *[Advice to China on Clean Air Act](/images/sip/china-pollution.png)Dear China:*
+# *Advice to China on Clean Air ActDear China:*
 
 Very sorry to  hear about your latest smog events.  I hear you are comtemplating a Clean Air Act.  Excellent!  Just wanted to share a “lesson learned” from the U.S. experience:
 

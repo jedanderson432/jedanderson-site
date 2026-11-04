@@ -19,4 +19,3 @@ Time to do the job right.
 
 Both the environment and economy deserve a 21st century Clean Air Act.  For more information, see <http://www.cleanairreform.org>.
 
-![Re-regulation](/images/sip/re-regulation.jpg)

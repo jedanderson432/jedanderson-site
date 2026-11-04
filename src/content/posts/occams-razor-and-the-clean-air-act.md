@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: '[](/images/sip/occam-and-the-clean-air-act.png)I wonder what would happen if we applied Occam’s Razor to the Clean Air Act?'
 ---
 
-[![Occam and the Clean Air Act](/images/sip/occam-and-the-clean-air-act.png)](/images/sip/occam-and-the-clean-air-act.png)I wonder what would happen if we applied Occam’s Razor to the Clean Air Act?
+I wonder what would happen if we applied Occam’s Razor to the Clean Air Act?
 
 - “I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a neuroscientist to figure it out”. –Gina McCarthy, U.S. EPA Administrator
 - “The Clean Air Act is a model of redundancy.  Virtually every type of pollutant is regulated by not one but several overlapping provisions.”  – Ben Lieberman

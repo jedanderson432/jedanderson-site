@@ -11,7 +11,7 @@ tags: ['clean-air-act']
 abstract: 'Article: “Study: Climate change to hike ozone-related illnesses”'
 ---
 
-[![](https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/9/91/Atmosphere_composition_diagram.jpg/290px-Atmosphere_composition_diagram.jpg "Interrelationship of Pollutants")Article: “Study: Climate change to hike ozone-related illnesses”](http://content.usatoday.com/communities/greenhouse/post/2011/06/climate-change-ozone-health-impacts/1#.T5r3g6uxb_M)
+[Article: “Study: Climate change to hike ozone-related illnesses”](http://content.usatoday.com/communities/greenhouse/post/2011/06/climate-change-ozone-health-impacts/1#.T5r3g6uxb_M)
 
 Let’s see. We’ve got interrelated problems with interrelated solutions—all of which sometimes overlap and conflict. Yet despite these interrelationships, overlaps, and conflicts—we continue to follow an air quality planning process that consists of looking at each of these pollutant problems separately in relative isolation to one another.  It’s like we are building a place to live by building a bathroom, a bedroom, a family room, and a kitchen. Perhaps we could attach these rooms together to make the rooms more convenient to use and more efficient to heat?  Perhaps it would take less building material if each of the rooms did not have its own roof, siding, and air conditioning system?  Perhaps there might be benefits to considering if these rooms could be built together in one energy-efficient house?
 

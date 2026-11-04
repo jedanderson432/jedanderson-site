@@ -19,26 +19,17 @@ favorite
 
 future trendline . . .
 
-![](/images/posts/my-favorite-future-trendline/img-01.gif)
 
 $ vs. Imagination
 
-![](/images/posts/my-favorite-future-trendline/img-02.png)
 
-![](/images/posts/my-favorite-future-trendline/img-03.gif)
 
-![](/images/posts/my-favorite-future-trendline/img-04.gif)
 
-[![](/images/posts/my-favorite-future-trendline/img-05.png)](https://r20.rs6.net/tn.jsp?f=001WBsblIj6zfNaFg-xdTQxvuakV_oECaEeROoSQFwKo3QDyk1ThQLpidNHdNJVpGzgnFHw9oNOyMP9ych2MlHQsVTjr_oCCHam7hHwskk4biHGhIwXZ2Sycrax12tYXpv7AnPc3WE4JkE=&c=&ch=)
 
-![](/images/posts/my-favorite-future-trendline/img-06.gif)
 
 DO GREAT THINGS!
 
-![](/images/posts/my-favorite-future-trendline/img-07.gif)
 
 ‌
 
-![](/images/posts/my-favorite-future-trendline/img-08.gif)
 
-![](/images/posts/my-favorite-future-trendline/img-09.gif)

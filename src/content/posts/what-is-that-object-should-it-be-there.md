@@ -13,19 +13,13 @@ original_source: "Constant Contact campaign"
 
 Identifying equipment, emission sources, and environmental anomalies using drone imagery, satellite imagery, and deep learning neural networks---EnviroAI
 
-![](/images/posts/what-is-that-object-should-it-be-there/img-01.gif)
 
-![](/images/posts/what-is-that-object-should-it-be-there/img-02.gif)
 
-![](/images/posts/what-is-that-object-should-it-be-there/img-03.gif)
 
 ﻿EnviroAI trained drone identifies objects, emission sources, and environmental anomalies using a deep learning convolutional neural network.
 
-![](/images/posts/what-is-that-object-should-it-be-there/img-04.gif)
 
-![](/images/posts/what-is-that-object-should-it-be-there/img-05.gif)
 
-![](/images/posts/what-is-that-object-should-it-be-there/img-06.gif)
 
 ‌
 

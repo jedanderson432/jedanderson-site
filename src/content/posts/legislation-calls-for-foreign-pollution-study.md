@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/olson-bill.png)Fantastic! What bold Congressional leadership! Hopefully this helps lead to comprehensive improvements to the Clean Air Act. Thank you Congressmen Olson, Latta, Cuellar, and Kirkpatrick!'
 ---
 
-[![Olson Bill](/images/sip/olson-bill.png)](/images/sip/olson-bill.png)Fantastic!  What bold Congressional leadership!  Hopefully this helps lead to comprehensive improvements to the Clean Air Act.  Thank you Congressmen Olson, Latta, Cuellar, and Kirkpatrick!
+Fantastic!  What bold Congressional leadership!  Hopefully this helps lead to comprehensive improvements to the Clean Air Act.  Thank you Congressmen Olson, Latta, Cuellar, and Kirkpatrick!
 
 **H.R. 4265** **“The Clean Air Implementation Act”**
 

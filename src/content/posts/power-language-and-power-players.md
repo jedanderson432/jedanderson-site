@@ -13,11 +13,8 @@ original_source: "Constant Contact campaign"
 
 . . . in environmental files . . . "Environmental Sentiment Analysis"---by EnviroAI
 
-![](/images/posts/power-language-and-power-players/img-01.gif)
 
-![](/images/posts/power-language-and-power-players/img-02.gif)
 
-![](/images/posts/power-language-and-power-players/img-03.gif)
 
 Not ONLY CAN WE TRACK ENVIRONMENTAL SENTIMENT . . .
 
@@ -29,13 +26,10 @@ TRACK ENVIRONMENTAL SENTIMENT . . .
 
 . . . "This is a truly amazing and powerful tool." - The Texas Tribune
 
-![](/images/posts/power-language-and-power-players/img-04.gif)
 
-![](/images/posts/power-language-and-power-players/img-05.gif)
 
 . . . "The AI tools that EnviroAI is building will change the environmental world." - Former CEO Global Top 10 Utility Company
 
-![](/images/posts/power-language-and-power-players/img-06.gif)
 
 ‌
 
@@ -43,4 +37,3 @@ TRACK ENVIRONMENTAL SENTIMENT . . .
 
 [ORDER NOW](mailto:CERES@ENVIRO.AI)
 
-![](/images/posts/power-language-and-power-players/img-07.gif)

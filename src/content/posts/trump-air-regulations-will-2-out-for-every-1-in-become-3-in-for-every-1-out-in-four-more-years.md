@@ -23,7 +23,7 @@ Only way to simplify air regulation is to simplify the systems in the Clean Air 
 My ideas on simple systems are not genius.  Read below.  It’s plagiarism.  I just steal ideas from the ancients like others have done before me, bring it into a different context, and change the wrapping paper.
 
 - *“Complexity is a sign of technical immaturity.  Simplicity of use is the real sign of a well designed product whether it is an ATM or a Patriot missile.”– Daniel T. Ling*
-- *“When the solution is simple, God is answering.”—Albert Ein**![new-clean-air-act](/images/sip/new-clean-air-act.png)**stein*
+- *“When the solution is simple, God is answering.”—Albert Ein****stein*
 - *”Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato*
 - *“A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system.”—John Gall*
 - *“Nature operates in the shortest way possible.”—Aristotle*

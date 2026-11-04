@@ -19,9 +19,7 @@ Bloomberg: Chinese announce they've built a quantum computer 10 billion times fa
 
 Chinese announce new quantum computing breakthrough (see article below).
 
-[![](/images/posts/whoah/img-01.gif)](http://r20.rs6.net/tn.jsp?f=001wdjqPmYjZ74Ma9nl7LBBxNq31fcIYW4d6Ad-XnG1YnF5lbvdqxlqxOYYxipWfdRCeTBHOm6IxnQLxxhEFoGjMfyaiHXwjDHusGl2CsX3en-yvNjP6D76MQIuhEFdVJKKzG3abHXperd6CrtUMx30IA==&c=&ch=)
 
-![](/images/posts/whoah/img-02.gif)
 
 Bloomberg
 
@@ -52,6 +50,5 @@ Xi Jinping’s government is [building](http://r20.rs6.net/tn.jsp?f=001wdjqPmYjZ
 
 [Quantum AI Environmental Protection Project - EnviroAI](http://r20.rs6.net/tn.jsp?f=001wdjqPmYjZ74Ma9nl7LBBxNq31fcIYW4d6Ad-XnG1YnF5lbvdqxlqxOYYxipWfdRCeTBHOm6IxnQLxxhEFoGjMfyaiHXwjDHusGl2CsX3en-yvNjP6D76MQIuhEFdVJKKzG3abHXperd6CrtUMx30IA==&c=&ch=)
 
-![](/images/posts/whoah/img-03.gif)
 
 ‌

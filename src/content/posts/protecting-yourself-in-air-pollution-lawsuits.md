@@ -12,4 +12,3 @@ tags: ["linkedin", "linkedin-original"]
 abstract: "![](https://media.licdn.com/mediaC5112AQH4cSqpe1Wn-w)"
 ---
 
-![](https://media.licdn.com/mediaC5112AQH4cSqpe1Wn-w)

@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'faith']
 abstract: '[](/images/sip/caa-reform-resolution.jpg)Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”'
 ---
 
-[![CAA Reform Resolution](/images/sip/caa-reform-resolution.jpg)](/images/sip/caa-reform-resolution.jpg)Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”
+Many people say to themselves, “Why make resolutions that I’m just gonna fail at anyway?”
 
 Not the point.  God works from intent—not probability of success.
 
@@ -21,4 +21,3 @@ Resolve bigger.  Resolve annually, daily, hourly.  Failure doesn’t mean imposs
 
 A New Year tomorrow.  I wish everyone the very best.
 
-[![Resolution](/images/sip/resolution.jpg)](/images/sip/resolution.jpg)

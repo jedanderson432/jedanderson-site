@@ -17,7 +17,6 @@ EnviroVerse by EnviroAI
 
 to the
 
-[![](/images/posts/the-environmental-metaverse/img-01.png)](https://r20.rs6.net/tn.jsp?f=001KROVSIhAg7VRv0q49IboW9eemJjJ4qKDcOMxdxlWdkpOHSLXGQlVolSvaEfVFU3xrcw0SrICcWXNqBHDBoqXGKpfItcvvGfaRnXXDzssUrC_jPs15RMH1xmubco0q-Uz9o4j-Y0j63NNpEd1gI_wUw==&c=&ch=)
 
 Watch [Welcome Video](https://r20.rs6.net/tn.jsp?f=001KROVSIhAg7VRv0q49IboW9eemJjJ4qKDcOMxdxlWdkpOHSLXGQlVolSvaEfVFU3xrcw0SrICcWXNqBHDBoqXGKpfItcvvGfaRnXXDzssUrC_jPs15RMH1xmubco0q-Uz9o4j-Y0j63NNpEd1gI_wUw==&c=&ch=)
 

@@ -15,7 +15,6 @@ Love it.
 
 ‌
 
-![](/images/posts/suffering/img-01.png)
 
 I hope my efforts if anything encourages people to attempt the highest mountains in life--be they spiritual or worldly--and to see the climbing and suffering as the reward.
 
@@ -25,7 +24,6 @@ If you love to suffer . . . then you will never have to suffer.
 
 ﻿Love to suffer!
 
-![](/images/posts/suffering/img-02.gif)
 
 - “I want to suffer so that I may love.”—Fyodor Dostoyevsky
 
@@ -57,6 +55,5 @@ If you love to suffer . . . then you will never have to suffer.
 
 ‌
 
-![](/images/posts/suffering/img-03.gif)
 
 This is an advertisement for EnviroAI

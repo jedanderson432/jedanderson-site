@@ -17,21 +17,15 @@ Building a Quantum AI Environmental Protection Machine
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/space-time-and-environmental-protection/img-01.png)
 
 Scientists largely seem focused now on quantizing the macroscopic. It might prove to be the other way around.
 
 ---"Time and space are modes by which we think and not conditions in which we live." - Albert Einsteins
 
-![](/images/posts/space-time-and-environmental-protection/img-02.gif)
 
-![](/images/posts/space-time-and-environmental-protection/img-03.png)
 
-![](/images/posts/space-time-and-environmental-protection/img-04.png)
 
-![](/images/posts/space-time-and-environmental-protection/img-05.png)
 
-![](/images/posts/space-time-and-environmental-protection/img-06.png)
 
 "Developing quantum information technology and understanding what it is telling us about nature is critical to EnviroAI's mission to build a machine to protect nature."
 
@@ -41,7 +35,6 @@ Scientists largely seem focused now on quantizing the macroscopic. It might prov
 
 "Now we come to the heart of chemistry. If we can understand what holds atoms together as molecules we may also start to understand why, under certain conditions, old arrangements change in favor of new ones. We shall understand structure, and through structure, the mechanism of change." P. W. AtkinsMolecular Quantum Mechanics, 1983, p. 250.
 
-![](/images/posts/space-time-and-environmental-protection/img-07.gif)
 
 Quotes on Scientific Pursuits
 
@@ -105,7 +98,6 @@ Werner Heisenberg
 
 I again can recommend many books, lectures, and videos on quantum physics and quantum technologies, but I would start with these three: 1.[Google/NASA](https://r20.rs6.net/tn.jsp?f=001AF79cldsPh_HYkXbNnghMoPpbmgyT0Lj1gsG5z9pjgy4dj4aS2HdwOLsaNfSOjLeEimipuYaBRlBAfih6AQpoZb0C-bQbEkz7doxg7rxN0a4TEeQIqeNM5Qu-gafXJG-Fh-kwgQxDJUP7ijBSjftx78HzM2tWM9eyZbPz_6_uAjW11gBc2qu-w==&c=&ch=)[Video](https://r20.rs6.net/tn.jsp?f=001AF79cldsPh_HYkXbNnghMoPpbmgyT0Lj1gsG5z9pjgy4dj4aS2HdwOLsaNfSOjLeEimipuYaBRlBAfih6AQpoZb0C-bQbEkz7doxg7rxN0a4TEeQIqeNM5Qu-gafXJG-Fh-kwgQxDJUP7ijBSjftx78HzM2tWM9eyZbPz_6_uAjW11gBc2qu-w==&c=&ch=) 2. [Nova Video](https://r20.rs6.net/tn.jsp?f=001AF79cldsPh_HYkXbNnghMoPpbmgyT0Lj1gsG5z9pjgy4dj4aS2HdwNmCTDnYUNwN7tVSj_TSrv6XdAdieP_o_mipu5XFfOZDxAlQ1QiP_heN-nISnxLKDWJAhJTbLB6BleJQUIFbcBqMlTA9hv9dbwSMab-RK8otecmu0U03-6-47YAoHStHq9Alk6iIVwQ4k2iLdaBRfps=&c=&ch=)3. [PBS Video](https://r20.rs6.net/tn.jsp?f=001AF79cldsPh_HYkXbNnghMoPpbmgyT0Lj1gsG5z9pjgy4dj4aS2HdwIzBjZaIgMD6hPu-A36mQr8rIKd-LPKqrvND3vd5HQ9uV6sMf_snCxWCm0qqdUYcOaLewYOv703sR0HTbGHLx-efWofZT64mHPMYqRi4nyWAXXKspInyBtIwNeMcUJPKtcF0lAmpZdYuVJAEoO8b05VfKaJjYHtT2g==&c=&ch=).
 
-![](/images/posts/space-time-and-environmental-protection/img-08.gif)
 
 After you learn quantum mechanics you're never really the same again. Steven Weinberg on Nova 11/16/11
 
@@ -461,4 +453,3 @@ The principles of physics, as far as I can see, do not speak against the possibi
 
 We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
-![](/images/posts/space-time-and-environmental-protection/img-09.gif)

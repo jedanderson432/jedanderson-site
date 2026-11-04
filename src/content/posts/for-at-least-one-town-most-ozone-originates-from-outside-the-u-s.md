@@ -17,4 +17,3 @@ Can’t continue placing the ultimate responsibility on the States to address th
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.
 
-[![Colorado Ozone](/images/sip/colorado-ozone.png)](/images/sip/colorado-ozone.png)

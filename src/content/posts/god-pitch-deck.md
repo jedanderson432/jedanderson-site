@@ -15,13 +15,11 @@ original_source: "Constant Contact campaign"
 
 1st pitch deck in human history ever written to God . . .
 
-![](/images/posts/god-pitch-deck/img-01.gif)
 
 The Pitch Deck
 
 A strategy never tried before in human history . . . a pitch deck created for the Ultimate Investor, who, if they like it and decide to invest, can send signals throughout the investment market. Ask. Receive.
 
-[![](/images/posts/god-pitch-deck/img-02.png)](https://r20.rs6.net/tn.jsp?f=001lDESkIjk-Bjgh0VKcGgD4HDpL1tjnrvH7ErmpwShwhIb6t0AWfe6-rJcBQYL5LHfO_rZ4RaI2Gl0XDoPCcFpon6K_iYhOWPD4QPB36c3geGCWqPNcIwaNKJzMWSRSqn3Nm-FrDaWcSFB8YrU2GedAeaN-KZ30yaARkV401gZLYI0A3xJbGI4nQ==&c=&ch=)
 
 ‌
 
@@ -33,4 +31,3 @@ A strategy never tried before in human history . . . a pitch deck created for th
 
 ‌
 
-![](/images/posts/god-pitch-deck/img-03.gif)

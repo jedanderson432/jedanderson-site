@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/churchill-and-the-clean-air-act.jpg)I wonder what Churchill would think about the Clean Air Act?'
 ---
 
-[![Churchill and the Clean Air Act](/images/sip/churchill-and-the-clean-air-act.jpg)](/images/sip/churchill-and-the-clean-air-act.jpg)I wonder what Churchill would think about the Clean Air Act?
+I wonder what Churchill would think about the Clean Air Act?
 
 > **►   “All the great things are simple.”—Winston Churchill**
 >

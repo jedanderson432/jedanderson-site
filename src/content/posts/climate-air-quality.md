@@ -13,24 +13,17 @@ original_source: "Constant Contact campaign"
 
 "It's been a thrill! . . . We are so excited about this latest artificial intelligence application!"---Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/climate-air-quality/img-01.gif)
 
-![](/images/posts/climate-air-quality/img-02.gif)
 
 Climate . . .
 
 Air quality . . .
 
-![](/images/posts/climate-air-quality/img-03.gif)
 
 ‌
 
-![](/images/posts/climate-air-quality/img-04.gif)
 
-![](/images/posts/climate-air-quality/img-05.png)
 
-![](/images/posts/climate-air-quality/img-06.gif)
-![](/images/posts/climate-air-quality/img-07.gif)
 
 ---"It's been a thrill . . .
 

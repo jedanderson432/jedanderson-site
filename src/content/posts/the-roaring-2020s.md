@@ -19,13 +19,10 @@ THEROARING
 
 2020's
 
-![](/images/posts/the-roaring-2020s/img-01.gif)
 
-[![](/images/posts/the-roaring-2020s/img-02.png)](http://r20.rs6.net/tn.jsp?f=001HMM0uy7iYRUVqeSfQZuvElxNfDCeaePPw4GrQKvKAcML_GRxH5KXqwRw4SkHTiniOUt89ZtsvHNQ4lPBeXj2HTSHkoWt07Vsb9LySpwnM0LgRszPyzsLHy6PPfcICLcpUZl-LmNJ6_lW02Rv24EeIQxOnA7MF0ljfDrHHG1BI-O1fMpSU1PpBjqYjs67RZhLxsxTW9ZSnQ3baSc9mnBUwpxklKB2KCx5S_5smDVEMBs=&c=&ch=)
 
 One of the reasons they called it the "Roaring 20's" is that the nation was bouncing back from the last pandemic.
 
-![](/images/posts/the-roaring-2020s/img-03.gif)
 
 Post-Election . . .
 

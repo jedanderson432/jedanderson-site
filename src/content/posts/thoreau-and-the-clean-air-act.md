@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/thoreau-and-the-clean-air-act2.png)I wonder what Thoreau would think about the Clean Air Act?'
 ---
 
-[![Thoreau and the Clean Air Act](/images/sip/thoreau-and-the-clean-air-act2.png)](/images/sip/thoreau-and-the-clean-air-act2.png)I wonder what Thoreau would think about the Clean Air Act?
+I wonder what Thoreau would think about the Clean Air Act?
 
 > ►   **“Our life is frittered away by detail. Simplify, simplify.” *—Henry David Thoreau***
 >

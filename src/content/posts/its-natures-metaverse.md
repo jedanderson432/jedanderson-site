@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 EnviroVerse
 
-![](/images/posts/its-natures-metaverse/img-01.gif)
 
 Nature's metaverse . . .
 
@@ -23,12 +22,9 @@ The EnviroVerse.
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/its-natures-metaverse/img-02.gif)
 
-![](/images/posts/its-natures-metaverse/img-03.gif)
 
 [Contact  to Help Build this Metaverse Component](mailto:jed@enviro.ai)
 
 ‌
 
-![](/images/posts/its-natures-metaverse/img-04.gif)

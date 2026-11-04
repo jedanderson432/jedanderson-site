@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](http://www.valleyair.org/2012-13AnnualReport.pdf "Valley Air Report Calls for Clean Air Act Reform")Bravo! Bravo! Bravo! (see Annual Report). Here are a few highlights from the annual report.'
 ---
 
-[![San Joaquin](/images/sip/san-joaquin.png)](http://www.valleyair.org/2012-13AnnualReport.pdf "Valley Air Report Calls for Clean Air Act Reform")Bravo!  Bravo!  Bravo! (see [Annual Report](http://www.valleyair.org/2012-13AnnualReport.pdf)).  Here are a few highlights from the annual report.
+Bravo!  Bravo!  Bravo! (see [Annual Report](http://www.valleyair.org/2012-13AnnualReport.pdf)).  Here are a few highlights from the annual report.
 
 ► **“[W]e have reached a point where failure to take administrative and legislative action to update the Clean Air Act is leading to the following:**
 

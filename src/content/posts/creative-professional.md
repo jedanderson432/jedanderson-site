@@ -13,26 +13,19 @@ original_source: "Constant Contact campaign"
 
 Scientific American Article . . . and Quotes for You
 
-![](/images/posts/creative-professional/img-01.gif)
 
 Creative professional?
 
 ‌
 
-![](/images/posts/creative-professional/img-02.gif)
 
 Are you still this girl?
 
-![](/images/posts/creative-professional/img-03.jpg)
 
 ‌
 
-![](/images/posts/creative-professional/img-04.gif)
 
-[![](/images/posts/creative-professional/img-05.png)](https://r20.rs6.net/tn.jsp?f=001YAAi5nhFqc0RL_k67uFu4dmNdyWJj9V8_w6r-sR3uKnVBcQB0k7qYCez72XcV8rwM9vJUtQ_anWc97Lth6hCHFwVVwKdmENXdNkyV_pEwCZfW3rbm6CrXo2vrK9-UP5s_6T-hd8yrFO0tGuF3mR7DWTFTLID9omJnKYovVc99MGQ6uD1ZM3nvoOsxk0TrZxujfFgTttGmLwed3oKRqy43tbllXMEmLn8jHWP_sEcr6WRhHsH6-nhDqwo9XlnHh1HkBVVI1TTCWg=&c=&ch=)
 
-![](/images/posts/creative-professional/img-06.gif)
-![](/images/posts/creative-professional/img-07.gif)
 
 To all of my fellow "professional creatives" out there (engineers, teachers, pastors, lawyers, poets, doctors, scientists) . . . go big today!
 
@@ -72,6 +65,5 @@ es you are!
 
 ---"Creativity involves breaking out of expected patterns in order to look at things in a different way." -- Edward de Bono
 
-[![](/images/posts/creative-professional/img-08.gif)](https://r20.rs6.net/tn.jsp?f=001YAAi5nhFqc0RL_k67uFu4dmNdyWJj9V8_w6r-sR3uKnVBcQB0k7qYPmz0JdTxp9hS2qVUCkAK2-VW1FQT_vaJI4GmHcihNRXQc_qafCJnpntxA4iJWQhGq3utta__TVBfYoNMboWUcOYgM1RVzYvEA==&c=&ch=)
 
 [www.enviro.ai](https://r20.rs6.net/tn.jsp?f=001YAAi5nhFqc0RL_k67uFu4dmNdyWJj9V8_w6r-sR3uKnVBcQB0k7qYLvcU8C1k6E4zwmIpE9XG_bKrjWsK-CPBPxWY4NGJUVRvQebEu-6UtujLXFgjGR5_MX5jis_Kk8kqiPuFFG5vKk=&c=&ch=)

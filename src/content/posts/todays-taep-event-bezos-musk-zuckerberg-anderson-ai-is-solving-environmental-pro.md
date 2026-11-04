@@ -13,23 +13,18 @@ original_source: "Constant Contact campaign"
 
 . . . 12:00 today----virtual event
 
-![](/images/posts/todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro/img-01.gif)
 
-![](/images/posts/todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro/img-02.gif)
 
 Artificial
 
 Intelligence
 
-![](/images/posts/todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro/img-03.png)
 
-![](/images/posts/todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro/img-04.gif)
 
 . . . is changing the world!
 
 . . . and the way in which we protect the world!
 
-![](/images/posts/todays-taep-event-bezos-musk-zuckerberg-anderson-ai-is-solving-environmental-pro/img-05.gif)
 
 Today at 12:00
 

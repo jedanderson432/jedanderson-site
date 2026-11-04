@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/art-buchwald.png)When we think of how the Clean Air Act will be changed I think we envision some powerful and influential person, who understands the Clean Air Act much better than we do, giving a rousing speech before…'
 ---
 
-[![Art Buchwald](/images/sip/art-buchwald.png)](/images/sip/art-buchwald.png)When we think of how the Clean Air Act will be changed I think we envision some powerful and influential person, who understands the Clean Air Act much better than we do, giving a rousing speech before Congress that convinces Congress than an update is needed. That’s not however how the Clean Air Act will be changed. Here is a much more likely scenario:
+When we think of how the Clean Air Act will be changed I think we envision some powerful and influential person, who understands the Clean Air Act much better than we do, giving a rousing speech before Congress that convinces Congress than an update is needed. That’s not however how the Clean Air Act will be changed. Here is a much more likely scenario:
 
 > Chris’s 5-year old will wet the bed at 3:34 a.m. one night. Chris won’t be able to go back to sleep and will jot a note on his nightstand about an idea for updating the Clean Air Act. When Chris gets to work he will write an email to Jed. Jed will think, “that’s a great idea, I’ll put it in a presentation.” John will be at the presentation and will be encouraged that others are thinking about the Clean Air Act. Afterwards John will call Jennifer, “Hey Jennifer, I remember you wrote a paper on the Clean Air Act a few years ago—I just heard someone with a similar idea”. Jennifer will then be encouraged to start writing again. Jennifer’s newest blog entry will be read by a Congressional staffer who at that moment in time is preparing questions for a Congressional panel. One of the Congressional panelists, Carlos, will then answer the question that a few months later convinces a Congresswoman that she should sponsor an amendment to update the Clean Air Act.
 
@@ -22,7 +22,7 @@ Question: In the above proximate chain of events, would the Clean Air Act have b
 
 Anyone remember Art Buchwald, the columnist from the Washington Post? Here is a short story he wrote about a taxi ride with one of his friends. As you can see his friend has figured out how the world can be changed. And what’s really interesting about this story is to think about the ways in which is friend is being changed and rewarded through this experiment.
 
-> **[![taxi](/images/sip/taxi.png)](/images/sip/taxi.png)The Impossible Dream? By Art Buchwald**
+> **The Impossible Dream? By Art Buchwald**
 >
 > I was in New York the other day and rode with a friend in a taxi. When we got out my friend said to the driver, “Thank you for the ride. You did a superb job of driving.” The taxi driver was stunned for a second. Then he said: “Are you a wise guy or something?”
 >

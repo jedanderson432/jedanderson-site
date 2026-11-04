@@ -11,7 +11,6 @@ pdf: "/pdfs/it-aint-just-physical.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-![](/images/posts/it-aint-just-physical/img-01.png)
 
 ‌
 
@@ -21,11 +20,9 @@ To more effectively protect the environment, we must move past our understanding
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/it-aint-just-physical/img-02.gif)
 
 ﻿We now know that this is what the world more fundamentally "looks" like "below the surface" of things.
 
-![](/images/posts/it-aint-just-physical/img-03.gif)
 
 Yup. It doesn't really "look" like anything.
 
@@ -41,13 +38,9 @@ The way it looks "underneath the surface" doesn't affect it's beauty on the surf
 
 DISCLAIMER: You cannot blame me if you don't like the way it more fundamentally "looks" "underneath the surface". I didn't make it this way. You can point that finger at God if you find it upsetting. And I didn't discover or prove it was this way. You can point that finger at Einstein, Bohr, Heisnberg, Schroedinger, de Broglie, Dirac, Maxwell, Planck, Bohm, Pauli, Bell, and Clauser. Personally I think it looks cooler. I like it. But it really doesn't matter whether I like it or not. My personal feeling or comfortability with truth doesn't define it. Truth will not adjust its perceptibility to my reality. I must adjust my perception of reality to truth. Truth is truth. It's just deeper truth.
 
-![](/images/posts/it-aint-just-physical/img-04.jpg)
 
-![](/images/posts/it-aint-just-physical/img-05.jpg)
 
-![](/images/posts/it-aint-just-physical/img-06.jpg)
 
-![](/images/posts/it-aint-just-physical/img-07.gif)
 
 MORE TRUTH IS ALWAYS GOOD
 
@@ -57,7 +50,6 @@ MORE TRUTH IS ALWAYS GOOD
 
 . . . If you live in the 2020's, would you tell your kids that matter in and around them at the most fundamental level of our understanding is "physical"?
 
-![](/images/posts/it-aint-just-physical/img-08.gif)
 
 PHYSICS
 
@@ -94,7 +86,6 @@ The continual iconoclastic evolution in our understanding of physics . . .
 
 - \_\_\_\_\_\_? ("Post-Modern" Physics)(\_\_\_\_)
 
-![](/images/posts/it-aint-just-physical/img-09.jpg)
 
 COSMOLOGY
 
@@ -106,24 +97,15 @@ The continual iconoclastic evolution in our cosmological understanding of the un
 - Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925"The day we discovered the universe"]
 - Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_?
 
-![](/images/posts/it-aint-just-physical/img-10.jpg)
 
-![](/images/posts/it-aint-just-physical/img-11.jpg)
 
-![](/images/posts/it-aint-just-physical/img-12.jpg)
 
-![](/images/posts/it-aint-just-physical/img-13.jpg)
 
-![](/images/posts/it-aint-just-physical/img-14.jpg)
 
-![](/images/posts/it-aint-just-physical/img-15.jpg)
 
 ﻿---"As usual, nature’s imagination far surpasses our own, as we have seen from the other theories which are subtle and deep." - Richard Feynman
 
-![](/images/posts/it-aint-just-physical/img-16.png)
 
 ---"I think physics is about done with reductionism. It's taken us a long way, but the next jump in physics I think will unleash much higher levels in imaginative heuristics. And then look out universe! Here comes humanity!"- Jed Anderson
 
-![](/images/posts/it-aint-just-physical/img-17.gif)
 
-![](/images/posts/it-aint-just-physical/img-18.gif)

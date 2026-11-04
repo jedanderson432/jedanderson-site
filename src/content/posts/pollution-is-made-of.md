@@ -15,17 +15,11 @@ original_source: "Constant Contact campaign"
 
 Pollution is made of . . . data.
 
-![](/images/posts/pollution-is-made-of/img-01.png)
 
-![](/images/posts/pollution-is-made-of/img-02.gif)
 
-![](/images/posts/pollution-is-made-of/img-03.gif)
 
-![](/images/posts/pollution-is-made-of/img-04.gif)
 
-![](/images/posts/pollution-is-made-of/img-05.png)
 
-![](/images/posts/pollution-is-made-of/img-06.gif)
 
 ---"Building toward a quantum AI environmental protection system . . . one commercialized application at a time. That's EnviroAI."
 

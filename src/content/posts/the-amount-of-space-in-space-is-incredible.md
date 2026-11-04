@@ -13,29 +13,22 @@ original_source: "Constant Contact campaign"
 
 Universe is over a billion times smaller than it is big . . . MACHINE LEARNING ON THE PLANCK SCALE?
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-01.gif)
 
 Machine-learning on the Planck scale? . . .
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-02.png)
 
 The universe is over a billion times smaller than it is big from a human perspective.
 
 ﻿
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-03.gif)
 
 THIS FACTOR IS JUST MESMERIZING
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-04.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-05.gif)
 
 Think of matter at the Planck Scale as just an extremely small "pixel". Now imagine once we have the computational power to perform machine-learning at this resolution (i.e. "vision" AI).
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-06.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-07.gif)
 
 "It's just a pixel."
 
@@ -47,51 +40,37 @@ EVEN MORE SIMPLICITY AND SPACE IN ALL THIS SPACE
 
 Previous email about living in all this space . . .
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-08.gif)
 
 . . . South Dakota
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-09.png)
 
 . . . Space.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-10.jpg)
 
 ---"The notion of just one universe feels claustrophobic to me. Not enough space."
 
 - Jed Anderson
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-11.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-12.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-13.png)
 
 I lived out on the plains in South Dakota before law school. How I became the first environmental tribal relations liaison in the history of the State of South Dakota is an interesting story . . . so I'll tell it (see below).
 
 The more space I sense in the universe . . . the more fun, comfortable, and exciting it feels.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-14.gif)
 
 . . . A page from my "quote journal" back in 1994 when I was out on the open plains of South Dakota --and in all that open physical space.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-15.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-16.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-17.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-18.png)
 
 . . . "To think that our big bang was the only bang seems at this point to be a bit narrow-minded, anthropocentric, and in contradiction to the continual iconoclastic evolution in our cosmological understanding."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-19.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-20.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-21.gif)
 
 How many bangs? . . .
 
@@ -99,19 +78,12 @@ How many universes? . . .
 
 How much space is there? . . .
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-22.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-23.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-24.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-25.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-26.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-27.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-28.jpg)
 
 The Story
 
@@ -131,11 +103,9 @@ And here's where it helps to be an optimistic 24-year old who knows the history 
 
 It was tremendously easy to find like-minded individuals at these tribes like my friend Emmett White Temple in the picture to the right. Emmett was a huge guy. Hilarious. Really, really fun to be around. He thought I was a nut for trying to do this. I think that's in part why he liked it so much. Together we and others put together the first Environmental Memorandum of Understanding between the Tribes and the State. After that, inspections were easy. And hilarious. When someone said "get off tribal land", I'd just say "well here's my friend Emmett you'll need to talk to" and then when someone would say "you're on state land" Emmett would say "well here's my friend Jed you'll need to talk to". Very funny to see their faces react.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-29.jpg)
 
 A picture of one of my environmental tribal friends, Emmett White Temple, from the Standing Rock Reservation, who passed away back in 2019.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-30.jpg)
 
 What patterns will Webb help us find?
 
@@ -151,14 +121,9 @@ And speaking of simplicity, interesting article a few days ago on artificial int
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-31.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-32.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-33.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-34.gif)
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-35.gif)
 
 [astrophysics](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcACW_e2r0CnFh3gg-SMK-_C0DBTIthK74PfYJPUnZhJ2alWGuKDoCDmHmgx1tP2-t9FDIQGzeOyIMnV0QHI2hUUT3P_Ts7F-WtMm5akK01IQgjbb1njmJAOJo7_tip0VnxR03avJyR1Ic7WSg1ZK55pRbiMfAzCxhF497QF9fSXW4bIb7s9qkh3JtMYFtGABG0Q==&c=&ch=)
 
@@ -178,35 +143,22 @@ It wasn’t supposed to. The improbable find grew out of an exercise Villaescusa
 
 “I thought the student made a mistake,” Villaescusa-Navarro said. “It was a little bit hard for me to believe, to be honest.” ([keep reading](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcACW_e2r0CnFh3gg-SMK-_C0DBTIthK74PfYJPUnZhJ2alWGuKDoCDmHmgx1tP2-t9FDIQGzeOyIMnV0QHI2hUUT3P_Ts7F-WtMm5akK01IQgjbb1njmJAOJo7_tip0VnxR03avJyR1Ic7WSg1ZK55pRbiMfAzCxhF497QF9fSXW4bIb7s9qkh3JtMYFtGABG0Q==&c=&ch=))
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-36.gif)
 
 ‌
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-37.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-38.gif)
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-39.png)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAO6zQ9JcBLiYroi40zPqyucyeX0fLkWMbuw4_eLEw9gfjqa0fCVO7WT0CIuJJdhOB2QyfubJmRYpeDUztAlLP5eeOmydjhb8-8T8QEhlWq9a6FkLy-75e1p4x-DPJ3EBFCP9A7GBcBDmJbeQyLQP369dXWpdThDZ2g==&c=&ch=)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-40.gif)
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-41.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAKEczKhBZQRuRKdWkFL73L4BFlrqMTtgdR4DW1Dw8npZ9LwYpaKZoMKQPnvxaxjDe2tc_LiqLsLtI6HwVRRcEZCqg9hzI7sP4A==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-42.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-43.gif)
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-44.png)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAO6zQ9JcBLiYroi40zPqyucyeX0fLkWMbuw4_eLEw9gfjqa0fCVO7WT0CIuJJdhOB2QyfubJmRYpeDUztAlLP5eeOmydjhb8-8T8QEhlWq9a6FkLy-75e1p4x-DPJ3EBFCP9A7GBcBDmJbeQyLQP369dXWpdThDZ2g==&c=&ch=)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-45.gif)
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-46.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAO6zQ9JcBLiYroi40zPqyucyeX0fLkWMbuw4_eLEw9gfjqa0fCVO7WT0CIuJJdhOB2QyfubJmRYpeDUztAlLP5eeOmydjhb8-8T8QEhlWq9a6FkLy-75e1p4x-DPJ3EBFCP9A7GBcBDmJbeQyLQP369dXWpdThDZ2g==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-47.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-48.png)
 
 ﻿James Webb Space Telescope
 
@@ -214,35 +166,27 @@ How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXt
 
 - Jed Anderson
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-49.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-50.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine" as many people call it, but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-51.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-52.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-53.gif)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-54.gif)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAJmO3MAC_evOmOEjWBV5hsV-aZWREA0D1OjfAbg3j0s1DaPDD0hB5Mkr_86kddmyGm9gKXZVW-XAkUu2_LIPFPvxyzdi9WsYan45ZYADb0BFCGiQHdWXYjYoqzF9HKssfw==&c=&ch=)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-55.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-56.gif)
 
 See if you can find the pattern in this code:
 
@@ -250,43 +194,32 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-57.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-58.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-59.png)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-60.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-61.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-62.png)
 
 ﻿---"The universeseems to equalsimple physical laws or code (which we do not completely understand yet) running over, and over,and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over (for 13.8 billion years and counting). . . producing ever richer and more complex data (phenomena), and more data, and more data, and more data, and more data, and more data, and more data, and more data, and more data, and more data . . . until it's so phenomenally complicated and rich that I'm yak-yakking right now with these computer keystrokes and you are doing whatever you are doing. Weird. Wild. Fun. How much richer and more complicated can the phenomena get, and we help make it--especially as humankind better understands the underlying simplicities driving this inflationary expansion? Hang onto your hats."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-63.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-64.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-65.png)
 
 Simplicity.
 
 ---"We are getting back to where we once belonged . . . the underlying simplicities driving all this rich complexity." - Jed Anderson, EnviroAI
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-66.png)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAAdnZEsUdnEBt_iG2UuO1fZ3x4L1vzIqfmlC5M0QUv_d5X4WDmpijBLlJkLtJyFB7bMzMTlQSnsbuSp__m5l86PggasM1u4r4g==&c=&ch=)
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-67.jpg)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAAdnZEsUdnEBHjE3xEu9wgYJUi4uVPsvSs7kjkecFfLX7wrFANK6jVBhQuKJcaW86a4F4-9YSiiEqgfFa5Sh5ADjmFVddyLpnA==&c=&ch=)
 
 The Beatles
 
@@ -296,16 +229,11 @@ The song "Get Back" is 2 notes. It's only 2 two. It's just two notes. Two notes.
 
 The Beatles, just like Oscar Peterson and J.S. Bach below, understood the underlying simplicity so well that they could let their imaginations and creativity go wild and begin to "play the universe" . . . producing richer and more complex phenomena.
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-68.gif)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAAdnZEsUdnEBt_iG2UuO1fZ3x4L1vzIqfmlC5M0QUv_d5X4WDmpijBLlJkLtJyFB7bMzMTlQSnsbuSp__m5l86PggasM1u4r4g==&c=&ch=)
 
 These guys we're a bunch of goof-balls! I love it! What will surprise people in this documentary is how much silly-time was involved in this monumental work, and how much fun they had together and how much they loved each other and loved music.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-69.gif)
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-70.gif)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAAdnZEsUdnEBHjE3xEu9wgYJUi4uVPsvSs7kjkecFfLX7wrFANK6jVBhQuKJcaW86a4F4-9YSiiEqgfFa5Sh5ADjmFVddyLpnA==&c=&ch=)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-71.gif)
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-72.gif)
 
 James Webb Telescope
 
@@ -313,36 +241,26 @@ James Webb Telescope
 
 I am so incredibly excited! My interest is not so much cosmological as it is understanding the underlying simplicities so we can "play the universe" when it comes to protecting the environment . . . Write the environmental protection equivalent of "Let it be" for nature and humanity. A masterpiece to life.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-73.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-74.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-75.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-76.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-77.gif)
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-78.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-79.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAKAjLTwrRtAss17W-tzg29IOGKw1qi9oGOMro4xNLgxYcHqMvDtVyDZVF9SV3nZIRxj06JDkpgcEcpF5r8uRKtXF83AJ7tftlUQ2ch-jLgZ4&c=&ch=)
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-80.png)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAKAjLTwrRtAss17W-tzg29IOGKw1qi9oGOMro4xNLgxYcHqMvDtVyDZVF9SV3nZIRxj06JDkpgcEcpF5r8uRKtXF83AJ7tftlUQ2ch-jLgZ4&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-81.gif)
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-82.gif)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAKLk7mlANSE4OkmSqQH_OEw-jKVMYI3hUCpl4V72Fm2yMaghk290fKJUPzD969-V-u0HwMbqtwJlF5ypqBVCN9_0Kfr19WhMRw==&c=&ch=)
 
 ‌
 
@@ -350,38 +268,25 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-83.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-84.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-85.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-86.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-87.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-88.gif)
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-89.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-90.gif)
 
 ‌
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-91.jpg)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAKLk7mlANSE4OkmSqQH_OEw-jKVMYI3hUCpl4V72Fm2yMaghk290fKJUPzD969-V-u0HwMbqtwJlF5ypqBVCN9_0Kfr19WhMRw==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAKLk7mlANSE4OkmSqQH_OEw-jKVMYI3hUCpl4V72Fm2yMaghk290fKJUPzD969-V-u0HwMbqtwJlF5ypqBVCN9_0Kfr19WhMRw==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-92.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-93.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-94.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-95.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -395,9 +300,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-96.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-97.jpg)
 
 ---"Everything is patterns.
 
@@ -407,13 +310,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-98.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-99.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-100.gif)
 
 Notes are data. Music is patterns.
 
@@ -425,27 +325,19 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-101.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-102.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-103.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-104.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-105.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-106.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-107.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-108.png)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -461,29 +353,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-109.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-110.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-111.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-112.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/the-amount-of-space-in-space-is-incredible/img-113.gif)](https://r20.rs6.net/tn.jsp?f=001jg-WZfO1vV7ikFXtq0ycAsFkY5-R3d0WriuiARZvPSEaDeV800wcAJmO3MAC_evOmOEjWBV5hsV-aZWREA0D1OjfAbg3j0s1DaPDD0hB5Mkr_86kddmyGm9gKXZVW-XAkUu2_LIPFPvxyzdi9WsYan45ZYADb0BFCGiQHdWXYjYoqzF9HKssfw==&c=&ch=)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-114.gif)
 
 SIMPLICITY
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-115.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -492,7 +377,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-116.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -505,9 +389,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-117.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-118.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -522,7 +404,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-119.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -568,33 +449,19 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-120.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-121.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-122.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-123.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-124.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-125.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-126.jpg)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-127.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-128.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-129.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-130.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-131.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-132.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-133.gif)
 
 ‌
 
@@ -968,8 +835,5 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-134.png)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-135.gif)
 
-![](/images/posts/the-amount-of-space-in-space-is-incredible/img-136.gif)

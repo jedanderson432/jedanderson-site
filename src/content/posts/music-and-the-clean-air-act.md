@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: '[](/images/sip/music-and-the-clean-air-act.png)Think the foundations of the Clean Air Act need to remain long and complicated to handle the complex, nuanced, and multifarious world we now live in?'
 ---
 
-[![Music and the Clean Air Act](/images/sip/music-and-the-clean-air-act.png)](/images/sip/music-and-the-clean-air-act.png)Think the foundations of the Clean Air Act need to remain long and complicated to handle the complex, nuanced,  and multifarious world we now live in?
+Think the foundations of the Clean Air Act need to remain long and complicated to handle the complex, nuanced,  and multifarious world we now live in?
 
 Most music as we know it only uses 12 notes.  From Rachmaninoff to Bob Marley, from Muddy Waters to Eminem—only 12 notes.
 

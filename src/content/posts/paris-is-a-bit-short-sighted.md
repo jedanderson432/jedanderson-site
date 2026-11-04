@@ -13,4 +13,3 @@ abstract: '# Paris climate treaty is a bit short-sighted. Need a holistic, globa
 
 # Paris climate treaty is a bit short-sighted.  Need a holistic, global *multi-pollutant* approach to take advantage of synergies.
 
-[![AGAPE](/images/sip/agape.png)](/images/sip/agape.png)

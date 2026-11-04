@@ -17,4 +17,3 @@ People throughout history have taken on much more significant problems, with far
 
 Transforming the SIP process will relatively be a piece of cake.  Only question on whether to proceed or not should be “is this the right thing to do”.   After that its only about courage and faith.
 
-[![](/images/sip/sip3.jpg "SIP")](/images/sip/sip3.jpg)

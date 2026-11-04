@@ -17,22 +17,13 @@ SIMULATE NATURE.
 
 PROTECT NATURE.
 
-![](/images/posts/simulate-nature-protect-nature/img-01.gif)
 
-![](/images/posts/simulate-nature-protect-nature/img-02.png)
 
-![](/images/posts/simulate-nature-protect-nature/img-03.png)
 
-![](/images/posts/simulate-nature-protect-nature/img-04.png)
 
-![](/images/posts/simulate-nature-protect-nature/img-05.gif)
 
-![](/images/posts/simulate-nature-protect-nature/img-06.png)
 
-![](/images/posts/simulate-nature-protect-nature/img-07.gif)
 
 Contact us at [ceres@enviro.ai.](mailto:ceres@enviro.ai)
 
-![](/images/posts/simulate-nature-protect-nature/img-08.gif)
 
-![](/images/posts/simulate-nature-protect-nature/img-09.gif)

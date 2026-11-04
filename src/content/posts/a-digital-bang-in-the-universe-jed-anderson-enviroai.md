@@ -17,4 +17,3 @@ Protecting nature . . . with a digital bang
 
 [﻿Webpage](https://r20.rs6.net/tn.jsp?f=001AFegbof5Q8JgyfsdNFNKqLa-GcFqlBtT5SQyldtBslFWq8BJDsBP8ch2-iXMezNWw41hghWOgeCCosVEJUm3Kl5wCs7hL1MCueNxsRrSYqFaSUGY-dLZ5fwirxoXlUnB-gaWzmwUJFsjheS-YZyB2pfeXr48kS7j&c=&ch=)
 
-[![](/images/posts/a-digital-bang-in-the-universe-jed-anderson-enviroai/img-01.png)](https://r20.rs6.net/tn.jsp?f=001AFegbof5Q8JgyfsdNFNKqLa-GcFqlBtT5SQyldtBslFWq8BJDsBP8XfHc1M98-6RHb3EgrjvImC-w0WWdV515eDNSt3P2FQENYP17tJZw-a6HiCUpU_Zd6o6m1DDdauQ0sJK4UYuki19tYg9ru7hQw==&c=&ch=)

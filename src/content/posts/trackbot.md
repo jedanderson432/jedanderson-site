@@ -11,9 +11,7 @@ pdf: "/pdfs/trackbot.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-![](/images/posts/trackbot/img-01.gif)
 
-![](/images/posts/trackbot/img-02.png)
 
 "Hey TrackBot . . .
 
@@ -25,6 +23,5 @@ original_source: "Constant Contact campaign"
 
 . . . tell me when someone is implementing a new control parameter for a scrubber
 
-![](/images/posts/trackbot/img-03.png)
 
 [www.enviro.ai](https://r20.rs6.net/tn.jsp?f=0011HRZvqqeY9jJtu2vvxrY-2-b3Hx3MXgzwIQppcDV1k8IT8_8QYnYK4FA00VvXnxOukROsyD41JrIgpkE918Af-VPlcTefgecVJtO14qZK7nOHotw9qZITEsZvO7U4dY2HDVBRZk9F8Q=&c=&ch=)

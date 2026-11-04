@@ -11,19 +11,15 @@ pdf: "/pdfs/ohio.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-[![](/images/posts/ohio/img-01.gif)](https://r20.rs6.net/tn.jsp?f=001S9xk9C3eXnXr0QqrW7WTIwWP142AJf-aLvTi54BcJvy9cYoIx6IjR0aDSpfMKxqaX7iT0CHzS-hTnuv1QyDBWRQpHAg4EkPNUXEcfobekiiCdbVlM0omhT6x_5VIbG0YdBycc95Awyw=&c=&ch=)
 
-![](/images/posts/ohio/img-02.gif)
 
 WE'RE ADDING EVEN
 
 MORE STATES!
 
-![](/images/posts/ohio/img-03.gif)
 
 [Shop Now](https://r20.rs6.net/tn.jsp?f=001S9xk9C3eXnXr0QqrW7WTIwWP142AJf-aLvTi54BcJvy9cYoIx6IjRxpDmHUvl5chtmYPSTYvTHETW4QORLiBZkOiA5nJ1Z7TtO3GnN-bkGBlc0Say7rAEJ33ijya8vylTe9kVYW1TOUUMqmKbCIzTg==&c=&ch=)
 
-![](/images/posts/ohio/img-04.gif)
 
 ---"Money-maker . . .
 
@@ -35,4 +31,3 @@ Learn how to get the lowest cost, most flexible environmental permit conditions.
 
 - Jed Anderson, CEO, EnviroAI
 
-![](/images/posts/ohio/img-05.gif)

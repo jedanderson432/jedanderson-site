@@ -13,15 +13,11 @@ original_source: "Constant Contact campaign"
 
 Artificial Intelligence & Data--------Our Customers Gaining a Huge Competitive Advantage
 
-![](/images/posts/huge-environmental-competitive-advantage/img-01.gif)
 
 Our customers know what everyone is doing . . .
 
-![](/images/posts/huge-environmental-competitive-advantage/img-02.gif)
 
-![](/images/posts/huge-environmental-competitive-advantage/img-03.gif)
 
-[![](/images/posts/huge-environmental-competitive-advantage/img-04.png)](https://r20.rs6.net/tn.jsp?f=001ct7x9vo9-Zgv-w0UMfZsiElQezIZ1lGeAH_XA5gXzrR1ZYeAf-OINOqMeVCUOcTiTW-wQh_98lAQI_pdvU-2M3VXPsX1eGenInz18ReP4LsjpNinCFelRnVkbztx1OjUC0CXx-o7BV8=&c=&ch=)
 
 Don't get left behind environmentally or financially!
 
@@ -31,4 +27,3 @@ Embrace artificial intelligence!
 
 Gain an intelligence advantage today!
 
-![](/images/posts/huge-environmental-competitive-advantage/img-05.gif)

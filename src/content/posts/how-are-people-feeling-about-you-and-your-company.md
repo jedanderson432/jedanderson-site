@@ -13,9 +13,7 @@ original_source: "Constant Contact campaign"
 
 "Environmental Sentiment Analysis"---by EnviroAI
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-01.gif)
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-02.gif)
 
 Happy?
 
@@ -25,28 +23,21 @@ TRACK ESG SENTIMENT . . .
 
 TRACK ENVIRONMENTAL SENTIMENT . . .
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-03.gif)
 
 ‌
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-04.gif)
 
 . . . "This is a truly amazing and powerful tool." - The Texas Tribune
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-05.gif)
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-06.gif)
 
 . . . "The AI tools that EnviroAI is building will change the environmental world." - Former CEO Global Top 10 Utility Company
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-07.gif)
 
 Agency filings . . .
 
 Social media . . .
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-08.gif)
 
 [ORDER NOW](mailto:CERES@ENVIRO.AI)
 
-![](/images/posts/how-are-people-feeling-about-you-and-your-company/img-09.gif)

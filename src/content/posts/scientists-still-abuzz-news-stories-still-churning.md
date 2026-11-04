@@ -19,19 +19,14 @@ Are we living in a black hole? . . . How does this relate to information process
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-01.gif)
 
 "If we are living in a black hole . . . the universe starts to make better sense to me. It appears more logical. The strangeness and weirdness wears off a bit. It's like . . . of course it's going to be a bit weird . . . you're in a black hole. Things are going to be and feel a bit strange in a black hole."
 
 - Jed Anderson, EnviroAI
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-02.jpg)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTVr39C6CCw55mPJH-bnh3NSKHYSOuhFCMbAmgPbQjJtP6ey6NyjBUFqYqGB_2WALA1UZ26ejfi6qmQLhwpPIXjV2xWf9UjZagG1IY5TUPjdMljQxOS2QXVpill7TW2LZ-ovTFXO8VU75WLDl10ekKFd8dwoy3E5h3FweA5eYhSiX&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-03.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-04.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-05.jpg)
 
 "What I would find stranger than learning that we are living in a black hole is to learn that we are not living in a black hole--or something akin to a black hole. Living in a black hole, things like quantum entanglement around us become explainable . . . pedestrian. Like . . . of course there's quantum entanglement happening around you . . . you're in a black hole! Living in a black hole and not expecting to find quantum entanglement would be like living in Houston and not expecting to find a Starbucks."
 
@@ -39,23 +34,15 @@ Are we living in a black hole? . . . How does this relate to information process
 
 [[1st evidence]](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTVr39C6CCw55mPJH-bnh3NSKHYSOuhFCMbAmgPbQjJtP6ey6NyjBUFqYqGB_2WALA1UZ26ejfi6qmQLhwpPIXjV2xWf9UjZagG1IY5TUPjdMljQxOS2QXVpill7TW2LZ-ovTFXO8VU75WLDl10ekKFd8dwoy3E5h3FweA5eYhSiX&c=&ch=)
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-06.jpg)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTVr39C6CCw55mPJH-bnh3NSKHYSOuhFCMbAmgPbQjJtP6ey6NyjBUFqYqGB_2WALA1UZ26ejfi6qmQLhwpPIXjV2xWf9UjZagG1IY5TUPjdMljQxOS2QXVpill7TW2LZ-ovTFXO8VU75WLDl10ekKFd8dwoy3E5h3FweA5eYhSiX&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-07.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-08.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-09.jpg)
 
 The scientific community is abuzz about this new study finding that dark energy, which comprises the majority of the universe, might be coming from a black hole based on evidence from earlier galaxies.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-10.gif)
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-11.png)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTVr39C6CCw55ZYlx2rHE2VX9mMoWczDRo30bpstpJIN5CqG4MckW_ZPEDgGklrCN9uYJ8lJbfJYQdnGpOHcsuHCYGtoExVSMPnPj0B0vRfh6wTnPLL_dhHxwGmztX3e-c2HPF1dxlqdXSrRi2gQN85DlFAg2Uti-ojVPtMluQFv7Xck0AZB8WL0xpykrtGMIUxt_ljtuZ24nW60uqvboHDy2NUxZJlVH5oyZhfb18xU1bqEcfgB2szAqGP7DR_ylsejbk_34UknwzNGX0UAeFQPLhDpsQ2Fz4l75qF3S9-Ir&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-12.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-13.gif)
 
 Is it all from within a black hole?
 
@@ -65,31 +52,22 @@ Is it a 3d projection from information encoded on a 2d event horizon of a black 
 
 Both the big bang and black holes are singularities. Coincidence? Interesting.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-14.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-15.gif)
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-16.png)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTVr39C6CCw55qBK0GQUGHVCSR5r2e15ltmKH4Bnt4fejg2H6lFH9_hbw1vEvDt0AHoHSV994C5XRglEPL2FPlYhmD_2LaJ3Xc1VZRfUDFkz2ZO05v25ffR1sFoF-BHCJ7OobtsrhE1VGhaGh4f1U3LEFnm1Spmsu45bd0BUzR_O5WPeFtINNZrju_NtR5jTkBEl-XpeES6H1YgSr86tq0nZzw51gdk1WmzYbOxbubgjRqjA3szKm9TdMixQd4HGFUAXK2vvmW-m1uB8ECgKSqkHmx1xSd1gsCupd3An-NcXf7s3afT5DDEc=&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-17.gif)
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-18.png)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTVr39C6CCw55jnNcf-XTThdO_IH0r036p_HUHOshzKziEDD2eN9DHUTyKx4D1UOS5lPEHKcRpW9co6Meauf2CRL9rOuUNQv60MqsfLfPqQZNxSodeRTM0fLTiQBxTZp9fVZ0t8N4LnSxihG4eW_GPbrUDmrEkZ1rlqi9j8-4C9QParMhG5SexE034Ftzmzb5ZE2eEfN8KboN3eL4GuJ5iGLDoQdupdS_lovpjaYLWyYP&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-19.jpg)
 
 "Studying how the universe (nature) processes information is providing EnviroAI with key insights into considering how to build information technology to better protect the environment more simply, efficiently, and effectively."
 
 -Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-20.png)
 
 "If you can't see the relationship between chatbots (LLM transformers), black holes, artificial intelligence/machine-learning, information theory, entropy, quantum entanglement, and environmental protection . . . you aren't thinking about it hard enough. You aren't looking hard enough."
 
 -Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-21.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-22.jpg)
 
 DARK
 
@@ -103,15 +81,12 @@ DARK
 
 ENERGY
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-23.gif)
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-24.jpg)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTVr39C6CCw55dMbm05iUS_JiBR0UPa0dnTAmU-KQEbGB44Y8xKohXisXixz_TLnJRFWoUXzxo4AKaGMvucjOEK8zmAXUYQtdNsH-wNUo-6NUHWSDZuZOcozMWHmi-a2oOcLeQ5-iPV6i_k9yO5ATS_UFbyyAnKTmKg3Nv902ELZW7RlQiZHyd9UCWycyGEYC2CX-lm9BNGt0IgLUGjPBKli18fPDUEhmpA==&c=&ch=)
 
 ‌
 
 "It's information."
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-25.png)
 
 “If and when we learn how to combine bits in fantastically large numbers to obtain what we call existence, we will know better what we mean both by bit and by existence.”
 
@@ -119,43 +94,30 @@ ENERGY
 
 (physicist who coined the term "black hole"")
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-26.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-27.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-28.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-29.png)
 
 "Matter (Heisenberg/Einstein/Bohr/Schroedinger), mathematics (Godel’s incompleteness theorem), and computation (Turing/Shannon/Kolmogorov-Chaitlin complexity-halting problem ) all seem to similarly break down at the same point. The fact that they all break down, where they break down, and this relationship does not appear to be a coincidental. In fact, they all seem to be saying the same thing (but in different ways) and pointing in the same direction."
 
 - Jed Anderson
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-30.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-31.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-32.gif)
 
 "---"Simpler to control pollution as informationthan as matter."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-33.png)
 
 "It from bit." - John Wheeler
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-34.png)
 
 "Information: the negative reciprocal of probability."- Claude Shannon
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-35.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-36.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-37.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-38.png)
 
 "The world is focused on protecting the environment fundamentally as a physical structure. We're the first company considering it might be more 'information-based' at its foundation than what humans have been historically and traditionally thinking--and creating a system to help try to protect it as such. Simpler. Faster. Less energy involved in utilizing an information-based protection system."
 
@@ -163,23 +125,15 @@ ENERGY
 
 Is the environment more fundamentally matter or information?
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-39.png)
 
 ---"If it looks like a duck, swims like a duck, and quacks like a duck . . . then its . . . not necessarily a duck . . . but the odds have gone up considerably now that it also likes crackers." - Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-40.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-41.png)
 
 ﻿Even if the Universe is not a computer, or simulation . . . the mathematical, computational, and informational underpinnings make you scratch your head sometimes and wonder why this thing is acting like a duck.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-42.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-43.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-44.gif)
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-45.gif)
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-46.gif)
 
 "I can go a couple hours . . . sometimes a couple days . . . and then I'm back thinking about Claude Shannon again."
 
@@ -209,65 +163,41 @@ Alternatively, we could talk about system solutions.
 
 ﻿And the idea of a system solution is we accept the lousy channel as it is and we add encoding and decoding systems around that channel to turn it into a reliable channel. So this is a much more exciting approach than the physical approach. Physics is exciting too, but the system approach accepts the unreliable system as it is and transforms it into a reliable system. And that's what information theory is about.” – Professor David MacKay, Cambridge University
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-47.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-48.png)
 
 Remember . . . and this is critical. . . I'm not talking about changing the "environmental signal". I'm talking about reducing the noise . . . reducing the complexity. It will be like talking to your friend on the cell phone. It's still your friend's voice on the cell phone. It's still the same content.  In fact, its better content and a higher quality. Does anyone think that the person they speak to on an analog phone is different than the person they speak to on a digital phone? I don't think so. No one is that naive.
 
 It's a fascinating world ahead of us.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-49.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-50.jpg)
 
 . . . "To think that our big bang was the only bang would seem at this point to me to be a bit narrow-minded, anthropocentric, and in contradiction to the continual iconoclastic evolution in our cosmological understanding."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-51.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-52.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-53.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-54.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-55.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-56.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-57.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-58.png)
 
 ‌
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-59.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-60.gif)
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-61.png)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTW1LXbHETcUBS2LFGV9RnAJMaByvA67KknCB0fYbCrLGleyBfo3Zy3eOM0ZGcJSX1emE7FCu27VjEGGVAo29PMkUmSIQR9Y0iPnxM1cmnaRNpKyIKnv5p7gJTAxs3fJ1JCpbKOeM1i3amq0xh2TK0EbMGtZ9R71myw==&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-62.gif)
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-63.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTU7j9CTdIVG3JPnCfQby-MVOgxaXP7Nn6Gz4Ii1Fz7CCI22E_tVg7I2_G2BNLKcSZYjH__oDeZH7bCrOUzhYsp_dprY4VN7AEg==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-64.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-65.gif)
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-66.png)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTW1LXbHETcUBS2LFGV9RnAJMaByvA67KknCB0fYbCrLGleyBfo3Zy3eOM0ZGcJSX1emE7FCu27VjEGGVAo29PMkUmSIQR9Y0iPnxM1cmnaRNpKyIKnv5p7gJTAxs3fJ1JCpbKOeM1i3amq0xh2TK0EbMGtZ9R71myw==&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-67.gif)
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-68.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTW1LXbHETcUBS2LFGV9RnAJMaByvA67KknCB0fYbCrLGleyBfo3Zy3eOM0ZGcJSX1emE7FCu27VjEGGVAo29PMkUmSIQR9Y0iPnxM1cmnaRNpKyIKnv5p7gJTAxs3fJ1JCpbKOeM1i3amq0xh2TK0EbMGtZ9R71myw==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-69.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-70.png)
 
 ﻿James Webb Space Telescope
 
@@ -275,33 +205,26 @@ How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1
 
 - Jed Anderson
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-71.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-72.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine" as many people call it, but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-73.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-74.png)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-75.gif)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTS_noUWCcH16HnWWwON2SsWqmRhfdAXsfexvmOYYURTrWSvzjHdBEyxGOf2EGyHZ4tB7LpaMxNdl1TAdVBWxn75HO3jbSoM6le25X4u-BWufDMh1OWwfVAj8BFEYwiy_hw==&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-76.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-77.gif)
 
 See if you can find the pattern in this code:
 
@@ -309,31 +232,23 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-78.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-79.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-80.png)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-81.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-82.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-83.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-84.png)
 
 Simplicity.
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-85.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
@@ -343,13 +258,11 @@ Simplicity.
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTXubSdDmX_FOciFPDjYmAGuRJbwGCP0xfQxL9cFY2B3BBCeLSMLPxzBCS3-Ghee0336T1dh6udEe0lAxFIPmDyO8_-Vw_EKNP98ggOziqDkf&c=&ch=)
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-86.png)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTXubSdDmX_FOciFPDjYmAGuRJbwGCP0xfQxL9cFY2B3BBCeLSMLPxzBCS3-Ghee0336T1dh6udEe0lAxFIPmDyO8_-Vw_EKNP98ggOziqDkf&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-87.gif)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTXs_CClhEt9zwkpd-B-rb9G8QKPWrcfXQFXqqgi7cRs5B34JnxNeD4nKLKwNvOkA65WkwlOO00kCTmExXlX_lo3dv_YHVgC-aQ==&c=&ch=)
 
 ‌
 
@@ -357,34 +270,23 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-88.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-89.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-90.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-91.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-92.gif)
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-93.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
 ‌
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-94.jpg)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTXs_CClhEt9zwkpd-B-rb9G8QKPWrcfXQFXqqgi7cRs5B34JnxNeD4nKLKwNvOkA65WkwlOO00kCTmExXlX_lo3dv_YHVgC-aQ==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTXs_CClhEt9zwkpd-B-rb9G8QKPWrcfXQFXqqgi7cRs5B34JnxNeD4nKLKwNvOkA65WkwlOO00kCTmExXlX_lo3dv_YHVgC-aQ==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-95.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-96.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-97.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-98.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -398,9 +300,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-99.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-100.jpg)
 
 ---"Everything is patterns.
 
@@ -410,13 +310,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-101.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-102.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-103.gif)
 
 Notes are data. Music is patterns.
 
@@ -428,45 +325,33 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-104.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-105.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-106.jpg)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-107.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-108.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-109.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-110.png)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-111.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-112.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-113.gif)](https://r20.rs6.net/tn.jsp?f=001_52up9oVAWzdHsC1YxzaFSrzMU_XUqU_kY92TX2AuVNmsES0GlCRTS_noUWCcH16HnWWwON2SsWqmRhfdAXsfexvmOYYURTrWSvzjHdBEyxGOf2EGyHZ4tB7LpaMxNdl1TAdVBWxn75HO3jbSoM6le25X4u-BWufDMh1OWwfVAj8BFEYwiy_hw==&c=&ch=)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-114.gif)
 
 SIMPLICITY
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-115.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -475,7 +360,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-116.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -488,9 +372,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-117.png)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-118.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -505,7 +387,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-119.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -551,9 +432,7 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-120.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-121.jpg)
 
 ‌
 
@@ -927,6 +806,4 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-122.gif)
 
-![](/images/posts/scientists-still-abuzz-news-stories-still-churning/img-123.gif)

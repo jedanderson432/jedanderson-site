@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Regardess . . . it's a great idea! Bravo ExxonMobil!!!
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-01.gif)
 
 It's all over the news today . . . and some of you sent it to me with comments that it was my idea, which is inconsequential but kind of you (see news links and info below). It's a great idea! Bravo ExxonMobil!
 
@@ -23,17 +22,12 @@ Bravo ﻿
 
 ExxonMobil!
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-02.gif)
 
 $100 Billion Houston Climate Project
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-03.gif)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-04.gif)
 
-[![](/images/posts/100-billion-exxon-project-jeds-idea/img-05.png)](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLlpI2xOOUqaXLYwaMFD5VNr3pq_qv4Qkvi-txNpqbLKejadffZojX5UFjQqaoNxT8MplhJWmDMetON6LX1gT6wdUXYcMIijQtmsVhhtQOHkyRazShv7TiX96tr_SK70xx2lK2w5vMn3Pr0DtwbGwYTMzeksBUaboxQCneDIeRwYu-MR0rcO3Ze6Q==&c=&ch=)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-06.gif)
 
 ‌
 
@@ -41,7 +35,6 @@ $100 Billion Houston Climate Project
 
 - Jed Anderson
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-07.gif)
 
 News Links:
 
@@ -57,21 +50,13 @@ News Links:
 
 Project Details (click on images)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-08.gif)
 
-[![](/images/posts/100-billion-exxon-project-jeds-idea/img-09.png)](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLl23TrNdJJr6x0JHUE2UJc4uhL-kvrMAjjzRIECUs6zOO8XmPkhKSO4TLGn71UO6sSimr8tSkB4_a_XqPKUoPn9kWZIjvJCBe8FBm0OXMdEY8mCZPsSmlpB8iK16FcdzZ943JKN3P0cN-eSbwajg2k_A==&c=&ch=)
 
-[![](/images/posts/100-billion-exxon-project-jeds-idea/img-10.png)](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLlFGwcpKE2VgI7K_QVlq6AdprGtpoo2D_twEC6TW0JAThG6fjLvJd1HdEre8n5i1eGW3hP0IVPdb7Lr6YrGldTqluuIXzM5JOyyYpmBsyi3LqA96Y8_JlzDvu0bQFhRK7bYK7IkkTVW1wOGHTrrtsxYagHV-Zgdg6Q3c4EGNaqfwEqJbledAMaQQ==&c=&ch=)
 
-[![](/images/posts/100-billion-exxon-project-jeds-idea/img-11.png)](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLlFGwcpKE2VgI7K_QVlq6AdprGtpoo2D_twEC6TW0JAThG6fjLvJd1HdEre8n5i1eGW3hP0IVPdb7Lr6YrGldTqluuIXzM5JOyyYpmBsyi3LqA96Y8_JlzDvu0bQFhRK7bYK7IkkTVW1wOGHTrrtsxYagHV-Zgdg6Q3c4EGNaqfwEqJbledAMaQQ==&c=&ch=)
 
-[![](/images/posts/100-billion-exxon-project-jeds-idea/img-12.png)](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLlGrhCFVg8NBnyKawk_rNLklFYEjfjxR_NmulzUqUqaMyoNfqEposHl0XWPCQCZyKjOwwfAfa1C_9tjKXsnFOBsa-MC5RVBnCxQOhkE-YXo4tgNwYCB7_R0fkzByVE2i6KeyOu8xzgrN1MBb0qTE4OlK7wfrE9e4MDpI3WINo3JvM=&c=&ch=)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-13.gif)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-14.gif)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-15.gif)
 
 Our project also captures traditional pollutants and wastewater--and looks for beneficial uses of CO2.
 
@@ -83,9 +68,7 @@ Environmental
 
 ﻿Excellence
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-16.gif)
 
-[![](/images/posts/100-billion-exxon-project-jeds-idea/img-17.png)](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLlgEi8dbdC69PQnyRneFMooFc1bDYPUtBu5lVA6rpdittIlmgVNLPToCj508BWB9DtYB861O4sdMp8-POmO701pQOkSPpPAx9HRwo7TcX5ZNd1q82Q2wiyxRl3DWCXTSMVsuVGVCyagSe061YYYoZyl-Z5sIJn_PUcUlfZ61tvKYo=&c=&ch=)
 
 - Water Pollution
 
@@ -93,26 +76,16 @@ Environmental
 
 - CO2 Pollution
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-18.gif)
 
-[![](/images/posts/100-billion-exxon-project-jeds-idea/img-19.png)](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLlgEi8dbdC69PQnyRneFMooFc1bDYPUtBu5lVA6rpdittIlmgVNLPToCj508BWB9DtYB861O4sdMp8-POmO701pQOkSPpPAx9HRwo7TcX5ZNd1q82Q2wiyxRl3DWCXTSMVsuVGVCyagSe061YYYoZyl-Z5sIJn_PUcUlfZ61tvKYo=&c=&ch=)
 
-[![](/images/posts/100-billion-exxon-project-jeds-idea/img-20.png)](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLlgEi8dbdC69PQnyRneFMooFc1bDYPUtBu5lVA6rpdittIlmgVNLPToCj508BWB9DtYB861O4sdMp8-POmO701pQOkSPpPAx9HRwo7TcX5ZNd1q82Q2wiyxRl3DWCXTSMVsuVGVCyagSe061YYYoZyl-Z5sIJn_PUcUlfZ61tvKYo=&c=&ch=)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-21.gif)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-22.png)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-23.png)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-24.gif)
 
 [Project Details](http://r20.rs6.net/tn.jsp?f=001m1uWW-GJ11TMAe7Q69ftWcA4PBBIf0OHgOX1tIWsRtKsYN72iYUuiudmYW5OZXLlgEi8dbdC69PQnyRneFMooFc1bDYPUtBu5lVA6rpdittIlmgVNLPToCj508BWB9DtYB861O4sdMp8-POmO701pQOkSPpPAx9HRwo7TcX5ZNd1q82Q2wiyxRl3DWCXTSMVsuVGVCyagSe061YYYoZyl-Z5sIJn_PUcUlfZ61tvKYo=&c=&ch=)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-25.gif)
 
 [Contact Us](mailto:jed@enviro.ai)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-26.gif)
 
-![](/images/posts/100-billion-exxon-project-jeds-idea/img-27.gif)

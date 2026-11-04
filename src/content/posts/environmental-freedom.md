@@ -11,9 +11,7 @@ pdf: "/pdfs/environmental-freedom.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-![](/images/posts/environmental-freedom/img-01.gif)
 
-![](/images/posts/environmental-freedom/img-02.gif)
 
 Freedom from pollution.
 
@@ -27,6 +25,5 @@ Love.
 
 Freedom.
 
-![](/images/posts/environmental-freedom/img-03.gif)
 
 ---"Effort builds mountains. Faith moves mountains." - Jed Anderson, Creator, EnviroAI

@@ -13,11 +13,9 @@ original_source: "Constant Contact campaign"
 
 "With less physical exploration due to Covid . . . humans are using different exploration methods to in some ways climb to much heigher heights."
 
-![](/images/posts/exploration-discovery-wonder/img-01.gif)
 
 "With less physical exploration due to Covid . . .humans can actually develop other senses, skills, and tools to climb even higher mountains and unexplored terrain . . .
 
-![](/images/posts/exploration-discovery-wonder/img-02.png)
 
 “A ship is safe in harbor, but that's not what ships are for.” - Paulo Coelho
 
@@ -115,9 +113,7 @@ original_source: "Constant Contact campaign"
 
 - Ernest Shackleton
 
-![](/images/posts/exploration-discovery-wonder/img-03.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-04.gif)
 
 10 "Reality Calisthenics" for Explorers . . .
 
@@ -147,9 +143,7 @@ original_source: "Constant Contact campaign"
 
 FYI - Here's some Richard Feynman "[Fun to Imagine](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHsl8Agyn0op8uWtZOsghefSLQQdmKhObMSmUR2QhRiz2aVolxoAOd_Q5Do0ns5ya_U9rGDQ5vgAaTI2nobHKd2L9Fxko_kGfuMWf_lTFn_OJ7HNiMHzCdyc8JL7OzwE51A==&c=&ch=)" calisthenics that are priceless . . . priceless. Feynman gets such joy out of the magic of creation. It's palpable--and I'll warn you--contagious!
 
-![](/images/posts/exploration-discovery-wonder/img-05.jpg)
 
-![](/images/posts/exploration-discovery-wonder/img-06.jpg)
 
 "What's one more
 
@@ -160,7 +154,6 @@ universe! . . .
 - How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHheywxiQ1AnWIkYUxEuj2O_Rm4-Q7H11aQkJ_LCHzoNM7yZ51AjsA8DWHGGysF0JQ3PbEiSG8IHSB8ZJHMWr-3EjtcyJlTfPNw==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics
 - How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHsl8Agyn0op8pX0Qgcl3BQgOhNty6PWwQsr3MywWmRbEkdknOqkfaDhXBV3uJ4O9t64d6i2yZJLjMbEF3emMKDccvyUh8aX8TZMKVsOrWVao4sHIghisvFBP8HlyEK1kNnu8EzKFeRvSJq-I4GNxvT-Enmk-j_vdIA==&c=&ch=) with Max Tegmark, MIT Professor of Physics
 
-![](/images/posts/exploration-discovery-wonder/img-07.gif)
 
 Including Nature
 
@@ -170,7 +163,6 @@ Let's face it, human's current connections with nature ain't perfect. But what i
 
 EnviroAI is building the EnviroVerse to create a deeper digital connection between humans and nature. The more computers understand the value of nature and biological life, the better off all of us will be.
 
-![](/images/posts/exploration-discovery-wonder/img-08.gif)
 
 The metaverse and enviroverse will be awesome!!!
 
@@ -180,19 +172,13 @@ Physicist Brian Greene in this [clip](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77
 
 Imagine walking through a forest and the potential ability to experience the quantum effects of nature all around you through an AR/VR connected to a quantum computer?
 
-![](/images/posts/exploration-discovery-wonder/img-09.gif)
 
-[![](/images/posts/exploration-discovery-wonder/img-10.png)](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHld3YCe48AJMW4hmygvYkPYEa8ztzcGuast8W5u9s_KYQrGt0X8jArg9g9r32BsxX_ok_AqJMAUj3TLtY45yr-UyXS5Nw8ZTfNdq8fRMmqhBfPd0Fd7OI6iHDOiAj2Dudw==&c=&ch=)
 
-![](/images/posts/exploration-discovery-wonder/img-11.gif)
 
-[![](/images/posts/exploration-discovery-wonder/img-12.jpg)](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHld3YCe48AJMHIqLc9JZFL9KAf1zo4fxM_cj2QlIatgNVoNsDlzaMClQSvQNMxOotbtxIWx3VvHGKVaRj5J_DX9OHDygqIt-RcDpy6kY5Kdif0HUE3ZkIJlSVfbsZdf1I_uxSRQLKpl5_S9ZKi9IXZeDS0vkn3Jug79gNjGDF1gDFUHYi1btpWJZ9oSnHy7waJBuTFQaVahDpYGdXZjR710FgjYfBVfTmNgvsmBP1hH7v5Zv2LJ4IAhzuFZ_KGKbxd-4OIwbAYd7OIBPERtyTIZn30TxkG062VpNgwpBRZPxrXaA3LlbBeibF2EC4N69xENRQQ9ZM-ht6HVP5pp0VKVNE_R0NxsTWeqZGqNiAqxME71-pLJgs-wTMGkrt9MS-Q3Xu3_PItwgLgAqyOh8UfqS6OuZfCGqxp7u74Ceg-SJNKhDYBByAX5-rHlyAKyvPg==&c=&ch=)
 
-![](/images/posts/exploration-discovery-wonder/img-13.gif)
 
 What happens to nature when humans move more into digital experiences of life?
 
-![](/images/posts/exploration-discovery-wonder/img-14.gif)
 
 The Metaverse
 
@@ -204,21 +190,15 @@ Nature
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/exploration-discovery-wonder/img-15.png)
 
-![](/images/posts/exploration-discovery-wonder/img-16.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-17.gif)
 
 WHAT HAPPENS
 
 ﻿TO NATURE?
 
-![](/images/posts/exploration-discovery-wonder/img-18.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-19.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-20.gif)
 
 As humans move more into digital experiences of life, how will this impact nature and the relationship between humans and nature?
 
@@ -230,40 +210,25 @@ As humans move more into digital experiences of life, how will this impact natur
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/exploration-discovery-wonder/img-21.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-22.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-23.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-24.jpg)
 
-![](/images/posts/exploration-discovery-wonder/img-25.gif)
-![](/images/posts/exploration-discovery-wonder/img-26.gif)
 
 Companies now in the metaverse race include: Google, [Apple](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHl6PRJ26qeVTi4b8gnCvPz2TF_zkGwf2kPBQkVsn51w9AMV7rPE7jrcBRyTZ7No_Xmce0koeUgje3ZQnkAgjEScr7VflRDxr30hgtnjUvi5QoJSDIV6jFbzVe9PG2Kp0YPq7VawN1s2gLcRm7edvP3w_M4JNTpUXZ7lKH7I6R5fNPckGua_CXeIoHTri5Ok0qgyI8wBvFu70_SfYdIZOZccgaJjVA3Ztn2qc_p202faYKL_9v4v4ftQ=&c=&ch=), [Microsoft](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHl6PRJ26qeVTZJ2JiFc5_a-kMs2N6oKrS-x-b6uagZAtIzqYySoJ3z8Ps_DNCGQ5L-Ux9V0uC1okQDrH4PmCPNzMqVUhfOqa6dt8NbcyIqs9924LU_R9za6BdsoFGz7MQgxpguErfbRqdGTuvFduuw8mWyF_wz7tBtgQUZiqHJDmy5y3p_O1fBE9JcoegQOp4PtTjQveUjfk84SgBRlebRgfoU9ee6JpZRXFRP0UV5OA4PWFvr3pWiKZyKaLTdojVBg69OvOns10Qd8AQU1kiKJsqcEcTiqcO-76VcanT18aHhflwyc0pAmhy-ilxax8sM8yeT46UxLak78mGgFbMq8ywFzRhcPmCkesgMCo14BDH8A_-aCnbX7UvkJPQKnZDZuOnIDsXd9imJE0hzs-KPcy50aMLMie_W1Xu3K3UEVYVLjRU_hMGBBorM8Wwz25IzAHfyvff2MqhnwGccYQ08LbaS_2aYS5YNWTHZX86hgr1G1BdkkusTY=&c=&ch=), Meta (Facebook), [Nvidia](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHnyCvUpU1VFyl6QKFip5CZjSn67zcsnyyL0moPjhFG0AHsCHIqjK0pVKOFjiS0vbKWZOjcG05Q1XwiTV-LF-AEWowvFDC8Ucd5vC851sKVvJHchIOVbp5Gn3regqUjRaUw==&c=&ch=), [Amazon](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHl6PRJ26qeVTZ-3kGU9jLXkoV9BPIde2oC3QINnFnxBR4k-C7T-DG0nNonE6abc0lIYEbzob-YwVZdzJq7Ob-gC1zVD3BR9QlGXXPGFuOLOXg7m2NitondePSt-s-gDrlarmSjP1X_zgVmZ5Th8dKVrBkg4XthK4qyRLIjzftracxbb1VuqSaK4vhVyHzsm_4smzm2dNVceWjPTq3beU8PqmlM2nJtd05g==&c=&ch=), and [Disney.](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHl6PRJ26qeVTdoiixXMVsGY1kvC7Ina4o2zlv9LU9uz17nH25nsK8iA-KrQjJHYiI3-Q7V0evMMSeD574iTHkrLbhxdaRXyqWQ6BZJzGgePdUWcXG8fW-Rxv2a_3Hhk5UuxDOEBlKj4E2mTNh42gEk4rR-SRCScBRNXC0FdFF2iXci5lnapIJeF_2_rEbbnkqw==&c=&ch=)
 
-![](/images/posts/exploration-discovery-wonder/img-27.gif)
 
 ---"The computer is creating a digital reality for us . . . so part of what we need to do is create a biological reality for the computer."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/exploration-discovery-wonder/img-28.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-29.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-30.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-31.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-32.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-33.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-34.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-35.gif)
 
 Environmental
 
@@ -275,9 +240,7 @@ in the Metaverse
 
 Using Probabilistic Systems within Probabilistic Systems to Better Understand Probabilistic Systems (i.e. Nature, Environmental Protection]
 
-![](/images/posts/exploration-discovery-wonder/img-36.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-37.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -285,21 +248,13 @@ Using Probabilistic Systems within Probabilistic Systems to Better Understand Pr
 
 Both AI and quantum technologies are based in probability--which is how the universe works at a more fundamental level.
 
-![](/images/posts/exploration-discovery-wonder/img-38.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-39.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-40.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-41.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-42.gif)
 
-[![](/images/posts/exploration-discovery-wonder/img-43.png)](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHhvf1--Omcbh9fh6xeXypvNOwNT7erZ-7xDNm4mD0imvyP9G4zIIv4DoNA1eplggIXIUC7A0SkT-ygMiY5tVrz0cDysV_ep-eRNwj_WHXQy2A2ERGkdTwtybUnm6rF08fvF5vNRdmNU3fTB_pFelYCwWKpZ47rOE0BipjKX4AKe63apZuELVxf98aIj0H-8OuzHmxnvePtSLDikFLKw9tHHiQTEtj4rX8A==&c=&ch=)
 
-![](/images/posts/exploration-discovery-wonder/img-44.png)
 
-![](/images/posts/exploration-discovery-wonder/img-45.png)
 
 ---"We are perhaps not far removed from the time when we shall be able to submit the bulk of chemical phenomena to calculation." Joseph Louie Gay-Lussac (1888)
 
@@ -665,13 +620,9 @@ The principles of physics, as far as I can see, do not speak against the possibi
 
 We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
-![](/images/posts/exploration-discovery-wonder/img-46.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-47.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-48.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-49.jpg)
 
 ---"Everything is patterns.
 
@@ -681,13 +632,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/exploration-discovery-wonder/img-50.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-51.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/exploration-discovery-wonder/img-52.gif)
 
 Notes are data. Music is patterns.
 
@@ -699,13 +647,9 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/exploration-discovery-wonder/img-53.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-54.jpg)
 
-![](/images/posts/exploration-discovery-wonder/img-55.jpg)
 
-![](/images/posts/exploration-discovery-wonder/img-56.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -721,29 +665,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/exploration-discovery-wonder/img-57.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-58.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/exploration-discovery-wonder/img-59.png)
 
-![](/images/posts/exploration-discovery-wonder/img-60.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/exploration-discovery-wonder/img-61.gif)](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHnFmBOhbl5nCOb2mh3iGU975kAZHstHitqYRf3eD8YhbxROt_5zfTx0Gm08CvnTbXOeos6ON0MXKEOg9L4Let72GZay4NtC8_Fs_ccnXRu2btkOeT1vUmI1b_LdUptNY4w==&c=&ch=)
 
-![](/images/posts/exploration-discovery-wonder/img-62.gif)
 
 SIMPLICITY
 
-![](/images/posts/exploration-discovery-wonder/img-63.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -752,7 +689,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/exploration-discovery-wonder/img-64.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -765,7 +701,6 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/exploration-discovery-wonder/img-65.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -780,7 +715,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/exploration-discovery-wonder/img-66.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -826,8 +760,5 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-[![](/images/posts/exploration-discovery-wonder/img-67.gif)](https://r20.rs6.net/tn.jsp?f=001qGoe2XYP77segoegHvqU82F8NN7LJ4O6vTRyYQ698yylfkGKKPhTHh6mbzDj3PHo-kSHWwWRWHr-LBz9cJZk1Hag0JSBAgZcW6DG5P9OeFHW0lEBM8g10oiBhPXLuRP7j467yBTFlX8=&c=&ch=)
 
-![](/images/posts/exploration-discovery-wonder/img-68.gif)
 
-![](/images/posts/exploration-discovery-wonder/img-69.gif)

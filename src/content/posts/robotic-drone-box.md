@@ -15,7 +15,6 @@ Automated Environmental Protection System . . . 3-4 Week Delivery Time
 
 Take delivery in just 3-4 weeks.
 
-![](/images/posts/robotic-drone-box/img-01.gif)
 
 THE
 
@@ -23,17 +22,13 @@ ENVIRONMENTAL
 
 PROTECTOR
 
-[![](/images/posts/robotic-drone-box/img-02.gif)](http://r20.rs6.net/tn.jsp?f=001yTcyjHkjGlezdKiHJhhjDNicES26R7QHFAYxi0hJropqjc-V6myE1-YqruUVLW_m3m_3UKMm8WLK7o2sMre1x5JTO0LSSAs1F2I4DB9X6zWJbsscCh3WKfUTMYYzeqfS6GqlI-LsZDCAPAttNn9obUYFElcSLOum7u2gyUw99xq7pJ62ugd9BQLGFtUqLt1cD6BNlGmVR0V-VX43i0fZMRLbZ8r8hYtJF1Xn8pwToc8=&c=&ch=)
 
-![](/images/posts/robotic-drone-box/img-03.gif)
 
 ROBOTIC DRONE
 
-![](/images/posts/robotic-drone-box/img-04.gif)
 
 ROBOTIC BASE
 
-![](/images/posts/robotic-drone-box/img-05.gif)
 
 - Automatically responds to environmental and safety incidents . . . day or night
 
@@ -41,7 +36,6 @@ ROBOTIC BASE
 
 - Flies pre-scheduled automated preventative environmental, health, and safety missions
 
-![](/images/posts/robotic-drone-box/img-06.gif)
 
 Click here to view
 
@@ -51,21 +45,16 @@ and expanding emissions
 
 detection capabilities
 
-[![](/images/posts/robotic-drone-box/img-07.png)](http://r20.rs6.net/tn.jsp?f=001yTcyjHkjGlezdKiHJhhjDNicES26R7QHFAYxi0hJropqjc-V6myE1-YqruUVLW_m3m_3UKMm8WLK7o2sMre1x5JTO0LSSAs1F2I4DB9X6zWJbsscCh3WKfUTMYYzeqfS6GqlI-LsZDCAPAttNn9obUYFElcSLOum7u2gyUw99xq7pJ62ugd9BQLGFtUqLt1cD6BNlGmVR0V-VX43i0fZMRLbZ8r8hYtJF1Xn8pwToc8=&c=&ch=)
 
-![](/images/posts/robotic-drone-box/img-08.gif)
 
 AI MACHINE LEARNING
 
-![](/images/posts/robotic-drone-box/img-09.gif)
 
 EHS COMPLIANCE &
 
 REGULATORY DATA OVERLAYS
 
-![](/images/posts/robotic-drone-box/img-10.gif)
 
-![](/images/posts/robotic-drone-box/img-11.gif)
 
 Delivery in just 3-4 weeks.
 
@@ -75,8 +64,5 @@ Delivery in just 3-4 weeks.
 
 - Jed Anderson, CEO, EnviroAI
 
-![](/images/posts/robotic-drone-box/img-12.gif)
 
-[![](/images/posts/robotic-drone-box/img-13.png)](http://r20.rs6.net/tn.jsp?f=001yTcyjHkjGlezdKiHJhhjDNicES26R7QHFAYxi0hJropqjc-V6myE1yz6Yg7KVisSijVJeCWCOtFyZsQmkDJXd6O8IRG3em8DciJITJI513Z7Z6lEER9jOVDlwtQJU6VE9MIyoF3uIxbj8kyw-hFwKQm4F4U_BzUO&c=&ch=)
 
-[![](/images/posts/robotic-drone-box/img-14.png)](http://r20.rs6.net/tn.jsp?f=001yTcyjHkjGlezdKiHJhhjDNicES26R7QHFAYxi0hJropqjc-V6myE1ykSdTGOPi_2p0ugX1WorAVvHqBFqHs2N6ju8LDyoc7K8wH3uXJxqTvNF2ANvA6UVEfJrwfk6NUeJ9y7JkHV5PVrJKw3slFv8g==&c=&ch=)

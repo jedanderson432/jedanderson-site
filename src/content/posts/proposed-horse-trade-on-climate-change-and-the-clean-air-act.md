@@ -13,7 +13,6 @@ abstract: 'More discussions this week in Washington over climate change (see lin
 
 More discussions this week in Washington over climate change (see [link](http://www.epw.senate.gov/public/index.cfm?FuseAction=Hearings.Hearing&Hearing_id=e07101a7-0715-7690-b6e9-c39e56a3b468&CFID=72770021&CFTOKEN=32932168)).  Just a thought for Republican and Democratic leaders.  The best way it seems to get what you want is to help others get what they want.
 
-[![Horse Trade on the Clean Air Act](/images/sip/horse-trade-on-the-clean-air-act.png)](/images/sip/horse-trade-on-the-clean-air-act.png)
 
 ---
 

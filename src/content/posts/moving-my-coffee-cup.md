@@ -13,34 +13,22 @@ original_source: "Constant Contact campaign"
 
 . . . "back in time" . . . . (relative to me!)
 
-![](/images/posts/moving-my-coffee-cup/img-01.gif)
 
 ---"My brain is limited . . .what excites me even more than technology's ability to increase our speed and data connection, is to increase human's sense of reality . . . to increase the consciousness of what is happening in and around us . . . to better understand what is truly possible and not possible. Lots of people tell me for example that building a machine to protect nature is impossible. As hard as I'm looking with my brain, I'm just not seeing any physical laws preventing it. And I'm looking hard! And I'm hoping technology will help look even harder!!!" - Jed Anderson, EnviroAI
 
-![](/images/posts/moving-my-coffee-cup/img-02.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-03.gif)
 
 I don't know about you folks . . . but it's tough training my mind to understand some of this non-intuitive stuff that forms reality. Below are explanations from Susskind, Feynman, and Greene on why this is tough for us humans right now. First however is my thought experiment from this morning trying to train my mind, without a computer interface, to help better understand more realities and what indeed might be possible versus impossible. Here I'm trying to make my coffee cup go "back in time".
 
-![](/images/posts/moving-my-coffee-cup/img-04.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-05.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-06.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-07.gif)
-![](/images/posts/moving-my-coffee-cup/img-08.gif)
 
 Here's the math with my coffee cup this morning . . .
 
 Light travels at 186,000 miles/second (approx.1 billion feet/second). If I move my coffee cup one foot away, it's now taken 1 billionth of second longer for the light reflecting off the coffee cup to reach my eyes. Yes, contrary to what my Darwinian-evolved brain is telling me, I'm seeing my coffee as it exists more in the past. I've moved it back in time (in relation to me).
 
-[![](/images/posts/moving-my-coffee-cup/img-09.png)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq-WPxxuza90xA_zrLZb_5FvdMT-uX_Nvyt9fyQyPcscLFLIs7l8ZZz3GeXLZoIb2dJ-qfsYX789w_0feXQh3vc6ThEXvi9M-Jw==&c=&ch=)
 
-![](/images/posts/moving-my-coffee-cup/img-10.gif)
-![](/images/posts/moving-my-coffee-cup/img-11.gif)
-![](/images/posts/moving-my-coffee-cup/img-12.gif)
 
 Looking Up at Stars is the Same Experiment as My Coffee Cup
 
@@ -48,24 +36,15 @@ When we look up at the stars at night, we are looking at these objects as they e
 
 Assuming there is any distance involved, and as strange as this might seem, whether its coffee cups or stars, you are looking into the past. Space = Time. Time = Space.
 
-[![](/images/posts/moving-my-coffee-cup/img-13.png)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq-WPxxuza90xRnHs4KpxfXb7rMKRshLU6LH7qvM4uJFIr1Pf32m0X_GCxxVSfCpmFQsAloCFd2qp1EwgS0Ye80ubwxSVZ0RPHEYeoyK84whY&c=&ch=)
 
-[![](/images/posts/moving-my-coffee-cup/img-14.png)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq-WPxxuza90xbFAbxNcQSzmzD06ifgZoiT5KPMMBbDirBwjYLCtQNJizvQKPLlxJQAbAdO4PfHgNKaQeNbM4HIjNpYNohT1eeNXe2soFL962Tmx9yZ-PN-I=&c=&ch=)
 
-[![](/images/posts/moving-my-coffee-cup/img-15.png)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq-WPxxuza90xrgpIF15hoKwk7AANErUncL49H5Ga2ROVkIkbQqwvNo5y-9C1swYO8l11l1sy4NHb4AzXirHMo9JRYKMxNoRw3rh6-PkXoSTLyzq1Zz9-YfVOsEo9fipLnbi0bLalIhj5&c=&ch=)
 
 ‌
 
-![](/images/posts/moving-my-coffee-cup/img-16.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-17.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-18.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-19.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-20.gif)
-![](/images/posts/moving-my-coffee-cup/img-21.gif)
 
 10 "Reality Calisthenics"
 
@@ -95,15 +74,12 @@ Assuming there is any distance involved, and as strange as this might seem, whet
 
 FYI - Here's some Richard Feynman "[Fun to Imagine](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq1b2eg6riI_AneQR--QM4cb5L-LxXR1d8uVVKRQgofDrdZVbWC2-sBjwb8ykCuFOMqqNGqbJh3FAU4JthdYsmpTdEFvrznC61IQTmNojg2vMkgdE68pA9vcV8bWSDbwj9A==&c=&ch=)" calisthenics that are priceless . . . priceless. Feynman gets such joy out of the magic of creation. It's palpable--and I'll warn you--contagious!
 
-![](/images/posts/moving-my-coffee-cup/img-22.gif)
 
 ---"I can't find anything that limits humanity to biology."
 
 -Jed Anderson, EnviroAI
 
-![](/images/posts/moving-my-coffee-cup/img-23.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-24.png)
 
 "Human 2.0 is coming faster than you think." - Forbes
 
@@ -143,11 +119,9 @@ Simplicity.
 
 ---"We are getting back to where we once belonged . . . the underlying simplicities driving all this rich complexity." - Jed Anderson, EnviroAI
 
-[![](/images/posts/moving-my-coffee-cup/img-25.png)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq6jiEi_TX9Jj7iu56MXMm5o-CNspC7nFDtbchzkFXeQu1gUCiNyW2IcCjwRolWDpZx7V1-C-HnkrpkjL98-2NWPXejFxHRcGjg==&c=&ch=)
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-[![](/images/posts/moving-my-coffee-cup/img-26.jpg)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq6jiEi_TX9Jj0oQmSWS4qyf2_7pQ2wfdEUw517RP8WR-zVNP7IDgg1zI7MiXBn3eU0zpE__zH0_DhFV9Ocky1q3W6QRn7VAyKg==&c=&ch=)
 
 The Beatles
 
@@ -157,16 +131,11 @@ The song "Get Back" is 2 notes. It's only 2 two. It's just two notes. Two notes.
 
 The Beatles, just like Oscar Peterson and J.S. Bach below, understood the underlying simplicity so well that they could let their imaginations and creativity go wild and begin to "play the universe" . . . producing richer and more complex phenomena.
 
-[![](/images/posts/moving-my-coffee-cup/img-27.gif)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq6jiEi_TX9Jj7iu56MXMm5o-CNspC7nFDtbchzkFXeQu1gUCiNyW2IcCjwRolWDpZx7V1-C-HnkrpkjL98-2NWPXejFxHRcGjg==&c=&ch=)
 
 These guys we're a bunch of goof-balls! I love it! What will surprise people in this documentary is how much silly-time was involved in this monumental work, and how much fun they had together and how much they loved each other and loved music.
 
-![](/images/posts/moving-my-coffee-cup/img-28.gif)
 
-[![](/images/posts/moving-my-coffee-cup/img-29.gif)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq6jiEi_TX9Jj0oQmSWS4qyf2_7pQ2wfdEUw517RP8WR-zVNP7IDgg1zI7MiXBn3eU0zpE__zH0_DhFV9Ocky1q3W6QRn7VAyKg==&c=&ch=)
 
-![](/images/posts/moving-my-coffee-cup/img-30.gif)
-![](/images/posts/moving-my-coffee-cup/img-31.gif)
 
 James Webb Telescope Launches in 5 days!!!
 
@@ -174,36 +143,26 @@ James Webb Telescope Launches in 5 days!!!
 
 I am so incredibly excited! My interest is not so much cosmological as it is understanding the underlying simplicities so we can "play the universe" when it comes to protecting the environment . . . Write the environmental protection equivalent of "Let it be" for nature and humanity. A masterpiece to life.
 
-![](/images/posts/moving-my-coffee-cup/img-32.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-33.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-34.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-35.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-36.gif)
-![](/images/posts/moving-my-coffee-cup/img-37.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/moving-my-coffee-cup/img-38.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq_J8THwsRRHU_hBqS2WxKQ_Ye2P0LXbDwx-FxVJPATm8TqypS2sLlqkyo5-CyB_wBedR_THJSyqigO3Z1GYexbBEiOBF-p8XngvIBVFfzJZy&c=&ch=)
 
-[![](/images/posts/moving-my-coffee-cup/img-39.png)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq_J8THwsRRHU_hBqS2WxKQ_Ye2P0LXbDwx-FxVJPATm8TqypS2sLlqkyo5-CyB_wBedR_THJSyqigO3Z1GYexbBEiOBF-p8XngvIBVFfzJZy&c=&ch=)
 
 ---"It [the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-![](/images/posts/moving-my-coffee-cup/img-40.gif)
 
-[![](/images/posts/moving-my-coffee-cup/img-41.gif)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq9PzTI4eSoYe6kDsWjELoXZl_hB2F7Idw35a2xFvwXu5E-ESf2Ny82sNCv9fdcsRv21eCG_CcKQgBDaXP1pi080pmIEI-qH1cg==&c=&ch=)
 
 ‌
 
@@ -211,38 +170,26 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/moving-my-coffee-cup/img-42.png)
 
-![](/images/posts/moving-my-coffee-cup/img-43.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-44.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-45.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-46.png)
 
-![](/images/posts/moving-my-coffee-cup/img-47.gif)
-![](/images/posts/moving-my-coffee-cup/img-48.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/moving-my-coffee-cup/img-49.gif)
 
 ‌
 
-[![](/images/posts/moving-my-coffee-cup/img-50.jpg)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq9PzTI4eSoYe6kDsWjELoXZl_hB2F7Idw35a2xFvwXu5E-ESf2Ny82sNCv9fdcsRv21eCG_CcKQgBDaXP1pi080pmIEI-qH1cg==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq9PzTI4eSoYe6kDsWjELoXZl_hB2F7Idw35a2xFvwXu5E-ESf2Ny82sNCv9fdcsRv21eCG_CcKQgBDaXP1pi080pmIEI-qH1cg==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/moving-my-coffee-cup/img-51.png)
 
 ‌
 
-![](/images/posts/moving-my-coffee-cup/img-52.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-53.jpg)
 
 ---"Everything is patterns.
 
@@ -252,13 +199,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/moving-my-coffee-cup/img-54.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-55.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/moving-my-coffee-cup/img-56.gif)
 
 Notes are data. Music is patterns.
 
@@ -270,13 +214,9 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/moving-my-coffee-cup/img-57.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-58.jpg)
 
-![](/images/posts/moving-my-coffee-cup/img-59.jpg)
 
-![](/images/posts/moving-my-coffee-cup/img-60.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -292,29 +232,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/moving-my-coffee-cup/img-61.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-62.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/moving-my-coffee-cup/img-63.png)
 
-![](/images/posts/moving-my-coffee-cup/img-64.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/moving-my-coffee-cup/img-65.gif)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq03ofXSVhoj5Ig09NqJDv69jINf0Zgn9XKpPtE-wUDi370bjvwXkclrvCarNH4NmDu9tFK8pvKTb9ec7IHLwAJJPT6f4EwG8bJnZjKJWi_HqSFXaXhOGY1xyxHar2AJxmw==&c=&ch=)
 
-![](/images/posts/moving-my-coffee-cup/img-66.gif)
 
 SIMPLICITY
 
-![](/images/posts/moving-my-coffee-cup/img-67.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -323,7 +256,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/moving-my-coffee-cup/img-68.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -336,9 +268,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/moving-my-coffee-cup/img-69.png)
 
-![](/images/posts/moving-my-coffee-cup/img-70.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -353,7 +283,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/moving-my-coffee-cup/img-71.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -407,17 +336,12 @@ in the Metaverse
 
 ﻿Using Probabilistic Systems within Probabilistic Systems to Better Understand Probabilistic Systems
 
-![](/images/posts/moving-my-coffee-cup/img-72.png)
 
-![](/images/posts/moving-my-coffee-cup/img-73.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-74.png)
 
-![](/images/posts/moving-my-coffee-cup/img-75.gif)
 
 ‌
 
-![](/images/posts/moving-my-coffee-cup/img-76.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -789,8 +713,5 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-[![](/images/posts/moving-my-coffee-cup/img-77.png)](https://r20.rs6.net/tn.jsp?f=001RY9e1xQqIyl10gZ04brWeLxgSXg0bEEj4eT2RZUGAbH7lyvagzCoq41KHKzKV958oZIT0dNlf0na3btiBff6FScbL1d24KV-UX1heGiWRiG0t2E-XLcG3QOpjwhzUHxAGAWwAQpQ6ZY=&c=&ch=)
 
-![](/images/posts/moving-my-coffee-cup/img-78.gif)
 
-![](/images/posts/moving-my-coffee-cup/img-79.gif)

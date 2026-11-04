@@ -15,4 +15,3 @@ Look at the map below.  If you live in a nonattainment area you are required to 
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.
 
-[![](/images/sip/nonattainment.png "nonattainment")](/images/sip/nonattainment.png)

@@ -21,14 +21,9 @@ Bang? Universe? Bang? Universe? Bang? Universe? Bang? Universe?
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-01.jpg)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-02.gif)
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-03.png)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqNsEeuyk63PgLS-vCJNK3FCCf43VjHnjMnT9cVoNLdvVomWKN5a-g1XCuDkoVYtu-_PTV1ijzP7YOLNq-wBGsZL1RBDxXyK8L-B_x5f4Zac9e0gphGM8rmK3dft-pYQJ--GX2-lNTvEo63sDLyTurkAOHLXpxZi7XBgYiBrpP7Bx&c=&ch=)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-04.gif)
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-05.gif)
 
 What patterns will Webb help us find?
 
@@ -42,7 +37,6 @@ And speaking of simplicity, interesting article a few days ago on artificial int
 
 ---"It's simple. It's simple. It's simple. It's just a LOT of simplicity." - Jed Anderson, EnviroAI
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-06.gif)
 
 [astrophysics](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqNsEeuyk63PgcltorFiiiDdxLJ74WkuKyunornzE-vp70Z1V9Zd9AsacLCvfIG6rlcqJKoIqDY1EpPCb7sg0d3egPI4vRkYGMGg1rMt9Nca8nuwcL0HWZxjVRPvGYTD-xTk49abXPtsx0b26RWBb2gbq_3K-0YrBJ22dSvgbQcu54y2ye2bqNRiTj7BxS7ysiA==&c=&ch=)
 
@@ -94,29 +88,18 @@ But Villaescusa-Navarro takes heart that the neural network was able to find pat
 
 ‌
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-07.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-08.gif)
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-09.png)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqPFUQRmr_ZQjhImIQxZuQteAiULH2Wam3HmsHg7vLcy-3raqWFMX82lr-fK4b-J_2C-JZDoydxEsZf0M_fu6GAkHQjCn6IPlAlqUrQhvWvSprOQRXLj2iI2YHR2tDJewahb6gQYWwnzJOlhk-B2sHFgFKspLSw331A==&c=&ch=)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-10.gif)
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-11.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqNNwTnN-lI4_Nb0AyQ8HmgWDCMEnXCbZ3nIAOuJcunm5ZBIcSk3qaG_Ic6qYwo0acurc96IDqSoUTp6C8sCwoqfbtdaRHIMPZg==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-12.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-13.gif)
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-14.png)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqPFUQRmr_ZQjhImIQxZuQteAiULH2Wam3HmsHg7vLcy-3raqWFMX82lr-fK4b-J_2C-JZDoydxEsZf0M_fu6GAkHQjCn6IPlAlqUrQhvWvSprOQRXLj2iI2YHR2tDJewahb6gQYWwnzJOlhk-B2sHFgFKspLSw331A==&c=&ch=)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-15.gif)
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-16.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqPFUQRmr_ZQjhImIQxZuQteAiULH2Wam3HmsHg7vLcy-3raqWFMX82lr-fK4b-J_2C-JZDoydxEsZf0M_fu6GAkHQjCn6IPlAlqUrQhvWvSprOQRXLj2iI2YHR2tDJewahb6gQYWwnzJOlhk-B2sHFgFKspLSw331A==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-17.gif)
 
 ﻿James Webb Space Telescope
 
@@ -124,35 +107,27 @@ How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJ
 
 - Jed Anderson
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-18.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-19.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine" as many people call it, but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-20.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-21.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-22.gif)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-23.gif)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqMfdY7V97iR_Mm8vgnkRiuYa4UUNz__hredPrFHbgIJKgdOvy9tDdFwIt3nyskPICU_bfo1YC1uorwCxEhQLcIyo8ZfAaf925PoIfa9_3_vLjWWcjc4da2_xgsrW70msXg==&c=&ch=)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-24.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-25.gif)
 
 See if you can find the pattern in this code:
 
@@ -160,35 +135,26 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-26.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-27.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-28.gif)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-29.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-30.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-31.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-32.png)
 
 Simplicity.
 
 ---"We are getting back to where we once belonged . . . the underlying simplicities driving all this rich complexity." - Jed Anderson, EnviroAI
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-33.png)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqGJgvMuYFAzNCDCK9WvkgGuM02QDxNzNHmlYusJ1XzilyBg2cErrAT9rq42lik9D_ufJD00aJVOZltcqDjna0yDlFOWVMkSJ_w==&c=&ch=)
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-34.jpg)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqGJgvMuYFAzN7eNc-Pdv9h3uGZ9WDDNJQSmmw4NAG9PNKKAOjIYbPqhcPfLHQCXMzSKne4xB89DRrdk2cB6dqWuRqvH6pjq7XQ==&c=&ch=)
 
 The Beatles
 
@@ -198,16 +164,11 @@ The song "Get Back" is 2 notes. It's only 2 two. It's just two notes. Two notes.
 
 The Beatles, just like Oscar Peterson and J.S. Bach below, understood the underlying simplicity so well that they could let their imaginations and creativity go wild and begin to "play the universe" . . . producing richer and more complex phenomena.
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-35.gif)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqGJgvMuYFAzNCDCK9WvkgGuM02QDxNzNHmlYusJ1XzilyBg2cErrAT9rq42lik9D_ufJD00aJVOZltcqDjna0yDlFOWVMkSJ_w==&c=&ch=)
 
 These guys we're a bunch of goof-balls! I love it! What will surprise people in this documentary is how much silly-time was involved in this monumental work, and how much fun they had together and how much they loved each other and loved music.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-36.gif)
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-37.gif)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqGJgvMuYFAzN7eNc-Pdv9h3uGZ9WDDNJQSmmw4NAG9PNKKAOjIYbPqhcPfLHQCXMzSKne4xB89DRrdk2cB6dqWuRqvH6pjq7XQ==&c=&ch=)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-38.gif)
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-39.gif)
 
 James Webb Telescope
 
@@ -215,36 +176,26 @@ James Webb Telescope
 
 I am so incredibly excited! My interest is not so much cosmological as it is understanding the underlying simplicities so we can "play the universe" when it comes to protecting the environment . . . Write the environmental protection equivalent of "Let it be" for nature and humanity. A masterpiece to life.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-40.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-41.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-42.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-43.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-44.gif)
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-45.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-46.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqKdPG1BHUvgbWmqEq8SzMW3uCP4Ujr_lN-CcQM9ElIbg4U-93Vpd3k-ArxiIelhdzn0b79fkt1pYILWeCbvX61fryI0HVvQ_npHlkZotBlVR&c=&ch=)
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-47.png)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqKdPG1BHUvgbWmqEq8SzMW3uCP4Ujr_lN-CcQM9ElIbg4U-93Vpd3k-ArxiIelhdzn0b79fkt1pYILWeCbvX61fryI0HVvQ_npHlkZotBlVR&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-48.gif)
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-49.gif)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqNCgnI2S93KUcCmfNh01ZblgrMAyoXCUMSnS3Vd2OdE1OYRImT6zE9KqIucCj6a5aohuzUHQBNGSvVVDbgA7x0Hl23d6QgH1RA==&c=&ch=)
 
 ‌
 
@@ -252,38 +203,25 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-50.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-51.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-52.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-53.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-54.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-55.gif)
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-56.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-57.gif)
 
 ‌
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-58.jpg)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqNCgnI2S93KUcCmfNh01ZblgrMAyoXCUMSnS3Vd2OdE1OYRImT6zE9KqIucCj6a5aohuzUHQBNGSvVVDbgA7x0Hl23d6QgH1RA==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqNCgnI2S93KUcCmfNh01ZblgrMAyoXCUMSnS3Vd2OdE1OYRImT6zE9KqIucCj6a5aohuzUHQBNGSvVVDbgA7x0Hl23d6QgH1RA==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-59.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-60.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-61.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-62.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -297,9 +235,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-63.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-64.jpg)
 
 ---"Everything is patterns.
 
@@ -309,13 +245,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-65.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-66.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-67.gif)
 
 Notes are data. Music is patterns.
 
@@ -327,27 +260,19 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-68.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-69.jpg)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-70.jpg)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-71.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-72.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-73.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-74.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-75.png)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -363,29 +288,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-76.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-77.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-78.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-79.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-80.gif)](https://r20.rs6.net/tn.jsp?f=001DJkXTn9PHrsAIooJtkMrWFd7PDCXNMakDIldNWEIy_dSjMSom_AXqMfdY7V97iR_Mm8vgnkRiuYa4UUNz__hredPrFHbgIJKgdOvy9tDdFwIt3nyskPICU_bfo1YC1uorwCxEhQLcIyo8ZfAaf925PoIfa9_3_vLjWWcjc4da2_xgsrW70msXg==&c=&ch=)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-81.gif)
 
 SIMPLICITY
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-82.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -394,7 +312,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-83.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -407,9 +324,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-84.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-85.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -424,7 +339,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-86.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -470,34 +384,19 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-87.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-88.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-89.jpg)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-90.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-91.jpg)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-92.jpg)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-93.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-94.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-95.png)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-96.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-97.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-98.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-99.gif)
 
 ‌
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-100.gif)
 
-![](/images/posts/nasa-news-webb-space-telescope-reaches-destination-1-million-miles-from-earth-wh/img-101.gif)

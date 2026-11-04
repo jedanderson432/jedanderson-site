@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](https://www.youtube.com/watch?v=iBFxybpTkjM&feature=youtu.be)This is pretty darn funny (see article and video).'
 ---
 
-[![The Ozone Police](/images/sip/the-ozone-police.png)](https://www.youtube.com/watch?v=iBFxybpTkjM&feature=youtu.be)This is pretty darn funny (see [article](http://thehill.com/policy/energy-environment/251923-ozone-rule-to-unleash-epa-police-group-says) and [video](https://www.youtube.com/watch?v=iBFxybpTkjM&feature=youtu.be)).
+This is pretty darn funny (see [article](http://thehill.com/policy/energy-environment/251923-ozone-rule-to-unleash-epa-police-group-says) and [video](https://www.youtube.com/watch?v=iBFxybpTkjM&feature=youtu.be)).
 
 The video however unfairly blames the Obama Administration.  The “morning lawn-mowing ban” and driving restrictions were also raised during the Bush administration.
 

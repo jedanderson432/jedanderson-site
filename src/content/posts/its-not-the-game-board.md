@@ -13,13 +13,11 @@ original_source: "Constant Contact campaign"
 
 . . . its people that are important!"
 
-![](/images/posts/its-not-the-game-board/img-01.gif)
 
 It's PEOPLE that are important!
 
 It's us!!!
 
-![](/images/posts/its-not-the-game-board/img-02.jpg)
 
 It's not the "game-board" that's ultimately important (the physics). I believe you are the "variable". It's you why I believe this universe was created. (see C.S. Lewis quotes below).
 
@@ -35,17 +33,13 @@ YOU I BELIEVE ARE AN ETERNAL BEING.
 
 - C.S. Lewis
 
-![](/images/posts/its-not-the-game-board/img-03.gif)
 
-![](/images/posts/its-not-the-game-board/img-04.gif)
 
 ﻿﻿
 
 ---"If it looks like a duck, swims like a duck, and quacks like a duck . . . then its . . . not necessarily a duck . . . but the odds have gone up considerably it likes crackers." - Jed Anderson, EnviroAI
 
-![](/images/posts/its-not-the-game-board/img-05.gif)
 
-![](/images/posts/its-not-the-game-board/img-06.png)
 
 Even if the universe is not a computer, or simulation . . . the mathematical, computational, and informational underpinnings make you scratch your head sometimes and wonder why this thing is acting like a duck.
 
@@ -53,27 +47,18 @@ Even if the universe is not a computer, or simulation . . . the mathematical, co
 
 ---- "Simulations aren't run in automata where all answers and variables are known. Curiously, if it were true (which I have no idea if it is or isn't but its fascinating to think about) its even supportive of the notion of free-will. Is the Universe . . . a spiritual training program for eternal beings? How cool would that be to learn? Makes you want to focus even more on becoming Christ-like and expanding your love and relationship with God and other eternal beings down here. Super cool." - Jed Anderson
 
-![](/images/posts/its-not-the-game-board/img-07.gif)
 
 . . . . Interesting recent book by David Chalmers . . .
 
-![](/images/posts/its-not-the-game-board/img-08.gif)
 
-![](/images/posts/its-not-the-game-board/img-09.gif)
 
-![](/images/posts/its-not-the-game-board/img-10.gif)
 
-![](/images/posts/its-not-the-game-board/img-11.png)
 
-![](/images/posts/its-not-the-game-board/img-12.gif)
 
-![](/images/posts/its-not-the-game-board/img-13.gif)
 
-![](/images/posts/its-not-the-game-board/img-14.png)
 
 And an interesting article in Wire Magazine a few week ago on this:  Wired Magazine, "[Of Course We're Living in a Simulation](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v-I10YpOuLYBOV9RyZM6vMKxmRtpsZvPUqX5bga0zVDsGtqwfMZAk-dBZqYkr6jTyKRsNH3DV_9RcHGO7wd1yQ2o1RYVVp4ccgqOxSyHEJGe_sFrCutxm42vhfgqAAwhn_DIoIpZYMQk&c=&ch=)"
 
-[![](/images/posts/its-not-the-game-board/img-15.png)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v-I10YpOuLYBOV9RyZM6vMKxmRtpsZvPUqX5bga0zVDsGtqwfMZAk-dBZqYkr6jTyKRsNH3DV_9RcHGO7wd1yQ2o1RYVVp4ccgqOxSyHEJGe_sFrCutxm42vhfgqAAwhn_DIoIpZYMQk&c=&ch=)
 
 Can a Christian think about the simulation hypothesis?
 
@@ -105,46 +90,27 @@ All is well.
 
 Nick Bostrom's paper at Oxford:
 
-[![](/images/posts/its-not-the-game-board/img-16.jpg)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v-I10YpOuLYBh6wXiZRbCYR0M4Vjbhsj3a_1_NKhkQPc7Xnhr0z_dyMlMcXHTUEyp4eXY9byMd-9Rcz_9skbo-CtqcCDgN0DLOB_c05D_utVTE215WehLOP_0u5nhMUeWE2hXMOSmG9St5iQ2w62FefrrBxlvgerHjZ_K6FZwwYcXXXdlh6k7EPmTyM2TDQGoCQnhN15gZWX-jytDkyk55qy1cGO8kE9ua11bE0wSlRMEbVMFQCUcKFPXFq_dJKOPjoqkGLvOLpNjv8aQOGV9CV0B7GQyFBGESYgAIbS2y7ROc5-tzYhY4woF8r2S5u4U6Q7dXToRYRWkxgYB6ACK_vbnx1ne7PXzuERcy6EauEHmZW0MmdkCrLHgcqcB5dVHXqRWaJPEbBZd3UO5bjlvQAFi-FOpd5gOFJ9Aezfm2Cz&c=&ch=)
 
 ‌
 
-![](/images/posts/its-not-the-game-board/img-17.jpg)
 
-![](/images/posts/its-not-the-game-board/img-18.gif)
 
-![](/images/posts/its-not-the-game-board/img-19.gif)
 
-![](/images/posts/its-not-the-game-board/img-20.gif)
 
 ---"Its from bits." - John Wheeler
 
-![](/images/posts/its-not-the-game-board/img-21.jpg)
 
-![](/images/posts/its-not-the-game-board/img-22.jpg)
 
-![](/images/posts/its-not-the-game-board/img-23.jpg)
 
-![](/images/posts/its-not-the-game-board/img-24.jpg)
 
-![](/images/posts/its-not-the-game-board/img-25.jpg)
 
-![](/images/posts/its-not-the-game-board/img-26.jpg)
 
-![](/images/posts/its-not-the-game-board/img-27.jpg)
 
-![](/images/posts/its-not-the-game-board/img-28.jpg)
 
-![](/images/posts/its-not-the-game-board/img-29.jpg)
 
-![](/images/posts/its-not-the-game-board/img-30.gif)
 
-![](/images/posts/its-not-the-game-board/img-31.gif)
 
-![](/images/posts/its-not-the-game-board/img-32.png)
 
-![](/images/posts/its-not-the-game-board/img-33.gif)
-![](/images/posts/its-not-the-game-board/img-34.gif)
 
 [astrophysics](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v5vZs7Q52IS_a9BA4ew9qkyrSo_O_NGf7WflfEWvCq39tcd6v9VlYhUoXqeGTgj6KobQ0TaqLmmfm17dKGd6oyetCKrF3u5xiilKc9-TnjQ50ShlRGmdxantafrIYgCKAQWGp8VPiuM4C2-4aHgVHop87SRc1uE40OkuQoaxoDwxq0vr5g4_Y-QEIfrD4qfvgg==&c=&ch=)
 
@@ -164,35 +130,22 @@ It wasn’t supposed to. The improbable find grew out of an exercise Villaescusa
 
 “I thought the student made a mistake,” Villaescusa-Navarro said. “It was a little bit hard for me to believe, to be honest.” ([keep reading](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v5vZs7Q52IS_a9BA4ew9qkyrSo_O_NGf7WflfEWvCq39tcd6v9VlYhUoXqeGTgj6KobQ0TaqLmmfm17dKGd6oyetCKrF3u5xiilKc9-TnjQ50ShlRGmdxantafrIYgCKAQWGp8VPiuM4C2-4aHgVHop87SRc1uE40OkuQoaxoDwxq0vr5g4_Y-QEIfrD4qfvgg==&c=&ch=))
 
-![](/images/posts/its-not-the-game-board/img-35.gif)
 
 ‌
 
-![](/images/posts/its-not-the-game-board/img-36.gif)
 
-![](/images/posts/its-not-the-game-board/img-37.gif)
 
-[![](/images/posts/its-not-the-game-board/img-38.png)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v5ahPUhGu_lpF3C5-fUZSzQshvWJu08B-OeUMwovVSbb50yV12u37iaiDC12yIv-kjQZHm_HzFw8zuMaXLADyKVH3CLws1OJx5eKos5T8UQZP6cWp74gJC4yXRWovuC5tg3J6WIbDTMa-zWnnKKZsCH4XJl8ngqfnA==&c=&ch=)
 
-![](/images/posts/its-not-the-game-board/img-39.gif)
-![](/images/posts/its-not-the-game-board/img-40.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v_8DvdALT1qLMA3MspBdDunr8IUhxG9nDg02LivsW9_PtRY6L6IHkOrxUUtE-rCwzbpeqrMb1-52s6hju9FM0k1kEtVAUAmy8g==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/its-not-the-game-board/img-41.gif)
 
-![](/images/posts/its-not-the-game-board/img-42.gif)
 
-[![](/images/posts/its-not-the-game-board/img-43.png)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v5ahPUhGu_lpF3C5-fUZSzQshvWJu08B-OeUMwovVSbb50yV12u37iaiDC12yIv-kjQZHm_HzFw8zuMaXLADyKVH3CLws1OJx5eKos5T8UQZP6cWp74gJC4yXRWovuC5tg3J6WIbDTMa-zWnnKKZsCH4XJl8ngqfnA==&c=&ch=)
 
-![](/images/posts/its-not-the-game-board/img-44.gif)
-![](/images/posts/its-not-the-game-board/img-45.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v5ahPUhGu_lpF3C5-fUZSzQshvWJu08B-OeUMwovVSbb50yV12u37iaiDC12yIv-kjQZHm_HzFw8zuMaXLADyKVH3CLws1OJx5eKos5T8UQZP6cWp74gJC4yXRWovuC5tg3J6WIbDTMa-zWnnKKZsCH4XJl8ngqfnA==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/its-not-the-game-board/img-46.gif)
 
-![](/images/posts/its-not-the-game-board/img-47.png)
 
 ﻿James Webb Space Telescope
 
@@ -200,35 +153,27 @@ How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfv
 
 - Jed Anderson
 
-![](/images/posts/its-not-the-game-board/img-48.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/its-not-the-game-board/img-49.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine" as many people call it, but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/its-not-the-game-board/img-50.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/its-not-the-game-board/img-51.png)
 
-![](/images/posts/its-not-the-game-board/img-52.gif)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/its-not-the-game-board/img-53.gif)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v1UJtYjVFb2hg48VqwJ8JIhLYAWig-4W-Zpn_YAvMldAy6b0cL0Q7dPfcb5BcKPYyTcY-B9Z1Hn_aoBP6kpJCaBhIx9nvQcZOLJMKD3gof5YZzrCVjYFv44dbG7s_hkM_Q==&c=&ch=)
 
-![](/images/posts/its-not-the-game-board/img-54.png)
 
-![](/images/posts/its-not-the-game-board/img-55.gif)
 
 See if you can find the pattern in this code:
 
@@ -236,43 +181,32 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/its-not-the-game-board/img-56.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/its-not-the-game-board/img-57.png)
 
-![](/images/posts/its-not-the-game-board/img-58.png)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/its-not-the-game-board/img-59.png)
 
-![](/images/posts/its-not-the-game-board/img-60.png)
 
-![](/images/posts/its-not-the-game-board/img-61.png)
 
 ﻿---"The universeseems to equalsimple physical laws or code (which we do not completely understand yet) running over, and over,and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over (for 13.8 billion years and counting). . . producing ever richer and more complex data (phenomena), and more data, and more data, and more data, and more data, and more data, and more data, and more data, and more data, and more data . . . until it's so phenomenally complicated and rich that I'm yak-yakking right now with these computer keystrokes and you are doing whatever you are doing. Weird. Wild. Fun. How much richer and more complicated can the phenomena get, and we help make it--especially as humankind better understands the underlying simplicities driving this inflationary expansion? Hang onto your hats."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/its-not-the-game-board/img-62.png)
 
-![](/images/posts/its-not-the-game-board/img-63.png)
 
-![](/images/posts/its-not-the-game-board/img-64.png)
 
 Simplicity.
 
 ---"We are getting back to where we once belonged . . . the underlying simplicities driving all this rich complexity." - Jed Anderson, EnviroAI
 
-[![](/images/posts/its-not-the-game-board/img-65.png)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v7iWtiGgTgn4WyrvxHrt-SSlPJaOeH9K2xF5e6dGAeNBCnof9cFvA8r7gAbFPzzaceKsrPR0s0IAM-TTurYSdZLHLUXgW72anw==&c=&ch=)
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-[![](/images/posts/its-not-the-game-board/img-66.jpg)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v7iWtiGgTgn4Kbmn7OzmEqXCeDrLiqhL295KobzPldiV2DBc-BUntgG2yAj2FPAMpsjlHtMMvuYwQd6rRomw0H-m_njV-uHOwg==&c=&ch=)
 
 The Beatles
 
@@ -282,16 +216,11 @@ The song "Get Back" is 2 notes. It's only 2 two. It's just two notes. Two notes.
 
 The Beatles, just like Oscar Peterson and J.S. Bach below, understood the underlying simplicity so well that they could let their imaginations and creativity go wild and begin to "play the universe" . . . producing richer and more complex phenomena.
 
-[![](/images/posts/its-not-the-game-board/img-67.gif)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v7iWtiGgTgn4WyrvxHrt-SSlPJaOeH9K2xF5e6dGAeNBCnof9cFvA8r7gAbFPzzaceKsrPR0s0IAM-TTurYSdZLHLUXgW72anw==&c=&ch=)
 
 These guys we're a bunch of goof-balls! I love it! What will surprise people in this documentary is how much silly-time was involved in this monumental work, and how much fun they had together and how much they loved each other and loved music.
 
-![](/images/posts/its-not-the-game-board/img-68.gif)
 
-[![](/images/posts/its-not-the-game-board/img-69.gif)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v7iWtiGgTgn4Kbmn7OzmEqXCeDrLiqhL295KobzPldiV2DBc-BUntgG2yAj2FPAMpsjlHtMMvuYwQd6rRomw0H-m_njV-uHOwg==&c=&ch=)
 
-![](/images/posts/its-not-the-game-board/img-70.gif)
-![](/images/posts/its-not-the-game-board/img-71.gif)
 
 James Webb Telescope
 
@@ -299,36 +228,26 @@ James Webb Telescope
 
 I am so incredibly excited! My interest is not so much cosmological as it is understanding the underlying simplicities so we can "play the universe" when it comes to protecting the environment . . . Write the environmental protection equivalent of "Let it be" for nature and humanity. A masterpiece to life.
 
-![](/images/posts/its-not-the-game-board/img-72.gif)
 
-![](/images/posts/its-not-the-game-board/img-73.gif)
 
-![](/images/posts/its-not-the-game-board/img-74.gif)
 
-![](/images/posts/its-not-the-game-board/img-75.gif)
 
-![](/images/posts/its-not-the-game-board/img-76.gif)
-![](/images/posts/its-not-the-game-board/img-77.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/its-not-the-game-board/img-78.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v-TFkPaDxo57x4cl667bBkWJxErFxdJEZMDJy_QmEiww0cYctVrQXnw5FyA-WAUItM4dWCEKGGSqGORNTQK0xfhy77Eg4CALPR9PZ7gFS9_o&c=&ch=)
 
-[![](/images/posts/its-not-the-game-board/img-79.png)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v-TFkPaDxo57x4cl667bBkWJxErFxdJEZMDJy_QmEiww0cYctVrQXnw5FyA-WAUItM4dWCEKGGSqGORNTQK0xfhy77Eg4CALPR9PZ7gFS9_o&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-![](/images/posts/its-not-the-game-board/img-80.gif)
 
-[![](/images/posts/its-not-the-game-board/img-81.gif)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v787VMeGKpv2ZkAQZ29q2ReUrNXRTu315rXOVZMOVs3yGXLoWqBc0VSGVLm5Xr3uQ6-OtEmygxGl4_eVGbAftJfl6RhQZt3WdA==&c=&ch=)
 
 ‌
 
@@ -336,38 +255,25 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/its-not-the-game-board/img-82.png)
 
-![](/images/posts/its-not-the-game-board/img-83.gif)
 
-![](/images/posts/its-not-the-game-board/img-84.gif)
 
-![](/images/posts/its-not-the-game-board/img-85.gif)
 
-![](/images/posts/its-not-the-game-board/img-86.png)
 
-![](/images/posts/its-not-the-game-board/img-87.gif)
-![](/images/posts/its-not-the-game-board/img-88.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/its-not-the-game-board/img-89.gif)
 
 ‌
 
-[![](/images/posts/its-not-the-game-board/img-90.jpg)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v787VMeGKpv2ZkAQZ29q2ReUrNXRTu315rXOVZMOVs3yGXLoWqBc0VSGVLm5Xr3uQ6-OtEmygxGl4_eVGbAftJfl6RhQZt3WdA==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v787VMeGKpv2ZkAQZ29q2ReUrNXRTu315rXOVZMOVs3yGXLoWqBc0VSGVLm5Xr3uQ6-OtEmygxGl4_eVGbAftJfl6RhQZt3WdA==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/its-not-the-game-board/img-91.png)
 
-![](/images/posts/its-not-the-game-board/img-92.png)
 
-![](/images/posts/its-not-the-game-board/img-93.png)
 
-![](/images/posts/its-not-the-game-board/img-94.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -381,9 +287,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/its-not-the-game-board/img-95.gif)
 
-![](/images/posts/its-not-the-game-board/img-96.jpg)
 
 ---"Everything is patterns.
 
@@ -393,13 +297,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/its-not-the-game-board/img-97.gif)
 
-![](/images/posts/its-not-the-game-board/img-98.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/its-not-the-game-board/img-99.gif)
 
 Notes are data. Music is patterns.
 
@@ -411,27 +312,19 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/its-not-the-game-board/img-100.gif)
 
-![](/images/posts/its-not-the-game-board/img-101.jpg)
 
-![](/images/posts/its-not-the-game-board/img-102.jpg)
 
-![](/images/posts/its-not-the-game-board/img-103.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/its-not-the-game-board/img-104.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/its-not-the-game-board/img-105.png)
 
-![](/images/posts/its-not-the-game-board/img-106.png)
 
-![](/images/posts/its-not-the-game-board/img-107.png)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -447,29 +340,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/its-not-the-game-board/img-108.gif)
 
-![](/images/posts/its-not-the-game-board/img-109.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/its-not-the-game-board/img-110.png)
 
-![](/images/posts/its-not-the-game-board/img-111.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/its-not-the-game-board/img-112.gif)](https://r20.rs6.net/tn.jsp?f=001VCQubb7RVhoggDfvyCRB38-8FTPLzzmkfzNdKoGELttiWHoBwBI5v1UJtYjVFb2hg48VqwJ8JIhLYAWig-4W-Zpn_YAvMldAy6b0cL0Q7dPfcb5BcKPYyTcY-B9Z1Hn_aoBP6kpJCaBhIx9nvQcZOLJMKD3gof5YZzrCVjYFv44dbG7s_hkM_Q==&c=&ch=)
 
-![](/images/posts/its-not-the-game-board/img-113.gif)
 
 SIMPLICITY
 
-![](/images/posts/its-not-the-game-board/img-114.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -478,7 +364,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/its-not-the-game-board/img-115.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -491,9 +376,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/its-not-the-game-board/img-116.png)
 
-![](/images/posts/its-not-the-game-board/img-117.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -508,7 +391,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/its-not-the-game-board/img-118.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -554,7 +436,6 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/its-not-the-game-board/img-119.gif)
 
 ‌
 
@@ -928,6 +809,4 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/its-not-the-game-board/img-120.gif)
 
-![](/images/posts/its-not-the-game-board/img-121.gif)

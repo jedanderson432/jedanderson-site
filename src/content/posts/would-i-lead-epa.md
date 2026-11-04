@@ -19,4 +19,3 @@ The answer is no . . . I would not accept such an appointment.
 
 A seismic shift is occurring in environmental policy. Laws and rules are now becoming more lagging indicators of environmental change. Technology and money are becoming the new policy drivers. In fact, technology is now gaining the capability to not only go well ahead of laws and rules on its own, but to go back and check the regulatory boxes for us. We are headed into a new environmental renaissance period--this time led by free-enterprise and technology. It's an incredible time to be alive.
 
-![](/images/posts/would-i-lead-epa/img-01.gif)

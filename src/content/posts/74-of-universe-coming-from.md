@@ -15,21 +15,16 @@ Scientific community abuzz . . . 1st evidence . . . majority if not all our univ
 
 74% of the Universe
 
-[![](/images/posts/74-of-universe-coming-from/img-01.jpg)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks8u95MR6g-iy7pS0sAH7ptiBdlvloTqsEN0T7kb861XGmL7JPQdrJCA8Qi9tioQN9yVuq0jPb7zV6kve42HLVz9DEqK4GwaFvbTa0kqLvFLBytcI6jFWNtqo_V-nZPuk6ZplJR3XviDyQW-Z61Ox7tqxEiXysL-anx-UvfFTDdGk&c=&ch=)
 
 . . . is emanating from a Black Hole?[[1st evidence]](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks8u95MR6g-iy7pS0sAH7ptiBdlvloTqsEN0T7kb861XGmL7JPQdrJCA8Qi9tioQN9yVuq0jPb7zV6kve42HLVz9DEqK4GwaFvbTa0kqLvFLBytcI6jFWNtqo_V-nZPuk6ZplJR3XviDyQW-Z61Ox7tqxEiXysL-anx-UvfFTDdGk&c=&ch=)
 
-[![](/images/posts/74-of-universe-coming-from/img-02.jpg)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks8u95MR6g-iy7pS0sAH7ptiBdlvloTqsEN0T7kb861XGmL7JPQdrJCA8Qi9tioQN9yVuq0jPb7zV6kve42HLVz9DEqK4GwaFvbTa0kqLvFLBytcI6jFWNtqo_V-nZPuk6ZplJR3XviDyQW-Z61Ox7tqxEiXysL-anx-UvfFTDdGk&c=&ch=)
 
 ﻿Is potentially 100% from or within a black hole?
 
 The scientific community is abuzz about this new study finding that dark matter, which comprises the majority of the universe, might be coming from a black hole based on evidence from earlier universes.
 
-![](/images/posts/74-of-universe-coming-from/img-03.gif)
 
-[![](/images/posts/74-of-universe-coming-from/img-04.png)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks8u95MR6g-iy8noVLevSuOlzhtvrKB2iM8pSET6wU1zHmmae6uUG7gXTSCgQV0H5uuHwgbCSf3ZwXepm2XtcSydohg643CLlzWslFerIKriGHZJLRiCVaBwGJmeue5L9oKuRsIw-HfMzSR3wwMtAIk_yJYZB6apt7xY5hn_UwHMVfBK7y1li0RyD2KXDtwiszeM-9USjVmeWB1Hrk5afRL6XI69jl-lO-JmlNPCII30dPzhlxU8HOLX1jyL__6bcllhcwRvBfZ4xottai5LEda3OYB3kDK_PBFvTQr5uGvzU&c=&ch=)
 
-![](/images/posts/74-of-universe-coming-from/img-05.gif)
 
 Is it all from within a black hole?
 
@@ -39,31 +34,22 @@ Is it a 3d projection from information encoded on a 2d event horizon on the mass
 
 Both the big bang and black holes are singularities. Coincidence? Interesting.
 
-![](/images/posts/74-of-universe-coming-from/img-06.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-07.gif)
 
-[![](/images/posts/74-of-universe-coming-from/img-08.png)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks8u95MR6g-iyMtnQg7iczUjE4T9BKc7c6YsgvYPmhEcLRQc2-Cb_9p3W1EaQnLitilTppCqChqm4PMxMzJzTXjDYXzclwBvX33oWxW65A966vlx_Tc9b7SQESpYKK0xYydyR1A_Eo0qSDdpWtCWDGUowmkD8sxkRAUMG2eUPi6GoAPE6Ig2RAG_oSVVw2umms0TJqIopI2FwY_uYhwOmxPEZnkFx_qYR2NGuaPsDanOw7lfh6oXDlFcef4ip-TqclJXqj2IPjXoNg2sCgJHF9AP200cJu7iPyEW06gU02u5_OdCdA_lhP_s=&c=&ch=)
 
-![](/images/posts/74-of-universe-coming-from/img-09.gif)
 
-[![](/images/posts/74-of-universe-coming-from/img-10.png)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks8u95MR6g-iyHI4H-HIJi0dt_rJF54u_QiCObKNJuWvw3DL1-GBwmkjc_BsCmp6vS3EozIcUAIbhmo4qMNg9P2vSCiYZyIHxYaltpLLl_KBIy0xvnJpIsYtsRokn9gRb5eshvEjhu7WW_h6TI8nt2lWQm-tkN2ritERJdiKtgN7_vCaLis4zCyCbEvYqncxdxm9I94Z7wuY8jOq5Z5VQWtL7pBQtRtpyRQwSKqxZCPBL&c=&ch=)
 
-![](/images/posts/74-of-universe-coming-from/img-11.jpg)
 
 "Studying how the universe (nature) processes information is providing EnviroAI with key insights into considering how to build information technology to better protect the environment more simply, efficiently, and effectively. How nature works and computes is providing us with simpler ideas on how to best protect her."
 
 -Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-12.png)
 
 "If you can't see the relationship between chatbots (LLM transformers), black holes, artificial intelligence/machine-learning, information theory, entropy, quantum entanglement, and environmental protection . . . you aren't thinking about it hard enough. You aren't looking hard enough."
 
 -Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-13.png)
 
-![](/images/posts/74-of-universe-coming-from/img-14.jpg)
 
 DARK
 
@@ -77,15 +63,12 @@ DARK
 
 ENERGY
 
-![](/images/posts/74-of-universe-coming-from/img-15.gif)
 
-[![](/images/posts/74-of-universe-coming-from/img-16.jpg)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks8u95MR6g-iywfjEV1bN2dCVqyODM0z35-6MqsGXJwykUuNxO7EwXo3Ck4wOEt3e9tTi9UOAEn9EUfhZ65jQoT8X0cfH7ncZa6u9jKbuPk2Kvjxkdb6z14V18PdYtBZMooG8HhX__MUwDbqdmo0_hF_IlMP50heKv8O462Wj-0jhb4j-d99ZpSl_7X42dCRfR5X_ZIbd78etZNKU6Du5Rg723alk7jxxRw==&c=&ch=)
 
 ‌
 
 "It's information."
 
-![](/images/posts/74-of-universe-coming-from/img-17.png)
 
 “If and when we learn how to combine bits in fantastically large numbers to obtain what we call existence, we will know better what we mean both by bit and by existence.”
 
@@ -93,43 +76,30 @@ ENERGY
 
 (physicist who coined the term "black hole"")
 
-![](/images/posts/74-of-universe-coming-from/img-18.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-19.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-20.png)
 
-![](/images/posts/74-of-universe-coming-from/img-21.png)
 
 "Matter (Heisenberg/Einstein/Bohr/Schroedinger), mathematics (Godel’s incompleteness theorem), and computation (Turing/Shannon/Kolmogorov-Chaitlin complexity-halting problem ) all seem to similarly break down at the same point. The fact that they all break down, where they break down, and this relationship does not appear to be a coincidental. In fact, they all seem to be saying the same thing (but in different ways) and pointing in the same direction."
 
 - Jed Anderson
 
-![](/images/posts/74-of-universe-coming-from/img-22.png)
 
-![](/images/posts/74-of-universe-coming-from/img-23.png)
 
-![](/images/posts/74-of-universe-coming-from/img-24.gif)
 
 "---"Simpler to control pollution as informationthan as matter."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-25.png)
 
 "It from bit." - John Wheeler
 
-![](/images/posts/74-of-universe-coming-from/img-26.png)
 
 "Information: the negative reciprocal of probability."- Claude Shannon
 
-![](/images/posts/74-of-universe-coming-from/img-27.png)
 
-![](/images/posts/74-of-universe-coming-from/img-28.png)
 
-![](/images/posts/74-of-universe-coming-from/img-29.png)
 
-![](/images/posts/74-of-universe-coming-from/img-30.png)
 
 "The world is focused on protecting the environment fundamentally as a physical structure. We're the first company considering it might be more 'information-based' at its foundation than what humans have been historically and traditionally thinking--and creating a system to help try to protect it as such. Simpler. Faster. Less energy involved in utilizing an information-based protection system."
 
@@ -137,23 +107,15 @@ ENERGY
 
 Is the environment more fundamentally matter or information?
 
-![](/images/posts/74-of-universe-coming-from/img-31.png)
 
 ---"If it looks like a duck, swims like a duck, and quacks like a duck . . . then its . . . not necessarily a duck . . . but the odds have gone up considerably now that it also likes crackers." - Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-32.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-33.png)
 
 ﻿Even if the Universe is not a computer, or simulation . . . the mathematical, computational, and informational underpinnings make you scratch your head sometimes and wonder why this thing is acting like a duck.
 
-![](/images/posts/74-of-universe-coming-from/img-34.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-35.png)
 
-![](/images/posts/74-of-universe-coming-from/img-36.gif)
-![](/images/posts/74-of-universe-coming-from/img-37.gif)
-![](/images/posts/74-of-universe-coming-from/img-38.gif)
 
 "I can go a couple hours . . . sometimes a couple days . . . and then I'm back thinking about Claude Shannon again."
 
@@ -183,65 +145,41 @@ Alternatively, we could talk about system solutions.
 
 ﻿And the idea of a system solution is we accept the lousy channel as it is and we add encoding and decoding systems around that channel to turn it into a reliable channel. So this is a much more exciting approach than the physical approach. Physics is exciting too, but the system approach accepts the unreliable system as it is and transforms it into a reliable system. And that's what information theory is about.” – Professor David MacKay, Cambridge University
 
-![](/images/posts/74-of-universe-coming-from/img-39.png)
 
-![](/images/posts/74-of-universe-coming-from/img-40.png)
 
 Remember . . . and this is critical. . . I'm not talking about changing the "environmental signal". I'm talking about reducing the noise . . . reducing the complexity. It will be like talking to your friend on the cell phone. It's still your friend's voice on the cell phone. It's still the same content.  In fact, its better content and a higher quality. Does anyone think that the person they speak to on an analog phone is different than the person they speak to on a digital phone? I don't think so. No one is that naive.
 
 It's a fascinating world ahead of us.
 
-![](/images/posts/74-of-universe-coming-from/img-41.png)
 
-![](/images/posts/74-of-universe-coming-from/img-42.jpg)
 
 . . . "To think that our big bang was the only bang would seem at this point to me to be a bit narrow-minded, anthropocentric, and in contradiction to the continual iconoclastic evolution in our cosmological understanding."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-43.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-44.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-45.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-46.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-47.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-48.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-49.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-50.png)
 
 ‌
 
-![](/images/posts/74-of-universe-coming-from/img-51.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-52.gif)
 
-[![](/images/posts/74-of-universe-coming-from/img-53.png)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks-RHwPOz297DbgbIeqAorFqLGyD_hgWNdK-EVCrrL2NcBPjBHM85Ch4b-vKMJNEpKOwT6AqkwQ7k-4khuimM5vyBFsZSjm5qheVzYKXB9fVXmIVmxAosWiTm8-adlOC_Mied3k97Qu0H2GX4f_czfXIxZ_68ALKc9g==&c=&ch=)
 
-![](/images/posts/74-of-universe-coming-from/img-54.gif)
-![](/images/posts/74-of-universe-coming-from/img-55.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks9YNWqOVKB65fe4LGY21kR9XNA1UGmJ_pdxh-knU-Js1mKXW12hjOdlE-YazQM00FU3b6zGvUGAICvS_YeBMzDNm2XE_bDeBPQ==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/74-of-universe-coming-from/img-56.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-57.gif)
 
-[![](/images/posts/74-of-universe-coming-from/img-58.png)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks-RHwPOz297DbgbIeqAorFqLGyD_hgWNdK-EVCrrL2NcBPjBHM85Ch4b-vKMJNEpKOwT6AqkwQ7k-4khuimM5vyBFsZSjm5qheVzYKXB9fVXmIVmxAosWiTm8-adlOC_Mied3k97Qu0H2GX4f_czfXIxZ_68ALKc9g==&c=&ch=)
 
-![](/images/posts/74-of-universe-coming-from/img-59.gif)
-![](/images/posts/74-of-universe-coming-from/img-60.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks-RHwPOz297DbgbIeqAorFqLGyD_hgWNdK-EVCrrL2NcBPjBHM85Ch4b-vKMJNEpKOwT6AqkwQ7k-4khuimM5vyBFsZSjm5qheVzYKXB9fVXmIVmxAosWiTm8-adlOC_Mied3k97Qu0H2GX4f_czfXIxZ_68ALKc9g==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/74-of-universe-coming-from/img-61.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-62.png)
 
 ﻿James Webb Space Telescope
 
@@ -249,33 +187,26 @@ How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etsw
 
 - Jed Anderson
 
-![](/images/posts/74-of-universe-coming-from/img-63.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/74-of-universe-coming-from/img-64.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine" as many people call it, but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/74-of-universe-coming-from/img-65.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/74-of-universe-coming-from/img-66.png)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/74-of-universe-coming-from/img-67.gif)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ksxLOMlCo1FUaB4ZZsUW1kW_J2Rba6N2nljqaf6txrEUNRQUazWtvTDm0On2W4PfDjgI7ARLgVpyQ0eqkFtWyOm3LoFAMhzGMfzgsHx8Hf1HyPqpstIzKURZdHscaQavPJg==&c=&ch=)
 
-![](/images/posts/74-of-universe-coming-from/img-68.png)
 
-![](/images/posts/74-of-universe-coming-from/img-69.gif)
 
 See if you can find the pattern in this code:
 
@@ -283,31 +214,23 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/74-of-universe-coming-from/img-70.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-71.png)
 
-![](/images/posts/74-of-universe-coming-from/img-72.png)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-73.png)
 
-![](/images/posts/74-of-universe-coming-from/img-74.png)
 
-![](/images/posts/74-of-universe-coming-from/img-75.png)
 
-![](/images/posts/74-of-universe-coming-from/img-76.png)
 
 Simplicity.
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-77.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
@@ -317,13 +240,11 @@ Simplicity.
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks6bL39T56HbltbDbJYzb1M4RX6HIcM1masuSE9cwkN6C173LHGiw_21f3PL86QUxonl2LcVPIiCLMVdH1GcqXxfj7tOO4T45oQ7TyLYhefrR&c=&ch=)
 
-[![](/images/posts/74-of-universe-coming-from/img-78.png)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks6bL39T56HbltbDbJYzb1M4RX6HIcM1masuSE9cwkN6C173LHGiw_21f3PL86QUxonl2LcVPIiCLMVdH1GcqXxfj7tOO4T45oQ7TyLYhefrR&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-[![](/images/posts/74-of-universe-coming-from/img-79.gif)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks-idCZpiLRKU_xzIwBxuZwSetpOxkXEFprh87RJXZAdBrsQ69b76wrfjlbGuyfRLshBzk8bqb_fLG0ARFtR7F4j4F-J_L6Ov-Q==&c=&ch=)
 
 ‌
 
@@ -331,34 +252,23 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/74-of-universe-coming-from/img-80.png)
 
-![](/images/posts/74-of-universe-coming-from/img-81.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-82.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-83.png)
 
-![](/images/posts/74-of-universe-coming-from/img-84.gif)
-![](/images/posts/74-of-universe-coming-from/img-85.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
 ‌
 
-[![](/images/posts/74-of-universe-coming-from/img-86.jpg)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks-idCZpiLRKU_xzIwBxuZwSetpOxkXEFprh87RJXZAdBrsQ69b76wrfjlbGuyfRLshBzk8bqb_fLG0ARFtR7F4j4F-J_L6Ov-Q==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ks-idCZpiLRKU_xzIwBxuZwSetpOxkXEFprh87RJXZAdBrsQ69b76wrfjlbGuyfRLshBzk8bqb_fLG0ARFtR7F4j4F-J_L6Ov-Q==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/74-of-universe-coming-from/img-87.png)
 
-![](/images/posts/74-of-universe-coming-from/img-88.png)
 
-![](/images/posts/74-of-universe-coming-from/img-89.png)
 
-![](/images/posts/74-of-universe-coming-from/img-90.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -372,9 +282,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/74-of-universe-coming-from/img-91.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-92.jpg)
 
 ---"Everything is patterns.
 
@@ -384,13 +292,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/74-of-universe-coming-from/img-93.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-94.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/74-of-universe-coming-from/img-95.gif)
 
 Notes are data. Music is patterns.
 
@@ -402,45 +307,33 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/74-of-universe-coming-from/img-96.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-97.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-98.jpg)
 
-![](/images/posts/74-of-universe-coming-from/img-99.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/74-of-universe-coming-from/img-100.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/74-of-universe-coming-from/img-101.png)
 
-![](/images/posts/74-of-universe-coming-from/img-102.png)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/74-of-universe-coming-from/img-103.png)
 
-![](/images/posts/74-of-universe-coming-from/img-104.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/74-of-universe-coming-from/img-105.gif)](https://r20.rs6.net/tn.jsp?f=001YDg1G5y1lUg-etswIfYJJDgFXaQ5WBk4voh7SSs2hwO0YSM0Km2ksxLOMlCo1FUaB4ZZsUW1kW_J2Rba6N2nljqaf6txrEUNRQUazWtvTDm0On2W4PfDjgI7ARLgVpyQ0eqkFtWyOm3LoFAMhzGMfzgsHx8Hf1HyPqpstIzKURZdHscaQavPJg==&c=&ch=)
 
-![](/images/posts/74-of-universe-coming-from/img-106.gif)
 
 SIMPLICITY
 
-![](/images/posts/74-of-universe-coming-from/img-107.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -449,7 +342,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/74-of-universe-coming-from/img-108.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -462,9 +354,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/74-of-universe-coming-from/img-109.png)
 
-![](/images/posts/74-of-universe-coming-from/img-110.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -479,7 +369,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/74-of-universe-coming-from/img-111.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -525,9 +414,7 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/74-of-universe-coming-from/img-112.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-113.jpg)
 
 ‌
 
@@ -901,6 +788,4 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/74-of-universe-coming-from/img-114.gif)
 
-![](/images/posts/74-of-universe-coming-from/img-115.gif)

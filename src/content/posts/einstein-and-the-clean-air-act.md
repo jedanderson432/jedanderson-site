@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith', 'policy']
 abstract: '[](/images/sip/einstein-and-the-clean-air-act.png)I wonder what Einstein would think about the Clean Air Act?'
 ---
 
-[![Einstein and the Clean Air Act](/images/sip/einstein-and-the-clean-air-act.png)](/images/sip/einstein-and-the-clean-air-act.png)I wonder what Einstein would think about the Clean Air Act?
+I wonder what Einstein would think about the Clean Air Act?
 
 > ***►*“If you can’t explain it to a six year old, you don’t understand it yourself.”*—Albert Einstein***
 >

@@ -11,6 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '> #### **Clean Air Act Definition“SIP”**: (n.) A State air plan that generally tells the Federal government what the Federal government is doing so that the Federal government can tell the States that they have properly told the Federal government what the Federal government is d…'
 ---
 
-> #### **[Clean Air Act Definition](/images/sip/clean-air-act-definition.jpg)“SIP”**: (n.) A State air plan that generally tells the Federal government what the Federal government is doing so that the Federal government can tell the States that they have properly told the Federal government what the Federal government is doing.
+> #### **Clean Air Act Definition“SIP”**: (n.) A State air plan that generally tells the Federal government what the Federal government is doing so that the Federal government can tell the States that they have properly told the Federal government what the Federal government is doing.
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

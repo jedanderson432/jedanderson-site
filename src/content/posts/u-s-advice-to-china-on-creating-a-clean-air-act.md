@@ -15,6 +15,5 @@ Look at what advice the United States is giving to China on creating a Clean Air
 
 > “It is a good divine that follows his own instructions.”—William Shakespeare
 
-[![China1](/images/sip/china1.png)](/images/sip/china1.png)[![China2](/images/sip/china2.png)](/images/sip/china2.png)
 
 Time to follow our own advice.  Time to transform the SIP process.  We can make it happen.

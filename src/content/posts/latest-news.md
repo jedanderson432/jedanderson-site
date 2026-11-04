@@ -19,23 +19,19 @@ Volume IV, May 4, 2020
 
 --Ceres AI
 
-![](/images/posts/latest-news/img-01.png)
 
 Environmental AI
 
 Updates and recent headlines on artificial intelligence and the environment.
 
-![](/images/posts/latest-news/img-02.gif)
 
 From the Editor
 
-![](/images/posts/latest-news/img-03.png)
 
 Regulations slow . . . algorithms fast.
 
 ---"Humans convert data to language, numbers, and images . . . all inputs that are inherently slower at communicating information to machines than straight-up data. If we leave environmental data in its original format as much as possible with algorithms that adjust to meet environmental protection goals--environmental compliance becomes much faster and simpler."-Jed Anderson, Creator, Ceres AI
 
-![](/images/posts/latest-news/img-04.gif)
 
 MIT creates Automated AI "Curiosity" Algorithms
 
@@ -45,9 +41,7 @@ Curiosity is a main driver of intelligence. AI can now begin to learn what a cow
 
 [Read More.](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFqSvTL-s4s6yMQu2KX1UjIhAHEEfRL9ptthLduKUQ-4iS9flc1WkRJu24SK4Sr_2pz8MVtA482SidJV8Ur7FdX8Uvi_K6PixF-EbdWxP5ueAHt7c4NnuzXB8L3s-CrePYbvtCaefnJ4umITnkMOx4hp3uhLOEVXJIWnpg33Xe4M1&c=&ch=)
 
-![](/images/posts/latest-news/img-05.png)
 
-![](/images/posts/latest-news/img-06.gif)
 
 Ceres Expands "AI Earth"
 
@@ -62,9 +56,7 @@ Ceres Expands "AI Earth"
 
 [For more information.](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFlUAjLQiDf2U8Tdrw1EC_EP1E35FslHxKgetlvdEOCRPS1z8mgdb0Q5UHEYUpw39Z-OdH-d7auQX_RxqFB67HDsRgy0bhov2gg==&c=&ch=)
 
-![](/images/posts/latest-news/img-07.png)
 
-![](/images/posts/latest-news/img-08.gif)
 
 Google Announces AutoML Zero
 
@@ -74,9 +66,7 @@ Google has announced a new automatic machine learning tool called "AutoML Zero".
 
 [Read More.](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFqSvTL-s4s6yMDi-MtHo7TnA-PEoAEdrEZpJsbh14kv1jhg--S4hMcuQstLmdWkJO3N-8RBjTk9F3VXRxNslKAGbVsTXvVrMNxC1-VJ8AMAxM9pyO20uMnM-03CCEP_KcVkop3gjZgdnz6rYqYOAxuCQcizT4972VU2qUlY9x3S0tjpPTo2vz2qIjzpTwTNdOeW1PxQszfH8rZGpeVgPGNA=&c=&ch=)
 
-![](/images/posts/latest-news/img-09.png)
 
-![](/images/posts/latest-news/img-10.gif)
 
 A.I. Environmental Due Diligence
 
@@ -84,9 +74,7 @@ Ceres AI is making environmental due diligence much simpler and faster for compa
 
 [Read more.](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFkyELQxuWLZFvPFSaFGxpq4B03QQ9BmRF0f_bT5YuPaHv--aAafp1FM70exWDLVlKHxwM2bc49qQT069PImA3lb6ZrucWneieKKiGYww4LjtxwCU9icZgt_uVbMkA4DZuYYi_WRPv8Su7lb5F_tGOEIKXeZqM2kkv2sJc5z9NJ9HxQWkJhznRhM=&c=&ch=)
 
-[![](/images/posts/latest-news/img-11.png)](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFreEDGKsiX202Jey6RKgcryvTl9WYHET6z1oBaIolrnrCH6pK6z-pkdz5NVvwBokpP24oVLACO3xQei6DcRXfYQyY-mwObFUZ79J5lYdfs5zBUZT4OvdqQOicdmKqwk2SARwo1qXNz5DpVzb1XqFqPq-f678jlIF7Bo-uSMdWYYmLYzPbRlKhIU=&c=&ch=)
 
-![](/images/posts/latest-news/img-12.gif)
 
 Quantum Leaps in Quantum Networking and Computing
 
@@ -103,13 +91,9 @@ Major milestones toward the quantum internet and quantum computing in the past f
 
 "--As Richard Feynman said, 'nature is not a classical system . . . it's a quantum system'. Therefore, once we have a quantum system to measure, calculate, and communicate a quantum system--and artificial intelligence to help us manage this intensive stream of data--progress in environmental protection will become very fast and simple. Technology in the 1st industrial revolution began hurting the earth . . . and ironically, in the greatest twists of planetary fate . . . its technology in the 4th industrial revolution that might be the only reason why it ever survived."--Jed Anderson, Creator, Ceres AI
 
-[![](/images/posts/latest-news/img-13.png)](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFqSvTL-s4s6ylUaTmBCrHC3yMZ6ubxFIMwUMUXDUScCAEeKgXhTBtnJ0nObicNKgYInGD8ilmCM6KwXuCWg6mT6vEaTTfSabLImC3BrezY53elViTvEASjrP97Cx8wIfc5YbpVKXSZc5xyZjTgsM1sqWWbsuRB8i3DxUXIe0LIAs&c=&ch=)
 
-[![](/images/posts/latest-news/img-14.jpg)](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFqSvTL-s4s6ylUaTmBCrHC3yMZ6ubxFIMwUMUXDUScCAEeKgXhTBtnJ0nObicNKgYInGD8ilmCM6KwXuCWg6mT6vEaTTfSabLImC3BrezY53elViTvEASjrP97Cx8wIfc5YbpVKXSZc5xyZjTgsM1sqWWbsuRB8i3DxUXIe0LIAs&c=&ch=)
 
-![](/images/posts/latest-news/img-15.png)
 
-![](/images/posts/latest-news/img-16.gif)
 
 Next Steps for "AI Earth"
 
@@ -121,18 +105,11 @@ Ceres AI will also begin to provide more virtual environmental management and co
 
 [See video.](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFthm1gbgmhVj3U9Ude6YGnb_0BOOznwCbCwEAotNWs0IctgvbIk_VSw8-2qrKF2A1_OPZnav8eub8vCpIhV9eMkSc9mznHHMuQ==&c=&ch=)
 
-![](/images/posts/latest-news/img-17.gif)
 
-![](/images/posts/latest-news/img-18.png)
 
-![](/images/posts/latest-news/img-19.gif)
 
-![](/images/posts/latest-news/img-20.gif)
 
-![](/images/posts/latest-news/img-21.png)
 
-![](/images/posts/latest-news/img-22.gif)
-![](/images/posts/latest-news/img-23.gif)
 
 Elon Musk's "SpaceX" and Jeff Bezos' "Blue Origin"
 
@@ -140,7 +117,6 @@ Why are both billionaires enamored with space? Why are both along with Richard B
 
 [Many, many reasons .](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFqSvTL-s4s6yFm-BJrw0SrwHefCHN6g-xvYXpzhfMDR1UI6P3dxXHcFcl8Ew1mkBfEPlJUJLw6VYOsrS4uXN9kebmp2EhXnuS9RRrE4dlKAAPyBbKeBHna67K0FRBGIZeQ4eNGT9cZRzshWX32kgD8fk2hc1KVfFMXtEmBqpI-7XnVHsCnJeLL8ZRnrVfXvNKj4GgAZEFnUe&c=&ch=) [. . but here's one.](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFqSvTL-s4s6yFm-BJrw0SrwHefCHN6g-xvYXpzhfMDR1UI6P3dxXHcFcl8Ew1mkBfEPlJUJLw6VYOsrS4uXN9kebmp2EhXnuS9RRrE4dlKAAPyBbKeBHna67K0FRBGIZeQ4eNGT9cZRzshWX32kgD8fk2hc1KVfFMXtEmBqpI-7XnVHsCnJeLL8ZRnrVfXvNKj4GgAZEFnUe&c=&ch=) Here's a recent [MIT article](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFqSvTL-s4s6yche3N9N2c6se8GHBP9xBEStC9g1KdQvCD-Q1dqsNcMpcoYcXfde8FRviJQLPthO3RHJEjQUf9ohqOyllxQ_G6g2k3hNpM-O0ebHcOZYvf1d18nl89IOUqu_EmsDj4AMPC_Dy4O8bQkvMcrmtSRyVTl3eBarVdErXEHEljCJFOCKP4HO4eb_mDh_k9H8ELKV2JLayydSN0s0=&c=&ch=) on why the quantum internet will likely be built in space. "The best way to distribute quantum entanglement around the globe is via a massive constellation of orbiting satellites, physicists say." The reason is the [benefits of handling sensitive quantum entangled particles in the vacuum of space](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFqSvTL-s4s6yjajw8CYCQ2ShqxjgY55nuFxvkeUvZ3N1f9GWLNBub1apdpCp3lrb9ji5t4scL-vLKrsYIFsPjk4OB2Ys7Se4tehfGFzyMkFVIYuRkLjZmV9e5_Ta_bKw31ieRYAFT0_QMElU8z5rWCVp2WJA16JCD5xk64zb_ycqp9yux2Wlac_43HDQVBtboBxNTCinCLdeEqD4D2fttYMJesG9A1R0oQHy5Dq_S5t36XZJdZ6d0DE=&c=&ch=).
 
-![](/images/posts/latest-news/img-24.gif)
 
 Ceres launches "The Generator"
 
@@ -148,9 +124,7 @@ The Generator sifts through facility and equipment data to show potential emissi
 
 [For Ceres access.](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFg07_4D4zExyQjQr15G0lIqXNJQTSJiDQhSzVM3_FDVNzNmBfBqpsXtNKQgkQ7HyBtxxRjYpz4o7LTpq-CPlkkef19r_0kfxSCNaDXGNmHzO5rrg70UkfSI=&c=&ch=)
 
-![](/images/posts/latest-news/img-25.png)
 
-![](/images/posts/latest-news/img-26.gif)
 
 Ceres AI's Search . . . "Google" for environmental
 
@@ -162,13 +136,10 @@ More data. More knowledge. More power.
 
 [Read more or to purchase.](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFra4kONbHp9j9gKHrHVNyCU2jb1EVaZZbs1OzvYLE7ckQcvQKo25CaUgkz-VdL27z1Q66EFuwROva3jKgGXjzN1JybrCrWHlpQ==&c=&ch=)
 
-[![](/images/posts/latest-news/img-27.png)](http://r20.rs6.net/tn.jsp?f=001kw1MljRLTti4NFI1XQuz9CsqMuCbWP_MycY0G3mSswyrthMp0jtAFra4kONbHp9j9gKHrHVNyCU2jb1EVaZZbs1OzvYLE7ckQcvQKo25CaUgkz-VdL27z1Q66EFuwROva3jKgGXjzN1JybrCrWHlpQ==&c=&ch=)
 
-![](/images/posts/latest-news/img-28.gif)
 
 Information. Data.  Power. Speed.
 
-![](/images/posts/latest-news/img-29.png)
 
 This is an advertisement for Ceres AI
 

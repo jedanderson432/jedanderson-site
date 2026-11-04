@@ -17,7 +17,6 @@ Just released . . .
 
 ([watch welcome video](https://r20.rs6.net/tn.jsp?f=001R-UqA-krdCHjTiumoVMQ5FCkGX8RIdJ5w9WwkmdQ9_ahBAroINI4obiODTTJLeiVu4m-pcicdyiaFVen3_1V0r7lVGigagz9IYKcKU7_vpNM5rUiaIyHXs6fT_HNUGe88XKlNOFvXUzq2X1XfkNhTw==&c=&ch=)]
 
-[![](/images/posts/just-released/img-01.png)](https://r20.rs6.net/tn.jsp?f=001R-UqA-krdCHjTiumoVMQ5FCkGX8RIdJ5w9WwkmdQ9_ahBAroINI4obiODTTJLeiVu4m-pcicdyiaFVen3_1V0r7lVGigagz9IYKcKU7_vpNM5rUiaIyHXs6fT_HNUGe88XKlNOFvXUzq2X1XfkNhTw==&c=&ch=)
 
 Welcome to
 

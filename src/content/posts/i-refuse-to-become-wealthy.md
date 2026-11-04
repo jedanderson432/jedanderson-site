@@ -11,13 +11,10 @@ pdf: "/pdfs/i-refuse-to-become-wealthy.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-![](/images/posts/i-refuse-to-become-wealthy/img-01.gif)
 
 . . . I refuse to become wealthy.
 
-![](/images/posts/i-refuse-to-become-wealthy/img-02.gif)
 
-![](/images/posts/i-refuse-to-become-wealthy/img-03.png)
 
 ‌
 
@@ -27,10 +24,8 @@ That is where I intend to "one-up" Bezos, Musk, and other technological entrepre
 
 ‌
 
-![](/images/posts/i-refuse-to-become-wealthy/img-04.gif)
 
 ---"Building a machine to protect the environment . . . one commercialized application at a time."
 
 [www.enviro.ai](https://r20.rs6.net/tn.jsp?f=001lZDIoAzBRzzo6ae2Jg8Bm4sIY-GvRhWQeYNPzFCwXi6YPXJInUJDG8kCAFBzUKxZUymAFD4jc01iOEV4fXXazd9a0fwmYUYiCf2NMcEkpsVPNHILA7YPzQ8YDFW_q4q5xh7OJBUCH7g=&c=&ch=)
 
-![](/images/posts/i-refuse-to-become-wealthy/img-05.gif)

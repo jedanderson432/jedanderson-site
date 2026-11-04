@@ -21,7 +21,6 @@ DAY!
 
 April 14th - "World Quantum Day"
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-01.jpg)
 
 How to celebrate?
 
@@ -33,7 +32,6 @@ LEARN IT.
 
 - Witness "[quantum entanglement](https://r20.rs6.net/tn.jsp?f=001TbO5q2lAH4ofuboaIT30NVuGfKEa83CJNXk1BgIy7mxIKNbonLX22tHonWRK8FUXdMIR1skGgY42c3y3ngvVboi0PtskLVnurvcp57IPZEClrH7cSVP8l60I0N3eWXueOyAAweqiPHrmsRiyrA_49g==&c=&ch=)" (you will not want to leave this earth without "seeing" this)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-02.gif)
 
 ---"The EnviroVerse will eventually be quantum-based rather than just digitally rendered after decoherence. Nature isn't classical. A quantum-based metaverse will give humanity much more power to understand, interact with, and protect nature."
 
@@ -41,7 +39,6 @@ LEARN IT.
 
 ﻿
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-03.png)
 
 ‌
 
@@ -51,7 +48,6 @@ NATURE = QUANTUM
 
 ENVIROVERSE = QUANTUM
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-04.png)
 
 QUANTUM PHYSICS
 
@@ -59,7 +55,6 @@ QUANTUM PHYSICS
 
 THE METAVERSE
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-05.jpg)
 
 "Quantum computation is … nothing less than a distinctly new way of harnessing nature“—David Deutsch
 
@@ -71,29 +66,19 @@ THE METAVERSE
 
 “Quantum computation is... a distinctively new way of harnessing nature... It will be the first technology that allows useful tasks to be performed in collaboration between parallel universes.”—David Deutsch
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-06.png)
 
 "We couldn't build quantum computers unless the universe were quantum and computing. We can build such machines because the universe is storing and processing information in the quantum realm. When we build quantum computers, we're hijacking that underlying computation in order to make it do things we want: little and/or/not calculations. We're hacking into the universe.” – Seth Lloyd, MIT
 
-[![](/images/posts/today-is-world-quantum-day-april-14th/img-07.png)](https://r20.rs6.net/tn.jsp?f=001TbO5q2lAH4ofuboaIT30NVuGfKEa83CJNXk1BgIy7mxIKNbonLX22tHonWRK8FUX6m25U2jjEzIviKWmC3yKBl6n7ib1FLc4NgiKBQ_pYd_th8JLnfcDjhMDVjDrSIPIV-psz6JUGz_GJR37Uf8Ub5qC3EBd8QoAXvWhJFZmt5AzeP7OK87ihfpPxzDYPr8YomvC7wAnu2A=&c=&ch=)
 
 “The universe computes. The computing universe is not a metaphor, but a mathematical fact: the universe is a physical system that can be programmed at its most microscopic level to perform universal digital computation. Moreover, the universe is not just a computer: it is a quantum computer. Quantum mechanics is constantly injecting fresh, random bits into the universe. Because of its computational nature, the universe processes and interprets those bits, naturally giving rise to all sorts of complex order and structure.”—Paul Davies
 
-[![](/images/posts/today-is-world-quantum-day-april-14th/img-08.png)](https://r20.rs6.net/tn.jsp?f=001TbO5q2lAH4ofuboaIT30NVuGfKEa83CJNXk1BgIy7mxIKNbonLX22tHonWRK8FUX6m25U2jjEzIviKWmC3yKBl6n7ib1FLc4NgiKBQ_pYd_th8JLnfcDjhMDVjDrSIPIV-psz6JUGz_GJR37Uf8Ub5qC3EBd8QoAXvWhJFZmt5AzeP7OK87ihfpPxzDYPr8YomvC7wAnu2A=&c=&ch=)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-09.png)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-10.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-11.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-12.png)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-13.gif)
 
-[![](/images/posts/today-is-world-quantum-day-april-14th/img-14.png)](https://r20.rs6.net/tn.jsp?f=001TbO5q2lAH4ofuboaIT30NVuGfKEa83CJNXk1BgIy7mxIKNbonLX22looPTgohOjnnTHgBPdlHUTw-aPhcTBteGdyppHum2BSQEelCJlKKKMDpHX0wJ8iY3bd9I9fTMcmTPoUFRj28ROEa03NpzgmaQ==&c=&ch=)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-15.gif)
 
 Environmental
 
@@ -105,9 +90,7 @@ in the Metaverse
 
 Using Probabilistic Systems within Probabilistic Systems to Better Understand Probabilistic Systems (i.e. Nature, Environmental Protection]
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-16.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-17.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -115,15 +98,10 @@ Using Probabilistic Systems within Probabilistic Systems to Better Understand Pr
 
 Both AI and quantum technologies are based in probability--which is how the universe works at a more fundamental level.
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-18.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-19.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-20.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-21.png)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-22.png)
 
 "Everything we call real is made of things that cannot be regarded as real.” --Niels Bohr
 
@@ -483,13 +461,9 @@ The principles of physics, as far as I can see, do not speak against the possibi
 
 We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-23.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-24.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-25.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-26.jpg)
 
 ---"Everything is patterns.
 
@@ -499,13 +473,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-27.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-28.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-29.gif)
 
 Notes are data. Music is patterns.
 
@@ -517,13 +488,9 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-30.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-31.jpg)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-32.jpg)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-33.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -539,27 +506,21 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-34.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-35.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-36.png)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/today-is-world-quantum-day-april-14th/img-37.gif)](https://r20.rs6.net/tn.jsp?f=001TbO5q2lAH4ofuboaIT30NVuGfKEa83CJNXk1BgIy7mxIKNbonLX22oiWqIdl3DDMsiRcITXUXvC6Z6qQk4celK_7RHIGP7GPCGxo-SmmODN6JN0Dpzx6fkHttxjqPn66ULaYy4HK8u3RzadRlcdLkv3iSuL5nnbkO3HDzd1DksaJo_U_5ud9Ow==&c=&ch=)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-38.gif)
 
 SIMPLICITY
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-39.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -568,7 +529,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-40.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -581,7 +541,6 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-41.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -596,7 +555,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-42.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -642,8 +600,5 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-[![](/images/posts/today-is-world-quantum-day-april-14th/img-43.gif)](https://r20.rs6.net/tn.jsp?f=001TbO5q2lAH4ofuboaIT30NVuGfKEa83CJNXk1BgIy7mxIKNbonLX22hZMak8Hq2vPJQNZCSQCf_4HhpIU3ukDWM6NAVc-T-PYCH6eJskhKX9Tvrl9JP7hoj50cJ3TqBsJ-vMhLxZ-bBU=&c=&ch=)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-44.gif)
 
-![](/images/posts/today-is-world-quantum-day-april-14th/img-45.gif)

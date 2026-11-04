@@ -21,12 +21,8 @@ The answers to these 2 questions will alter the course of environmental history.
 
 ﻿
 
-![](/images/posts/ready-to-think-i-mean-really-think/img-01.gif)
 
-![](/images/posts/ready-to-think-i-mean-really-think/img-02.gif)
 
 2. Is pollution matter or information?
 
-![](/images/posts/ready-to-think-i-mean-really-think/img-03.gif)
 
-![](/images/posts/ready-to-think-i-mean-really-think/img-04.gif)

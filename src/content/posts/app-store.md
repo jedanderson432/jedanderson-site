@@ -17,17 +17,13 @@ Pricing list . . . Shop today!
 
 Over 10,000 Viewers . . .
 
-![](/images/posts/app-store/img-01.gif)
 
-[![](/images/posts/app-store/img-02.png)](http://r20.rs6.net/tn.jsp?f=001pdWM2DnhJJ5dcIfc31z4k1sxy38noy5zpoQ43dJBmfkk1zkquyY0qq0W_FoxAHKCrQly3-iNI7RcmunoNBabfIOuNhMY7rvYm7P2L5sUzwWouPnEDobE_OX-nqa8Eo9RWbBDg0GfpJIXwUz43YEwvA==&c=&ch=)
 
-![](/images/posts/app-store/img-03.gif)
 
 ENJOY
 
 20% OFF
 
-![](/images/posts/app-store/img-04.gif)
 
 Be sure to enter code
 
@@ -35,7 +31,6 @@ Be sure to enter code
 
 [SHOP NOW](http://r20.rs6.net/tn.jsp?f=001pdWM2DnhJJ5dcIfc31z4k1sxy38noy5zpoQ43dJBmfkk1zkquyY0qq0W_FoxAHKCrQly3-iNI7RcmunoNBabfIOuNhMY7rvYm7P2L5sUzwWouPnEDobE_OX-nqa8Eo9RWbBDg0GfpJIXwUz43YEwvA==&c=&ch=)
 
-![](/images/posts/app-store/img-05.gif)
 
 EniroAI APPS
 
@@ -71,12 +66,9 @@ EniroAI APPS
 
 \*\*Requires EnviroAI's hardware installation and/or customized setup.
 
-![](/images/posts/app-store/img-06.gif)
 
-![](/images/posts/app-store/img-07.gif)
 
 Contact us [here](mailto:ceres@enviro.ai).
 
-![](/images/posts/app-store/img-08.png)
 
 This is an advertisement for EnviroAI

@@ -19,16 +19,11 @@ Checking in on you. Loving your suffering yet? Love the training and discipline?
 
 I'm suffering in all kinds of ways. This is awesome!
 
-![](/images/posts/checking-in-on-you/img-01.gif)
 
-![](/images/posts/checking-in-on-you/img-02.png)
 
-![](/images/posts/checking-in-on-you/img-03.gif)
-![](/images/posts/checking-in-on-you/img-04.gif)
 
 ﻿Love it! Joy. Joy. Joy.
 
-![](/images/posts/checking-in-on-you/img-05.gif)
 
 - “Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.”—Helen Keller
 
@@ -58,7 +53,6 @@ I'm suffering in all kinds of ways. This is awesome!
 
 - “Consider the life of Jesus. He was born in a stable. He had to flee to Egypt. He worked 30 years in the shop of a craftsman. He suffered hunger, thirst and fatigue. He was poor and He was ridiculed. He taught the doctrine of heaven and no one listened to him. He was treated like a slave, betrayed, and died between two thieves. Jesus’ life was full of humiliation, but we are horrified by the slightest humiliation. How do you expect to know Jesus if you do not see Him where He was found: in suffering and the cross. You must imitate Him. But do not think you can follow Him in your own strength – you are going to have to find all your strength in Him. Remember that Jesus wants to feel all your weaknesses.”—Fenelon
 
-![](/images/posts/checking-in-on-you/img-06.gif)
 
 Taken from George MacDonald's Unspoken Sermons . . .
 
@@ -76,6 +70,4 @@ And then I'll rise and fight again;
 
 If, in the extreme of our exhaustion, there should come to us, as to Elijah when he slept in the desert, an angel to rouse us, and show us the waiting bread and water, how would we carry ourselves? Would we, in faint unwillingness to rise and eat, answer, 'Lo I am weary unto death! The battle is gone from me! It is lost, or unworth gaining! The world is too much for me! Its forces will not heed me! They have worn me out! I have wrought no salvation even for my own, and never should work any, were I to live for ever! It is enough; let me now return whence I came; let me be gathered to my fathers and be at rest!'? I should be loth to think that, if the enemy, in recognizable shape, came roaring upon us, we would not, like the red-cross knight, stagger, heavy sword in nerveless arm, to meet him; but, in the feebleness of foiled effort, it wants yet more faith to rise and partake of the food that shall bring back more effort, more travail, more weariness. The true man trusts in a strength which is not his, and which he does not feel, does not even always desire; believes in a power that seems far from him, which is yet at the root of his fatigue itself and his need of rest--rest as far from death as is labour. To trust in the strength of God in our weakness; to say, 'I am weak: so let me be: God is strong;' to seek from him who is our life, as the natural, simple cure of all that is amiss with us, power to do, and be, and live, even when we are weary,--this is the victory that overcometh the world. To believe in God our strength in the face of all seeming denial, to believe in him out of the heart of weakness and unbelief, in spite of numbness and weariness and lethargy; to believe in the wide-awake real, through all the stupefying, enervating, distorting dream; to will to wake, when the very being seems athirst for a godless repose;--these are the broken steps up to the high fields where repose is but a form of strength, strength but a form of joy, joy but a form of love. 'I am weak,' says the true soul, 'but not so weak that I would not be strong; not so sleepy that I would not see the sun rise; not so lame but that I would walk! Thanks be to him who perfects strength in weakness, and gives to his beloved while they sleep!'
 
-![](/images/posts/checking-in-on-you/img-07.gif)
 
-![](/images/posts/checking-in-on-you/img-08.gif)

@@ -19,9 +19,7 @@ Here's what I wanted to be . . .
 
 I wanted to be a "W" . . .
 
-![](/images/posts/what-did-you-want-to-be-growing-up/img-01.gif)
 
-![](/images/posts/what-did-you-want-to-be-growing-up/img-02.png)
 
 ‌
 
@@ -45,6 +43,5 @@ I started crying this morning as I was reading and thinking about this . . . and
 
 . . . I have become a W.
 
-![](/images/posts/what-did-you-want-to-be-growing-up/img-03.gif)
 
 ‌

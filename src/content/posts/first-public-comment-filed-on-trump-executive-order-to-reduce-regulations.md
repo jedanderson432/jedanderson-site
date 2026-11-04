@@ -16,7 +16,6 @@ A public comment was filed on Executive Order E.O. 13771 that includes a plan fo
 
 Time to simplify the nation’s air quality management system to better prepare ourselves for the problems and opportunities of a 21st century world.  We can make it happen.
 
-![regs.gov](/images/sip/regs-gov.png)
 
 **You are commenting on:**
 

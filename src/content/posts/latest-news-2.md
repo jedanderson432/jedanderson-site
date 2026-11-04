@@ -19,13 +19,11 @@ Volume III, March 2, 2020
 
 --Ceres AI
 
-![](/images/posts/latest-news-2/img-01.png)
 
 Environmental AI
 
 Updates and recent headlines on matters affecting artificial intelligence and the environment.
 
-![](/images/posts/latest-news-2/img-02.gif)
 
 From the Editor
 
@@ -33,11 +31,8 @@ From the Editor
 
 --Jed Anderson, Creator, Ceres AI
 
-![](/images/posts/latest-news-2/img-03.gif)
 
-![](/images/posts/latest-news-2/img-04.png)
 
-![](/images/posts/latest-news-2/img-05.gif)
 
 $ Trillions
 
@@ -45,9 +40,7 @@ Leading business analysts are projecting that those companies who embrace artifi
 
 Read: [PWC report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVs2lwwds0qsH8wGCGQ8WtzpG82Au-UetIyo9LbbAhHttTauKUj7NndBPgUD_qB9pLkHcz2RiVgQou43hSdY9Z22CL01q8XRVvcUo4RGHOhTI9SK3ZELMejx1Mj9LdsHw8DHDND_4ruKSucViAETTf5c1b0ffow-Jv0c4dKTjxrqs=&c=&ch=) [Gartner report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVybO2JN36Hg7bqv6_YyU8dLITdi6Yswq_qpfqEIrfSscZGnE07sa8iCTLLMI7JCcIULpXJFMcc5pKbfOMG8Bk6P0yWZZu6KUHCvgbHh5SsKdrq1KJtCQ5qrGzQknGjWVNk1UMa7s54e90KW6D7H_N4G7d7tBWdhI3qsCsuKMbW91XROKGxY_x5SetM0bz5sMjpFkjmf9u8K7nfG81nx0GJFWZXcmHnLy7EhJXzuv8Qn72Rjh6Ch_HPkiLhB7eSk-D&c=&ch=) [McKinsey report.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSQFmvwNdWaVYKcOG297OJN9gGB4Ze0C_0WovEVtUQWeZiCRTc9WhZdV6j5NgsHjzEshyBx1F6Im6f-mOX5Br-u6YGmAA0AxbWm_Arzr6n0hm6EYwbsh8OH1cxPDp7ezYHVFknfrRobh_tUV24mYvnhiElKgmhad5FK1Vu7OtoxBIs3Z6j5pBJjJwLbYRZsMWiZHZ0hH287p0NG3SQPn4DRqTBgYEZ35udpBqlNGtyvtJeVNProQc-6Csn6rWZnX6Q==&c=&ch=)
 
-![](/images/posts/latest-news-2/img-06.png)
 
-![](/images/posts/latest-news-2/img-07.gif)
 
 Ceres AI launches "Benchmarker"
 
@@ -59,9 +52,7 @@ WHAT'S YOUR COMPANY # RANK?
 
 [For more information.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNxYHaasEIB-5CIQxUNz-48nY3SkEPQaeAEe5kHAS567CvYIQjdzZ5nB-wNtqsnBBRk_HgwJiYuNX3DUVhnuVR0g==&c=&ch=)
 
-![](/images/posts/latest-news-2/img-08.png)
 
-![](/images/posts/latest-news-2/img-09.gif)
 
 MIT Top 10 Breakthroughs of 2020
 
@@ -75,9 +66,7 @@ MIT's list of Top 10 breakthroughs for 2020 includes:
 
 [Read More.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNTAEiYFmuzmL5JwYHUkQj2sVdUzfMxaOrqQvTE8tLgqv3d1ACHstL_MKRjvN6T8RvPwTQ3p8Rh8H2Z28GL8NZy_9SrSVfnPpvvowR9N87Ydm9_Mkah8y5odTosO1Zr_uWjohdt_qk6iA=&c=&ch=)
 
-![](/images/posts/latest-news-2/img-10.png)
 
-![](/images/posts/latest-news-2/img-11.gif)
 
 Ceres AI Meets with Rep. Dan Huberty on Diluvia Flood AI
 
@@ -85,13 +74,9 @@ After meeting with Ceres AI, Rep. Dan Huberty asked Houston business leadership 
 
 [Read letter.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNLIWO1RGfUWAMvoMfZwcwJZwfrpxJBESIyPW4phKTBch-AX27CKR_x3gI5mYVjH06x6Qs5tL8ATO6ypYCpZZbSRKH6AvuJ_VKEjMyZPriXlHRYOOM3n5WfbFaHwzcty12TqkYo_h20xGZ5LHs5nZgUkB_qarVAw95GnLpX1mE6JQ=&c=&ch=)
 
-[![](/images/posts/latest-news-2/img-12.png)](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNLIWO1RGfUWAMvoMfZwcwJZwfrpxJBESIyPW4phKTBch-AX27CKR_x3gI5mYVjH06x6Qs5tL8ATO6ypYCpZZbSRKH6AvuJ_VKEjMyZPriXlHRYOOM3n5WfbFaHwzcty12TqkYo_h20xGZ5LHs5nZgUkB_qarVAw95GnLpX1mE6JQ=&c=&ch=)
 
-![](/images/posts/latest-news-2/img-13.png)
 
-[![](/images/posts/latest-news-2/img-14.png)](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvXiR9P707iPejXUEMztMM7Yg4dELxge6kFBQ0DRWq_rkmVjNl02avqeCL4KLKAnI9mzA7ypTuieEvjvBxMJD1zuu1uJiHID34ZyJlDXpZbyzSpG9c4ASjFHiOr2i136gYHwbuUdmv3Bm9NM_ZcCgC0ShzBH51Z8jYVbOnr-i2AQpr8GoyWdLpU4=&c=&ch=)
 
-![](/images/posts/latest-news-2/img-15.gif)
 
 Bezos Spending $10 Billion on Climate Change . . . much likely to go to AI
 
@@ -105,9 +90,7 @@ It is likely that much of Bezos' $10 billion climate funding will be spent on AI
 
 $10 BILLION
 
-![](/images/posts/latest-news-2/img-16.jpg)
 
-![](/images/posts/latest-news-2/img-17.gif)
 
 Ceres "Air AI' in Development
 
@@ -115,18 +98,11 @@ Ceres "Air AI' in Development
 
 [Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNzo-wwuj-siikX6y56P6Gun75H-RoFjB1Z8hcP38jyyfmAJ0zQah_fIg-AjZMvN77NZv-Cdmx2h-zdMJCj0bAsg==&c=&ch=)
 
-![](/images/posts/latest-news-2/img-18.png)
 
-![](/images/posts/latest-news-2/img-19.png)
 
-![](/images/posts/latest-news-2/img-20.gif)
 
-![](/images/posts/latest-news-2/img-21.gif)
 
-![](/images/posts/latest-news-2/img-22.png)
 
-![](/images/posts/latest-news-2/img-23.gif)
-![](/images/posts/latest-news-2/img-24.gif)
 
 Google AI launches new ultra-high resolution neural network image analysis
 
@@ -134,7 +110,6 @@ Google recently announced new ultra-high resolution neural network image analyse
 
 [Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNI9Mn2b0WJvu0XOF01T6ne9ELj6mUPLWIMRhzNcNkBzmSSNTmqeBBe_1ooN7M6va9EtCoIVkJhyyQB1mVTv1jXA==&c=&ch=)
 
-![](/images/posts/latest-news-2/img-25.gif)
 
 Ceres Phase 1 "Validator" assisting banking and real-estate industry
 
@@ -144,9 +119,7 @@ Ceres AI reviews Phase 1 reports and compares the reports to ASTM standards.
 
 [Read more or to purchase](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvfH0Q2S5U7ctlXpUabZHnQ_EahQSQK9FJmgsLUyBdjW8mqKR7_1w00Toms4LRFRCyQOG5aWrYQHQ6rO09yTthinpZFOzbo-GMQ==&c=&ch=)
 
-[![](/images/posts/latest-news-2/img-26.png)](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvfH0Q2S5U7ctlXpUabZHnQ_EahQSQK9FJmgsLUyBdjW8mqKR7_1w00Toms4LRFRCyQOG5aWrYQHQ6rO09yTthinpZFOzbo-GMQ==&c=&ch=)
 
-![](/images/posts/latest-news-2/img-27.gif)
 
 Quantum Internet . . . A Major Breakthrough
 
@@ -154,9 +127,7 @@ A quantum entangled optical connection has now been extended to 50 km. Science, 
 
 [Read more.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvbT7LPRzWzkNy1tjPPXmwNv_YsLPGIpbi6Je3iGpaN8YE_0V74dySRg-Z9n5E63LlpBeWaugjaBj3HOP2K3cfaU4G8VzVrpsy2S0vnjIA6S7JvWxq7CgkPvHOc4N-ZcU6G71rLAXhf2UpQncjgr104xnGzPVg5HfmKvv_jEltLrwMXQ2FDNNhgtV5yYE2lSMpFddD7aS8SZ24npY5Vyli3s=&c=&ch=)
 
-![](/images/posts/latest-news-2/img-28.jpg)
 
-![](/images/posts/latest-news-2/img-29.gif)
 
 Ceres "The Generator" Scheduled for Deployment on April 10th
 
@@ -168,9 +139,7 @@ The Generator sifts through facility and equipment emissions/control data to fin
 
 [For Ceres access.](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvYG_5CM8kw5kNaCholnDtTFJ0z_cCpZj2x03xYMlmFialKuXt1e0xFliCoVrlqwHFG37zEyc53K8ZqbHjrFY1eIz0zGxXQoqOFXVl0Ag5tHPmNFO8XSQT2I=&c=&ch=)
 
-![](/images/posts/latest-news-2/img-30.png)
 
-![](/images/posts/latest-news-2/img-31.gif)
 
 Ceres AI's Search . . . "Google" for environmental
 
@@ -180,15 +149,11 @@ More data. More knowledge. More power.
 
 [Read more or to purchase](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSqq5sFysOxio1XwPe7500vr349sWBkx72Qjk6My3g3Or-UjscYc9AKqQDUcTbvfKuS9Ya-1ii7JUWcthv8BD4r8tMldDjnxTg==&c=&ch=)
 
-[![](/images/posts/latest-news-2/img-32.png)](http://r20.rs6.net/tn.jsp?f=00101tfJtQHTGQ7BxsfmyCZU9G4ebewH8IOcDekSIm9GSOIxY7Zjh_uvSqq5sFysOxio1XwPe7500vr349sWBkx72Qjk6My3g3Or-UjscYc9AKqQDUcTbvfKuS9Ya-1ii7JUWcthv8BD4r8tMldDjnxTg==&c=&ch=)
 
-![](/images/posts/latest-news-2/img-33.gif)
 
-![](/images/posts/latest-news-2/img-34.gif)
 
 Information. Data.  Power. Speed.
 
-![](/images/posts/latest-news-2/img-35.png)
 
 This is an advertisement for Ceres AI
 

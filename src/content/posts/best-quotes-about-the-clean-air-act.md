@@ -11,7 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](https://www.youtube.com/watch?v=iUm16NfK7R8)'
 ---
 
-[![Clean Air Act is Now Stupid](/images/sip/clean-air-act-is-now-stupid.png)](https://www.youtube.com/watch?v=iUm16NfK7R8)
 
 Refreshingly honest quotes about the current state of the Clean Air Act–especially after the U.S. Supreme Court’s recent ruling in *Homer City*:
 

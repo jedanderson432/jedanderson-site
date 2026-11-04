@@ -13,24 +13,17 @@ original_source: "Constant Contact campaign"
 
 Building a Machine that Protects the Environment
 
-![](/images/posts/bill-gates-and-jed-anderson-on-innovation/img-01.png)
 
-![](/images/posts/bill-gates-and-jed-anderson-on-innovation/img-02.gif)
 
 INNOVATION.
 
 Quantum. Nature.  AI.
 
-![](/images/posts/bill-gates-and-jed-anderson-on-innovation/img-03.gif)
 
-![](/images/posts/bill-gates-and-jed-anderson-on-innovation/img-04.gif)
 
 ---"Building a machine to protect the environment . . . one commercialized application at a time . . . that's EnviroAI."
 
-![](/images/posts/bill-gates-and-jed-anderson-on-innovation/img-05.gif)
 
-![](/images/posts/bill-gates-and-jed-anderson-on-innovation/img-06.png)
 
-![](/images/posts/bill-gates-and-jed-anderson-on-innovation/img-07.gif)
 
 This is an advertisement for EnviroAI

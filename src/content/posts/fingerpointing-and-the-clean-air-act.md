@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/fingerpointing-and-the-clean-air-act.png)The goal now seems to be what State can do the best finger-pointing (see article below). “It wasn’t my pollution . . . it was hers!”'
 ---
 
-[![Fingerpointing and the Clean Air Act](/images/sip/fingerpointing-and-the-clean-air-act.png)](/images/sip/fingerpointing-and-the-clean-air-act.png)The goal now seems to be what State can do the best finger-pointing (see article below).  “It wasn’t my pollution . . . it was hers!”
+The goal now seems to be what State can do the best finger-pointing (see article below).  “It wasn’t my pollution . . . it was hers!”
 
 When my kids point fingers at each other after I ask them who threw the grape from the back of the mini-van I tell them, “I don’t care who threw it . . . stop it and take responsibility for your own actions.”  We can’t use this approach however when it comes to cleaning the air.  Unfortunately we have a law that requires States to not only take responsibility for their own actions—but to prove that their brother threw the grape.
 

@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/whitfield-and-clean-air-act-reform.jpg)President wants climate change legacy protected. Congressional Republicans want a better working environmental protection system.'
 ---
 
-[![Whitfield and Clean Air Act Reform](/images/sip/whitfield-and-clean-air-act-reform.jpg)](/images/sip/whitfield-and-clean-air-act-reform.jpg)President wants climate change legacy protected.  Congressional Republicans want a better working environmental protection system.
+President wants climate change legacy protected.  Congressional Republicans want a better working environmental protection system.
 
 No one thought of this idea yet.
 

@@ -14,7 +14,7 @@ abstract: 'Most of the forces around us tell us to keep any light we perceive to
 
 Most of the forces around us tell us to keep any light we perceive to ourselves–or that the light we see is in truth darkness, or at most only light to ourselves.
 
-![light (2)](/images/sip/light-2.jpg)Shine it anyway.
+Shine it anyway.
 
 A couple thoughts on this:
 

@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/pollutant-transport-and-the-clean-air-act.jpg)The U.S. Supreme Court heard oral arguments today on the cross-state air pollution rule.'
 ---
 
-[![Pollutant Transport and the Clean Air Act](/images/sip/pollutant-transport-and-the-clean-air-act.jpg)](/images/sip/pollutant-transport-and-the-clean-air-act.jpg)The U.S. Supreme Court heard oral arguments today on the cross-state air pollution rule.  Governors from the Eastern States also have filed a petition with EPA seeking additional emission reductions from the Midwestern States.
+The U.S. Supreme Court heard oral arguments today on the cross-state air pollution rule.  Governors from the Eastern States also have filed a petition with EPA seeking additional emission reductions from the Midwestern States.
 
 Let’s see . . . the Northeastern States are pointing fingers at the Midwestern States.  The Midwestern States are pointing fingers at the Western States.  And the Western States are pointing fingers at the Far East.
 

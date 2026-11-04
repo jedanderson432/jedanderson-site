@@ -11,7 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/tj1.png)'
 ---
 
-[![](/images/sip/tj1.png "tj")](/images/sip/tj1.png)
 
 - “I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.” – Georg C. Lichtenberg
 - “All conservatism is based upon the idea that if you leave things alone you leave them as they are. But you do not. If you leave a thing alone you leave it to a torrent of change.” – G. K. Chesterton

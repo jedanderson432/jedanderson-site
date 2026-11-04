@@ -13,4 +13,3 @@ abstract: 'Senate passed TSCA reform! Now it’s time for Clean Air Act reform. 
 
 Senate passed TSCA reform!  Now it’s time for Clean Air Act reform.  Environment and economy deserve it.  Time for a 21st century Clean Air Act.  We can make it happen.
 
-![TSCA](/images/sip/tsca.jpg)

@@ -15,7 +15,7 @@ It’s simplicity that transforms the world.
 
 Remember how complicated computers were in the 1980’s?
 
-![c prompt](/images/sip/c-prompt.png)You had to know languages like “Basic” and “Pilot Tutorial” . . . and know a bunch of “c:/ prompt” commands.
+You had to know languages like “Basic” and “Pilot Tutorial” . . . and know a bunch of “c:/ prompt” commands.
 
 Then came a man with a “mouse” and a “windows-based” platform.
 
@@ -27,14 +27,8 @@ Imagine what the equivalent of introducing a “mouse” and a “window’s-bas
 
 Complexity builds mountains.  Simplicity moves mountains.
 
-![Jobs](/images/sip/jobs.jpg)
 
-![Air Quality management 2.png](/images/sip/air-quality-management-2.png)
 
-![Slide16](/images/sip/slide16.png)
 
-![Slide18.PNG](/images/sip/slide18.png)
 
-![Slide19](/images/sip/slide19.png)
 
-![einstein 4.png](/images/sip/einstein-4.png)

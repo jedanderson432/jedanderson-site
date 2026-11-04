@@ -17,7 +17,6 @@ Workbreaks!!!
 
 Refinery Tennis!
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-01.gif)
 
 Workbreaks . . .
 
@@ -27,29 +26,19 @@ EnviroAI is designing gaming options for workbreaks, team-building, and creative
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-02.gif)
 
 [DOWNLOAD PROMO](https://r20.rs6.net/tn.jsp?f=001exCwq-Gs7mnFybbOvtgfZlq1fv1K__05J5u3MPmzr0RcSun-nBBNu9mXAHQqBHX8nenS127oW0Fsq8ddkbHo6PtEqiFAzWpyX29-zoxJBc7Da0O96VtQmkd7P8UhlzpGEj2hSwJCpxI0rydMXtxWqxodNwlnoLzBheviKBT6esdcS6t7pRicSStl2F0aJTXmG-HOQPP-M-J19Ruo31NeOwpAWYL9EvALQfDJ3d6Dsyis4X2Za93ToT7AqkectaZ8lB5urIW3bRas1AttkzEYUwRJ-qCKUnvkcjMsEl54Y-GASfsbioUkUhTjTSC4G_D6&c=&ch=)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-03.gif)
 
-[![](/images/posts/best-part-about-working-in-the-enviroverse/img-04.png)](https://r20.rs6.net/tn.jsp?f=001exCwq-Gs7mnFybbOvtgfZlq1fv1K__05J5u3MPmzr0RcSun-nBBNu9mXAHQqBHX8nenS127oW0Fsq8ddkbHo6PtEqiFAzWpyX29-zoxJBc7Da0O96VtQmkd7P8UhlzpGEj2hSwJCpxI0rydMXtxWqxodNwlnoLzBheviKBT6esdcS6t7pRicSStl2F0aJTXmG-HOQPP-M-J19Ruo31NeOwpAWYL9EvALQfDJ3d6Dsyis4X2Za93ToT7AqkectaZ8lB5urIW3bRas1AttkzEYUwRJ-qCKUnvkcjMsEl54Y-GASfsbioUkUhTjTSC4G_D6&c=&ch=)
 
 A metaverse for environmental professionals . . .
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-05.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-06.png)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-07.gif)
 
-[![](/images/posts/best-part-about-working-in-the-enviroverse/img-08.png)](https://r20.rs6.net/tn.jsp?f=001exCwq-Gs7mnFybbOvtgfZlq1fv1K__05J5u3MPmzr0RcSun-nBBNu76sSOLk3r0P_HX__4U8wpsUOI3DzEMcTvXEjI06bfKuhFcjXR7kL8rpd-PU7ji51ZfGRIUs--DGUAzoDbxwQomQhGnYN4VBWBbIRuuolKf2ZV26FF9S86NKzhsBfbOUo8LnPZkkD4DSacCQYAoMO6mb4yuS2mNBGvwW83bwO80h6R7vvPKASaFunZcMxKO2ogaY-olyeiY4P_liSeyKmthVaR6wNWh_gQ==&c=&ch=)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-09.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-10.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-11.gif)
 
 The
 
@@ -75,31 +64,18 @@ EnviroVerse
 
 - Property Assessments
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-12.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-13.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-14.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-15.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-16.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-17.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-18.png)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-19.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-20.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-21.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-22.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-23.gif)
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-24.gif)
 
 ‌
 
@@ -107,6 +83,5 @@ Beta coming!
 
 ﻿Stay tuned!
 
-![](/images/posts/best-part-about-working-in-the-enviroverse/img-25.gif)
 
 ‌

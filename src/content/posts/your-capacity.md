@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 for boldness!
 
-![](/images/posts/your-capacity/img-01.gif)
 
 Be Bold Today!
 
@@ -21,7 +20,6 @@ Your capacity for boldness is much higher than you think.
 
 Bold love. Bold action. Bold faith.
 
-![](/images/posts/your-capacity/img-02.gif)
 
 ---“It’s only by being bold that you get anywhere.” - Richard Branson
 
@@ -29,7 +27,6 @@ Bold love. Bold action. Bold faith.
 
 ---“Fortune favors the bold.” - Virgil
 
-![](/images/posts/your-capacity/img-03.png)
 
 ---“Freedom lies in being bold.” - Robert Frost
 
@@ -41,7 +38,6 @@ Bold love. Bold action. Bold faith.
 
 ---“The bold adventurer succeeds the best.” - Ovid
 
-![](/images/posts/your-capacity/img-04.png)
 
 ---“We need to be visionary; we have to be bold.” - Angela Hunt
 
@@ -51,7 +47,6 @@ Bold love. Bold action. Bold faith.
 
 ---“Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it.” - Johann Wolfgang von Goethe
 
-![](/images/posts/your-capacity/img-05.png)
 
 ---“Originality implies being bold enough to go beyond accepted norms.” - Anthony Storr
 
@@ -65,9 +60,7 @@ Bold love. Bold action. Bold faith.
 
 ---“Be bold enough to use your voice, brave enough to listen to your heart, and strong enough to live the life you’ve imagined." - Anonymous
 
-![](/images/posts/your-capacity/img-06.gif)
 
-![](/images/posts/your-capacity/img-07.gif)
 
 Two projects. More to come.
 
@@ -75,6 +68,5 @@ Two projects. More to come.
 
 ‌
 
-![](/images/posts/your-capacity/img-08.gif)
 
 [Earth Quantum AI Environmental Protection System](http://r20.rs6.net/tn.jsp?f=001C5uits9eEcWi7YSoHUwCQVX4tPU17yh-6_KzLjLkV1HPVyvcRdoLYhytwDvoHf-OoSNdF6Bws7rJm1axgMbOH99lLGSSdzmNyp5FAZPM1PcxsOSGxKnxXZYBHnjq3suADN55PuXE8Qtyyo6LWl7NGQ==&c=&ch=)

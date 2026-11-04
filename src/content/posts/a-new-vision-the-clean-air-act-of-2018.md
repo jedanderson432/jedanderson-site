@@ -11,7 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '> **—-“The ultimate goal must be to end both pollution and environmental law. S****ome call this idealism. I call it pragmatism with an extended timeline.”**—Jed Anderson, Attorney and Clean Air Act Reform Advocate'
 ---
 
-![end pollution and law7](/images/sip/end-pollution-and-law7.jpg)
 
 > **—-“The ultimate goal must be to end both pollution and environmental law.  S****ome call this idealism.  I call it pragmatism with an extended timeline.”**—Jed Anderson, Attorney and Clean Air Act Reform Advocate
 
@@ -22,4 +21,3 @@ On January 1st, Jed Anderson will unveil his latest re-write of the U.S. Clean A
 
 For more information, visit [www.cleanairreform.org](https://cleanairreform.org/about/).
 
-![Clean Air and Climate Change Act of 2018](/images/sip/clean-air-and-climate-change-act-of-2018.jpg)

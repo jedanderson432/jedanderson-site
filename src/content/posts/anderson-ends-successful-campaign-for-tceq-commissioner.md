@@ -15,4 +15,3 @@ abstract: '### *Goal is higher than the position sought*'
 
 I’ve smiled when people thought my ultimate goal was and is to become a TCEQ Commissioner.  The goal is much higher—and it has little to do with me or a position.  A simpler regulatory world is dawning.  The sunshine is peeking through.  It’s going to be a beautiful day.
 
-![commish 3](/images/sip/commish-3.png)

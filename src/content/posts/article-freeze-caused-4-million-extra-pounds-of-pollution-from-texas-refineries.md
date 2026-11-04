@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 WON'T HAPPEN AGAIN . . . Houston Building "The World's Largest Industrial Environmental Treatment Center"
 
-![](/images/posts/article-freeze-caused-4-million-extra-pounds-of-pollution-from-texas-refineries/img-01.gif)
 
 The Freeze . . .
 
@@ -27,7 +26,6 @@ Lots of news articles, [including today's](http://r20.rs6.net/tn.jsp?f=001tg3di2
 
 The World's Largest Industrial Pollution Reduction Project
 
-[![](/images/posts/article-freeze-caused-4-million-extra-pounds-of-pollution-from-texas-refineries/img-02.png)](http://r20.rs6.net/tn.jsp?f=001tg3di2F4Pd_MQEi4WfHxKp4pdswjiNWLmIz8g9ILwVELSYxX1ifxOUIH_Y9jjugdNaK6IGakwZpF6oQzz9yKeWpWlWkm-uXEEeUqqTEigsHhVB1k5TBF100TWHyavqWpRajFymsab4IiDZ3iHv9GIf8DfU2Oyqy7Hw_KOQ5MBhlGTENd_wU4mPpBbirzw3IdYL-8DEgwIplqEqm6fsRD867udjr03xrLbjtBWnzN-88=&c=&ch=)
 
 ﻿HOUSTON, TEXAS
 
@@ -37,4 +35,3 @@ The World's Largest Industrial Pollution Reduction Project
 
 - Jed Anderson, Environmental Attorney & Entrepreneur
 
-![](/images/posts/article-freeze-caused-4-million-extra-pounds-of-pollution-from-texas-refineries/img-03.gif)

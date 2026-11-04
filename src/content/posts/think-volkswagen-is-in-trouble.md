@@ -13,4 +13,3 @@ abstract: 'Wait until the public figures this out. Trillions of dollars in healt
 
 Wait until the public figures this out.  Trillions of dollars in health and economic impacts.
 
-[![Volkswagen and Defeat Device on New Ozone Standard](/images/sip/volkswagen-and-defeat-device-on-new-ozone-standard.jpg)](/images/sip/volkswagen-and-defeat-device-on-new-ozone-standard.jpg)[![True Ozone Standard](/images/sip/true-ozone-standard.png)](/images/sip/true-ozone-standard.png)

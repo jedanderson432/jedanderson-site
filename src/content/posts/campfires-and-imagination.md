@@ -19,7 +19,6 @@ My wife and boys know where I'm at . . .
 
 . . . if they can't find me . . .
 
-![](/images/posts/campfires-and-imagination/img-01.jpg)
 
 . . . I'm running.
 
@@ -27,14 +26,9 @@ My wife and boys know where I'm at . . .
 
 I've got two neighbors on either side of me . . . always walking . . . always I imagine doing the same thing.
 
-![](/images/posts/campfires-and-imagination/img-02.jpg)
 
-![](/images/posts/campfires-and-imagination/img-03.gif)
 
-![](/images/posts/campfires-and-imagination/img-04.png)
 
-![](/images/posts/campfires-and-imagination/img-05.gif)
-![](/images/posts/campfires-and-imagination/img-06.gif)
 
 My run the other day . . .
 
@@ -44,14 +38,9 @@ My runs usually take me to East End Park. I like that park better than my house.
 
 I encounter all kinds of magic and characters on my runs, like my friend Walter "Zaney" Blaney, the famous magician from the 1960's. Walter performed on the Tonight Show, but I bet his best acts were performed walking around East End Park at the age of 91 when I met him, dogs in tow, a helmet on his head from too many falls (his kids insisted) . . . . imagining, dreaming . . . creating even grander illusions. I can only imagine what Walter created out there. Walter died a couple years ago. I miss him. I smile though to think about one of the world's greatest magicians meeting The Great Magician. Just imagine that encounter?! The great terrestrial illusionist meeting the great ethereal illusionist. I'm sure they had a couple laughing exchanges about . . . "oh . . . that's how you did it!"
 
-![](/images/posts/campfires-and-imagination/img-07.png)
 
-![](/images/posts/campfires-and-imagination/img-08.gif)
 
-![](/images/posts/campfires-and-imagination/img-09.png)
 
-![](/images/posts/campfires-and-imagination/img-10.gif)
-![](/images/posts/campfires-and-imagination/img-11.gif)
 
 Which gets me to the story from my run the other day . . .
 
@@ -59,13 +48,10 @@ I'm running through the park. About 5 o'clock. This 7-year-old boy stops me as I
 
 Perhaps this kid will grow up to be a "W" like me ([see my earlier piece](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rdizdiJ9PH3iZPL5MHEJkvhWR-1R3uA9ZVmku-5KWhx_GsMknyKmFZOeSKHlt04eCXoDT_uNc643z6Irf9ty4A0xQ2cTg1eAiw==&c=&ch=)).
 
-![](/images/posts/campfires-and-imagination/img-12.jpg)
 
-![](/images/posts/campfires-and-imagination/img-13.jpg)
 
 Imagination, Children, and the Magic of the Universe
 
-![](/images/posts/campfires-and-imagination/img-14.gif)
 
 ---"Children see magic because they look for it." - Christopher Moore
 
@@ -87,17 +73,12 @@ Imagination, Children, and the Magic of the Universe
 
 ---"The city streets will be filled with boys and girls playing in its streets." - Zechariah 8:5.
 
-![](/images/posts/campfires-and-imagination/img-15.png)
 
-![](/images/posts/campfires-and-imagination/img-16.png)
 
-![](/images/posts/campfires-and-imagination/img-17.gif)
 
 Reality is really, really, really, really big . . . [[Hugh Jackman pointing out in this video](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rUaBnoD30j5PPIEeoblzL30vTVpblYxJE4HeCX7-t5Uzk2Zp0c6eq_bsBYxzTXO9quR7lIdhMvDH3GL4fXlfHbgI5GFAvibNqw==&c=&ch=) how overwhelmingly big reality can ineffably and conspicuously reveal itself at a given moment in time. Reality can get really, really, really big.]
 
-[![](/images/posts/campfires-and-imagination/img-18.gif)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rUaBnoD30j5PPIEeoblzL30vTVpblYxJE4HeCX7-t5Uzk2Zp0c6eq_bsBYxzTXO9quR7lIdhMvDH3GL4fXlfHbgI5GFAvibNqw==&c=&ch=)
 
-![](/images/posts/campfires-and-imagination/img-19.gif)
 
 ﻿Impossibility?
 
@@ -105,12 +86,8 @@ Reality?
 
 ﻿
 
-![](/images/posts/campfires-and-imagination/img-20.gif)
 
-![](/images/posts/campfires-and-imagination/img-21.png)
 
-![](/images/posts/campfires-and-imagination/img-22.gif)
-![](/images/posts/campfires-and-imagination/img-23.gif)
 
 2 questions I ask myself . . . when someone or the world tells me something is impossible (like building a quantum AI machine to protect humanity and nature) . . .
 
@@ -120,12 +97,8 @@ Reality?
 
 It almost always falls out under question #1 before I even get to question #2.
 
-![](/images/posts/campfires-and-imagination/img-24.gif)
 
-![](/images/posts/campfires-and-imagination/img-25.jpg)
 
-![](/images/posts/campfires-and-imagination/img-26.gif)
-![](/images/posts/campfires-and-imagination/img-27.gif)
 
 “Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.”
 
@@ -133,14 +106,9 @@ It almost always falls out under question #1 before I even get to question #2.
 
 ---“It is simply a statement of fact. The Romans could have had the telephone; the Greeks could have had the cinema; the Babylonians could have had the automobile—had they been mentally ready. The laws of nature were the same in those ages as in ours, the same materials were in the ground—but the minds of the Ancients were not ready for those things, and so they had to go without them.” ― Emmet Fox
 
-![](/images/posts/campfires-and-imagination/img-28.gif)
 
-![](/images/posts/campfires-and-imagination/img-29.gif)
 
-![](/images/posts/campfires-and-imagination/img-30.gif)
 
-![](/images/posts/campfires-and-imagination/img-31.gif)
-![](/images/posts/campfires-and-imagination/img-32.gif)
 
 Physically impossible?
 
@@ -148,11 +116,7 @@ Here's the math with my coffee cup thought experiment . . .
 
 Light travels at 186,000 miles/second (approx.1 billion feet/second). If I move my coffee cup one foot away, it's now taken 1 billionth of second longer for the light reflecting off the coffee cup to reach my eyes. Yes, contrary to what my Darwinian-evolved brain is telling me, I'm seeing my coffee as it exists more in the past. I've moved it back in time (in relation to me).
 
-[![](/images/posts/campfires-and-imagination/img-33.png)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rdQdY3fQ1pIFwCcI6JdctMJIXsx0EBfghE-obAHeb4rv4efdJ-qf4Zby5O3gzHsaiJ0bVH4A8xZi5_8HVWzCQht1fzSH56xxyQ==&c=&ch=)
 
-![](/images/posts/campfires-and-imagination/img-34.gif)
-![](/images/posts/campfires-and-imagination/img-35.gif)
-![](/images/posts/campfires-and-imagination/img-36.gif)
 
 Looking Up at Stars is the Same Experiment as My Coffee Cup
 
@@ -160,28 +124,18 @@ When we look up at the stars at night, we are looking at these objects as they e
 
 Assuming there is any distance involved, and as strange as this might seem, whether its coffee cups or stars, you are looking into the past. Space = Time. Time = Space.
 
-![](/images/posts/campfires-and-imagination/img-37.gif)
 
 Increasing Our Scope of Reality and What is Indeed Possible
 
-[![](/images/posts/campfires-and-imagination/img-38.png)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rdQdY3fQ1pIF1EYE6QshHjZ-bq8P-gmTIBHKyPBDY-wNkDWrBE2cmVO9o7t0l1fyuvZxe10JIzDCOOKVZh2BQqOobYxc-BOKa593Ssrw2_aZ&c=&ch=)
 
-[![](/images/posts/campfires-and-imagination/img-39.png)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rdQdY3fQ1pIFsPv1FhOsoNpGpLG91bZUBduo-saJluuD0sLDCvq1WGB_OpG2FZ8UBk_fUQdrDHSHQaeJXnr0jPYkXh7MmMddD4AusyboPreFPLGxHU9aFPo=&c=&ch=)
 
-[![](/images/posts/campfires-and-imagination/img-40.png)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rdQdY3fQ1pIFrID2r8cA0ZQm6_lJqvGUMRxvXBLhlqp8UB_mp9GQe-KyUrl8juRgLqbGzjdFL-d4aKlZJkLXUgoZceFWXcsh1PKsMcN9AAP1YDxz1kTe2T951eUT7VItjdtSuFWiO-0J&c=&ch=)
 
 ‌
 
-![](/images/posts/campfires-and-imagination/img-41.gif)
 
-![](/images/posts/campfires-and-imagination/img-42.gif)
 
-![](/images/posts/campfires-and-imagination/img-43.gif)
 
-![](/images/posts/campfires-and-imagination/img-44.gif)
 
-![](/images/posts/campfires-and-imagination/img-45.gif)
-![](/images/posts/campfires-and-imagination/img-46.gif)
 
 10 "Reality Calisthenics"
 
@@ -211,14 +165,9 @@ Increasing Our Scope of Reality and What is Indeed Possible
 
 FYI - Here's some Richard Feynman "[Fun to Imagine](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rQGjaaAVL-TxdEAAL6gI-j6H9wM_wVqeJfVmASI4TEYnOP2bPgSnur0q5QBjsD29UsbTc4NhUpW5qM326iu4HtO0gH9GXQWi0Xu53nTG5aRbl0HEBtcn91SykzuHRcdXAA==&c=&ch=)" calisthenics that are priceless . . . priceless. Feynman gets such joy out of the magic of creation. It's palpable--and I'll warn you--contagious!
 
-![](/images/posts/campfires-and-imagination/img-47.gif)
 
-![](/images/posts/campfires-and-imagination/img-48.gif)
 
-![](/images/posts/campfires-and-imagination/img-49.jpg)
 
-![](/images/posts/campfires-and-imagination/img-50.gif)
-![](/images/posts/campfires-and-imagination/img-51.gif)
 
 Here's a car game I play with my kids . . .
 
@@ -244,38 +193,28 @@ Simplicity.
 
 ---"We are getting back to where we once belonged . . . the underlying simplicities driving all this rich complexity." - Jed Anderson, EnviroAI
 
-[![](/images/posts/campfires-and-imagination/img-52.png)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rUXUKzpWvFUbGcZ_dpGQKiHwHcodAwZixF6qwgWlVHrlQvmj0wwh9-EknvK71--eQw9GVp07oqo0y0zsXPVuCbB9rpnEx4iOlA==&c=&ch=)
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-[![](/images/posts/campfires-and-imagination/img-53.jpg)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rUXUKzpWvFUbAaNvGQFHF3TXTCVwFaNQd3vbgSKVH4K3f6XuY8LpItkTVOZVBAue2GXKuGEwKFboBHomA4VdX4rAeQsmPYB0Eg==&c=&ch=)
 
-![](/images/posts/campfires-and-imagination/img-54.gif)
 
-![](/images/posts/campfires-and-imagination/img-55.gif)
 
-![](/images/posts/campfires-and-imagination/img-56.gif)
-![](/images/posts/campfires-and-imagination/img-57.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/campfires-and-imagination/img-58.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rRNfLhHFNg726dqOCWS2oJFKhjnU87VvofXndaw_Um0q58YO1dsjp9Idshe8Ytl6TeskhkZ9Bnx5-PHfn0n1USCFNCqmiTqOkJmyKMdpCWr6&c=&ch=)
 
-[![](/images/posts/campfires-and-imagination/img-59.png)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rRNfLhHFNg726dqOCWS2oJFKhjnU87VvofXndaw_Um0q58YO1dsjp9Idshe8Ytl6TeskhkZ9Bnx5-PHfn0n1USCFNCqmiTqOkJmyKMdpCWr6&c=&ch=)
 
 ---"It [the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-![](/images/posts/campfires-and-imagination/img-60.gif)
 
-[![](/images/posts/campfires-and-imagination/img-61.gif)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rYctKkrMrqgDWAKmP59kJKnP9UJalOZZiKeJJxVpQlEKXoQoYwFdl5vpEFJSSTKOOmsx9d76SZpK3wuON6VrOiFpIxg-pnMH9g==&c=&ch=)
 
 ‌
 
@@ -283,30 +222,21 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/campfires-and-imagination/img-62.gif)
 
-![](/images/posts/campfires-and-imagination/img-63.gif)
 
-![](/images/posts/campfires-and-imagination/img-64.gif)
 
-![](/images/posts/campfires-and-imagination/img-65.png)
 
-![](/images/posts/campfires-and-imagination/img-66.gif)
-![](/images/posts/campfires-and-imagination/img-67.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/campfires-and-imagination/img-68.gif)
 
 ‌
 
-[![](/images/posts/campfires-and-imagination/img-69.jpg)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rYctKkrMrqgDWAKmP59kJKnP9UJalOZZiKeJJxVpQlEKXoQoYwFdl5vpEFJSSTKOOmsx9d76SZpK3wuON6VrOiFpIxg-pnMH9g==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the[greatest solo of all time](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rYctKkrMrqgDWAKmP59kJKnP9UJalOZZiKeJJxVpQlEKXoQoYwFdl5vpEFJSSTKOOmsx9d76SZpK3wuON6VrOiFpIxg-pnMH9g==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/campfires-and-imagination/img-70.png)
 
 ---“There is no doubt that creativity is the most important human resource of all. Without creativity, there would be no progress, and we would be forever repeating the same patterns.”—Edward de Bono
 
@@ -338,9 +268,7 @@ I personally think this is the[greatest solo of all time](https://r20.rs6.net/tn
 
 ‌
 
-![](/images/posts/campfires-and-imagination/img-71.gif)
 
-![](/images/posts/campfires-and-imagination/img-72.jpg)
 
 ---"Everything is patterns.
 
@@ -350,13 +278,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/campfires-and-imagination/img-73.gif)
 
-![](/images/posts/campfires-and-imagination/img-74.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/campfires-and-imagination/img-75.gif)
 
 Notes are data. Music is patterns.
 
@@ -368,13 +293,9 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/campfires-and-imagination/img-76.gif)
 
-![](/images/posts/campfires-and-imagination/img-77.jpg)
 
-![](/images/posts/campfires-and-imagination/img-78.jpg)
 
-![](/images/posts/campfires-and-imagination/img-79.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -390,29 +311,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/campfires-and-imagination/img-80.gif)
 
-![](/images/posts/campfires-and-imagination/img-81.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/campfires-and-imagination/img-82.png)
 
-![](/images/posts/campfires-and-imagination/img-83.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/campfires-and-imagination/img-84.gif)](https://r20.rs6.net/tn.jsp?f=0018TvEIJxjPjVkaQA19nxCjBCS0-m3TYKRCCbZKqJ4CylqmUHNu5Y9rYM8cXoO8-nrcyyb-UtwCxAF55SkeZa_UjiKfGgoXS1wBtSfF-qd6FF_ILPYa19I2G2Kue4ya6tym8mVnoBWbw5LBPHqI_Dig0ofpQF70OAHJLoQ4QWd9RUdMayQF1ByTw==&c=&ch=)
 
-![](/images/posts/campfires-and-imagination/img-85.gif)
 
 SIMPLICITY
 
-![](/images/posts/campfires-and-imagination/img-86.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -421,7 +335,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/campfires-and-imagination/img-87.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -434,9 +347,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/campfires-and-imagination/img-88.png)
 
-![](/images/posts/campfires-and-imagination/img-89.png)
 
 Environmental
 
@@ -446,11 +357,9 @@ in the Metaverse
 
 ﻿Using Probabilistic Systems within Probabilistic Systems to Better Understand and Simplify Probabilistic Systems
 
-![](/images/posts/campfires-and-imagination/img-90.png)
 
 ‌
 
-![](/images/posts/campfires-and-imagination/img-91.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -822,6 +731,4 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/campfires-and-imagination/img-92.gif)
 
-![](/images/posts/campfires-and-imagination/img-93.gif)

@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '> **[](/images/sip/mccarthy-and-foreign-pollution.png)Senate Question: According to recent NOAA reports, half of all the current ozone exceedances in many areas in the Western US are due to emissions from Asia.'
 ---
 
-> **[![McCarthy and Foreign Pollution](/images/sip/mccarthy-and-foreign-pollution.png)](/images/sip/mccarthy-and-foreign-pollution.png)Senate Question:   According to recent NOAA reports, half of all the current ozone exceedances in many areas in the Western US are due to emissions from Asia.  How do you plan to address this important problem?**
+> **Senate Question:   According to recent NOAA reports, half of all the current ozone exceedances in many areas in the Western US are due to emissions from Asia.  How do you plan to address this important problem?**
 >
 > **Gina McCarthy Answer**:  “Ozone concentrations can be affected by local, regional, international, and natural sources. EPA analyses indicate that the majority of ozone exceedances within the U.S. are driven primarily by local and regional sources of ozone precursors. For those **rare cases** in which international emissions can be shown to result in a violation of the NAAQS, there is a specific Clean Air Act provision (Section 179B) that can be invoked to ensure those cases do not lead to inappropriate regulatory consequences.”  *(see [link](http://www.epw.senate.gov/public/index.cfm?FuseAction=Files.View&FileStore_id=9a1465d3-1490-4788-95d0-7d178b3dc320), emphasis added).*
 

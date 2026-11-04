@@ -15,7 +15,7 @@ Dear States:
 
 Why are you continuing to punish your own citizens for foreign pollution impacts when Congress and EPA told you that you shouldn’t be responsible for this pollution?
 
-Congress and EPA said that you should not make your own citizens responsible for offsetting foreign pollution impacts—yet you unknowingly, and now [![](/images/sip/foreign-pollution2.png "Foreign Pollution")](/images/sip/foreign-pollution2.png)knowingly, are doing just that:
+Congress and EPA said that you should not make your own citizens responsible for offsetting foreign pollution impacts—yet you unknowingly, and now knowingly, are doing just that:
 
 - **Congress said . . .** “A SIP shall be approved if “the submitting State establishes to the satisfaction of [EPA] that the implementation plan of such State would be adequate to attain [the NAAQS] . . . **but for emissions emanating from outside the United States.”**  (42 USC § 7509a).
 - ***EPA said . . .*** **“Congress clearly wanted to avoid penalizing such areas by not making them responsible for control of emissions emanating from a foreign country over which they have no jurisdiction**.”  (<http://www.epa.gov/ttncaaa1/t1/fr_notices/pm-add.pdf>)

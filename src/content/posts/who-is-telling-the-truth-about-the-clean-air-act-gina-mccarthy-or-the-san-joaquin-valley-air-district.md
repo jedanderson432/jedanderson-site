@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/policy-relevant-background-ozone-and-epa.png)Which is the Truth about Background Pollution?'
 ---
 
-[![Policy Relevant Background Ozone and EPA](/images/sip/policy-relevant-background-ozone-and-epa.png)](/images/sip/policy-relevant-background-ozone-and-epa.png)Which is the Truth about Background Pollution?
+Which is the Truth about Background Pollution?
 
 > **►     “The Clean Air Act does not ask States to reduce background levels.”—Gina McCarthy, U.S. EPA Administrator (Congressional Testimony, April 2, 2014,  see [link](http://sipreform.wordpress.com/2014/04/10/gina-mccarthy-and-congress-talk-foreign-pollution/))**
 >

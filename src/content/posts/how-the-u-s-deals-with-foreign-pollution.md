@@ -13,7 +13,7 @@ abstract: 'Japan –'
 
 Japan –
 
-[![Foreign Pollution](/images/sip/foreign-pollution1.png)](/images/sip/foreign-pollution1.png)Sorry to hear that China’s pollution is apparently killing your trees (*see* New York Times [article](http://www.nytimes.com/2013/04/25/world/asia/japanese-scientist-blames-china-for-yakushimas-dying-trees.html?pagewanted=all&_r=0 "China and Japan - Air Pollution")).
+Sorry to hear that China’s pollution is apparently killing your trees (*see* New York Times [article](http://www.nytimes.com/2013/04/25/world/asia/japanese-scientist-blames-china-for-yakushimas-dying-trees.html?pagewanted=all&_r=0 "China and Japan - Air Pollution")).
 
 Here is how we handle this problem in our country:
 

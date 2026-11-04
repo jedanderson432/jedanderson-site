@@ -12,7 +12,6 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: 'I solved one of our nation’s biggest challenges.'
 ---
 
-![solved it](/images/sip/solved-it.jpg)
 
 I solved one of our nation’s biggest challenges.
 

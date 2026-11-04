@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/california-citizens-paying-fine-for-foreign-pollution.png)Most of the time in our society we do not penalize someone until they are found guilty. Here it is the opposite.'
 ---
 
-[![California Citizens Paying Fine for Foreign Pollution](/images/sip/california-citizens-paying-fine-for-foreign-pollution.png)](/images/sip/california-citizens-paying-fine-for-foreign-pollution.png)Most of the time in our society we do not penalize someone until they are found guilty.  Here it is the opposite.  The Clean Air Act says to the local community that you didn’t achieve the standard and it’s your fault (Section 185).  It’s then up to the community to prove otherwise.  In the meantime you will be fined $29 million per year.
+Most of the time in our society we do not penalize someone until they are found guilty.  Here it is the opposite.  The Clean Air Act says to the local community that you didn’t achieve the standard and it’s your fault (Section 185).  It’s then up to the community to prove otherwise.  In the meantime you will be fined $29 million per year.
 
 Will the Valley return part or all of the $29 million per year in Section 185 fees to its citizens once they prove that failing to achieve attainment was not entirely local citizen’s fault (e.g. Section 179B) (see [article](http://www.bakersfieldcalifornian.com/local/x1612516928/Valley-air-pollution-Made-in-China "Clean Air Act, China, California, Pollution"))?  I assume the Valley will since this is the right thing to do.  Can’t keep people’s money when it shouldn’t have been taken in the first place.
 

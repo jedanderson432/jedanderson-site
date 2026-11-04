@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](https://www.youtube.com/watch?v=ws8vIqkMh44)Anyone see Derek Redmond run in the 1992 Olympics? (click on Youtube video)'
 ---
 
-[![Clean Air Act and Health](/images/sip/clean-air-act-and-health1.png)](https://www.youtube.com/watch?v=ws8vIqkMh44)Anyone see Derek Redmond run in the 1992 Olympics? (click on [Youtube video](https://www.youtube.com/watch?v=ws8vIqkMh44))
+Anyone see Derek Redmond run in the 1992 Olympics? (click on [Youtube video](https://www.youtube.com/watch?v=ws8vIqkMh44))
 
 He didn’t win a medal.  He just wouldn’t quit.
 

@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Exxon . . . Shell . . . Chevron . . .
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-01.gif)
 
 PROTECTING
 
@@ -27,13 +26,9 @@ Chevron?
 
 WHO'S THE BEST?
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-02.gif)
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-03.gif)
 
-[![](/images/posts/who-has-the-best-environmental-protection-system/img-04.gif)](http://r20.rs6.net/tn.jsp?f=001Zux90kd6ddmWnV3b3lASLHzveEYSJgE77NcT_-kPO4wlMv2hJdd5oKqxfgKDjLXea1RCA0zvtrHDZ5WuFh2TF1cwaw8xX1vlduP6to9n1BmVZ01eHwkzN8wwZeKZKotGjvRdfi1ev8XyLYHzmmeP-Q==&c=&ch=)
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-05.gif)
 
 EnviroAI's system is now undeniably the industry leader in protecting air quality and neighborhoods.
 
@@ -45,7 +40,6 @@ Want to be the best at protecting neighborhoods and the environment?
 
 Get the best!
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-06.gif)
 
 Purchasing EnviroAI apps is simple, fast, and easy!
 
@@ -55,14 +49,9 @@ Purchasing EnviroAI apps is simple, fast, and easy!
 
 SHOP THE APP STORE [NOW](http://r20.rs6.net/tn.jsp?f=001Zux90kd6ddmWnV3b3lASLHzveEYSJgE77NcT_-kPO4wlMv2hJdd5oKqxfgKDjLXea1RCA0zvtrHDZ5WuFh2TF1cwaw8xX1vlduP6to9n1BmVZ01eHwkzN8wwZeKZKotGjvRdfi1ev8XyLYHzmmeP-Q==&c=&ch=)!
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-07.gif)
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-08.gif)
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-09.png)
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-10.gif)
 
 This is an advertisement for EnviroAI
 
-![](/images/posts/who-has-the-best-environmental-protection-system/img-11.gif)

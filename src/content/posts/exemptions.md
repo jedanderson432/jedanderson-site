@@ -13,23 +13,18 @@ original_source: "Constant Contact campaign"
 
 Ceres finds thousands
 
-![](/images/posts/exemptions/img-01.gif)
 
 Exemption?
 
-![](/images/posts/exemptions/img-02.gif)
 
 Ceres AI has thousands of examples of exemptions, alternatives, and substitutes for environmental requirements.
 
-![](/images/posts/exemptions/img-03.gif)
 
-![](/images/posts/exemptions/img-04.gif)
 
 --"Some companies essentially pay $1 to comply. Others pay $100. It's like the tax code."
 
 -Jed Anderson, Creator of Ceres AI
 
-![](/images/posts/exemptions/img-05.gif)
 
 Querying Ceres AI produces . . .
 
@@ -47,22 +42,17 @@ Querying Ceres AI produces . . .
 
 - 147,096 = "alternative"
 
-![](/images/posts/exemptions/img-06.gif)
 
 --"Keep your money. Spend more of it on substantive environmental improvements or feeding your employees. Re-focus your spending on what's critical."
 
 -Jed Anderson, Creator of Ceres AI
 
-![](/images/posts/exemptions/img-07.gif)
 
 ﻿INTELLIGENCE.DATA. POWER. SPEED
 
-![](/images/posts/exemptions/img-08.png)
 
-![](/images/posts/exemptions/img-09.gif)
 
 [Purchase Ceres AI with your credit card and begin using it immediately to find cost-savings.](http://r20.rs6.net/tn.jsp?f=0013h7asUPQJCVFpyef9G4WLU0TY6zwfOwxvjuFqkcyOklNs2veZu27n8djcCa2Dz1ATJl0kmtwRMoLxCgaWlzrF9F8jVw4Bd2WYqdCcVoNksvIWvDGXT_rAYOkVRKtCjhz5Tfwwjw4es07UdR_Z5DAuJNUk22h1BbWA9mQFF8O3mE=&c=&ch=)
 
-![](/images/posts/exemptions/img-10.gif)
 
 This is an advertisement for Ceres AI LLC

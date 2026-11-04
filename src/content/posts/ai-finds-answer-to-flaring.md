@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Saving companies millions of dollars in the Houston Ship Channel area and reducing hundreds of tons of additional pollution
 
-![](/images/posts/ai-finds-answer-to-flaring/img-01.gif)
 
 Houston Flares all going off at same time?
 
@@ -23,7 +22,6 @@ The emergency flares in Houston have never gone off all at the same time . . . y
 
 ﻿AI has helped identify this as a huge financial and environmental opportunity for companies in the Houston Ship Channel Region to consolidate flaring, increase energy and materials recovery, increase operational efficiency, decrease liability and environmental footprints, and decrease costs. Just the fact of not running supplemental gas to all these flares in the region is gigantic from a cost and environmental benefit standpoint.
 
-![](/images/posts/ai-finds-answer-to-flaring/img-02.gif)
 
 Reduce flares.
 

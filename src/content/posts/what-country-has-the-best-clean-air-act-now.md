@@ -11,7 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: 'The new Canadian system is still too complicated though. Let’s do them one better!'
 ---
 
-![Canada vs. U.S. - - - - Who's Got the Better Air Quality Management System](/images/sip/canada-vs-u-s-whos-got-the-better-air-quality-management-system.png)
 
 The new Canadian system is still too complicated though.  Let’s do them one better!
 

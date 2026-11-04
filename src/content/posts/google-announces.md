@@ -21,9 +21,7 @@ Google and Standford just announced [perhaps the greatest scientific discovery o
 
 I CANNOT OVEREMPHASIZE TO YOU WHAT QUANTUM COMPUTING/SENSING/COMMUNICATION WILL LIKELY MEAN TO UNDERSTANDING AND PROTECTING PROBABILISTIC SYSTEMS LIKE THE ENVIRONMENT. That is why the Quantum AI Environmental Protection machine we are building at EnviroAI will rely so heavily on this technology.
 
-[![](/images/posts/google-announces/img-01.png)](https://r20.rs6.net/tn.jsp?f=001pvecTbzgDEBdELsHR-OdhFHmh4ulyai-08gadLvpBdoXAgy98dlHn2ADCCbgtR3bPZTcIuXXp0zPvqccPvdncuG03qz_rI12iDZcSXa_z-3SSTr3DnkT7VjV0XVPQFLnWeYFw3nyrmVn_Wd5rCzEyLvL3UJtS6fslJg4KRIxwUQkrRdr1rDMkKWg0XZrHL9CQr55oQcUAGzNngcQV0RZvtHivUZwnmZBCiQ1tr3sr16zN20urYbFoA==&c=&ch=)
 
-![](/images/posts/google-announces/img-02.gif)
 
 Quantum AI Protection System
 
@@ -31,9 +29,7 @@ Quantum AI Protection System
 
 ---“We are beginning now to be able to simulate how nature really works—the probabilistic nature of reality that underlies classically observed systems.”- Jed Anderson
 
-![](/images/posts/google-announces/img-03.gif)
 
-![](/images/posts/google-announces/img-04.gif)
 
 BUILDING
 
@@ -47,36 +43,24 @@ AI & QUANTUM
 
 TECHNOLOGIES
 
-[![](/images/posts/google-announces/img-05.gif)](https://r20.rs6.net/tn.jsp?f=001pvecTbzgDEBdELsHR-OdhFHmh4ulyai-08gadLvpBdoXAgy98dlHn9nlvs6QJ8MnvS0vpZcxbk1FAxLVRUtMRBl-WxHAGYaTa0L5ejcuR_Tkz0BccqEXkH9NChtrgB0OkcGQnyEyPO-_GQMzKeFv-A==&c=&ch=)
 
 ‌
 
 [Approach (click here)](https://r20.rs6.net/tn.jsp?f=001pvecTbzgDEBdELsHR-OdhFHmh4ulyai-08gadLvpBdoXAgy98dlHn6SYWSpXNOmDqME3W9x0IDI0wgvovUjBSqRU-siAxD2em4KEJ9Lf2TAnkDAkSyAxMHcdiZmmTXq_3NxCH7QSvh6FL0ETzLg3fX--ST4a5VHFqucZ_pIWe_NrObZ5HVb728-xnLcRP3qn5dBxgc049MJJdGo-5QR6MCMB59zyfKEWZ0a5DCtzugQ=&c=&ch=)
 
-![](/images/posts/google-announces/img-06.gif)
 
-![](/images/posts/google-announces/img-07.gif)
 
 [Game-Plan (click here)](https://r20.rs6.net/tn.jsp?f=001pvecTbzgDEBdELsHR-OdhFHmh4ulyai-08gadLvpBdoXAgy98dlHnyup5tdjrbGfkJDTjuCjiEQdAjjr3SRHOCBjuoeFniwS_FUdZdNvCPNr2PW1nxf-n6QJXBMHiq689bHLjG36scVvWmGEcJzsM26jrJyYAkQzS8_EP_yk_XMY2x7cDdQI8OYamGG9QzusTCoqucreJVSV-mPjBrw4VsQQF3yIkA5oB7NMlYia82g=&c=&ch=)
 
-![](/images/posts/google-announces/img-08.gif)
 
-![](/images/posts/google-announces/img-09.gif)
 
-![](/images/posts/google-announces/img-10.gif)
 
 ---"The earth is what we all have in common.”
 
 —Wendell Berry
 
-![](/images/posts/google-announces/img-11.gif)
 
-[![](/images/posts/google-announces/img-12.png)](https://r20.rs6.net/tn.jsp?f=001pvecTbzgDEBdELsHR-OdhFHmh4ulyai-08gadLvpBdoXAgy98dlHn9nlvs6QJ8MnvS0vpZcxbk1FAxLVRUtMRBl-WxHAGYaTa0L5ejcuR_Tkz0BccqEXkH9NChtrgB0OkcGQnyEyPO-_GQMzKeFv-A==&c=&ch=)
 
-![](/images/posts/google-announces/img-13.gif)
 
-![](/images/posts/google-announces/img-14.gif)
 
-![](/images/posts/google-announces/img-15.gif)
 
-![](/images/posts/google-announces/img-16.gif)

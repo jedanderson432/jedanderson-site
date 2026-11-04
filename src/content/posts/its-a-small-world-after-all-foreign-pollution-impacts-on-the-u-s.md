@@ -11,7 +11,6 @@ tags: ['clean-air-act']
 abstract: 'Scientists are predicting that pollution changes outside the United States may have as much of an impact on our health and economy as pollution changes made inside the United States:'
 ---
 
-![](https://i0.wp.com/www.toomanymornings.com/wp-content/uploads/2010/11/its-a-small-world-after-all.jpg "It's A Small World After All:  Ozone Pollution")
 
 Scientists are predicting that pollution changes outside the United States may have as much of an impact on our health and economy as pollution changes made inside the United States:
 

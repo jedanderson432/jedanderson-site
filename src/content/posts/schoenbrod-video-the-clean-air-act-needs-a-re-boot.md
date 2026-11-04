@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](https://www.youtube.com/watch?v=h28rkihZRC0)A couple quotes from this great video that Professor David Schoenbrod recently put together:'
 ---
 
-[![Clean Air Act](/images/sip/clean-air-act.png)](https://www.youtube.com/watch?v=h28rkihZRC0)A couple quotes from this great video that Professor David Schoenbrod recently put together:
+A couple quotes from this great video that Professor David Schoenbrod recently put together:
 
 > - **“[The Clean Air Act] prevents the EPA from saving more lives.”**
 > - **“Air pollution is no longer a local problem, but the Act is based on the assumption that it is.”**

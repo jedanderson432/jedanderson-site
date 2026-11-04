@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 The Environmental Matrix
 
-![](/images/posts/mr-anderson/img-01.gif)
 
 ---"A-C-T-G . . . it's code."
 
@@ -23,15 +22,11 @@ The Environmental Matrix
 
 ---"Qubits . . . it's code."
 
-![](/images/posts/mr-anderson/img-02.png)
 
-![](/images/posts/mr-anderson/img-03.gif)
 
 ‌
 
-![](/images/posts/mr-anderson/img-04.gif)
 
-![](/images/posts/mr-anderson/img-05.jpg)
 
 ---"The environment is running code. The code creates a beautiful reality, and of course I believe the reality is 'real'.
 
@@ -39,19 +34,16 @@ The key to protecting the environment is to get this code and information talkin
 
 - Jed Anderson, EnviroAO
 
-![](/images/posts/mr-anderson/img-06.jpg)
 
 ---"Nature isn't classical dammit. And if you want to make a simulation of nature, you'd better make it quantum mechanical."
 
 - Richard Feynman
 
-![](/images/posts/mr-anderson/img-07.jpg)
 
 Can we create a system where we will no longer need to "dodge environmental bullets"?
 
 YES WE CAN.
 
-![](/images/posts/mr-anderson/img-08.gif)
 
 ‌
 

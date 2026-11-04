@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/legal.jpg)One of the central focuses of the Congressional Clean Air Act Forums so far has been the crazy amount of litigation on air quality matters.'
 ---
 
-[![](/images/sip/legal.jpg "legal")](/images/sip/legal.jpg)One of the central focuses of the Congressional Clean Air Act Forums so far has been the crazy amount of litigation on air quality matters.  At one point the question came up about what we could do to reduce litigation.  The room was silent.
+One of the central focuses of the Congressional Clean Air Act Forums so far has been the crazy amount of litigation on air quality matters.  At one point the question came up about what we could do to reduce litigation.  The room was silent.
 
 Here is the answer.
 

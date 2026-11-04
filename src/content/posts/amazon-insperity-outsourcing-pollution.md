@@ -17,37 +17,25 @@ Amazon is obsessed with [data](http://r20.rs6.net/tn.jsp?f=0012HrLwKPL4cdCMoqKr7
 
 Decisions just track the [data](http://r20.rs6.net/tn.jsp?f=0012HrLwKPL4cdCMoqKr7XSVupOPN51-H_wx7pFewBGP8Q71ixLUTbiNp40ZEkTVImoR5fCGhNHvgBhtfUMHoXKXbvM1mTZygZbiEas_thJePzXhYuo9qhE1kb7D82LwfoiZudX1MYm9yqjaFCqNt4uJjZPXLdfM_OwI1PJkQBzn7JRK5YiJrNMXgbfAd-1DGC8fwtdVE2tvCvzj4zjjPbhSdEaQNGVo8LJMgVVR3qpyWdKEwtGpx85Cw5VBqXIlg_8uZavQ01Yhd90nDBNHq2IgV93YPTw2m7nbg18JQEVu7Jt3hlpaQXkrISlkRSwHM4Gy9pl-Wlwbv8GQbaxeCCzM8Q0w_duVHI2SDd-uwSTEXh5ltpZ4sHSwwDaKKs3BYT_ArQEFVuM5ppdlcrHt1wb0LNvDLpkmgarC6waOkZW8YCS3gErup-MTTAm7p9O4dk_xmTzuSew_4U1TBB4g0Ri9qMh8cBlmORG1kD9FSbuRJaI1fPmz66zgg==&c=&ch=). No hunches. No intuition. No adherence to a past decision. A decision made 3 seconds ago changes if the [data](http://r20.rs6.net/tn.jsp?f=0012HrLwKPL4cdCMoqKr7XSVupOPN51-H_wx7pFewBGP8Q71ixLUTbiNp40ZEkTVImo_AjT2N3TCPT60eY6KLPliyPli45F2pOedumHWuLMVlP-lGE64UqieoDH7Eh4-d55FIf6oqc6OwSdb5DnWy8S3gLaWSgj_ox8Ni5ItGxMaGs=&c=&ch=) no longer supports it. Amazon has an expression, "In God we trust . . . all others bring data". Data is why they make billions of dollars. Egos are set aside. Personal agendas are set aside. Custom and tradition is set aside. It's just one simple business model . . . "follow the data", and if the decision no longer tracks the data . . . then change the decision. It makes for very dynamic and vibrant business model.
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-01.gif)
 
 Is there a data-driven petrochemical company?
 
 I have not found a petrochemical company with the same level of passion and adherence to data as Amazon--or interest in becoming a data-driven company from an environmental cost and compliance perspective. But I will keep looking.
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-02.gif)
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-03.gif)
 
-[![](/images/posts/amazon-insperity-outsourcing-pollution/img-04.png)](http://r20.rs6.net/tn.jsp?f=0012HrLwKPL4cdCMoqKr7XSVupOPN51-H_wx7pFewBGP8Q71ixLUTbiNkFXCSMlgU899mCDpbLWHkif9Lj_VU2UWwjZdVtTiylVK_E1lXnnCFFlxMTUIX3fH6MH4taHjzxUN7PUYZZf8Ap-7_5spMhdZW1GbyLyZuL4IflM-gAqrfJP1QEYwm1y1mbaG8kep-gps9PB2CUzp1e3-Kpng3xqqDmI1Ybz2deiypQyrKELhQY=&c=&ch=)
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-05.gif)
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-06.gif)
 
 What does the data say about facilities in this region continuing to operate flares, wastewater treatment plants, and treating their own pollution on-site?
 
 If companies in this region looked at data they would see its cheaper now to outsource pollution treatment.
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-07.gif)
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-08.gif)
 
-[![](/images/posts/amazon-insperity-outsourcing-pollution/img-09.png)](http://r20.rs6.net/tn.jsp?f=0012HrLwKPL4cdCMoqKr7XSVupOPN51-H_wx7pFewBGP8Q71ixLUTbiNkFXCSMlgU899mCDpbLWHkif9Lj_VU2UWwjZdVtTiylVK_E1lXnnCFFlxMTUIX3fH6MH4taHjzxUN7PUYZZf8Ap-7_5spMhdZW1GbyLyZuL4IflM-gAqrfJP1QEYwm1y1mbaG8kep-gps9PB2CUzp1e3-Kpng3xqqDmI1Ybz2deiypQyrKELhQY=&c=&ch=)
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-10.gif)
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-11.gif)
 
 I love Insperity's business model. Here is an Insperity article entitled "how to outsource everything".
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-12.png)
 
 How to outsource everything: A business owner’s guide
 
@@ -150,6 +138,5 @@ The outsourcing model can be a major resource for companies who implement and ut
 
 Additional contributor: Rodney Satterwhite, MBA
 
-![](/images/posts/amazon-insperity-outsourcing-pollution/img-13.gif)
 
 [Treatment Center Project Details](http://r20.rs6.net/tn.jsp?f=0012HrLwKPL4cdCMoqKr7XSVupOPN51-H_wx7pFewBGP8Q71ixLUTbiNkFXCSMlgU899mCDpbLWHkif9Lj_VU2UWwjZdVtTiylVK_E1lXnnCFFlxMTUIX3fH6MH4taHjzxUN7PUYZZf8Ap-7_5spMhdZW1GbyLyZuL4IflM-gAqrfJP1QEYwm1y1mbaG8kep-gps9PB2CUzp1e3-Kpng3xqqDmI1Ybz2deiypQyrKELhQY=&c=&ch=)

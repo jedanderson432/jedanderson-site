@@ -27,8 +27,6 @@ This will be an anonymous forum. Please do not say your name or what company you
 
 [Click Here at 8:00 am cst on Tuesday](http://r20.rs6.net/tn.jsp?f=001bsxBlmD0xzPQY3RNBRhCPLnbZmJVpAB0rt8svIHGyDKhcby4EZTOmnfuryv5fRooTrzx7FzOKE0L7T6SJNcKOXHV6pT2MrJn7ioapbbHHh04MaKBxGc24Qb-brWfAR5JJFULEDQJ9Qi99Hq1WtOQbcGi16vjBM5b&c=&ch=)
 
-![](/images/posts/environmental-forum-support-group/img-01.gif)
 
 All will be well. All is well.
 
-![](/images/posts/environmental-forum-support-group/img-02.gif)

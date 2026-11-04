@@ -15,7 +15,6 @@ Computer-Written Environmental Professional Work
 
 ---"This is highly, highly disruptive . . . but incredible."
 
-![](/images/posts/disruptive-but-incredible/img-01.gif)
 
 Computer-Written Environmental Professional Work
 
@@ -23,7 +22,6 @@ EnviroAI is starting with Phase 1 environmental professional work. Other work is
 
 Natural Language Generation models such as [T-NLG](http://r20.rs6.net/tn.jsp?f=001qZpt_ZyzvUn9GTuBEkAYVKUNIC4m8rlJU-poGKSeWRalFwI72-LYCSxawiOW6KhKEO2tNRPxH-L1TuYOlDZppz_msfPukS762GdGuKdP6hpLXZUOcqgX3Os3DBFmOb_JuomilYo7hBc=&c=&ch=) and [GPT-3](http://r20.rs6.net/tn.jsp?f=001qZpt_ZyzvUn9GTuBEkAYVKUNIC4m8rlJU-poGKSeWRalFwI72-LYCSxawiOW6KhKe8UMZkxw4-mMPiFG470JydZWJku__KK9LR2uE_Cq4CNF2LrASHt98e8qkyPkEy8EukHDg_86dk9vqvVEMASQmxhBZQlxNDnj&c=&ch=) have advanced to the point where we can auto generate significant portions of Phase 1 reports. Our biggest challenge has been developing the underlying geospatial capabilities. We are almost there (see example screenshot below).
 
-![](/images/posts/disruptive-but-incredible/img-02.gif)
 
 Early implementer?
 
@@ -31,14 +29,9 @@ Investor?
 
 [Contact Us](mailto:ceres@enviro.ai)
 
-![](/images/posts/disruptive-but-incredible/img-03.gif)
 
-![](/images/posts/disruptive-but-incredible/img-04.gif)
 
-![](/images/posts/disruptive-but-incredible/img-05.gif)
 
 This is an advertisement for EnviroAI
 
-![](/images/posts/disruptive-but-incredible/img-06.gif)
 
-![](/images/posts/disruptive-but-incredible/img-07.gif)

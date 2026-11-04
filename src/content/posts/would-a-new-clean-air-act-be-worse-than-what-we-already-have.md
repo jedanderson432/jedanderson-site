@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/twain-and-clean-air-act.png)Many people don’t want to change the Clean Air Act because they think that whatever we get from Congress will be worse than what we already have.'
 ---
 
-[![Twain and Clean Air Act](/images/sip/twain-and-clean-air-act.png)](/images/sip/twain-and-clean-air-act.png)Many people don’t want to change the Clean Air Act because they think that whatever we get from Congress will be worse than what we already have.
+Many people don’t want to change the Clean Air Act because they think that whatever we get from Congress will be worse than what we already have.
 
 - **Who has made a change for the worse in their life?**
 - **Who has made a change for the better?**

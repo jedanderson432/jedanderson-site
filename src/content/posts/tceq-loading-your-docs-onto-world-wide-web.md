@@ -12,9 +12,7 @@ tags: ["clean-air-act", "regulatory-reform", "tceq", "legal-reform", "linkedin-o
 abstract: "![](https://media.licdn.com/mediaC5112AQGzf63eB8id_A) ![](https://media.licdn.com/dms/image/v2/C5112AQHuFvISfSsRCg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1520170265347?e=1779926400&v=beta&t=S0jHf_lBkSw…"
 ---
 
-![](https://media.licdn.com/mediaC5112AQGzf63eB8id_A)
 
-![](https://media.licdn.com/dms/image/v2/C5112AQHuFvISfSsRCg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1520170265347?e=1779926400&v=beta&t=S0jHf_lBkSwXKRV43QShLyNF7TJqH9TQH3UYtKMTwmM)
 
 The public, environmental groups, plaintiff's attorneys, and others are beginning to gain access to files that previously required a TCEQ Open Records request or a physical trip to a TCEQ file room (*see* [TCEQ File Room On-Line](http://allawgp.us3.list-manage.com/track/click?u=611347db42afb8e0ce5722866&id=4223130ca1&e=56e28f7229))  
    
@@ -64,4 +62,3 @@ ASLER  and other innovative AL Law Group "Environmental Legal Products", along w
 
 To begin your ASLER service to help reduce costs and liabilities associated with increasingly available and visible agency submissions, please contact the AL Law Group at (281) 852-8064 or visit our website at [www.allawgp.com](http://www.allawgp.com).
 
-![](https://media.licdn.com/dms/image/v2/C5112AQGWFhgeoL0WSA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1520190600386?e=1779926400&v=beta&t=zMp3ZhTmMilEYJEnlFC5J9qIBYomoBtDsZmHO_vMMt0)

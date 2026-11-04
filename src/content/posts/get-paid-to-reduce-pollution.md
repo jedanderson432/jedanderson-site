@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 New entrepreneurial investment to pay companies for reducing polllution--"EnviroMonetizers"
 
-![](/images/posts/get-paid-to-reduce-pollution/img-01.gif)
 
 Get Paid to Reduce Pollution!
 
@@ -39,21 +38,17 @@ Ceres AI has a list of all sources in Texas and data showing which sources can b
 
 ---"We see tens of millions of dollars of opportunity in EnviroMonetizers--and just another fun way to use the intelligence in Ceres AI to reduce pollution and help people." --Jed Anderson, AL Investments and Creator of Ceres AI
 
-![](/images/posts/get-paid-to-reduce-pollution/img-02.png)
 
 Call us at 832-428-4257 or send an email to info@allawgp.com
 
 ﻿
 
-![](/images/posts/get-paid-to-reduce-pollution/img-03.gif)
 
 More powers on the way!
 
 Check out these new environmental artificial intelligence applications.
 
-[![](/images/posts/get-paid-to-reduce-pollution/img-04.png)](http://r20.rs6.net/tn.jsp?f=001qj8qHbdvsGV0zypBFPC7pOFkGgNuVBVruV0jaMl9Y4nmTRmRCBPfMowvoWXriHX6pZr9jaaRzNcUmV87nI2MbI3ZTOCELt-O1QeDuIf9pQF3yJYdoPCMiZbV_17O1569qL_--nqxBldwe6BMyeEiYQ==&c=&ch=)
 
-![](/images/posts/get-paid-to-reduce-pollution/img-05.gif)
 
 - "Air AI" - Assists customers with preparing air permit packages.
 
@@ -69,6 +64,5 @@ Purchase Ceres AI today. Use immediately. Be the first in line to experience the
 
 [Click here to begin using Ceres AI](http://r20.rs6.net/tn.jsp?f=001qj8qHbdvsGV0zypBFPC7pOFkGgNuVBVruV0jaMl9Y4nmTRmRCBPfMqV4t4j8yG7i9rxBT7LDNsD_U_8KBB7WzOmB2lPZ3qOqhTvp_j8YKkyiVJ0jZRoTOguRdu1euzorcy5fFQEyfGUxhg-m1SMuiZWdvzwNSW1w0DqISxECMgg=&c=&ch=)
 
-![](/images/posts/get-paid-to-reduce-pollution/img-06.gif)
 
 This is an advertisement for Ceres AI LLC

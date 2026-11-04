@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Again . . . how did I get through the educational system without learning this?
 
-[![](/images/posts/bells-inequality-theorem/img-01.jpg)](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTNxna5viPR6LEAKIWkOQbY7ufTF7rwWXyi6nyBGqwX0A1BlffCax00tGT0PmJqU7VOR0lDJ5aI-f5Hg-QUZ-bjZU2wCLwBdjPVZnxO7h07vZDQJp-79c-1OZWUFAw5ZBhw==&c=&ch=)
 
 Bell's Inequality Theorem is not advanced physics . . . its basic physics . . .
 
@@ -31,9 +30,7 @@ Let's pursue truth . . . even if it makes us uncomfortable.
 
 - Jed Anderson
 
-![](/images/posts/bells-inequality-theorem/img-02.gif)
 
-![](/images/posts/bells-inequality-theorem/img-03.gif)
 
 PHYSICS
 
@@ -70,11 +67,8 @@ The continual iconoclastic evolution in our understanding . . .
 
 - \_\_\_\_\_\_ Physics ("Post-Modern" Physics)(\_\_\_\_)?
 
-![](/images/posts/bells-inequality-theorem/img-04.gif)
 
-![](/images/posts/bells-inequality-theorem/img-05.jpg)
 
-![](/images/posts/bells-inequality-theorem/img-06.gif)
 
 COSMOLOGY
 
@@ -86,58 +80,34 @@ The continual iconoclastic evolution in our understanding . . .
 - Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925"The day we discovered the universe"]
 - Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_?
 
-![](/images/posts/bells-inequality-theorem/img-07.gif)
 
-![](/images/posts/bells-inequality-theorem/img-08.jpg)
 
-![](/images/posts/bells-inequality-theorem/img-09.jpg)
 
-![](/images/posts/bells-inequality-theorem/img-10.jpg)
 
-![](/images/posts/bells-inequality-theorem/img-11.jpg)
 
-![](/images/posts/bells-inequality-theorem/img-12.jpg)
 
-![](/images/posts/bells-inequality-theorem/img-13.jpg)
 
 . . . "To think that our big bang was the only bang would seem at this point to me to be a bit narrow-minded, anthropocentric, andin contradiction to the continual iconoclastic evolution in our cosmological understanding."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/bells-inequality-theorem/img-14.png)
 
-![](/images/posts/bells-inequality-theorem/img-15.png)
 
 ‌
 
-![](/images/posts/bells-inequality-theorem/img-16.gif)
 
-![](/images/posts/bells-inequality-theorem/img-17.gif)
 
-[![](/images/posts/bells-inequality-theorem/img-18.png)](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTEIf3EkoE_0IRLejb_wlUCq4fZhI_b9DTCUBC5BiUeegbfwpJay2ftGjwFbAgTg-OZMDlNxB1vGQzHLdUeCGcNlOEWRy3InI95WvL_GRdOBMHooy9rNf5K9i3jxroxsdyJxtQD6fwRh52j7lfiFBmIt8b5qud7zr9A==&c=&ch=)
 
-![](/images/posts/bells-inequality-theorem/img-19.gif)
-![](/images/posts/bells-inequality-theorem/img-20.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTNQDKTnDZPGhQwNryxQUxa6EmWd3OCHOOLz9r7l0_kvSkGt3b-TkAFsDdzR_iYZpvjsvUPuSi2F4CxyB-pxIxqxZpjUgopCPMQ==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/bells-inequality-theorem/img-21.gif)
 
-![](/images/posts/bells-inequality-theorem/img-22.gif)
 
-[![](/images/posts/bells-inequality-theorem/img-23.png)](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTEIf3EkoE_0IRLejb_wlUCq4fZhI_b9DTCUBC5BiUeegbfwpJay2ftGjwFbAgTg-OZMDlNxB1vGQzHLdUeCGcNlOEWRy3InI95WvL_GRdOBMHooy9rNf5K9i3jxroxsdyJxtQD6fwRh52j7lfiFBmIt8b5qud7zr9A==&c=&ch=)
 
-![](/images/posts/bells-inequality-theorem/img-24.gif)
-![](/images/posts/bells-inequality-theorem/img-25.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001jXXcrSVJQmbM23IiqC7WxeQoFxe-wrRufcUibuin0NHhxbz22hyeTEIf3EkoE_0IRLejb_wlUCq4fZhI_b9DTCUBC5BiUeegbfwpJay2ftGjwFbAgTg-OZMDlNxB1vGQzHLdUeCGcNlOEWRy3InI95WvL_GRdOBMHooy9rNf5K9i3jxroxsdyJxtQD6fwRh52j7lfiFBmIt8b5qud7zr9A==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/bells-inequality-theorem/img-26.gif)
 
-![](/images/posts/bells-inequality-theorem/img-27.gif)
 
-![](/images/posts/bells-inequality-theorem/img-28.png)
 
-![](/images/posts/bells-inequality-theorem/img-29.png)
 
-![](/images/posts/bells-inequality-theorem/img-30.gif)

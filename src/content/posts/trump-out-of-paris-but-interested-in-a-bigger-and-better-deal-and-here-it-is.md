@@ -21,7 +21,6 @@ It’s not just about climate.  The U.S. is being impacted by traditional pollut
 
 It’s become “a small multi-pollutant world after all.”  Time for a new, bigger and better deal.
 
-![Agape and global](/images/sip/agape-and-global.png)
 
 I’ve incorporated this new international agreement with a domestic program so that it should all work more simply and seamlessly.  The new Clean Air Act re-authorization reduces the need for approximately 75% of the current Clean Air Act.
 

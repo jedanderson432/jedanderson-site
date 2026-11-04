@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Nature and why we protect it
 
-![](/images/posts/ive-cried/img-01.gif)
 
 LOVE
 
@@ -23,7 +22,6 @@ I refuse to give up on humanity and accept the environmental status quo that say
 
 HAVE COURAGE. ALL IS WELL.
 
-![](/images/posts/ive-cried/img-02.gif)
 
 ‌
 
@@ -31,8 +29,6 @@ HAVE COURAGE. ALL IS WELL.
 
 - Rachel Carson
 
-![](/images/posts/ive-cried/img-03.gif)
 
-![](/images/posts/ive-cried/img-04.gif)
 
 This is an advertisement for EnviroAI

@@ -15,11 +15,9 @@ Competitors. Feedstocks. Permit Terms. Operational Parameters. Environmental Com
 
 ‌
 
-![](/images/posts/business-intelligence/img-01.gif)
 
 TRACK
 
-![](/images/posts/business-intelligence/img-02.gif)
 
 Track
 
@@ -33,15 +31,10 @@ Simply type whatever company or keyword you want to track and receive updates as
 
 . . . "I like to see for example when a company gets an 'alternative' approved."
 
-![](/images/posts/business-intelligence/img-03.gif)
 
-[![](/images/posts/business-intelligence/img-04.gif)](https://r20.rs6.net/tn.jsp?f=001G4s3yYPRpARDSMyqeEDGYEzWkcFKwOue9hmJQl9YzDYWPIt_Pdag0h0tp_DtRSjFLAkLpDyG9r2-hk5gLb_AIh1epjfWiZkMHuf0awIQFCMSyv2vtBh91mesQhRJ5lru_f0_xSdEOeWt1xke7kHvPg==&c=&ch=)
 
-![](/images/posts/business-intelligence/img-05.gif)
 
-[![](/images/posts/business-intelligence/img-06.png)](https://r20.rs6.net/tn.jsp?f=001G4s3yYPRpARDSMyqeEDGYEzWkcFKwOue9hmJQl9YzDYWPIt_Pdag0h0tp_DtRSjFLAkLpDyG9r2-hk5gLb_AIh1epjfWiZkMHuf0awIQFCMSyv2vtBh91mesQhRJ5lru_f0_xSdEOeWt1xke7kHvPg==&c=&ch=)
 
-![](/images/posts/business-intelligence/img-07.gif)
 
 [Purchase Today](https://r20.rs6.net/tn.jsp?f=001G4s3yYPRpARDSMyqeEDGYEzWkcFKwOue9hmJQl9YzDYWPIt_Pdag0gf1FNBJwAOnG8DzKYRb2ccimPja4NUV8BG6XXvp85yTwMEPMQNQcuVYUb_SGbRt3r9lLLFQ5TmTP66cfdArcZBvX3FCIcUtL2ilmmhNMoqmjEakdJrUFRc=&c=&ch=)
 
@@ -51,6 +44,4 @@ START
 
 TRACKING!
 
-![](/images/posts/business-intelligence/img-08.gif)
 
-![](/images/posts/business-intelligence/img-09.gif)

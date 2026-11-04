@@ -19,9 +19,8 @@ abstract: '3 upcoming events focused on Clean Air Act reform:'
 
 ###### “Click” on event brochure below for more details
 
-[![law-center-feb-10-lecture (00000002)](/images/sip/law-center-feb-10-lecture-00000002.jpg)](http://www.uh.edu/calendar/index.php?view=e&id=6320&d=10&m=02&y=2016)
 
-[![Rice Event](/images/sip/rice-event.png)](http://air.rice.edu/upcoming-events/)[![AWMA](/images/sip/awma.png)](http://www.awma-gcc.org/)**AWMA Panels focused on Clean Air Act reform or likely to touch on the issue:**
+**AWMA Panels focused on Clean Air Act reform or likely to touch on the issue:**
 
 **8:15am Current Air Issues**  
 **Jeff Holmstead, Bracewell & Giuliani and Former EPA Deputy Administrator for Air**  

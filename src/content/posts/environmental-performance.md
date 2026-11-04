@@ -15,7 +15,6 @@ The bigger picture . . .
 
 ‌
 
-![](/images/posts/environmental-performance/img-01.gif)
 
 AUDITING . . .
 
@@ -27,7 +26,6 @@ YOU
 
 LOOK?
 
-[![](/images/posts/environmental-performance/img-02.gif)](https://r20.rs6.net/tn.jsp?f=0010Ube3IxEv5BLj-cGwDPj4buGXZhDqcov2mUm7zxLyNb8m01KGUIwDKSE7uwhEdp2cFc8eeIqtAHJnH3Mo5398Lx4yfYs-j7DqynU5YNNnJWfi3feo21dJXy-FjElS094LzCSk66mQlbAlRvM_SkN7A==&c=&ch=)
 
 THE POWER OF
 
@@ -41,14 +39,10 @@ AUDITING
 
 - Jed Anderson, CEO, EnviroAI
 
-![](/images/posts/environmental-performance/img-03.gif)
 
 INCREASE AUDIT PERFORMANCEo
 
-[![](/images/posts/environmental-performance/img-04.png)](https://r20.rs6.net/tn.jsp?f=0010Ube3IxEv5BLj-cGwDPj4buGXZhDqcov2mUm7zxLyNb8m01KGUIwDKSE7uwhEdp2cFc8eeIqtAHJnH3Mo5398Lx4yfYs-j7DqynU5YNNnJWfi3feo21dJXy-FjElS094LzCSk66mQlbAlRvM_SkN7A==&c=&ch=)
 
 Contact us today at (832) 428-4257
 
-![](/images/posts/environmental-performance/img-05.gif)
 
-![](/images/posts/environmental-performance/img-06.gif)

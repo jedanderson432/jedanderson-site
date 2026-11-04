@@ -13,15 +13,12 @@ original_source: "Constant Contact campaign"
 
 "Earth First"- a documentary by award-winning filmmaker Peter von Puttkamer about the simplification of environmental protection.
 
-![](/images/posts/backstory-watch-now/img-01.gif)
 
-![](/images/posts/backstory-watch-now/img-02.gif)
 
 WATCH THIS
 
 BACKSTORY!
 
-[![](/images/posts/backstory-watch-now/img-03.png)](http://r20.rs6.net/tn.jsp?f=001RmkQxn2SDimYIz375wmIG_ftWlmTAAaHZ7gv38mr_h6eQrYDRTFi5Fr-HNLxJT6HYw368zVC_ID9ZxqX7021F31wKVpWLKuB3xNHS78Z7SpsRLY1aO_mn5EpVyg4Jd5z1bzy055gcQNOWmOKFRXDpw==&c=&ch=)
 
 A compilation from Jed Anderson's 2017 simplicity speech and Peter von Puttkamer's comments on environmental protection simplification in the upcoming documentary "Earth First".
 
@@ -29,4 +26,3 @@ A compilation from Jed Anderson's 2017 simplicity speech and Peter von Puttkamer
 
 [Watch Now](http://r20.rs6.net/tn.jsp?f=001RmkQxn2SDimYIz375wmIG_ftWlmTAAaHZ7gv38mr_h6eQrYDRTFi5Fr-HNLxJT6HYw368zVC_ID9ZxqX7021F31wKVpWLKuB3xNHS78Z7SpsRLY1aO_mn5EpVyg4Jd5z1bzy055gcQNOWmOKFRXDpw==&c=&ch=)
 
-![](/images/posts/backstory-watch-now/img-04.gif)

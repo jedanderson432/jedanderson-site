@@ -19,15 +19,10 @@ It won't. I won't. Love. We can do better.
 
 .
 
-![](/images/posts/death-threat-will-i-receive-another-one/img-01.gif)
 
-![](/images/posts/death-threat-will-i-receive-another-one/img-02.png)
 
-![](/images/posts/death-threat-will-i-receive-another-one/img-03.gif)
 
-![](/images/posts/death-threat-will-i-receive-another-one/img-04.gif)
 
-![](/images/posts/death-threat-will-i-receive-another-one/img-05.gif)
 
 LOVE
 
@@ -37,7 +32,6 @@ I refuse to give up on humanity and accept the environmental status quo that say
 
 HAVE COURAGE. ALL IS WELL.
 
-![](/images/posts/death-threat-will-i-receive-another-one/img-06.gif)
 
 ‌
 
@@ -45,8 +39,6 @@ HAVE COURAGE. ALL IS WELL.
 
 - Rachel Carson
 
-![](/images/posts/death-threat-will-i-receive-another-one/img-07.gif)
 
-![](/images/posts/death-threat-will-i-receive-another-one/img-08.gif)
 
 This is an advertisement for EnviroAI

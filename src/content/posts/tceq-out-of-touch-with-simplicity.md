@@ -16,19 +16,17 @@ TCEQ believes their rules are written with the goal of simplicity in mind.
 
 > “[The] **executive director believes TCEQ rules are written with this goal [of simplicity] in mind.”**–TCEQ Staff (see [link](https://www.tceq.texas.gov/assets/public/legal/rules/rule_lib/petitions/17023PET_petition.pdf))
 
-![tceq 5](/images/sip/tceq-5.jpg)“Simple” is probably the last word I think anyone in the business community, or the environmental community for that matter, would use to describe how TCEQ rules are written.
+“Simple” is probably the last word I think anyone in the business community, or the environmental community for that matter, would use to describe how TCEQ rules are written.
 
 TCEQ’s  belief that their rules are written with the goal of simplicity in mind is either baseless–or they are failing miserably at their goal.  Either way, their eyes must be opened.  This approach cannot continue.  The days of piling more and more complicated rules on top of more and more complicated rules are over.  Complexity can no longer be ignored.
 
 > *“Fools ignore complexity; pragmatists suffer it; experts avoid it; geniuses remove it.”- Alan Perlis*
 
-![Perlis](/images/sip/perlis.jpg)
 
 Time for genius.  Plenty of geniuses are out there–including staff at TCEQ.
 
 > “Thousands of geniuses live and die undiscovered – either by themselves or by others.” – Mark Twain
 
-![Twain and Clean Air Act](/images/sip/twain-and-clean-air-act.png)
 
 What’s fascinating is that this move toward simplicity will happen.  It’s just how everything in the universe works–including air quality management:
 
@@ -40,7 +38,6 @@ What’s fascinating is that this move toward simplicity will happen.  It’s ju
 >
 > *But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton*
 
-![chesterton](/images/sip/chesterton.jpg)
 
 > “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 
@@ -50,7 +47,6 @@ What’s fascinating is that this move toward simplicity will happen.  It’s ju
 
 > “[T]he grand aim of all science…is to cover the greatest possible number of empirical facts by logical deductions from the smallest possible number of hypotheses or axioms.”—Albert Einstein
 
-![einstein 2](/images/sip/einstein-2.jpg)
 
 > “Simplicity does not precede complexity, but follows it.”- Alan J. Perlis
 

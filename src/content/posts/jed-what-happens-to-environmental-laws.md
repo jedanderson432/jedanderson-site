@@ -15,13 +15,11 @@ original_source: "Constant Contact campaign"
 
 Preparing for potential questions from God on the pitch deck . . .
 
-![](/images/posts/jed-what-happens-to-environmental-laws/img-01.gif)
 
 Jed . . . what happens to environmental laws? . . . based on the pitch deck you are eventually removing the need for most law?
 
 That's correct God. Most laws will no longer be needed.
 
-[![](/images/posts/jed-what-happens-to-environmental-laws/img-02.png)](https://r20.rs6.net/tn.jsp?f=001W339__xJynmgVsPFHMo-h6HfUpXXGr-ozAGMR0-Gnxd1Eaiv_fpDi00DMezwaa-fWpf5N9lBXLeN2H2zYCx3iLmcwvglz6xMLWgjS6Cfmh12W6VGCSRXYgkIbWqMrwDmMEUjHrWfi-wO_f4M7MhuawE93FoZMtAANQMoeHRq64-9gcHXmNE2kw==&c=&ch=)
 
 ‌
 
@@ -33,4 +31,3 @@ That's correct God. Most laws will no longer be needed.
 
 ‌
 
-![](/images/posts/jed-what-happens-to-environmental-laws/img-03.gif)

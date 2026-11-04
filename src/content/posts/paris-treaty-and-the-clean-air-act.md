@@ -13,4 +13,3 @@ abstract: 'Draft of new Clean Air Act circulating that incorporates placeholder 
 
 Draft of new Clean Air Act circulating that incorporates placeholder for Paris Treaty while simplifying the regulatory system for all pollutants.   (see <https://t.co/uxLIopKCzs>).
 
-[![2016 CAA and Paris](/images/sip/2016-caa-and-paris.gif)](/images/sip/2016-caa-and-paris.gif)

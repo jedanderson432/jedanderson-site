@@ -15,16 +15,11 @@ Although I'm building a quantum AI [environmental protection system](http://r20.
 
 ﻿
 
-![](/images/posts/mountain-moving-2/img-01.png)
 
-![](/images/posts/mountain-moving-2/img-02.png)
 
-![](/images/posts/mountain-moving-2/img-03.png)
 
-![](/images/posts/mountain-moving-2/img-04.png)
 
 Go by faith. Go big today.
 
-![](/images/posts/mountain-moving-2/img-05.gif)
 
 This is an advertisement for EnviroAI

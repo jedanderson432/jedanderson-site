@@ -11,7 +11,6 @@ pdf: "/pdfs/mountain-moving.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-![](/images/posts/mountain-moving/img-01.png)
 
 Although I'm building projects like a quantum AI [environmental protection system](http://r20.rs6.net/tn.jsp?f=001AW2IKJoRC8ab1UYXQpgJxlsfDdluHzHIO11BOtwjKIiknqVmaz8wKpckLpDM9TrFq5sNmiVeTA0Sb6lbFeXBtZP2XWup0DUHNeTOXxQNDYkgjJk1CeqS2UpjWcGyfW9zlNwoR5AGY4wKRfsb8F-Plw==&c=&ch=)and an [environmental treatment center](http://r20.rs6.net/tn.jsp?f=001AW2IKJoRC8ab1UYXQpgJxlsfDdluHzHIO11BOtwjKIiknqVmaz8wKh27ABefG8Pbr_JxmXwv9qMpA4zFw3bobp7UwiL_J0xAQzLpJIUrR46uxE9Uzkf_jqEQDFRkRtD8h9tIPXdJsGjkEAQW43tW-dsQWffoJYfc6DxnCv-CFbBszz6P8EYIhv8p-wuI_KY0Ph2BR8JUuoiR0LonY6DPS1XM943BpLgDaqq1ybGIx58=&c=&ch=) . . . I still realize I'm "not putting enough weight on the bar".
 
@@ -21,6 +20,5 @@ Although I'm building projects like a quantum AI [environmental protection syste
 
 Exercise faith. Go big today.
 
-![](/images/posts/mountain-moving/img-02.gif)
 
 This is an advertisement for EnviroAI

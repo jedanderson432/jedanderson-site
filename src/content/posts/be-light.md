@@ -11,7 +11,6 @@ pdf: "/pdfs/be-light.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-![](/images/posts/be-light/img-01.png)
 
 ---"Be light."
 

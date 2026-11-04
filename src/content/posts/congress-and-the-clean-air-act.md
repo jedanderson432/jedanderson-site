@@ -15,6 +15,5 @@ Great panel in D.C. on the role of Congress in environmental law (see <https://y
 
 A few quotes from David Schoenbrod on the panel:
 
-[![Schoenbrod and Federalist Society](/images/sip/schoenbrod-and-federalist-society.png)](/images/sip/schoenbrod-and-federalist-society.png)
 
 The world is changing.  We must change with it.  Time to simplify and transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world (see for example “[The Clean Air and Climate Change Act of 2016](http://wp.me/p2ofqH-oi)”).  We can make it happen.

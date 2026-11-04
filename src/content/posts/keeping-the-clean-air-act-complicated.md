@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: '**[](/images/sip/the-clean-air-act.png)**Does anyone else sense this?'
 ---
 
-**[![The Clean Air Act](/images/sip/the-clean-air-act.png)](/images/sip/the-clean-air-act.png)**Does anyone else sense this?
+****Does anyone else sense this?
 
 It feels like there is an unconscious movement to keep the Clean Air Act complicated so that few people understand it other than ourselves.
 

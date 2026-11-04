@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: '[](/images/sip/a-better-clean-air-act.png)The secret to genius is not intelligence. It’s simplicity. And we are all capable of it. Mainly requires courage.'
 ---
 
-[![A Better Clean Air Act](/images/sip/a-better-clean-air-act.png)](/images/sip/a-better-clean-air-act.png)The secret to genius is not intelligence.  It’s simplicity.  And we are all capable of it.  Mainly requires courage. 
+The secret to genius is not intelligence.  It’s simplicity.  And we are all capable of it.  Mainly requires courage. 
 
 >  “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius—and **a lot of courage**—to move in the opposite direction.”—E.F. Schumacher (1911 – 1977)
 

@@ -12,6 +12,5 @@ tags: ["clean-air-act", "regulatory-reform", "legal-reform", "linkedin-original"
 abstract: "![](https://media.licdn.com/mediaC5112AQFcHH1opZ5Rkw) **“My personal goal is to end both pollution and environmental law. Some call this idealism."
 ---
 
-![](https://media.licdn.com/mediaC5112AQFcHH1opZ5Rkw)
 
 **“My personal goal is to end both pollution and environmental law. Some call this idealism. I call it pragmatism with an extended timeline.”** *—Jed Anderson, Attorney and Clean Air Act Reform Advocate*

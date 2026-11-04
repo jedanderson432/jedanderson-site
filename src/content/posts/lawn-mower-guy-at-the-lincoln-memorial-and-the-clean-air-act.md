@@ -15,6 +15,5 @@ abstract: '**I can imagine if you told this guy that the Clean Air Act needed to
 
 **The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.**
 
-[![Lawn Mower Guy and Clean Air Act](/images/sip/lawn-mower-guy-and-clean-air-act.png)](/images/sip/lawn-mower-guy-and-clean-air-act.png)
 
 For more information on the SIP transformation effort, see [www.sipreform.wordpress.com](http://www.sipreform.wordpress.com) and [www.sipreform.com](http://www.sipreform.com).

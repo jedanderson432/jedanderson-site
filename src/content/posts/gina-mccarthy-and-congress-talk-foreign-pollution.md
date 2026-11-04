@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](https://www.youtube.com/watch?v=STXIM4OJr80)Interesting discussion in the House Energy & Commerce Committee last week between Gina McCarthy and Congressman Pete Olson about foreign pollution impacts on the U.S. (click here for video segment).'
 ---
 
-[![Gina McCarthy and Clean Air Act](/images/sip/gina-mccarthy-and-clean-air-act.png)](https://www.youtube.com/watch?v=STXIM4OJr80)Interesting discussion in the House Energy & Commerce Committee last week between Gina McCarthy and Congressman Pete Olson about foreign pollution impacts on the U.S. (click [here](https://www.youtube.com/watch?v=STXIM4OJr80&feature=youtu.be) for video segment).
+Interesting discussion in the House Energy & Commerce Committee last week between Gina McCarthy and Congressman Pete Olson about foreign pollution impacts on the U.S. (click [here](https://www.youtube.com/watch?v=STXIM4OJr80&feature=youtu.be) for video segment).
 
 In the video Administrator McCarthy says the following:
 

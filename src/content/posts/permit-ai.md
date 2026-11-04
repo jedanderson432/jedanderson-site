@@ -25,11 +25,8 @@ EnviroAI has commenced work on a new artificial intelligence application called 
 
 ﻿
 
-![](/images/posts/permit-ai/img-01.gif)
 
-[![](/images/posts/permit-ai/img-02.gif)](http://r20.rs6.net/tn.jsp?f=001gVlENh4De4f3JUGmg1R2Pcl9wEtlob9bGfsLSr2eI4scbKH_SosEd4khMjgt4eAM5yKeZkOEjRvOq0PCTnDlu4ILAAFARJEAPpKt8gtJIHn3iL8382fQjuFNIHY2bMxAIEz_P9c2gRwXZ_zFuBDX7w==&c=&ch=)
 
-![](/images/posts/permit-ai/img-03.gif)
 
 How would Permit AI work?
 
@@ -39,22 +36,15 @@ How would Permit AI work?
 - Permit AI would take advantage of Ceres AI’s current databases and capabilities.
 - The primary goal would be to get as close as possible to “push a button . . . get a permit” excluding the public notice requirements.
 
-![](/images/posts/permit-ai/img-04.gif)
 
 ENVIRONMENTALINTELLIGENCE.DATA.POWER.SPEED.
 
-[![](/images/posts/permit-ai/img-05.png)](http://r20.rs6.net/tn.jsp?f=001gVlENh4De4f3JUGmg1R2Pcl9wEtlob9bGfsLSr2eI4scbKH_SosEd92kSAZ5Fyt259OqVPTT9ymIvHUSIgsaZ43LCI45l0atRbuiOmS2KvXekWyAzzS2HeZLtNI3WPmbkPmkigBBwMUr9eNtPSnPNA==&c=&ch=)
 
-![](/images/posts/permit-ai/img-06.gif)
 
-![](/images/posts/permit-ai/img-07.gif)
 
 [More Information on Ceres AI](http://r20.rs6.net/tn.jsp?f=001gVlENh4De4f3JUGmg1R2Pcl9wEtlob9bGfsLSr2eI4scbKH_SosEd3uR6avQ9Zv481TYCgST9T-x9mQ4pyIEztPkdKkHJv7kPFvu_Oa9T3nylMWS5SJ0oc4RBBRLvZnPO5IYoYLhaILWdMbjcLMpNQ==&c=&ch=)
 
-![](/images/posts/permit-ai/img-08.gif)
 
 This is an advertisement for Ceres AI LLC
 
-![](/images/posts/permit-ai/img-09.gif)
 
-[![](/images/posts/permit-ai/img-10.png)](http://r20.rs6.net/tn.jsp?f=001gVlENh4De4f3JUGmg1R2Pcl9wEtlob9bGfsLSr2eI4scbKH_SosEd3-EhZVgKhlDZvEcng2n-EnlZ88Apzql1nDD-XkMadA5p5-XQSnTOJ6ZNAj3yKFp2KNmWxRFxCT0djhUhyTlSrbELsLhPoGRqLKRWgSGzGuB9FoiXoKVU6s=&c=&ch=)

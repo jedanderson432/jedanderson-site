@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 No.
 
-![](/images/posts/danger/img-01.gif)
 
 NO
 
@@ -23,9 +22,7 @@ DANGER
 
 - Jed Anderson
 
-![](/images/posts/danger/img-02.jpg)
 
-![](/images/posts/danger/img-03.gif)
 
 ---"The universe is a symphony."
 
@@ -35,17 +32,11 @@ DANGER
 
 - Henry David Thoreau
 
-![](/images/posts/danger/img-04.jpg)
 
-![](/images/posts/danger/img-05.jpg)
 
-![](/images/posts/danger/img-06.jpg)
 
-![](/images/posts/danger/img-07.jpg)
 
-![](/images/posts/danger/img-08.jpg)
 
-![](/images/posts/danger/img-09.jpg)
 
 ﻿James Webb Space Telescope
 
@@ -53,35 +44,27 @@ DANGER
 
 - Jed Anderson
 
-![](/images/posts/danger/img-10.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/danger/img-11.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine", but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/danger/img-12.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/danger/img-13.png)
 
-![](/images/posts/danger/img-14.gif)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/danger/img-15.gif)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7Oh3FyRQezGwCUOrxeU623TLZJYlABal2zRzMtk4qoRJTtJNWtdAu3z4JQO2rICv75Sq6AJWav_cvkk1yqjfDXMAFyv6RHsZM2kiRCQshkk5c-tWMBYZy8ih4Ri86BWMU4Q==&c=&ch=)
 
-![](/images/posts/danger/img-16.png)
 
-![](/images/posts/danger/img-17.gif)
 
 See if you can find the pattern in this code:
 
@@ -89,45 +72,33 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/danger/img-18.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/danger/img-19.png)
 
-![](/images/posts/danger/img-20.png)
 
-![](/images/posts/danger/img-21.gif)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/danger/img-22.png)
 
-![](/images/posts/danger/img-23.png)
 
-![](/images/posts/danger/img-24.png)
 
-![](/images/posts/danger/img-25.png)
 
 ﻿---"The universe appears to besimple physical laws or code (which we do not completely understand yet) running over, and over,and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over (for 13.8 billion years and counting). . . producing ever richer and more complex data (phenomena), and more data, and more data, and more data, and more data, and more data, and more data, and more data, and more data, and more data . . . until it's so phenomenally complicated and rich that I'm yak-yakking right now with these computer keystrokes and you are doing whatever you are doing. Weird. Wild. Fun. How much richer and more complicated can the phenomena get, and we help make it--especially as humankind better understands the underlying simplicities driving this inflationary expansion? Hang onto your hats."
 
 - Jed Anderson, EnviroAI
 
-[![](/images/posts/danger/img-26.gif)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7Og7vqu1ZRcNnAaEshBwr82-_nlQzOEMgXrmiYh4HzwH25MiEJg43Pj_7Wju-eH6v6ZIk3uql9pChov09_MOVO27S-Cf6bEYyyA==&c=&ch=)
 
-![](/images/posts/danger/img-27.gif)
 
 Simplicity.
 
 ---"We are getting back to where we once belonged . . . the underlying simplicities driving all this rich complexity." - Jed Anderson, EnviroAI
 
-[![](/images/posts/danger/img-28.png)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OmPGZrEulGrhi4cIGZRfhy5f72jQ-PNPoUdUzt6kQzUwwkCy4-vlL39_OZGeDOAmi0AKjO2IPMmZdGPKeOPcS0Z5-IvW29vXXg==&c=&ch=)
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-[![](/images/posts/danger/img-29.jpg)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OmPGZrEulGrhWdDJBA77Oa6CvPdIHueA9xV7lrRzk29Ln3HhcwiCkwPZbI5XhQxJVjFLov0a6OBImjJ3spFCfh7mu5GPgkeB2Q==&c=&ch=)
 
 The Beatles
 
@@ -137,16 +108,11 @@ The song "Get Back" is 2 notes. It's only 2 two. It's just two notes. Two notes.
 
 The Beatles, just like Oscar Peterson and J.S. Bach below, understood the underlying simplicity so well that they could let their imaginations and creativity go wild and begin to "play the universe" . . . producing richer and more complex phenomena.
 
-[![](/images/posts/danger/img-30.gif)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OmPGZrEulGrhi4cIGZRfhy5f72jQ-PNPoUdUzt6kQzUwwkCy4-vlL39_OZGeDOAmi0AKjO2IPMmZdGPKeOPcS0Z5-IvW29vXXg==&c=&ch=)
 
 These guys we're a bunch of goof-balls! I love it! What will surprise people in this documentary is how much silly-time was involved in this monumental work, and how much fun they had together and how much they loved each other and loved music.
 
-![](/images/posts/danger/img-31.gif)
 
-[![](/images/posts/danger/img-32.gif)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OmPGZrEulGrhWdDJBA77Oa6CvPdIHueA9xV7lrRzk29Ln3HhcwiCkwPZbI5XhQxJVjFLov0a6OBImjJ3spFCfh7mu5GPgkeB2Q==&c=&ch=)
 
-![](/images/posts/danger/img-33.gif)
-![](/images/posts/danger/img-34.gif)
 
 James Webb Telescope
 
@@ -154,32 +120,24 @@ James Webb Telescope
 
 I am so incredibly excited! My interest is not so much cosmological as it is understanding the underlying simplicities so we can "play the universe" when it comes to protecting the environment . . . Write the environmental protection equivalent of "Let it be" for nature and humanity. A masterpiece to life.
 
-![](/images/posts/danger/img-35.gif)
 
-![](/images/posts/danger/img-36.gif)
 
-![](/images/posts/danger/img-37.gif)
 
-![](/images/posts/danger/img-38.gif)
-![](/images/posts/danger/img-39.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/danger/img-40.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OjxzTV17zIQE3965tllR_w9-nwEg19feEkxtdtG9OFGJ-pdGLDX439kbx78tEO3BSTjoXZqD-klQQzuAwnJSMZpR7m9QCI6vIpNza5UwTjaS&c=&ch=)
 
-[![](/images/posts/danger/img-41.png)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OjxzTV17zIQE3965tllR_w9-nwEg19feEkxtdtG9OFGJ-pdGLDX439kbx78tEO3BSTjoXZqD-klQQzuAwnJSMZpR7m9QCI6vIpNza5UwTjaS&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-[![](/images/posts/danger/img-42.gif)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OtRYtM_39vI9O30VAHsnD3mF5GghnoCiUR9sk4FQM-kUKKGQd9tPtuAtAfzsoMsX8N8SZGxog2Kgfdp6k0jmjURw_Z_6TCGJFg==&c=&ch=)
 
 ‌
 
@@ -187,38 +145,25 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/danger/img-43.png)
 
-![](/images/posts/danger/img-44.gif)
 
-![](/images/posts/danger/img-45.gif)
 
-![](/images/posts/danger/img-46.gif)
 
-![](/images/posts/danger/img-47.png)
 
-![](/images/posts/danger/img-48.gif)
-![](/images/posts/danger/img-49.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/danger/img-50.gif)
 
 ‌
 
-[![](/images/posts/danger/img-51.jpg)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OtRYtM_39vI9O30VAHsnD3mF5GghnoCiUR9sk4FQM-kUKKGQd9tPtuAtAfzsoMsX8N8SZGxog2Kgfdp6k0jmjURw_Z_6TCGJFg==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7OtRYtM_39vI9O30VAHsnD3mF5GghnoCiUR9sk4FQM-kUKKGQd9tPtuAtAfzsoMsX8N8SZGxog2Kgfdp6k0jmjURw_Z_6TCGJFg==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/danger/img-52.png)
 
-![](/images/posts/danger/img-53.png)
 
-![](/images/posts/danger/img-54.png)
 
-![](/images/posts/danger/img-55.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -232,9 +177,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/danger/img-56.gif)
 
-![](/images/posts/danger/img-57.jpg)
 
 ---"Everything is patterns.
 
@@ -244,13 +187,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/danger/img-58.gif)
 
-![](/images/posts/danger/img-59.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/danger/img-60.gif)
 
 Notes are data. Music is patterns.
 
@@ -262,27 +202,19 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/danger/img-61.gif)
 
-![](/images/posts/danger/img-62.jpg)
 
-![](/images/posts/danger/img-63.jpg)
 
-![](/images/posts/danger/img-64.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/danger/img-65.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/danger/img-66.png)
 
-![](/images/posts/danger/img-67.png)
 
-![](/images/posts/danger/img-68.png)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -298,29 +230,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/danger/img-69.gif)
 
-![](/images/posts/danger/img-70.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/danger/img-71.png)
 
-![](/images/posts/danger/img-72.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/danger/img-73.gif)](https://r20.rs6.net/tn.jsp?f=001uG7laB9msagBvdjpDTeGVT8kusj97NnQ7xTrWskqtsIAkqx7dBV7Oh3FyRQezGwCUOrxeU623TLZJYlABal2zRzMtk4qoRJTtJNWtdAu3z4JQO2rICv75Sq6AJWav_cvkk1yqjfDXMAFyv6RHsZM2kiRCQshkk5c-tWMBYZy8ih4Ri86BWMU4Q==&c=&ch=)
 
-![](/images/posts/danger/img-74.gif)
 
 SIMPLICITY
 
-![](/images/posts/danger/img-75.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -329,7 +254,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/danger/img-76.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -342,9 +266,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/danger/img-77.png)
 
-![](/images/posts/danger/img-78.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -359,7 +281,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/danger/img-79.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -405,6 +326,4 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/danger/img-80.gif)
 
-![](/images/posts/danger/img-81.gif)

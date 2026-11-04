@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 environmental report generation?
 
-![](/images/posts/automated/img-01.gif)
 
 Automated
 
@@ -29,4 +28,3 @@ Generation
 
 This is an advertisement for EnviroAI
 
-![](/images/posts/automated/img-02.gif)

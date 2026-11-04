@@ -13,9 +13,7 @@ original_source: "Constant Contact campaign"
 
 "We're writing the greatest planetary plot-twist of all-time."---Jed Anderson, CEO, EnviroAI
 
-![](/images/posts/industry-saves-nature/img-01.gif)
 
-![](/images/posts/industry-saves-nature/img-02.gif)
 
 INDUSTRY
 
@@ -27,11 +25,8 @@ NATURE
 
 - Jed Anderson, Environmental Entrepreneur
 
-![](/images/posts/industry-saves-nature/img-03.gif)
 
-![](/images/posts/industry-saves-nature/img-04.png)
 
-![](/images/posts/industry-saves-nature/img-05.gif)
 
 Current projects.
 
@@ -39,8 +34,6 @@ Current projects.
 
 ‌
 
-![](/images/posts/industry-saves-nature/img-06.gif)
 
 [Earth Quantum AI Environmental Protection System](http://r20.rs6.net/tn.jsp?f=001jZDilcaHH2bFuT0BraAwswLeKzAL-2w-MvZYWzMZs6RKQftkcp9_HJFJThH22olM4wUL4g--tNoao0KxFxSgZs26gFGWn8PXDxzRDFtc_560OCvJY3pyLGPZsyRsrxIiP5UgkjGMlAOwGiF_po4H_A==&c=&ch=)
 
-[![](/images/posts/industry-saves-nature/img-07.png)](http://r20.rs6.net/tn.jsp?f=001jZDilcaHH2bFuT0BraAwswLeKzAL-2w-MvZYWzMZs6RKQftkcp9_HEB3hFJxqLhb3ChtYALjSAqg-t3mPJaTdfaV39osloPLO4we4btK0PJUNWMXg94Q_MAoULIfyotip6ZhgUghF7VyUdPB0bcywjS2ilFLDN07ioGldxXWUhc=&c=&ch=)

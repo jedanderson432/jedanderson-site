@@ -15,4 +15,3 @@ we are trying to protect humanity and nature
 
 GOD
 
-![](/images/posts/the-reason/img-01.gif)

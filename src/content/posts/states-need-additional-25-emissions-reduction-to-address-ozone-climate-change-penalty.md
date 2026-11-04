@@ -15,7 +15,7 @@ I don’t think anyone in the public is aware of this issue.  It appears that St
 
 > **“In this example, 2000-2050 climate change implies an additional 25% reduction in NOx emissions (from 40% to 50%) to achieve the same ozone air quality.”**
 
-[![](/images/sip/harvard-climate-and-ozone.png "Harvard -climate and ozone")](/images/sip/harvard-climate-and-ozone.png)And who will be responsible for coming up with this additional 25% reduction on top of what already will be required to achieve the ozone NAAQS ?  Yup . . . the States!  It is the States responsibility to achieve the NAAQS under the current Clean Air Act (*see* 42 U.S.C. § 7407(a)).
+And who will be responsible for coming up with this additional 25% reduction on top of what already will be required to achieve the ozone NAAQS ?  Yup . . . the States!  It is the States responsibility to achieve the NAAQS under the current Clean Air Act (*see* 42 U.S.C. § 7407(a)).
 
 BTW – In the ozone SIP context, the question of whether anthropogenic emissions are warming the planet is really moot.  The only question is whether the planet is warming.  In fact, the question really is not whether the planet is warming, but whether the planet is projected to warm—since SIP controls are based on modeling and projected future attainment needs.
 

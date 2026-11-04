@@ -15,19 +15,14 @@ original_source: "Constant Contact campaign"
 
 - Jed Anderson, Environmental Attorney and Entrepreneur
 
-![](/images/posts/only-1-career/img-01.png)
 
-![](/images/posts/only-1-career/img-02.png)
 
-![](/images/posts/only-1-career/img-03.gif)
 
 ---"The laws of nature are simple. The laws protecting nature therefore must also be found to be, or made, simple."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/only-1-career/img-04.png)
 
-![](/images/posts/only-1-career/img-05.gif)
 
 My efforts over the last 20 years have all been with the grand aim of simplifying and creating essentially a "unified theory" of the laws of nature and the laws of protecting nature.
 
@@ -53,7 +48,6 @@ we compute . . .
 
 It's just much simpler if we all compute together."- Jed Anderson, EnviroAI
 
-![](/images/posts/only-1-career/img-06.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -62,7 +56,6 @@ It's just much simpler if we all compute together."- Jed Anderson, EnviroAI
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/only-1-career/img-07.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -75,7 +68,6 @@ It's just much simpler if we all compute together."- Jed Anderson, EnviroAI
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/only-1-career/img-08.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -90,7 +82,6 @@ It's just much simpler if we all compute together."- Jed Anderson, EnviroAI
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/only-1-career/img-09.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -106,7 +97,6 @@ It's just much simpler if we all compute together."- Jed Anderson, EnviroAI
 - “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” – Bruce Lee
 - “Complexity is impressive, but simplicity is genius.” – Lance Wallnau
 
-![](/images/posts/only-1-career/img-10.png)
 
 - “Complexity is enemy of execution”. – Anthony Robbins
 - “Simplicity will stand out, while complexity will get lost in the crowd.” – Kevin Barnett
@@ -138,4 +128,3 @@ It's just much simpler if we all compute together."- Jed Anderson, EnviroAI
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/only-1-career/img-11.gif)

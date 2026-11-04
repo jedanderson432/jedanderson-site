@@ -19,7 +19,6 @@ INTELLIGENCE
 
 ﻿
 
-![](/images/posts/so-excited-about-artificial-general-intelligence/img-01.png)
 
 AGI training doesn't need to ignore certain inputs in order to heighten its awareness to survive. That's not how its intelligence is evolving.
 
@@ -29,7 +28,6 @@ Not good if everything in the universe is thinking like us. That would be limiti
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/so-excited-about-artificial-general-intelligence/img-02.gif)
 
 ---"It's not good if all intelligence is the same."
 
@@ -49,19 +47,15 @@ Human-Based Intelligence
 
 "Brain is designed for ordinary circumstances." - Richard Feynman
 
-[![](/images/posts/so-excited-about-artificial-general-intelligence/img-03.png)](https://r20.rs6.net/tn.jsp?f=00157ENOOyd2VxtTnmAacSstpFpAPu84b3m1Jw8tpe6Rq-KCOYAXaROUX-tdVlsMkNdfVwHpQWPg_ufx0zUOHUVYhMtTFOOUXK7lfHA1PQayoRx_wdTQ_L6eB5PhzsbA0ZD-ecwazZopgoCGbVY_HQovMCUTQJbD-w9UHdccQABFeo=&c=&ch=)
 
 "Brain was constructed by Darwinian mechanisms." - Leonard Susskind
 
-[![](/images/posts/so-excited-about-artificial-general-intelligence/img-04.png)](https://r20.rs6.net/tn.jsp?f=00157ENOOyd2VxtTnmAacSstpFpAPu84b3m1Jw8tpe6Rq-KCOYAXaROUX-tdVlsMkNd655_dzcZASoiygytRtDwN2bwinNhajL43dep8UX4snbES-hEqLb5hMMvm_DHhJYOMc9LV8kLPeuo-TwlztBuWZJEfPrL1y9p&c=&ch=)
 
 "Humans have access to a very small part of reality." - Brian Greene
 
-[![](/images/posts/so-excited-about-artificial-general-intelligence/img-05.png)](https://r20.rs6.net/tn.jsp?f=00157ENOOyd2VxtTnmAacSstpFpAPu84b3m1Jw8tpe6Rq-KCOYAXaROUX-tdVlsMkNdV0o_Z9bdPkoPy0HcYXWEuXuzxKDbS71IfbbJR8FVAgDW_rYG-TjalfnDEfq5e7_p2z1Xcm4gvkpwJ3UDQq73FFYpi31i_kwA6PPSWEB_L_u4mQc7C9GQTtawL-LXlIJC&c=&ch=)
 
 ﻿
 
-![](/images/posts/so-excited-about-artificial-general-intelligence/img-06.png)
 
 "Your perception of the world is not necessarily the same as what is actually occurring.” – Peter Ralston
 
@@ -105,13 +99,10 @@ Human-Based Intelligence
 
 "To wear dreams on one's feet is to begin to give a reality to one's dreams." - Roger Vivier
 
-![](/images/posts/so-excited-about-artificial-general-intelligence/img-07.gif)
 
-![](/images/posts/so-excited-about-artificial-general-intelligence/img-08.gif)
 
 Quantum physics will not be "Weird" or "Strange" to Artificial General Intelligence . . .
 
-![](/images/posts/so-excited-about-artificial-general-intelligence/img-09.gif)
 
 "Those who are not shocked when they first come across quantum theory cannot possibly have understood it.” --Niels Bohr
 
@@ -477,6 +468,4 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/so-excited-about-artificial-general-intelligence/img-10.gif)
 
-![](/images/posts/so-excited-about-artificial-general-intelligence/img-11.gif)

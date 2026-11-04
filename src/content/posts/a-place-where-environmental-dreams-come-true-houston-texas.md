@@ -19,8 +19,6 @@ Grand Opening February 2024
 
 February 2024
 
-[![](/images/posts/a-place-where-environmental-dreams-come-true-houston-texas/img-01.png)](http://r20.rs6.net/tn.jsp?f=001Sfuh-9iqXpcUfTnImy4CrXGYtPY-jYH9lKNhxtLK89TomCFABkRfTmiNIs-fjrEjAnkD7XHRRiiVbFxS4PruqUI13YkUeinoKhMP2VrRg8ml9w_KO5XXxdf93BcCWnxAcSE5OHqJzpZyvv8niGv_RfIRmJSbHsMo_qccpmhPaIiO-vTutZcDsSL9C5QYdNQtE1WD0yGHjjyyndtSW6-mMaohSiE0kFEsMufBk238Ng4=&c=&ch=)
 
 ﻿---"A place where environmental dreams come true."
 
-![](/images/posts/a-place-where-environmental-dreams-come-true-houston-texas/img-02.gif)

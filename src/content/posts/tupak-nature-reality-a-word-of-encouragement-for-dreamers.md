@@ -15,7 +15,6 @@ original_source: "Constant Contact campaign"
 
 ---“Reality is wrong. Dreams are for real.”—Tupac Shakur
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-01.gif)
 
 A word of encouragement for all of you dreamers out there . . .
 
@@ -29,30 +28,20 @@ Tupac Shakur was completely right when he said that "Reality is wrong. Dreams ar
 
 Dreams are for real.
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-02.gif)
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-03.gif)
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-04.gif)
 
 ---"“My dream is to build a machine using artificial intelligence and quantum technology that understands and protects the environment.”
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-05.gif)
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-06.gif)
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-07.gif)
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-08.gif)
 
 [About EnviroAI](http://r20.rs6.net/tn.jsp?f=001wKtSWwmslTlXVNJAclgdlFJDoO4Gykt1kk8xJ2kup81x5nSZo1sasJsiWez-Y_HFQXMufv8JtlHpSsyl9TJMI7JeSZvYBJ-5XACWNyno3MqUXzaCt635ttCWoot3WMtT0DLmwP8UCHRbmHUf2JeeFA==&c=&ch=)
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-09.gif)
 
 This is an advertisement for Ceres AI LLC
 
-![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-10.gif)
 
-[![](/images/posts/tupak-nature-reality-a-word-of-encouragement-for-dreamers/img-11.png)](http://r20.rs6.net/tn.jsp?f=001wKtSWwmslTlXVNJAclgdlFJDoO4Gykt1kk8xJ2kup81x5nSZo1sasDZXbIqYHMRVIuMZs14ZwqTxzpmvzWWeqI3GYqGQnwIHarKv2DjDmn9Nb4Hr_yuVyshbaNHH2oIZ6HrcAWsueBEGzoaYtsHAjhTqjkRbYuJSWLNbteNutN8=&c=&ch=)

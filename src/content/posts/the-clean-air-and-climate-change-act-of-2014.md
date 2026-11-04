@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](https://docs.google.com/a/allawgp.com/document/d/1lz_BGiWQT7C-zBZIQEjDoucaj-YaFUp_koI5y6zAOHk/edit%20)Here is a draft of the ***Clean Air and Climate Change Act of 2014*** (click here).'
 ---
 
-[![Clean Air and Climate Change Act of 2014](/images/sip/clean-air-and-climate-change-act-of-2014.png)](https://docs.google.com/a/allawgp.com/document/d/1lz_BGiWQT7C-zBZIQEjDoucaj-YaFUp_koI5y6zAOHk/edit%20)Here is a draft of the ***Clean Air and Climate Change Act of 2014*** (click [here](https://docs.google.com/a/allawgp.com/document/d/1lz_BGiWQT7C-zBZIQEjDoucaj-YaFUp_koI5y6zAOHk/edit "Clean Air and Climate Change Act")).
+Here is a draft of the ***Clean Air and Climate Change Act of 2014*** (click [here](https://docs.google.com/a/allawgp.com/document/d/1lz_BGiWQT7C-zBZIQEjDoucaj-YaFUp_koI5y6zAOHk/edit "Clean Air and Climate Change Act")).
 
 Here is a powerpoint summary (click [here](http://www.sipreform.com/uploads/Clean_Air_and_Climate_Change_Act_of_2014.pdf)).
 

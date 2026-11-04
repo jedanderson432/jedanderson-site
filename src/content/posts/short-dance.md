@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 1969 - \_\_\_\_\_
 
-![](/images/posts/short-dance/img-01.gif)
 
 1969 -
 
@@ -21,11 +20,9 @@ Jed Anderson
 
 "He worked on building a machine to protect earth and humanity."
 
-[![](/images/posts/short-dance/img-02.png)](https://r20.rs6.net/tn.jsp?f=001MTuhrcmD53AaSP63smm76xyLsc6mj18Q7sU0nvFX3re0PbCUr7eaDGc5l8NeBr46M_4gykiVsTX_RiKyildiKt4UFAtUCu-WpMg5yOdz-vfH_FG43i4keEpR99rvV8ZeqGZH7Mm3FYw=&c=&ch=)
 
 [www.enviro.ai](https://r20.rs6.net/tn.jsp?f=001MTuhrcmD53AaSP63smm76xyLsc6mj18Q7sU0nvFX3re0PbCUr7eaDKjdeoozLcTntrROVSYVQyQJJEnOq_ZtNSSs5QNyNtA-jQ2ILTyeTfI0c93t7EsvMMRVvNOkhUdg3sDBR59LFjc=&c=&ch=)
 
-![](/images/posts/short-dance/img-03.gif)
 
 ---“Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
 

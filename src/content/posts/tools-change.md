@@ -19,21 +19,15 @@ original_source: "Constant Contact campaign"
 
 Professional Tools Change Over Time
 
-![](/images/posts/tools-change/img-01.gif)
 
 Farming
 
-![](/images/posts/tools-change/img-02.gif)
 
-![](/images/posts/tools-change/img-03.gif)
 
-![](/images/posts/tools-change/img-04.gif)
 
 Environmental
 
-![](/images/posts/tools-change/img-05.gif)
 
-![](/images/posts/tools-change/img-06.gif)
 
 ---"EnviroAI has become my 'go-to' tool as an environmental professional. Every time the phone rings with a new project, its this tool I'm now consulting."
 
@@ -41,9 +35,7 @@ Environmental
 
 ---"This 'augmented intelligence' tool has been the biggest game-changer I've seen in my 20 year environmental career."
 
-![](/images/posts/tools-change/img-07.gif)
 
-![](/images/posts/tools-change/img-08.gif)
 
 Don't Be Left Behind by Technology
 
@@ -51,12 +43,8 @@ Use it to the benefit of you, your company, and the environment!
 
 [Contact us for a Demonstration](mailto:jed@enviro.ai)
 
-![](/images/posts/tools-change/img-09.gif)
 
-![](/images/posts/tools-change/img-10.gif)
 
 This is an advertisement for EnviroAI
 
-![](/images/posts/tools-change/img-11.gif)
 
-![](/images/posts/tools-change/img-12.gif)

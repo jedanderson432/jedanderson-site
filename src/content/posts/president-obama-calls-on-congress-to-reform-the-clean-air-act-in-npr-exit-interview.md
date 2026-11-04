@@ -12,7 +12,6 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](https://www.youtube.com/watch?v=lEjeKrZxDFQ&t=36m8s)'
 ---
 
-[![obama1](/images/sip/obama1.png)](https://www.youtube.com/watch?v=lEjeKrZxDFQ&t=36m8s)
 
 Fascinating reporter question.  And even more fascinating answer from outgoing President Obama.
 

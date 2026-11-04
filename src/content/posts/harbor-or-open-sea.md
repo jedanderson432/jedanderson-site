@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Shore or Adventure?
 
-![](/images/posts/harbor-or-open-sea/img-01.gif)
 
 ‌
 
@@ -25,7 +24,6 @@ PERCEPTION OF PHENOMENA
 
 -Jed Anderson
 
-![](/images/posts/harbor-or-open-sea/img-02.jpg)
 
 "Nothing in life is to be feared. It is only to be understood.'
 
@@ -35,11 +33,8 @@ GOING BEYOND IMMEDIATE PERCEPTION
 
 How much can we perceive?
 
-![](/images/posts/harbor-or-open-sea/img-03.png)
 
-![](/images/posts/harbor-or-open-sea/img-04.png)
 
-![](/images/posts/harbor-or-open-sea/img-05.png)
 
 THE HISTORY OF HUMAN PERCEPTION INCREASING
 
@@ -53,7 +48,6 @@ The continual iconoclastic evolution in our cosmological understanding . . .
 - Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925 "The day we discovered the universe"]
 - Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_?
 
-![](/images/posts/harbor-or-open-sea/img-06.png)
 
 PHYSICS
 
@@ -90,7 +84,6 @@ The continual iconoclastic evolution in our physical understanding . . .
 
 - \_\_\_\_\_\_? ("Post-Modern" Physics)(\_\_\_\_)
 
-![](/images/posts/harbor-or-open-sea/img-07.png)
 
 Further Increasing Perception
 
@@ -116,7 +109,6 @@ Further Increasing Perception
 
 #10 - [And this is #1 for me and the exercise I struggle with the most] God. The continual presence of Christ. This I think is the biggest sense of reality and perception we are capable of sensing--though I do not have proof and must pursue it through faith. I can't image there being a bigger perception and sense of reality than to be one with God.
 
-![](/images/posts/harbor-or-open-sea/img-08.png)
 
 More Perceptivity
 
@@ -136,27 +128,19 @@ DANGEROUS
 
 Entropy wins in harbors and deck chairs.
 
-![](/images/posts/harbor-or-open-sea/img-09.png)
 
-![](/images/posts/harbor-or-open-sea/img-10.gif)
 
 Safe places when it comes to entropy . . ..
 
-![](/images/posts/harbor-or-open-sea/img-11.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-12.png)
 
-![](/images/posts/harbor-or-open-sea/img-13.jpg)
 
 ‌
 
 Dangerous places when it comes to entropy . . ..
 
-![](/images/posts/harbor-or-open-sea/img-14.png)
 
-![](/images/posts/harbor-or-open-sea/img-15.png)
 
-![](/images/posts/harbor-or-open-sea/img-16.png)
 
 ‌
 
@@ -252,7 +236,6 @@ ENTROPY
 
 —C.S. Lewis
 
-![](/images/posts/harbor-or-open-sea/img-17.png)
 
 “If and when we learn how to combine bits in fantastically large numbers to obtain what we call existence, we will know better what we mean both by bit and by existence.”
 
@@ -262,43 +245,30 @@ ENTROPY
 
 (physicist who came up with the term"black hole"")
 
-![](/images/posts/harbor-or-open-sea/img-18.gif)
 
-![](/images/posts/harbor-or-open-sea/img-19.gif)
 
-![](/images/posts/harbor-or-open-sea/img-20.png)
 
-![](/images/posts/harbor-or-open-sea/img-21.png)
 
 "Matter (Heisenberg/Einstein/Bohr/Schroedinger), mathematics (Godel’s incompleteness theorem), and computation (Turing/Shannon/Kolmogorov-Chaitlin complexity-halting problem ) all seem to similarly break down at the same point. The fact that they all break down, where they break down, and this relationship does not appear to be coincidental. In fact, they all seem to be saying the same thing (but in different ways) and pointing in the same direction."
 
 - Jed Anderson
 
-![](/images/posts/harbor-or-open-sea/img-22.png)
 
-![](/images/posts/harbor-or-open-sea/img-23.png)
 
-![](/images/posts/harbor-or-open-sea/img-24.gif)
 
 "---"Simpler to control pollution as informationthan as matter."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/harbor-or-open-sea/img-25.png)
 
 "It from bit." - John Wheeler
 
-![](/images/posts/harbor-or-open-sea/img-26.png)
 
 "Information: the negative reciprocal of probability."- Claude Shannon
 
-![](/images/posts/harbor-or-open-sea/img-27.png)
 
-![](/images/posts/harbor-or-open-sea/img-28.png)
 
-![](/images/posts/harbor-or-open-sea/img-29.png)
 
-![](/images/posts/harbor-or-open-sea/img-30.png)
 
 "The world is focused on protecting the environment fundamentally as a physical structure. We're the first company considering it might be more 'information-based' at its foundation than what humans have been historically and traditionally thinking--and creating a system to help try to protect it as such. Simpler. Faster. Less energy involved in utilizing an information-based protection system."
 
@@ -306,29 +276,20 @@ ENTROPY
 
 Is the environment more fundamentally matter or information?
 
-![](/images/posts/harbor-or-open-sea/img-31.png)
 
 Nick Bostrom at Oxford, David Deutsch at Oxford, Elon Musk, Neils degrasse Tyson, Seth Loyd at MIT, these Microsoft scientists that recently wrote this paper entitled "[The Autodidactc Universe](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EBTUksYiWATlQPm1pcEJvaeZm-Grq_fzen60TVvIcu88PZqArHr25nxbJ8E6lSYk2dvCyyrJShfPSeelnK3sr5uztrGMwx6aPACxmgH9P0hP&c=&ch=)", and others think the odds are that we're living in a simulation or a computer. I WILL NOT TOUCH THIS HYPOTHESIS. I DON'T NEED TO. I frankly don't care what we call it. The odds are 100% that even if this is not a computer . . . it will keep acting like a computer because that's what its doing. It's computing.
 
 Is the universe acting like an autodidactic computer?
 
-![](/images/posts/harbor-or-open-sea/img-32.png)
 
 ---"If it looks like a duck, swims like a duck, and quacks like a duck . . . then its . . . not necessarily a duck . . . but the odds have gone up considerably now that it also likes crackers." - Jed Anderson, EnviroAI
 
-![](/images/posts/harbor-or-open-sea/img-33.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-34.png)
 
 ﻿Even if the Universe is not a computer, or simulation . . . the mathematical, computational, and informational underpinnings make you scratch your head sometimes and wonder why this thing is acting like a duck.
 
-![](/images/posts/harbor-or-open-sea/img-35.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-36.png)
 
-![](/images/posts/harbor-or-open-sea/img-37.gif)
-![](/images/posts/harbor-or-open-sea/img-38.gif)
-![](/images/posts/harbor-or-open-sea/img-39.gif)
 
 "I can go a couple hours . . . sometimes a couple days . . . and then I'm back thinking about Claude Shannon again."
 
@@ -358,65 +319,41 @@ Alternatively, we could talk about system solutions.
 
 ﻿And the idea of a system solution is we accept the lousy channel as it is and we add encoding and decoding systems around that channel to turn it into a reliable channel. So this is a much more exciting approach than the physical approach. Physics is exciting too, but the system approach accepts the unreliable system as it is and transforms it into a reliable system. And that's what information theory is about.” – Professor David MacKay, Cambridge University
 
-![](/images/posts/harbor-or-open-sea/img-40.png)
 
-![](/images/posts/harbor-or-open-sea/img-41.png)
 
 Remember . . . and this is critical. . . I'm not talking about changing the "environmental signal". I'm talking about reducing the noise . . . reducing the complexity. It will be like talking to your friend on the cell phone. It's still your friend's voice on the cell phone. It's still the same content.  In fact, its better content and a higher quality. Does anyone think that the person they speak to on an analog phone is different than the person they speak to on a digital phone? I don't think so. No one is that naive.
 
 It's a fascinating world ahead of us.
 
-![](/images/posts/harbor-or-open-sea/img-42.png)
 
-![](/images/posts/harbor-or-open-sea/img-43.jpg)
 
 . . . "To think that our big bang was the only bang would seem at this point to me to be a bit narrow-minded, anthropocentric, and in contradiction to the continual iconoclastic evolution in our cosmological understanding."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/harbor-or-open-sea/img-44.gif)
 
-![](/images/posts/harbor-or-open-sea/img-45.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-46.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-47.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-48.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-49.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-50.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-51.png)
 
 ‌
 
-![](/images/posts/harbor-or-open-sea/img-52.gif)
 
-![](/images/posts/harbor-or-open-sea/img-53.gif)
 
-[![](/images/posts/harbor-or-open-sea/img-54.png)](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EBGOLchpQxa-CZ1agRLcgdiOqRzWgKpN9maImMLRtxiOPK8mGUHyVOIf5d3WHo_yNgrLx5wQz5MV69inmoP3Hb2koJM4MSUSGTFmEaVtP_jJLRb2_DT-1Cgbf0wlrek9p7YoL0pJFM_FSoZazaVagCCGNVoPCx4jJQ==&c=&ch=)
 
-![](/images/posts/harbor-or-open-sea/img-55.gif)
-![](/images/posts/harbor-or-open-sea/img-56.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EOjS_LuDLXzGcSP52CPe5s8CuJeKRp2n2LnSfx1jsaDMZUSFFXbZmwsPOwwTCdkpf5mSTcMeakSi2ibd28XmE_zTEFGfSG7-Og==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/harbor-or-open-sea/img-57.gif)
 
-![](/images/posts/harbor-or-open-sea/img-58.gif)
 
-[![](/images/posts/harbor-or-open-sea/img-59.png)](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EBGOLchpQxa-CZ1agRLcgdiOqRzWgKpN9maImMLRtxiOPK8mGUHyVOIf5d3WHo_yNgrLx5wQz5MV69inmoP3Hb2koJM4MSUSGTFmEaVtP_jJLRb2_DT-1Cgbf0wlrek9p7YoL0pJFM_FSoZazaVagCCGNVoPCx4jJQ==&c=&ch=)
 
-![](/images/posts/harbor-or-open-sea/img-60.gif)
-![](/images/posts/harbor-or-open-sea/img-61.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EBGOLchpQxa-CZ1agRLcgdiOqRzWgKpN9maImMLRtxiOPK8mGUHyVOIf5d3WHo_yNgrLx5wQz5MV69inmoP3Hb2koJM4MSUSGTFmEaVtP_jJLRb2_DT-1Cgbf0wlrek9p7YoL0pJFM_FSoZazaVagCCGNVoPCx4jJQ==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/harbor-or-open-sea/img-62.gif)
 
-![](/images/posts/harbor-or-open-sea/img-63.png)
 
 ﻿James Webb Space Telescope
 
@@ -424,33 +361,26 @@ How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGC
 
 - Jed Anderson
 
-![](/images/posts/harbor-or-open-sea/img-64.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/harbor-or-open-sea/img-65.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine" as many people call it, but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/harbor-or-open-sea/img-66.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/harbor-or-open-sea/img-67.png)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/harbor-or-open-sea/img-68.gif)](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EKJcgLAQRB30J1PjmRcoXkn9d34UqC_6HrRqj21xTTUh_BGwfs3l3CRQ-VSU1o0pHHZEDFFbedjwb8jvbajGQ70x-uAbFxXEg85fGhYwjbfd8ZnWhXRDS8pFiLgq_jc-LQ==&c=&ch=)
 
-![](/images/posts/harbor-or-open-sea/img-69.png)
 
-![](/images/posts/harbor-or-open-sea/img-70.gif)
 
 See if you can find the pattern in this code:
 
@@ -458,31 +388,23 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/harbor-or-open-sea/img-71.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/harbor-or-open-sea/img-72.png)
 
-![](/images/posts/harbor-or-open-sea/img-73.png)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/harbor-or-open-sea/img-74.png)
 
-![](/images/posts/harbor-or-open-sea/img-75.png)
 
-![](/images/posts/harbor-or-open-sea/img-76.png)
 
-![](/images/posts/harbor-or-open-sea/img-77.png)
 
 Simplicity.
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-![](/images/posts/harbor-or-open-sea/img-78.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
@@ -492,13 +414,11 @@ Simplicity.
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EKBn_LaSUmKLN2X62F70PN7kTwer481y-BdXijf0fexAqP4XS40lxkf-KYt82pOpD5seyp_fgFz3RdZ87xF7Sy7GJOYHbwvMoN1oEvfP9Tn-&c=&ch=)
 
-[![](/images/posts/harbor-or-open-sea/img-79.png)](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EKBn_LaSUmKLN2X62F70PN7kTwer481y-BdXijf0fexAqP4XS40lxkf-KYt82pOpD5seyp_fgFz3RdZ87xF7Sy7GJOYHbwvMoN1oEvfP9Tn-&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-[![](/images/posts/harbor-or-open-sea/img-80.gif)](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EFqchSDAslX_FAOQ9USmd5xgQhzUtdX1VvyhARly1va6JR90mSFXM33Y3IR5F9pa-hNtCFGsVIp9yCrL5wsj6fzNNvC5pi0jYw==&c=&ch=)
 
 ‌
 
@@ -506,34 +426,23 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/harbor-or-open-sea/img-81.png)
 
-![](/images/posts/harbor-or-open-sea/img-82.gif)
 
-![](/images/posts/harbor-or-open-sea/img-83.gif)
 
-![](/images/posts/harbor-or-open-sea/img-84.png)
 
-![](/images/posts/harbor-or-open-sea/img-85.gif)
-![](/images/posts/harbor-or-open-sea/img-86.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
 ‌
 
-[![](/images/posts/harbor-or-open-sea/img-87.jpg)](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EFqchSDAslX_FAOQ9USmd5xgQhzUtdX1VvyhARly1va6JR90mSFXM33Y3IR5F9pa-hNtCFGsVIp9yCrL5wsj6fzNNvC5pi0jYw==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EFqchSDAslX_FAOQ9USmd5xgQhzUtdX1VvyhARly1va6JR90mSFXM33Y3IR5F9pa-hNtCFGsVIp9yCrL5wsj6fzNNvC5pi0jYw==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/harbor-or-open-sea/img-88.png)
 
-![](/images/posts/harbor-or-open-sea/img-89.png)
 
-![](/images/posts/harbor-or-open-sea/img-90.png)
 
-![](/images/posts/harbor-or-open-sea/img-91.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -547,9 +456,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/harbor-or-open-sea/img-92.gif)
 
-![](/images/posts/harbor-or-open-sea/img-93.jpg)
 
 ---"Everything is patterns.
 
@@ -559,13 +466,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/harbor-or-open-sea/img-94.gif)
 
-![](/images/posts/harbor-or-open-sea/img-95.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/harbor-or-open-sea/img-96.gif)
 
 Notes are data. Music is patterns.
 
@@ -577,45 +481,33 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/harbor-or-open-sea/img-97.gif)
 
-![](/images/posts/harbor-or-open-sea/img-98.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-99.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-100.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/harbor-or-open-sea/img-101.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/harbor-or-open-sea/img-102.png)
 
-![](/images/posts/harbor-or-open-sea/img-103.png)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/harbor-or-open-sea/img-104.png)
 
-![](/images/posts/harbor-or-open-sea/img-105.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/harbor-or-open-sea/img-106.gif)](https://r20.rs6.net/tn.jsp?f=001cQ9tb9JOl4N_0eGChevox6EienhGA1aLUpp5pknhAMRIScUIVRr8EKJcgLAQRB30J1PjmRcoXkn9d34UqC_6HrRqj21xTTUh_BGwfs3l3CRQ-VSU1o0pHHZEDFFbedjwb8jvbajGQ70x-uAbFxXEg85fGhYwjbfd8ZnWhXRDS8pFiLgq_jc-LQ==&c=&ch=)
 
-![](/images/posts/harbor-or-open-sea/img-107.gif)
 
 SIMPLICITY
 
-![](/images/posts/harbor-or-open-sea/img-108.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -624,7 +516,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/harbor-or-open-sea/img-109.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -637,7 +528,6 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/harbor-or-open-sea/img-110.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -652,7 +542,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/harbor-or-open-sea/img-111.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -698,11 +587,8 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/harbor-or-open-sea/img-112.gif)
 
-![](/images/posts/harbor-or-open-sea/img-113.jpg)
 
-![](/images/posts/harbor-or-open-sea/img-114.jpg)
 
 ‌
 
@@ -1076,6 +962,4 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/harbor-or-open-sea/img-115.gif)
 
-![](/images/posts/harbor-or-open-sea/img-116.gif)

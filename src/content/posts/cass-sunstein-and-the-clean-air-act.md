@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '## Sunstein and the Clean Air ActCass Sunstein’s Book: “Simpler: The Future of Government”'
 ---
 
-## [Sunstein and the Clean Air Act](/images/sip/sunstein-and-the-clean-air-act.jpg)Cass Sunstein’s Book:  “Simpler:  The Future of Government”
+## Sunstein and the Clean Air ActCass Sunstein’s Book:  “Simpler:  The Future of Government”
 
 - **Reporter’s Question:  “Are there obstacles in the way of simplifying further?”**
 - **Cass Sunstein’s Reply:** **“****One big challenge is statutory requirements [i.e., the laws written by Congress]. . . . [S]ometimes efforts to simplify regulations are blocked by legal mandates. That’s a challenge.”**

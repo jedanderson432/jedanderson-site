@@ -13,13 +13,11 @@ original_source: "Constant Contact campaign"
 
 Faith. $3 million invested. Courage.
 
-![](/images/posts/no-fear/img-01.gif)
 
 NO FEAR.
 
 FAITH.
 
-![](/images/posts/no-fear/img-02.gif)
 
 Too much fear in the world right now. Faith. Courage.
 
@@ -29,16 +27,12 @@ Now is the time that all of us faith people love. A time where it's especially n
 
 I wish all of you joy and peace on the mountain climb. The sun is always behind the clouds. All is well. All is always well.
 
-![](/images/posts/no-fear/img-03.gif)
 
 INTELLIGENCE.DATA. POWER. SPEED
 
-![](/images/posts/no-fear/img-04.png)
 
-![](/images/posts/no-fear/img-05.gif)
 
 [For More information on Ceres AI](http://r20.rs6.net/tn.jsp?f=001pUQINGZ37Df52RUth12xzl1kPwVMrE-cdS6gsCNowpbfaCj5Q7TOSXSX499ov_q5jWXlK2h_oBWgx_Y3lCkJf_yUJv0rFbZ7oyXfGVKTdUDzUUoD3NpPaR1L5-7pXPqpoK_wZmNPekvNZe80FnoYWw==&c=&ch=)
 
-![](/images/posts/no-fear/img-06.gif)
 
 This is an advertisement for Ceres AI LLC

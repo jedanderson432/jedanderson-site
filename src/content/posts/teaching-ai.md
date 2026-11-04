@@ -11,7 +11,6 @@ pdf: "/pdfs/teaching-ai.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-![](/images/posts/teaching-ai/img-01.gif)
 
 Our Customers . . .
 
@@ -29,20 +28,14 @@ Our customers are not only profiting from the use of artificial intelligence, bu
 
 - To promote the freedom of human endeavor.
 
-![](/images/posts/teaching-ai/img-02.gif)
 
-![](/images/posts/teaching-ai/img-03.gif)
 
-![](/images/posts/teaching-ai/img-04.gif)
 
-![](/images/posts/teaching-ai/img-05.gif)
 
 ---"AI doesn't need to be trained to do more bad things in this world. AI needs to be trained to do more good things. Our customers are not only customers . . . but people who want to leave an indelible mark on the future of environmental protection."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/teaching-ai/img-06.gif)
 
-[![](/images/posts/teaching-ai/img-07.png)](https://r20.rs6.net/tn.jsp?f=0017HWW8BY8LhGFqxBs31NqmaOm54WMaERSiJVd9iqebznFoNjLXGidb0y1LybqgLievYzKHwPeVTIYQC2lnlcy077fr8Q4yZFWZ6dUWbzGiDlMTa8CoA8zDvPQkg0eqwXLJ8A3z-oo84I=&c=&ch=)
 
 ‌

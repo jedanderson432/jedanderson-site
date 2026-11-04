@@ -15,7 +15,6 @@ original_source: "Constant Contact campaign"
 
 . . . the challenge of forgiving each other . . . and most of all . . . ourselves.
 
-![](/images/posts/forgiveness/img-01.gif)
 
 My wife thinks I will either revolutionize how we protect the environment . . . or become a monk. :)
 
@@ -23,15 +22,12 @@ The latter is not my gig. I was thinking this morning though about forgiveness a
 
 In some liturgies, the pastor, in the confession and forgiveness of sins, tells the congregation: "Your sins are forgiven". The congregation then responds: "Your sins are forgiven." How cool would that be? How cool would that be to have 100-500 people saying back to you that your sins are forgiven? Imagine that. 100-500 people all telling you, all at the same time, telling you, the pastor, that your sins are forgiven. That to me might be the coolest thing about being a pastor. Cool.
 
-![](/images/posts/forgiveness/img-02.gif)
 
-![](/images/posts/forgiveness/img-03.png)
 
 FORGIVENESS
 
 Sometimes I wonder how many negative things that happen in the world stem from a reluctance to forgive ourselves and each other.
 
-![](/images/posts/forgiveness/img-04.gif)
 
 "To forgive is to set a prisoner free and discover that the prisoner was you."—Lewis B. Smedes
 
@@ -61,8 +57,6 @@ Sometimes I wonder how many negative things that happen in the world stem from a
 
 “I forgive myself and set myself free.” –Louise Hay
 
-![](/images/posts/forgiveness/img-05.gif)
 
 ‌
 
-![](/images/posts/forgiveness/img-06.gif)

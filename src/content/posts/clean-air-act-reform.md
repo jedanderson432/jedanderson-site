@@ -12,7 +12,6 @@ tags: ['clean-air-act', 'regulatory-reform', 'monitoring', 'simplicity']
 abstract: '[](/images/sip/caa1.png)'
 ---
 
-[![](/images/sip/caa1.png "caa")](/images/sip/caa1.png)
 
 It’s easy to forget that the Clean Air Act or its predecessor has already been revised 5 times.  This is the longest stretch without an update.  We are at 22 years.  The next closest is 13 years.
 

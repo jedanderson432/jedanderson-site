@@ -17,7 +17,6 @@ Job's Response in light of Quantum Field Theory
 
 I just get giddy with excitement reading passages like this . . . Praise. Praise. Praise.
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-01.jpg)
 
 ‌
 
@@ -25,21 +24,16 @@ I just get giddy with excitement reading passages like this . . . Praise. Praise
 
 - Jed Anderson
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-02.gif)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-03.gif)
 
 Job might have dropped his complaining even sooner if he saw the quantum fluctuations occurring in space-time. It's so bizarre.
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-04.gif)
 
 PRAISE & BEWILDERMENT
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-05.gif)
 
 PRAISE & BEWILDERMENT
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-06.gif)
 
 PRAISE & BEWILDERMENT
 
@@ -53,9 +47,7 @@ PRAISE & BEWILDERMENT
 
 - God to Job ( Job 38)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-07.jpg)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-08.gif)
 
 . . . just 1universe in the Universe?
 
@@ -63,9 +55,7 @@ PRAISE & BEWILDERMENT
 
 - Jed Anderson
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-09.gif)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-10.jpg)
 
 BIG BANG
 
@@ -81,17 +71,12 @@ OMNI-BANG?
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-11.gif)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-12.png)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-13.jpg)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-14.gif)
 
 Just how big is creation? . . . how may "bangs" ?
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-15.gif)
 
 The iconoclastic evolution in our cosmological understanding . . .
 
@@ -101,56 +86,33 @@ The iconoclastic evolution in our cosmological understanding . . .
 - Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925"The day we discovered the universe"]
 - Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_?
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-16.gif)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-17.jpg)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-18.jpg)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-19.jpg)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-20.jpg)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-21.jpg)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-22.jpg)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-23.png)
 
 ‌
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-24.gif)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-25.gif)
 
-[![](/images/posts/praise-praise-praise-and-bewilderment/img-26.png)](https://r20.rs6.net/tn.jsp?f=001N4O4Gy8PWqKIru7KK64OMxkRP-5XACogqzVBqxb_01SI9DiJeqZha69PEx_h3uk0H8HCRmGNoaLrhMBQQrEG48-S6Tkx_o3zU5QWK--GyGhMpPkg-kLzZpHqfMSRAmNLAr94MQRIvtusfrEdMnn4XVUZ3CMnQQLUw2tHZicH0IdDRGFLtj_qQDsQBPExkKuKm1fKNytHP9CBKjFpMQRPlQ==&c=&ch=)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-27.gif)
-![](/images/posts/praise-praise-praise-and-bewilderment/img-28.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001N4O4Gy8PWqKIru7KK64OMxkRP-5XACogqzVBqxb_01SI9DiJeqZha3QkhgxIft5qXgW1MfvvWeE164HKt-w8BfetMEGEEf7ky4GEnuqNDyynpn9W30QCVBWanwws_Cur668IKL4cxVMJ7SfxKSs-4w==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-29.gif)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-30.gif)
 
-[![](/images/posts/praise-praise-praise-and-bewilderment/img-31.png)](https://r20.rs6.net/tn.jsp?f=001N4O4Gy8PWqKIru7KK64OMxkRP-5XACogqzVBqxb_01SI9DiJeqZha69PEx_h3uk0H8HCRmGNoaLrhMBQQrEG48-S6Tkx_o3zU5QWK--GyGhMpPkg-kLzZpHqfMSRAmNLAr94MQRIvtusfrEdMnn4XVUZ3CMnQQLUw2tHZicH0IdDRGFLtj_qQDsQBPExkKuKm1fKNytHP9CBKjFpMQRPlQ==&c=&ch=)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-32.gif)
-![](/images/posts/praise-praise-praise-and-bewilderment/img-33.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001N4O4Gy8PWqKIru7KK64OMxkRP-5XACogqzVBqxb_01SI9DiJeqZha69PEx_h3uk0H8HCRmGNoaLrhMBQQrEG48-S6Tkx_o3zU5QWK--GyGhMpPkg-kLzZpHqfMSRAmNLAr94MQRIvtusfrEdMnn4XVUZ3CMnQQLUw2tHZicH0IdDRGFLtj_qQDsQBPExkKuKm1fKNytHP9CBKjFpMQRPlQ==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-34.gif)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-35.gif)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-36.png)
 
 ---"The Universe is full of possibility.The more expansive the range of probability, the more possible of course that everything becomes. Simple math. Bigger range, now you've got a chance since you're in range. Possibility then just becomes the inevitable outcome of probability played out. Once you are in the range . . . it's gonna happen. AND THIS WE KEEP LEARNING IS SURE ONE EVER-INCREASING 'GINORMOUS' RANGE OF POSSIBILITY. It's incredible!!! Jaw-dropping. Bewildering. Praiseworthy. Joy-evoking."
 
 - Jed Anderson
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-37.png)
 
-![](/images/posts/praise-praise-praise-and-bewilderment/img-38.gif)

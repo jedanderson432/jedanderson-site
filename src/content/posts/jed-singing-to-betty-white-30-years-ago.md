@@ -17,7 +17,6 @@ original_source: "Constant Contact campaign"
 
 A picture of me and my friends singing to Betty White . . .30 years ago . . .
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-01.jpg)
 
 The Back Story:Betty White was of course in the "Golden Girls", which was set in the fictitious town of St. Olaf. Although St. Olaf isn't a town, it is a college in Minnesota. Betty, being Betty, responded to a request to visit . . . flying up to our small college in a town so small a sign at the edge of town reads, "Cows, Colleges, and Contentment." (see article: "[The one time Betty White visited the real St. Olaf](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRkKpabuRVqVNdaX3l4bekQLqhSHiKE3ucRW5QbazSyPK2ydHQwq1De67gFmIwh125LqPKV-Ufe7BmP2_UniuLneZp3iDanZ8i1sv33A-knBLPfhgruHIxcA1YkYqpC7LcrUj6kcz9vv87XoN_ak-Shn5RHFwf_T4BJ_HdOYWWQW_5LhBPiYCvI83X-YrktB44Gxi3NfhFUTNVG4r45UQo2w=&c=&ch=)"). My friends and I had started an acapella group called the [Limestones](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRkKpabuRVqVN9aQ3h8MCThEBXvLn7XJcNFgufOL3_62Xzwj4LKyctCaoLs_kMgFIny36zkkHG24CFRK_eNo8OSDxPqUaEQD2ZWytrVcnyuWfHaf7TbfRo2yUhl8d1EV7yLO-abpYigQuS2DYLrZ_WnVp35c9l7a16GkZIM3_bwM0a8iM2NZhJtX7E6-QdwIVp4mGAkKbMP2CKLMVkTB87D7znqCi1dEeN-X72ZQc3gqrcfeowyVB2Xk5WdGyZ03gh1UgQOKktbtNAiwywk8jfTnvro_bUfzVMxjdcfDFZWjR3LqLh5koW6xFOmPyx5uZWlxtOMTCJl1ZbAKXmjjx4SZ-A7YVCOa_AVGUtjVaB5tYuj-EhTUF08HuftbqsQHi2J9_2hIqvzycYJFd4nl-OcMXNQ9nzs_rKxAWXQGhKj4g&c=&ch=). Betty, again being Betty, gave each of us a kiss on the cheek.
 
@@ -25,7 +24,6 @@ Betty was a maverick . . . who completely ignored barriers of custom and traditi
 
 The [Limestones are still going to this day](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRkKpabuRVqVNO7cGoO0lof3_sgRmkuAMgfmVv_K30iJGA00UmBL75qfY68S_bO7dezP3VhuxSemy909igem0A-G0Cy2OXCSZSA==&c=&ch=). At our last reunion concert, a former Limestone, now Broadway music conductor, and another talented New Yorker, re-wrote the lyrics to Hamilton as Jed "not throwing away my shot". [Here is the performance](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRkKpabuRVqVNK3lUf0cbv0shc6ZTx9hHGc_65DOVJIhNccJUs8MD_E-dIIh9pdN7vFBoaGjOTH0nkYf-i86y2s1l2P6n4OC588h2A-1828ZzXmYXJt1blS_lixEtI_JFEw==&c=&ch=). I often think back to this moment on the stage where I now find myself building a machine to protect nature and humanity. And like Betty and Alexander . . . . I'm not throwing away my shot.
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-02.png)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRkKpabuRVqVNK3lUf0cbv0shc6ZTx9hHGc_65DOVJIhNccJUs8MD_E-dIIh9pdN7vFBoaGjOTH0nkYf-i86y2s1l2P6n4OC588h2A-1828ZzXmYXJt1blS_lixEtI_JFEw==&c=&ch=)
 
 Re-written Lyrics to "I'm not throwing away my shot"
 
@@ -57,9 +55,7 @@ And there’s a million things I haven’t done
 
 . . . but just you wait.. . . Just you wait.”
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-03.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-04.gif)
 
 Simplicity.
 
@@ -71,35 +67,27 @@ Laughter.
 
 - Jed Anderson
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-05.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-06.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine" as many people call it, but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-07.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-08.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-09.gif)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-10.gif)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRn2EQJ7Er8pLKXWg1euSIQR9xtBemXOGNoy9kTytWXZwVIJmBypbkq4scgE_6Jel6ng2K_N_DqKjme1dOBKgML8WGf4l1G41LuqmWyJQ4yQ77JWo950ME5D21VgUA_dXjQ==&c=&ch=)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-11.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-12.gif)
 
 See if you can find the pattern in this code:
 
@@ -107,33 +95,25 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-13.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-14.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-15.gif)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-16.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-17.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-18.png)
 
 Simplicity.
 
 ---"We are getting back to where we once belonged . . . the underlying simplicities driving all this rich complexity." - Jed Anderson, EnviroAI
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-19.png)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRmXPkUWFLg9M1NWWOexlbgRHHbPRna4tN5Kl-DIZnbluOa4-A1n1GPCduhpmCDN1b9hw6PZefWWq1oCbHIY2_yQltjsE73J_Ng==&c=&ch=)
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-20.jpg)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRmXPkUWFLg9MN1MlKucw92VxkiRfE0jsnQLwqvCDPxMTNu2559IQ_HqFkk4TrmfMKyGIUuPyHv25wSbNsIYBpkssGNMV1G2Rww==&c=&ch=)
 
 The Beatles
 
@@ -143,16 +123,11 @@ The song "Get Back" is 2 notes. It's only 2 two. It's just two notes. Two notes.
 
 The Beatles, just like Oscar Peterson and J.S. Bach below, understood the underlying simplicity so well that they could let their imaginations and creativity go wild and begin to "play the universe" . . . producing richer and more complex phenomena.
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-21.gif)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRmXPkUWFLg9M1NWWOexlbgRHHbPRna4tN5Kl-DIZnbluOa4-A1n1GPCduhpmCDN1b9hw6PZefWWq1oCbHIY2_yQltjsE73J_Ng==&c=&ch=)
 
 These guys we're a bunch of goof-balls! I love it! What will surprise people in this documentary is how much silly-time was involved in this monumental work, and how much fun they had together and how much they loved each other and loved music.
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-22.gif)
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-23.gif)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRmXPkUWFLg9MN1MlKucw92VxkiRfE0jsnQLwqvCDPxMTNu2559IQ_HqFkk4TrmfMKyGIUuPyHv25wSbNsIYBpkssGNMV1G2Rww==&c=&ch=)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-24.gif)
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-25.gif)
 
 James Webb Telescope
 
@@ -160,36 +135,26 @@ James Webb Telescope
 
 I am so incredibly excited! My interest is not so much cosmological as it is understanding the underlying simplicities so we can "play the universe" when it comes to protecting the environment . . . Write the environmental protection equivalent of "Let it be" for nature and humanity. A masterpiece to life.
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-26.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-27.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-28.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-29.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-30.gif)
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-31.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-32.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRqrcyYHGnrDjUb3xhULDg79tpDNq9zxvWSU3Mrjw6_ef6GNgOCMFrvbyyMyvVtYMMaAWWwXfp_H2BQ6OwsP62w8tfUycOMVkhSF1cmdLCkzY&c=&ch=)
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-33.png)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRqrcyYHGnrDjUb3xhULDg79tpDNq9zxvWSU3Mrjw6_ef6GNgOCMFrvbyyMyvVtYMMaAWWwXfp_H2BQ6OwsP62w8tfUycOMVkhSF1cmdLCkzY&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-34.gif)
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-35.gif)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRqR48dzvMis2dkYLWl7LgaH2Sh-3ybiqQg82wHqAaAw0GuwNNiSqE2oRYFo8vnfgLJcGsYyJthhd937gJOjiYnP40MZOdGPsbw==&c=&ch=)
 
 ‌
 
@@ -197,38 +162,25 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-36.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-37.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-38.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-39.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-40.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-41.gif)
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-42.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-43.gif)
 
 ‌
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-44.jpg)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRqR48dzvMis2dkYLWl7LgaH2Sh-3ybiqQg82wHqAaAw0GuwNNiSqE2oRYFo8vnfgLJcGsYyJthhd937gJOjiYnP40MZOdGPsbw==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRqR48dzvMis2dkYLWl7LgaH2Sh-3ybiqQg82wHqAaAw0GuwNNiSqE2oRYFo8vnfgLJcGsYyJthhd937gJOjiYnP40MZOdGPsbw==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-45.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-46.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-47.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-48.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -242,9 +194,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-49.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-50.jpg)
 
 ---"Everything is patterns.
 
@@ -254,13 +204,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-51.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-52.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-53.gif)
 
 Notes are data. Music is patterns.
 
@@ -272,27 +219,19 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-54.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-55.jpg)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-56.jpg)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-57.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-58.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-59.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-60.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-61.png)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -308,29 +247,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-62.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-63.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-64.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-65.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-66.gif)](https://r20.rs6.net/tn.jsp?f=001Uk8Y8m42KLkXkaVFn8s_qjU04ITiqqwaTRQiM36kkuX16FrnWWAeRn2EQJ7Er8pLKXWg1euSIQR9xtBemXOGNoy9kTytWXZwVIJmBypbkq4scgE_6Jel6ng2K_N_DqKjme1dOBKgML8WGf4l1G41LuqmWyJQ4yQ77JWo950ME5D21VgUA_dXjQ==&c=&ch=)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-67.gif)
 
 SIMPLICITY
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-68.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -339,7 +271,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-69.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -352,9 +283,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-70.png)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-71.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -369,7 +298,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-72.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -417,6 +345,4 @@ SIMPLICITY
 
 ‌
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-73.gif)
 
-![](/images/posts/jed-singing-to-betty-white-30-years-ago/img-74.gif)

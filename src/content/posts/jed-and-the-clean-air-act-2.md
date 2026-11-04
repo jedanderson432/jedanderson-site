@@ -11,4 +11,3 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/jed-and-clean-air-act-2.png)'
 ---
 
-[![Jed and Clean Air Act 2](/images/sip/jed-and-clean-air-act-2.png)](/images/sip/jed-and-clean-air-act-2.png)

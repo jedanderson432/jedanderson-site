@@ -19,7 +19,6 @@ Self-help books are a waste of time . . .
 
 ﻿Eventually you get to a point in life where you've tried fixing yourself unsuccessfully so many times that you begin to question the efficacy. You also begin to realize that the platform itself is just too small even if you could fix it. It's just too limited of a vessel for pursuing greatness--both in yourself and the universe. That's when you starting picking up self-abandonment books.
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-01.gif)
 
 "Self-help books are a waste of time."
 
@@ -27,9 +26,7 @@ Self-help books are a waste of time . . .
 
 "If I am a field that con­tains noth­ing but grass-seed, I can­not pro­duce wheat. Cut­ting the grass may keep it short: but I shall still pro­duce grass and no wheat. If I want to pro­duce wheat, the change must go deep­er than the sur­face. I must be ploughed up and resown."- C.S. Lewis
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-02.jpg)
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-03.gif)
 
 More Freedom.
 
@@ -47,26 +44,18 @@ This works!
 
 In less than 3 minutes!
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-04.gif)
 
 #1 [Put this on . . . ]
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-05.jpg)
 
 #2 [While thinking about this . . . ]
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-06.jpg)
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-07.gif)
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-08.jpg)
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-09.gif)
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-10.gif)
 
 #3 [While reading this . . . Job 38 et. seq. . .. "Where were you when I . . .]
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-11.gif)
 
 And for the long term fix . . .
 
@@ -80,6 +69,4 @@ Reward?
 
 “Give up yourself, and you will find your real self. Lose your life and you will save it. Submit to death, death of your ambitions and favorite wishes every day and death of your whole body in the end submit with ever fiber of your being, and you will find eternal life. Keep back nothing. Nothing that you have not given away will be really yours. Nothing in you that has not died will ever be raised from the dead. Look for yourself, and you will find in the long run only hatred, loneliness, despair, rage, ruin, and decay. But look for Christ and you will find Him, and with Him everything else thrown in.” - C.S. Lewis
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-12.gif)
 
-![](/images/posts/self-help-books-are-a-waste-of-time-jed-anderson/img-13.gif)

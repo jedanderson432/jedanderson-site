@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith', 'policy']
 abstract: '[](/images/sip/isaac-newton-and-the-clean-air-act.png)I wonder what Isaac Newton would think about the Clean Air Act?'
 ---
 
-[![Isaac Newton and the Clean Air Act](/images/sip/isaac-newton-and-the-clean-air-act.png)](/images/sip/isaac-newton-and-the-clean-air-act.png)I wonder what Isaac Newton would think about the Clean Air Act?
+I wonder what Isaac Newton would think about the Clean Air Act?
 
 > **►   “Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things.” *—Isaac Newton***
 >

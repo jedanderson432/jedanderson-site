@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Environmental Leaders for the 21st Century
 
-![](/images/posts/follower-or-leader/img-01.gif)
 
 Follower or Leader?
 
@@ -25,14 +24,9 @@ Are you an environmental leader for the 21st century? You have the ability. It's
 4. "The true mark of a leader is the willingness to stick with a bold course of action—an unconventional business strategy, a unique product-development roadmap, a controversial marketing campaign—even as the rest of the world wonders why you're not marching in step with the status quo. In other words, real leaders are happy to zig while others zag. They understand that in an era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something special."-Bill Taylor
 5. "The pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.”-John Maxwell
 
-![](/images/posts/follower-or-leader/img-02.gif)
 
-![](/images/posts/follower-or-leader/img-03.gif)
 
-[![](/images/posts/follower-or-leader/img-04.gif)](http://r20.rs6.net/tn.jsp?f=0016NYp77I5NQztjDZ6wqW-EObS8iycsi0Kf4YYlhNSRnBLo6bwgHFzizxVynoxj2OOCz8L9aslc5mZxh4ogIsuzbbnjy0qpgiPAWAYp4zOp8U_CWLRLcFeo2vruLWLhlQDZJm1nl6W-Y6dcWeS6yZMem-XD7KWG-5szRB38q9mM4G1XJpdjc0pL4p_xwlWTmS6MQ99Ii_sRJX6q0mGW08Sc5KY3fv54GqGOcWndG3o_QE=&c=&ch=)
 
-![](/images/posts/follower-or-leader/img-05.gif)
-![](/images/posts/follower-or-leader/img-06.gif)
 
 Only
 
@@ -42,8 +36,6 @@ $17.95 a month
 
 Prices start at $17.95 a month for our basic TCEQ document search. Click here for[full product listing.](http://r20.rs6.net/tn.jsp?f=0016NYp77I5NQztjDZ6wqW-EObS8iycsi0Kf4YYlhNSRnBLo6bwgHFzizxVynoxj2OOCz8L9aslc5mZxh4ogIsuzbbnjy0qpgiPAWAYp4zOp8U_CWLRLcFeo2vruLWLhlQDZJm1nl6W-Y6dcWeS6yZMem-XD7KWG-5szRB38q9mM4G1XJpdjc0pL4p_xwlWTmS6MQ99Ii_sRJX6q0mGW08Sc5KY3fv54GqGOcWndG3o_QE=&c=&ch=)
 
-![](/images/posts/follower-or-leader/img-07.gif)
 
-[![](https://dor.georgia.gov/sites/dor.georgia.gov/files/styles/flexheight/public/ccard-logos-set.png?itok=4v1wv5qn)](http://r20.rs6.net/tn.jsp?f=0016NYp77I5NQztjDZ6wqW-EObS8iycsi0Kf4YYlhNSRnBLo6bwgHFzi3zOCl9uGpbdgGfvghI3pQEfQrILLSDZGBWjywByRBNiHtSNmLLlVb9DpAPBzFuYR1q1i48DPSym6mjGbA0QGcS7UsEJRph9H98JWZHhfMe_C_1kv9y46tI=&c=&ch=)
 
 This is an advertisement for EnviroAI

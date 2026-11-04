@@ -35,20 +35,15 @@ List of current Ceres AI Products:
 
 ‌
 
-![](/images/posts/automating-the-permitting-process/img-01.gif)
 
 INTELLIGENCE.DATA. POWER. SPEED
 
-![](/images/posts/automating-the-permitting-process/img-02.png)
 
-![](/images/posts/automating-the-permitting-process/img-03.gif)
 
 [For More information on Ceres AI](http://r20.rs6.net/tn.jsp?f=001cT97ZLtR80vr3ssrWd7GalSorhILc3RTtyoPX-2rmytj1PBeoVJRAg3wK4jynWQI7V2UllsB6Hh8jehMXXisiLlCgDOGHwDq1XD83K8MxYMG7j2gbVJeofyW60I1cK8HZaxc-1eSfTl3o-cv2UBA_Q==&c=&ch=)
 
-![](/images/posts/automating-the-permitting-process/img-04.gif)
 
 This is an advertisement for Ceres AI LLC
 
-![](/images/posts/automating-the-permitting-process/img-05.gif)
 
 ﻿

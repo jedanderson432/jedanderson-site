@@ -15,13 +15,9 @@ original_source: "Constant Contact campaign"
 
 ---"Simplifying and unifying environmental data--that's EnviroAI." - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/article-in-the-new-york-times-this-morning/img-01.gif)
 
-![](/images/posts/article-in-the-new-york-times-this-morning/img-02.gif)
 
-![](/images/posts/article-in-the-new-york-times-this-morning/img-03.jpg)
 
-![](/images/posts/article-in-the-new-york-times-this-morning/img-04.gif)
 
 Can a Computer Devise a Theory of Everything?
 

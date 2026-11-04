@@ -13,33 +13,23 @@ original_source: "Constant Contact campaign"
 
 . . . none are about the future
 
-![](/images/posts/my-top-5-books-about-the-future/img-01.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-02.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-03.gif)
 
 ---"The future equals history plus x to the nth."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/my-top-5-books-about-the-future/img-04.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-05.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-06.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-07.png)
 
 xis an unknown variable greater than 0
 
 nis exponential growth ([now the case](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx_0Q415PZyx27EMyliE5Unh91ZLexzRdWHz6sr7t0RT2yYU6dr__c82xlmktdVsk-zx9VrwaZertE7-S116qyYODNe9bQ3Wn9hW9SeZayJeRwj8c9_DSdMirT5PYlUQAvA==&c=&ch=))
 
-![](/images/posts/my-top-5-books-about-the-future/img-08.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-09.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-10.gif)
 
 My Top 5 Books about the Future
 
@@ -59,12 +49,8 @@ History is the known in the above equation when trying to solve for x.
 
 . . . See the sequences, speed, and evolution of the patterns in the information.
 
-![](/images/posts/my-top-5-books-about-the-future/img-11.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-12.gif)
 
-![](/images/posts/my-top-5-books-about-the-future/img-13.gif)
 
-[![](/images/posts/my-top-5-books-about-the-future/img-14.png)](https://r20.rs6.net/tn.jsp?f=001PAXSUZgf7KJtqb0VjVWlye9X410VN-N8VU162OztFWNysJVasJLYx-lJcLXjfXvdXHoqDlfGD4erwpCuu-CPdNbBUZvFJkLRXSdQY1HIHbqpVUc-PTxnT2e_6FdOUo16u8oScpkXAU0=&c=&ch=)
 
 ‌

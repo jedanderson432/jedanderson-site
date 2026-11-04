@@ -13,17 +13,14 @@ original_source: "Constant Contact campaign"
 
 Apparently the President couldn't wait until tomorrow . . .
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-01.gif)
 
 WOW.
 
 The President just released this image from the James Webb . . .
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-02.jpg)
 
 It's the farthest we've ever seen into the universe. No wonder why the President released it early! He just got too excited! I get it!!! Just stare at this. Look at the detail. It almost looks fake. Geeze. Tomorrow is the big release at 9:30 am! New York Times article: ["Goose Bumps Build for Webb's First Snapshots of the Universe."](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwKYO7O4ggXYBCgLo0RQq5EpgTUz7tw11r0--4_fBIrWHnG-p80KWwU8fdV5_9z1v0E-8R8jwzGDPzfmW4YnSlG_tLfylRoaG2N-V1Y4cLR1titioSFG5eIoXmu-yqnmGflLdMg9eA0mDqfqEkbSABcNrhKQE-Ro6V30HxX2PqXvNCZBHND0Ydh7V788ql8wL0-735m3H-rsiSGtCCRLP-9g=&c=&ch=)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-03.jpg)
 
 ----"We will find something weird.
 
@@ -45,25 +42,17 @@ S
 
 How big really is this whole thing?????????? How simple really is this whole thing??????
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-04.jpg)
 
 . . . "To think that our big bang was the only bang seems at this point to be a bit narrow-minded, anthropocentric, and in contradiction to the continual iconoclastic evolution in our cosmological understanding."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-05.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-06.jpg)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-07.jpg)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-08.jpg)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-09.jpg)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-10.jpg)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-11.jpg)
 
 The continual iconoclastic evolution in our cosmological understanding . . .
 
@@ -73,33 +62,20 @@ The continual iconoclastic evolution in our cosmological understanding . . .
 - Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925"The day we discovered the universe"]
 - Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_?
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-12.jpg)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-13.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-14.gif)
 
-[![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-15.png)](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwGuI_5uiKaYc97KnaqUqy11nKOz4ikM7ifIZB2cl7Gbm-8fQsTv7so3KL_wUe69FOJ4Rtt0rjE9jw79P7sw5tf1H39bKIFvsPcTR-6wtqSbjbDWB4MMjO6GbJe59JJD9SNZLwS2z3ArFC-HMONOgJOnTASDv1wCDeA==&c=&ch=)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-16.gif)
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-17.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwIdQe90sAL_OZ8BcY4OunPQJy8Zz8c1SMkmRxeLOkgmGZ4mcHmSILeQqdFqHrE_htOWo-dy-Mrw2LWVCZ_alD1KTbD4qGnJqrA==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-18.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-19.gif)
 
-[![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-20.png)](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwGuI_5uiKaYc97KnaqUqy11nKOz4ikM7ifIZB2cl7Gbm-8fQsTv7so3KL_wUe69FOJ4Rtt0rjE9jw79P7sw5tf1H39bKIFvsPcTR-6wtqSbjbDWB4MMjO6GbJe59JJD9SNZLwS2z3ArFC-HMONOgJOnTASDv1wCDeA==&c=&ch=)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-21.gif)
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-22.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwGuI_5uiKaYc97KnaqUqy11nKOz4ikM7ifIZB2cl7Gbm-8fQsTv7so3KL_wUe69FOJ4Rtt0rjE9jw79P7sw5tf1H39bKIFvsPcTR-6wtqSbjbDWB4MMjO6GbJe59JJD9SNZLwS2z3ArFC-HMONOgJOnTASDv1wCDeA==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-23.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-24.png)
 
 ﻿James Webb Space Telescope
 
@@ -107,67 +83,48 @@ How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vp
 
 - Jed Anderson
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-25.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-26.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-27.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-28.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-29.gif)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-30.gif)](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwDTnYHEqhL756HoEIZMfyk_H6U3orxOr9gqKmN8szpPcNWeaePYSugXqZZKqoQG-T20B2o5WwWzta4_aWJj3mM0dW51HsFsUm4XebbnpJ-zRGA6bMWz9so4nAvkcXTvjxw==&c=&ch=)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-31.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-32.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-33.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-34.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-35.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-36.png)
 
 ﻿---"The universeseems to equalsimple physical laws or code (which we do not completely understand yet) running over, and over,and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over, and over (for 13.8 billion years and counting). . . producing ever richer and more complex data (phenomena), and more data, and more data, and more data, and more data, and more data, and more data, and more data, and more data, and more data . . . until it's so phenomenally complicated and rich that I'm yak-yakking right now with these computer keystrokes and you are doing whatever you are doing. Weird. Wild. Fun. How much richer and more complicated can the phenomena get, and we help make it--especially as humankind better understands the underlying simplicities driving this inflationary expansion? Hang onto your hats."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-37.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-38.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-39.png)
 
 Simplicity.
 
-[![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-40.jpg)](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwBBnpHwVt3SNSTSIsqve3ZM0lmkLdn4tRtuhA-EPp6zSTkKWeBx0voma3d4CuCMVoih_gMLSNMKgpYdgTRyqkBO2UD4NMbqhhg==&c=&ch=)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-41.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwGjPNueO8Ly6tfjRKk28GE1vP0QQtN5u_AM8HIn0PX4i67tJOdkffh9BwInIUyZR_D9wCPkEClDYt7iXqZMbw94VcW1kBlg4SzaE6iKYm0ml&c=&ch=)
 
-[![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-42.png)](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwGjPNueO8Ly6tfjRKk28GE1vP0QQtN5u_AM8HIn0PX4i67tJOdkffh9BwInIUyZR_D9wCPkEClDYt7iXqZMbw94VcW1kBlg4SzaE6iKYm0ml&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-[![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-43.gif)](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwGE4tZgxg5Uq60reZlE60InMT7syBEvOceQmrfGxcGOuOPcFwbL8I8z1_oCj7FK0T30mZcHl8VOnneRHps1BFhtf0113oLvBkA==&c=&ch=)
 
 ‌
 
@@ -177,38 +134,25 @@ As you can see in the graphic below, everything in the universe can be traced ba
 
 ﻿
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-44.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-45.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-46.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-47.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-48.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-49.gif)
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-50.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-51.gif)
 
 ‌
 
-[![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-52.jpg)](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwGE4tZgxg5Uq60reZlE60InMT7syBEvOceQmrfGxcGOuOPcFwbL8I8z1_oCj7FK0T30mZcHl8VOnneRHps1BFhtf0113oLvBkA==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwGE4tZgxg5Uq60reZlE60InMT7syBEvOceQmrfGxcGOuOPcFwbL8I8z1_oCj7FK0T30mZcHl8VOnneRHps1BFhtf0113oLvBkA==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-53.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-54.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-55.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-56.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -222,9 +166,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-57.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-58.jpg)
 
 ---"Everything is patterns.
 
@@ -234,13 +176,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-59.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-60.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-61.gif)
 
 Notes are data. Music is patterns.
 
@@ -252,47 +191,34 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-62.gif)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-63.jpg)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-64.jpg)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-65.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-66.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-67.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-68.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-69.png)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-70.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-71.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-72.gif)](https://r20.rs6.net/tn.jsp?f=001NICObn3gf75JI6Vpi2u_VN3x1fejvJ7if2gUXJxGcbG7GitAQa3SwDTnYHEqhL756HoEIZMfyk_H6U3orxOr9gqKmN8szpPcNWeaePYSugXqZZKqoQG-T20B2o5WwWzta4_aWJj3mM0dW51HsFsUm4XebbnpJ-zRGA6bMWz9so4nAvkcXTvjxw==&c=&ch=)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-73.gif)
 
 SIMPLICITY
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-74.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -301,7 +227,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-75.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -314,9 +239,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-76.png)
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-77.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -331,7 +254,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/wow-look-at-this-picture-of-the-universe-just-released-just-stare-at-it/img-78.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr

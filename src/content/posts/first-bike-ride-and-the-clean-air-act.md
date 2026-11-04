@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '## **First Bike Ride and Clean Air Act**'
 ---
 
-## **[First Bike Ride and Clean Air Act](/images/sip/first-bike-ride-and-clean-air-act.png)**
+## **First Bike Ride and Clean Air Act**
 
 > ## **Boy:  “I can’t ride a bike.”**
 >

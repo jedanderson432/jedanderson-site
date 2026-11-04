@@ -13,9 +13,7 @@ original_source: "Constant Contact campaign"
 
 Everything.
 
-![](/images/posts/sacred/img-01.png)
 
-![](/images/posts/sacred/img-02.gif)
 
 I've been told that when I mention God in an email about environmental artificial intelligence . . . I lose credibility.
 

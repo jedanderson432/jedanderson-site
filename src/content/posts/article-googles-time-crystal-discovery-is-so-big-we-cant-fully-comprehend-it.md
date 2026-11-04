@@ -25,9 +25,7 @@ This discovery holds significant implication to EnviroAI and our mission to buil
 
 [I would highly recommend watching this recent [Google quantum computing clip](https://r20.rs6.net/tn.jsp?f=001u6VYZc0oI0-v0kfE3-Kd9agsLn0cu5XnkH-69ntFNL1TAvzor_O2wm6uo9x3dIC194YHlqBO42IVZ8-ekDzUan3z63NPDVm3gVzPU-sKLnT7KMY7Wzb8II_NSdw32umwuUbubeRFCU_3DJEJVwYL6wLUdmWy4R4f&c=&ch=) if you haven't seen it.]
 
-[![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-01.gif)](https://r20.rs6.net/tn.jsp?f=001u6VYZc0oI0-v0kfE3-Kd9agsLn0cu5XnkH-69ntFNL1TAvzor_O2wlw2z-KNQ00R65Nne7sOQA6psib7F7APaj9zitK6mBL6tL6cZs85xAJlfNWyiC68ziL4aTHqKLX7KwmHQ_KG0CWTZeE9DzblTHBhtR3ug0l6xeobADkbZELZbFKQMHiu8QwkQW6ysTruFaavCUOpvfZ7xBQ5Tj9ruHbyZzvmHqYGpLfKkdGvH1BN7jVipxvMQg==&c=&ch=)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-02.gif)
 
 Google, Stanford, and Princeton announced [perhaps the greatest scientific discovery of this century so far](https://r20.rs6.net/tn.jsp?f=001u6VYZc0oI0-v0kfE3-Kd9agsLn0cu5XnkH-69ntFNL1TAvzor_O2wlw2z-KNQ00RbrUic7rTCVaQYrPI8vr3z31lxVz9n_ewgVWfT-bJKXUkA7ykuMOCcn9VdUVgtibVfzqbIZyqntTEDWo5EgfVvVNckXNgUCoY&c=&ch=). Using a quantum computer, they appear to have created a new state of matter and also given the middle-finger to Isaac Newton (we might need to put an asterisk on the First Law of Motion).
 
@@ -35,9 +33,7 @@ Google, Stanford, and Princeton announced [perhaps the greatest scientific disco
 
 I CANNOT OVEREMPHASIZE TO YOU WHAT QUANTUM COMPUTING/SENSING/COMMUNICATION WILL LIKELY MEAN TO UNDERSTANDING AND PROTECTING PROBABILISTIC SYSTEMS LIKE THE ENVIRONMENT. That is why the Quantum AI Environmental Protection machine we are building at EnviroAI will rely so heavily on this technology.
 
-[![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-03.png)](https://r20.rs6.net/tn.jsp?f=001u6VYZc0oI0-v0kfE3-Kd9agsLn0cu5XnkH-69ntFNL1TAvzor_O2wlw2z-KNQ00R65Nne7sOQA6psib7F7APaj9zitK6mBL6tL6cZs85xAJlfNWyiC68ziL4aTHqKLX7KwmHQ_KG0CWTZeE9DzblTHBhtR3ug0l6xeobADkbZELZbFKQMHiu8QwkQW6ysTruFaavCUOpvfZ7xBQ5Tj9ruHbyZzvmHqYGpLfKkdGvH1BN7jVipxvMQg==&c=&ch=)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-04.gif)
 
 Quantum AI Protection System
 
@@ -45,9 +41,7 @@ Quantum AI Protection System
 
 ---“We are beginning now to be able to simulate how nature really works—the probabilistic nature of reality that underlies classically observed systems.”- Jed Anderson
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-05.gif)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-06.gif)
 
 BUILDING
 
@@ -61,36 +55,24 @@ AI & QUANTUM
 
 TECHNOLOGIES
 
-[![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-07.gif)](https://r20.rs6.net/tn.jsp?f=001u6VYZc0oI0-v0kfE3-Kd9agsLn0cu5XnkH-69ntFNL1TAvzor_O2whlCgFXMdjhLk1c0qzedTqwcTmgmZLFvIwvy6iOFPFPNr3rc6poxIY34dJwCJz6Zbt6yZkguq9bQ8Y3Fe1euhNdfquehKCOixg==&c=&ch=)
 
 ‌
 
 [Approach (click here)](https://r20.rs6.net/tn.jsp?f=001u6VYZc0oI0-v0kfE3-Kd9agsLn0cu5XnkH-69ntFNL1TAvzor_O2wj_ZgeqrBazU-tbdhqxSIN56Q8t2fMLreKkOoAF9v895EqbCkwzGacYVBD1Gw0sFdjL_1X88fr-W9t9iepgXPNgHelgIAIwTGiCpztRufgN8hxQHYppRuo-6pP8h4RC3Ipw0AQuEdmaO9VG2Mxy5T50tK-FbKhI4WKdFFZukop0YhZKhZBRFShE=&c=&ch=)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-08.gif)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-09.gif)
 
 [Game-Plan (click here)](https://r20.rs6.net/tn.jsp?f=001u6VYZc0oI0-v0kfE3-Kd9agsLn0cu5XnkH-69ntFNL1TAvzor_O2wiMCe9md5LqVa7HA_Ydds4sucMHMCGX62IIfFbzRh_NuFsWS7oHwFf5-UrHiicSA6fnKyPUxouDjsieIqURW2SvR4-C6tLVQkLnT7JUzCSoxR2z8bEsIlZ6rmnGy5dKTGluBnJp5fNn9IHhYwsapeCQeZ774LGZdOaug0VP_PajfziVhwSGHOyk=&c=&ch=)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-10.gif)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-11.gif)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-12.gif)
 
 ---"The earth is what we all have in common.”
 
 —Wendell Berry
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-13.gif)
 
-[![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-14.png)](https://r20.rs6.net/tn.jsp?f=001u6VYZc0oI0-v0kfE3-Kd9agsLn0cu5XnkH-69ntFNL1TAvzor_O2whlCgFXMdjhLk1c0qzedTqwcTmgmZLFvIwvy6iOFPFPNr3rc6poxIY34dJwCJz6Zbt6yZkguq9bQ8Y3Fe1euhNdfquehKCOixg==&c=&ch=)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-15.gif)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-16.gif)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-17.gif)
 
-![](/images/posts/article-googles-time-crystal-discovery-is-so-big-we-cant-fully-comprehend-it/img-18.gif)

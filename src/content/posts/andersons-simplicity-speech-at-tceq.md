@@ -14,7 +14,6 @@ abstract: 'Below is a copy of yesterday’s speech imploring TCEQ to begin simpl
 
 Below is a copy of yesterday’s speech imploring TCEQ to begin simplifying the environmental regulatory system in the State of Texas.
 
-[![Jed - commissioner](/images/sip/jed-commissioner.png)](http://www.texasadmin.com/tx/tceq/open_meeting/20170607/)
 
 To watch the speech, just click [here](http://www.texasadmin.com/tx/tceq/open_meeting/20170607/) and click on **Item #23**.  And interesting discussion between the Commissioners at the end that everyone will want to see.
 

@@ -13,13 +13,10 @@ original_source: "Constant Contact campaign"
 
 Joy. Fun. Adventure.
 
-![](/images/posts/whos-ready/img-01.gif)
 
-![](/images/posts/whos-ready/img-02.gif)
 
 Joy. Fun.Adventure.
 
-![](/images/posts/whos-ready/img-03.gif)
 
 Who's ready for adventure? . . .
 
@@ -31,9 +28,7 @@ something bold?
 
 ‌
 
-[![](/images/posts/whos-ready/img-04.gif)](http://r20.rs6.net/tn.jsp?f=001oLvWO-g7l8f_r73UPU1cVniZ8err9it8cs4iaZOI37rCDRiGx_Dysoadn-jRih7Id7HZS8gY0T0iLVrD4ymMb1e6wvscDa8d3PNY5cRxsUZDCLcItC_VJ4MNEiStSAWC_teT6yTliQTJLPUS2T4nswwcZXd14N0IydvtLGBw95w8CXYFL1YyWWLH5BatYDhRAZ1kPB4cgLuhX7aXI9jFkFzPJDlixkmTpp6en-yy2GE=&c=&ch=)
 
-![](/images/posts/whos-ready/img-05.gif)
 
 ‌
 
@@ -45,4 +40,3 @@ something bold?
 
 [It's time for bold new adventurous approaches to environmental compliance and protection.  More joy.  More fun.  Let's join together as companies, organizations, and people to climb the highest of heights.  Contact us now.](mailto:jed@enviro.ai)
 
-![](/images/posts/whos-ready/img-06.gif)

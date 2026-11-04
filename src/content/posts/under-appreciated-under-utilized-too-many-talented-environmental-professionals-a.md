@@ -17,16 +17,11 @@ A Message of Hope . . . and a Job Offer
 
 and it's a travesty to the environmental profession that I'm gonna help rectify." - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/under-appreciated-under-utilized-too-many-talented-environmental-professionals-a/img-01.gif)
 
-![](/images/posts/under-appreciated-under-utilized-too-many-talented-environmental-professionals-a/img-02.png)
 
-![](/images/posts/under-appreciated-under-utilized-too-many-talented-environmental-professionals-a/img-03.gif)
-![](/images/posts/under-appreciated-under-utilized-too-many-talented-environmental-professionals-a/img-04.gif)
 
 ‌
 
-![](/images/posts/under-appreciated-under-utilized-too-many-talented-environmental-professionals-a/img-05.gif)
 
 . . . Feel under-appreciated?
 
@@ -42,6 +37,5 @@ First, a message of truth and hope. Your true value has nothing to do with work.
 
 Second, a job offer. We have massive amounts of work to do to build this AI environmental protection system. We will give you a shot. Everyone has talents we need. [Contact us today](mailto:jed@enviro.ai) if you want to help build the environmental future of tomorrow.
 
-![](/images/posts/under-appreciated-under-utilized-too-many-talented-environmental-professionals-a/img-06.gif)
 
 This is an advertisement for EnviroAI

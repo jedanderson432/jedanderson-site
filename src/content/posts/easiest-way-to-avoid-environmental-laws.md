@@ -18,7 +18,6 @@ People ask me what the law says.  Increasingly I ask, “What do you want it to 
 
 The reason why the easiest way to avoid environmental regulation perhaps is to create more of them is that environmental groups and environmental agencies can be conscripted in this tactic.  Yes, regulations can be avoided by removing them—but adding them to 10,000 other regulations is generally much easier.  It’s not better . . . but it is an easier way to avoid the law.
 
-![churchill](/images/sip/churchill.png)
 
 Time to simplify and transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world.  We can make it happen.
 

@@ -15,11 +15,9 @@ original_source: "Constant Contact campaign"
 
 Another [recent confirmation](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwoGM1d3LlfEBu54LOpGYzGPw7pRy7y0F06YjWmqORnLObzF_A4Z_3fUmnhhL8rrFNRDqyofkcnnGRBrKHQEGMe2P4A2ueKH9BVImj8NWjejNk25Jx38e79UbwqO4E8BxJQ==&c=&ch=) of the delayed choice quantum erasure experiment . . .
 
-![](/images/posts/where-there-is-magic/img-01.png)
 
 "We will first understand how simple the universe is when we recognize how strange it is." - John Wheeler
 
-![](/images/posts/where-there-is-magic/img-02.png)
 
 NATURE CRAZY?
 
@@ -37,25 +35,19 @@ OR US NOT CRAZY ENOUGH?
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-03.png)
 
-![](/images/posts/where-there-is-magic/img-04.png)
 
 "If anything needs adjustments, it's our perceptions. Nature is fine. Nature is what it is. It's always worked this way. I think nature is probably more grounded in truth than our perceptions. Therefore, if anything needs to adjust to what is truth and normalcy . . . it's probably us."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-05.png)
 
 John Wheeler's accomplishments in physics are dizzying. The man who coined the term "blackhole" and "wormhole." Famous for the expression "it from bit". Princeton Professor who trained Richard Feynman, Hugh Everett, Jacob Beckenstein, and countless other renowned physicists. Involved in the Manhattan Project with Oppenheimer. He has described his career as three evolutionary phases in thinking: 1. Everything is a Particle, 2. Everything is a Field, 3. Everything is Information. During this last phase, Wheeler came up with the "Delayed Choice Experiment". If you want to see how truly strange the universe works, understand this experiment. Here is [Wheeler's own description](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwoGM1d3LlfEBAvUnX60BVY-_BWaq8XoAhYwO8fCbpSWpVpKnLetXfceBoef9ko5KkkusFovgPRoNCepfZ-QI4Uv01kzaG6P0F3I6VSwUMr-Iq0mJl5RcuOvsMJLnJrcPiZDl9SfLxZAag7qiUFQ34DcT8Zsf9WgHb8jwxcie2hU-p4MBfUxw-gSy5EhoiM8CfD8b_owTBcBHmSivLCUSoOI=&c=&ch=). And here is a short [tutorial video](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwoGM1d3LlfEBK9LiR5dgVGS85vT_GFdi-s6_AB53J7t3cBw37WMK9nVdd-hLuagyumQwUrwVE15YvQBExC5fWmVgZizv-IMknA==&c=&ch=). This is not an easy intellectual-lift, but the reward is well worth the exertion.
 
-![](/images/posts/where-there-is-magic/img-06.png)
 
 SIMPLE
 
-![](/images/posts/where-there-is-magic/img-07.png)
 
-[![](/images/posts/where-there-is-magic/img-08.png)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwoGM1d3LlfEBV4Ix34sreDLKhgpIe-FUaQ_Nn_Yg3Cot9B0-3lmz18yV64bg4SGdxD9US1FXp4-7zqofcgIs7QlBkh9S6jELiQ==&c=&ch=)
 
 After you get a sense of the delayed choice quantum erasure experiment, you will love pondering this quote from John Wheeler about what he believes the experiment might be pointing toward: "The observer, who was brought into existence by the universe, has, by his acts of observation, a part in bringing that universe itself into being."
 
@@ -69,19 +61,14 @@ Fascinating thinking!
 
 Fascinating to think about!
 
-[![](/images/posts/where-there-is-magic/img-09.png)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwoGM1d3LlfEBV4Ix34sreDLKhgpIe-FUaQ_Nn_Yg3Cot9B0-3lmz18yV64bg4SGdxD9US1FXp4-7zqofcgIs7QlBkh9S6jELiQ==&c=&ch=)
 
-![](/images/posts/where-there-is-magic/img-10.png)
 
-![](/images/posts/where-there-is-magic/img-11.gif)
 
-![](/images/posts/where-there-is-magic/img-12.gif)
 
 The Participatory Universe?
 
 ‌
 
-![](/images/posts/where-there-is-magic/img-13.gif)
 
 Increasing the Scope of Our Participatory Observations in the Universe
 
@@ -89,7 +76,6 @@ PERCEPTION OF PHENOMENA
 
 ‌
 
-![](/images/posts/where-there-is-magic/img-14.jpg)
 
 "Nothing in life is to be feared. It is only to be understood.'
 
@@ -99,11 +85,8 @@ GOING BEYOND IMMEDIATE PERCEPTION
 
 How much can we perceive?
 
-![](/images/posts/where-there-is-magic/img-15.png)
 
-![](/images/posts/where-there-is-magic/img-16.png)
 
-![](/images/posts/where-there-is-magic/img-17.png)
 
 THE HISTORY OF HUMAN PERCEPTION INCREASING
 
@@ -117,7 +100,6 @@ The continual iconoclastic evolution in our cosmological understanding . . .
 - Our galaxy isn't the center of the universe - 964 (Azophi) [Later Kant, Messier, Shapley, and finally Edwin Hubble . . . January 1, 1925 "The day we discovered the universe"]
 - Our universe isn't the center of the Universe [or Multiverse]- \_\_\_\_\_?
 
-![](/images/posts/where-there-is-magic/img-18.png)
 
 PHYSICS
 
@@ -154,7 +136,6 @@ The continual iconoclastic evolution in our physical understanding . . .
 
 - \_\_\_\_\_\_? ("Post-Modern" Physics)(\_\_\_\_)
 
-![](/images/posts/where-there-is-magic/img-19.png)
 
 Further Increasing Perception
 
@@ -180,7 +161,6 @@ Further Increasing Perception
 
 #10 - [And this is #1 for me and the exercise I struggle with the most] God. The continual presence of Christ. This I think is the biggest sense of reality and perception we are capable of sensing--though I do not have proof and must pursue it through faith. I can't image there being a bigger perception and sense of reality than to be one with God.
 
-![](/images/posts/where-there-is-magic/img-20.png)
 
 More Perceptivity
 
@@ -200,27 +180,19 @@ DANGEROUS
 
 Entropy wins in harbors and deck chairs.
 
-![](/images/posts/where-there-is-magic/img-21.png)
 
-![](/images/posts/where-there-is-magic/img-22.gif)
 
 Safe places when it comes to entropy . . ..
 
-![](/images/posts/where-there-is-magic/img-23.jpg)
 
-![](/images/posts/where-there-is-magic/img-24.png)
 
-![](/images/posts/where-there-is-magic/img-25.jpg)
 
 ‌
 
 Dangerous places when it comes to entropy . . ..
 
-![](/images/posts/where-there-is-magic/img-26.png)
 
-![](/images/posts/where-there-is-magic/img-27.png)
 
-![](/images/posts/where-there-is-magic/img-28.png)
 
 ‌
 
@@ -316,7 +288,6 @@ ENTROPY
 
 —C.S. Lewis
 
-![](/images/posts/where-there-is-magic/img-29.png)
 
 “If and when we learn how to combine bits in fantastically large numbers to obtain what we call existence, we will know better what we mean both by bit and by existence.”
 
@@ -326,43 +297,30 @@ ENTROPY
 
 (physicist who came up with the term"black hole"")
 
-![](/images/posts/where-there-is-magic/img-30.gif)
 
-![](/images/posts/where-there-is-magic/img-31.gif)
 
-![](/images/posts/where-there-is-magic/img-32.png)
 
-![](/images/posts/where-there-is-magic/img-33.png)
 
 "Matter (Heisenberg/Einstein/Bohr/Schroedinger), mathematics (Godel’s incompleteness theorem), and computation (Turing/Shannon/Kolmogorov-Chaitlin complexity-halting problem ) all seem to similarly break down at the same point. The fact that they all break down, where they break down, and this relationship does not appear to be coincidental. In fact, they all seem to be saying the same thing (but in different ways) and pointing in the same direction."
 
 - Jed Anderson
 
-![](/images/posts/where-there-is-magic/img-34.png)
 
-![](/images/posts/where-there-is-magic/img-35.png)
 
-![](/images/posts/where-there-is-magic/img-36.gif)
 
 "---"Simpler to control pollution as informationthan as matter."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-37.png)
 
 "It from bit." - John Wheeler
 
-![](/images/posts/where-there-is-magic/img-38.png)
 
 "Information: the negative reciprocal of probability."- Claude Shannon
 
-![](/images/posts/where-there-is-magic/img-39.png)
 
-![](/images/posts/where-there-is-magic/img-40.png)
 
-![](/images/posts/where-there-is-magic/img-41.png)
 
-![](/images/posts/where-there-is-magic/img-42.png)
 
 "The world is focused on protecting the environment fundamentally as a physical structure. We're the first company considering it might be more 'information-based' at its foundation than what humans have been historically and traditionally thinking--and creating a system to help try to protect it as such. Simpler. Faster. Less energy involved in utilizing an information-based protection system."
 
@@ -370,29 +328,20 @@ ENTROPY
 
 Is the environment more fundamentally matter or information?
 
-![](/images/posts/where-there-is-magic/img-43.png)
 
 Nick Bostrom at Oxford, David Deutsch at Oxford, Elon Musk, Neils degrasse Tyson, Seth Loyd at MIT, these Microsoft scientists that recently wrote this paper entitled "[The Autodidactc Universe](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwtudewaw7oIcT6AOao1zfnoFVafzk-llA-zc50vbqnC2ZUXAIc57_z8jQMoIocMWz-VlNSmpy55C4lv_HiDT_nBWHQvUnB9PNVPkXMeZT_df&c=&ch=)", and others think the odds are that we're living in a simulation or a computer. I WILL NOT TOUCH THIS HYPOTHESIS. I DON'T NEED TO. I frankly don't care what we call it. The odds are 100% that even if this is not a computer . . . it will keep acting like a computer because that's what its doing. It's computing.
 
 Is the universe acting like an autodidactic computer?
 
-![](/images/posts/where-there-is-magic/img-44.png)
 
 ---"If it looks like a duck, swims like a duck, and quacks like a duck . . . then its . . . not necessarily a duck . . . but the odds have gone up considerably now that it also likes crackers." - Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-45.jpg)
 
-![](/images/posts/where-there-is-magic/img-46.png)
 
 ﻿Even if the Universe is not a computer, or simulation . . . the mathematical, computational, and informational underpinnings make you scratch your head sometimes and wonder why this thing is acting like a duck.
 
-![](/images/posts/where-there-is-magic/img-47.jpg)
 
-![](/images/posts/where-there-is-magic/img-48.png)
 
-![](/images/posts/where-there-is-magic/img-49.gif)
-![](/images/posts/where-there-is-magic/img-50.gif)
-![](/images/posts/where-there-is-magic/img-51.gif)
 
 "I can go a couple hours . . . sometimes a couple days . . . and then I'm back thinking about Claude Shannon again."
 
@@ -422,65 +371,41 @@ Alternatively, we could talk about system solutions.
 
 ﻿And the idea of a system solution is we accept the lousy channel as it is and we add encoding and decoding systems around that channel to turn it into a reliable channel. So this is a much more exciting approach than the physical approach. Physics is exciting too, but the system approach accepts the unreliable system as it is and transforms it into a reliable system. And that's what information theory is about.” – Professor David MacKay, Cambridge University
 
-![](/images/posts/where-there-is-magic/img-52.png)
 
-![](/images/posts/where-there-is-magic/img-53.png)
 
 Remember . . . and this is critical. . . I'm not talking about changing the "environmental signal". I'm talking about reducing the noise . . . reducing the complexity. It will be like talking to your friend on the cell phone. It's still your friend's voice on the cell phone. It's still the same content.  In fact, its better content and a higher quality. Does anyone think that the person they speak to on an analog phone is different than the person they speak to on a digital phone? I don't think so. No one is that naive.
 
 It's a fascinating world ahead of us.
 
-![](/images/posts/where-there-is-magic/img-54.png)
 
-![](/images/posts/where-there-is-magic/img-55.jpg)
 
 . . . "To think that our big bang was the only bang would seem at this point to me to be a bit narrow-minded, anthropocentric, and in contradiction to the continual iconoclastic evolution in our cosmological understanding."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-56.gif)
 
-![](/images/posts/where-there-is-magic/img-57.jpg)
 
-![](/images/posts/where-there-is-magic/img-58.jpg)
 
-![](/images/posts/where-there-is-magic/img-59.jpg)
 
-![](/images/posts/where-there-is-magic/img-60.jpg)
 
-![](/images/posts/where-there-is-magic/img-61.jpg)
 
-![](/images/posts/where-there-is-magic/img-62.jpg)
 
-![](/images/posts/where-there-is-magic/img-63.png)
 
 ‌
 
-![](/images/posts/where-there-is-magic/img-64.gif)
 
-![](/images/posts/where-there-is-magic/img-65.gif)
 
-[![](/images/posts/where-there-is-magic/img-66.png)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwocmKh3IdBuPB653Ajtq-Pln9jkYv3vjCQQf6dxrPti6YGPOECXLSb1tpv-UgYy6oZ5EJjiA2LxdEe9rayyMiEL7__Ti8IEq65EG4XEvpcMclxAYa7nldHMSOpzFsVmmrK8ui4wFLdpNIhgX-f4HsgZJHtHK6VLkQA==&c=&ch=)
 
-![](/images/posts/where-there-is-magic/img-67.gif)
-![](/images/posts/where-there-is-magic/img-68.gif)
 
 How many universes?[Interview](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwqE_WWO3bf0sX-vstImkubwrLgG8kv7ALC3uwULR-QapX6ba43SMyPh8SP6cdNXK2IH2ipRDj0UuFI208hSh-H59cLIhfL5-PA==&c=&ch=) with Steven Weinberg, recently deceased University of Texas Professor and Nobel Prize Winner in Physics.
 
-![](/images/posts/where-there-is-magic/img-69.gif)
 
-![](/images/posts/where-there-is-magic/img-70.gif)
 
-[![](/images/posts/where-there-is-magic/img-71.png)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwocmKh3IdBuPB653Ajtq-Pln9jkYv3vjCQQf6dxrPti6YGPOECXLSb1tpv-UgYy6oZ5EJjiA2LxdEe9rayyMiEL7__Ti8IEq65EG4XEvpcMclxAYa7nldHMSOpzFsVmmrK8ui4wFLdpNIhgX-f4HsgZJHtHK6VLkQA==&c=&ch=)
 
-![](/images/posts/where-there-is-magic/img-72.gif)
-![](/images/posts/where-there-is-magic/img-73.gif)
 
 How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwocmKh3IdBuPB653Ajtq-Pln9jkYv3vjCQQf6dxrPti6YGPOECXLSb1tpv-UgYy6oZ5EJjiA2LxdEe9rayyMiEL7__Ti8IEq65EG4XEvpcMclxAYa7nldHMSOpzFsVmmrK8ui4wFLdpNIhgX-f4HsgZJHtHK6VLkQA==&c=&ch=) with Max Tegmark, MIT Professor of Physics.
 
-![](/images/posts/where-there-is-magic/img-74.gif)
 
-![](/images/posts/where-there-is-magic/img-75.png)
 
 ﻿James Webb Space Telescope
 
@@ -488,33 +413,26 @@ How many universes? [Interview](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZU
 
 - Jed Anderson
 
-![](/images/posts/where-there-is-magic/img-76.png)
 
 ﻿---"Looking back 13.8 billion years to find out what is controlling the happening of now. It's simpler." - Jed Anderson
 
-![](/images/posts/where-there-is-magic/img-77.gif)
 
 I'll explain why I think of the James Webb Space Telescope not only as a "time machine" as many people call it, but a "simplicity machine."
 
 ﻿
 
-![](/images/posts/where-there-is-magic/img-78.gif)
 
 If you think of the universe as a computer, the longer the computer has run, the more data it generates, and the more difficult it becomes to sift through piles of data and phenomena to find the underlying patterns and laws.
 
 But if you instead looked back when the computer had only run a couple times . . . finding the underlying simplicity in the laws and patterns is much, much easier.
 
-![](/images/posts/where-there-is-magic/img-79.png)
 
 Here for example you can see Stephen Wolfram running very simple code 500 times . . . and the extremely complicated resulting phenomena.
 
 [Perhaps the easiest way to realize the complexity of phenomena from simple code is life. All life is just A-C-T-G. It's just the same 4 amino acids (DNA) in different combinations run trillions and trillions of times (evolution). That's it. It's so mind-bogglingly simple it's difficult to perceive its simplicity.]
 
-[![](/images/posts/where-there-is-magic/img-80.gif)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwlG8-TOxiq9TRMmxUcNgFJCUG7cYZlDJAaS_qRrwei_CYCHTmecWpousemO_CR5O4f2zGYA9-8NnPIWvzPsLWQxZcOyV8z5coLi-Jmx0kGBM17GVeU7a_WoTPw6Sl292SA==&c=&ch=)
 
-![](/images/posts/where-there-is-magic/img-81.png)
 
-![](/images/posts/where-there-is-magic/img-82.gif)
 
 See if you can find the pattern in this code:
 
@@ -522,31 +440,23 @@ See if you can find the pattern in this code:
 
 Pretty easy huh? The pattern or rule is that every other number is a 1. But if I added just 2 or 3 more rules and ran this code trillions of times for 13.8 billion years, it would be very difficult for anyone or any computer at this point in history to find the original pattern, rule, or code.
 
-![](/images/posts/where-there-is-magic/img-83.gif)
 
 "But . . . if you looked at computer code after it only had been run a couple times, it would be much easier to find the simplicity in the underlying patterns and rules."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-84.png)
 
-![](/images/posts/where-there-is-magic/img-85.png)
 
 ---"Exciting days ahead for humanity."- Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-86.png)
 
-![](/images/posts/where-there-is-magic/img-87.png)
 
-![](/images/posts/where-there-is-magic/img-88.png)
 
-![](/images/posts/where-there-is-magic/img-89.png)
 
 Simplicity.
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-90.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
@@ -556,13 +466,11 @@ Simplicity.
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwsacDlBuVEOP-1ZPfj2mqsPT698kgwwj7G8z_WIwkvHnyWodRIHkOPJlYC4SEctdar_mSYpY4dmqqAEYqOo9a2ZjGPTXsFeWVHNK8lCDyYYu&c=&ch=)
 
-[![](/images/posts/where-there-is-magic/img-91.png)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwsacDlBuVEOP-1ZPfj2mqsPT698kgwwj7G8z_WIwkvHnyWodRIHkOPJlYC4SEctdar_mSYpY4dmqqAEYqOo9a2ZjGPTXsFeWVHNK8lCDyYYu&c=&ch=)
 
 ---"It[the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-[![](/images/posts/where-there-is-magic/img-92.gif)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwjyythi_v7Jkcxyl6rnNo3mezDYWESTHm5JcOpx7dsb76V1B6JINucGL_89dhZ21ef6xfd1g2YW8OxOxZlHxSwiGfx4DA97Mvw==&c=&ch=)
 
 ‌
 
@@ -570,34 +478,23 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/where-there-is-magic/img-93.png)
 
-![](/images/posts/where-there-is-magic/img-94.gif)
 
-![](/images/posts/where-there-is-magic/img-95.gif)
 
-![](/images/posts/where-there-is-magic/img-96.png)
 
-![](/images/posts/where-there-is-magic/img-97.gif)
-![](/images/posts/where-there-is-magic/img-98.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
 ‌
 
-[![](/images/posts/where-there-is-magic/img-99.jpg)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwjyythi_v7Jkcxyl6rnNo3mezDYWESTHm5JcOpx7dsb76V1B6JINucGL_89dhZ21ef6xfd1g2YW8OxOxZlHxSwiGfx4DA97Mvw==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the [greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwjyythi_v7Jkcxyl6rnNo3mezDYWESTHm5JcOpx7dsb76V1B6JINucGL_89dhZ21ef6xfd1g2YW8OxOxZlHxSwiGfx4DA97Mvw==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/where-there-is-magic/img-100.png)
 
-![](/images/posts/where-there-is-magic/img-101.png)
 
-![](/images/posts/where-there-is-magic/img-102.png)
 
-![](/images/posts/where-there-is-magic/img-103.gif)
 
 ---"Simplification . . . not only of the laws of physics . . . but the laws of humankind." - Jed Anderson
 
@@ -611,9 +508,7 @@ I personally think this is the [greatest solo of all time](https://r20.rs6.net/t
 
 - Jed Anderson
 
-![](/images/posts/where-there-is-magic/img-104.gif)
 
-![](/images/posts/where-there-is-magic/img-105.jpg)
 
 ---"Everything is patterns.
 
@@ -623,13 +518,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/where-there-is-magic/img-106.gif)
 
-![](/images/posts/where-there-is-magic/img-107.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/where-there-is-magic/img-108.gif)
 
 Notes are data. Music is patterns.
 
@@ -641,45 +533,33 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/where-there-is-magic/img-109.gif)
 
-![](/images/posts/where-there-is-magic/img-110.jpg)
 
-![](/images/posts/where-there-is-magic/img-111.jpg)
 
-![](/images/posts/where-there-is-magic/img-112.gif)
 
 The music of the early universe---"chop-sticks" . . .
 
-![](/images/posts/where-there-is-magic/img-113.jpg)
 
 Same musical laws playing out 13.8 billion years later . . .
 
 . . . much more complicated resulting phenomena---Chopin's Etude Op. 10., No. 4, Torrent
 
-![](/images/posts/where-there-is-magic/img-114.png)
 
-![](/images/posts/where-there-is-magic/img-115.png)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/where-there-is-magic/img-116.png)
 
-![](/images/posts/where-there-is-magic/img-117.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/where-there-is-magic/img-118.gif)](https://r20.rs6.net/tn.jsp?f=001p69XCy0K1NDNrAZUv4F6wG9ChyI7WlTsJzP_qonHW9yeQoDRr6lPwlG8-TOxiq9TRMmxUcNgFJCUG7cYZlDJAaS_qRrwei_CYCHTmecWpousemO_CR5O4f2zGYA9-8NnPIWvzPsLWQxZcOyV8z5coLi-Jmx0kGBM17GVeU7a_WoTPw6Sl292SA==&c=&ch=)
 
-![](/images/posts/where-there-is-magic/img-119.gif)
 
 SIMPLICITY
 
-![](/images/posts/where-there-is-magic/img-120.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -688,7 +568,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/where-there-is-magic/img-121.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -701,7 +580,6 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/where-there-is-magic/img-122.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -716,7 +594,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/where-there-is-magic/img-123.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -762,11 +639,8 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-![](/images/posts/where-there-is-magic/img-124.gif)
 
-![](/images/posts/where-there-is-magic/img-125.jpg)
 
-![](/images/posts/where-there-is-magic/img-126.jpg)
 
 ‌
 
@@ -1140,6 +1014,4 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/where-there-is-magic/img-127.gif)
 
-![](/images/posts/where-there-is-magic/img-128.gif)

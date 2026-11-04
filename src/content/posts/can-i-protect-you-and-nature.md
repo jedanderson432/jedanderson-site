@@ -15,20 +15,14 @@ Yes . . . I already am! . . . OUR MACHINE IS ALREADY WORKING . . .
 
 ‌
 
-![](/images/posts/can-i-protect-you-and-nature/img-01.png)
 
 ---"Yes, our machine is already working to help protect you, your family, and nature."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/can-i-protect-you-and-nature/img-02.gif)
 
-![](/images/posts/can-i-protect-you-and-nature/img-03.gif)
 
-![](/images/posts/can-i-protect-you-and-nature/img-04.png)
 
-![](/images/posts/can-i-protect-you-and-nature/img-05.gif)
-![](/images/posts/can-i-protect-you-and-nature/img-06.gif)
 
 Progress made this week . . .
 
@@ -36,18 +30,13 @@ Progress made this week . . .
 
 ---"It's amazing how many great environmental protection ideas are buried in this data."
 
-![](/images/posts/can-i-protect-you-and-nature/img-07.gif)
 
 Impossibility?
 
 ﻿
 
-![](/images/posts/can-i-protect-you-and-nature/img-08.gif)
 
-![](/images/posts/can-i-protect-you-and-nature/img-09.png)
 
-![](/images/posts/can-i-protect-you-and-nature/img-10.gif)
-![](/images/posts/can-i-protect-you-and-nature/img-11.gif)
 
 2 questions I ask myself . . . when someone or the world tells me something is impossible (like building a quantum AI machine to protect humanity and nature) . . .
 
@@ -57,12 +46,8 @@ Impossibility?
 
 It almost always falls out under question #1 before I even get to question #2.
 
-![](/images/posts/can-i-protect-you-and-nature/img-12.gif)
 
-![](/images/posts/can-i-protect-you-and-nature/img-13.jpg)
 
-![](/images/posts/can-i-protect-you-and-nature/img-14.gif)
-![](/images/posts/can-i-protect-you-and-nature/img-15.gif)
 
 “Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.”
 
@@ -70,23 +55,17 @@ It almost always falls out under question #1 before I even get to question #2.
 
 ---“It is simply a statement of fact. The Romans could have had the telephone; the Greeks could have had the cinema; the Babylonians could have had the automobile—had they been mentally ready. The laws of nature were the same in those ages as in ours, the same materials were in the ground—but the minds of the Ancients were not ready for those things, and so they had to go without them.” ― Emmet Fox
 
-[![](/images/posts/can-i-protect-you-and-nature/img-16.gif)](https://r20.rs6.net/tn.jsp?f=001QCmbQL8sn-qUUET-QFLIKuQhN1hq9IV_krOTj99EYdAm0xKOVb4Mv47VsWEStuR1P1popcHf5CX7bSsmof2VYmEO8EbIJydGLQhwB-b3o2BN0BFrMb9RK6zfQZwKbr94Puzlr8hM7pfEOBI4PJG-Sw==&c=&ch=)
 
 ‌
 
 Increasing Our Scope of Reality and What is Truly Possible
 
-![](/images/posts/can-i-protect-you-and-nature/img-17.gif)
 
-[![](/images/posts/can-i-protect-you-and-nature/img-18.png)](https://r20.rs6.net/tn.jsp?f=001QCmbQL8sn-qUUET-QFLIKuQhN1hq9IV_krOTj99EYdAm0xKOVb4Mv5Vfu_hBpe4zjU5OHt95FyCw5_onmK0ZFtmwL9Xx1D92fwF8xOzcK69EfDCpW7AaK79FaQcnriO9EslhC8PUBLSDaLgzmxpHqL5OHzfMTpze&c=&ch=)
 
-[![](/images/posts/can-i-protect-you-and-nature/img-19.png)](https://r20.rs6.net/tn.jsp?f=001QCmbQL8sn-qUUET-QFLIKuQhN1hq9IV_krOTj99EYdAm0xKOVb4Mv5Vfu_hBpe4zxBmVudZuu6uOpLHdMgSeBN3wqMCYrtBAKn9CP0aXGaXjI9UrPwG1ErDeWyxy1iUhXfaQPk0hHzSedTePgds1uD7AdBrMW5-DnSJ8LCVJ1zY=&c=&ch=)
 
-[![](/images/posts/can-i-protect-you-and-nature/img-20.png)](https://r20.rs6.net/tn.jsp?f=001QCmbQL8sn-qUUET-QFLIKuQhN1hq9IV_krOTj99EYdAm0xKOVb4Mv5Vfu_hBpe4zgxZYhZwjzQnBKloP0o10I7DewZ6x5F97-3dsV7I0LRJtkk720pMeeuhZYJQwf3c0EUcnxmncDDcg_SRpVgQIBDshwM9yjkVIb2Amy1-mOVPEx-6PMaG85gBQahaxxhRh&c=&ch=)
 
 ‌
 
-![](/images/posts/can-i-protect-you-and-nature/img-21.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -102,29 +81,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/can-i-protect-you-and-nature/img-22.gif)
 
-![](/images/posts/can-i-protect-you-and-nature/img-23.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/can-i-protect-you-and-nature/img-24.png)
 
-![](/images/posts/can-i-protect-you-and-nature/img-25.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/can-i-protect-you-and-nature/img-26.gif)](https://r20.rs6.net/tn.jsp?f=001QCmbQL8sn-qUUET-QFLIKuQhN1hq9IV_krOTj99EYdAm0xKOVb4Mv3bvnRNM-DQ-rowuX8uBllgoWag69bGIUrBpVsYJByc07eeRUBLcMdU6MvlRKjk8T90LKiweg21d9Yi6dtDzAndsfheLv1VszUTu4Q0Gj-BeRCuvuil2wfb1z0vtry-GwQ==&c=&ch=)
 
-![](/images/posts/can-i-protect-you-and-nature/img-27.gif)
 
 SIMPLICITY
 
-![](/images/posts/can-i-protect-you-and-nature/img-28.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -133,7 +105,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/can-i-protect-you-and-nature/img-29.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -146,9 +117,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/can-i-protect-you-and-nature/img-30.png)
 
-![](/images/posts/can-i-protect-you-and-nature/img-31.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -163,7 +132,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/can-i-protect-you-and-nature/img-32.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -217,15 +185,11 @@ in the Metaverse
 
 ﻿Using Probabilistic Systems within Probabilistic Systems to Better Understand Probabilistic Systems
 
-![](/images/posts/can-i-protect-you-and-nature/img-33.png)
 
-![](/images/posts/can-i-protect-you-and-nature/img-34.gif)
 
-![](/images/posts/can-i-protect-you-and-nature/img-35.gif)
 
 ‌
 
-![](/images/posts/can-i-protect-you-and-nature/img-36.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -597,8 +561,5 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-[![](/images/posts/can-i-protect-you-and-nature/img-37.gif)](https://r20.rs6.net/tn.jsp?f=001QCmbQL8sn-qUUET-QFLIKuQhN1hq9IV_krOTj99EYdAm0xKOVb4Mv7WLEcQC4gyPKEfkgDGYR6LLWoLHZM4pdVINiZJfoNTu63z4IsYYtPck1td91iS0DsyOEsmIH03SZ-lCfg3jIkI=&c=&ch=)
 
-![](/images/posts/can-i-protect-you-and-nature/img-38.gif)
 
-![](/images/posts/can-i-protect-you-and-nature/img-39.gif)

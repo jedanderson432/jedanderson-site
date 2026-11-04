@@ -13,4 +13,3 @@ abstract: 'Everyone wants to fight. Anyone want to build something new?'
 
 Everyone wants to fight.  Anyone want to build something new?
 
-[![CAA of 2015](/images/sip/caa-of-2015.png)](/images/sip/caa-of-2015.png)[![Slide21](/images/sip/slide211.png)](/images/sip/slide211.png)[![Socrates](/images/sip/socrates.png)](/images/sip/socrates.png)[![Slide1](/images/sip/slide1.png)](/images/sip/slide1.png)

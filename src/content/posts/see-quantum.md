@@ -13,13 +13,10 @@ original_source: "Constant Contact campaign"
 
 Here's how to "see" it in nature . . .
 
-![](/images/posts/see-quantum/img-01.gif)
 
 Quantum Technology in Environmental Protection
 
-![](/images/posts/see-quantum/img-02.gif)
 
-![](/images/posts/see-quantum/img-03.png)
 
 Can we "see" some of these weird, powerful quantum effects ourselves?
 
@@ -27,7 +24,6 @@ Yes.
 
 Requires a small amount of eye-mind training.
 
-![](/images/posts/see-quantum/img-04.gif)
 
 How to see quantum effects?
 
@@ -39,13 +35,11 @@ How to see quantum effects?
 
 2.Go to any moving body of water and watch the light on the waves for a few minutes.
 
-![](/images/posts/see-quantum/img-05.gif)
 
 . . . Pense's or "Jottings" below on quantum effects and protecting nature with technologies that are beginning to exploit the strange and immense powers of non-locality . . .
 
 ---“It’s more fundamental to think of everything around us first as a probability wave and then second as matter or forces. Classical physics is essentially what quantum physics looks like on the human scale."- Jed Anderson
 
-[![](/images/posts/see-quantum/img-06.png)](http://r20.rs6.net/tn.jsp?f=0011xoOUF-Bx_bG00tocJP9x9pto66uvdJr9SNE2WSGmMTjYp5Mnbip9eX7UNcT27JCSzLu1IRPygUre1343X7uR6ggkzTxwWbCjuroYK52nf9AlmfrbJ3VHm0KqoXyqHenZ7XAtVqRZfImKn0lMqEIQA5sWN8rCxEIYQ6GIAappUM3oi7UQYHOruKKZz2ZTeWyfqNKJbyCq2_T0tjjZD_SXDA1mdM_rqBbEeTW4IVnsR4=&c=&ch=)
 
 ‌
 
@@ -57,10 +51,7 @@ How to see quantum effects?
 
 ---“To affect reality we must better understand reality. For me trying to affect the protection of natural systems, I must better understand the underlying reality of nature to design an effective system that can simulate and protect nature [Richard Feynman, "Nature isn't classical dammit. If you want to make a simulation of nature, you'd better make it quantum mechanical."] - Jed Anderson
 
-![](/images/posts/see-quantum/img-07.png)
 
 ---"When I grew up, and I’ll call it the 'locality era' where we still were largely thinking in terms of things having a definite place and time and being 100% separated in space and time, we studied small things to learn about small things. And we studied big things to learn about big things. Now we study all things to learn about everything." - Jed Anderson
 
-![](/images/posts/see-quantum/img-08.gif)
 
-![](/images/posts/see-quantum/img-09.gif)

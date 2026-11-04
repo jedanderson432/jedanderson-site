@@ -11,7 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/ocean1.png)'
 ---
 
-[![](/images/sip/ocean1.png "ocean")](/images/sip/ocean1.png)
 
 Look at where the high ozone levels are occurring on these maps.  Now imagine a State off the coast of Virginia or a State in the middle of the Gulf of Mexico.  Yup . . . it would be nonattainment.  The new States would be required to develop a SIP demonstrating how each State would reduce enough emissions to achieve the ozone standard—or face sanctions.  Doesn’t matter if the State logically pointed out that there are no industrial plants or cars in the ocean.
 

@@ -19,4 +19,3 @@ Imagine what such a focus on simplicity could do in the field of air quality.  I
 
 Time to simplify our system.  We can make it happen.
 
-[![](/images/sip/simplify6.png "simplify")](/images/sip/simplify6.png)

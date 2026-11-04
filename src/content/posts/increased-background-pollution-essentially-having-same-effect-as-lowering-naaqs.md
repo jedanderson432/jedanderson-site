@@ -11,7 +11,7 @@ tags: ['clean-air-act']
 abstract: 'It baffles me why so many people are concerned about potential lowering of the NAAQS when increasing background pollution is essentially having the same effect.'
 ---
 
-It baffles me why so many people are concerned about potential lowering of the NAAQS when increasing background pollution is essentially having the same effect.  ![](http://t0.gstatic.com/images?q=tbn:ANd9GcTHCm1KcgCT2Otl8b5KyKES8yK8mYx9gOoI20ygRjnGxFBiRBge "Background Air Pollution")
+It baffles me why so many people are concerned about potential lowering of the NAAQS when increasing background pollution is essentially having the same effect.  
 
 What’s the difference between lowering the NAAQS by 10 ppb or increasing background pollution by 10 ppb from a SIP emissions reduction standpoint?  Not much.
 

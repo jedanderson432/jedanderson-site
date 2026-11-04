@@ -21,7 +21,6 @@ Bezos, Musk . . .
 
 Most companies when I first tell them about our project to remove pollution from their facilities in the Houston Ship Channel area look at me like I'm completely nuts.
 
-![](/images/posts/bezos-musk-and-anderson/img-01.png)
 
 I'm not trying to go to Mars.
 

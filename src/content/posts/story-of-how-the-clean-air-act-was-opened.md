@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '**[](/images/sip/opening-the-clean-air-act1.png)**'
 ---
 
-**[![Opening the Clean Air Act](/images/sip/opening-the-clean-air-act1.png)](/images/sip/opening-the-clean-air-act1.png)**
+****
 
 Linda walked up to a door.  On the door were written the words,  “Clean Air Act”.  Linda tried to open the door.  But the door was locked.
 

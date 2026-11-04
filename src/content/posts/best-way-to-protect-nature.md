@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: '[](/images/sip/keep-it-simple.png)Want to know the best way to protect nature? Look at nature.'
 ---
 
-[![Keep it Simple](/images/sip/keep-it-simple.png)](/images/sip/keep-it-simple.png)Want to know the best way to protect nature?  Look at nature.
+Want to know the best way to protect nature?  Look at nature.
 
 > - **“Nature operates in the shortest way possible.”** **― Aristotle**
 > - **“Nature is pleased with simplicity. And nature is no dummy.” ― Isaac Newton**

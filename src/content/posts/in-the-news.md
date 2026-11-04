@@ -13,20 +13,14 @@ original_source: "Constant Contact campaign"
 
 technology breakthroughs supporting EnviroAI's mission
 
-![](/images/posts/in-the-news/img-01.gif)
 
 . . . Some big recent developments
 
 . . . big help to EnviroAI and our build efforts
 
-![](/images/posts/in-the-news/img-02.gif)
 
-![](/images/posts/in-the-news/img-03.gif)
 
-[![](/images/posts/in-the-news/img-04.png)](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRgxTkub2efFJGeOVj8kkUOPWfZoUXXb2arMJqAYooGV3YTbMwn2G6vOaRsvVGM1sbbCaYcQvoiNJyBaWPiwnvuCYP-ogqDQCZANXTs1FUudNY1yS_pX3DNdUXHvVblGxFe1uZKoUIeyX_8OqcuoyLSGvH-2ilsGbQL7erDd91XvuuUEsN_GB6VR7FyFtvOqW3kjzXX-A7UUoZtWLijyHzunDjNa-Wy2s2LuhyLNTJW9IU&c=&ch=)
 
-![](/images/posts/in-the-news/img-05.gif)
-![](/images/posts/in-the-news/img-06.gif)
 
 The Metaverse
 
@@ -62,7 +56,6 @@ The EnviroVerse will be a strong defense against the potentially adverse effects
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/in-the-news/img-07.png)
 
 Including Nature in Our More Digital Future
 
@@ -72,7 +65,6 @@ Let's face it, human's current connections with nature ain't perfect. But what i
 
 EnviroAI is building the EnviroVerse to create a deeper digital connection between humans and nature. The more computers understand the value of nature and biological life, the better off all of us will be.
 
-![](/images/posts/in-the-news/img-08.gif)
 
 The metaverse and enviroverse will be awesome!!!
 
@@ -82,19 +74,13 @@ Physicist Brian Greene in this [clip](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhz
 
 Imagine walking through a forest and the potential ability to experience the quantum effects of nature all around you through an AR/VR connected to a quantum computer?
 
-![](/images/posts/in-the-news/img-09.gif)
 
-[![](/images/posts/in-the-news/img-10.png)](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRg929iyLSxniVF4tDf5nIQ5wkn9imlJOdcbHV05JehYGBe6NxaB89aP7NGFVkxwsEJX0k9lRWMhoYgAsR-K65TF6pKKL_zQKRFcdkbuK3f0ZguKDI5dRx-vhsm0a6mhrwtQ==&c=&ch=)
 
-![](/images/posts/in-the-news/img-11.gif)
 
-[![](/images/posts/in-the-news/img-12.jpg)](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRg929iyLSxniVixuCuCEzjrHtymQPuUN0XzVlx7J8DSUD4Ho9UvIyO0uFS91an2nTPJJ9mu3cWp5f2Dtv8WALa4u3umqao1m_QYD1tM22ohy7BIrs5LtWQDyoxx0hb1wNWL7UC76gtNwikSb7KoIDPh02TOXZOCUIDRjzGGOI6-IhEpiJUr6N0-B1kOiJY7V0KnPmMJUckUmCwrUFgKrH3-72148VIkYY2zK0A8CoGhUapEfha2WBQV_lKIs0Ugc4oSjbleEX-Mvr9Bm1n43YevEvYy-BwRGrZNjAQVwHaXwwYGMp6PZJUXNp1MCn-uC4p-2_Q_a1sZgigCqNMA-fjBoc5cHSB3BNsIFoIPxU-TD5NMPlmpXkVRbdBKZHEHH6V7126kLw_0ypTCEnnlz6dx1Q93iK2rkZVc0PlhdUq0YoKlG5jgVMTM7T91XmaFLeHg==&c=&ch=)
 
-![](/images/posts/in-the-news/img-13.gif)
 
 What happens to nature when humans move more into digital experiences of life?
 
-![](/images/posts/in-the-news/img-14.gif)
 
 The Metaverse
 
@@ -106,21 +92,15 @@ Nature
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/in-the-news/img-15.png)
 
-![](/images/posts/in-the-news/img-16.gif)
 
-![](/images/posts/in-the-news/img-17.gif)
 
 WHAT HAPPENS
 
 ﻿TO NATURE?
 
-![](/images/posts/in-the-news/img-18.gif)
 
-![](/images/posts/in-the-news/img-19.gif)
 
-![](/images/posts/in-the-news/img-20.gif)
 
 As humans move more into digital experiences of life, how will this impact nature and the relationship between humans and nature?
 
@@ -132,40 +112,25 @@ As humans move more into digital experiences of life, how will this impact natur
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/in-the-news/img-21.gif)
 
-![](/images/posts/in-the-news/img-22.gif)
 
-![](/images/posts/in-the-news/img-23.gif)
 
-![](/images/posts/in-the-news/img-24.jpg)
 
-![](/images/posts/in-the-news/img-25.gif)
-![](/images/posts/in-the-news/img-26.gif)
 
 Companies now in the metaverse race include: Google, [Apple](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRg2m0YRGN-DKbBVpNsmY6gbAFxupEoUjWfIC1iTWomf57hcR77IFQwYRsozyfaBGGNTL_sXzVOZFC1CbCchoxQrDIcy2TgRG6UMbm5gaLFdrCAQbypWbqepVeNh4a6_M-gstAPIe2hSl19LTWmBt7vYbxMdHvZUQ3KelIwUQLrxnBKJJJx8lsPG3y52go69u3t2AyLfsthp5nxv-nJnYvg-IK5JU9O1fAoys9RqE_o2n01f_4uZqjwQg=&c=&ch=), [Microsoft](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRg2m0YRGN-DKb_Zz1jaLVqrop-f7U7M-b1IHeKUjb7urXPu2dvnDC5htH_IEJl28by3Ps_PDMy-69D6i8nij8ceMoo4SAdJ0BTtvTcFPn2mERFHx5C8D4kVAxbCSqwuIt9N54XvnzIS0EfZ0nWhRfLqOizzUv8iT-7XGuaMZOMxPWWaCuULu1OXK76gEk24XHswQiOman5Gtzl0CE-x-XeNaRgn1T5Z6SYtd9R83RjnattdVsi02X6JIze5GEiP-MNJsyX0h0oxZl6PISXpOk0CR_wvu2OWYg9F5SVB1NKw7D7-zgCNDq9zxeK4Kln2iFCfY80vpm_PbWmQ4DPGXPZhMV9HCRensBHVdKXMBBADn6L3a1ne30Tk_sk4kUu3CoKs9DZU5DhC2TGO-Zk01NMQPvvou9JnMBYnRSDD-8UebN_7s5Y4o3Z8EAhCokVChRA200SVg6PsvjhHLcwOfkZi6kCC0t68IqxHQwUHfQt0q1DBnkaG-QRfo=&c=&ch=), Meta (Facebook), [Nvidia](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRg8isP3Spk4bVLV1bVSfv4erVzLRFdB3ieqqSpAk2OyTsOl5WDOVglvel71L-LKU7PZ06ztxSKE04L8vGFNPGf58JJMSvM1tSXH_Fls3r-mBIjzTZbXH4bQ4Kp31ZjLnTbg==&c=&ch=), [Amazon](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRg2m0YRGN-DKbdm1qtergoVMiCmUSEYDFGx7cHWRqSy0Y7j1vLyUr-QG9EiEbGIi3XC88eHR_WUaeWc6lwn-kuLi99oH4c5so54d04xSPNVpx922NMPVkIB0Ik_z7aBlYQGpqluB9GoEPVzG9m7R06YmZdNJOWfGidCjlfboVYr7mcGT-cADOC3SHfrDxFp4Ag6aydp-GhxXRVtG4bFMZ6BUCGtoZP24LGg==&c=&ch=), and [Disney.](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRg2m0YRGN-DKbxDzUiAB0fDLV5mX8t8U6eZYm1cjzE-E-94vfr3YQ3VhE7lak_JYsyqTG19WXgwbaaZ84EpeFUM6hFQcfZ6XtS-Q77A2oB9Vb7F42SsM2ciai6IRz6jKvnT6eTyXLG_3uRfySI0lZ8txEokTSxVDTJk6xoWHRi-7xWPQoDbkMOiyWaLzuNWzlCw==&c=&ch=)
 
-![](/images/posts/in-the-news/img-27.gif)
 
 ---"The computer is creating a digital reality for us . . . so part of what we need to do is create a biological reality for the computer."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/in-the-news/img-28.gif)
 
-![](/images/posts/in-the-news/img-29.gif)
 
-![](/images/posts/in-the-news/img-30.gif)
 
-![](/images/posts/in-the-news/img-31.gif)
 
-![](/images/posts/in-the-news/img-32.gif)
 
-![](/images/posts/in-the-news/img-33.gif)
 
-![](/images/posts/in-the-news/img-34.gif)
 
-![](/images/posts/in-the-news/img-35.gif)
 
 Environmental
 
@@ -177,9 +142,7 @@ in the Metaverse
 
 Using Probabilistic Systems within Probabilistic Systems to Better Understand Probabilistic Systems (i.e. Nature, Environmental Protection]
 
-![](/images/posts/in-the-news/img-36.gif)
 
-![](/images/posts/in-the-news/img-37.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -187,23 +150,15 @@ Using Probabilistic Systems within Probabilistic Systems to Better Understand Pr
 
 Both AI and quantum technologies are based in probability--which is how the universe works at a more fundamental level. It is also important to note that quantum-mechanical phenomena, such as entanglement and superposition, [may play an important part](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRgw8BK0NLh54Clr2YHMG-Wm3IDyBWvp1M5nHkFxHmpHeFqungYPDYAdQsd4to4TVj6bOE7u_yIUFKF895B6XvIlBiBGPnPUiJmeta-C4v_0ihOS-C8_rbyteJnK29-PVGsELCZQUoVkQt&c=&ch=) in the human brain's function and could help to explain consciousness according to such luminary physicists as Nobel Laureate [Roger Penrose](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRgw8BK0NLh54CQa87QHGySB5GCO-cx9LLSky62nt1MUjVeeovKDdQF76MCKaEvTKjuvMcZPHP5LuI1HruV8QWt6JDSK90cweRTbLGDXKZ759farJjB72ghQWLbk4Shwu_Ew==&c=&ch=).
 
-![](/images/posts/in-the-news/img-38.gif)
 
-![](/images/posts/in-the-news/img-39.gif)
 
 ---"If our brains take advantage of quantum mechanics, artificial intelligence can and will need to take advantage of quantum mechanics. It is a physical principle of intelligence and the universe that cannot be disregarded." - Jed Anderson, EnviroAI
 
-![](/images/posts/in-the-news/img-40.gif)
 
-![](/images/posts/in-the-news/img-41.gif)
 
-![](/images/posts/in-the-news/img-42.gif)
 
-[![](/images/posts/in-the-news/img-43.png)](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRgw8BK0NLh54CA_l4f4nDi6TLESkcCXFwTJ9WdvK16W6wzZzz_HhHZkiQDpN42KB2ov3YPFuvffnU_0Q9kagsCVQ02sQFMTg43tKOx5zzUjJvw1-rNP_AyvhzDlqDcHIUnURxy-Ttmsm3r61EfrPj9o_5Js5g3q7TB6OzTZvxpMnD1ZKEKnLf6i8UXzJD5QKemXmU2hOHrj-vErBrF1RgITGoySMDLYE4ag==&c=&ch=)
 
-![](/images/posts/in-the-news/img-44.png)
 
-![](/images/posts/in-the-news/img-45.png)
 
 ---"We are perhaps not far removed from the time when we shall be able to submit the bulk of chemical phenomena to calculation." Joseph Louie Gay-Lussac (1888)
 
@@ -569,13 +524,9 @@ The principles of physics, as far as I can see, do not speak against the possibi
 
 We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
-![](/images/posts/in-the-news/img-46.gif)
 
-![](/images/posts/in-the-news/img-47.gif)
 
-![](/images/posts/in-the-news/img-48.gif)
 
-![](/images/posts/in-the-news/img-49.jpg)
 
 ---"Everything is patterns.
 
@@ -585,13 +536,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/in-the-news/img-50.gif)
 
-![](/images/posts/in-the-news/img-51.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/in-the-news/img-52.gif)
 
 Notes are data. Music is patterns.
 
@@ -603,13 +551,9 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/in-the-news/img-53.gif)
 
-![](/images/posts/in-the-news/img-54.jpg)
 
-![](/images/posts/in-the-news/img-55.jpg)
 
-![](/images/posts/in-the-news/img-56.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -625,29 +569,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/in-the-news/img-57.gif)
 
-![](/images/posts/in-the-news/img-58.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/in-the-news/img-59.png)
 
-![](/images/posts/in-the-news/img-60.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/in-the-news/img-61.gif)](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRgw-p7myAI-5WykRXKNAxRYSW-3SGWKLy5sd_YJhshwsjcHrjhvHtft5MJuzTcBjMGWunlBNJxt5-NYH2b44PBU5yMm6F2FjLb9mORlHZc-OkcBBW7lsQUKZtjMHOL_7gjQ==&c=&ch=)
 
-![](/images/posts/in-the-news/img-62.gif)
 
 SIMPLICITY
 
-![](/images/posts/in-the-news/img-63.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -656,7 +593,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/in-the-news/img-64.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -669,7 +605,6 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/in-the-news/img-65.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -684,7 +619,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/in-the-news/img-66.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -730,8 +664,5 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-[![](/images/posts/in-the-news/img-67.gif)](https://r20.rs6.net/tn.jsp?f=001GSvUWVwAhzEuEX7dTxsbP2WGDtuiZvwx3eIdF5QlHGDIN5ukHzYRgwTAKXj7P4XX5MKZ4OSz14oTpkgz5U2GGKtA5Ye9xn6mD74nah4O16ANPWpsco7vs-54N81FPDYtkYC7wNL0dSg=&c=&ch=)
 
-![](/images/posts/in-the-news/img-68.gif)
 
-![](/images/posts/in-the-news/img-69.gif)

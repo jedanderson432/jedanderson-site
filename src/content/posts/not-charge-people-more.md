@@ -13,9 +13,7 @@ original_source: "Constant Contact campaign"
 
 . . . charge MORE PEOPLE LESS." ---- [why we use machine-learning]
 
-[![](/images/posts/not-charge-people-more/img-01.png)](https://r20.rs6.net/tn.jsp?f=001RLRFivmTsj8Oi30GZM3U03AWTci2cALR2yTlz59QSsHClQXQD1G2NZaF4qIhKwA1G7AcCmzyuYVssLCMZfifcc6PXFJNXW4XEIg0-Q35crFDo57yPYcy4FsxSKvKt_6wIDg-cz8ghKdxge6MXWHJzQ==&c=&ch=)
 
-![](/images/posts/not-charge-people-more/img-02.gif)
 
 - Compliance and Permit Optimization
 - Environmental Enforcement
@@ -42,10 +40,7 @@ Jed Anderson, Attorney & Environmental Entrepreneur
 
 [Contact us](mailto:jed@allawgp.com)
 
-![](/images/posts/not-charge-people-more/img-03.gif)
 
 This is an advertisement for The AL Law Group
 
-![](/images/posts/not-charge-people-more/img-04.gif)
 
-![](/images/posts/not-charge-people-more/img-05.gif)

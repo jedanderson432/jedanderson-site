@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 ----"Artificial intelligence is mostly hype."
 
-![](/images/posts/ehs-professionals-quote-on-ai/img-01.gif)
 
 EHS Professional----"Artificial intelligence is mostly hype."
 
@@ -29,18 +28,14 @@ It's odd why the environmental profession seems so opposed to using AI technolog
 
 ---"AI will increase economic growth by $13 trillion by 2030."---McKinsey
 
-![](/images/posts/ehs-professionals-quote-on-ai/img-02.gif)
 
 ‌
 
 INTELLIGENCE.DATA. POWER. SPEED
 
-![](/images/posts/ehs-professionals-quote-on-ai/img-03.png)
 
-![](/images/posts/ehs-professionals-quote-on-ai/img-04.gif)
 
 [To Purchase or for More information on Ceres AI](http://r20.rs6.net/tn.jsp?f=001rxZhJs1NSeb3Q_f0yhoKkUxEYLzl-STg5BkPv8FrkLkt37wE2_h6Bk5CePjRRIUfpPVWOkIH1P_eH-NFmZc9CNF_XKXVaHatE5ZptFhd7k4yvTmSdffrI3r_CnNv_Sa8AncvRSlGVJovgLJmvfddFg==&c=&ch=)
 
-![](/images/posts/ehs-professionals-quote-on-ai/img-05.gif)
 
 This is an advertisement for Ceres AI LLC

@@ -19,7 +19,6 @@ Put an environmental ding in the universe.
 
 ﻿
 
-![](/images/posts/another-day/img-01.gif)
 
 Want your environmental career to mean even more?
 
@@ -35,6 +34,5 @@ You can perform your job, and perform it even better, while leaving an environme
 
 Contact us at (832) 428-4257
 
-![](/images/posts/another-day/img-02.gif)
 
 This is an advertisement for EnviroAI

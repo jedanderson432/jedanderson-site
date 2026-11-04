@@ -19,4 +19,3 @@ Jed Anderson, an environmental attorney with the AL Law Group and former attorne
 - For the draft legislative text, click [here](http://www.sipreform.com/uploads/The_Clean_Air_Act_of_2018_-_Final_Draft.pdf).
 - For a powerpoint presentation, click [here](http://www.sipreform.com/uploads/Clean_Air_and_Climate_Change_Act_of_2018_-_Powerpoint_Presentation.pdf).
 
-[![Clean Air and Climate Change Act of 2018](/images/sip/clean-air-and-climate-change-act-of-2018.jpg)](http://cleanairreform.org/2018/01/01/the-clean-air-act-of-2018-unveiled/)

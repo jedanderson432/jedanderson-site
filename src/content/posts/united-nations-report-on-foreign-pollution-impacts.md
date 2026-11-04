@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '**[](/images/sip/htap_topbar2.jpg)**'
 ---
 
-**[![](/images/sip/htap_topbar2.jpg "HTAP_Topbar")](/images/sip/htap_topbar2.jpg)**
+****
 
 **Quotes from the United Nation’s 2010 Hemispheric Transport of Air Pollution Report:**
 

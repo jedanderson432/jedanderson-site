@@ -15,13 +15,11 @@ Thanks for the quick responses I'm receiving. All glory . . . and investment dec
 
 1st pitch deck in human history ever written to God . . .
 
-![](/images/posts/lots-of-people-write-letters-to-god-im-pretty-sure-this-is-the-1st-pitch-deck-go/img-01.gif)
 
 The Pitch Deck
 
 A strategy never tried before in human history . . . a pitch deck created for the Ultimate Investor, who, if they like it and decide to invest, can send signals throughout the investment market. Ask. Receive.
 
-[![](/images/posts/lots-of-people-write-letters-to-god-im-pretty-sure-this-is-the-1st-pitch-deck-go/img-02.png)](https://r20.rs6.net/tn.jsp?f=001t380Sd0dp7pOYrcqV6PTO1AmvHeS4BLqHmEU01gSaZaFrvKoVRH17Jlt5dc9L5-4sW-8L2MnbIMdH3mXq2hnBWUWp6LMiW0ys0Uxezt2NAgEQmbTDo3PtKL1RsgkTFp-AlTphsIr5WPULeMUH42DfmIpbhGCmR7Mbs91f5MdQMfdZyhYQVY_sw==&c=&ch=)
 
 ‌
 
@@ -33,4 +31,3 @@ A strategy never tried before in human history . . . a pitch deck created for th
 
 ‌
 
-![](/images/posts/lots-of-people-write-letters-to-god-im-pretty-sure-this-is-the-1st-pitch-deck-go/img-03.gif)

@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/bruce-lee-and-the-clean-air-act.png)I wonder what Bruce Lee would think about the Clean Air Act?'
 ---
 
-[![Bruce Lee and the Clean Air Act](/images/sip/bruce-lee-and-the-clean-air-act.png)](/images/sip/bruce-lee-and-the-clean-air-act.png)I wonder what Bruce Lee would think about the Clean Air Act?
+I wonder what Bruce Lee would think about the Clean Air Act?
 
 > **►   *“Simplicity is the key to brilliance.”**—Bruce Lee***
 >

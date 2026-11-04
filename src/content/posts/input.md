@@ -13,21 +13,15 @@ original_source: "Constant Contact campaign"
 
 What's your input on this documentary and what should be told?
 
-![](/images/posts/input/img-01.gif)
 
-![](/images/posts/input/img-02.gif)
 
 Input?
 
-![](/images/posts/input/img-03.gif)
 
 What's your input on this documentary film script and the relationship between technology and earth?
 
-![](/images/posts/input/img-04.gif)
 
-[![](/images/posts/input/img-05.png)](http://r20.rs6.net/tn.jsp?f=001txX9P3-5QtOFH7FkbcPcJrWjTv7qmlCqzZ3VAidXqAgxaZyoLk72GelKbTzySlgRPRxz2pj9lEELHOHZq880aO_X9KhrZEIAqCO5-VVuHKga5K9V3JuzUS3h0R39xeP2Fkjy_dBpPXUcekn_wXNP--vSgeAur0hYT3xuHKm8jbM=&c=&ch=)
 
-[![](/images/posts/input/img-06.png)](http://r20.rs6.net/tn.jsp?f=001txX9P3-5QtOFH7FkbcPcJrWjTv7qmlCqzZ3VAidXqAgxaZyoLk72GelKbTzySlgRPRxz2pj9lEELHOHZq880aO_X9KhrZEIAqCO5-VVuHKga5K9V3JuzUS3h0R39xeP2Fkjy_dBpPXUcekn_wXNP--vSgeAur0hYT3xuHKm8jbM=&c=&ch=)
 
 [Watch "Earth First" Promo](http://r20.rs6.net/tn.jsp?f=001txX9P3-5QtOFH7FkbcPcJrWjTv7qmlCqzZ3VAidXqAgxaZyoLk72GelKbTzySlgRPRxz2pj9lEELHOHZq880aO_X9KhrZEIAqCO5-VVuHKga5K9V3JuzUS3h0R39xeP2Fkjy_dBpPXUcekn_wXNP--vSgeAur0hYT3xuHKm8jbM=&c=&ch=)
 
@@ -39,4 +33,3 @@ From famed filmmaker [Peter von Puttkamer](http://r20.rs6.net/tn.jsp?f=001txX9P3
 
 ‌
 
-![](/images/posts/input/img-07.gif)

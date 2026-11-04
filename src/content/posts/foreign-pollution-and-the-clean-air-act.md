@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '#### U.S. and Foreign PollutionA question I would like to ask Gina McCarthy:'
 ---
 
-#### [U.S. and Foreign Pollution](/images/sip/u-s-and-foreign-pollution1.png)A question I would like to ask Gina McCarthy:
+#### U.S. and Foreign PollutionA question I would like to ask Gina McCarthy:
 
 > ## **Why does the world get to pollute under the Clean Air Act . . . and then we can pollute to the extent there is room left over?**
 >

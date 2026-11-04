@@ -23,21 +23,15 @@ See this morning's article in the [Houston Business Journal](http://r20.rs6.net/
 
 ---TPC's EHS Director
 
-![](/images/posts/tpc-cutting-100-jobs/img-01.png)
 
 In less than 3 seconds . . . Ceres AI found 83 events at the facility involving butadiene--along with causes and agency correspondence.
 
-![](/images/posts/tpc-cutting-100-jobs/img-02.png)
 
-![](/images/posts/tpc-cutting-100-jobs/img-03.gif)
 
 INTELLIGENCE.DATA.POWER. SPEED.
 
-![](/images/posts/tpc-cutting-100-jobs/img-04.png)
 
-![](/images/posts/tpc-cutting-100-jobs/img-05.gif)
 
-![](/images/posts/tpc-cutting-100-jobs/img-06.gif)
 
 [For More information on Ceres AI](http://r20.rs6.net/tn.jsp?f=001Wcdd_OHL_bbLhWxccSZ51ibExTdnPFj0GrRqGpmOJhx8Tq1OQnoNQXv8AtwErN4E0oUsyuKTEfvna0SQSLZlPD1oS-rhzuKPSGfKryFPYvyE1LixOU61ZItCG73YFJoGQXxwCyBFf72MzKcc7FB6WA==&c=&ch=)
 

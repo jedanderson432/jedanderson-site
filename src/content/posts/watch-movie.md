@@ -13,13 +13,10 @@ original_source: "Constant Contact campaign"
 
 "Earth First"---Documentary by Famed Filmmaker Peter von Puttkamer about EnviroAI's Grand Vision and Mission to Protect Earth
 
-![](/images/posts/watch-movie/img-01.gif)
 
-![](/images/posts/watch-movie/img-02.gif)
 
 Watch "Earth First" movie promo . . .
 
-[![](/images/posts/watch-movie/img-03.png)](http://r20.rs6.net/tn.jsp?f=001-4qpY27ZB6c3BbBq60nx6QkBOZDKsfe5EKfnwfXPWLKkzkA_QppJQ7u87HZLKCBck7YU5K3r_BKiJ-e94QmPBji_EmYhPFAYGhij3GbEUHv69ux7unhSE1rIthImEzxuV7KWvagV0cZsTnjyrg7gvhZymmGees-msICYB8MmLMY=&c=&ch=)
 
 [Watch "Earth First" Promo](http://r20.rs6.net/tn.jsp?f=001-4qpY27ZB6c3BbBq60nx6QkBOZDKsfe5EKfnwfXPWLKkzkA_QppJQ7u87HZLKCBck7YU5K3r_BKiJ-e94QmPBji_EmYhPFAYGhij3GbEUHv69ux7unhSE1rIthImEzxuV7KWvagV0cZsTnjyrg7gvhZymmGees-msICYB8MmLMY=&c=&ch=)
 
@@ -27,4 +24,3 @@ From famed filmmaker [Peter von Puttkamer](http://r20.rs6.net/tn.jsp?f=001-4qpY2
 
 ‌
 
-![](/images/posts/watch-movie/img-04.gif)

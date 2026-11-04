@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Approximately $2.5 billion
 
-[![](/images/posts/bidding-on-project/img-01.png)](http://r20.rs6.net/tn.jsp?f=001IPG6RrIo0inkrI59IeylXVINrgSMGcW_HS6xwXw1CBeGmkIKk88Axea92JAlK1gTPXa7rAFOLlbS9d2tKqrph-qtTX31ll-ceGagtE1DnhcA17vdjPrMg_y-N9d3LjM9hs6JPbSWUipeIIWASPjvu-uUdkg1y2RVlKbjUUg-sZ-GfFg0nIDo7EzIq-G0zuLyGXFOvqzM3g7wJZpqlL3crrlJr_g7A3c4opdisysJRoI=&c=&ch=)
 
 Companies are reaching out to us with interest in bidding on this project. We have a running list.
 

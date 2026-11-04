@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/eastern-vs-western-states-and-transported-pollution1.png)Eastern States are now suing to get Western States to address Eastern State’s pollution in Western State’s SIPs (see headlines below). Absurd?'
 ---
 
-[![Eastern vs. Western States and Transported Pollution](/images/sip/eastern-vs-western-states-and-transported-pollution1.png)](/images/sip/eastern-vs-western-states-and-transported-pollution1.png)Eastern States are now suing to get Western States to address Eastern State’s pollution in Western State’s SIPs (see headlines below).  Absurd?
+Eastern States are now suing to get Western States to address Eastern State’s pollution in Western State’s SIPs (see headlines below).  Absurd?
 
 - Anyone getting tired of this?
 - Anyone still think that the current Clean Air Act can efficiently, effectively, and fairly address pollutant transport?

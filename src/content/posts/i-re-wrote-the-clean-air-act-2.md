@@ -15,6 +15,5 @@ I re-wrote the Clean Air Act.  I re-wrote it because nobody else thought it coul
 
 Done.
 
-![Lombardi](/images/sip/lombardi.png)
 
 To view a summary of the “21st Century Clean Air Act”, click [here](/pdfs/sip/Clean_Air_Act_Reauthorization_of_2017.pdf).  For the text of the new Act click [here](/pdfs/sip/The_Clean_Air_Act_Reauthorization_of_2017.pdf).

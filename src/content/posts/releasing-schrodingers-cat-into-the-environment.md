@@ -29,21 +29,16 @@ you just reduced a lot of pollution."
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-01.gif)
 
-[![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-02.gif)](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unvrekUq8R2N9auuFSguiarGtZR4nJ8mttotzqBpx8BTh1rcwDN1O9P9WU9nfLCMSTiuZ81Fd5I6pxYoVZLLyapC1RbZMnR1Lzw==&c=&ch=)
 
 ENVIRONMENTALINTELLIGENCE. DATA.POWER.SPEED.
 
-![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-03.gif)
 
 Quantum Optimization in Environmental Problem Solving
 
 Explaining [superposition](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unhkN_p0swhZiWDpJYV9HAVyW5G7GOm9xOMC_ftpirbEUwjuGOFBOAzRSiUyOT8c4z09Oef61obk_CZmZHDaESsi6O-hcD6AqzpoZ18tiYsA64n4DqFy0hWbVA_Wew0iQ-xh0s9IQUlVW&c=&ch=), [Schrodinger's Cat](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unhkN_p0swhZiVAkzjo0p6E3xMJD2FaRfH1cvLjFEmMl2jo0hdoQ4bWUEhTtqwmO-Pukji7HP1TzMHtHj-J2X8tS7AgEF0fS0sO2deu0uMXNjEEyKJ7FyKGmjB4_jhr6vtQ==&c=&ch=), and [quantum physics](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unhkN_p0swhZifVpgBTADR8gvWnIgQ1CKce63_UQdbaLX6FlZvw73u5hI38yQOETUYzifh7UB61VBs8YV9n47N1E9_eaYOssd1pkVnKHS0y1D9INjiwknU_qqiEjSp-3saA==&c=&ch=) is beyond the scope of this email--nor could I explain them very well. The practical aspect I would like people to walk away with is the following. Understanding how things move in nature is essentially an optimization problem. It's NP-hard, but like the [Traveling Salesman Problem](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unhkN_p0swhZiuKgMsytuVAwUTOIZ7IX7pbPvyCoFwsjSiIzNQpv2D70aIFuiM9X_UD7SN6qsKsQQQUfFkoKn9cWEI56vVdQDTh8TnZKzEUna&c=&ch=), it's quite solvable. Nature generally follows the simplest paths. We as humans also want to follow the simplest paths. And the great news for us is that the most significant benefit of quantum computing, and the thing that [quantum computers are best at](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unhkN_p0swhZi3EAJKZWzuC0d_wZQxXT_qmdIywn5VKCL33iViVTrzSUByxirw0dDRjurWH8UOCU2eKAPKpTQkzXTWI0-7tHKE3vkOdmfGcj7moXNGuxEjPXc0LV_O6qLEqmz2mHDlTW5s4DmRWSdeZomNQ1Nz_lQJA==&c=&ch=), is optimization problems. The reason is that quantum computers inherently compute or "think" differently. [Quantum computers compute all solutions simultaneously or in parallel](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unhkN_p0swhZinieKOH5iMNL_ZHFRyucCJu74nBSOLokYtvCvPdJj24LYA-X6yVUVCfRtuxs4Bb3S5F_nIINNqEnsdOdmjIGa-u9zamKpqN2tghjJSUPWDJHS63GQ2YIbsYjhGpASPO1ogN2zHiVQ5B_DxYBxgcyqrA==&c=&ch=) rather than sequentially and linearly. Classical computers solve problems linearly (i.e. 0110001001010). In quantum computing, a "zero" can be a "one" at the same time, and everything in between a zero and a one at the same time, because of the superposition of quantum states (i.e. Schrodinger's Cat being both alive and dead until it is observed--the collapse of the wave function).
 
-[![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-04.png)](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unhkN_p0swhZirxDZnlDPm1IhBCAcRwiGTiA_bHE3FAiBUBMi971N4GxzIDZXNu_Xh7h5jrS-zlmsz5UZg1RyDVUlI12dCH7UDRZYYkRNtbiN&c=&ch=)
 
-![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-05.gif)
 
 EnviroAI and Quantum/AI Technology
 
@@ -51,18 +46,12 @@ EnviroAI has acquired quantum computing time on D-Wave's quantum computer. Addit
 
 It's an incredible world we are living into.
 
-[![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-06.png)](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unvrekUq8R2N9auuFSguiarGtZR4nJ8mttotzqBpx8BTh1rcwDN1O9P9WU9nfLCMSTiuZ81Fd5I6pxYoVZLLyapC1RbZMnR1Lzw==&c=&ch=)
 
-![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-07.gif)
 
-![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-08.gif)
 
 [More Information on Ceres AI](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0unoYdsWZPrCMh0-0OrlM4kXDuLPXEwNorR3u46UEA0DOdffIJDwOU3DDW5a4LTHIAsdAhzHVOLJ-ibW8GYR43va6JEMd60WFgqw==&c=&ch=)
 
-![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-09.gif)
 
 This is an advertisement for Ceres AI LLC
 
-![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-10.gif)
 
-[![](/images/posts/releasing-schrodingers-cat-into-the-environment/img-11.png)](http://r20.rs6.net/tn.jsp?f=001kesQ9bUKC96MgKqEvzId87SgZh4H-OEHe4AlP4kLVLI7rRE_LF0ungghkSsDvTanMxpCBCrlZeU1xm4HQwGvLK_CKhySV6oIo2RWFC9JNqP2_TBSL-RkfkKSOoRBcx4AexuhfTmPCjciUqjIyRsHNXHo0EQCL_pr4GJMGPybil8=&c=&ch=)

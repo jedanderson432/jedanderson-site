@@ -11,17 +11,13 @@ pdf: "/pdfs/i-like-my-chances.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-[![](/images/posts/i-like-my-chances/img-01.png)](https://r20.rs6.net/tn.jsp?f=001S5ZNDyYezGpzGi9k2QD_3Qvv7URp08aLtKkg6dg1vU4aaxkrZy3OYKayTPE5AnVJ7Q9gD8lcAxrepHYO27RQeq8JGmZQgK0b-a24_7JBzE7XvUnsDRkemKVJckzi8k8vv79bx_BgGhU=&c=&ch=)
 
-![](/images/posts/i-like-my-chances/img-02.gif)
 
 ---"I like my chances."
 
 --Jed Anderson, EnviroAI
 
-![](/images/posts/i-like-my-chances/img-03.gif)
 
-![](/images/posts/i-like-my-chances/img-04.gif)
 
 Support:
 

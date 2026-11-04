@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: '> **[](/images/sip/mccarthy-and-foreign-pollution.png)————“I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a neuroscientist to figure it out”.**—Gina McCarthy, U.S.'
 ---
 
-> **[![McCarthy and Foreign Pollution](/images/sip/mccarthy-and-foreign-pollution.png)](/images/sip/mccarthy-and-foreign-pollution.png)————“I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a neuroscientist to figure it out”.**—Gina McCarthy, U.S. EPA Administrator
+> **————“I hate that each sector has 17 to 20 rules that govern each piece of equipment and you’ve got to be a neuroscientist to figure it out”.**—Gina McCarthy, U.S. EPA Administrator
 
 And here’s what’s even more interesting about this quote.  I don’t think a neuroscientist would even try to figure out this complicated system.  A neuroscientist, being a scientist, would first simplify the system and ask what the complexity adds to understanding or solving a problem before trying to understand it’s complexity.  Take for example the laws of accelerated motion:
 
@@ -21,4 +21,3 @@ Neither Galileo nor any student of physics would consider using a higher degree 
 
 Time to use the scientific method on the Clean Air Act.  Time to simplify the Act so we can better understand the law and reduce the chance of error.  We can make it happen.
 
-[![Complexity and the Clean Air Act](/images/sip/complexity-and-the-clean-air-act.png)](/images/sip/complexity-and-the-clean-air-act.png)

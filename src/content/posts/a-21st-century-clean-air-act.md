@@ -13,6 +13,5 @@ abstract: 'Time to transform the Clean Air Act to better prepare ourselves for t
 
 Time to transform the Clean Air Act to better prepare ourselves for the problems and opportunities of a 21st century world.
 
-[![CAA of 2015](/images/sip/caa-of-2015.png)](/pdfs/sip/Clean_Air_and_Climate_Change_Act_of_2015.pdf)
 
 **“Click”** on picture for a powerpoint overview.  To view the text of the Act, “click” on the following link: **“[Clean Air and Climate Change Act of 2015](https://docs.google.com/a/allawgp.com/file/d/0BzRr3a6vzzLHLU8wWG5PdURfbEk/edit?pli=1)”.**

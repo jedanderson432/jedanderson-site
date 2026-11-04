@@ -15,4 +15,3 @@ Amazes me how much time, money, and emotions people on both sides spend fighting
 
 Easier and simpler way.   On the surface this way seems harder, but only seems harder because no one has tried it.  Start climbing and the mountain becomes smaller.  Eventually you find yourself at the top wondering how you got there.  All will be well.
 
-[![Solution to CAA](/images/sip/solution-to-caa.png)](/images/sip/solution-to-caa.png)

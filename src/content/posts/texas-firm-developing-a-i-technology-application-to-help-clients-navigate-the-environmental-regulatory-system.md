@@ -15,7 +15,6 @@ abstract: '###### *(Houston) – May 2, 2018*'
 
 Artificial intelligence or “AI” is coming to environmental management.  It is no longer “if”.  It’s “when”.
 
-![genius3](https://i0.wp.com/www.texasenvironmentalnews.com/wp-content/uploads/genius3.png)
 
 The AL Law Group’s focus on simplicity, innovation, and finding clients simpler and lower cost solutions has led us to developing this product.  We call it CERES.  The following is a “sneak peek” at how AI is likely to play-out in the environmental management system in the coming years.
 
@@ -29,7 +28,6 @@ AI is already beginning to “butt heads” with the 1970’s regulatory structu
 
 3. AI will lead to updating the regulatory system. The 1970’s era environmental regulatory structures will be updated to accommodate, promote, and better regulate AI and other technology developments in the environmental arena.  The regulatory structure will be simplified and modernized in a way that holds companies accountable for results rather than procedures—leading to significant environmental and economic benefits.  AI and other developing technologies such DIAL, SOF, open-path FTIR, and space-based air quality monitoring will thrive in this results-driven rather than procedural-driven regulatory framework.
 
-![genius3](https://i0.wp.com/www.texasenvironmentalnews.com/wp-content/uploads/genius3-1-1024x576.png)
 
 ## AI can and will change the regulatory system—even if the system never changes
 
@@ -41,11 +39,10 @@ When clients call me and ask what the law is I sometimes kid with them and say �
 
 The breadth of environmental management methods that can be advanced through artificial intelligence and other developing technologies has grown significantly since the 1970s.  The regulatory environment hasn’t.  For AI to gain traction, and not to begin changing the regulatory framework on its own, new regulatory frameworks must be created.  Companies can then create the compliance structures necessary to smooth adoption into environmental compliance that will reduce more pollution at less cost.
 
-![genius2](https://i0.wp.com/www.texasenvironmentalnews.com/wp-content/uploads/genius2.png)
 
 ## Chesterton was right
 
-G.K. Chesterton once said, “Conservatism is based upon the idea that if you leave things alone you leave them as they are.  But you do not.  If you leave a thing alone you leave it to a torrent of changes.”  One cannot deny that AI is coming.  According to Google’s CEO, AI will have a greater impact on humanity than fire or electricity.  I don’t think ![ceres3](https://i0.wp.com/www.texasenvironmentalnews.com/wp-content/uploads/ceres3-300x169.png)this was a far-fetched statement.  One cannot help but sit at the edge of one’s seat in gleeful anticipation of the future to come.  Challenges will present themselves, but for companies like the AL Law Group that are putting themselves at the forefront of creating technological applications in new dynamic ways that improve environmental and economic performance—the future is as bright as it can be.
+G.K. Chesterton once said, “Conservatism is based upon the idea that if you leave things alone you leave them as they are.  But you do not.  If you leave a thing alone you leave it to a torrent of changes.”  One cannot deny that AI is coming.  According to Google’s CEO, AI will have a greater impact on humanity than fire or electricity.  I don’t think this was a far-fetched statement.  One cannot help but sit at the edge of one’s seat in gleeful anticipation of the future to come.  Challenges will present themselves, but for companies like the AL Law Group that are putting themselves at the forefront of creating technological applications in new dynamic ways that improve environmental and economic performance—the future is as bright as it can be.
 
 For more information on the CERES product, please contact the AL Law Group at (281) 852-8064.
 

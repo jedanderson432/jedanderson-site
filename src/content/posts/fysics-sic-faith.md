@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 . . . how did I miss this?
 
-![](/images/posts/fysics-sic-faith/img-01.gif)
 
 The limits of physics . . .
 
@@ -25,7 +24,6 @@ How did I miss this? . . .
 
 OUR . . .faith
 
-![](/images/posts/fysics-sic-faith/img-02.jpg)
 
 How did I miss this???
 
@@ -45,13 +43,9 @@ It's the pronoun! I never really noticed the pronoun. Geeze. It's the pronoun.
 
 Fascinating. The text doesn't say "I healed you" . . it says "YOUR FAITH has healed you."
 
-![](/images/posts/fysics-sic-faith/img-03.jpg)
 
-![](/images/posts/fysics-sic-faith/img-04.jpg)
 
-![](/images/posts/fysics-sic-faith/img-05.jpg)
 
-![](/images/posts/fysics-sic-faith/img-06.gif)
 
 FAITH
 
@@ -77,7 +71,6 @@ What are the limits of possibility?
 
 It almost always falls out under question #1 before I even get to question #2.
 
-![](/images/posts/fysics-sic-faith/img-07.gif)
 
 ---“Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.”
 
@@ -87,18 +80,10 @@ It almost always falls out under question #1 before I even get to question #2.
 
 ---"I myself believe that there will one day be time travel because when we find that something isn't forbidden by the over-arching laws of physics we usually eventually find a technological way of doing it."- David Deutsch Oxford University [attributed as the 1st to conceive of quantum computing]
 
-![](/images/posts/fysics-sic-faith/img-08.gif)
 
-![](/images/posts/fysics-sic-faith/img-09.gif)
 
-![](/images/posts/fysics-sic-faith/img-10.png)
 
-![](/images/posts/fysics-sic-faith/img-11.jpg)
 
-![](/images/posts/fysics-sic-faith/img-12.jpg)
 
-![](/images/posts/fysics-sic-faith/img-13.jpg)
 
-![](/images/posts/fysics-sic-faith/img-14.jpg)
 
-![](/images/posts/fysics-sic-faith/img-15.jpg)

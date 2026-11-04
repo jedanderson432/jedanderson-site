@@ -15,7 +15,6 @@ Here is the irony in my life—and perhaps yours as well.  It’s an irony with 
 
 Of all the speeches, articles, blogs, emails, and meetings I’ve engaged in to simplify and improve the Clean Air Act, the most effective work was probably done while sitting alone in the woods.
 
-![prayer](/images/sip/prayer.jpg)
 
 The world is changing.  We must change with it.  Time to simplify and improve the Clean Air Act.  We can make it happen.
 

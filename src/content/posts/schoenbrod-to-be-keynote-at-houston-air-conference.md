@@ -21,4 +21,3 @@ And what an intriguing conference AWMA leadership is putting together this year.
 
 Information on the conference is available at:  [2016 AWMA HAT Conference](http://www.awma-gcc.org/).
 
-[![breakinglog](/images/sip/breakinglog.jpg)](/images/sip/breakinglog.jpg)[![savingourenvironment](/images/sip/savingourenvironment.jpg)](/images/sip/savingourenvironment.jpg)

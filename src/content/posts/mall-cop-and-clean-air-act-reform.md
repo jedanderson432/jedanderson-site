@@ -13,9 +13,7 @@ abstract: 'My suggested alternative to the “ozone police” video:'
 
 My suggested alternative to the [“ozone police” video](https://www.youtube.com/watch?v=iBFxybpTkjM):
 
-[![Slide1](/images/sip/slide1.gif)](/images/sip/slide1.gif)
 
-[![Ozone Police](/images/sip/slide2.gif)](/images/sip/slide2.gif)
 
 Storyline Pitch for Mall Cop 3:
 

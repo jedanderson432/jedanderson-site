@@ -11,7 +11,7 @@ tags: ['clean-air-act']
 abstract: '> “**For North America** ground-level O3 concentrations, [. .'
 ---
 
-![](http://t3.gstatic.com/images?q=tbn:ANd9GcSP7oE4y2Vt9FiWIoSQdVw2LUko_4bYwXeZ72xtnUSqcX3QdVdU "Foreign Pollution Impacting U.S. Air Quality")Scientists are predicting in the near future that what happens outside the U.S. might be as relevant to ozone levels we experience in the U.S. as what actions we might take inside the U.S. (see below).  Is this mind blowing?
+Scientists are predicting in the near future that what happens outside the U.S. might be as relevant to ozone levels we experience in the U.S. as what actions we might take inside the U.S. (see below).  Is this mind blowing?
 
 > “**For North America** ground-level O3 concentrations, [. . .] **changes in emissions of O3 [ozone] precursors outside the region may be as important as changes within the region**.” –2010 United Nation’s Hemispheric Transport of Air Pollution Report (see <http://www.htap.org/activities/2010_Final_Report.htm>)
 

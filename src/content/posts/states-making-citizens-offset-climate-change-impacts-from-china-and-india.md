@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/china-india-and-u-s-pollution-impacts.png)Wait until someone figures this out other than me:'
 ---
 
-[![China, India and U.S. Pollution Impacts](/images/sip/china-india-and-u-s-pollution-impacts.png)](/images/sip/china-india-and-u-s-pollution-impacts.png)Wait until someone figures this out other than me:
+Wait until someone figures this out other than me:
 
 1. **Climate change is increasing ozone** (according now to the President, EPA, and numerous research institutions around the world).  This is often referred to as the “climate change penalty”.
 2. **Approximately 80% of the world’s greenhouse gases are emitted by other countries** (see <http://www.epa.gov/climatechange/ghgemissions/global.html>)

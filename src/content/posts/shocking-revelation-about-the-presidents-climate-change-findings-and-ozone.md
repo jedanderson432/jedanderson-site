@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/president-obama-and-the-clean-air-act.png)Shocking. The President doesn’t seem to have figured this out yet. EPA doesn’t seem to have figured this out. No one seems to have figured this out.'
 ---
 
-[![President Obama and the Clean Air Act](/images/sip/president-obama-and-the-clean-air-act.png)](/images/sip/president-obama-and-the-clean-air-act.png)Shocking.  The President doesn’t seem to have figured this out yet.  EPA doesn’t seem to have figured this out.  No one seems to have figured this out.
+Shocking.  The President doesn’t seem to have figured this out yet.  EPA doesn’t seem to have figured this out.  No one seems to have figured this out.
 
 See if you can figure it out.
 

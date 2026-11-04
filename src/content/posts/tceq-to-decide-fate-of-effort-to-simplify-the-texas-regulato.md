@@ -12,7 +12,6 @@ tags: ["clean-air-act", "policy", "tceq", "simplicity", "linkedin-original"]
 abstract: "![](https://media.licdn.com/mediaC5112AQHvX0VxMo7Arg) ## **Will TCEQ choose to incorporate regulatory self-discipline into their lives on Wednesday . . ."
 ---
 
-![](https://media.licdn.com/mediaC5112AQHvX0VxMo7Arg)
 
 ## **Will TCEQ choose to incorporate regulatory self-discipline into their lives on Wednesday . . . or choose the path of business as usual?**
 

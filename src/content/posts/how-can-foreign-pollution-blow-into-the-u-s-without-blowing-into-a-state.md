@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/people-recognizing-foreign-pollution-impacts.png)Amazing that Brian Williams, Gina McCarthy, NASA, NOAA, EPA, the United Nations, the National Academy of Sciences, Harvard University, Princeton University, UC Davis, Col…'
 ---
 
-[![People Recognizing Foreign Pollution Impacts](/images/sip/people-recognizing-foreign-pollution-impacts.png)](/images/sip/people-recognizing-foreign-pollution-impacts.png)Amazing that Brian Williams, Gina McCarthy, NASA, NOAA, EPA, the United Nations, the National Academy of Sciences, Harvard University, Princeton University, UC Davis, Columbia University, etc. are all saying that ozone-related pollution is blowing into the U.S. from overseas—yet not even one State recognizes this. 
+Amazing that Brian Williams, Gina McCarthy, NASA, NOAA, EPA, the United Nations, the National Academy of Sciences, Harvard University, Princeton University, UC Davis, Columbia University, etc. are all saying that ozone-related pollution is blowing into the U.S. from overseas—yet not even one State recognizes this. 
 
 Don’t take my word for it.  Look for yourself.  I am not aware of even one SIP in the whole U.S. that expressly recognizes that even a molecule of overseas industrial pollution blows into a State.
 

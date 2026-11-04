@@ -15,7 +15,7 @@ New York Times Article: “[A New East Asian Import: Ozone Pollution](http://gre
 
 How does the current Clean Air Act respond to this foreign pollution? The Clean Air Act places the ultimate responsibility for addressing this foreign pollution on the States–who do not have the power to directly address the problem:
 
-- “The Congress finds [. . .] that air pollution prevention [. . .] is the primary responsibility [![](/images/sip/impacts-of-foreign-pollution6.png "Impacts of Foreign Pollution")](/images/sip/impacts-of-foreign-pollution6.png)of States and local governments;” (42 U.S.C. §§ 7401(a)(3)).
+- “The Congress finds [. . .] that air pollution prevention [. . .] is the primary responsibility of States and local governments;” (42 U.S.C. §§ 7401(a)(3)).
 - “Each **State** shall have the **primary responsibility** for assuring air quality within the **entire geographic area** comprising such state by submittingan **implementation plan** for such State which will specify the manner in which national primary and secondary ambient air quality standards will be achieved and maintained . . .” (42 U.S.C. § 7407(a)).
 - It is the States who face potential sanctions if the air above their State does not meet the NAAQS (42 U.S.C. §7509).
 - States do not have the power to enter into emission treaties with foreign nations (see Article I, Section 10 of the Constitution).

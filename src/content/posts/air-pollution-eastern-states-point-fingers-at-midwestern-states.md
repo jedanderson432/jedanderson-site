@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '[](/images/sip/governors-and-clean-air-act.png)Everyone get a chance to read the Northeast’s petition to include the Midwest in the OTC (see link)? A few questions:'
 ---
 
-[![Governors and Clean Air Act](/images/sip/governors-and-clean-air-act.png)](/images/sip/governors-and-clean-air-act.png)Everyone get a chance to read the Northeast’s petition to include the Midwest in the OTC (see [link](http://www.dec.ny.gov/docs/air_pdf/otrpetition1213.pdf))?  A few questions:
+Everyone get a chance to read the Northeast’s petition to include the Midwest in the OTC (see [link](http://www.dec.ny.gov/docs/air_pdf/otrpetition1213.pdf))?  A few questions:
 
 **1.** **Why doesn’t the Ozone Transport Region (OTR) include the whole country—and perhaps Asia?**  Why stop at the midwest other than that the OTR might start to replace some of the functions of the EPA?  Seems like all of us are impacting each other.  I guarantee you that once the NAAQS is lowered that all of the Midwestern States in the newly expanded OTR will start yelling at states to the west of them and pointing fingers at oil production and other developments occurring out there.  States to the east of California are already pointing fingers at California as part of the reason for their problem (see for example [link](http://acmg.seas.harvard.edu/aqast/highlight_pierce_2013.html.)).  Five years from now we shouldn’t be surprised if Iowa files a petition to expand the OTR to include South Dakota.  And then South Dakota files a petition to include Wyoming.  And then etc.
 

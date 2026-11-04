@@ -17,11 +17,9 @@ New Olympic Event?
 
 "FAITHING"
 
-![](/images/posts/new-olympic-event/img-01.png)
 
 ‌
 
-![](/images/posts/new-olympic-event/img-02.png)
 
 I was thinking this morning that if there was a new Olympic event called "faithing" . . . the German pictured here might just be my first choice as a teammate.
 
@@ -33,4 +31,3 @@ How to get good at "faithing"?
 
 ‌
 
-![](/images/posts/new-olympic-event/img-03.gif)

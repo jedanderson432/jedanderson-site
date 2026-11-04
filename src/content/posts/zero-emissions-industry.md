@@ -13,13 +13,9 @@ original_source: "Constant Contact campaign"
 
 Jed Anderson
 
-![](/images/posts/zero-emissions-industry/img-01.gif)
 
-![](/images/posts/zero-emissions-industry/img-02.gif)
 
-![](/images/posts/zero-emissions-industry/img-03.gif)
 
-![](/images/posts/zero-emissions-industry/img-04.gif)
 
 Two projects. More to come.
 
@@ -29,10 +25,7 @@ Click to Review
 
 ‌
 
-![](/images/posts/zero-emissions-industry/img-05.gif)
 
 [Earth Quantum AI Environmental Protection System](http://r20.rs6.net/tn.jsp?f=001hbS5zhNKr_asmwNW8KG6jMdW7CRtwJ4YrHEfDznJdvSdC90KqD_b7pxnCnfxdTDBGIO37nsr3gHcfLyvNbkSThxAs7rX9dOKbnBwsLB96LUfR4P5v1gNNwxOIPkDJ1VZbnbhn2cJh8VPp9JlqdfOzg==&c=&ch=)
 
-![](/images/posts/zero-emissions-industry/img-06.gif)
 
-![](/images/posts/zero-emissions-industry/img-07.gif)

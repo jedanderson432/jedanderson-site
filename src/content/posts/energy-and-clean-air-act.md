@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/energy-and-the-clean-air-act.png)Important to remember that one day all these climate change and air quality regulatory arguments will largely be moot. It won’t be tomorrow . . . but it will be some tomorrow.'
 ---
 
-[![Energy and the Clean Air Act](/images/sip/energy-and-the-clean-air-act.png)](/images/sip/energy-and-the-clean-air-act.png)Important to remember that one day all these climate change and air quality regulatory arguments will largely be moot.  It won’t be tomorrow . . . but it will be some tomorrow.
+Important to remember that one day all these climate change and air quality regulatory arguments will largely be moot.  It won’t be tomorrow . . . but it will be some tomorrow.
 
 Most of the world’s air pollution is related to energy use and production.  Energy just keeps getting cleaner, more efficient, and more abundant.  It  has to (see [“The Terrawatt Challenge”](http://cohesion.rice.edu/NaturalSciences/Smalley/emplibrary/120204%20MRS%20Boston.pdf)).   An inevitability that most of the Clean Air Act therefore eventually won’t be needed.  Isn’t this wonderful!
 

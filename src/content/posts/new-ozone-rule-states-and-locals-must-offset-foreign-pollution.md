@@ -13,7 +13,6 @@ abstract: '**Based on last week’s EPA ozone guidance, States must offset forei
 
 **Based on last week’s EPA ozone guidance, States must offset foreign pollution impacts with additional controls on local sources unless the impact is “significant”:**
 
-[![Foreign Pollution Responsibility and New EPA Ozone Standard](/images/sip/foreign-pollution-responsibility-and-new-epa-ozone-standard.jpg)](/images/sip/foreign-pollution-responsibility-and-new-epa-ozone-standard.jpg)
 
 (*See* <http://www3.epa.gov/ozonepollution/pdfs/20151001toolsfs.pdf>).
 

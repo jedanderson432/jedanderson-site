@@ -11,4 +11,3 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/nrc.png)'
 ---
 
-[![](/images/sip/nrc.png "nrc")](/images/sip/nrc.png)

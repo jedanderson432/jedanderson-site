@@ -15,4 +15,3 @@ What struck me most in the recent NY Times [article](http://www.nytimes.com/2015
 
 > ## **—“Peace needs to break out on environmental protection.”**
 
-[![Peace and the Clean Air Act](/images/sip/peace-and-the-clean-air-act.png)](/images/sip/peace-and-the-clean-air-act.png)

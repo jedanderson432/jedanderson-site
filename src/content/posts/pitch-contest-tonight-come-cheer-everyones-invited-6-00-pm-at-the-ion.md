@@ -27,7 +27,6 @@ Tonight at the Ion, 6:00 PM, 4201 Main Street
 
 [The Houston Startup Showcase](https://r20.rs6.net/tn.jsp?f=001sCUX9Tm1V5iMxaky2FwTtN9YE7eUEsqO3qiMjiVV18RIwe_JHlgjJjX1MCWfYeqbDxYwX45TH3Qj_knmwMzxAl8L7ZACCXiQB48229CJxSFeyEIDeNQckC1wPalkJVGuiRjyCh6ru67JD5efWqdaIUQ1dYoLJWj6v5uZG2mA1hCjdBtHAajBy2fLZ6SCuYiz5_OZihxLeBwpr687WUNnwpY6mb42T0AJnwiDRmr2cGZ2aROhiJb1bY7tWd4TXaRf&c=&ch=)
 
-![](/images/posts/pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion/img-01.png)
 
 And you can check out Houston's new "Innovation District"and the metamorphosis of the Historic Sears Building
 
@@ -35,14 +34,10 @@ And you can check out Houston's new "Innovation District"and the metamorphosis o
 
 - Jed Anderson, CEO, EnviroAI
 
-![](/images/posts/pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion/img-02.jpg)
 
-[![](/images/posts/pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion/img-03.png)](https://r20.rs6.net/tn.jsp?f=001sCUX9Tm1V5iMxaky2FwTtN9YE7eUEsqO3qiMjiVV18RIwe_JHlgjJnPMtkQZin8uiKZJYgftkjVRYPZ4UctESh29Q5dE9_PsWTSDVhM7gcHQWqGn7lD6ZkbG4hfZPymrC9gZsy6gQhk=&c=&ch=)
 
 "Building a Machine to Protect Life on Earth"
 
 ‌
 
-![](/images/posts/pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion/img-04.gif)
 
-![](/images/posts/pitch-contest-tonight-come-cheer-everyones-invited-6-00-pm-at-the-ion/img-05.gif)

@@ -13,15 +13,10 @@ original_source: "Constant Contact campaign"
 
 EnviroAI
 
-![](/images/posts/avoiding-wealth-heres-my-plan/img-01.gif)
 
-![](/images/posts/avoiding-wealth-heres-my-plan/img-02.gif)
 
-![](/images/posts/avoiding-wealth-heres-my-plan/img-03.gif)
 
-![](/images/posts/avoiding-wealth-heres-my-plan/img-04.gif)
 
-![](/images/posts/avoiding-wealth-heres-my-plan/img-05.gif)
 
 ---"I've seen lots of people do financial planning to increase wealth. I might be the first entrepreneur in history to do financial planning to avoid personal wealth."- Jed Anderson, CEO, EnviroAI
 
@@ -35,7 +30,6 @@ Personal Wealth
 
 business to save earth and humanity)
 
-![](/images/posts/avoiding-wealth-heres-my-plan/img-06.gif)
 
 ‌
 
@@ -49,10 +43,8 @@ business to save earth and humanity)
 
 ‌
 
-![](/images/posts/avoiding-wealth-heres-my-plan/img-07.gif)
 
 ---"Building a machine to protect nature and humanity. . . one commercialized application at a time."
 
 [www.enviro.ai](https://r20.rs6.net/tn.jsp?f=001e21CzgrwMwIR63PWmOdjoai-nPis7WRwjjrpxZU9YGlGT1YFyPU2o7aA4rxVmWmYDMV85vkAe9WbB6X18zOGvzYxs_U7t6PWVFszZvCihMnTY3wDvUOWKIYeDY_4WgjduSykcUJ1Tck=&c=&ch=)
 
-![](/images/posts/avoiding-wealth-heres-my-plan/img-08.gif)

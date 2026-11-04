@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '**[](/images/sip/sailboat-and-clean-air-act2.png)“I admire your idealism . . .”**'
 ---
 
-**[![Sailboat and Clean Air Act](/images/sip/sailboat-and-clean-air-act2.png)](/images/sip/sailboat-and-clean-air-act2.png)“I admire your idealism . . .”**
+**“I admire your idealism . . .”**
 
 An audience member during the last SIP reform presentation I made prefaced a comment in this way.
 

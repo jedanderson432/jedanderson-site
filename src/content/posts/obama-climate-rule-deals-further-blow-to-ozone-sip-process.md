@@ -11,7 +11,6 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/obama-and-climate-rule.png)'
 ---
 
-[![Obama and Climate Rule](/images/sip/obama-and-climate-rule.png)](/images/sip/obama-and-climate-rule.png)
 
 According to the President and Administrator McCarthy, one of the primary reasons for the new climate rule is to improve air quality.**So this question will blow you away:**
 

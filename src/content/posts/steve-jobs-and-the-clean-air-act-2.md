@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
 abstract: '[](/images/sip/steve-jobs-and-the-clean-air-act.png)I wonder what Steve Jobs would think about the Clean Air Act?'
 ---
 
-[![Steve Jobs and the Clean Air Act](/images/sip/steve-jobs-and-the-clean-air-act.png)](/images/sip/steve-jobs-and-the-clean-air-act.png)I wonder what Steve Jobs would think about the Clean Air Act?
+I wonder what Steve Jobs would think about the Clean Air Act?
 
 > ***►*“Simplicity is the ultimate sophistication.”*—Steve Jobs***
 >

@@ -13,4 +13,3 @@ abstract: 'Click on picture or see <https://www.youtube.com/watch?v=wYfO-znVbXE&
 
 Click on picture or see <https://www.youtube.com/watch?v=wYfO-znVbXE&feature=youtu.be>
 
-[![Foreign Pollution and the Clean Air Act](/images/sip/foreign-pollution-and-the-clean-air-act.png)](https://www.youtube.com/watch?v=wYfO-znVbXE&feature=youtu.be)

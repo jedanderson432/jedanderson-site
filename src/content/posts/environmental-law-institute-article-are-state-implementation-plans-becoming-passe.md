@@ -13,4 +13,3 @@ abstract: 'To read the article click **here** (courtesy of www.eli.org).'
 
 To read the article click [**here**](/pdfs/sip/Anderson_Forum_Nov_2012.pdf "ELI Forum Article on State Implementation Plan Process") (courtesy of [www.eli.org](http://www.eli.org)).
 
-[![](/images/sip/forum.png "forum")](/images/sip/forum.png)

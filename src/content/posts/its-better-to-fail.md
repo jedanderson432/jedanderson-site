@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'tceq', 'faith']
 abstract: '[](/images/sip/akempis-and-the-clean-air-act.png)I failed again with my request that the State of Texas recognize foreign pollution impacts to our health, economy, and ability to achieve the NAAQS (*see* TCEQ ruling).'
 ---
 
-[![Akempis and the Clean Air Act](/images/sip/akempis-and-the-clean-air-act.png)](/images/sip/akempis-and-the-clean-air-act.png)I failed again with my request that the State of Texas recognize foreign pollution impacts to our health, economy, and ability to achieve the NAAQS (*see* [TCEQ ruling](http://www7.tceq.state.tx.us/uploads/eagendas/Agendas/2014/9-10-2014/1017PET.pdf)).
+I failed again with my request that the State of Texas recognize foreign pollution impacts to our health, economy, and ability to achieve the NAAQS (*see* [TCEQ ruling](http://www7.tceq.state.tx.us/uploads/eagendas/Agendas/2014/9-10-2014/1017PET.pdf)).
 
 I don’t want the truth to fail, whatever that is, but it’s better for us personally to fail.  How can I say this?  Well, I think a’Kempis was on to something:
 

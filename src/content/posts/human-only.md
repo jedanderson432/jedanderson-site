@@ -17,15 +17,12 @@ BUILDING A METAVERSE INCLUSIVE OF ALL LIFE . . .
 
 . . . .not just a domain for serving human interests and desires
 
-![](/images/posts/human-only/img-01.png)
 
 ---"I must work as hard as I can to keep nature and humans together."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/human-only/img-02.jpg)
 
-![](/images/posts/human-only/img-03.gif)
 
 PHYSICALLY.
 
@@ -43,7 +40,6 @@ UNITED.
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/human-only/img-04.gif)
 
 .
 
@@ -51,8 +47,5 @@ UNITED.
 
 [CONNECT](https://r20.rs6.net/tn.jsp?f=001MtjvZs5yOvAkQBYN_elOVE_qmbCfqBHHr0SgdEM13myXvuVQiwuoe8KxYkG4aqwvRV8wrquxvC0Jc-91-eVsk--ysspb-OCaSOhcSoPzRFJblhjpDu7vX2hmFNJCF8ID9CWEetLQx9x36ar1yPfEyuQO2pPOdRX4&c=&ch=)
 
-![](/images/posts/human-only/img-05.gif)
 
-![](/images/posts/human-only/img-06.gif)
 
-![](/images/posts/human-only/img-07.gif)

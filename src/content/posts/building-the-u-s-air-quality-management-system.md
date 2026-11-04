@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/building-the-u-s-air-quality-management-system1.png)This is largely how we are building our air quality management system—one structure next to or on top of another structure on top of another structure on top of anothe…'
 ---
 
-[![Building the U.S. Air Quality Management System](/images/sip/building-the-u-s-air-quality-management-system1.png)](/images/sip/building-the-u-s-air-quality-management-system1.png)This is largely how we are building our air quality management system—one structure next to or on top of another structure on top of another structure on top of another structure.  Questions:
+This is largely how we are building our air quality management system—one structure next to or on top of another structure on top of another structure on top of another structure.  Questions:
 
 - **Do we still need all these separate structures?**
 - **Buildings are being built on top of buildings.  Do we need to look at the foundations to make sure they can support additional loads?**

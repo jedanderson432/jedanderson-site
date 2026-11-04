@@ -13,11 +13,8 @@ original_source: "Constant Contact campaign"
 
 Jed Anderson
 
-![](/images/posts/the-greatest-environmental-entrepreneur-of-all-time-2/img-01.gif)
 
-![](/images/posts/the-greatest-environmental-entrepreneur-of-all-time-2/img-02.png)
 
-![](/images/posts/the-greatest-environmental-entrepreneur-of-all-time-2/img-03.gif)
 
 Projects
 
@@ -25,6 +22,5 @@ Projects
 
 ‌
 
-![](/images/posts/the-greatest-environmental-entrepreneur-of-all-time-2/img-04.gif)
 
 [Earth Quantum AI Environmental Protection System](http://r20.rs6.net/tn.jsp?f=001GpEQKR_0-NJFl7AML2eICVI68wPVimlpcZhSnEj-7QNg-JJzU4wDgZgbedmX43q2b9qY6SAswdOZYQQKHR_dHTpUMVdsHTZnvPayTyJEVwMrcyCQw9gFmGsWaPOHU-VVI68BEL62pA5_-s7yzoCmqA==&c=&ch=)

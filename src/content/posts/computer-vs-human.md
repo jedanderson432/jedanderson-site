@@ -13,7 +13,6 @@ original_source: "Constant Contact campaign"
 
 Who's faster at environmental due dilligence?
 
-![](/images/posts/computer-vs-human/img-01.gif)
 
 Here's screenshots of the latest environmental assessment tools in EnviroAI's automated Phase product:
 
@@ -23,31 +22,19 @@ Aerials . . .
 
 Automated property data . . .
 
-![](/images/posts/computer-vs-human/img-02.gif)
 
-![](/images/posts/computer-vs-human/img-03.gif)
 
-![](/images/posts/computer-vs-human/img-04.gif)
 
-![](/images/posts/computer-vs-human/img-05.gif)
 
-![](/images/posts/computer-vs-human/img-06.gif)
 
-![](/images/posts/computer-vs-human/img-07.gif)
 
-![](/images/posts/computer-vs-human/img-08.gif)
 
-![](/images/posts/computer-vs-human/img-09.gif)
 
 The answer is a human with a computer system that's able to gather vast amounts of complicated environmental data and simplify it in just seconds for final human analysis and decision making.
 
-![](/images/posts/computer-vs-human/img-10.gif)
 
-![](/images/posts/computer-vs-human/img-11.gif)
 
-![](/images/posts/computer-vs-human/img-12.gif)
 
-![](/images/posts/computer-vs-human/img-13.gif)
 
 ---"We're augmenting the mental and physical capabilities of environmental professionals."
 
@@ -57,6 +44,4 @@ The answer is a human with a computer system that's able to gather vast amounts 
 
 This is an advertisement for EnviroAI
 
-![](/images/posts/computer-vs-human/img-14.gif)
 
-![](/images/posts/computer-vs-human/img-15.gif)

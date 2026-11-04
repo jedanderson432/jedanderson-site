@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'policy']
 abstract: '**[](http://jdsupra-videos.s3.amazonaws.com/864f45cc-7f53-4f26-90b8-5f5a67a70aa8.mp4)**'
 ---
 
-**[![Schoenbrod and Clean Air Act](/images/sip/schoenbrod-and-clean-air-act.png)](http://jdsupra-videos.s3.amazonaws.com/864f45cc-7f53-4f26-90b8-5f5a67a70aa8.mp4)**
+****
 
 **Warning:**  You might find yourself standing on your chair and applauding during this video (click on the video or see <http://www.jdsupra.com/legalnews/schoenbrod-scotus-ruling-helps-epa-deal-34268/>)
 

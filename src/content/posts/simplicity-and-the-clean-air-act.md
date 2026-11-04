@@ -12,7 +12,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'faith', 'policy']
 abstract: '[](/images/sip/clean-air-act-and-simplicity.png)The reason things are still complicated is that we do not fully understand them. Once we fully understand them . . . they will become simple.'
 ---
 
-[![Clean Air Act and Simplicity](/images/sip/clean-air-act-and-simplicity.png)](/images/sip/clean-air-act-and-simplicity.png)The reason things are still complicated is that we do not fully understand them.  Once we fully understand them . . . they will become simple.
+The reason things are still complicated is that we do not fully understand them.  Once we fully understand them . . . they will become simple.
 
 It fascinates me how Einstein and other brilliant minds throughout the centuries have been absolutely obsessed with simplicity.  As Einstein said, “When the solution is simple, God is answering.”  Einstein’s breakthrough in the theory of relativity came not from adding additional complexity to the mathematical equation, but from simplification.  When other scientists were racking their brains trying to calculate aether using the Lorentz transformation, Einstein had the gall to ask “why calculate it?”—and dropped aether from the equation.  The theory of special relativity was born.  Shocking.  Absolutely brilliant. 
 

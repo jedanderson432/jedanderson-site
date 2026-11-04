@@ -21,4 +21,3 @@ If there is not a mistake in this reasoning, then why is no one willing to accep
 
 > **“Fiction is obliged to stick to possibilities.  Truth isn’t.”**—-Mark Twain
 
-[![Impacts of Foreign Pollution](/images/sip/impacts-of-foreign-pollution8.png)](/images/sip/impacts-of-foreign-pollution8.png)

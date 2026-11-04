@@ -13,11 +13,9 @@ original_source: "Constant Contact campaign"
 
 Human-only? Anthropocentric? Will there be a stronger connection between the digital world and nature?-----EnviroAI and the "EnviroVerse"
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-01.gif)
 
 What happens to nature when humans move more into digital experiences of life?
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-02.gif)
 
 The Metaverse
 
@@ -29,21 +27,15 @@ Nature
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-03.png)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-04.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-05.gif)
 
 WHAT HAPPENS
 
 ﻿TO NATURE?
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-06.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-07.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-08.gif)
 
 As humans move more into digital experiences of life, how will this impact nature and the relationship between humans and nature?
 
@@ -55,40 +47,25 @@ As humans move more into digital experiences of life, how will this impact natur
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-09.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-10.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-11.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-12.jpg)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-13.gif)
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-14.gif)
 
 Companies now in the metaverse race include: Google, [Apple](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrdzn0s42QsDgSmLe2P3fPWriwi47Rt7y5GZZbgfGMy8nqn2-9ZOPtpP0KQdqNB9tPA5Y9yEVQZCR3MF_Y5EHZryUhM91nTNGrraCAkHMD7F7zKsDpSRUpUygslGu5_GAEsPOAbN7qHqiqwUtMWknDo0sA38Wq8KJ_APs-ga3FFkmNiWk7fxoAmnWA_tBlXjxfOe1e2Y0mKvT2HMsVuMz81NTs0O6MMdbc_keyT_CXPpqLlyBsw3kM1nk=&c=&ch=), [Microsoft](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrdzn0s42QsDgSLSbw_vCLxAMjfx3wajXPncwCk6Pa3qvqvZmk8yGdW7X_JzDoEIa8Z0IQql_KVhx5ctJXM2Y2E3fjptrOYt59Nmpv9wgiduqfNK5yeaGn8Dvy7m2Rb3UArGSDZ_Jq9yH5KxkLRKH9UxOQQnChcdsIDnRLeVk3qqjFpjx0WshXjQotc1vItKDmzNJac2mwzGsq5DwkUb7l1mYx9YkqW0a9kEPC5_HoZvVU4x5AdvAcBLaV-rPLgC6UcT09MG9xLhR4tW0Dssi4-6V-xTiwkjuvi8W0wh5h9xwWTjMM3UZQMSx74wSAiqycXighAtfbzGMi-IQlmLId9tQVKlZGffzAIICD-EzcpvHQRCZySBgmDE9l8JMxvgUwcy2YladjOG-Jfv8kAuV7yKGZYwMyMIz0ciQBFyeTTylIhNDMn8JaNA5Gv9-Hko1e1P8pDsOzViHnS9ICmw1z8UFbg8F-egF1NBoMw-YMoJxKkjwLH6DpKg8=&c=&ch=), Meta (Facebook), [Nvidia](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrd37wcbW54G_kkMCkPYdKBhMSKojDrcAHXLm-Xs0y1mDO0lG1t7HdY8ZN5EWXnN2xuvBMn1HLUaMJtsa0Mh24QXxEM1r3VoJXRvM-TlCOp7FYkzP8vIuqOQl86SN9oXnP7A==&c=&ch=), [Amazon](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrdzn0s42QsDgS0cBqij-2r3b0sinKg73HjmXouTS_G4gb8r4SfR66pl35sa_ZuEFMUkSnr0nA4gg2qkxi_B-GZTtY-cvJXasHWCXi95_X1Q6kZoGX-klgbcgnjj76XH-cajQN1G3cf69yLi5rG7q6norxR7wj6osi9VTNlvI1RX2DRrFv0DDVChIHZ-SS74jG-4I4qO6eva6A8AclL4fSaOMsni_c55yNwA==&c=&ch=), and [Disney.](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrdzn0s42QsDgSlLgWy6K2W1uQeqcEMK5b3joVUo8OxAQsRmLf7WqpPXWU84H2I_ULI4Hv-YGxLm4ty7oN4P9kzR83-R69X4DIItH1LVwwHaFxi5gQL3spi2whQHspGqOAwxQ7wHmfxhbNdRBWsZ5pct7BE518ryCOFD2UfdDKf-ohB7nhJf9uBqw5jbHw7qIX0A==&c=&ch=)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-15.gif)
 
 ---"The computer is creating a digital reality for us . . . so part of what we need to do is create a biological reality for the computer."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-16.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-17.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-18.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-19.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-20.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-21.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-22.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-23.gif)
 
 Environmental
 
@@ -100,9 +77,7 @@ in the Metaverse
 
 Using Probabilistic Systems within Probabilistic Systems to Better Understand Probabilistic Systems (i.e. Nature, Environmental Protection]
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-24.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-25.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -110,23 +85,15 @@ Using Probabilistic Systems within Probabilistic Systems to Better Understand Pr
 
 Both AI and quantum technologies are based in probability--which is how the universe works at a more fundamental level. It is also important to note that quantum-mechanical phenomena, such as entanglement and superposition, [may play an important part](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrdyMU_TVCaQb3_zxmWDvmQ2JizrsiwkExixJgC3pU3pqN1_-FPZIXdu1SomXtoUQ57tg0zb3ZuQpVKMGyZiQesVPxm5IBtrxfhZNwZYFgusjV5_ejFND1JHBNJQmEAr9__s_SFCI3oqu_&c=&ch=) in the human brain's function and could help to explain consciousness according to such luminary physicists as Nobel Laureate [Roger Penrose](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrdyMU_TVCaQb3kNfoFeJOLB8QJaOGLelX7970xm4BDgW6V82hk7Zqk4GSldhvGI4a59kxLEIVLUXCQOTkvcf-3dP_3_mFLQ_beADXrB3Smx-n0bgZm-byvzAoSXBcfDWhdA==&c=&ch=).
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-26.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-27.gif)
 
 ---"If our brains take advantage of quantum mechanics, artificial intelligence can and will need to take advantage of quantum mechanics. It is a physical principle of intelligence and the universe that cannot be disregarded." - Jed Anderson, EnviroAI
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-28.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-29.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-30.gif)
 
-[![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-31.png)](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrdyMU_TVCaQb3MrVOYejqk4pcXlbOlabPtO_ovPXBg8butYsNMLoccVZThjCDEEsw-8QLIDyFMUkV3CABX9C_79p1B34WHTIG9dCmfunGKYs2WQzHHaxsZ4se0nnqKyRZVY7FB_WHZMrngm_CBh1SL5ehG4zV8P-uadLyFfv9Tl9eVhUbXjpxcMPEMzlh6s0N8xurloiwEAm11KtZSbZBHxr_NmloxFVFiw==&c=&ch=)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-32.png)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-33.png)
 
 ---"We are perhaps not far removed from the time when we shall be able to submit the bulk of chemical phenomena to calculation." Joseph Louie Gay-Lussac (1888)
 
@@ -492,13 +459,9 @@ The principles of physics, as far as I can see, do not speak against the possibi
 
 We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-34.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-35.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-36.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-37.jpg)
 
 ---"Everything is patterns.
 
@@ -508,13 +471,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-38.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-39.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-40.gif)
 
 Notes are data. Music is patterns.
 
@@ -526,13 +486,9 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-41.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-42.jpg)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-43.jpg)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-44.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -548,29 +504,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-45.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-46.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-47.png)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-48.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-49.gif)](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrdxJ7lsFIC2oFIauJ_mW-Riu5Eamvi0HqAomeZ64HSrePylHIJExkKadM2tTcZoa-CvLTquue0OCa2biZcpuOUM-X8vj6xBRg_Q4F9O_qHqD_41J3l5uyWYqxUe0Urhz_qA==&c=&ch=)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-50.gif)
 
 SIMPLICITY
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-51.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -579,7 +528,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-52.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -592,7 +540,6 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-53.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -607,7 +554,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-54.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -653,8 +599,5 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-[![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-55.gif)](https://r20.rs6.net/tn.jsp?f=001wYMD8Om9YRgTyAPaBOVv8aicVz1oHjgPubCcRZMvxasHEB9bpxFrd9iId0mXnB83aW5XmO4-3IIQotwKXkuBN8z0xzG0bQmlZZRjxThzlho3-nDySdIbF1zc1Uy23tXD_eXNgeh3x-8=&c=&ch=)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-56.gif)
 
-![](/images/posts/metaverse-will-nature-get-left-behind-and-left-out/img-57.gif)

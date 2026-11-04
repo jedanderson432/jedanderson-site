@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/refurbish-1990-clean-air-act-or-get-a-2013-tesla.png)Everyone review EPA’s proposed 8-hour ozone implementation rule (see link)? Commendable and admirable. I am reminded however of the following C.S. Lewis quote:'
 ---
 
-[![Refurbish 1990 Clean Air Act or Get a 2013 Tesla](/images/sip/refurbish-1990-clean-air-act-or-get-a-2013-tesla.png)](/images/sip/refurbish-1990-clean-air-act-or-get-a-2013-tesla.png)Everyone review EPA’s proposed 8-hour ozone implementation rule (see [link](http://www.epa.gov/glo/pdfs/Ozone%20SIP%20Req_Proposal_FRN_5-28-13%20disclaimer.pdf))?  Commendable and admirable.  I am reminded however of the following C.S. Lewis quote:
+Everyone review EPA’s proposed 8-hour ozone implementation rule (see [link](http://www.epa.gov/glo/pdfs/Ozone%20SIP%20Req_Proposal_FRN_5-28-13%20disclaimer.pdf))?  Commendable and admirable.  I am reminded however of the following C.S. Lewis quote:
 
 > “We all want progress, but if you’re on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive.” – – – -C.S. Lewis
 

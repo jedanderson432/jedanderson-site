@@ -11,19 +11,13 @@ pdf: "/pdfs/protecting-your-children-and-grandchildren.pdf"
 original_source: "Constant Contact campaign"
 ---
 
-![](/images/posts/protecting-your-children-and-grandchildren/img-01.gif)
 
 Protecting your children and grandchildren . . .
 
-![](/images/posts/protecting-your-children-and-grandchildren/img-02.gif)
 
-![](/images/posts/protecting-your-children-and-grandchildren/img-03.gif)
 
-![](/images/posts/protecting-your-children-and-grandchildren/img-04.gif)
 
-![](/images/posts/protecting-your-children-and-grandchildren/img-05.gif)
 
-![](/images/posts/protecting-your-children-and-grandchildren/img-06.gif)
 
 ---"It's the most powerful and most advanced air quality protection system in the world."
 
@@ -33,10 +27,8 @@ No one else in the world has connected [automated drones](http://r20.rs6.net/tn.
 
 ﻿- Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/protecting-your-children-and-grandchildren/img-07.gif)
 
 ﻿SHOP THE APP STORE TODAY!
 
-[![](/images/posts/protecting-your-children-and-grandchildren/img-08.gif)](http://r20.rs6.net/tn.jsp?f=001BsNCpIYHWxa1kX8A4vUZfZ7N9oRK8F6nuZZxpjdb0b7n4jAZpuIxIDfRvxaFSnHNjEvjJPveQohDAPj9WuDUdR0T3S2HWJ-N8m9M7yIoS5EqZzAVxGnQ3_J7zJeR0TOwAW-y_-yTjnQ3TFP9JjWqVA==&c=&ch=)
 
 ‌

@@ -19,13 +19,11 @@ Bloomberg article . . . "[The Green Companies Making Billionaires](http://r20.rs
 
 ﻿
 
-![](/images/posts/bloomberg-the-green-companies-making-billionaires-2/img-01.gif)
 
 . . ."Going green is increasingly a way to make bank."
 
 ---Bloomberg
 
-![](/images/posts/bloomberg-the-green-companies-making-billionaires-2/img-02.gif)
 
 THE ENVIRONMENTAL
 
@@ -33,11 +31,8 @@ BILLIONAIRES
 
 CLUB
 
-![](/images/posts/bloomberg-the-green-companies-making-billionaires-2/img-03.gif)
 
-[![](/images/posts/bloomberg-the-green-companies-making-billionaires-2/img-04.png)](http://r20.rs6.net/tn.jsp?f=001Ri2-0obMa77Cr6S6KXULOpesXxZfNB7GOVwFnfrRk9F-Ybi52Ow1lsI9j5a811byFN9moFhJ12zekCLcLFYiIzK5g8CqanUr0kQShe1W6TPG-5mwMviNZnru-9QEZaBIYG_UIBRZgvrFTXfqhr65qCrM1OTVhkoB8ZO6eIR2eWUHnIRPQ9XIFLQtCNr5GjikBeGoOaDkM9IpA9Vb7bfHjQYsClmw3ufvQY7pd5mEN3siI9-s8YYmuvrNPgKEYf96X8y_TrQCP_w=&c=&ch=)
 
-![](/images/posts/bloomberg-the-green-companies-making-billionaires-2/img-05.png)
 
 ---"I've got no interest in being a billionaire. But I need billions of dollars in working capital to achieve these environmental objectives. I will therefore make billions."
 
@@ -49,4 +44,3 @@ CLUB
 
 ‌
 
-![](/images/posts/bloomberg-the-green-companies-making-billionaires-2/img-06.gif)

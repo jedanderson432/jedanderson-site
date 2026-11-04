@@ -21,7 +21,6 @@ President Biden's ambitious climate agenda in the [news today](http://r20.rs6.ne
 
 - Jed Anderson, Environmental Entrepreneur
 
-![](/images/posts/climate-houston-we-dont-have-a-problem-we-have-a-solution/img-01.png)
 
 Project Highlights
 
@@ -30,21 +29,17 @@ Project Highlights
 - Remove 30-40 wastewater discharge pointsinto the Houston Ship Channel (30 to 40 facilities will no longer need to operate wastewater plants and discharge into the channel)
 - The facility will capture approximately 1-10 million CO2e in the accompanying flare gas and additional vent streams transferred to the facility . . . with an ultimate treatment goal equivalent to removing 200,000 to 2,000,000 cars from the road
 
-[![](/images/posts/climate-houston-we-dont-have-a-problem-we-have-a-solution/img-02.png)](http://r20.rs6.net/tn.jsp?f=001jOa1K671bJ-N2P6EOPELIeXGr1MiP0Q9Y8MffAZLwwJM24MR9NqGDt9f1Q-adF54K_Gx_jh7aXr9LxqmkOZ6be6xZW5JKZIbY9DUGm0vkAWKTV_f1OchHL-v9maPXS3U3RsjtL-fnzSlsmBJB5srQdwO7c6u3XcBSkgaWkaUSHPZ_LSQHLDKrTUdBmUP9VHqOiHbZTPtPLHMaE5LpqeSEci3Nj3ZmHsNeDNH-ox5tLg=&c=&ch=)
 
 - Multiple staged controls allowing for redundancy, greater efficiency, and more effective control percentages (ex. if 5 ground flares for example, only 1 could operate within its prime operating window, or all 5 if need be; or for example if 1 fails, 4 additional controls will be available)
 - Save companies money: capacity would be built into the emissions treatment system to handle most turn-arounds and maintenance events in the region since companies do not typically all have turn-arounds at the same time (allowing companies to startup and shutdown much faster because of the additional capacity in the regional system)
 - Save companies money: some facilities would become minor sources of pollution and all would find it much easier to expand production units
 
-![](/images/posts/climate-houston-we-dont-have-a-problem-we-have-a-solution/img-03.png)
 
-![](/images/posts/climate-houston-we-dont-have-a-problem-we-have-a-solution/img-04.png)
 
 - Save companies money: capacity would be built into the system to handle most upset emissions in the region since companies do not typically have upsets at the same time
 - Increase hurricane and flood protection: the facility would be built significantly above grade with additional redundancies and capacities to improve industry resiliency and response both pre- and post- to storm events
 - Some facility's environmental footprint will be cut-in-half
 - Companies can focus more on their core business and reduce liabilities and safety risks in terms of activities that need to be performed at their site vs. activities that can be performed off-site
 
-![](/images/posts/climate-houston-we-dont-have-a-problem-we-have-a-solution/img-05.gif)
 
 [Project Details](http://r20.rs6.net/tn.jsp?f=001jOa1K671bJ-N2P6EOPELIeXGr1MiP0Q9Y8MffAZLwwJM24MR9NqGDt9f1Q-adF54K_Gx_jh7aXr9LxqmkOZ6be6xZW5JKZIbY9DUGm0vkAWKTV_f1OchHL-v9maPXS3U3RsjtL-fnzSlsmBJB5srQdwO7c6u3XcBSkgaWkaUSHPZ_LSQHLDKrTUdBmUP9VHqOiHbZTPtPLHMaE5LpqeSEci3Nj3ZmHsNeDNH-ox5tLg=&c=&ch=)

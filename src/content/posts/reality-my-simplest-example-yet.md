@@ -19,7 +19,6 @@ Blue Bell Ice Cream. Mozart. Quantum Physics.
 
 —Victor Frederick Weisskopf
 
-![](/images/posts/reality-my-simplest-example-yet/img-01.jpg)
 
 I would add Blue Bell Ice Cream to this list.
 
@@ -29,7 +28,6 @@ Quantum Mechanics.
 
 . . . and Blue Bell Ice Cream.
 
-![](/images/posts/reality-my-simplest-example-yet/img-02.gif)
 
 NASA is launching a new quantum entanglement experiment ([Popular Science Article](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5nYkbNd4l00I3fhea46nLt08xtNdUGQAAjd9bhv5COgPZX4Zqu4TtY0nQ_m1rB2ECkDlJWMuPzC0kQ_nhdqZiHlBgPphLDtuT5wm4Rf5nzvBAZN2szbiiZHyOb4GVtrb-CEskRlnOz0lutupoRf6NnM=&c=&ch=)).
 
@@ -45,21 +43,16 @@ I think that once we see reality as big and weird . . . lots of big and weird th
 
 Perhaps my simplest example yet . . .
 
-![](/images/posts/reality-my-simplest-example-yet/img-03.gif)
 
 As you read these words, you are essentially not seeing the words themselves. Weird huh? YOU ARE SEEING WHERE THE WORDS ARE NOT. Optically, its where the light from your computer screen is being blocked out by the black font from reaching your eyes. Seems the other way around doesn't it?
 
 Reality can be much different than how we perceive it.
 
-![](/images/posts/reality-my-simplest-example-yet/img-04.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-05.gif)
 
 ----“I myself believe that there will one day be time travel because when we find that something isn't forbidden by the over-arching laws of physics we usually eventually find a technological way of doing it.” - David Deutsch, Oxford Professor(1st person to think quantum computing was possible in the 1970's)
 
-![](/images/posts/reality-my-simplest-example-yet/img-06.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-07.gif)
 
 Here's a car game I play with my kids . . .
 
@@ -81,13 +74,10 @@ How fast are we going? I don't expect them to know the answer. I just want them 
 
 I'll then ask them their speed in relationship to what we might find beyond a "universe". It's just important that they use their imagination here and some critical thinking skills. If we do find it . . . could it be "5 billion mph"? . . . Could it be "O mph"? (i.e. nonlocality) Or could it be irrelevant (i.e. speed, which is simply distance divided by time, . . . kinda hard to calculate without distance and time. The answer might be kinda like asking what happens to your lap when you stand up. :)
 
-![](/images/posts/reality-my-simplest-example-yet/img-08.jpg)
 
-![](/images/posts/reality-my-simplest-example-yet/img-09.png)
 
 I don't think what most people choose as reality needs to be as small as it is. The "world's" reality generally seems to be what I'd call . . "what's for lunch?" And if you are not focusing on what's for lunch, the world gets upset. My recommendation is to pay no heed. Eat lunch with the world,. But you don't need to think about food all the time, or necessarily think about food the whole time you're eating it. Regardless of what the world might tell you, we are increasingly learning that LUNCH IS A SMALL PART OF REALITY.
 
-![](/images/posts/reality-my-simplest-example-yet/img-10.gif)
 
 "Your perception of the world is not necessarily the same as what is actually occurring.” – Peter Ralston
 
@@ -131,15 +121,11 @@ I don't think what most people choose as reality needs to be as small as it is. 
 
 "To wear dreams on one's feet is to begin to give a reality to one's dreams." - Roger Vivier
 
-![](/images/posts/reality-my-simplest-example-yet/img-11.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-12.gif)
 
 Reality is really, really, really, really big . . . [[Hugh Jackman pointing out in this video](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5hVF67jX_cdwowWhZeJTCITmpCbUJxeOLanG1cZhgJOF-tvk7kbk_PF0zjT_nO-93vXqQhXDLjKqE4-kK1Xo-4wWbreqK_7Ukw==&c=&ch=) how overwhelmingly big reality can ineffably and conspicuously reveal itself at a given moment in time. Reality can get really, really, really big.]
 
-[![](/images/posts/reality-my-simplest-example-yet/img-13.gif)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5hVF67jX_cdwowWhZeJTCITmpCbUJxeOLanG1cZhgJOF-tvk7kbk_PF0zjT_nO-93vXqQhXDLjKqE4-kK1Xo-4wWbreqK_7Ukw==&c=&ch=)
 
-![](/images/posts/reality-my-simplest-example-yet/img-14.gif)
 
 ﻿Impossibility?
 
@@ -147,12 +133,8 @@ Reality?
 
 ﻿
 
-![](/images/posts/reality-my-simplest-example-yet/img-15.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-16.png)
 
-![](/images/posts/reality-my-simplest-example-yet/img-17.gif)
-![](/images/posts/reality-my-simplest-example-yet/img-18.gif)
 
 2 questions I ask myself . . . when someone or the world tells me something is impossible (like building a quantum AI machine to protect humanity and nature) . . .
 
@@ -162,12 +144,8 @@ Reality?
 
 It almost always falls out under question #1 before I even get to question #2.
 
-![](/images/posts/reality-my-simplest-example-yet/img-19.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-20.jpg)
 
-![](/images/posts/reality-my-simplest-example-yet/img-21.gif)
-![](/images/posts/reality-my-simplest-example-yet/img-22.gif)
 
 “Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.”
 
@@ -175,14 +153,9 @@ It almost always falls out under question #1 before I even get to question #2.
 
 ---“It is simply a statement of fact. The Romans could have had the telephone; the Greeks could have had the cinema; the Babylonians could have had the automobile—had they been mentally ready. The laws of nature were the same in those ages as in ours, the same materials were in the ground—but the minds of the Ancients were not ready for those things, and so they had to go without them.” ― Emmet Fox
 
-![](/images/posts/reality-my-simplest-example-yet/img-23.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-24.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-25.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-26.gif)
-![](/images/posts/reality-my-simplest-example-yet/img-27.gif)
 
 Physically impossible?
 
@@ -190,11 +163,7 @@ Here's the math with my coffee cup thought experiment . . .
 
 Light travels at 186,000 miles/second (approx.1 billion feet/second). If I move my coffee cup one foot away, it's now taken 1 billionth of second longer for the light reflecting off the coffee cup to reach my eyes. Yes, contrary to what my Darwinian-evolved brain is telling me, I'm seeing my coffee as it exists more in the past. I've moved it back in time (in relation to me).
 
-[![](/images/posts/reality-my-simplest-example-yet/img-28.png)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5jBgJ0KL7iZTpxcnzxIdtR5CsAPC8CpPnrob0f1yIPgNB-rWqbqkF93e3xqPo5Af0pw9Hsf6NGLZY535EPALk4G6SLszXhg7xA==&c=&ch=)
 
-![](/images/posts/reality-my-simplest-example-yet/img-29.gif)
-![](/images/posts/reality-my-simplest-example-yet/img-30.gif)
-![](/images/posts/reality-my-simplest-example-yet/img-31.gif)
 
 Looking Up at Stars is the Same Experiment as My Coffee Cup
 
@@ -202,28 +171,18 @@ When we look up at the stars at night, we are looking at these objects as they e
 
 Assuming there is any distance involved, and as strange as this might seem, whether its coffee cups or stars, you are looking into the past. Space = Time. Time = Space.
 
-![](/images/posts/reality-my-simplest-example-yet/img-32.gif)
 
 Increasing Our Scope of Reality and What is Indeed Possible
 
-[![](/images/posts/reality-my-simplest-example-yet/img-33.png)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5jBgJ0KL7iZTS7noD7xzIFeAR7CdrLjzAseDghC8nsa3JfzSqTQyKgJMn_iVuktC2Y5HnemBiPF64_fQnGwvHJTVU_vEDsrrbkWCGwMCBpbN&c=&ch=)
 
-[![](/images/posts/reality-my-simplest-example-yet/img-34.png)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5jBgJ0KL7iZTUmqyplh3Rd80nI2DGZVu3wJHuKcVQdg_Rum_Oht1TsuLcIKCVIXjylUXo1Gg4Ai9YT81QarYIMeBkBpWJkvtE9Lrx6XYFXdkBgKmFwcVK1w=&c=&ch=)
 
-[![](/images/posts/reality-my-simplest-example-yet/img-35.png)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5jBgJ0KL7iZT9lZZNkzbmBgAj37lDjHjBNZGqgOWTM3dzpRTkhIpiwF4QGb37O_AmjZneXo8UZho92hcbQ1eITHX23doWBDMhkqLRk0PM7nTKDNVnCe4Rudc9Prm6drsc6viI3nclrjj&c=&ch=)
 
 ‌
 
-![](/images/posts/reality-my-simplest-example-yet/img-36.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-37.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-38.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-39.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-40.gif)
-![](/images/posts/reality-my-simplest-example-yet/img-41.gif)
 
 10 "Reality Calisthenics"
 
@@ -257,38 +216,28 @@ Simplicity.
 
 ---"We are getting back to where we once belonged . . . the underlying simplicities driving all this rich complexity." - Jed Anderson, EnviroAI
 
-[![](/images/posts/reality-my-simplest-example-yet/img-42.png)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5ptmcZDd15L_FWZCs4GrhNM1hCcrDBz7_2-nbaIAUqn7cePyl5ojHr6xL_o0dQMVxr_5MXOi-QWASWAsVcR-L8AVzj864TG77w==&c=&ch=)
 
 ---"Once we understand the simplicities, our creativity and imagination can go wild . . . and we can begin to "play the universe".  - Jed Anderson, EnviroAI
 
-[![](/images/posts/reality-my-simplest-example-yet/img-43.jpg)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5ptmcZDd15L_3MKOQCTfHkRM1Jdzjlee28MKVHkYuEIGRAqxbDoVJaVDEpU9Ard1_lmaO-aOhjO6jW0HwwFmwM0za7oV0sCGhg==&c=&ch=)
 
-![](/images/posts/reality-my-simplest-example-yet/img-44.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-45.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-46.gif)
-![](/images/posts/reality-my-simplest-example-yet/img-47.gif)
 
 ---"The mind-bending discovery of Isaac Newton wasn't a terrestrial force acting on an apple . . . it was looking at the apple and then looking at the moon and everything in the universe, and with a serendipitous epiphany of inextricable simplicity thinking . . . "It's the same! It's the same force. I can't believe it! It's the same force! It can't be that simple. But it is that simple! It's the same force!"
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/reality-my-simplest-example-yet/img-48.gif)
 
 ‌
 
 [The universe is simple - Richard Feynman](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5vzLh9XFzGtkdKscb3Tl1UZcYk_lVRyZp1pvbOlkhV1HLKqakDE4_X2D9xIL5TVHYLO29BnXYYrTb64urKG5UcLPitHpP5toeb1RjI4BxjLA&c=&ch=)
 
-[![](/images/posts/reality-my-simplest-example-yet/img-49.png)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5vzLh9XFzGtkdKscb3Tl1UZcYk_lVRyZp1pvbOlkhV1HLKqakDE4_X2D9xIL5TVHYLO29BnXYYrTb64urKG5UcLPitHpP5toeb1RjI4BxjLA&c=&ch=)
 
 ---"It [the universe] is not complicated . . . it's just a lot of it."
 
 ---Richard Feynman
 
-![](/images/posts/reality-my-simplest-example-yet/img-50.gif)
 
-[![](/images/posts/reality-my-simplest-example-yet/img-51.gif)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5sG_1pTJ_l7jU1PXB9yDLCedXX7lgRZwOUlqlYlBtcSlvWvuJE33BCxelKLyIOYajMblJe4PcOQM_mAbF9N2DBLzSinwsixOfA==&c=&ch=)
 
 ‌
 
@@ -296,36 +245,25 @@ Simple start. Simple rules.
 
 As you can see in the graphic below, everything in the universe can be traced back to a very simple start. Simple start. Simple rules. The more we understand the underlying simplicity in everything, the more we can create new phenomena with richer and more complicated attributes.
 
-![](/images/posts/reality-my-simplest-example-yet/img-52.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-53.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-54.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-55.png)
 
-![](/images/posts/reality-my-simplest-example-yet/img-56.gif)
-![](/images/posts/reality-my-simplest-example-yet/img-57.gif)
 
 ---"The more we understand the simplicity in everything around us . . . the more we can produce richer and more complex phenomena." - Jed Anderson, EnviroAI
 
-![](/images/posts/reality-my-simplest-example-yet/img-58.gif)
 
 ‌
 
-[![](/images/posts/reality-my-simplest-example-yet/img-59.jpg)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5sG_1pTJ_l7jU1PXB9yDLCedXX7lgRZwOUlqlYlBtcSlvWvuJE33BCxelKLyIOYajMblJe4PcOQM_mAbF9N2DBLzSinwsixOfA==&c=&ch=)
 
 Oscar Peterson's ability to recognize patterns in nature and creatively rearrange them was scary. Scary. Oscar was a genius. Remember when you watch this solo, Oscar is only manipulating 12 notes. That's it. Just 12 notes. It's because Oscar understood the simplicity that he was able to produce such complex phenomena (see below). Genius.
 
 I personally think this is the[greatest solo of all time](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5sG_1pTJ_l7jU1PXB9yDLCedXX7lgRZwOUlqlYlBtcSlvWvuJE33BCxelKLyIOYajMblJe4PcOQM_mAbF9N2DBLzSinwsixOfA==&c=&ch=). The chord and style changes are dizzying. Just try watching Oscar's brain as he is imagining and working through this. It leaves you breathless. And the reaction of the jazz greats he is playing with is priceless. Priceless. They seem to almost not believe what they are hearing.
 
-![](/images/posts/reality-my-simplest-example-yet/img-60.png)
 
 ‌
 
-![](/images/posts/reality-my-simplest-example-yet/img-61.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-62.jpg)
 
 ---"Everything is patterns.
 
@@ -335,13 +273,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/reality-my-simplest-example-yet/img-63.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-64.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/reality-my-simplest-example-yet/img-65.gif)
 
 Notes are data. Music is patterns.
 
@@ -353,13 +288,9 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/reality-my-simplest-example-yet/img-66.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-67.jpg)
 
-![](/images/posts/reality-my-simplest-example-yet/img-68.jpg)
 
-![](/images/posts/reality-my-simplest-example-yet/img-69.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -375,29 +306,22 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/reality-my-simplest-example-yet/img-70.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-71.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/reality-my-simplest-example-yet/img-72.png)
 
-![](/images/posts/reality-my-simplest-example-yet/img-73.gif)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/reality-my-simplest-example-yet/img-74.gif)](https://r20.rs6.net/tn.jsp?f=001o6vdPukA1GwCPz90iN3o3FaHCs46o0_DwRFiWVzGhMPbpVmo3IhK5pich6ec8WjYR_br_WhkyCiSoPeuc-jinzmEw-NGfYbJoLO9hkw_dA0h-y8gBMdPweudUG2PfttsfhjEuo9pOYFsA8UkqAwFjRuRMBbVMuaDcGDG8LuSGlLJ-R1QfRzDWg==&c=&ch=)
 
-![](/images/posts/reality-my-simplest-example-yet/img-75.gif)
 
 SIMPLICITY
 
-![](/images/posts/reality-my-simplest-example-yet/img-76.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -406,7 +330,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/reality-my-simplest-example-yet/img-77.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -419,9 +342,7 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/reality-my-simplest-example-yet/img-78.png)
 
-![](/images/posts/reality-my-simplest-example-yet/img-79.png)
 
 Environmental
 
@@ -431,11 +352,9 @@ in the Metaverse
 
 ﻿Using Probabilistic Systems within Probabilistic Systems to Better Understand and Simplify Probabilistic Systems
 
-![](/images/posts/reality-my-simplest-example-yet/img-80.png)
 
 ‌
 
-![](/images/posts/reality-my-simplest-example-yet/img-81.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -807,6 +726,4 @@ We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
 ﻿
 
-![](/images/posts/reality-my-simplest-example-yet/img-82.gif)
 
-![](/images/posts/reality-my-simplest-example-yet/img-83.gif)

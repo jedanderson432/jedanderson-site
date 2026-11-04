@@ -13,17 +13,14 @@ original_source: "Constant Contact campaign"
 
 "The Environmental Metaverse"
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-01.gif)
 
 Lately I've been studying more on Information Theory and related topics such as entropy and the holographic principle. It's exciting me even more about the "Environmental Metaverse" we are constructing--confirming we are on the right track, and filling my head with all kinds of new possibilities I hadn't thought about before.
 
 The Most Important Unknown Person of the 20th Century?
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-02.png)
 
 Yes . . I think its Claude Shannon. Claude Shannon wrote arguably the most important scientific paper of the 20th century other than the Theory of Special Relativity. His paper, entitled "A Mathematical Theory of Communication", began the digital age. [Read More](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2ID269r1SmGu3vpv-a4NT_f63_KPtAPgYfwoqAYxsI2-xWXPNid3Mi5ajn3TO428og1x0I6WZON12xkPpbQNh8byZvibrTCeOgRJ0ayfwM_eq8in6FluB6jueuwO3u3cGFelWbSu6T1QAzgRV0JvysiZ9vl3JhEyRvMTAC6PYn6h-Gmo5kIaBAR_8-9EM-c2URA==&c=&ch=).
 
-[![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-03.png)](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2IHciybo4MFA7ysEH4MPj5z2Q5bssHY3RpdnCGVVHZrPccr59DWXKEzGcxIy4QJutkMoWqa35HOJahLNnXfbrV7rxljELkfOzOEHnZpLVQ7IB&c=&ch=)
 
 . . . Information Theory
 
@@ -37,19 +34,14 @@ And it might be one of the fastest and most approachable ways to catch a glimpse
 
 BTW - I think the primary adjustment to Claude Shannon's mathematical theory of communication moving forward now is moving from storing and processing information with definitive numbers or digits to storing and processing information with probabilities. It's how nature works at a more fundamental level. Bit to the qubit. Qubits to bits to its. Simpler.
 
-[![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-04.png)](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2IOXLFyf4aoGjQPeOs-AMV1rW83xrqTqGCxoKnEg4BrG5_H0j1j0RhathKAHonwJB6wUHMWOvV_oJ2NR8od3qh3K1dpHxk_sQu0Ok7WQknfjNsM6CqVhLsN8uQkOQNJfo_XyIATBJ9ZIa-k5cm9jwdib2itqntnb6rasZQsBjLjWud3ZQw-0kETiFrLBARuvksj-1RdQBcdfe3oazK4k0tFVYjhR9Rl7tsA==&c=&ch=)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-05.jpg)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-06.gif)
 
 ---"Qubits to bits to 'its'."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-07.gif)
 
-[![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-08.gif)](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2IHciybo4MFA7ysEH4MPj5z2Q5bssHY3RpdnCGVVHZrPccr59DWXKEzGcxIy4QJutkMoWqa35HOJahLNnXfbrV7rxljELkfOzOEHnZpLVQ7IB&c=&ch=)
 
 ---"The EnviroVerse will eventually be quantum-based rather than just digitally rendered after decoherence. Nature isn't classical. A quantum-based metaverse will give humanity much more power to understand, interact with, and protect nature."
 
@@ -57,11 +49,8 @@ BTW - I think the primary adjustment to Claude Shannon's mathematical theory of 
 
 ﻿
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-09.png)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-10.jpg)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-11.png)
 
 ﻿Nature
 
@@ -79,15 +68,12 @@ together.
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-12.png)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-13.png)
 
 Nature
 
 Computer
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-14.jpg)
 
 “To me quantum computation is a new and deeper and better way to understand the laws of physics, and hence understanding physical reality as a whole.”—David Deutsch, Oxford
 
@@ -97,29 +83,19 @@ Computer
 
 ﻿
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-15.png)
 
 "We couldn't build quantum computers unless the universe were quantum and computing. We can build such machines because the universe is storing and processing information in the quantum realm. When we build quantum computers, we're hijacking that underlying computation in order to make it do things we want: little and/or/not calculations. We're hacking into the universe.” – Seth Lloyd, MIT
 
-[![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-16.png)](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2IFNIArMD4qK6EPnjVMVBlZEKSjbl4Ft1pDz2UEPWW31iZIwJWj5nhPjMEK8eHcOtJNhW5mgiEJ5mscpYXyAzRPE3okpVC14_u4aMIfmRV7ddVPCw4FWra6cSFkHBSt3VdWBwdTHAwxPXgC30PcD-ObE=&c=&ch=)
 
 “The universe computes. The computing universe is not a metaphor, but a mathematical fact: the universe is a physical system that can be programmed at its most microscopic level to perform universal digital computation. Moreover, the universe is not just a computer: it is a quantum computer. Quantum mechanics is constantly injecting fresh, random bits into the universe. Because of its computational nature, the universe processes and interprets those bits, naturally giving rise to all sorts of complex order and structure.”—Paul Davies
 
-[![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-17.png)](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2IFNIArMD4qK6EPnjVMVBlZEKSjbl4Ft1pDz2UEPWW31iZIwJWj5nhPjMEK8eHcOtJNhW5mgiEJ5mscpYXyAzRPE3okpVC14_u4aMIfmRV7ddVPCw4FWra6cSFkHBSt3VdWBwdTHAwxPXgC30PcD-ObE=&c=&ch=)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-18.png)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-19.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-20.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-21.png)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-22.gif)
 
-[![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-23.png)](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2IFfJsCSAKrenmcv3InsjO2M-qIfpMVlRAwgfDXhxlYoMLFMgXLHf5bl6RPwLJJ7uZpCHMNlC5nNgtic-2YFcH-Vor3ZwJTOFHg==&c=&ch=)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-24.gif)
 
 Environmental
 
@@ -129,9 +105,7 @@ Quantum AI
 
 Using Probabilistic Systems within Probabilistic Systems to Better Understand Probabilistic Systems (i.e. Nature, Environmental Protection]
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-25.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-26.gif)
 
 ---"Identifying patterns in nature is powerful, but what will really be powerful is identifying the probability of patterns in nature prior to decoherence."
 
@@ -139,15 +113,10 @@ Using Probabilistic Systems within Probabilistic Systems to Better Understand Pr
 
 Both AI and quantum technologies are based in probability--which is how the universe works at a more fundamental level.
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-27.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-28.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-29.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-30.png)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-31.png)
 
 "Everything we call real is made of things that cannot be regarded as real.” --Niels Bohr
 
@@ -509,13 +478,9 @@ The principles of physics, as far as I can see, do not speak against the possibi
 
 We throw the dice. It is up to the Lord to fix how they fall. Proverbs 16:33
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-32.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-33.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-34.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-35.jpg)
 
 ---"Everything is patterns.
 
@@ -525,13 +490,10 @@ It really can be stated that simply."
 
 - Jed Anderson, EnviroAI
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-36.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-37.gif)
 
 Connect the data. See the patterns. Protect the patterns.
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-38.gif)
 
 Notes are data. Music is patterns.
 
@@ -543,13 +505,9 @@ Notes are data. Music is patterns.
 
 - "If we had a microscope powerful enough, we could see that electrons, quarks, neutrinos, etc. are nothing but vibrations on minuscule loops resembling rubber bands. If we pluck the rubber band enough times,and in different ways, we eventually create all the known subatomic particles in the universe. This means that all the laws of physics can be reduced to the harmonies of these strings. Chemistry is the melodies one can play on them. The universe is a symphony. And the mind of God, which Einstein eloquently wrote about, is cosmic music resonating throughout space-time." - Micho Kaku
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-39.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-40.jpg)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-41.jpg)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-42.gif)
 
 Using AI and Advancements in Computation to Identify, Simulate, and Protect Patterns in Nature
 
@@ -565,27 +523,21 @@ Let me quickly explain the exponents involved in computing. Let's take for examp
 
 - Jed Anderson, Creator, EnviroAI
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-43.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-44.gif)
 
 Nature = Simple Equations
 
 Mathematical equations that explain nature we are finding are very simple:
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-45.png)
 
 Nature = Simple Computations
 
 Computational programs that explain nature we are finding are very simple:
 
-[![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-46.gif)](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2IMNlFT7RrPO04kL51BDcXMgFQ_xgRK1OdQl3NZnH59gbes7wpDpZQJJ8IWTpA8ix5y86POPVjCQAVpprTWQYDzJbxVImhX_EGL8lcAeTk_0ciotRZMLJLQB6bb1e3g3vHg==&c=&ch=)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-47.gif)
 
 SIMPLICITY
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-48.gif)
 
 - "Nature operates in the shortest way possible."---Aristotle
 - “Phenomena complex—laws simple.”—Richard P. Feynman
@@ -594,7 +546,6 @@ SIMPLICITY
 - “The main purpose of science is simplicity and as we understand more things, everything is becoming simpler.” – Edward Teller
 - “Nature does not multiply things unnecessarily; that she makes use of the easiest and simplest means for producing her effects”—Galileo
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-49.png)
 
 - "To be simple is to be great."—Emerson
 - “Rudiments or principles must not be unnecessarily multiplied—Immanuel Kant
@@ -607,7 +558,6 @@ SIMPLICITY
 - “Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.”---Richard Branson.
 - “The definition of genius is taking the complex and making it simple.”—Albert Einstein
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-50.png)
 
 - "Beauty of style and harmony and grace and good rhythm depend on simplicity”—Plato
 - “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
@@ -622,7 +572,6 @@ SIMPLICITY
 - “The most complicated skill is to be simple.” – Dejan Stojanovic
 - “Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.” – Alan Perlis
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-51.png)
 
 - “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.” – Isaac Newton
 - “It is always the simple that produces the marvelous.” – Amelia Barr
@@ -668,8 +617,5 @@ SIMPLICITY
 - "A year spent in artificial intelligence is enough to make one believe in God."--Alan Perlis
 - “The whole world is certainly heading for a great simplicity, not deliberately, but rather inevitably. The simplicity towards which the world is driving is the necessary outcome of all our systems and speculations and of our deep and continuous contemplation of things. For the universe is like everything in it; we have to look at it repeatedly and habitually before we see it. It is only when we have seen it for the hundredth time that we see it for the first time. The more consistently things are contemplated, the more they tend to unify themselves and therefore to simplify themselves. The simplification of anything is always sensational. [. . .] Few people will dispute that all the typical movements of our time are upon this road towards simplification. Each system seeks to be more fundamental than the other; each seeks, in the literal sense, to undermine the other. In art, for example, the old conception of man, classic as the Apollo Belvedere, has first been attacked by the realist, who asserts that man, as a fact of natural history, is a creature with colourless hair and a freckled face. Then comes the Impressionist, going yet deeper, who asserts that to his physical eye, which alone is certain, man is a creature with purple hair and a grey face. Then comes the Symbolist, and says that to his soul, which alone is certain, man is a creature with green hair and a blue face. And all the great writers of our time represent in one form or another this attempt to reestablish communication with the elemental, or, as it is sometimes more roughly and fallaciously expressed, to return to nature. [. . .] But the giants of our time are undoubtedly alike in that they approach by very different roads this conception of the return to simplicity. Ibsen returns to nature by the angular exterior of fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to nature by seeing how much he can accept, Tolstoy by seeing how much he can reject.”― G.K. Chesterton
 
-[![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-52.gif)](https://r20.rs6.net/tn.jsp?f=001LI3nK9mPH_GUW_r5Nmht_Jouuswhj1PSeMAJq7sFgZh3taoKTda2IN5--mx7VQfdgPE4EEPxPNU0A1ee7I5gZ_CFnvOctInPkd7XqcY9uX-EgOJ_o_qqVcPKGrgjX0p0gpOZOhg4vno=&c=&ch=)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-53.gif)
 
-![](/images/posts/entropy-information-theory-and-the-holographic-principle/img-54.gif)

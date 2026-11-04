@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform', 'simplicity']
 abstract: '[](/images/sip/twain-and-clean-air-act.png)Probably the easiest and most overlooked way to improve air quality in the U.S. is to simplify the Clean Air Act.'
 ---
 
-[![Twain and Clean Air Act](/images/sip/twain-and-clean-air-act.png)](/images/sip/twain-and-clean-air-act.png)Probably the easiest and most overlooked way to improve air quality in the U.S. is to simplify the Clean Air Act.
+Probably the easiest and most overlooked way to improve air quality in the U.S. is to simplify the Clean Air Act.
 
 With simplicity comes  transparency.  With transparency comes accountability.  The more simple things are, the more everyone understands them.  The more everyone understands them, the better they can comply with them.  It’s that simple.
 

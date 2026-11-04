@@ -13,10 +13,6 @@ abstract: 'Ozone has now become a global problem. Clean Air Act must be expanded
 
 Ozone has now become a global problem. Clean Air Act must be expanded to include a global solution.
 
-[![Holmstead and Global Problem](/images/sip/holmstead-and-global-problem.png)](/images/sip/holmstead-and-global-problem.png)
 
-[![Jacob](/images/sip/jacob.png)](/images/sip/jacob.png)
 
-[![Sadredrin and Global Problem](/images/sip/sadredrin-and-global-problem.png)](/images/sip/sadredrin-and-global-problem.png)
 
-[![Jaffe](/images/sip/jaffe.png)](/images/sip/jaffe.png)

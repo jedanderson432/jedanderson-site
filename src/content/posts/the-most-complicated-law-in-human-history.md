@@ -14,9 +14,7 @@ abstract: 'The U.S. Clean Air Act has been found to be the most complicated law 
 
 The U.S. Clean Air Act has been found to be the most complicated law in human history.
 
-![slide6](/images/sip/slide6.png)
 
-![Slide4](/images/sip/slide4.png)
 
 # **Comments on the Complexity of the**
 

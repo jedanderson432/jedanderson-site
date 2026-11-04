@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '# Favoring Foreign Pollution'
 ---
 
-# [Favoring Foreign Pollution](/images/sip/favoring-foreign-pollution.png)
+# Favoring Foreign Pollution
 
 # Question:
 

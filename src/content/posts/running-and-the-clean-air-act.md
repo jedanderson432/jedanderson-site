@@ -11,7 +11,7 @@ tags: ['clean-air-act', 'regulatory-reform']
 abstract: '[](/images/sip/running-and-the-clean-air-act.png)How can we keep running toward the goal of a more simplified Clean Air Act? Don’t make the end our joy.'
 ---
 
-[![Running and the Clean Air Act](/images/sip/running-and-the-clean-air-act.png)](/images/sip/running-and-the-clean-air-act.png)How can we keep running toward the goal of a more simplified Clean Air Act?  Don’t make the end our joy.
+How can we keep running toward the goal of a more simplified Clean Air Act?  Don’t make the end our joy.
 
 Anyone else like running?  Doesn’t matter if there is a finish line does it?  It’s the freedom and joy of the body in motion.  It’s the straining of the muscles and feel of the path underfoot that fills us with life.  In our heart of hearts we would prefer if there were no finish lines.  Finish lines say stop.   We just want to run.
 
