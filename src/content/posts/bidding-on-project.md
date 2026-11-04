@@ -5,7 +5,7 @@ date: 2020-12-16
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Approximately $2.5 billion [](http://r20.rs6.net/tn.jsp?f=001IPG6RrIo0inkrI59IeylXVINrgSMGcW_HS6xwXw1CBeGmkIKk88Axea92JAlK1gTPXa7rAFOLlbS9d2tKqrph-qtTX31ll-ceGagtE1DnhcA17vdjPrMg_y-N9d3LjM9hs6JPbSWUip…"
+abstract: "Approximately $2.5 billion"
 license: CC-BY-4.0
 pdf: "/pdfs/bidding-on-project.pdf"
 original_source: "Constant Contact campaign"

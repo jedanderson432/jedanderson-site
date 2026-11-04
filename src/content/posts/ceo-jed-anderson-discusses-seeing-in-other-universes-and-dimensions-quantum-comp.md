@@ -5,7 +5,7 @@ date: 2021-11-01
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "32 second video---moving beyond 3D to better protect nature VIDEO [](https://r20.rs6.net/tn.jsp?f=001gvf3p3m3-kSCAKvYE2eFCxij0PBAnU8czspmct2Ws3Ot1Cv5n_Q5lu36bxLfE9oPj5WN_GHPKHDdAL1FeGcJhguNI83nGar8P2p…"
+abstract: "32 second video---moving beyond 3D to better protect nature VIDEO"
 license: CC-BY-4.0
 pdf: "/pdfs/ceo-jed-anderson-discusses-seeing-in-other-universes-and-dimensions-quantum-comp.pdf"
 original_source: "Constant Contact campaign"

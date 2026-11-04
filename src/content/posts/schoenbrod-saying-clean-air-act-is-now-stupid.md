@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](https://www.youtube.com/watch?v=iUm16NfK7R8 "Clean Air Act")Wasn’t it a huge relief to hear someone of Schoenbrod’s renown sum up what the Clean Air Act has become in such a succinct and honest word? What beautiful grammatical profundity.'
+abstract: 'Wasn’t it a huge relief to hear someone of Schoenbrod’s renown sum up what the Clean Air Act has become in such a succinct and honest word? What beautiful grammatical profundity.'
 ---
 
 Wasn’t it a huge relief to hear someone of Schoenbrod’s renown sum up what the Clean Air Act has become in such a succinct and honest word?  What beautiful grammatical profundity.

@@ -5,7 +5,7 @@ date: 2020-08-20
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Against New Technology ---“AI will augment the environmental profession.\" - Jed Anderson, Creator, EnviroAI [](http://r20.rs6.net/tn.jsp?f=001I4KTkX3KHWtAhp4BpRtk01Cjv0kIFw0bR3oJG1zbqsAKNWPj8jr6be1ZLk…"
+abstract: "Against New Technology ---“AI will augment the environmental profession.\" - Jed Anderson, Creator, EnviroAI"
 license: CC-BY-4.0
 pdf: "/pdfs/protesting.pdf"
 original_source: "Constant Contact campaign"

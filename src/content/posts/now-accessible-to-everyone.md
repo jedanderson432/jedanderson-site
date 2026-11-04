@@ -5,7 +5,7 @@ date: 2020-08-14
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "$17.95 a month [](http://r20.rs6.net/tn.jsp?f=001r__-Z8kdOB-Byqdc0LXphvrkOItnPHh1Dx8p5lUQZN_nT9us4UNFDRAt5P5hJBUO645U7sNSRxnGRZyKtOf4fSCSwh4P8957mbYAIyuZ6G19MWGKgBGP0cFxsAl7G31_fWqNfPNbi_TW5rV5FvqkAla…"
+abstract: "$17.95 a month"
 license: CC-BY-4.0
 pdf: "/pdfs/now-accessible-to-everyone.pdf"
 original_source: "Constant Contact campaign"

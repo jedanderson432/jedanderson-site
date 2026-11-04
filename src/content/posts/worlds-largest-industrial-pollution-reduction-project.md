@@ -5,7 +5,7 @@ date: 2021-03-01
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Houston, Texas World's Largest Industrial Pollution Reduction Project [](http://r20.rs6.net/tn.jsp?f=001NJOb4wgJOQskRX0W03lxp9NaZpGxrRp6fiD6WMzFtJodKgApqZ_kN4WJOF4pRryHTL2kc_XJAZaSQmoPqK1S7wUPlnoo3khR…"
+abstract: "Houston, Texas World's Largest Industrial Pollution Reduction Project"
 license: CC-BY-4.0
 pdf: "/pdfs/worlds-largest-industrial-pollution-reduction-project.pdf"
 original_source: "Constant Contact campaign"

@@ -17,4 +17,4 @@ Most music as we know it only uses 12 notes.  From Rachmaninoff to Bob Marley, f
 
 Despite the almost astronomical complexity, creativity, memories, feelings, thoughts, and ideas for which music has been responsible for generating—only 12 notes have ever been used.
 
-Time to simplify the Clean Air Act (see link and [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).  Imagine the music we could play.  We can make it happen.
+Time to simplify the Clean Air Act (see [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).  Imagine the music we could play.  We can make it happen.

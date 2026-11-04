@@ -22,4 +22,4 @@ Everyone get a chance to read the Northeast’s petition to include the Midwest 
 
 >  “**For North America** ground-level O3 concentrations, [. . .] **changes in emissions of O3 [ozone] precursors outside the region** **may be as important as changes within the region**.” –2010 United Nation’s Hemispheric Transport of Air Pollution Report (see <http://www.htap.org/activities/2010_Final_Report.htm>)
 
-Time to stop with this system that necessitates all this finger-pointing.  We don’t need to do this anymore (see link and [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).  Time to transform the SIP process.  We can make it happen.
+Time to stop with this system that necessitates all this finger-pointing.  We don’t need to do this anymore (see [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).  Time to transform the SIP process.  We can make it happen.

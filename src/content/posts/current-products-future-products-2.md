@@ -5,7 +5,7 @@ date: 2021-10-14
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "CURRENT PRODUCTS (click) [](https://r20.rs6.net/tn.jsp?f=001dMqsIkXVvhj6tZKwZAE2acXGMRU3LT1o0ZypjXhI4LNkd2ZaGStnd4Ourrxb7SDY_ombhyG9j9VZJvflT-859gX4-4dl9Ppb-6ocZVk3oi906_3GQWrpAdHXcDjMe9fAIjleriGjLFg=…"
+abstract: "CURRENT PRODUCTS (click)"
 license: CC-BY-4.0
 pdf: "/pdfs/current-products-future-products-2.pdf"
 original_source: "Constant Contact campaign"

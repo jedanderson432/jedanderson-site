@@ -5,7 +5,7 @@ date: 2021-03-10
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "What's your input on this documentary and what should be told? Input? What's your input on this documentary film script and the relationship between technology and earth? [](http://r20.rs6.net/tn.jsp?"
+abstract: "What's your input on this documentary and what should be told? Input? What's your input on this documentary film script and the relationship between technology and earth?"
 license: CC-BY-4.0
 pdf: "/pdfs/input.pdf"
 original_source: "Constant Contact campaign"

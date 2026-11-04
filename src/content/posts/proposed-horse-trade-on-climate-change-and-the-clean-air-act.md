@@ -24,7 +24,7 @@ Update the Clean Air Act.  Needs to be updated anyway.  Been 23 years.  Already 
 >
 > ►   **Republicans:**  You get a more coordinated, more predictable, and less expensive regulatory system for all pollutants that essentially removes the permitting process and allows businesses to react quicker to market opportunities.
 
-Here is what this might look like (see link and [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).
+Here is what this might look like (see [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).
 
 Sure seems better to horse trade than keep shovelling what comes out the back end.
 

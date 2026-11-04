@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](https://www.youtube.com/watch?v=iUm16NfK7R8)'
+abstract: 'Great Quotes About the Current State of the Clean Air Act'
 ---
 
 

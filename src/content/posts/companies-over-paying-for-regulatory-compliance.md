@@ -5,7 +5,7 @@ date: 2020-09-03
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Artificial intelligence showing discrepancy in dollars spent on environmental regulatory compliance [](http://r20.rs6.net/tn.jsp?f=0012dY3zfxz8914-Ogivg53zxSDgTTg4Qc8XUIMSOhRBeHj6o-Br2dXxmSMZesYcaPTWD…"
+abstract: "Artificial intelligence showing discrepancy in dollars spent on environmental regulatory compliance"
 license: CC-BY-4.0
 pdf: "/pdfs/companies-over-paying-for-regulatory-compliance.pdf"
 original_source: "Constant Contact campaign"

@@ -17,4 +17,4 @@ With simplicity comes  transparency.  With transparency comes accountability.  T
 
 > “The more you explain it, the more I don’t understand it.”—-**Mark Twain** 
 
-Time to simplify the Clean Air Act **(see link and [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).**We can make it happen.
+Time to simplify the Clean Air Act **(see [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)).**We can make it happen.

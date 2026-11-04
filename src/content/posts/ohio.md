@@ -5,7 +5,7 @@ date: 2021-10-11
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "[](https://r20.rs6.net/tn.jsp?f=001S9xk9C3eXnXr0QqrW7WTIwWP142AJf-aLvTi54BcJvy9cYoIx6IjR0aDSpfMKxqaX7iT0CHzS-hTnuv1QyDBWRQpHAg4EkPNUXEcfobekiiCdbVlM0omhT6x_5VIbG0YdBycc95Awyw=&c=&ch=) WE'RE ADDING EVE…"
+abstract: "WE'RE ADDING EVE…"
 license: CC-BY-4.0
 pdf: "/pdfs/ohio.pdf"
 original_source: "Constant Contact campaign"

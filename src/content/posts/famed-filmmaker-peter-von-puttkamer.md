@@ -5,7 +5,7 @@ date: 2021-03-06
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "to make documentary film about my story and quest called \"Earth First\" [](http://r20.rs6.net/tn.jsp?f=0012rWxCDzDhRht1wX-U1YCss4_difypL8fsuR832EI3ffJKNoQr2rD_JhvDGomMJ1zAmgbNCfIim3OMvELiLUYdKDpAiCohxc…"
+abstract: "to make documentary film about my story and quest called \"Earth First\""
 license: CC-BY-4.0
 pdf: "/pdfs/famed-filmmaker-peter-von-puttkamer.pdf"
 original_source: "Constant Contact campaign"

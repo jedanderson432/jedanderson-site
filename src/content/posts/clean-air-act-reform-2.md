@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: 'Here is an update on efforts to reform the Clean Air Act (see March 2013 AWMA presentation entitled “The Growing Discussion: Update on Efforts to Reform the Clean Air Act” at link).'
+abstract: 'Here is an update on efforts to reform the Clean Air Act (see March 2013 AWMA presentation entitled “The Growing Discussion: Update on Efforts to Reform the Clean Air Act”).'
 ---
 
-Here is an update on efforts to reform the Clean Air Act (see March 2013 AWMA presentation entitled “The Growing Discussion:  Update on Efforts to Reform the Clean Air Act” at link).
+Here is an update on efforts to reform the Clean Air Act (see March 2013 AWMA presentation entitled “The Growing Discussion:  Update on Efforts to Reform the Clean Air Act”).

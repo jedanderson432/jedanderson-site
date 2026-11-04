@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '**“Click”** on picture for powerpoint overview. To view a summary and the actual text of the Act, “click” on the following link: **“Clean Air and Climate Change Act of 2015”.**'
+abstract: 'To view a summary and the actual text of the Act, “click” on the following link: **“Clean Air and Climate Change Act of 2015”.**'
 ---
 
-**“Click”** on picture for powerpoint overview.  To view a summary and the actual text of the Act, “click” on the following link: **“[Clean Air and Climate Change Act of 2015](https://docs.google.com/a/allawgp.com/file/d/0BzRr3a6vzzLHLU8wWG5PdURfbEk/edit?pli=1)”.**
+To view a summary and the actual text of the Act, “click” on the following link: **“[Clean Air and Climate Change Act of 2015](https://docs.google.com/a/allawgp.com/file/d/0BzRr3a6vzzLHLU8wWG5PdURfbEk/edit?pli=1)”.**

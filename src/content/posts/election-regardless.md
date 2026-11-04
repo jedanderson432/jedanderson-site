@@ -5,7 +5,7 @@ date: 2020-10-31
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "[](http://r20.rs6.net/tn.jsp?f=001aA-ynzhGLjKdApyn2SiLKKyz15j82qIop3tr3PQDPlrxxMDrJeF4oksqNw7_eHaH8QSvkQEtStPQ6-7cdqAmbLNaBfE_G3UP4CAbTNnFMh1KFaBFnRuZOEQJImAily30b6EaNOtDXZd705hS2GT3dsxH2uz1RL44ByXS7b…"
+abstract: "Election . . . regardless"
 license: CC-BY-4.0
 pdf: "/pdfs/election-regardless.pdf"
 original_source: "Constant Contact campaign"

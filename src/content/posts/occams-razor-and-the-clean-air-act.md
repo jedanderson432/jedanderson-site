@@ -34,6 +34,6 @@ I wonder what would happen if we applied Occam’s Razor to the Clean Air Act?
 
 ►  **In religion**:  Occam’s Razor was  used by Thomas Aquinas to help explain the existence of God.  Aquinas was noted for saying, “If a thing can be done adequately by means of one, it is superfluous to do it by means of several; for we observe that nature does not employ two instruments [if] one suffices.”
 
-**How about applying Occam’s Razor to the Clean Air Act and see what we can discover???** **Here are some thoughts on what this might look like**  (see link and [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)). **.  What do you think it would look like?**
+**How about applying Occam’s Razor to the Clean Air Act and see what we can discover???** **Here are some thoughts on what this might look like**  (see [link](https://docs.google.com/a/jedlaw.net/file/d/0B8c4LpGCMICsZWZlZFljRnpyNFE/edit) and [link](http://www.breakingthelogjam.org/CMS/files/ClimateReportv1r4.pdf)). **.  What do you think it would look like?**
 
 The world is changing.  We must change with it.  Time to transform the SIP process.  We can make it happen.

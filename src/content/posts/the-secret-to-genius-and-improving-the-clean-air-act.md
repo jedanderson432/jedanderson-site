@@ -15,4 +15,4 @@ The secret to genius is not intelligence.  It’s simplicity.  And we are all ca
 
 >  “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius—and **a lot of courage**—to move in the opposite direction.”—E.F. Schumacher (1911 – 1977)
 
-Time to simplify the Clean Air Act.  New measurement tools are available that can help us do this (see link).  We can make it happen.
+Time to simplify the Clean Air Act.  New measurement tools are available that can help us do this.  We can make it happen.

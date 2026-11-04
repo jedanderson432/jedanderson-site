@@ -5,7 +5,7 @@ date: 2020-11-02
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Houston [](http://r20.rs6.net/tn.jsp?f=001mDIjQedALjkN2ZOxdtAG2EAJCxA32yfk4NTrDpFziu1wUqp0g6eIMbFIqNqoOEwggUSTGEXHev1SkviKEUVEES9apbJjNPY5TNm2eWYUVwWlo-hbZxcvxc4oWYhedkVkwUlzvnmmhBnkhvoHFsqT5lIzXl0h8_…"
+abstract: "Houston"
 license: CC-BY-4.0
 pdf: "/pdfs/new-skyline.pdf"
 original_source: "Constant Contact campaign"

@@ -8,14 +8,14 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](https://www.youtube.com/watch?v=iBFxybpTkjM&feature=youtu.be)This is pretty darn funny (see article and video).'
+abstract: 'This is pretty darn funny (see article and video).'
 ---
 
 This is pretty darn funny (see [article](http://thehill.com/policy/energy-environment/251923-ozone-rule-to-unleash-epa-police-group-says) and [video](https://www.youtube.com/watch?v=iBFxybpTkjM&feature=youtu.be)).
 
 The video however unfairly blames the Obama Administration.  The “morning lawn-mowing ban” and driving restrictions were also raised during the Bush administration.
 
-The source of the problem is the Clean Air Act itself (see link).
+The source of the problem is the Clean Air Act itself.
 
 > The video I’d like to see is Paul Blart on his Segway . . .  racing through the Hall of the Dirksen Building . . . breaking up a scuffle between McCarthy, McConnell, Reid, Pelosi, and Boehner over the ozone standard . . . and hauling all of them off to the nearest Orange Julius to negotiate a modernized Clean Air Act.
 

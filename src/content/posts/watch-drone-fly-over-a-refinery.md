@@ -5,7 +5,7 @@ date: 2020-07-11
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Identifying Environmental Anomalies using Aerial Video Artificial Intelligence---EnviroAI ‌ [](http://r20.rs6.net/tn.jsp?f=001PegG6dWh5mppOL81BXOjNljqF-4h08jlFxWzqu6uTh-tBGfyL_-QKHicl7HFphbKxFodKBUwIa…"
+abstract: "Identifying Environmental Anomalies using Aerial Video Artificial Intelligence---EnviroAI ‌"
 license: CC-BY-4.0
 pdf: "/pdfs/watch-drone-fly-over-a-refinery.pdf"
 original_source: "Constant Contact campaign"

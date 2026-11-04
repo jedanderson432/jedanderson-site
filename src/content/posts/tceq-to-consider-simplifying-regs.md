@@ -15,4 +15,4 @@ abstract: '(Houston) – April 13, 2017'
 
 Yesterday a Petition for Rulemaking was filed with the Texas Commission on Environmental Quality to simplify environmental regulatory burdens to the State of Texas and its citizens.  EPA and President Trump are pursuing a similar course of action at the Federal level.  “If EPA can do better, we can do better”, said the petitioner Jed Anderson.  The Commission has 60 days to respond.
 
-To read the Petition, click on the following link “Petition for Rulemaking to Reduce Rulemaking“.
+The Petition is titled “Petition for Rulemaking to Reduce Rulemaking.”

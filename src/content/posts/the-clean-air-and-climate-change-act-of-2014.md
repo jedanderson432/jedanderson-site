@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'simplicity', 'policy']
-abstract: '[](https://docs.google.com/a/allawgp.com/document/d/1lz_BGiWQT7C-zBZIQEjDoucaj-YaFUp_koI5y6zAOHk/edit%20)Here is a draft of the ***Clean Air and Climate Change Act of 2014*** (click here).'
+abstract: 'Here is a draft of the ***Clean Air and Climate Change Act of 2014*** (click here).'
 ---
 
 Here is a draft of the ***Clean Air and Climate Change Act of 2014*** (click [here](https://docs.google.com/a/allawgp.com/document/d/1lz_BGiWQT7C-zBZIQEjDoucaj-YaFUp_koI5y6zAOHk/edit "Clean Air and Climate Change Act")).

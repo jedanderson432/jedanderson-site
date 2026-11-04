@@ -5,7 +5,7 @@ date: 2020-10-20
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Another environmental imaging tool at our disposal TRAFFIC & WEATHER CAMERAS for environmental AI object detection [](http://r20.rs6.net/tn.jsp?f=001efj4jfVSuA9ILJpYMSghjMUZW1xnCmOwgvQGT9JyLWB_Td7-pbq…"
+abstract: "Another environmental imaging tool at our disposal TRAFFIC & WEATHER CAMERAS for environmental AI object detection"
 license: CC-BY-4.0
 pdf: "/pdfs/using-traffic-and-weather-cameras.pdf"
 original_source: "Constant Contact campaign"

@@ -5,7 +5,7 @@ date: 2020-08-28
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Environmental Quantum AI Trump's New $1 Billion Investment in AI and Quantum Computing [](http://r20.rs6.net/tn.jsp?f=001W-URAGU11YVWsBWcCWELZ_0tfrwGtJQasqQP7RLigYo6JqqLAab-I6zzOj6vRQLWO2HOTDwki1ZOu0j…"
+abstract: "Environmental Quantum AI Trump's New $1 Billion Investment in AI and Quantum Computing"
 license: CC-BY-4.0
 pdf: "/pdfs/trump-announces-1-billion-investment-in-ai-and-quantum-computing-2.pdf"
 original_source: "Constant Contact campaign"

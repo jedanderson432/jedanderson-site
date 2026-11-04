@@ -5,7 +5,7 @@ date: 2021-05-12
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "\"Quickly Compare Environmental Data & Agency Interpretations\" [](http://r20.rs6.net/tn.jsp?f=001JbcauNSjXuHx_yquqdZ-zgFEJdX9MiqWqUV-oMy3joi_l6kvBg_ad4x1DXMr76tmd2D4AVBIN7Iustn-re9WvXlPF-pZ7R3SsojPeuTl…"
+abstract: "\"Quickly Compare Environmental Data & Agency Interpretations\""
 license: CC-BY-4.0
 pdf: "/pdfs/louisiana-vs-texas.pdf"
 original_source: "Constant Contact campaign"

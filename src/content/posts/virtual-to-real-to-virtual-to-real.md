@@ -5,7 +5,7 @@ date: 2021-11-03
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "EnviroAI's ability to jump between real and virtual worlds WATCH US JUMP BETWEEN REALITY AND UNREALITY (VIRTUAL) AND BACK TO REALITY [](https://r20.rs6.net/tn.jsp?f=001Xavr-eFoj0lbRuFaeed_RqqIvDrdKbis…"
+abstract: "EnviroAI's ability to jump between real and virtual worlds WATCH US JUMP BETWEEN REALITY AND UNREALITY (VIRTUAL) AND BACK TO REALITY"
 license: CC-BY-4.0
 pdf: "/pdfs/virtual-to-real-to-virtual-to-real.pdf"
 original_source: "Constant Contact campaign"

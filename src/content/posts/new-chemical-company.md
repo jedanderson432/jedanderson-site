@@ -5,7 +5,7 @@ date: 2021-01-02
 type: post
 status: published
 tags: ["faith", "constant-contact-archive"]
-abstract: "Chemai-----\"the 1st data-driven chemical company\" [](http://r20.rs6.net/tn.jsp?f=001Uk7RBAehDVUcvEZNUAFQwOGi2qcqNGqhbjB6qpIDGLy4x7S_kn3IObuU6uAOr7Q_RUn_01AVjtqDcaj36ZEdVDT56XeC6wPl-H2XSAIH0PuDyfiV0F-s…"
+abstract: "Chemai-----\"the 1st data-driven chemical company\""
 license: CC-BY-4.0
 pdf: "/pdfs/new-chemical-company.pdf"
 original_source: "Constant Contact campaign"

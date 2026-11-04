@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '**[](http://jdsupra-videos.s3.amazonaws.com/864f45cc-7f53-4f26-90b8-5f5a67a70aa8.mp4)**'
+abstract: '****'
 ---
 
 ****

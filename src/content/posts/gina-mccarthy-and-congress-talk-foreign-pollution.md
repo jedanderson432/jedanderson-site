@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](https://www.youtube.com/watch?v=STXIM4OJr80)Interesting discussion in the House Energy & Commerce Committee last week between Gina McCarthy and Congressman Pete Olson about foreign pollution impacts on the U.S. (click here for video segment).'
+abstract: 'Interesting discussion in the House Energy & Commerce Committee last week between Gina McCarthy and Congressman Pete Olson about foreign pollution impacts on the U.S. (click here for video segment).'
 ---
 
 Interesting discussion in the House Energy & Commerce Committee last week between Gina McCarthy and Congressman Pete Olson about foreign pollution impacts on the U.S. (click [here](https://www.youtube.com/watch?v=STXIM4OJr80&feature=youtu.be) for video segment).

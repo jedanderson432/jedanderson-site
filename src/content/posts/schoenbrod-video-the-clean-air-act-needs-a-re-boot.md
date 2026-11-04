@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](https://www.youtube.com/watch?v=h28rkihZRC0)A couple quotes from this great video that Professor David Schoenbrod recently put together:'
+abstract: 'A couple quotes from this great video that Professor David Schoenbrod recently put together:'
 ---
 
 A couple quotes from this great video that Professor David Schoenbrod recently put together:

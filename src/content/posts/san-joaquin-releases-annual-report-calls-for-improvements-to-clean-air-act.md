@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform', 'policy']
-abstract: '[](http://www.valleyair.org/2012-13AnnualReport.pdf "Valley Air Report Calls for Clean Air Act Reform")Bravo! Bravo! Bravo! (see Annual Report). Here are a few highlights from the annual report.'
+abstract: 'Bravo! Bravo! Bravo! (see Annual Report). Here are a few highlights from the annual report.'
 ---
 
 Bravo!  Bravo!  Bravo! (see [Annual Report](http://www.valleyair.org/2012-13AnnualReport.pdf)).  Here are a few highlights from the annual report.

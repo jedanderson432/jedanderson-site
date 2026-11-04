@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '**[](http://www.valleyair.org/Board_meetings/GB/agenda_minutes/Agenda/2013/November/presentation/Ozone-Achievement.pdf "Foreign Pollution and California")Slide from Valley’s recent decision to request re-designation and drop 185 fees.'
+abstract: '**Slide from Valley’s recent decision to request re-designation and drop 185 fees.'
 ---
 
 **Slide from Valley’s recent decision to request re-designation and drop 185 fees.  Mind-blowing that over 22% of peak ozone is coming from Asia.**

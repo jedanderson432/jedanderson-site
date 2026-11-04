@@ -8,7 +8,7 @@ type: post
 status: draft
 license: CC-BY-4.0
 tags: ['clean-air-act', 'regulatory-reform']
-abstract: '[](https://www.youtube.com/watch?v=ws8vIqkMh44)Anyone see Derek Redmond run in the 1992 Olympics? (click on Youtube video)'
+abstract: 'Anyone see Derek Redmond run in the 1992 Olympics? (click on Youtube video)'
 ---
 
 Anyone see Derek Redmond run in the 1992 Olympics? (click on [Youtube video](https://www.youtube.com/watch?v=ws8vIqkMh44))
